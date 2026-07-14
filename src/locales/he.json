@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "תכונות",
+    "templates": "תבניות",
+    "pricing": "תמחור",
+    "login": "כְּנִיסָה לַמַעֲרֶכֶת",
+    "getStarted": "התחל",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "בונה הפורטפוליו האולטימטיבי למפתחים",
+    "title1": "בנה את איש המקצוע שלך",
+    "title2": "תיק ב",
+    "titleHighlight": "שניות.",
+    "subtitle": "כל מה שאתה צריך כדי להציג את הכישורים, הפרויקטים והניסיון שלך. ",
+    "startBuilding": "התחל לבנות עכשיו",
+    "viewTemplates": "הצג תבניות",
+    "fastDeployment": "פריסה מהירה",
+    "liveStatus": "username.dev פעיל!",
+    "featuresTitle": "תכונות עוצמתיות",
+    "featuresSubtitle": "אנו מספקים את כל הכלים הדרושים לך כדי לבלוט מהקהל ולזכות במשרת החלומות שלך.",
+    "feature1Title": "גרור ושחרר בונה",
+    "feature1Desc": "ארגן בקלות את המדורים, הפרויקטים והכישורים שלך עם העורך הוויזואלי האינטואיטיבי שלנו.",
+    "feature2Title": "ערכות נושא מותאמות אישית",
+    "feature2Desc": "בחר מתוך תבניות בעיצוב מקצועי או צור מראה ייחודי משלך.",
+    "feature3Title": "אנליטיקה בזמן אמת",
+    "feature3Desc": "עקוב אחר המבקרים שלך, ראה אילו פרויקטים מקבלים את מירב תשומת הלב ועוד."
+  },
+  "auth": {
+    "welcomeBack": "ברוך הבא חזרה",
+    "loginToContinue": "היכנס לחשבון שלך כדי להמשיך",
+    "createAccount": "צור חשבון",
+    "joinCommunity": "הצטרף לאלפי מפתחים אחרים",
+    "fullName": "שם מלא",
+    "fullNamePlaceholder": "לְמָשָׁל ",
+    "email": "כתובת אימייל",
+    "emailPlaceholder": "you@example.com",
+    "password": "סִיסמָה",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "תזכור אותי",
+    "forgotPassword": "שכחת סיסמא?",
+    "signIn": "היכנס",
+    "signingIn": "נכנס...",
+    "signUp": "הירשם",
+    "signingUp": "נרשם...",
+    "noAccount": "אין לך חשבון?",
+    "hasAccount": "יש לך כבר חשבון?",
+    "passwordRules": {
+      "title": "הסיסמה חייבת להכיל:",
+      "length": "לפחות 8 תווים",
+      "uppercase": "אות אחת גדולה (A-Z)",
+      "number": "מספר אחד (0-9)",
+      "symbol": "סמל אחד (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "בונה תיקים",
+      "templates": "תבניות וערכות נושא",
+      "settings": "הגדרות",
+      "collapse": "כיווץ סרגל צד",
+      "overview": "סקירה כללית",
+      "profileSettings": "הגדרות פרופיל",
+      "customDomain": "דומיין מותאם אישית",
+      "feedback": "מָשׁוֹב"
+    },
+    "header": {
+      "viewLive": "צפה בשידור חי",
+      "welcome": "קַבָּלַת פָּנִים,",
+      "logout": "התנתק",
+      "builder": "בּוֹנֶה",
+      "livePortfolio": "פורטפוליו חי",
+      "live": "לִחיוֹת"
+    },
+    "logoutModal": {
+      "title": "התנתק",
+      "message": "האם אתה בטוח שברצונך להתנתק מהחשבון שלך? ",
+      "cancel": "לְבַטֵל",
+      "confirm": "כן, התנתק"
+    },
+    "slugModal": {
+      "title": "בחר את כתובת האתר של התיק שלך",
+      "message": "כתובת האתר הזו תהיה הקישור הייחודי לתיק העבודות שלך. ",
+      "slugPlaceholder": "השם שלך",
+      "availability": "זְמִינוּת:",
+      "available": "זָמִין",
+      "unavailable": "לא זמין",
+      "checking": "בודק...",
+      "mustFormat": "יכול להכיל רק אותיות, מספרים ומקפים (-)",
+      "cancel": "לְבַטֵל",
+      "save": "שמור כתובת אתר",
+      "usernameUrl": "כתובת אתר של שם משתמש",
+      "helpText": "אותיות קטנות, מספרים ומקפים. ",
+      "validation": {
+        "empty": "הקליע לא יכול להיות ריק.",
+        "min3": "מינימום 3 תווים.",
+        "max30": "מקסימום 30 תווים.",
+        "format": "רק אותיות קטנות, מספרים ומקפים (-). "
+      }
+    },
+    "loadingPortfolio": "טוען נתוני תיק...",
+    "overview": {
+      "greetings": {
+        "morning": "בוקר טוב",
+        "afternoon": "צהריים טובים",
+        "evening": "צהריים טובים",
+        "night": "לילה טוב"
+      },
+      "welcome": {
+        "hi": "היי,",
+        "creator": "יוצר",
+        "desc1": "ברוכים הבאים ללוח המחוונים של DevFolio. תיק העבודות שלך נצפה על ידי",
+        "desc2": "אָדָם. תמשיך לעבוד!",
+        "editPortfolio": "ערוך תיק"
+      },
+      "stats": {
+        "totalVisitors": "סך כל המבקרים",
+        "projectViews": "נצפה (פרויקט)",
+        "activeSessions": "הפעלה פעילה",
+        "totalLabel": "סך הכל"
+      },
+      "setup": {
+        "title": "התקדמות ההגדרה",
+        "completed": "תיק העבודות שלך הושלם! 🎉",
+        "inProgress": "שלבים לתיק העבודות המושלם.",
+        "profile": {
+          "title": "פרופיל מלא",
+          "desc": "הוסף שם, ביוגרפיה ותמונת פרופיל."
+        },
+        "section": {
+          "title": "הוסף קטעים",
+          "desc": "הפעל לפחות קטע אחד בתיק."
+        },
+        "project": {
+          "title": "הוסף פרויקט",
+          "desc": "הזן לפחות אחד מהפרויקטים הטובים ביותר שלך."
+        },
+        "publish": {
+          "title": "פרסם תיק עבודות",
+          "desc": "הגדר כתובת אתר מותאמת אישית כך שהציבור יוכל לגשת אליה."
+        }
+      },
+      "topProjects": {
+        "title": "הפרויקטים הפופולריים ביותר",
+        "desc": "ביצוע העבודה שלך בעיני המבקרים.",
+        "viewAll": "ראה הכל",
+        "empty": "אין עדיין נתוני תצוגה עבור הפרויקט שלך."
+      }
+    },
+    "themes": {
+      "title": "תבניות וערכות נושא",
+      "subtitle": "התאם אישית את המראה והתחושה של תיק העבודות הציבורי שלך.",
+      "reset": "אפס ברירת מחדל",
+      "save": "שמור שינויים",
+      "saving": "שומר...",
+      "chooseTemplate": "בחר תבנית",
+      "primaryColor": "צבע ראשי",
+      "typography": "טיפוגרפיה",
+      "appearance": "מראה",
+      "corners": "פינות וגבולות",
+      "successTitle": "הצלחה",
+      "successMessage": "העדפות העיצוב עודכנו בהצלחה",
+      "errorTitle": "שגיאה",
+      "errorMessage": "שמירת העדפות העיצוב נכשלה",
+      "templates": {
+        "minimalist": {
+          "name": "מינימליסטי",
+          "desc": "עיצוב נקי ופשוט תוך התמקדות בתוכן."
+        },
+        "developerDark": {
+          "name": "מפתח Dark",
+          "desc": "ערכת נושא כהה מושלמת להצגת קוד וערימות טכנולוגיה."
+        },
+        "creative": {
+          "name": "קריאייטיב",
+          "desc": "פריסה תוססת וצבעונית עבור מעצבים ויצירתיים."
+        },
+        "executive": {
+          "name": "הנהלה",
+          "desc": "פריסה מקצועית ורשמית לאנשי עסקים."
+        },
+        "bentoGrid": {
+          "name": "בנטו גריד",
+          "desc": "פריסת רשת מודרנית בסגנון אפל המדגישה מיומנויות שונות ביעילות."
+        },
+        "neoBrutalism": {
+          "name": "ניאו-ברוטליזם",
+          "desc": "גבולות נועזים וצבעים ניגודיים גבוהים למראה אופנתי ולא מתנצל."
+        },
+        "glassmorphism": {
+          "name": "גלאסמורפיזם",
+          "desc": "אפקטי זכוכית חלבית על פני שיפועים צבעוניים עבור ממשק משתמש מודרני אלגנטי."
+        },
+        "linkInBio": {
+          "name": "קישור בביו",
+          "desc": "פריסה אנכית קומפקטית מותאמת למסכים ניידים ומדיה חברתית."
+        }
+      },
+      "appearances": {
+        "light": "אור",
+        "dark": "כהה",
+        "system": "מערכת"
+      },
+      "cornersOptions": {
+        "sharp": "חד",
+        "rounded": "מעוגל",
+        "pill": "כַּדוּר"
+      }
+    },
+    "feedback": {
+      "title": "שלח משוב",
+      "subtitle": "עזור לנו לשפר את זה על ידי מתן הצעות, ביקורת או דיווח על באגים ביישום זה.",
+      "categoryLabel": "קטגוריית משוב",
+      "messageLabel": "פרטי הודעה",
+      "messagePlaceholder": "ספר לי בפירוט על המשוב שאתה רוצה להעביר...",
+      "imageLabel": "מצורף תמונה (אופציונלי)",
+      "imagePlaceholder": "לחץ כדי להעלות תמונה או צילום מסך",
+      "submitting": "שולח...",
+      "submitBtn": "שלח משוב",
+      "categories": {
+        "suggestion": "הצעות ורעיונות",
+        "bug": "דוח באג / שגיאה",
+        "criticism": "ביקורת",
+        "other": "אחרים"
+      },
+      "imageErrorTitle": "שגיאה",
+      "imageErrorMessage": "חלק מהקבצים נדחים מכיוון שהם אינם נתמכים בפורמטים של תמונה (JPG, PNG, GIF, WEBP)",
+      "successTitle": "הצלחה",
+      "successMessage": "תודה על תגובתך! הדוח נשלח.",
+      "submitErrorTitle": "נכשל",
+      "submitErrorMessage": "אירעה שגיאה בעת שליחת משוב. אנא נסה שוב."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "עליי",
+      "skills": "מיומנויות",
+      "projects": "פרויקטים",
+      "workExperience": "ניסיון בעבודה",
+      "orgExperience": "ניסיון ארגוני",
+      "education": "הַשׂכָּלָה",
+      "certifications": "הדרכה והסמכות",
+      "contact": "צור איתי קשר"
+    },
+    "editor": {
+      "profileInfo": "מידע על פרופיל",
+      "saving": "חִסָכוֹן...",
+      "profilePhoto": "תמונת פרופיל",
+      "clickToUpload": "לחץ להעלאה (JPG, PNG)",
+      "fullName": "שם מלא",
+      "fullNamePlaceholder": "לְמָשָׁל ",
+      "bio": "ביו",
+      "bioPlaceholder": "מפתח Fullstack עם תשוקה לבניית אפליקציות אינטרנט מודרניות...",
+      "location": "מִקוּם",
+      "locationPlaceholder": "לְמָשָׁל ",
+      "gender": "מִין",
+      "selectGender": "בחר מגדר",
+      "male": "זָכָר",
+      "female": "נְקֵבָה",
+      "custom": "מִנְהָג",
+      "customPlaceholder": "הקלד את המגדר המותאם אישית שלך...",
+      "uploadCv": "העלה קורות חיים",
+      "cvFormat": "(DOC או PDF)",
+      "preview": "תצוגה מקדימה",
+      "remove": "לְהַסִיר",
+      "clickToUploadCv": "לחץ כדי להעלות PDF או DOC",
+      "sections": "קטעים",
+      "removeSelected": "הסר את נבחרות",
+      "confirmRemove": "אשר הסרה",
+      "addSection": "הוסף סעיף",
+      "addAllSections": "הוסף את כל הסעיפים",
+      "noSections": "עדיין אין קטעים",
+      "clickToAdd": "לחץ על \"+ הוסף מדור\" כדי להתחיל",
+      "selectAll": "בחר הכל",
+      "selected": "נִבחָר",
+      "dragToReorder": "גרור כדי לסדר מחדש את המקטעים",
+      "livePreview": "תצוגה מקדימה חיה",
+      "addSectionsToBuild": "הוסף קטעים לבניית תיק העבודות שלך",
+      "now": "עַכשָׁיו",
+      "current": "נוֹכְחִי",
+      "noExpiry": "אין תפוגה",
+      "see": "לִרְאוֹת",
+      "position": "מַצָב",
+      "degree": "תוֹאַר",
+      "certification": "הסמכה",
+      "sectionsForm": {
+        "about": {
+          "label": "תיאור של עצמך",
+          "placeholder": "ספר לנו על עצמך, הרקע שלך, תחומי העניין והכישורים שלך..."
+        },
+        "skills": {
+          "addPlaceholder": "הקלד מיומנות ואז הקש Enter..."
+        },
+        "projects": {
+          "title": "שם הפרויקט",
+          "titlePlaceholder": "שם הפרויקט...",
+          "url": "כתובת האתר של הפרויקט",
+          "description": "תֵאוּר",
+          "descriptionPlaceholder": "תיאור קצר של הפרויקט...",
+          "uploadThumbnail": "תמונת פרויקט",
+          "addProject": "הוסף פרויקט",
+          "projectNum": "פרויקט מס'",
+          "currentProject": "זה פרויקט שאני עובד עליו"
+        },
+        "work": {
+          "company": "חברה/סוכנות",
+          "companyPlaceholder": "שם חברה...",
+          "position": "תפקיד/תואר",
+          "positionPlaceholder": "העמדה שלך...",
+          "employmentType": "סוג העבודה",
+          "location": "מִקוּם",
+          "locationPlaceholder": "עיר, מדינה...",
+          "startDate": "הַתחָלָה",
+          "endDate": "גָמוּר",
+          "currentWork": "אני עדיין עובד כרגע",
+          "description": "תֵאוּר",
+          "descriptionPlaceholder": "תיאור התפקיד ואחריות...",
+          "skills": "מְיוּמָנוּת",
+          "addExperience": "הוסף ניסיון בעבודה",
+          "experienceNum": "ניסיון #",
+          "dateError": "תאריך הסיום אינו יכול להיות מוקדם מתאריך ההתחלה"
+        },
+        "org": {
+          "organization": "שם הארגון",
+          "orgPlaceholder": "אוניברסיטת BEM...",
+          "role": "תפקיד/תפקיד",
+          "rolePlaceholder": "ראש אגף...",
+          "addOrg": "הוסף ניסיון ארגוני",
+          "orgNum": "ארגון מס'"
+        },
+        "edu": {
+          "institution": "מוסדות חינוך",
+          "institutionPlaceholder": "שם הקמפוס או בית הספר...",
+          "degree": "כּוֹתֶרֶת",
+          "degreePlaceholder": "S1, תיכון וכו'...",
+          "major": "חוג/תחום לימוד",
+          "majorPlaceholder": "הנדסת מידע...",
+          "gpa": "GPA (אופציונלי)",
+          "currentStudy": "אני עדיין לומד כאן",
+          "descriptionPlaceholder": "פעילויות והישגים במהלך הלימודים...",
+          "addEdu": "הוסף חינוך",
+          "eduNum": "חינוך #"
+        },
+        "cert": {
+          "name": "שם הסמכה / הכשרה",
+          "namePlaceholder": "שם הסמכה...",
+          "issuer": "מוֹצִיא לָאוֹר",
+          "issuerPlaceholder": "מוסד הוצאה לאור...",
+          "issueDate": "התחלה (תאריך פרסום)",
+          "issueDatePlaceholder": "בחר תאריך פרסום...",
+          "expiryDate": "הושלם (תקופה בתוקף)",
+          "expiryDatePlaceholder": "בחר תאריך תפוגה...",
+          "noExpiry": "לאישור זה אין תאריך תפוגה",
+          "url": "כתובת אתר של אישור",
+          "uploadThumbnail": "תמונה של תעודה / הדרכה",
+          "uploadThumbnailLimit": "העלה תמונת אישור (JPG/PNG/WEBP, עד 2MB)",
+          "addCert": "הוסף הסמכה",
+          "certNum": "מספר הסמכה"
+        },
+        "contact": {
+          "contactNum": "איש קשר #",
+          "platform": "פּלַטפוֹרמָה",
+          "displayText": "הצג טקסט",
+          "displayTextPlaceholder": "למשל, you@email.com או @username",
+          "url": "קישור (כתובת אתר)",
+          "urlPlaceholderWhatsapp": "למשל, 62812... (ללא 0 מוביל)",
+          "urlPlaceholderEmail": "למשל, you@email.com",
+          "urlPlaceholderWebsite": "למשל, https://...",
+          "urlPlaceholderDefault": "למשל, שם משתמש",
+          "addContact": "הוסף איש קשר"
+        },
+        "common": {
+          "months": {
+            "1": "יָנוּאָר",
+            "2": "פֶבּרוּאָר",
+            "3": "מַרס",
+            "4": "אַפּרִיל",
+            "5": "מַאִי",
+            "6": "יוּנִי",
+            "7": "יוּלִי",
+            "8": "אוֹגוּסט",
+            "9": "סֶפּטֶמבֶּר",
+            "10": "אוֹקְטוֹבֶּר",
+            "11": "נוֹבֶמבֶּר",
+            "12": "דֵצֶמבֶּר"
+          },
+          "month": "חוֹדֶשׁ",
+          "year": "שָׁנָה",
+          "invalidDate": "חודש סיום לא חוקי",
+          "words": "מילים"
+        }
+      },
+      "sure": "בַּטוּחַ",
+      "deletePhotoTitle": "למחוק תמונת פרופיל?",
+      "deletePhotoMessage": "האם אתה בטוח שברצונך למחוק את תמונת הפרופיל הזו?",
+      "cancel": "לְבַטֵל",
+      "delete": "לִמְחוֹק"
+    },
+    "cropper": {
+      "chooseBackground": "בחר רקע",
+      "cropPhoto": "חתוך את התמונה שלך",
+      "useOriginal": "השתמש במקור",
+      "backgroundPresets": "הגדרות קבועות מראש של רקע",
+      "none": "אַף לֹא אֶחָד",
+      "uploadBackground": "העלאת רקע",
+      "cancel": "לְבַטֵל",
+      "savePhoto": "שמור תמונה",
+      "zoom": "זום",
+      "rotationTilt": "סיבוב והטיה",
+      "resetRotation": "אפס ל-0°",
+      "center": "מֶרְכָּז",
+      "rotateLeft": "סובב -90 מעלות",
+      "rotateRight": "סובב +90°",
+      "removeBackground": "הסר רקע",
+      "processing": "מעבד את התמונה שלך, אנא המתן..."
+    },
+    "cvPreview": {
+      "title": "תצוגה מקדימה של קורות חיים",
+      "downloadCv": "הורד קורות חיים",
+      "download": "הורד",
+      "wordCannotPreview": "לא ניתן להציג מסמכי Word (.doc/.docx) באופן מקורי בדפדפן. ",
+      "downloadFile": "הורד קובץ קורות חיים",
+      "back": "בְּחֲזָרָה",
+      "mobileMessage": "אנא הורד את קובץ קורות החיים כדי לצפות בו.",
+      "preview": "תצוגה מקדימה של קורות חיים",
+      "wordPreviewTitle": "תצוגה מקדימה של מסמך Word",
+      "wordPreviewMessage": "לא ניתן להציג מסמכי Word (.doc/.docx) באופן מקורי בדפדפן. אנא הורד את הקובץ כדי לצפות בו."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "כתוב תיאור קצר על עצמך, תחומי עניין ומטרות קריירה..."
+    },
+    "skills": {
+      "placeholder": "הקלד שם מיומנות...",
+      "add": "לְהוֹסִיף",
+      "enterToAdd": "הקש Enter כדי להוסיף",
+      "noSkills": "עדיין לא נוספו כישורים."
+    },
+    "projects": {
+      "projectName": "שם הפרויקט",
+      "projectNamePlaceholder": "לְמָשָׁל ",
+      "projectUrl": "כתובת האתר של הפרויקט",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "מֶשֶׁך",
+      "startMonth": "חודש התחלה",
+      "startYear": "שנת התחלה",
+      "endMonth": "סוף חודש",
+      "endYear": "סוף שנה",
+      "currentlyWorking": "כרגע עובד על זה",
+      "description": "תֵאוּר",
+      "descriptionPlaceholder": "תאר את הפרויקט, תפקידך והישגיך...",
+      "technologies": "טכנולוגיות בשימוש",
+      "addProject": "הוסף פרויקט",
+      "image": "תמונת פרויקט",
+      "removeImage": "הסר תמונה",
+      "uploadImage": "לחץ להעלאת תמונה"
+    },
+    "work": {
+      "company": "חברה/מוסד",
+      "companyPlaceholder": "שם חברה...",
+      "role": "תפקיד/תפקיד",
+      "rolePlaceholder": "העמדה שלך...",
+      "jobType": "סוג עבודה",
+      "selectJobType": "בחר סוג",
+      "fullTime": "משרה מלאה",
+      "partTime": "משרה חלקית",
+      "contract": "חוֹזֶה",
+      "internship": "תְקוּפַת הִתמַחוּת",
+      "freelance": "עצמאי",
+      "location": "מִקוּם",
+      "locationPlaceholder": "לְמָשָׁל ",
+      "duration": "מֶשֶׁך",
+      "currentlyWorking": "כרגע עובד כאן",
+      "description": "תיאור התפקיד",
+      "descriptionPlaceholder": "תאר את תחומי האחריות וההישגים העיקריים שלך...",
+      "skills": "מיומנויות ספציפיות",
+      "addExperience": "הוסף ניסיון"
+    },
+    "org": {
+      "organization": "שם הארגון",
+      "organizationPlaceholder": "שם הארגון...",
+      "role": "תפקיד/תפקיד",
+      "rolePlaceholder": "לְמָשָׁל ",
+      "duration": "מֶשֶׁך",
+      "periodFormat": "או פורמט חופשי (למשל 2020 - 2022)",
+      "periodPlaceholder": "לְמָשָׁל ",
+      "currentlyActive": "פעיל כרגע",
+      "description": "תיאור פעילות",
+      "descriptionPlaceholder": "תאר את הפעילויות או התרומות שלך...",
+      "addExperience": "הוסף ניסיון"
+    },
+    "education": {
+      "institution": "שם המוסד",
+      "institutionPlaceholder": "שם בית ספר או אוניברסיטה...",
+      "degree": "תואר/רמה",
+      "degreePlaceholder": "לְמָשָׁל ",
+      "major": "מגמה/תחום לימוד",
+      "majorPlaceholder": "לְמָשָׁל ",
+      "gpa": "ממוצע ציונים / ציון",
+      "gpaPlaceholder": "לְמָשָׁל ",
+      "duration": "משך השכלה",
+      "periodFormat": "או פורמט חופשי (למשל 2018 - 2022)",
+      "periodPlaceholder": "לְמָשָׁל ",
+      "currentlyStudying": "כרגע לומד כאן",
+      "description": "פעילויות / הצטיינות",
+      "descriptionPlaceholder": "תאר פעילויות אקדמיות, ארגונים או כיבודים שקיבלו...",
+      "addEducation": "הוסף חינוך"
+    },
+    "cert": {
+      "name": "שם הסמכה",
+      "namePlaceholder": "לְמָשָׁל ",
+      "issuer": "ארגון מנפיק",
+      "issuerPlaceholder": "לְמָשָׁל ",
+      "issueDate": "תאריך הנפקה",
+      "expiryDate": "תקף עד",
+      "noExpiry": "אישור זה אינו יפוג",
+      "yearPlaceholder": "או שנה (למשל 2023)",
+      "credentialUrl": "כתובת אתר של אישור",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "מיומנויות קשורות",
+      "addCertification": "הוסף הסמכה",
+      "image": "תמונה/לוגו",
+      "removeImage": "הסר תמונה",
+      "uploadImage": "לחץ להעלאת תמונה"
+    },
+    "common": {
+      "months": {
+        "1": "יָנוּאָר",
+        "2": "פֶבּרוּאָר",
+        "3": "מַרס",
+        "4": "אַפּרִיל",
+        "5": "מַאִי",
+        "6": "יוּנִי",
+        "7": "יוּלִי",
+        "8": "אוֹגוּסט",
+        "9": "סֶפּטֶמבֶּר",
+        "10": "אוֹקְטוֹבֶּר",
+        "11": "נוֹבֶמבֶּר",
+        "12": "דֵצֶמבֶּר"
+      },
+      "month": "חוֹדֶשׁ",
+      "year": "שָׁנָה",
+      "invalidDate": "חודש סיום לא חוקי",
+      "words": "מילים"
+    }
+  },
+  "settings": {
+    "title": "הגדרות",
+    "subtitle": "נהל את פרופיל התיק והעדפותיך",
+    "tabs": {
+      "profile": "הפרופיל שלי",
+      "security": "בִּטָחוֹן",
+      "personalization": "התאמה אישית"
+    },
+    "profile": {
+      "infoTitle": "מידע בסיסי",
+      "photo": "תמונת פרופיל",
+      "uploadPhoto": "שנה תמונה",
+      "fullName": "שם מלא",
+      "fullNamePlaceholder": "פְּלוֹנִי אַלמוֹנִי",
+      "email": "כתובת אימייל",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "האימייל משמש לכניסה ואינו מוצג בפומבי.",
+      "portfolioUrl": "כתובת אתר של תיק",
+      "saveProfile": "שמור פרופיל",
+      "save": "שמור פרופיל",
+      "accountCreated": "חשבון נוצר",
+      "lastLogin": "כניסה אחרונה",
+      "oauthNotice": "פרופיל זה מחובר לחשבון {{ספק}} שלך. יש לבצע שינויים בפרופיל דרך ספק השירות."
+    },
+    "security": {
+      "changePassword": "שנה סיסמה",
+      "currentPassword": "סיסמה נוכחית",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "סיסמה חדשה",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "אשר סיסמה חדשה",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "לפחות 8 תווים",
+        "uppercase": "אות אחת גדולה (A-Z)",
+        "number": "מספר אחד (0-9)",
+        "symbol": "סמל אחד (!@#$%^&*)"
+      },
+      "passwordTitle": "סִיסמָה",
+      "updatePassword": "עדכן סיסמה",
+      "additionalSecurity": "אבטחה נוספת",
+      "twoFactor": "אימות דו-גורמי (2FA)",
+      "twoFactorDesc": "אבטח את חשבונך באמצעות קוד OTP נוסף.",
+      "activeSessions": "הפעלות פעילות",
+      "activeSessionsDesc": "אפשר תמיד ניטור של מכשירים מחוברים.",
+      "publicVisibility": "נראות ציבורית",
+      "hideFromSearch": "הסתר פורטפוליו ממנועי חיפוש",
+      "hideFromSearchDesc": "מנע מגוגל להוסיף לאינדקס את דף התיק הציבורי שלך.",
+      "disable2fa": {
+        "title": "השבת את 2FA",
+        "description": "האם אתה בטוח שברצונך לבטל את האימות הדו-שלבי?",
+        "confirmPasswordLabel": "הזן את הסיסמה שלך כדי לאשר",
+        "currentPasswordPlaceholder": "סיסמה נוכחית",
+        "cancelButton": "בטל",
+        "confirmButton": "השבת את 2FA",
+        "incorrectPassword": "סיסמה שגויה."
+      },
+      "setup2fa": {
+        "step1Title": "1. סרוק קוד QR",
+        "step1Desc": "פתח את אפליקציית המאמת שלך וסרוק את קוד ה-QR הבא:",
+        "unableToScan": "לא מצליחים לסרוק? השתמש במפתח הגדרות",
+        "step2Title": "2. אמת את הקוד",
+        "step2Desc": "הזן את הקוד בן 6 הספרות שנוצר על ידי האפליקציה שלך:",
+        "cancelButton": "לְבַטֵל",
+        "enableButton": "אפשר 2FA",
+        "invalidLength": "נא להזין קוד בן 6 ספרות.",
+        "invalidCode": "קוד אימות לא חוקי. אנא נסה שוב."
+      }
+    },
+    "personalization": {
+      "languageTitle": "בקרות שפה",
+      "appLanguage": "שפת האפליקציה",
+      "layoutTitle": "פריסה וטיפוגרפיה",
+      "layoutStyle": "סגנון פריסה",
+      "layoutModern": "סגנון מודרני (ברירת מחדל)",
+      "layoutClassic": "סגנון קלאסי",
+      "layoutMinimalist": "סגנון מינימליסטי",
+      "fontSize": "גודל גופן האפליקציה",
+      "fontSmall": "קָטָן",
+      "fontNormal": "רגיל (בינוני)",
+      "fontLarge": "גָדוֹל",
+      "searchLanguage": "שפת חיפוש...",
+      "languageNotFound": "השפה לא נמצאה",
+      "layoutElegant": "סגנון אלגנטי"
+    },
+    "saveChanges": "שמור שינויים",
+    "cancel": "לְבַטֵל",
+    "appSettings": "הגדרות אפליקציה",
+    "logoutConfirmTitle": "אשר התנתק",
+    "logoutConfirmDesc": "האם אתה בטוח שברצונך להתנתק מהמערכת?",
+    "logoutConfirmYes": "כן, התנתק",
+    "generalError": "אירעה שגיאה. ",
+    "success": "הַצלָחָה",
+    "preferencesSaved": "העדפות האפליקציה נשמרו בהצלחה.",
+    "header": "הגדרות אפליקציה",
+    "logout": {
+      "title": "אישור התנתקות",
+      "message": "האם אתה בטוח שברצונך להתנתק מהמערכת?",
+      "confirm": "כן, התנתק"
+    },
+    "about": {
+      "title": "על יישום",
+      "subtitle": "פלטפורמת בונה תיקים",
+      "version": "גִרְסָה",
+      "description": "DevFolio היא פלטפורמה מודרנית לבניית תיקים המיועדת למפתחים, מעצבים ויוצרים מקצועיים. ",
+      "license": "רישיון וזכויות יוצרים",
+      "copyright": "© 2026 DevFolio Inc. כל הזכויות שמורות.",
+      "developer": "מפתח",
+      "developedBy": "פותח על ידי Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "מחק חשבון לצמיתות",
+      "menuItem": "מחק חשבון",
+      "successTitle": "הצלחה",
+      "successMessage": "הודעת אימייל לאישור מחיקת חשבון נשלחה.",
+      "errorTitle": "נכשל",
+      "errorMessage": "שליחת דוא\"ל האישור נכשלה.",
+      "confirmationMessage": "האם אתה בטוח שברצונך למחוק את חשבונך לצמיתות?",
+      "warningMessage1": "תקבל אימייל לאישור מחיקת החשבון.",
+      "warningMessage2": "אם יאושר, כל הנתונים (תיק, פרויקטים, סטטיסטיקות) יימחקו לצמיתות ולא ניתן לשחזר.",
+      "cancel": "בטל",
+      "confirm": "אִשׁוּר"
+    },
+    "toasts": {
+      "toastError": "שְׁגִיאָה",
+      "toastSuccess": "הַצלָחָה",
+      "toastSetup2FAFailed": "הגדרת 2FA נכשלה. אנא נסה שוב.",
+      "toast2FAEnabled": "אימות דו-גורמי הופעל.",
+      "toast2FADisabled": "אימות דו-שלבי הושבת.",
+      "toastSessionEnabled": "ניטור הפעלה פעיל הופעל.",
+      "toastSessionDisabled": "ניטור הפעלה פעיל הושבת.",
+      "toastSetupKeyCopied": "מפתח ההגדרה הועתק ללוח."
+    },
+    "privacy": {
+      "title": "מדיניות פרטיות",
+      "updateDate": "עדכון אחרון: 15 ביולי, 2026",
+      "intro": "מדיניות פרטיות זו מסבירה כיצד DevFolio אוספת, משתמשת ומגינה על המידע האישי שלך בעת השימוש בשירותים שלנו.",
+      "section1Title": "1. מידע שאנו אוספים",
+      "section1Content": "אנו אוספים מידע שאתה מספק ישירות בעת יצירת חשבון, בניית תיק עבודות ויצירת קשר עם התמיכה שלנו. ",
+      "section2Title": "2. שימוש במידע",
+      "section2Content": "המידע שלך משמש כדי לתפעל, לתחזק ולספק את התכונות של השירותים שלנו, כמו גם כדי לתקשר איתך לגבי החשבון או השירותים שלך.",
+      "section3Title": "3. אבטחת מידע",
+      "section3Content": "אנו מיישמים אמצעי אבטחה סבירים כדי להגן על המידע שלך מפני גישה, חשיפה או השמדה בלתי מורשית."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "אסימון אישור לא נמצא.",
+    "defaultError": "מחיקת החשבון נכשלה. ייתכן שהאסימון פג.",
+    "loadingTitle": "מוחק חשבון...",
+    "loadingMessage": "אנא המתן, אנו מעבדים את בקשתך.",
+    "successTitle": "החשבון נמחק בהצלחה",
+    "successMessage": "כל הנתונים שלך נמחקו לצמיתות. אתה תופנה מחדש...",
+    "errorTitle": "מחיקת החשבון נכשלה",
+    "backToHome": "חזור לבית"
+  },
+  "forgotPassword": {
+    "minutes": "דַקָה",
+    "seconds": "שְׁנִיָה",
+    "success": "לְהַצְלִיחַ",
+    "otpSentToEmail": "קוד OTP נשלח למייל שלך.",
+    "failed": "לְהִכָּשֵׁל",
+    "emailNotFound": "אימייל לא נמצא.",
+    "emailThirdParty": "דוא\"ל זה נרשם דרך צד שלישי.",
+    "genericError": "יש שגיאה. אנא נסה שוב.",
+    "otpVerified": "קוד ה-OTP אומת בהצלחה.",
+    "otpExpired": "תוקף קוד ה-OTP פג. בבקשה בקש קוד חדש.",
+    "otpInvalid": "קוד OTP לא חוקי.",
+    "otpResent": "קוד OTP חדש נשלח למייל שלך.",
+    "otpResendFailed": "נכשלה שליחת קוד OTP מחדש. אנא נסה שוב.",
+    "passwordResetSuccess": "הסיסמה אופסה בהצלחה. אנא היכנס עם הסיסמה החדשה שלך.",
+    "passwordResetFailed": "איפוס הסיסמה נכשל.",
+    "backToLogin": "חזור לכניסה",
+    "back": "לַחֲזוֹר",
+    "title": "שכחת את הסיסמה",
+    "description": "הזן את כתובת הדוא\"ל הרשומה בחשבונך. אנו נשלח קוד OTP לאיפוס הסיסמה.",
+    "emailLabel": "כתובת אימייל",
+    "sending": "לִשְׁלוֹחַ...",
+    "sendOtp": "שלח קוד OTP",
+    "verifyOtpTitle": "אמת את קוד ה-OTP",
+    "verifyOtpDesc": "הזן את הקוד בן 6 הספרות שנשלח למייל שלך כדי לאשר את זהותך.",
+    "verifying": "מאמת...",
+    "verifyOtp": "אימות OTP",
+    "resending": "שלח שוב...",
+    "resendOtp": "שלח שוב קוד OTP",
+    "resendCodeIn": "שלח שוב קוד פנימי",
+    "newPasswordTitle": "צור סיסמה חדשה",
+    "newPasswordDesc": "צור סיסמה חדשה וחזקה כדי לאבטח את חשבונך.",
+    "newPasswordLabel": "סיסמה חדשה",
+    "min8Chars": "מינימום 8 תווים",
+    "oneUpperCase": "אות אחת גדולה (A-Z)",
+    "oneNumber": "מספר אחד (0-9)",
+    "oneSymbol": "סמל אחד (!@#$%^&*)",
+    "confirmPasswordLabel": "אשר את הסיסמה",
+    "passwordsDoNotMatch": "הסיסמאות אינן תואמות.",
+    "resettingPassword": "מאפס את הסיסמה...",
+    "resetPassword": "אפס סיסמה"
+  },
+  "verifyEmail": {
+    "resendError": "נכשלה שליחת דוא\"ל אימות מחדש. אנא נסה שוב.",
+    "checkingStatus": "בודק סטטוס אימות...",
+    "title": "בדוק את האימייל שלך",
+    "description": "שלחנו דוא\"ל אימות לכתובת הדוא\"ל שלך. פתח את האימייל ולחץ על הלחצן <1>\"אשר חשבון\"</1> כדי להפעיל את חשבונך.",
+    "stepsTitle": "צעדים",
+    "step1": "פתח את אפליקציית הדוא\"ל שלך (Gmail, Yahoo וכו')",
+    "step2": "חפש אימייל מ-DevFolio עם הנושא \"הפעלת חשבון\"",
+    "step3": "לחץ על כפתור \"אשר חשבון\" בדוא\"ל",
+    "step4": "תופנה לדף הכניסה כדי להיכנס",
+    "resendSuccess": "דוא\"ל האימות נשלח שוב!",
+    "resending": "שליחה מחדש...",
+    "resendButton": "שלח שוב דוא\"ל אימות",
+    "backToLogin": "חזור לדף התחברות",
+    "footerNote": "לא קיבלת את המייל? בדוק את התיקיה <1>ספאם</1> או <2>זבל</2> בדוא\"ל שלך. קישור האימות תקף למשך <3>24 שעות</3>."
+  }
+}

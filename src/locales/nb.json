@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Funksjoner",
+    "templates": "Maler",
+    "pricing": "Prissetting",
+    "login": "Logg inn",
+    "getStarted": "Kom i gang",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Den ultimate porteføljebyggeren for utviklere",
+    "title1": "Bygg din profesjonelle",
+    "title2": "portefølje i",
+    "titleHighlight": "sekunder.",
+    "subtitle": "Alt du trenger for å vise frem dine ferdigheter, prosjekter og erfaring. ",
+    "startBuilding": "Begynn å bygge nå",
+    "viewTemplates": "Se maler",
+    "fastDeployment": "Rask distribusjon",
+    "liveStatus": "brukernavn.dev er live!",
+    "featuresTitle": "Kraftige funksjoner",
+    "featuresSubtitle": "Vi tilbyr alle verktøyene du trenger for å skille deg ut fra mengden og få drømmejobben din.",
+    "feature1Title": "Dra og slipp Builder",
+    "feature1Desc": "Organiser enkelt seksjoner, prosjekter og ferdigheter med vår intuitive visuelle editor.",
+    "feature2Title": "Egendefinerte temaer",
+    "feature2Desc": "Velg mellom profesjonelt utformede maler eller lag ditt eget unike utseende.",
+    "feature3Title": "Sanntidsanalyse",
+    "feature3Desc": "Spor de besøkende, se hvilke prosjekter som får mest oppmerksomhet, og mer."
+  },
+  "auth": {
+    "welcomeBack": "Velkommen tilbake",
+    "loginToContinue": "Logg på kontoen din for å fortsette",
+    "createAccount": "Opprett konto",
+    "joinCommunity": "Bli med tusenvis av andre utviklere",
+    "fullName": "Fullt navn",
+    "fullNamePlaceholder": "f.eks. ",
+    "email": "E-postadresse",
+    "emailPlaceholder": "du@eksempel.com",
+    "password": "Passord",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Husk meg",
+    "forgotPassword": "Glemt passord?",
+    "signIn": "Logg på",
+    "signingIn": "Logger på...",
+    "signUp": "Registrer deg",
+    "signingUp": "Registrerer deg...",
+    "noAccount": "Har du ikke en konto?",
+    "hasAccount": "Har du allerede en konto?",
+    "passwordRules": {
+      "title": "Passordet må inneholde:",
+      "length": "Minst 8 tegn",
+      "uppercase": "Én stor bokstav (A-Z)",
+      "number": "Ett tall (0-9)",
+      "symbol": "Ett symbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Porteføljebygger",
+      "templates": "Maler og temaer",
+      "settings": "Innstillinger",
+      "collapse": "Skjul sidepanelet",
+      "overview": "Oversikt",
+      "profileSettings": "Profilinnstillinger",
+      "customDomain": "Egendefinert domene",
+      "feedback": "Tilbakemelding"
+    },
+    "header": {
+      "viewLive": "Se live",
+      "welcome": "Velkomst,",
+      "logout": "Logg ut",
+      "builder": "Bygger",
+      "livePortfolio": "Live portefølje",
+      "live": "Bo"
+    },
+    "logoutModal": {
+      "title": "Logg ut",
+      "message": "Er du sikker på at du vil logge ut av kontoen din? ",
+      "cancel": "Kansellere",
+      "confirm": "Ja, Logg ut"
+    },
+    "slugModal": {
+      "title": "Velg porteføljens URL",
+      "message": "Denne URL-en vil være den unike lenken til porteføljen din. ",
+      "slugPlaceholder": "ditt navn",
+      "availability": "Tilgjengelighet:",
+      "available": "Tilgjengelig",
+      "unavailable": "Utilgjengelig",
+      "checking": "Checking...",
+      "mustFormat": "Kan bare inneholde bokstaver, tall og bindestreker (-)",
+      "cancel": "Kansellere",
+      "save": "Save URL",
+      "usernameUrl": "Brukernavn URL",
+      "helpText": "Små bokstaver, tall og bindestreker. ",
+      "validation": {
+        "empty": "Slug kan ikke være tom.",
+        "min3": "Minimum 3 tegn.",
+        "max30": "Maks 30 tegn.",
+        "format": "Bare små bokstaver, tall og bindestreker (-). "
+      }
+    },
+    "loadingPortfolio": "Laster porteføljedata ...",
+    "overview": {
+      "greetings": {
+        "morning": "God morgen",
+        "afternoon": "God ettermiddag",
+        "evening": "God ettermiddag",
+        "night": "God natt"
+      },
+      "welcome": {
+        "hi": "hei!",
+        "creator": "Skaperen",
+        "desc1": "Velkommen til DevFolio-dashbordet. Porteføljen din har blitt sett av",
+        "desc2": "person. Fortsett å jobbe!",
+        "editPortfolio": "Rediger portefølje"
+      },
+      "stats": {
+        "totalVisitors": "Totalt antall besøkende",
+        "projectViews": "Sett (prosjekt)",
+        "activeSessions": "Aktiv økt",
+        "totalLabel": "Totalt"
+      },
+      "setup": {
+        "title": "Oppsettfremdrift",
+        "completed": "Porteføljen din er komplett! 🎉",
+        "inProgress": "Trinn til den perfekte porteføljen.",
+        "profile": {
+          "title": "Komplett profil",
+          "desc": "Legg til navn, bio og profilbilde."
+        },
+        "section": {
+          "title": "Legg til seksjoner",
+          "desc": "Aktiver minst 1 seksjon i porteføljen."
+        },
+        "project": {
+          "title": "Legg til prosjekt",
+          "desc": "Skriv inn minst ett av de beste prosjektene dine."
+        },
+        "publish": {
+          "title": "Publiser portefølje",
+          "desc": "Angi en egendefinert URL slik at den er tilgjengelig for publikum."
+        }
+      },
+      "topProjects": {
+        "title": "Mest populære prosjekter",
+        "desc": "Utførelsen av arbeidet ditt i øynene til besøkende.",
+        "viewAll": "Se alle",
+        "empty": "Det er ingen visningsdata for prosjektet ditt ennå."
+      }
+    },
+    "themes": {
+      "title": "Maler og temaer",
+      "subtitle": "Tilpass utseendet og følelsen til den offentlige porteføljen din.",
+      "reset": "Tilbakestill standard",
+      "save": "Lagre endringer",
+      "saving": "Lagrer...",
+      "chooseTemplate": "Velg en mal",
+      "primaryColor": "Primærfarge",
+      "typography": "Typografi",
+      "appearance": "Utseende",
+      "corners": "Hjørner og grenser",
+      "successTitle": "Suksess",
+      "successMessage": "Theme preferences updated successfully",
+      "errorTitle": "Feil",
+      "errorMessage": "Failed to save theme preferences",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistisk",
+          "desc": "Clean and simple design focusing on content."
+        },
+        "developerDark": {
+          "name": "Utvikler Dark",
+          "desc": "Mørkt tema perfekt for å vise frem kode og tekniske stabler."
+        },
+        "creative": {
+          "name": "Kreativ",
+          "desc": "Levende og fargerik layout for designere og kreative."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Profesjonell og formell layout for forretningsfolk."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Moderne rutenettoppsett i Apple-stil som fremhever ulike ferdigheter effektivt."
+        },
+        "neoBrutalism": {
+          "name": "Nybrutalisme",
+          "desc": "Sterke kanter og farger med høy kontrast for et trendy, lite unnskyldende utseende."
+        },
+        "glassmorphism": {
+          "name": "Glassmorfisme",
+          "desc": "Frostet glasseffekter over fargerike gradienter for et elegant moderne brukergrensesnitt."
+        },
+        "linkInBio": {
+          "name": "Link i bio",
+          "desc": "Kompakt vertikal layout optimalisert for mobilskjermer og sosiale medier."
+        }
+      },
+      "appearances": {
+        "light": "Lys",
+        "dark": "Mørk",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Skarp",
+        "rounded": "Avrundet",
+        "pill": "Pille"
+      }
+    },
+    "feedback": {
+      "title": "Send tilbakemelding",
+      "subtitle": "Hjelp oss med å gjøre det bedre ved å gi forslag, kritikk eller rapportere feil på denne applikasjonen.",
+      "categoryLabel": "Tilbakemeldingskategori",
+      "messageLabel": "Meldingsdetaljer",
+      "messagePlaceholder": "Fortell meg i detalj om tilbakemeldingen du ønsker å formidle...",
+      "imageLabel": "Bildevedlegg (valgfritt)",
+      "imagePlaceholder": "Klikk for å laste opp bilde eller skjermbilde",
+      "submitting": "Sender...",
+      "submitBtn": "Send tilbakemelding",
+      "categories": {
+        "suggestion": "Forslag og ideer",
+        "bug": "Feil/feilrapport",
+        "criticism": "Kritikk",
+        "other": "Andre"
+      },
+      "imageErrorTitle": "Feil",
+      "imageErrorMessage": "Noen filer blir avvist fordi de ikke støttes bildeformater (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Suksess",
+      "successMessage": "Takk for tilbakemeldingen! Rapport er sendt.",
+      "submitErrorTitle": "Mislyktes",
+      "submitErrorMessage": "Det oppsto en feil under sending av tilbakemelding. Vennligst prøv igjen."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Om meg",
+      "skills": "Ferdigheter",
+      "projects": "Prosjekter",
+      "workExperience": "Arbeidserfaring",
+      "orgExperience": "Organisatorisk erfaring",
+      "education": "Utdannelse",
+      "certifications": "Opplæring og sertifiseringer",
+      "contact": "Kontakt meg"
+    },
+    "editor": {
+      "profileInfo": "Profilinformasjon",
+      "saving": "Lagrer...",
+      "profilePhoto": "Profilbilde",
+      "clickToUpload": "Klikk for å laste opp (JPG, PNG)",
+      "fullName": "Fullt navn",
+      "fullNamePlaceholder": "f.eks. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack-utvikler med lidenskap for å bygge moderne nettapper...",
+      "location": "Sted",
+      "locationPlaceholder": "f.eks. ",
+      "gender": "Kjønn",
+      "selectGender": "Velg Kjønn",
+      "male": "Mann",
+      "female": "Hunn",
+      "custom": "Skikk",
+      "customPlaceholder": "Skriv inn ditt egendefinerte kjønn...",
+      "uploadCv": "Last opp CV",
+      "cvFormat": "(DOC eller PDF)",
+      "preview": "Forhåndsvisning",
+      "remove": "Fjerne",
+      "clickToUploadCv": "Klikk for å laste opp PDF eller DOC",
+      "sections": "Seksjoner",
+      "removeSelected": "Fjern valgte",
+      "confirmRemove": "Bekreft fjerning",
+      "addSection": "Legg til seksjon",
+      "addAllSections": "Legg til alle seksjoner",
+      "noSections": "Ingen seksjoner ennå",
+      "clickToAdd": "Klikk \"+ Legg til seksjon\" for å komme i gang",
+      "selectAll": "Velg alle",
+      "selected": "Valgt",
+      "dragToReorder": "Dra for å omorganisere seksjoner",
+      "livePreview": "Live forhåndsvisning",
+      "addSectionsToBuild": "Legg til seksjoner for å bygge porteføljen din",
+      "now": "Nå",
+      "current": "Nåværende",
+      "noExpiry": "Ingen utløp",
+      "see": "Se",
+      "position": "Posisjon",
+      "degree": "Grad",
+      "certification": "Sertifisering",
+      "sectionsForm": {
+        "about": {
+          "label": "Beskrivelse av deg selv",
+          "placeholder": "Fortell oss om deg selv, din bakgrunn, interesser og ferdigheter..."
+        },
+        "skills": {
+          "addPlaceholder": "Skriv ferdighet og trykk deretter Enter..."
+        },
+        "projects": {
+          "title": "Prosjektnavn",
+          "titlePlaceholder": "Prosjektnavn...",
+          "url": "Prosjekt-URL",
+          "description": "Beskrivelse",
+          "descriptionPlaceholder": "Kort beskrivelse av prosjektet...",
+          "uploadThumbnail": "Prosjektbilde",
+          "addProject": "Legg til prosjekt",
+          "projectNum": "Prosjekt #",
+          "currentProject": "Dette er et prosjekt jeg jobber med"
+        },
+        "work": {
+          "company": "Bedrift/byrå",
+          "companyPlaceholder": "Firmanavn...",
+          "position": "Stilling/tittel",
+          "positionPlaceholder": "Din stilling...",
+          "employmentType": "Type arbeid",
+          "location": "Sted",
+          "locationPlaceholder": "By, land...",
+          "startDate": "Start",
+          "endDate": "Ferdig",
+          "currentWork": "Jeg jobber fortsatt for øyeblikket",
+          "description": "Beskrivelse",
+          "descriptionPlaceholder": "Stillingsbeskrivelse og ansvar...",
+          "skills": "Ferdighet",
+          "addExperience": "Legg til arbeidserfaring",
+          "experienceNum": "Erfaring #",
+          "dateError": "Sluttdatoen kan ikke være tidligere enn startdatoen"
+        },
+        "org": {
+          "organization": "Organisasjonsnavn",
+          "orgPlaceholder": "BEM University...",
+          "role": "Rolle/stilling",
+          "rolePlaceholder": "Divisjonssjef...",
+          "addOrg": "Legg til organisasjonserfaring",
+          "orgNum": "Organisasjonsnummer"
+        },
+        "edu": {
+          "institution": "Utdanningsinstitusjoner",
+          "institutionPlaceholder": "Navn på campus eller skole...",
+          "degree": "Tittel",
+          "degreePlaceholder": "S1, videregående skole osv...",
+          "major": "Institutt/studieretning",
+          "majorPlaceholder": "Informatikkteknikk...",
+          "gpa": "GPA (valgfritt)",
+          "currentStudy": "Jeg lærer fortsatt her",
+          "descriptionPlaceholder": "Aktiviteter og prestasjoner under studiet...",
+          "addEdu": "Legg til utdanning",
+          "eduNum": "Utdanning #"
+        },
+        "cert": {
+          "name": "Navn på sertifisering/opplæring",
+          "namePlaceholder": "Sertifiseringsnavn...",
+          "issuer": "Forlegger",
+          "issuerPlaceholder": "Publiserende institusjon...",
+          "issueDate": "Start (publiseringsdato)",
+          "issueDatePlaceholder": "Velg publiseringsdato...",
+          "expiryDate": "Fullført (gyldig periode)",
+          "expiryDatePlaceholder": "Velg utløpsdato...",
+          "noExpiry": "Dette sertifikatet har ingen utløpsdato",
+          "url": "URL for legitimasjon",
+          "uploadThumbnail": "Sertifikat/opplæringsbilde",
+          "uploadThumbnailLimit": "Last opp sertifikatbilde (JPG/PNG/WEBP, maks 2 MB)",
+          "addCert": "Legg til sertifisering",
+          "certNum": "Sertifiseringsnummer"
+        },
+        "contact": {
+          "contactNum": "Kontakt #",
+          "platform": "Plattform",
+          "displayText": "Vis tekst",
+          "displayTextPlaceholder": "f.eks. du@email.com eller @brukernavn",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "f.eks. 62812... (uten innledende 0)",
+          "urlPlaceholderEmail": "f.eks. du@e-post.com",
+          "urlPlaceholderWebsite": "f.eks. https://...",
+          "urlPlaceholderDefault": "f.eks. brukernavn",
+          "addContact": "Legg til kontakt"
+        },
+        "common": {
+          "months": {
+            "1": "januar",
+            "2": "februar",
+            "3": "mars",
+            "4": "april",
+            "5": "mai",
+            "6": "juni",
+            "7": "juli",
+            "8": "august",
+            "9": "september",
+            "10": "oktober",
+            "11": "november",
+            "12": "desember"
+          },
+          "month": "Måned",
+          "year": "År",
+          "invalidDate": "Ugyldig sluttmåned",
+          "words": "ord"
+        }
+      },
+      "sure": "Sikker",
+      "deletePhotoTitle": "Vil du slette profilbilde?",
+      "deletePhotoMessage": "Er du sikker på at du vil slette dette profilbildet?",
+      "cancel": "Kansellere",
+      "delete": "Slett"
+    },
+    "cropper": {
+      "chooseBackground": "Velg Bakgrunn",
+      "cropPhoto": "Beskjær bildet ditt",
+      "useOriginal": "Bruk original",
+      "backgroundPresets": "Forhåndsinnstillinger for bakgrunn",
+      "none": "Ingen",
+      "uploadBackground": "Last opp bakgrunn",
+      "cancel": "Kansellere",
+      "savePhoto": "Lagre bilde",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotasjon og tilt",
+      "resetRotation": "Tilbakestill til 0°",
+      "center": "Senter",
+      "rotateLeft": "Roter -90°",
+      "rotateRight": "Roter +90°",
+      "removeBackground": "Fjern bakgrunn",
+      "processing": "Behandler bildet ditt, vennligst vent..."
+    },
+    "cvPreview": {
+      "title": "Forhåndsvisning av CV",
+      "downloadCv": "Last ned CV",
+      "download": "Last ned",
+      "wordCannotPreview": "Word-dokumenter (.doc/.docx) kan ikke forhåndsvises i nettleseren. ",
+      "downloadFile": "Last ned CV-fil",
+      "back": "Tilbake",
+      "mobileMessage": "Last ned CV-filen for å forhåndsvise den.",
+      "preview": "Forhåndsvis CV",
+      "wordPreviewTitle": "Forhåndsvisning av Word-dokument",
+      "wordPreviewMessage": "Word-dokumenter (.doc/.docx) kan ikke forhåndsvises i nettleseren. Last ned filen for å se den."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Skriv en kort beskrivelse om deg selv, interesser og karrieremål..."
+    },
+    "skills": {
+      "placeholder": "Skriv inn ferdighetsnavn...",
+      "add": "Legge til",
+      "enterToAdd": "Trykk Enter for å legge til",
+      "noSkills": "Ingen ferdigheter lagt til ennå."
+    },
+    "projects": {
+      "projectName": "Prosjektnavn",
+      "projectNamePlaceholder": "f.eks. ",
+      "projectUrl": "Prosjekt URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Varighet",
+      "startMonth": "Start måned",
+      "startYear": "Startår",
+      "endMonth": "Sluttmåned",
+      "endYear": "Sluttår",
+      "currentlyWorking": "Jobber med dette for tiden",
+      "description": "Beskrivelse",
+      "descriptionPlaceholder": "Beskriv prosjektet, din rolle og prestasjoner...",
+      "technologies": "Teknologier som brukes",
+      "addProject": "Legg til prosjekt",
+      "image": "Prosjektbilde",
+      "removeImage": "Fjern bilde",
+      "uploadImage": "Klikk for å laste opp bildet"
+    },
+    "work": {
+      "company": "Bedrift/institusjon",
+      "companyPlaceholder": "Firmanavn...",
+      "role": "Rolle/stilling",
+      "rolePlaceholder": "Din stilling...",
+      "jobType": "Jobbtype",
+      "selectJobType": "Velg type",
+      "fullTime": "Heltid",
+      "partTime": "Deltid",
+      "contract": "Kontrakt",
+      "internship": "Praksisplass",
+      "freelance": "Frilans",
+      "location": "Sted",
+      "locationPlaceholder": "f.eks. ",
+      "duration": "Varighet",
+      "currentlyWorking": "Jobber her for tiden",
+      "description": "Stillingsbeskrivelse",
+      "descriptionPlaceholder": "Beskriv dine viktigste ansvarsområder og prestasjoner...",
+      "skills": "Spesifikke ferdigheter",
+      "addExperience": "Legg til erfaring"
+    },
+    "org": {
+      "organization": "Organisasjonsnavn",
+      "organizationPlaceholder": "Organisasjonsnavn...",
+      "role": "Rolle/stilling",
+      "rolePlaceholder": "f.eks. ",
+      "duration": "Varighet",
+      "periodFormat": "eller fritt format (f.eks. 2020–2022)",
+      "periodPlaceholder": "f.eks. ",
+      "currentlyActive": "Aktiv for øyeblikket",
+      "description": "Aktivitetsbeskrivelse",
+      "descriptionPlaceholder": "Beskriv dine aktiviteter eller bidrag...",
+      "addExperience": "Legg til erfaring"
+    },
+    "education": {
+      "institution": "Institusjonens navn",
+      "institutionPlaceholder": "Navn på skole eller universitet...",
+      "degree": "Grad/nivå",
+      "degreePlaceholder": "f.eks. ",
+      "major": "Hovedfag/studieretning",
+      "majorPlaceholder": "f.eks. ",
+      "gpa": "GPA / karakter",
+      "gpaPlaceholder": "f.eks. ",
+      "duration": "Utdanning Varighet",
+      "periodFormat": "eller fritt format (f.eks. 2018–2022)",
+      "periodPlaceholder": "f.eks. ",
+      "currentlyStudying": "Studerer her for tiden",
+      "description": "Aktiviteter / utmerkelser",
+      "descriptionPlaceholder": "Beskriv akademiske aktiviteter, organisasjoner eller utmerkelser mottatt...",
+      "addEducation": "Legg til utdanning"
+    },
+    "cert": {
+      "name": "Sertifiseringsnavn",
+      "namePlaceholder": "f.eks. ",
+      "issuer": "Utstedende organisasjon",
+      "issuerPlaceholder": "f.eks. ",
+      "issueDate": "Utstedelsesdato",
+      "expiryDate": "Gyldig til",
+      "noExpiry": "Denne legitimasjonen utløper ikke",
+      "yearPlaceholder": "eller år (f.eks. 2023)",
+      "credentialUrl": "URL for legitimasjon",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Relaterte ferdigheter",
+      "addCertification": "Legg til sertifisering",
+      "image": "Bilde/logo",
+      "removeImage": "Fjern bilde",
+      "uploadImage": "Klikk for å laste opp bildet"
+    },
+    "common": {
+      "months": {
+        "1": "januar",
+        "2": "februar",
+        "3": "mars",
+        "4": "april",
+        "5": "mai",
+        "6": "juni",
+        "7": "juli",
+        "8": "august",
+        "9": "september",
+        "10": "oktober",
+        "11": "november",
+        "12": "desember"
+      },
+      "month": "Måned",
+      "year": "År",
+      "invalidDate": "Ugyldig sluttmåned",
+      "words": "ord"
+    }
+  },
+  "settings": {
+    "title": "Innstillinger",
+    "subtitle": "Administrer porteføljeprofilen og preferanser",
+    "tabs": {
+      "profile": "Min profil",
+      "security": "Sikkerhet",
+      "personalization": "Personalisering"
+    },
+    "profile": {
+      "infoTitle": "Grunnleggende informasjon",
+      "photo": "Profilbilde",
+      "uploadPhoto": "Bytt bilde",
+      "fullName": "Fullt navn",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-postadresse",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-post brukes til pålogging og vises ikke offentlig.",
+      "portfolioUrl": "Portefølje-URL",
+      "saveProfile": "Lagre profil",
+      "save": "Lagre profil",
+      "accountCreated": "Konto opprettet",
+      "lastLogin": "Terakhir Login",
+      "oauthNotice": "Denne profilen er koblet til {{provider}}-kontoen din. Profilendringer må gjøres gjennom tjenesteleverandøren."
+    },
+    "security": {
+      "changePassword": "Endre passord",
+      "currentPassword": "Gjeldende passord",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nytt passord",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Bekreft nytt passord",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Minst 8 tegn",
+        "uppercase": "Én stor bokstav (A-Z)",
+        "number": "Ett tall (0-9)",
+        "symbol": "Ett symbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Passord",
+      "updatePassword": "Oppdater passord",
+      "additionalSecurity": "Ekstra sikkerhet",
+      "twoFactor": "Tofaktorautentisering (2FA)",
+      "twoFactorDesc": "Sikre kontoen din med en ekstra OTP-kode.",
+      "activeSessions": "Aktive økter",
+      "activeSessionsDesc": "Tillat alltid overvåking av innloggede enheter.",
+      "publicVisibility": "Offentlig synlighet",
+      "hideFromSearch": "Skjul portefølje fra søkemotorer",
+      "hideFromSearchDesc": "Hindre Google fra å indeksere den offentlige porteføljesiden din.",
+      "disable2fa": {
+        "title": "Deaktiver 2FA",
+        "description": "Er du sikker på at du vil slå av tofaktorautentisering?",
+        "confirmPasswordLabel": "Skriv inn passordet ditt for å bekrefte",
+        "currentPasswordPlaceholder": "Gjeldende passord",
+        "cancelButton": "Avbryt",
+        "confirmButton": "Deaktiver 2FA",
+        "incorrectPassword": "Feil passord."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skann QR-koden",
+        "step1Desc": "Åpne autentiseringsappen din og skann følgende QR-kode:",
+        "unableToScan": "Kan du ikke skanne? Bruk oppsetttasten",
+        "step2Title": "2. Bekreft kode",
+        "step2Desc": "Skriv inn den 6-sifrede koden generert av appen din:",
+        "cancelButton": "Kansellere",
+        "enableButton": "Aktiver 2FA",
+        "invalidLength": "Vennligst skriv inn en 6-sifret kode.",
+        "invalidCode": "Ugyldig bekreftelseskode. Vennligst prøv igjen."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Språkkontroller",
+      "appLanguage": "App-språk",
+      "layoutTitle": "Layout og typografi",
+      "layoutStyle": "Layout stil",
+      "layoutModern": "Moderne stil (standard)",
+      "layoutClassic": "Klassisk stil",
+      "layoutMinimalist": "Minimalistisk stil",
+      "fontSize": "App Font Størrelse",
+      "fontSmall": "Liten",
+      "fontNormal": "Normal (middels)",
+      "fontLarge": "Stor",
+      "searchLanguage": "Søk etter språk...",
+      "languageNotFound": "Språk ikke funnet",
+      "layoutElegant": "Elegant stil"
+    },
+    "saveChanges": "Lagre endringer",
+    "cancel": "Kansellere",
+    "appSettings": "Appinnstillinger",
+    "logoutConfirmTitle": "Bekreft Logg ut",
+    "logoutConfirmDesc": "Er du sikker på at du vil logge ut av systemet?",
+    "logoutConfirmYes": "Ja, Logg ut",
+    "generalError": "Det oppsto en feil. ",
+    "success": "Suksess",
+    "preferencesSaved": "Apppreferansene er lagret.",
+    "header": "Applikasjonsinnstillinger",
+    "logout": {
+      "title": "Logg ut bekreftelse",
+      "message": "Er du sikker på at du vil logge ut av systemet?",
+      "confirm": "Ja, Logg ut"
+    },
+    "about": {
+      "title": "Om søknad",
+      "subtitle": "Portfolio Builder-plattform",
+      "version": "Versjon",
+      "description": "DevFolio er en moderne porteføljebyggerplattform designet for utviklere, designere og profesjonelle skapere. ",
+      "license": "Lisens og opphavsrett",
+      "copyright": "© 2026 DevFolio Inc. Alle rettigheter forbeholdt.",
+      "developer": "Utvikler",
+      "developedBy": "Utviklet av Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Slett konto permanent",
+      "menuItem": "Slett konto",
+      "successTitle": "Suksess",
+      "successMessage": "En bekreftelses-e-post for sletting av konto er sendt.",
+      "errorTitle": "Mislyktes",
+      "errorMessage": "Kunne ikke sende bekreftelses-e-post.",
+      "confirmationMessage": "Er du sikker på at du vil slette kontoen din permanent?",
+      "warningMessage1": "Du vil motta en e-post for å bekrefte sletting av konto.",
+      "warningMessage2": "Hvis bekreftet, vil alle data (portefølje, prosjekter, statistikk) bli slettet permanent og kan ikke gjenopprettes.",
+      "cancel": "Avbryt",
+      "confirm": "Bekreftelse"
+    },
+    "toasts": {
+      "toastError": "Feil",
+      "toastSuccess": "Suksess",
+      "toastSetup2FAFailed": "Kunne ikke konfigurere 2FA. Vennligst prøv igjen.",
+      "toast2FAEnabled": "Tofaktorautentisering er aktivert.",
+      "toast2FADisabled": "Tofaktorautentisering er deaktivert.",
+      "toastSessionEnabled": "Aktiv øktovervåking er aktivert.",
+      "toastSessionDisabled": "Aktiv øktovervåking er deaktivert.",
+      "toastSetupKeyCopied": "Oppsettnøkkel kopiert til utklippstavlen."
+    },
+    "privacy": {
+      "title": "Personvernerklæring",
+      "updateDate": "Sist oppdatert: 15. juli 2026",
+      "intro": "Denne personvernerklæringen forklarer hvordan DevFolio samler inn, bruker og beskytter din personlige informasjon når du bruker tjenestene våre.",
+      "section1Title": "1. Informasjon vi samler inn",
+      "section1Content": "Vi samler inn informasjon du oppgir direkte når du oppretter en konto, bygger en portefølje og kontakter vår kundestøtte. ",
+      "section2Title": "2. Bruk av informasjon",
+      "section2Content": "Informasjonen din brukes til å drifte, vedlikeholde og tilby funksjonene til tjenestene våre, samt for å kommunisere med deg angående din konto eller tjenester.",
+      "section3Title": "3. Datasikkerhet",
+      "section3Content": "Vi implementerer rimelige sikkerhetstiltak for å beskytte informasjonen din mot uautorisert tilgang, avsløring eller ødeleggelse."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Finner ikke bekreftelsestoken.",
+    "defaultError": "Kunne ikke slette kontoen. Tokenet kan ha utløpt.",
+    "loadingTitle": "Sletter konto...",
+    "loadingMessage": "Vennligst vent, vi behandler forespørselen din.",
+    "successTitle": "Kontoen ble slettet",
+    "successMessage": "Alle dataene dine er permanent slettet. Du vil bli omdirigert...",
+    "errorTitle": "Kunne ikke slette konto",
+    "backToHome": "Gå tilbake til Hjem"
+  },
+  "forgotPassword": {
+    "minutes": "minutter",
+    "seconds": "sekunder",
+    "success": "Suksess",
+    "otpSentToEmail": "En OTP-kode er sendt til din e-post.",
+    "failed": "Mislyktes",
+    "emailNotFound": "Finner ikke e-post.",
+    "emailThirdParty": "Denne e-posten er registrert gjennom en tredjepart.",
+    "genericError": "Det er en feil. Vennligst prøv igjen.",
+    "otpVerified": "OTP-koden er verifisert.",
+    "otpExpired": "OTP-koden er utløpt. Vennligst be om en ny kode.",
+    "otpInvalid": "Ugyldig OTP-kode.",
+    "otpResent": "En ny engangskode er sendt til e-posten din.",
+    "otpResendFailed": "Kunne ikke sende engangskoden på nytt. Vennligst prøv igjen.",
+    "passwordResetSuccess": "Passordet er tilbakestilt. Logg inn med ditt nye passord.",
+    "passwordResetFailed": "Kunne ikke tilbakestille passordet.",
+    "backToLogin": "Gå tilbake til Logg inn",
+    "back": "Tilbake",
+    "title": "Glemt passord",
+    "description": "Skriv inn e-postadressen som er registrert på kontoen din. Vi sender en OTP-kode for å tilbakestille passordet.",
+    "emailLabel": "E-postadresse",
+    "sending": "Sender...",
+    "sendOtp": "Send engangskode",
+    "verifyOtpTitle": "Bekreft engangskode",
+    "verifyOtpDesc": "Skriv inn den 6-sifrede koden som er sendt til e-posten din for å bekrefte identiteten din.",
+    "verifying": "Bekrefter...",
+    "verifyOtp": "Bekreft OTP",
+    "resending": "Sender på nytt...",
+    "resendOtp": "Send engangskode på nytt",
+    "resendCodeIn": "Send koden på nytt i",
+    "newPasswordTitle": "Opprett et nytt passord",
+    "newPasswordDesc": "Opprett et nytt, sterkt passord for å sikre kontoen din.",
+    "newPasswordLabel": "Nytt passord",
+    "min8Chars": "Minimum 8 tegn",
+    "oneUpperCase": "1 stor bokstav (A-Z)",
+    "oneNumber": "1 tall (0-9)",
+    "oneSymbol": "1 symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Bekreft passord",
+    "passwordsDoNotMatch": "Passord stemmer ikke.",
+    "resettingPassword": "Tilbakestiller passord...",
+    "resetPassword": "Tilbakestill passord"
+  },
+  "verifyEmail": {
+    "resendError": "Kunne ikke sende bekreftelses-e-post på nytt. Vennligst prøv igjen.",
+    "checkingStatus": "Sjekker bekreftelsesstatus...",
+    "title": "Sjekk e-posten din",
+    "description": "Vi har sendt en bekreftelses-e-post til e-postadressen din. Åpne e-posten og klikk på <1>\"Bekreft konto\"</1>-knappen for å aktivere kontoen din.",
+    "stepsTitle": "Trinn",
+    "step1": "Åpne e-postprogrammet ditt (Gmail, Yahoo, osv.)",
+    "step2": "Se etter en e-post fra DevFolio med emnet \"Kontoaktivering\"",
+    "step3": "Klikk på \"Bekreft konto\"-knappen i e-posten",
+    "step4": "Du vil bli dirigert til påloggingssiden for å gå inn",
+    "resendSuccess": "Bekreftelses-e-posten er sendt på nytt!",
+    "resending": "Sender på nytt...",
+    "resendButton": "Send bekreftelses-e-post på nytt",
+    "backToLogin": "Gå tilbake til påloggingssiden",
+    "footerNote": "Har du ikke mottatt e-posten? Sjekk mappen <1>søppelpost</1> eller <2>søppelpost</2> i e-posten din. Bekreftelseslenken er gyldig i <3>24 timer</3>."
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ngaahi fōlinga",
+    "templates": "Ngaahi sīpinga",
+    "pricing": "Fakatau",
+    "login": "Hu ki loto",
+    "getStarted": "Kamata",
+    "title": "Folio Dev"
+  },
+  "landing": {
+    "badge": "Ko e langa 'o e portfolio faka'osi ki he kau developers .",
+    "title1": "Langa ho'o fakapalofesinale .",
+    "title2": "pōtifolio ʻi he",
+    "titleHighlight": "sekoni.",
+    "subtitle": "Ko e me'a kotoa pe 'oku ke fie ma'u ke fakahaa'i ho'o taukei, ngaahi poloseki, mo e a'usia. ",
+    "startBuilding": "Kamata Langa He Taimi Ni",
+    "viewTemplates": "Vakai ki he Ngaahi Tepile",
+    "fastDeployment": "Fakahoko Vave",
+    "liveStatus": "hingoa faka'aonga'i.dev 'oku mo'ui!",
+    "featuresTitle": "Ngaahi Meʻa Mālohi",
+    "featuresSubtitle": "'Oku mau 'oatu 'a e ngaahi me'angaue kotoa pe 'oku ke fie ma'u ke ke tu'u mavahe mei he fu'u kakai pea ke tu'uta ho'o ngaue misi.",
+    "feature1Title": "To'o & Tuku 'a e langa",
+    "feature1Desc": "Fokotu'utu'u faingofua ho'o ngaahi konga, ngaahi poloseki, mo e ngaahi taukei 'aki 'etau 'etita faka'ata 'oku 'ilo'i.",
+    "feature2Title": "Ngaahi Kaveinga Fakafo'ituitui",
+    "feature2Desc": "Fili mei he ngaahi sipinga kuo fa'u fakapalofesinale pe fa'u ho'o fotunga makehe.",
+    "feature3Title": "Analaiso taimi mo'oni",
+    "feature3Desc": "Muimui'i ho'o kau 'a'ahi, vakai pe ko e fē 'a e ngaahi poloseki 'oku ma'u 'e he tokanga lahi taha, mo e lahi ange."
+  },
+  "auth": {
+    "welcomeBack": "Talitali lelei",
+    "loginToContinue": "Hu ki ho'o 'akauni ke hoko atu .",
+    "createAccount": "Faʻu ha ʻakauni",
+    "joinCommunity": "Kau fakataha mo e kau developers kehe 'e lauiafe .",
+    "fullName": "Hingoa Kakato",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Tu'asila 'Imeili",
+    "emailPlaceholder": "koe@fakatātā.com",
+    "password": "Leafūfū",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Manatu'i au .",
+    "forgotPassword": "Ngalo 'a e lea fufuu?",
+    "signIn": "Fakamoʻoni",
+    "signingIn": "Fakamo'oni...",
+    "signUp": "Fakamoʻoni hingoa",
+    "signingUp": "Fakamo'oni hingoa...",
+    "noAccount": "'Oku 'ikai ha'o 'akauni?",
+    "hasAccount": "'Oku 'osi 'i ai ha'o 'akauni?",
+    "passwordRules": {
+      "title": "Kuo pau ke ʻi he lea fufuú:",
+      "length": "'Ikai si'i hifo he mata'itohi 'e 8",
+      "uppercase": "Mataʻitohi lahi ʻe taha (A-Z)",
+      "number": "Fika ʻe taha (0-9)",
+      "symbol": "Ko e faka'ilonga 'e taha (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Ko e Langa Potufolio",
+      "templates": "Ngaahi Tepile & Ngaahi Kaveinga",
+      "settings": "Ngaahi fokotuʻutuʻu",
+      "collapse": "Faka'auha 'a e tafa'aki",
+      "overview": "Vakai fakalukufua",
+      "profileSettings": "Ngaahi fokotuʻutuʻu ʻo e fakamatala",
+      "customDomain": "Domain Fakafonua",
+      "feedback": "Tali fakafoki"
+    },
+    "header": {
+      "viewLive": "Vakai ki he Live",
+      "welcome": "Talitali fiefia,",
+      "logout": "Hu ki tu'a",
+      "builder": "Tokotaha langa",
+      "livePortfolio": "Poatifolio Mo'ui",
+      "live": "Moʻui"
+    },
+    "logoutModal": {
+      "title": "Hu ki tu'a",
+      "message": "'Oku ke fakapapau'i 'oku ke fie log out mei ho'o 'akauni? ",
+      "cancel": "Kaniseli",
+      "confirm": "ʻIo, Hu ki tuʻa"
+    },
+    "slugModal": {
+      "title": "Fili ho'o URL 'o e Potufolio",
+      "message": "Ko e URL ko 'eni 'e hoko ia ko e fehokotaki'anga makehe ki ho'o portfolio. ",
+      "slugPlaceholder": "ho-hingoa",
+      "availability": "Ma'u:",
+      "available": "ʻatā",
+      "unavailable": "'Oku 'ikai ke ma'u",
+      "checking": "Vakai'i...",
+      "mustFormat": "'E lava ke 'i ai pe 'a e ngaahi mata'itohi, ngaahi fika, mo e ngaahi faka'ilonga (-)",
+      "cancel": "Kaniseli",
+      "save": "Tauhi URL",
+      "usernameUrl": "Hingoa faka'aonga'i URL",
+      "helpText": "Ngaahi mataʻitohi iiki, ngaahi fika, mo e ngaahi fakaʻilonga. ",
+      "validation": {
+        "empty": "He'ikai lava ke 'ata'ataa 'a e Slug.",
+        "min3": "Si'isi'i taha 'a e mata'itohi 'e 3.",
+        "max30": "Ko e lahi taha ʻo e mataʻitohi ʻe 30.",
+        "format": "Ko e ngaahi mataʻitohi iiki pē, ngaahi fika, mo e ngaahi fakaʻilonga (-). "
+      }
+    },
+    "loadingPortfolio": "Uta 'a e fakamatala 'o e portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Pongipongi lelei",
+        "afternoon": "Malo e lelei",
+        "evening": "Malo e lelei",
+        "night": "Po lelei"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Fakatupu",
+        "desc1": "Malo e lelei ki he poate DevFolio. Kuo sio ki ho'o portfolio 'e he .",
+        "desc2": "tokotaha. Hokohoko atu hoʻo ngāué!",
+        "editPortfolio": "Fakatonutonu Potufolio"
+      },
+      "stats": {
+        "totalVisitors": "Fakakatoa ʻo e Kau ʻAʻahí",
+        "projectViews": "Vakai ki ai (Poloseki)",
+        "activeSessions": "Fakataha Ngāue",
+        "totalLabel": "Fakakatoa"
+      },
+      "setup": {
+        "title": "Fakalakalaka 'o e Setup",
+        "completed": "Kuo kakato ho'o portfolio! 🎉",
+        "inProgress": "Ngaahi sitepu ki he pōtifolio haohaoá.",
+        "profile": {
+          "title": "Fakakakato 'a e fakamatala",
+          "desc": "Tānaki atu ʻa e hingoá, bio mo e ʻata fakaʻilonga."
+        },
+        "section": {
+          "title": "Tānaki atu ʻa e Ngaahi Vahé",
+          "desc": "Fakaʻaongaʻi ha konga ʻe 1 ʻi he pōtifolio."
+        },
+        "project": {
+          "title": "Tānaki atu ʻa e Poloseki",
+          "desc": "Fakahu ha 1 'o ho'o ngaahi poloseki lelei taha."
+        },
+        "publish": {
+          "title": "Pulusi ʻa e Potufolio",
+          "desc": "Seti ha URL angamaheni koe'uhi ke lava 'o ma'u ia 'e he kakai."
+        }
+      },
+      "topProjects": {
+        "title": "Ngaahi Poloseki Manakoa Taha",
+        "desc": "Ko e fakahoko ho'o ngaue 'i he mata 'o e kau 'a'ahi.",
+        "viewAll": "Vakai ki he Kotoa",
+        "empty": "'Oku te'eki ke 'iai ha view data ki ho'o poloseki."
+      }
+    },
+    "themes": {
+      "title": "Ngaahi Tepile & Ngaahi Kaveinga",
+      "subtitle": "Fakaleleiʻi ʻa e fōtunga mo e ongo ʻo hoʻo pōtifolio fakapuleʻangá.",
+      "reset": "Toe fakafoki 'a e Fakamo'oni",
+      "save": "Tauhi e Ngaahi Liliu",
+      "saving": "Fakahaofi...",
+      "chooseTemplate": "Fili ha Tepile",
+      "primaryColor": "Lanu Palaimeli",
+      "typography": "Taipe",
+      "appearance": "Fōtunga",
+      "corners": "Ngaahi Tuliki & Ngaahi Kau'āfonua",
+      "successTitle": "Lavame'a",
+      "successMessage": "Kuo lavame'a hono fakafo'ou 'o e ngaahi manako 'o e kaveinga",
+      "errorTitle": "Hala",
+      "errorMessage": "Na'e 'ikai lava ke fakahaofi 'a e ngaahi manako 'o e kaveinga",
+      "templates": {
+        "minimalist": {
+          "name": "Fakasi'isi'i",
+          "desc": "Tisaini ma'a mo faingofua 'o tokanga taha ki he kakano."
+        },
+        "developerDark": {
+          "name": "Fakatupulaki Fakapo'uli",
+          "desc": "Kaveinga fakapo'uli haohaoa ki hono fakahaa'i 'o e code mo e tech stacks."
+        },
+        "creative": {
+          "name": "Fakatupu",
+          "desc": "Fokotu'utu'u mo'ui mo lanu kehekehe ki he kau tisaini mo e kau fa'u."
+        },
+        "executive": {
+          "name": "Pule",
+          "desc": "Fakapalofesinale mo e fokotu'utu'u fakafo'ituitui ma'ae kau mataotao 'i he pisinisi."
+        },
+        "bentoGrid": {
+          "name": "Penito Grid",
+          "desc": "Fakaonopooni Apple-style grid fokotu'utu'u 'oku ne fakahaa'i 'a e ngaahi taukei kehekehe 'i he founga lelei."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Fakamālohi",
+          "desc": "Ngaahi kau'āfonua lotolahi mo e ngaahi lanu kehekehe ma'olunga ki ha fotunga 'o e 'ulungaanga, unapologetic."
+        },
+        "glassmorphism": {
+          "name": "Ko e Sio'ata",
+          "desc": "Frosted sio'ata ola 'i he gradients lanu kehekehe ki ha UI fakaonopooni sleek."
+        },
+        "linkInBio": {
+          "name": "Fakafehokotaki 'i he Bio",
+          "desc": "Fakahokohoko fakahangatonu 'o e compact optimized ki he ngaahi screen fe'ave'aki pa'anga mo e mitia fakasosiale."
+        }
+      },
+      "appearances": {
+        "light": "Maama",
+        "dark": "Fakapo'uli",
+        "system": "Sisitemi"
+      },
+      "cornersOptions": {
+        "sharp": "Masila",
+        "rounded": "Fakatakamilo",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Fakahoko atu ha ngaahi fakakaukau",
+      "subtitle": "Tokoni'i kimautolu ke lelei ange 'aki hono 'oatu 'a e ngaahi fokotu'u, fakaanga, pe lipooti 'a e ngaahi bugs 'i he polokalama ko 'eni.",
+      "categoryLabel": "Fa'ahinga Fakakaukau",
+      "messageLabel": "Fakaikiiki 'o e Fekau",
+      "messagePlaceholder": "Tala mai fakaikiiki mai 'a e ngaahi fakakaukau 'oku ke fie fakahoko mai...",
+      "imageLabel": "Fakapipiki 'o e 'Imisi (Fili)",
+      "imagePlaceholder": "Lomi'i ke 'oatu 'a e 'imisi pe screenshot",
+      "submitting": "Ko e fekau'i atu...",
+      "submitBtn": "Fakahoko atu ha ngaahi fakakaukau",
+      "categories": {
+        "suggestion": "Ngaahi Fokotu'u & Fakakaukau",
+        "bug": "Bug / Lipooti Hala",
+        "criticism": "Fakaanga",
+        "other": "Ko e ni'ihi kehe"
+      },
+      "imageErrorTitle": "Hala",
+      "imageErrorMessage": "'Oku fakafisinga'i 'a e ngaahi faile 'e ni'ihi koe'uhi 'oku 'ikai ke nau poupou'i 'a e ngaahi fotunga 'o e 'imisi (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Lavame'a",
+      "successMessage": "Malo ho'o ngaahi fakakaukau! Kuo 'osi 'ave 'a e lipooti.",
+      "submitErrorTitle": "Ta'elavame'a",
+      "submitErrorMessage": "Na'e hoko ha fehalaaki lolotonga hono 'ave 'o e ngaahi fakamatala. Kātaki ʻo toe feinga."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Fekauʻaki mo Au",
+      "skills": "Founga",
+      "projects": "Ngaahi poloseki",
+      "workExperience": "A'usia 'i he Ngaue",
+      "orgExperience": "A'usia Fakakautaha",
+      "education": "Ako",
+      "certifications": "Ako & Ngaahi Tohi Fakamo'oni Ako",
+      "contact": "Fetu'utaki mai kiate au"
+    },
+    "editor": {
+      "profileInfo": "Fakamatala Fakamatala",
+      "saving": "Fakahaofi...",
+      "profilePhoto": "'Ata Fakamatala",
+      "clickToUpload": "Lomiʻi ke ʻoatu (JPG, PNG)",
+      "fullName": "Hingoa Kakato",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer mo ha manako ki hono langa 'o e ngaahi polokalama uepi fakaonopooni...",
+      "location": "Tu'u'anga",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Fefine pe tangata",
+      "selectGender": "Fili ʻa e Tangata mo e Fefine",
+      "male": "Tangata",
+      "female": "Fefine",
+      "custom": "Angafakafonua",
+      "customPlaceholder": "Taipa'i ho'o tangata pe fefine angamaheni...",
+      "uploadCv": "Upload CV",
+      "cvFormat": "(DOC pe PDF)",
+      "preview": "Tomu'a vakai'i",
+      "remove": "Fakamavahe'i",
+      "clickToUploadCv": "Lomi'i ke 'oatu 'a e PDF pe DOC .",
+      "sections": "Ngaahi Vahe .",
+      "removeSelected": "To'o 'a e Fili",
+      "confirmRemove": "Fakapapau'i To'o",
+      "addSection": "Tānaki atu ʻa e Vahe",
+      "addAllSections": "Tānaki atu ʻa e Ngaahi Vahe Kotoa",
+      "noSections": "'Oku te'eki ke 'i ai ha ngaahi konga",
+      "clickToAdd": "Lomi'i 'i he \"+ Tanaki atu 'a e Vahe\" ke kamata .",
+      "selectAll": "Fili Kotoa",
+      "selected": "Fili",
+      "dragToReorder": "Toʻo ke toe fakahokohoko ʻa e ngaahi kongá",
+      "livePreview": "Tomu'a vakai'i mo'ui",
+      "addSectionsToBuild": "Tānaki atu ha ngaahi konga ke langa hoʻo portfolio .",
+      "now": "Taimí ni",
+      "current": "Lolotonga",
+      "noExpiry": "'Ikai ha 'osi",
+      "see": "Sio",
+      "position": "Tu'unga",
+      "degree": "Tu'unga",
+      "certification": "Fakamo'oni",
+      "sectionsForm": {
+        "about": {
+          "label": "Fakamatala kiate koe .",
+          "placeholder": "Tala mai kiate kimautolu fekau'aki mo koe, ho'o tupu'anga, ngaahi me'a 'oku ke manako ai mo e ngaahi taukei..."
+        },
+        "skills": {
+          "addPlaceholder": "Fa'ahinga taukei pea lomi'i 'a e Enter..."
+        },
+        "projects": {
+          "title": "Hingoa ʻo e Poloseki",
+          "titlePlaceholder": "Hingoa 'o e poloseki...",
+          "url": "URL 'o e poloseki",
+          "description": "Fakamatala",
+          "descriptionPlaceholder": "Fakamatala nounou ki he poloseki...",
+          "uploadThumbnail": "'Imisi 'o e Poloseki",
+          "addProject": "Tānaki atu ʻa e Poloseki",
+          "projectNum": "Fo'i ngaue #",
+          "currentProject": "Ko e poloseki eni 'oku ou lolotonga ngaue ki ai ."
+        },
+        "work": {
+          "company": "Kautaha/Potungaue",
+          "companyPlaceholder": "Hingoa 'o e kautaha...",
+          "position": "Tu'unga/Hingoa",
+          "positionPlaceholder": "Ko ho tu'unga...",
+          "employmentType": "Fa'ahinga ngaue .",
+          "location": "Tu'u'anga",
+          "locationPlaceholder": "Kolo, Fonua...",
+          "startDate": "Kamata",
+          "endDate": "Kuo 'osi",
+          "currentWork": "'Oku ou kei ngaue pe he taimi ni .",
+          "description": "Fakamatala",
+          "descriptionPlaceholder": "Fakamatala ngaue mo e ngaahi fatongia...",
+          "skills": "Ilo",
+          "addExperience": "Tānaki atu ʻa e Aʻusia ʻi he Ngāué",
+          "experienceNum": "Aʻusia #",
+          "dateError": "He'ikai lava ke vave ange 'a e 'aho faka'osi 'i he 'aho kamata ."
+        },
+        "org": {
+          "organization": "Hingoa ʻo e Kautaha",
+          "orgPlaceholder": "'Univesiti BEM...",
+          "role": "Fatongia/Tu'unga",
+          "rolePlaceholder": "'Ulu 'o e Vahenga...",
+          "addOrg": "Tānaki atu ha Aʻusia Fakakautaha",
+          "orgNum": "Fa'unga #"
+        },
+        "edu": {
+          "institution": "Ngaahi Kautaha Ako",
+          "institutionPlaceholder": "Hingoa 'o e 'apiako pe 'apiako...",
+          "degree": "Kaveinga",
+          "degreePlaceholder": "S1, ako ma'olunga, etc...",
+          "major": "Potungaue/Mala'e Ako",
+          "majorPlaceholder": "'Enisinia 'o e 'Infometika...",
+          "gpa": "GPA (fili)",
+          "currentStudy": "'Oku ou kei ako pe heni .",
+          "descriptionPlaceholder": "Ngaahi ngaue mo e ngaahi lavame'a lolotonga 'a e ako...",
+          "addEdu": "Tānaki atu ki he Akó",
+          "eduNum": "Ako #"
+        },
+        "cert": {
+          "name": "Hingoa 'o e Tohi Fakamo'oni / Ako",
+          "namePlaceholder": "Hingoa fakamo'oni...",
+          "issuer": "Pulusi",
+          "issuerPlaceholder": "Kautaha pulusi tohi...",
+          "issueDate": "Kamata (ʻAho Pulusi)",
+          "issueDatePlaceholder": "Fili 'a e 'aho pulusi...",
+          "expiryDate": "Fakakakato (Vahe taimi 'oku 'aonga)",
+          "expiryDatePlaceholder": "Fili 'a e 'aho 'osi...",
+          "noExpiry": "Ko e tohi fakamo'oni ko 'eni 'oku 'ikai ha 'aho 'e ngata ai .",
+          "url": "URL Fakamo'oni",
+          "uploadThumbnail": "Tohi Fakamo'oni Ako / 'Imisi 'o e Ako",
+          "uploadThumbnailLimit": "Fakahu hake 'a e 'imisi 'o e tohi fakamo'oni ako (JPG/PNG/WEBP, lahi taha 'o e 2MB)",
+          "addCert": "Tānaki atu ʻa e Fakamoʻoni",
+          "certNum": "Fakamoʻoni #"
+        },
+        "contact": {
+          "contactNum": "Fetu'utaki #",
+          "platform": "Siteisi",
+          "displayText": "Faka'ali'ali 'a e Tohi",
+          "displayTextPlaceholder": "e.g., koe@'imeili.com pe @hingoa faka'aonga'i",
+          "url": "Fehokotaki (URL)",
+          "urlPlaceholderWhatsapp": "fakatātā, 62812... (ʻo ʻikai ha taki 0)",
+          "urlPlaceholderEmail": "e.g., koe@'imeili.com",
+          "urlPlaceholderWebsite": "hangē ko ʻení, http://...",
+          "urlPlaceholderDefault": "e.g., hingoa faka'aonga'i",
+          "addContact": "Tānaki atu Fetuʻutaki"
+        },
+        "common": {
+          "months": {
+            "1": "Sanuali",
+            "2": "Fepueli",
+            "3": "Mā'asi",
+            "4": "Epeleli",
+            "5": "Mē",
+            "6": "Sune",
+            "7": "Siulai",
+            "8": "Ākosi",
+            "9": "Sepitema",
+            "10": "Okatopa",
+            "11": "Nōvema",
+            "12": "Tīsema"
+          },
+          "month": "Māhina",
+          "year": "Taʻu",
+          "invalidDate": "Mahina Faka'osi 'oku 'ikai ke 'aonga",
+          "words": "ngaahi fo'i lea"
+        }
+      },
+      "sure": "Pau",
+      "deletePhotoTitle": "Tamate'i 'a e 'Ata Fakamatala?",
+      "deletePhotoMessage": "'Oku ke fakapapau'i 'oku ke fie tamate'i 'a e 'ata faka'ilonga ko 'eni?",
+      "cancel": "Kaniseli",
+      "delete": "Tamate'i"
+    },
+    "cropper": {
+      "chooseBackground": "Fili ʻa e Potutohi .",
+      "cropPhoto": "Kosi Ho'o 'Ata",
+      "useOriginal": "Ngāueʻaki ʻa e ʻuluaki",
+      "backgroundPresets": "Ngaahi Preset 'o e Muimui",
+      "none": "Hala",
+      "uploadBackground": "Upload 'a e Potutohi",
+      "cancel": "Kaniseli",
+      "savePhoto": "Tauhi 'a e 'Ata",
+      "zoom": "Fakalahi",
+      "rotationTilt": "Vilo & Fakapiko",
+      "resetRotation": "Toe fakafoki ki he 0°",
+      "center": "Lotomālie",
+      "rotateLeft": "Vilo -90°",
+      "rotateRight": "Vilo +90°",
+      "removeBackground": "To'o 'a e Potutohi",
+      "processing": "Ngaue'aki ho'o 'imisi, kataki 'o tatali..."
+    },
+    "cvPreview": {
+      "title": "Tomu'a vakai ki he CV",
+      "downloadCv": "Download CV",
+      "download": "Taunilouti",
+      "wordCannotPreview": "'Oku 'ikai lava ke tomu'a vakai'i 'a e ngaahi tohi 'o e Word (.doc/.docx) 'i he fakafonua 'i he browser. ",
+      "downloadFile": "Download 'a e Faile CV",
+      "back": "Tu'a",
+      "mobileMessage": "Kataki 'o download 'a e faile CV ke ke tomu'a vakai'i.",
+      "preview": "Tomu'a vakai ki he CV",
+      "wordPreviewTitle": "Tomu'a vakai'i 'o e Tohi 'a e Word",
+      "wordPreviewMessage": "'Oku 'ikai lava ke tomu'a vakai'i 'a e ngaahi tohi 'o e Word (.doc/.docx) 'i he fakafonua 'i he browser. Kataki 'o download 'a e faile ke ke vakai ki ai."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Tohi ha fakamatala nounou fekauʻaki mo koe, ngaahi meʻa ʻokú ke saiʻia aí, mo e ngaahi taumuʻa ngāué..."
+    },
+    "skills": {
+      "placeholder": "Taipa'i 'a e hingoa 'o e taukei...",
+      "add": "Tānaki",
+      "enterToAdd": "Lomiʻi ʻa e Enter ke tānaki atu .",
+      "noSkills": "'Oku te'eki ke tanaki atu ha taukei."
+    },
+    "projects": {
+      "projectName": "Hingoa ʻo e Poloseki",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL 'o e poloseki",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Vaha'a taimi",
+      "startMonth": "Kamata Mahina 2019.",
+      "startYear": "Kamata Ta'u 2019 .",
+      "endMonth": "Faka'osi 'o e Mahina",
+      "endYear": "Ta'u Faka'osi",
+      "currentlyWorking": "Lolotonga ngaue ki he me'a ni .",
+      "description": "Fakamatala",
+      "descriptionPlaceholder": "Fakamatala'i 'a e poloseki, ho fatongia, mo e ngaahi lavame'a...",
+      "technologies": "Ngaahi Tekinolosia ʻoku Ngāueʻaki",
+      "addProject": "Tānaki atu ʻa e Poloseki",
+      "image": "'Imisi 'o e Poloseki",
+      "removeImage": "To'o 'a e 'Imisi",
+      "uploadImage": "Lomi'i ke upload 'a e 'imisi"
+    },
+    "work": {
+      "company": "Kautaha/Kautaha",
+      "companyPlaceholder": "Hingoa 'o e kautaha...",
+      "role": "Fatongia/Tu'unga",
+      "rolePlaceholder": "Ko ho tu'unga...",
+      "jobType": "Fa'ahinga Ngaue",
+      "selectJobType": "Fili ʻa e faʻahinga",
+      "fullTime": "Taimi kakato",
+      "partTime": "Konga taimi",
+      "contract": "Aleapau",
+      "internship": "Akoako ngāue",
+      "freelance": "Ngaue tau'ataina",
+      "location": "Tu'u'anga",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Vaha'a taimi",
+      "currentlyWorking": "'Oku lolotonga ngaue heni .",
+      "description": "Fakamatala Ngaue",
+      "descriptionPlaceholder": "Fakamatala'i ho'o ngaahi fatongia tefito mo e ngaahi lavame'a...",
+      "skills": "Ngaahi Taukei Pau",
+      "addExperience": "Tānaki atu ha Aʻusia"
+    },
+    "org": {
+      "organization": "Hingoa ʻo e Kautaha",
+      "organizationPlaceholder": "Hingoa 'o e kautaha...",
+      "role": "Fatongia/Tu'unga",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Vaha'a taimi",
+      "periodFormat": "pe Founga Tau'ataina (hange ko e 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "'Oku lolotonga ngaue",
+      "description": "Fakamatala ki he Ngaue",
+      "descriptionPlaceholder": "Fakamatala'i ho'o ngaahi ngaue pe ngaahi tokoni...",
+      "addExperience": "Tānaki atu ha Aʻusia"
+    },
+    "education": {
+      "institution": "Hingoa ʻo e Kautaha",
+      "institutionPlaceholder": "Hingoa 'o e 'apiako pe 'univesiti...",
+      "degree": "Tikili/Levolo",
+      "degreePlaceholder": "e.g. ",
+      "major": "Lahi/Mala'e 'o e Ako",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Kalasi",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Loloa 'o e Ako",
+      "periodFormat": "pe Founga Tau'ataina (hange ko e 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "'Oku lolotonga ako heni .",
+      "description": "Ngaahi Ngaue / Ngaahi Fakalangilangi",
+      "descriptionPlaceholder": "Fakamatala'i 'a e ngaahi ngaue fakaako, ngaahi kautaha, pe ngaahi fakalangilangi kuo ma'u...",
+      "addEducation": "Tānaki atu ki he Akó"
+    },
+    "cert": {
+      "name": "Hingoa Fakamo'oni",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Kautaha Tuku atu",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "'Aho Tuku",
+      "expiryDate": "'Oku 'aonga 'o a'u ki he 2020.",
+      "noExpiry": "'Oku 'ikai ke 'osi 'a e fakamo'oni ko 'eni .",
+      "yearPlaceholder": "pe Taʻu (hangē ko e 2023)",
+      "credentialUrl": "URL Fakamo'oni",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Ngaahi Taukei Fekau'aki",
+      "addCertification": "Tānaki atu ʻa e Fakamoʻoni",
+      "image": "'Imisi/Logo",
+      "removeImage": "To'o 'a e 'Imisi",
+      "uploadImage": "Lomi'i ke upload 'a e 'imisi"
+    },
+    "common": {
+      "months": {
+        "1": "Sanuali",
+        "2": "Fepueli",
+        "3": "Mā'asi",
+        "4": "Epeleli",
+        "5": "Mē",
+        "6": "Sune",
+        "7": "Siulai",
+        "8": "Ākosi",
+        "9": "Sepitema",
+        "10": "Okatopa",
+        "11": "Nōvema",
+        "12": "Tīsema"
+      },
+      "month": "Māhina",
+      "year": "Taʻu",
+      "invalidDate": "Mahina Faka'osi 'oku 'ikai ke 'aonga",
+      "words": "ngaahi fo'i lea"
+    }
+  },
+  "settings": {
+    "title": "Ngaahi fokotuʻutuʻu",
+    "subtitle": "Pule'i ho'o fakamatala 'o e portfolio mo e ngaahi me'a 'oku ke sai'ia ai",
+    "tabs": {
+      "profile": "Ko ʻeku fakamatala",
+      "security": "Malu'i",
+      "personalization": "Fakafo'ituitui"
+    },
+    "profile": {
+      "infoTitle": "Ngaahi Fakamatala Tefito",
+      "photo": "'Ata Fakamatala",
+      "uploadPhoto": "Liliu ʻa e ʻAtá",
+      "fullName": "Hingoa Kakato",
+      "fullNamePlaceholder": "Sione Toe",
+      "email": "Tu'asila 'Imeili",
+      "emailPlaceholder": "sione@fakatātā.com",
+      "emailHelp": "'Oku ngaue'aki 'a e 'imeili ki he login pea 'oku 'ikai ke fakahaa'i fakapule'anga.",
+      "portfolioUrl": "URL 'o e Potufolio",
+      "saveProfile": "Tauhi e fakamatala",
+      "save": "Tauhi e fakamatala",
+      "accountCreated": "Fa'u 'o e 'akauni",
+      "lastLogin": "Hu Fakamuimuitaha",
+      "oauthNotice": "ʻOku fehokotaki ʻa e fakamatala ko ʻení ki hoʻo ʻakauni {{provider}}. Ko e ngaahi liliu ki he fakamatala kuo pau ke fai ia ʻo fakafou ʻi he kautaha ʻoku nau ʻoatu ʻa e ngāué."
+    },
+    "security": {
+      "changePassword": "Liliu e lea fufuu",
+      "currentPassword": "Lea fufuu lolotonga",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Lea fufuu fo'ou",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Fakapapau'i 'a e Lea fufuu Fo'ou",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "'Ikai si'i hifo he mata'itohi 'e 8",
+        "uppercase": "Mataʻitohi lahi ʻe taha (A-Z)",
+        "number": "Fika ʻe taha (0-9)",
+        "symbol": "Ko e faka'ilonga 'e taha (!@#$%^&*)"
+      },
+      "passwordTitle": "Leafūfū",
+      "updatePassword": "Fakafo'ou 'a e lea fufuu",
+      "additionalSecurity": "Malu Fakalahi",
+      "twoFactor": "Fakamo'oni'i 'o e Me'a 'e Ua (2FA)",
+      "twoFactorDesc": "Malu'i ho'o 'akauni 'o faka'aonga'i ha toe OTP code.",
+      "activeSessions": "Ngaahi Fakataha Ngāue",
+      "activeSessionsDesc": "Faka'ata ma'u pe 'a e siofi 'o e ngaahi device kuo 'osi 'i loto.",
+      "publicVisibility": "'Asi 'a e Kakai",
+      "hideFromSearch": "Fufū ʻa e Potufolio mei he Ngaahi Mīsini Kumi",
+      "hideFromSearchDesc": "Ta'ofi 'a e Google mei hono fakahokohoko ho'o peesi 'o e portfolio fakapule'anga.",
+      "disable2fa": {
+        "title": "Fakata'e'aonga'i 'a e 2FA",
+        "description": "'Oku ke fakapapau'i 'oku ke fie tamate'i 'a e fakamo'oni 'o e ongo me'a?",
+        "confirmPasswordLabel": "Fakahu ho'o lea fufuu ke fakapapau'i .",
+        "currentPasswordPlaceholder": "Lea fufuu lolotonga",
+        "cancelButton": "Kaniseli",
+        "confirmButton": "Fakata'e'aonga'i 'a e 2FA",
+        "incorrectPassword": "Lea fufuu hala."
+      },
+      "setup2fa": {
+        "step1Title": "1. Sikani QR Kouti",
+        "step1Desc": "Fakaava ho'o polokalama fakamo'oni pea sikani 'a e QR code ko 'eni:",
+        "unableToScan": "'Ikai lava ke sikani? Ngāueʻaki ʻa e kī setup",
+        "step2Title": "2. Fakamo'oni'i 'a e Kouti .",
+        "step2Desc": "Fakahu 'a e 6-fika 'o e code 'oku fakatupu 'e ho'o app:",
+        "cancelButton": "Kaniseli",
+        "enableButton": "Faka'ata 'a e 2FA",
+        "invalidLength": "Kataki 'o fakahu ha code fika 6.",
+        "invalidCode": "Ko e kouti fakamo'oni 'oku 'ikai ke 'aonga. Kātaki ʻo toe feinga."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Ngaahi Puleʻi ʻo e Leá",
+      "appLanguage": "Lea App",
+      "layoutTitle": "Fokotu'utu'u & Taipe",
+      "layoutStyle": "Sitaila Fakahokohoko",
+      "layoutModern": "Sitaila Fakaonopooni (Faka'aonga'i)",
+      "layoutClassic": "Sitaila Kalasi",
+      "layoutMinimalist": "Sitaila Fakasi'isi'i",
+      "fontSize": "Lahi 'o e Font 'o e App",
+      "fontSmall": "Si'isi'i",
+      "fontNormal": "Angamaheni (Lotolotonga)",
+      "fontLarge": "Lahi",
+      "searchLanguage": "Fekumi ki he lea...",
+      "languageNotFound": "Lea 'oku 'ikai ke ma'u",
+      "layoutElegant": "Sitaila faka'ofo'ofa"
+    },
+    "saveChanges": "Tauhi e Ngaahi Liliú",
+    "cancel": "Kaniseli",
+    "appSettings": "Ngaahi Fakanofo ʻo e App",
+    "logoutConfirmTitle": "Fakapapau'i 'a e Hu ki tu'a",
+    "logoutConfirmDesc": "'Oku ke fakapapau'i 'oku ke fie log out mei he sisitemi?",
+    "logoutConfirmYes": "ʻIo, Hu ki tuʻa",
+    "generalError": "Naʻe hoko ha fehālaaki. ",
+    "success": "Lavame'a",
+    "preferencesSaved": "App manakoa fakahaofi lavame'a.",
+    "header": "Ngaahi Fakatonutonu ʻo e Tohi Kolé",
+    "logout": {
+      "title": "Fakapapau'i 'o e Hu ki tu'a",
+      "message": "'Oku ke fakapapau'i 'oku ke fie log out mei he sisitemi?",
+      "confirm": "ʻIo, Hu ki tuʻa"
+    },
+    "about": {
+      "title": "Fekau'aki mo e Tohi Kole",
+      "subtitle": "Tu'unga 'o e Tokotaha Langa Potufolio",
+      "version": "Tatau",
+      "description": "Ko e DevFolio ko ha tu'unga langa 'o e portfolio fakaonopooni kuo fakataumu'a ma'a e kau developers, kau tisaini, mo e kau fa'u fakapalofesinale. ",
+      "license": "Laiseni & Totonu Pulusi",
+      "copyright": "© 2026 DevFolio Inc.",
+      "developer": "Fakatupulaki",
+      "developedBy": "Naʻe fakatupulaki ʻe Rifqi Nalatata ."
+    },
+    "deleteAccount": {
+      "title": "Tamate'i Tu'uma'u 'a e 'Akauni",
+      "menuItem": "Tamate'i 'a e 'Akauni",
+      "successTitle": "Lavame'a",
+      "successMessage": "Kuo 'osi 'ave ha 'imeili fakapapau'i 'o e tamate'i 'o e 'akauni.",
+      "errorTitle": "Ta'elavame'a",
+      "errorMessage": "Na'e 'ikai lava ke 'ave 'a e 'imeili fakapapau.",
+      "confirmationMessage": "'Oku ke fakapapau'i 'oku ke fie tamate'i tu'uloa ho'o 'akauni?",
+      "warningMessage1": "Te ke ma'u ha 'imeili ke fakapapau'i 'a e tamate'i 'o e 'akauni.",
+      "warningMessage2": "Kapau 'e fakapapau'i, 'e tamate'i tu'uloa 'a e ngaahi fakamatala kotoa pe (portfolio, ngaahi poloseki, ngaahi fakafuofua) pea 'e 'ikai lava ke toe ma'u.",
+      "cancel": "Kaniseli",
+      "confirm": "Fakapapau"
+    },
+    "toasts": {
+      "toastError": "Hala",
+      "toastSuccess": "Lavame'a",
+      "toastSetup2FAFailed": "Na'e 'ikai lava ke setup 'a e 2FA. Kātaki ʻo toe feinga.",
+      "toast2FAEnabled": "Kuo faka'ata 'a e fakamo'oni 'o e me'a 'e ua.",
+      "toast2FADisabled": "Kuo fakataʻeʻaongaʻi ʻa e fakamoʻoni ʻo e meʻa ʻe uá.",
+      "toastSessionEnabled": "Kuo faka'ata 'a e siofi 'o e session 'oku ngaue.",
+      "toastSessionDisabled": "Kuo fakata'e'aonga'i 'a e siofi 'o e session 'oku ngaue.",
+      "toastSetupKeyCopied": "Setup key hiki tatau ki he palakipoe."
+    },
+    "privacy": {
+      "title": "Tu'utu'uni Fakalukufua",
+      "updateDate": "Fakamuimuitaha: Siulai 15, 2026",
+      "intro": "'Oku fakamatala'i 'e he Tu'utu'uni Fakalukufua ko 'eni 'a e founga 'oku tanaki, faka'aonga'i, mo malu'i ai 'e he DevFolio ho'o fakamatala fakafo'ituitui 'i he taimi 'oku ke faka'aonga'i ai 'etau ngaahi ngaue.",
+      "section1Title": "1. Ngaahi Fakamatala ‘Oku Mau Tānaki .",
+      "section1Content": "'Oku mau tanaki 'a e fakamatala 'oku ke 'omai fakahangatonu 'i he taimi 'oku ke fa'u ai ha 'akauni, langa ha portfolio, pea fetu'utaki ki he'emau poupou. ",
+      "section2Title": "2. Ngāue‘aki ‘o e Ngaahi Fakamatalá .",
+      "section2Content": "‘Oku ngāue‘aki ho‘o fakamatalá ke fakalele, tauhi, mo ‘oatu ‘a e ngaahi me‘a ‘o ‘emau ngaahi ngāué, pea pehē ki he fetu‘utaki mo koe fekau‘aki mo ho‘o ‘akauní pe ngaahi ngāué.",
+      "section3Title": "3. Malu'i 'o e fakamatala .",
+      "section3Content": "‘Oku mau fakahoko ‘a e ngaahi founga malu‘i ‘oku fe‘ungamālie ke malu‘i ho‘o fakamatalá mei he hū ta‘efakamafai‘i, fakahā, pe faka‘auha."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "'Oku 'ikai ke ma'u ha faka'ilonga fakapapau.",
+    "defaultError": "Na'e 'ikai lava ke tamate'i 'a e 'akauni. Mahalo kuo ʻosi ʻa e taimi ʻo e fakaʻilonga.",
+    "loadingTitle": "Tamate'i 'o e 'Akauni...",
+    "loadingMessage": "Kataki 'o tatali, 'oku mau fakahoko ho'o kole.",
+    "successTitle": "Kuo Lavame'a hono Tamate'i 'o e 'Akauni",
+    "successMessage": "Kuo tamate'i tu'uloa ho'o ngaahi fakamatala kotoa pe. 'E toe fakahinohino'i koe...",
+    "errorTitle": "Na'e 'ikai lava ke Tamate'i 'a e 'Akauni",
+    "backToHome": "Foki ki 'Api ."
+  },
+  "forgotPassword": {
+    "minutes": "miniti",
+    "seconds": "sekoni",
+    "success": "Lavame'a",
+    "otpSentToEmail": "Kuo 'osi 'ave ha OTP code ki ho'o 'imeili.",
+    "failed": "Ta'elavame'a",
+    "emailNotFound": "'Oku 'ikai ke ma'u 'a e 'imeili.",
+    "emailThirdParty": "Ko e 'imeili ko 'eni 'oku lesisita ia 'o fakafou 'i ha paati hono tolu.",
+    "genericError": "ʻOku ʻi ai ha fehālaaki. Kātaki ʻo toe feinga.",
+    "otpVerified": "Kuo lavame'a hono fakamo'oni'i 'o e OTP code.",
+    "otpExpired": "Kuo 'osi 'a e taimi 'o e code OTP. Kataki 'o kole ha code fo'ou.",
+    "otpInvalid": "Ko e OTP 'oku 'ikai ke 'aonga.",
+    "otpResent": "Kuo 'osi 'ave ha OTP code fo'ou ki ho'o 'imeili.",
+    "otpResendFailed": "Na'e 'ikai lava ke toe 'ave 'a e code OTP. Kātaki ʻo toe feinga.",
+    "passwordResetSuccess": "Lavame'a hono toe fakafoki 'o e lea fufuu. Kataki 'o hu ki loto 'aki ho'o lea fufuu fo'ou.",
+    "passwordResetFailed": "Naʻe ʻikai lava ke toe fokotuʻu ʻa e lea fufuú.",
+    "backToLogin": "Foki ki he Login",
+    "back": "Foki",
+    "title": "Ngalo 'a e Lea Fakapulipuli",
+    "description": "Fakahu 'a e tu'asila 'imeili kuo lesisita 'i ho'o 'akauni. Te tau 'ave ha OTP code ke toe fokotu'u 'a e lea fufuu.",
+    "emailLabel": "Tu'asila 'Imeili",
+    "sending": "Ko e fekau'i atu...",
+    "sendOtp": "Fekau'i atu 'a e Kouti OTP",
+    "verifyOtpTitle": "Fakamo'oni'i 'a e OTP Kouti",
+    "verifyOtpDesc": "Fakahu e code fika 6 kuo 'osi 'ave ki ho'o email ke fakapapau'i ho'o identity.",
+    "verifying": "Fakamo'oni'i...",
+    "verifyOtp": "Fakamo'oni'i 'a e OTP",
+    "resending": "Toe fekau'i atu...",
+    "resendOtp": "Toe 'ave 'a e Kouti OTP",
+    "resendCodeIn": "Toe 'ave 'a e code 'i he",
+    "newPasswordTitle": "Fa'u ha Lea Fufuu Fo'ou",
+    "newPasswordDesc": "Faʻu ha lea fufuu foʻou mo mālohi ke maluʻi hoʻo ʻakauní.",
+    "newPasswordLabel": "Lea fufuu fo'ou",
+    "min8Chars": "Si'isi'i taha 'o e ngaahi mata'itohi 'e 8",
+    "oneUpperCase": "1 mata'itohi lalahi (A-Z)",
+    "oneNumber": "1 fika (0-9)",
+    "oneSymbol": "1 faka'ilonga (!@#$%^&*)",
+    "confirmPasswordLabel": "Fakapapau'i 'a e Lea Fufuu",
+    "passwordsDoNotMatch": "ʻOku ʻikai ke feʻunga ʻa e ngaahi lea fufuú.",
+    "resettingPassword": "Toe fakafoki 'o e lea fufuu...",
+    "resetPassword": "Toe fokotuʻu ʻa e lea fufuú"
+  },
+  "verifyEmail": {
+    "resendError": "Na'e 'ikai lava ke toe 'ave 'a e 'imeili fakamo'oni. Kātaki ʻo toe feinga.",
+    "checkingStatus": "Vakai'i 'a e tu'unga fakamo'oni...",
+    "title": "Vakai'i Ho'o 'Imeili",
+    "description": "Kuo mau 'osi 'ave ha 'imeili fakamo'oni ki ho'o tu'asila 'imeili. Kataki 'o fakaava 'a e 'imeili pea lomi'i 'a e <1>\"Fakapapau'i 'a e 'akauni\"</1> button ke faka'aonga'i ho'o 'akauni.",
+    "stepsTitle": "Ngaahi sitepu",
+    "step1": "Fakaava ho'o polokalama 'imeili (Gmail, Yahoo, etc)",
+    "step2": "Kumi ha 'imeili mei he DevFolio mo e kaveinga \"Fakatupu 'o e 'akauni\"",
+    "step3": "Lomi'i 'i he \"Fakapapau'i 'a e 'akauni\" 'i he 'imeili",
+    "step4": "'E fakahinohino'i koe ki he peesi login ke ke hu ki ai",
+    "resendSuccess": "Kuo toe 'ave 'a e 'imeili fakamo'oni!",
+    "resending": "Toe fekau'i atu...",
+    "resendButton": "Toe 'ave 'a e 'Imeili Fakamo'oni",
+    "backToLogin": "Foki ki he Peesi Fakahu",
+    "footerNote": "Na'e 'ikai ke ma'u 'a e 'imeili? Vakaiʻi ʻa e <1>Spam</1> pe <2>Junk</2> ʻi hoʻo ʻīmeilí. Ko e fehokotaki'anga fakamo'oni 'oku 'aonga ia ki he <3>houa 'e 24</3>."
+  }
+}

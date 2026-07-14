@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Đặc trưng",
+    "templates": "Mẫu",
+    "pricing": "Định giá",
+    "login": "Đăng nhập",
+    "getStarted": "Bắt đầu",
+    "title": "danh sách phát triển"
+  },
+  "landing": {
+    "badge": "Công cụ xây dựng danh mục đầu tư tối ưu dành cho nhà phát triển",
+    "title1": "Xây dựng sự chuyên nghiệp của bạn",
+    "title2": "danh mục đầu tư trong",
+    "titleHighlight": "giây.",
+    "subtitle": "Mọi thứ bạn cần để thể hiện kỹ năng, dự án và kinh nghiệm của mình. ",
+    "startBuilding": "Bắt đầu xây dựng ngay bây giờ",
+    "viewTemplates": "Xem mẫu",
+    "fastDeployment": "Triển khai nhanh",
+    "liveStatus": "tên người dùng.dev đang hoạt động!",
+    "featuresTitle": "Tính năng mạnh mẽ",
+    "featuresSubtitle": "Chúng tôi cung cấp tất cả các công cụ bạn cần để nổi bật giữa đám đông và đạt được công việc mơ ước của bạn.",
+    "feature1Title": "Trình tạo kéo và thả",
+    "feature1Desc": "Dễ dàng sắp xếp các phần, dự án và kỹ năng của bạn bằng trình chỉnh sửa trực quan trực quan của chúng tôi.",
+    "feature2Title": "Chủ đề tùy chỉnh",
+    "feature2Desc": "Chọn từ các mẫu được thiết kế chuyên nghiệp hoặc tạo giao diện độc đáo của riêng bạn.",
+    "feature3Title": "Phân tích thời gian thực",
+    "feature3Desc": "Theo dõi khách truy cập của bạn, xem dự án nào nhận được nhiều sự chú ý nhất và hơn thế nữa."
+  },
+  "auth": {
+    "welcomeBack": "Chào mừng trở lại",
+    "loginToContinue": "Đăng nhập vào tài khoản của bạn để tiếp tục",
+    "createAccount": "Tạo tài khoản",
+    "joinCommunity": "Tham gia cùng hàng ngàn nhà phát triển khác",
+    "fullName": "Tên đầy đủ",
+    "fullNamePlaceholder": "ví dụ. ",
+    "email": "Địa chỉ email",
+    "emailPlaceholder": "bạn@example.com",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "•···········",
+    "rememberMe": "nhớ tôi",
+    "forgotPassword": "Quên mật khẩu?",
+    "signIn": "Đăng nhập",
+    "signingIn": "Đang đăng nhập...",
+    "signUp": "Đăng ký",
+    "signingUp": "Đăng ký...",
+    "noAccount": "Bạn chưa có tài khoản?",
+    "hasAccount": "Đã có tài khoản?",
+    "passwordRules": {
+      "title": "Mật khẩu phải chứa:",
+      "length": "Ít nhất 8 ký tự",
+      "uppercase": "Một chữ cái viết hoa (A-Z)",
+      "number": "Một số (0-9)",
+      "symbol": "Một biểu tượng (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Trình tạo danh mục đầu tư",
+      "templates": "Mẫu & Chủ đề",
+      "settings": "Cài đặt",
+      "collapse": "Thu gọn thanh bên",
+      "overview": "Tổng quan",
+      "profileSettings": "Cài đặt hồ sơ",
+      "customDomain": "Tên miền tùy chỉnh",
+      "feedback": "Nhận xét"
+    },
+    "header": {
+      "viewLive": "Xem trực tiếp",
+      "welcome": "Chào mừng,",
+      "logout": "Đăng xuất",
+      "builder": "Người xây dựng",
+      "livePortfolio": "Danh mục đầu tư trực tiếp",
+      "live": "Sống"
+    },
+    "logoutModal": {
+      "title": "Đăng xuất",
+      "message": "Bạn có chắc chắn muốn đăng xuất khỏi tài khoản của mình không? ",
+      "cancel": "Hủy bỏ",
+      "confirm": "Có, Đăng xuất"
+    },
+    "slugModal": {
+      "title": "Chọn URL danh mục đầu tư của bạn",
+      "message": "URL này sẽ là liên kết duy nhất tới danh mục đầu tư của bạn. ",
+      "slugPlaceholder": "tên của bạn",
+      "availability": "sẵn có:",
+      "available": "Có sẵn",
+      "unavailable": "Không có sẵn",
+      "checking": "Đang kiểm tra...",
+      "mustFormat": "Chỉ có thể chứa chữ cái, số và dấu gạch ngang (-)",
+      "cancel": "Hủy bỏ",
+      "save": "Lưu URL",
+      "usernameUrl": "URL tên người dùng",
+      "helpText": "Chữ thường, số và dấu gạch ngang. ",
+      "validation": {
+        "empty": "Slug không thể trống.",
+        "min3": "Tối thiểu 3 ký tự.",
+        "max30": "Tối đa 30 ký tự.",
+        "format": "Chỉ viết chữ thường, số và dấu gạch ngang (-). "
+      }
+    },
+    "loadingPortfolio": "Đang tải dữ liệu danh mục đầu tư...",
+    "overview": {
+      "greetings": {
+        "morning": "Chào buổi sáng",
+        "afternoon": "Chào buổi chiều",
+        "evening": "Chào buổi chiều",
+        "night": "Chúc ngủ ngon"
+      },
+      "welcome": {
+        "hi": "Xin chào,",
+        "creator": "Người sáng tạo",
+        "desc1": "Welcome to the DevFolio dashboard. Your portfolio has been viewed by",
+        "desc2": "người. Hãy tiếp tục làm việc!",
+        "editPortfolio": "Chỉnh sửa danh mục đầu tư"
+      },
+      "stats": {
+        "totalVisitors": "Tổng số khách truy cập",
+        "projectViews": "Đã xem (Dự án)",
+        "activeSessions": "Phiên hoạt động",
+        "totalLabel": "Tổng cộng"
+      },
+      "setup": {
+        "title": "Tiến trình thiết lập",
+        "completed": "Your portfolio is complete! 🎉",
+        "inProgress": "Steps to the perfect portfolio.",
+        "profile": {
+          "title": "Hồ sơ hoàn chỉnh",
+          "desc": "Add name, bio and profile photo."
+        },
+        "section": {
+          "title": "Thêm phần",
+          "desc": "Activate at least 1 section in the portfolio."
+        },
+        "project": {
+          "title": "Thêm dự án",
+          "desc": "Enter at least 1 of your best projects."
+        },
+        "publish": {
+          "title": "Xuất bản danh mục đầu tư",
+          "desc": "Set a custom URL so that it can be accessed by the public."
+        }
+      },
+      "topProjects": {
+        "title": "Dự án phổ biến nhất",
+        "desc": "The performance of your work in the eyes of visitors.",
+        "viewAll": "Xem Tất Cả",
+        "empty": "There is no view data for your project yet."
+      }
+    },
+    "themes": {
+      "title": "Mẫu & Chủ đề",
+      "subtitle": "Tùy chỉnh giao diện của danh mục đầu tư công cộng của bạn.",
+      "reset": "Đặt lại mặc định",
+      "save": "Lưu thay đổi",
+      "saving": "Đang lưu...",
+      "chooseTemplate": "Chọn một mẫu",
+      "primaryColor": "Màu Chính",
+      "typography": "Kiểu chữ",
+      "appearance": "Ngoại hình",
+      "corners": "Góc & Biên giới",
+      "successTitle": "Thành công",
+      "successMessage": "Tùy chọn chủ đề được cập nhật thành công",
+      "errorTitle": "Lỗi",
+      "errorMessage": "Không lưu được tùy chọn chủ đề",
+      "templates": {
+        "minimalist": {
+          "name": "Tối giản",
+          "desc": "Thiết kế sạch sẽ và đơn giản tập trung vào nội dung."
+        },
+        "developerDark": {
+          "name": "Nhà phát triển Tối",
+          "desc": "Chủ đề tối hoàn hảo để giới thiệu các ngăn xếp mã và công nghệ."
+        },
+        "creative": {
+          "name": "Sáng tạo",
+          "desc": "Bố cục sống động và đầy màu sắc dành cho các nhà thiết kế và sáng tạo."
+        },
+        "executive": {
+          "name": "Điều hành",
+          "desc": "Bố cục chuyên nghiệp và trang trọng dành cho các chuyên gia kinh doanh."
+        },
+        "bentoGrid": {
+          "name": "Lưới Bento",
+          "desc": "Bố cục lưới kiểu Apple hiện đại giúp làm nổi bật các kỹ năng khác nhau một cách hiệu quả."
+        },
+        "neoBrutalism": {
+          "name": "Chủ nghĩa tàn bạo mới",
+          "desc": "Đường viền đậm và màu sắc có độ tương phản cao mang lại vẻ ngoài hợp thời trang, không lỗi thời."
+        },
+        "glassmorphism": {
+          "name": "Chủ nghĩa thủy tinh",
+          "desc": "Hiệu ứng kính mờ trên các dải màu chuyển màu mang lại giao diện người dùng hiện đại đẹp mắt."
+        },
+        "linkInBio": {
+          "name": "Liên kết trong Bio",
+          "desc": "Bố cục dọc nhỏ gọn được tối ưu hóa cho màn hình thiết bị di động và phương tiện truyền thông xã hội."
+        }
+      },
+      "appearances": {
+        "light": "Ánh sáng",
+        "dark": "Tối",
+        "system": "Hệ thống"
+      },
+      "cornersOptions": {
+        "sharp": "Sắc nét",
+        "rounded": "Làm tròn",
+        "pill": "Thuốc viên"
+      }
+    },
+    "feedback": {
+      "title": "Gửi phản hồi",
+      "subtitle": "Hãy giúp chúng tôi cải thiện ứng dụng này bằng cách đưa ra các đề xuất, phê bình hoặc báo cáo lỗi trên ứng dụng này.",
+      "categoryLabel": "Chuyên mục phản hồi",
+      "messageLabel": "Chi tiết tin nhắn",
+      "messagePlaceholder": "Hãy cho tôi biết chi tiết về phản hồi bạn muốn truyền tải...",
+      "imageLabel": "Đính kèm hình ảnh (Tùy chọn)",
+      "imagePlaceholder": "Bấm để tải lên hình ảnh hoặc ảnh chụp màn hình",
+      "submitting": "Đang gửi...",
+      "submitBtn": "Gửi phản hồi",
+      "categories": {
+        "suggestion": "Gợi ý & Ý tưởng",
+        "bug": "Báo cáo lỗi/lỗi",
+        "criticism": "Chỉ trích",
+        "other": "Khác"
+      },
+      "imageErrorTitle": "Lỗi",
+      "imageErrorMessage": "Một số tệp bị từ chối vì chúng không có định dạng hình ảnh được hỗ trợ (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Thành công",
+      "successMessage": "Cảm ơn bạn đã phản hồi của bạn! Báo cáo đã được gửi.",
+      "submitErrorTitle": "Thất bại",
+      "submitErrorMessage": "Đã xảy ra lỗi khi gửi phản hồi. Vui lòng thử lại."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Giới thiệu về tôi",
+      "skills": "Kỹ năng",
+      "projects": "Dự án",
+      "workExperience": "Kinh nghiệm làm việc",
+      "orgExperience": "Kinh nghiệm tổ chức",
+      "education": "Giáo dục",
+      "certifications": "Đào tạo & Chứng nhận",
+      "contact": "Liên hệ với tôi"
+    },
+    "editor": {
+      "profileInfo": "Thông tin hồ sơ",
+      "saving": "Đang lưu...",
+      "profilePhoto": "Ảnh hồ sơ",
+      "clickToUpload": "Bấm để tải lên (JPG, PNG)",
+      "fullName": "Tên đầy đủ",
+      "fullNamePlaceholder": "ví dụ. ",
+      "bio": "Tiểu sử",
+      "bioPlaceholder": "Nhà phát triển Fullstack với niềm đam mê xây dựng các ứng dụng web hiện đại...",
+      "location": "Vị trí",
+      "locationPlaceholder": "ví dụ. ",
+      "gender": "Giới tính",
+      "selectGender": "Chọn giới tính",
+      "male": "Nam giới",
+      "female": "Nữ giới",
+      "custom": "Phong tục",
+      "customPlaceholder": "Nhập giới tính tùy chỉnh của bạn...",
+      "uploadCv": "Tải CV lên",
+      "cvFormat": "(DOC hoặc PDF)",
+      "preview": "Xem trước",
+      "remove": "Di dời",
+      "clickToUploadCv": "Bấm để tải lên PDF hoặc DOC",
+      "sections": "Phần",
+      "removeSelected": "Xóa đã chọn",
+      "confirmRemove": "Xác nhận Xóa",
+      "addSection": "Thêm phần",
+      "addAllSections": "Thêm tất cả các phần",
+      "noSections": "Chưa có phần nào",
+      "clickToAdd": "Nhấp vào \"+ Thêm phần\" để bắt đầu",
+      "selectAll": "Chọn tất cả",
+      "selected": "Đã chọn",
+      "dragToReorder": "Kéo để sắp xếp lại các phần",
+      "livePreview": "Xem trước trực tiếp",
+      "addSectionsToBuild": "Thêm các phần để xây dựng danh mục đầu tư của bạn",
+      "now": "Hiện nay",
+      "current": "Hiện hành",
+      "noExpiry": "Không hết hạn",
+      "see": "Nhìn thấy",
+      "position": "Chức vụ",
+      "degree": "Bằng cấp",
+      "certification": "Chứng nhận",
+      "sectionsForm": {
+        "about": {
+          "label": "Mô tả về bản thân bạn",
+          "placeholder": "Hãy cho chúng tôi biết về bản thân bạn, lý lịch, sở thích và kỹ năng của bạn..."
+        },
+        "skills": {
+          "addPlaceholder": "Gõ kỹ năng rồi nhấn Enter..."
+        },
+        "projects": {
+          "title": "Tên dự án",
+          "titlePlaceholder": "Tên dự án...",
+          "url": "URL dự án",
+          "description": "Sự miêu tả",
+          "descriptionPlaceholder": "Mô tả ngắn gọn về dự án...",
+          "uploadThumbnail": "Hình ảnh dự án",
+          "addProject": "Thêm dự án",
+          "projectNum": "Dự án #",
+          "currentProject": "Đây là một dự án tôi đang thực hiện"
+        },
+        "work": {
+          "company": "Công ty/Cơ quan",
+          "companyPlaceholder": "Tên công ty...",
+          "position": "Chức vụ/Chức danh",
+          "positionPlaceholder": "Vị trí của bạn...",
+          "employmentType": "Loại công việc",
+          "location": "Vị trí",
+          "locationPlaceholder": "Thành phố, Quốc gia...",
+          "startDate": "Bắt đầu",
+          "endDate": "Hoàn thành",
+          "currentWork": "Hiện tại tôi vẫn đang làm việc",
+          "description": "Sự miêu tả",
+          "descriptionPlaceholder": "Mô tả công việc và trách nhiệm...",
+          "skills": "Kỹ năng",
+          "addExperience": "Thêm kinh nghiệm làm việc",
+          "experienceNum": "Kinh nghiệm #",
+          "dateError": "Ngày kết thúc không được sớm hơn ngày bắt đầu"
+        },
+        "org": {
+          "organization": "Tên tổ chức",
+          "orgPlaceholder": "Đại học BEM...",
+          "role": "Vai trò/Vị trí",
+          "rolePlaceholder": "Trưởng phòng...",
+          "addOrg": "Thêm kinh nghiệm tổ chức",
+          "orgNum": "Tổ chức #"
+        },
+        "edu": {
+          "institution": "Cơ sở giáo dục",
+          "institutionPlaceholder": "Tên cơ sở hoặc trường học...",
+          "degree": "Tiêu đề",
+          "degreePlaceholder": "S1, trung học, v.v...",
+          "major": "Khoa/Lĩnh vực học tập",
+          "majorPlaceholder": "Kỹ thuật tin học...",
+          "gpa": "Điểm trung bình (tùy chọn)",
+          "currentStudy": "Tôi vẫn đang học ở đây",
+          "descriptionPlaceholder": "Các hoạt động và thành tích trong quá trình học tập...",
+          "addEdu": "Thêm giáo dục",
+          "eduNum": "Giáo dục #"
+        },
+        "cert": {
+          "name": "Tên chứng chỉ/đào tạo",
+          "namePlaceholder": "Tên chứng nhận...",
+          "issuer": "Nhà xuất bản",
+          "issuerPlaceholder": "Cơ quan xuất bản...",
+          "issueDate": "Bắt đầu (Ngày xuất bản)",
+          "issueDatePlaceholder": "Chọn ngày xuất bản...",
+          "expiryDate": "Đã hoàn thành (Thời gian hợp lệ)",
+          "expiryDatePlaceholder": "Chọn ngày hết hạn...",
+          "noExpiry": "Chứng chỉ này không có ngày hết hạn",
+          "url": "URL thông tin xác thực",
+          "uploadThumbnail": "Hình ảnh chứng chỉ/đào tạo",
+          "uploadThumbnailLimit": "Tải lên hình ảnh chứng chỉ (JPG/PNG/WEBP, tối đa 2MB)",
+          "addCert": "Thêm chứng nhận",
+          "certNum": "Chứng nhận số"
+        },
+        "contact": {
+          "contactNum": "Liên hệ #",
+          "platform": "Nền tảng",
+          "displayText": "Hiển thị văn bản",
+          "displayTextPlaceholder": "ví dụ: you@email.com hoặc @username",
+          "url": "Liên kết (URL)",
+          "urlPlaceholderWhatsapp": "ví dụ: 62812... (không có số 0 đứng đầu)",
+          "urlPlaceholderEmail": "ví dụ: you@email.com",
+          "urlPlaceholderWebsite": "ví dụ: https://...",
+          "urlPlaceholderDefault": "ví dụ: tên người dùng",
+          "addContact": "Thêm liên hệ"
+        },
+        "common": {
+          "months": {
+            "1": "Tháng Một",
+            "2": "Tháng hai",
+            "3": "Bước đều",
+            "4": "Tháng tư",
+            "5": "Có thể",
+            "6": "Tháng sáu",
+            "7": "Tháng bảy",
+            "8": "Tháng tám",
+            "9": "Tháng 9",
+            "10": "tháng mười",
+            "11": "Tháng mười một",
+            "12": "Tháng 12"
+          },
+          "month": "Tháng",
+          "year": "Năm",
+          "invalidDate": "Tháng kết thúc không hợp lệ",
+          "words": "từ"
+        }
+      },
+      "sure": "Chắc chắn",
+      "deletePhotoTitle": "Xóa ảnh hồ sơ?",
+      "deletePhotoMessage": "Bạn có chắc chắn muốn xóa ảnh hồ sơ này không?",
+      "cancel": "Hủy bỏ",
+      "delete": "Xóa bỏ"
+    },
+    "cropper": {
+      "chooseBackground": "Chọn nền",
+      "cropPhoto": "Cắt ảnh của bạn",
+      "useOriginal": "Sử dụng bản gốc",
+      "backgroundPresets": "Cài đặt trước nền",
+      "none": "Không có",
+      "uploadBackground": "Tải lên nền",
+      "cancel": "Hủy bỏ",
+      "savePhoto": "Lưu ảnh",
+      "zoom": "Phóng",
+      "rotationTilt": "Xoay & Nghiêng",
+      "resetRotation": "Đặt lại về 0°",
+      "center": "Trung tâm",
+      "rotateLeft": "Xoay -90°",
+      "rotateRight": "Xoay +90°",
+      "removeBackground": "Xóa nền",
+      "processing": "Đang xử lý hình ảnh của bạn, vui lòng đợi..."
+    },
+    "cvPreview": {
+      "title": "Xem trước CV",
+      "downloadCv": "Tải CV xuống",
+      "download": "Tải xuống",
+      "wordCannotPreview": "Không thể xem trước tài liệu Word (.doc/.docx) nguyên bản trong trình duyệt. ",
+      "downloadFile": "Tải xuống tệp CV",
+      "back": "Mặt sau",
+      "mobileMessage": "Vui lòng tải file CV về để xem trước.",
+      "preview": "Xem trước CV",
+      "wordPreviewTitle": "Xem trước tài liệu Word",
+      "wordPreviewMessage": "Không thể xem trước tài liệu Word (.doc/.docx) nguyên bản trong trình duyệt. Vui lòng tải file về để xem."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Viết mô tả ngắn gọn về bản thân, sở thích, mục tiêu nghề nghiệp..."
+    },
+    "skills": {
+      "placeholder": "Nhập tên kỹ năng...",
+      "add": "Thêm vào",
+      "enterToAdd": "Nhấn Enter để thêm",
+      "noSkills": "Chưa có kỹ năng nào được thêm vào."
+    },
+    "projects": {
+      "projectName": "Tên dự án",
+      "projectNamePlaceholder": "ví dụ. ",
+      "projectUrl": "URL dự án",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Khoảng thời gian",
+      "startMonth": "Tháng bắt đầu",
+      "startYear": "Năm bắt đầu",
+      "endMonth": "Cuối Tháng",
+      "endYear": "Cuối Năm",
+      "currentlyWorking": "Hiện đang làm việc này",
+      "description": "Sự miêu tả",
+      "descriptionPlaceholder": "Mô tả dự án, vai trò và thành tích của bạn...",
+      "technologies": "Công nghệ được sử dụng",
+      "addProject": "Thêm dự án",
+      "image": "Hình ảnh dự án",
+      "removeImage": "Xóa hình ảnh",
+      "uploadImage": "Bấm để tải hình ảnh lên"
+    },
+    "work": {
+      "company": "Công ty/Tổ chức",
+      "companyPlaceholder": "Tên công ty...",
+      "role": "Vai trò/Vị trí",
+      "rolePlaceholder": "Vị trí của bạn...",
+      "jobType": "Loại công việc",
+      "selectJobType": "Chọn loại",
+      "fullTime": "Toàn thời gian",
+      "partTime": "Bán thời gian",
+      "contract": "Hợp đồng",
+      "internship": "Kỳ thực tập",
+      "freelance": "Làm tự do",
+      "location": "Vị trí",
+      "locationPlaceholder": "ví dụ. ",
+      "duration": "Khoảng thời gian",
+      "currentlyWorking": "Hiện đang làm việc tại đây",
+      "description": "Mô tả công việc",
+      "descriptionPlaceholder": "Mô tả trách nhiệm và thành tích chính của bạn...",
+      "skills": "Kỹ năng cụ thể",
+      "addExperience": "Thêm kinh nghiệm"
+    },
+    "org": {
+      "organization": "Tên tổ chức",
+      "organizationPlaceholder": "Tên tổ chức...",
+      "role": "Vai trò/Vị trí",
+      "rolePlaceholder": "ví dụ. ",
+      "duration": "Khoảng thời gian",
+      "periodFormat": "hoặc Định dạng miễn phí (ví dụ: 2020 - 2022)",
+      "periodPlaceholder": "ví dụ. ",
+      "currentlyActive": "Hiện đang hoạt động",
+      "description": "Mô tả hoạt động",
+      "descriptionPlaceholder": "Mô tả hoạt động hoặc đóng góp của bạn...",
+      "addExperience": "Thêm kinh nghiệm"
+    },
+    "education": {
+      "institution": "Tên tổ chức",
+      "institutionPlaceholder": "Tên trường hoặc trường đại học...",
+      "degree": "Bằng cấp/Cấp độ",
+      "degreePlaceholder": "ví dụ. ",
+      "major": "Chuyên ngành/Lĩnh vực học tập",
+      "majorPlaceholder": "ví dụ. ",
+      "gpa": "Điểm trung bình / Lớp",
+      "gpaPlaceholder": "ví dụ. ",
+      "duration": "Thời lượng giáo dục",
+      "periodFormat": "hoặc Định dạng miễn phí (ví dụ: 2018 - 2022)",
+      "periodPlaceholder": "ví dụ. ",
+      "currentlyStudying": "Hiện đang học ở đây",
+      "description": "Hoạt động/Danh dự",
+      "descriptionPlaceholder": "Mô tả các hoạt động học thuật, tổ chức hoặc danh hiệu nhận được...",
+      "addEducation": "Thêm giáo dục"
+    },
+    "cert": {
+      "name": "Tên chứng nhận",
+      "namePlaceholder": "ví dụ. ",
+      "issuer": "Tổ chức phát hành",
+      "issuerPlaceholder": "ví dụ. ",
+      "issueDate": "Ngày phát hành",
+      "expiryDate": "Có hiệu lực cho đến khi",
+      "noExpiry": "Thông tin xác thực này không hết hạn",
+      "yearPlaceholder": "hoặc Năm (ví dụ: 2023)",
+      "credentialUrl": "URL thông tin xác thực",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Kỹ năng liên quan",
+      "addCertification": "Thêm chứng nhận",
+      "image": "Hình ảnh/Biểu trưng",
+      "removeImage": "Xóa hình ảnh",
+      "uploadImage": "Bấm để tải hình ảnh lên"
+    },
+    "common": {
+      "months": {
+        "1": "Tháng Một",
+        "2": "Tháng hai",
+        "3": "Bước đều",
+        "4": "Tháng tư",
+        "5": "Có thể",
+        "6": "Tháng sáu",
+        "7": "Tháng bảy",
+        "8": "Tháng tám",
+        "9": "Tháng 9",
+        "10": "tháng mười",
+        "11": "Tháng mười một",
+        "12": "Tháng 12"
+      },
+      "month": "Tháng",
+      "year": "Năm",
+      "invalidDate": "Tháng kết thúc không hợp lệ",
+      "words": "từ"
+    }
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "subtitle": "Quản lý hồ sơ danh mục đầu tư và sở thích của bạn",
+    "tabs": {
+      "profile": "Hồ sơ của tôi",
+      "security": "Bảo vệ",
+      "personalization": "Cá nhân hóa"
+    },
+    "profile": {
+      "infoTitle": "Thông tin cơ bản",
+      "photo": "Ảnh hồ sơ",
+      "uploadPhoto": "Thay đổi ảnh",
+      "fullName": "Tên đầy đủ",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Địa chỉ email",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Email được sử dụng để đăng nhập và không được hiển thị công khai.",
+      "portfolioUrl": "URL danh mục đầu tư",
+      "saveProfile": "Lưu hồ sơ",
+      "save": "Lưu hồ sơ",
+      "accountCreated": "Đã tạo tài khoản",
+      "lastLogin": "Đăng nhập lần cuối",
+      "oauthNotice": "Hồ sơ này được kết nối với tài khoản {{provider}} của bạn. Việc thay đổi hồ sơ phải được thực hiện thông qua nhà cung cấp dịch vụ."
+    },
+    "security": {
+      "changePassword": "Thay đổi mật khẩu",
+      "currentPassword": "Mật khẩu hiện tại",
+      "currentPasswordPlaceholder": "•···········",
+      "newPassword": "Mật khẩu mới",
+      "newPasswordPlaceholder": "•···········",
+      "confirmPassword": "Xác nhận mật khẩu mới",
+      "confirmPasswordPlaceholder": "•···········",
+      "passwordRules": {
+        "length": "Ít nhất 8 ký tự",
+        "uppercase": "Một chữ cái viết hoa (A-Z)",
+        "number": "Một số (0-9)",
+        "symbol": "Một biểu tượng (!@#$%^&*)"
+      },
+      "passwordTitle": "Mật khẩu",
+      "updatePassword": "Cập nhật mật khẩu",
+      "additionalSecurity": "Bảo mật bổ sung",
+      "twoFactor": "Xác thực hai yếu tố (2FA)",
+      "twoFactorDesc": "Bảo mật tài khoản của bạn bằng mã OTP bổ sung.",
+      "activeSessions": "Phiên hoạt động",
+      "activeSessionsDesc": "Luôn cho phép giám sát các thiết bị đã đăng nhập.",
+      "publicVisibility": "Hiển thị công khai",
+      "hideFromSearch": "Ẩn danh mục đầu tư khỏi công cụ tìm kiếm",
+      "hideFromSearchDesc": "Ngăn Google lập chỉ mục trang danh mục đầu tư công khai của bạn.",
+      "disable2fa": {
+        "title": "Vô hiệu hóa 2FA",
+        "description": "Bạn có chắc chắn muốn tắt xác thực hai yếu tố không?",
+        "confirmPasswordLabel": "Nhập mật khẩu của bạn để xác nhận",
+        "currentPasswordPlaceholder": "Mật khẩu hiện tại",
+        "cancelButton": "Hủy bỏ",
+        "confirmButton": "Vô hiệu hóa 2FA",
+        "incorrectPassword": "Mật khẩu không chính xác."
+      },
+      "setup2fa": {
+        "step1Title": "1. Quét mã QR",
+        "step1Desc": "Mở ứng dụng xác thực của bạn và quét mã QR sau:",
+        "unableToScan": "Không thể quét? Sử dụng phím thiết lập",
+        "step2Title": "2. Xác minh mã",
+        "step2Desc": "Nhập mã gồm 6 chữ số do ứng dụng của bạn tạo:",
+        "cancelButton": "Hủy bỏ",
+        "enableButton": "Kích hoạt 2FA",
+        "invalidLength": "Vui lòng nhập mã gồm 6 chữ số.",
+        "invalidCode": "Mã xác minh không hợp lệ. Vui lòng thử lại."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kiểm soát ngôn ngữ",
+      "appLanguage": "Ngôn ngữ ứng dụng",
+      "layoutTitle": "Bố cục & Kiểu chữ",
+      "layoutStyle": "Kiểu bố cục",
+      "layoutModern": "Phong cách hiện đại (Mặc định)",
+      "layoutClassic": "Phong cách cổ điển",
+      "layoutMinimalist": "phong cách tối giản",
+      "fontSize": "Kích thước phông chữ ứng dụng",
+      "fontSmall": "Bé nhỏ",
+      "fontNormal": "Bình thường (Trung bình)",
+      "fontLarge": "Lớn",
+      "searchLanguage": "Tìm kiếm ngôn ngữ...",
+      "languageNotFound": "Không tìm thấy ngôn ngữ",
+      "layoutElegant": "Phong cách thanh lịch"
+    },
+    "saveChanges": "Lưu thay đổi",
+    "cancel": "Hủy bỏ",
+    "appSettings": "Cài đặt ứng dụng",
+    "logoutConfirmTitle": "Xác nhận đăng xuất",
+    "logoutConfirmDesc": "Bạn có chắc chắn muốn đăng xuất khỏi hệ thống?",
+    "logoutConfirmYes": "Có, Đăng xuất",
+    "generalError": "Đã xảy ra lỗi. ",
+    "success": "Thành công",
+    "preferencesSaved": "Tùy chọn ứng dụng đã được lưu thành công.",
+    "header": "Cài đặt ứng dụng",
+    "logout": {
+      "title": "Xác nhận đăng xuất",
+      "message": "Bạn có chắc chắn muốn đăng xuất khỏi hệ thống?",
+      "confirm": "Có, Đăng xuất"
+    },
+    "about": {
+      "title": "Về ứng dụng",
+      "subtitle": "Nền tảng xây dựng danh mục đầu tư",
+      "version": "Phiên bản",
+      "description": "DevFolio là một nền tảng xây dựng danh mục đầu tư hiện đại được thiết kế dành cho các nhà phát triển, nhà thiết kế và người sáng tạo chuyên nghiệp. ",
+      "license": "Giấy phép & Bản quyền",
+      "copyright": "© 2026 DevFolio Inc. Mọi quyền được bảo lưu.",
+      "developer": "Nhà phát triển",
+      "developedBy": "Được phát triển bởi Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Xóa tài khoản vĩnh viễn",
+      "menuItem": "Xóa tài khoản",
+      "successTitle": "Thành công",
+      "successMessage": "Một email xác nhận xóa tài khoản đã được gửi.",
+      "errorTitle": "Thất bại",
+      "errorMessage": "Không thể gửi email xác nhận.",
+      "confirmationMessage": "Bạn có chắc chắn muốn xóa tài khoản của mình vĩnh viễn không?",
+      "warningMessage1": "Bạn sẽ nhận được email xác nhận việc xóa tài khoản.",
+      "warningMessage2": "Nếu được xác nhận, tất cả dữ liệu (danh mục đầu tư, dự án, số liệu thống kê) sẽ bị xóa vĩnh viễn và không thể khôi phục được.",
+      "cancel": "Hủy",
+      "confirm": "Xác nhận"
+    },
+    "toasts": {
+      "toastError": "Lỗi",
+      "toastSuccess": "Thành công",
+      "toastSetup2FAFailed": "Không thiết lập được 2FA. Vui lòng thử lại.",
+      "toast2FAEnabled": "Xác thực hai yếu tố đã được kích hoạt.",
+      "toast2FADisabled": "Xác thực hai yếu tố đã bị vô hiệu hóa.",
+      "toastSessionEnabled": "Giám sát phiên hoạt động đã được kích hoạt.",
+      "toastSessionDisabled": "Giám sát phiên hoạt động đã bị vô hiệu hóa.",
+      "toastSetupKeyCopied": "Đã sao chép khóa thiết lập vào bảng nhớ tạm."
+    },
+    "privacy": {
+      "title": "Chính sách bảo mật",
+      "updateDate": "Cập nhật lần cuối: ngày 15 tháng 7 năm 2026",
+      "intro": "Chính sách quyền riêng tư này giải thích cách DevFolio thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn khi sử dụng dịch vụ của chúng tôi.",
+      "section1Title": "1. Thông tin chúng tôi thu thập",
+      "section1Content": "Chúng tôi thu thập thông tin bạn cung cấp trực tiếp khi tạo tài khoản, xây dựng danh mục đầu tư và liên hệ với bộ phận hỗ trợ của chúng tôi. ",
+      "section2Title": "2. Sử dụng thông tin",
+      "section2Content": "Thông tin của bạn được sử dụng để vận hành, duy trì và cung cấp các tính năng của dịch vụ của chúng tôi cũng như để liên lạc với bạn về tài khoản hoặc dịch vụ của bạn.",
+      "section3Title": "3. Bảo mật dữ liệu",
+      "section3Content": "Chúng tôi thực hiện các biện pháp bảo mật hợp lý để bảo vệ thông tin của bạn khỏi bị truy cập, tiết lộ hoặc phá hủy trái phép."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Không tìm thấy mã thông báo xác nhận.",
+    "defaultError": "Không thể xóa tài khoản. Mã thông báo có thể đã hết hạn.",
+    "loadingTitle": "Đang xóa tài khoản...",
+    "loadingMessage": "Vui lòng đợi, chúng tôi đang xử lý yêu cầu của bạn.",
+    "successTitle": "Đã xóa tài khoản thành công",
+    "successMessage": "Tất cả dữ liệu của bạn đã bị xóa vĩnh viễn. Bạn sẽ được chuyển hướng...",
+    "errorTitle": "Không thể xóa tài khoản",
+    "backToHome": "Trở về nhà"
+  },
+  "forgotPassword": {
+    "minutes": "phút",
+    "seconds": "giây",
+    "success": "Thành công",
+    "otpSentToEmail": "Mã OTP đã được gửi tới email của bạn.",
+    "failed": "Thất bại",
+    "emailNotFound": "Không tìm thấy email.",
+    "emailThirdParty": "Email này được đăng ký thông qua bên thứ ba.",
+    "genericError": "Có một lỗi. Vui lòng thử lại.",
+    "otpVerified": "Mã OTP đã được xác minh thành công.",
+    "otpExpired": "Mã OTP đã hết hạn. Vui lòng yêu cầu mã mới.",
+    "otpInvalid": "Mã OTP không hợp lệ.",
+    "otpResent": "Mã OTP mới đã được gửi tới email của bạn.",
+    "otpResendFailed": "Không thể gửi lại mã OTP. Vui lòng thử lại.",
+    "passwordResetSuccess": "Đặt lại mật khẩu thành công. Vui lòng đăng nhập bằng mật khẩu mới của bạn.",
+    "passwordResetFailed": "Không thể đặt lại mật khẩu.",
+    "backToLogin": "Quay lại Đăng nhập",
+    "back": "Trở lại",
+    "title": "Quên mật khẩu",
+    "description": "Nhập địa chỉ email đã đăng ký trên tài khoản của bạn. Chúng tôi sẽ gửi mã OTP để đặt lại mật khẩu.",
+    "emailLabel": "Địa chỉ Email",
+    "sending": "Đang gửi...",
+    "sendOtp": "Gửi mã OTP",
+    "verifyOtpTitle": "Xác minh mã OTP",
+    "verifyOtpDesc": "Nhập mã gồm 6 chữ số đã được gửi đến email của bạn để xác nhận danh tính của bạn.",
+    "verifying": "Đang xác minh...",
+    "verifyOtp": "Xác minh OTP",
+    "resending": "Đang gửi lại...",
+    "resendOtp": "Gửi lại mã OTP",
+    "resendCodeIn": "Gửi lại mã trong",
+    "newPasswordTitle": "Tạo mật khẩu mới",
+    "newPasswordDesc": "Tạo một mật khẩu mới, mạnh để bảo mật tài khoản của bạn.",
+    "newPasswordLabel": "Mật khẩu mới",
+    "min8Chars": "Tối thiểu 8 ký tự",
+    "oneUpperCase": "1 chữ hoa (A-Z)",
+    "oneNumber": "1 số (0-9)",
+    "oneSymbol": "1 ký hiệu (!@#$%^&*)",
+    "confirmPasswordLabel": "Xác nhận mật khẩu",
+    "passwordsDoNotMatch": "Mật khẩu không khớp.",
+    "resettingPassword": "Đặt lại mật khẩu...",
+    "resetPassword": "Đặt lại mật khẩu"
+  },
+  "verifyEmail": {
+    "resendError": "Không thể gửi lại email xác minh. Vui lòng thử lại.",
+    "checkingStatus": "Đang kiểm tra trạng thái xác minh...",
+    "title": "Kiểm tra email của bạn",
+    "description": "Chúng tôi đã gửi email xác minh đến địa chỉ email của bạn. Vui lòng mở email và nhấp vào nút <1>\"Xác nhận tài khoản\"</1> để kích hoạt tài khoản của bạn.",
+    "stepsTitle": "Bước",
+    "step1": "Mở ứng dụng email của bạn (Gmail, Yahoo, v.v.)",
+    "step2": "Tìm email từ DevFolio với chủ đề \"Kích hoạt tài khoản\"",
+    "step3": "Nhấp vào nút \"Xác nhận tài khoản\" trong email",
+    "step4": "Bạn sẽ được chuyển đến trang đăng nhập để nhập",
+    "resendSuccess": "Email xác minh đã được gửi lại!",
+    "resending": "Đang gửi lại...",
+    "resendButton": "Gửi lại Email xác minh",
+    "backToLogin": "Quay lại trang đăng nhập",
+    "footerNote": "Bạn không nhận được email? Kiểm tra thư mục <1>Thư rác</1> hoặc <2>Thư rác</2> trong email của bạn. Liên kết xác minh có hiệu lực trong <3>24 giờ</3>."
+  }
+}

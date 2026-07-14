@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+    "templates": "ਟੈਂਪਲੇਟਸ",
+    "pricing": "ਕੀਮਤ",
+    "login": "ਲਾਗਿਨ",
+    "getStarted": "ਸ਼ੁਰੂ ਕਰੋ",
+    "title": "ਦੇਵਫੋਲੀਓ"
+  },
+  "landing": {
+    "badge": "ਡਿਵੈਲਪਰਾਂ ਲਈ ਅੰਤਮ ਪੋਰਟਫੋਲੀਓ ਬਿਲਡਰ",
+    "title1": "ਆਪਣਾ ਪੇਸ਼ੇਵਰ ਬਣਾਓ",
+    "title2": "ਵਿੱਚ ਪੋਰਟਫੋਲੀਓ",
+    "titleHighlight": "ਸਕਿੰਟ",
+    "subtitle": "ਹਰ ਚੀਜ਼ ਜਿਸਦੀ ਤੁਹਾਨੂੰ ਆਪਣੇ ਹੁਨਰਾਂ, ਪ੍ਰੋਜੈਕਟਾਂ ਅਤੇ ਅਨੁਭਵ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ",
+    "startBuilding": "ਹੁਣ ਬਿਲਡਿੰਗ ਸ਼ੁਰੂ ਕਰੋ",
+    "viewTemplates": "ਟੈਮਪਲੇਟ ਦੇਖੋ",
+    "fastDeployment": "ਤੇਜ਼ ਤੈਨਾਤੀ",
+    "liveStatus": "username.dev ਲਾਈਵ ਹੈ!",
+    "featuresTitle": "ਸ਼ਕਤੀਸ਼ਾਲੀ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+    "featuresSubtitle": "ਅਸੀਂ ਉਹ ਸਾਰੇ ਸਾਧਨ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਾਂ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਹਾਨੂੰ ਭੀੜ ਤੋਂ ਵੱਖ ਹੋਣ ਅਤੇ ਤੁਹਾਡੇ ਸੁਪਨੇ ਦੀ ਨੌਕਰੀ ਕਰਨ ਲਈ ਲੋੜੀਂਦਾ ਹੈ।",
+    "feature1Title": "ਡਰੈਗ ਐਂਡ ਡ੍ਰੌਪ ਬਿਲਡਰ",
+    "feature1Desc": "ਸਾਡੇ ਅਨੁਭਵੀ ਵਿਜ਼ੂਅਲ ਐਡੀਟਰ ਨਾਲ ਆਪਣੇ ਭਾਗਾਂ, ਪ੍ਰੋਜੈਕਟਾਂ ਅਤੇ ਹੁਨਰਾਂ ਨੂੰ ਆਸਾਨੀ ਨਾਲ ਵਿਵਸਥਿਤ ਕਰੋ।",
+    "feature2Title": "ਕਸਟਮ ਥੀਮ",
+    "feature2Desc": "ਪੇਸ਼ੇਵਰ ਤੌਰ 'ਤੇ ਡਿਜ਼ਾਈਨ ਕੀਤੇ ਟੈਂਪਲੇਟਾਂ ਵਿੱਚੋਂ ਚੁਣੋ ਜਾਂ ਆਪਣੀ ਵਿਲੱਖਣ ਦਿੱਖ ਬਣਾਓ।",
+    "feature3Title": "ਰੀਅਲ-ਟਾਈਮ ਵਿਸ਼ਲੇਸ਼ਣ",
+    "feature3Desc": "ਆਪਣੇ ਦਰਸ਼ਕਾਂ ਨੂੰ ਟ੍ਰੈਕ ਕਰੋ, ਦੇਖੋ ਕਿ ਕਿਹੜੇ ਪ੍ਰੋਜੈਕਟ ਸਭ ਤੋਂ ਵੱਧ ਧਿਆਨ ਖਿੱਚਦੇ ਹਨ, ਅਤੇ ਹੋਰ ਵੀ ਬਹੁਤ ਕੁਝ।"
+  },
+  "auth": {
+    "welcomeBack": "ਵਾਪਸ ਸਵਾਗਤ",
+    "loginToContinue": "ਜਾਰੀ ਰੱਖਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਲੌਗ ਇਨ ਕਰੋ",
+    "createAccount": "ਖਾਤਾ ਬਣਾਉ",
+    "joinCommunity": "ਹਜ਼ਾਰਾਂ ਹੋਰ ਡਿਵੈਲਪਰਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ",
+    "fullName": "ਪੂਰਾ ਨਾਂਮ",
+    "fullNamePlaceholder": "ਜਿਵੇਂ ਕਿ ",
+    "email": "ਈਮੇਲ ਪਤਾ",
+    "emailPlaceholder": "you@example.com",
+    "password": "ਪਾਸਵਰਡ",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "ਮੇਰੀ ਯਾਦ ਹੈ",
+    "forgotPassword": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ?",
+    "signIn": "ਸਾਈਨ - ਇਨ",
+    "signingIn": "ਸਾਈਨ ਇਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "signUp": "ਸਾਇਨ ਅਪ",
+    "signingUp": "ਸਾਈਨ ਅੱਪ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "noAccount": "ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+    "hasAccount": "ਕੀ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਖਾਤਾ ਹੈ?",
+    "passwordRules": {
+      "title": "ਪਾਸਵਰਡ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ:",
+      "length": "ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ",
+      "uppercase": "ਇੱਕ ਵੱਡੇ ਅੱਖਰ (A-Z)",
+      "number": "ਇੱਕ ਨੰਬਰ (0-9)",
+      "symbol": "ਇੱਕ ਚਿੰਨ੍ਹ (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "ਪੋਰਟਫੋਲੀਓ ਬਿਲਡਰ",
+      "templates": "ਟੈਮਪਲੇਟ ਅਤੇ ਥੀਮ",
+      "settings": "ਸੈਟਿੰਗਾਂ",
+      "collapse": "ਸਾਈਡਬਾਰ ਨੂੰ ਸਮੇਟੋ",
+      "overview": "ਸੰਖੇਪ ਜਾਣਕਾਰੀ",
+      "profileSettings": "ਪ੍ਰੋਫਾਈਲ ਸੈਟਿੰਗਾਂ",
+      "customDomain": "ਕਸਟਮ ਡੋਮੇਨ",
+      "feedback": "ਫੀਡਬੈਕ"
+    },
+    "header": {
+      "viewLive": "ਲਾਈਵ ਦੇਖੋ",
+      "welcome": "ਜੀ ਆਇਆਂ ਨੂੰ,",
+      "logout": "ਲਾਗਆਉਟ",
+      "builder": "ਬਿਲਡਰ",
+      "livePortfolio": "ਲਾਈਵ ਪੋਰਟਫੋਲੀਓ",
+      "live": "ਲਾਈਵ"
+    },
+    "logoutModal": {
+      "title": "ਲਾਗਆਉਟ",
+      "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਆਪਣੇ ਖਾਤੇ ਤੋਂ ਲੌਗ ਆਊਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ",
+      "cancel": "ਰੱਦ ਕਰੋ",
+      "confirm": "ਹਾਂ, ਲੌਗਆਊਟ ਕਰੋ"
+    },
+    "slugModal": {
+      "title": "ਆਪਣਾ ਪੋਰਟਫੋਲੀਓ URL ਚੁਣੋ",
+      "message": "ਇਹ URL ਤੁਹਾਡੇ ਪੋਰਟਫੋਲੀਓ ਦਾ ਵਿਲੱਖਣ ਲਿੰਕ ਹੋਵੇਗਾ। ",
+      "slugPlaceholder": "ਤੁਹਾਡਾ ਨਾਮ",
+      "availability": "ਉਪਲਬਧਤਾ:",
+      "available": "ਉਪਲਬਧ ਹੈ",
+      "unavailable": "ਅਣਉਪਲਬਧ",
+      "checking": "ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...",
+      "mustFormat": "ਸਿਰਫ਼ ਅੱਖਰ, ਨੰਬਰ ਅਤੇ ਡੈਸ਼ (-) ਸ਼ਾਮਲ ਹੋ ਸਕਦੇ ਹਨ",
+      "cancel": "ਰੱਦ ਕਰੋ",
+      "save": "URL ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+      "usernameUrl": "ਯੂਜ਼ਰਨਾਮ URL",
+      "helpText": "ਛੋਟੇ ਅੱਖਰ, ਨੰਬਰ ਅਤੇ ਡੈਸ਼। ",
+      "validation": {
+        "empty": "Slug cannot be empty.",
+        "min3": "Minimum 3 characters.",
+        "max30": "Maximum 30 characters.",
+        "format": "ਸਿਰਫ਼ ਛੋਟੇ ਅੱਖਰ, ਨੰਬਰ ਅਤੇ ਡੈਸ਼ (-)। "
+      }
+    },
+    "loadingPortfolio": "ਪੋਰਟਫੋਲੀਓ ਡਾਟਾ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "overview": {
+      "greetings": {
+        "morning": "ਸ਼ੁਭ ਸਵੇਰ",
+        "afternoon": "ਚੰਗੀ ਦੁਪਹਿਰ",
+        "evening": "ਚੰਗੀ ਦੁਪਹਿਰ",
+        "night": "ਚੰਗੀ ਰਾਤ"
+      },
+      "welcome": {
+        "hi": "ਹੈਲੋ,",
+        "creator": "ਸਿਰਜਣਹਾਰ",
+        "desc1": "DevFolio ਡੈਸ਼ਬੋਰਡ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ। ਤੁਹਾਡੇ ਪੋਰਟਫੋਲੀਓ ਨੂੰ ਦੁਆਰਾ ਦੇਖਿਆ ਗਿਆ ਹੈ",
+        "desc2": "ਵਿਅਕਤੀ। ਕੰਮ ਕਰਦੇ ਰਹੋ!",
+        "editPortfolio": "ਪੋਰਟਫੋਲੀਓ ਦਾ ਸੰਪਾਦਨ ਕਰੋ"
+      },
+      "stats": {
+        "totalVisitors": "ਕੁੱਲ ਵਿਜ਼ਿਟਰ",
+        "projectViews": "ਦੇਖਿਆ ਗਿਆ (ਪ੍ਰੋਜੈਕਟ)",
+        "activeSessions": "ਕਿਰਿਆਸ਼ੀਲ ਸੈਸ਼ਨ",
+        "totalLabel": "ਕੁੱਲ"
+      },
+      "setup": {
+        "title": "ਸੈੱਟਅੱਪ ਪ੍ਰਗਤੀ",
+        "completed": "ਤੁਹਾਡਾ ਪੋਰਟਫੋਲੀਓ ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ! 🎉",
+        "inProgress": "ਸੰਪੂਰਣ ਪੋਰਟਫੋਲੀਓ ਲਈ ਕਦਮ.",
+        "profile": {
+          "title": "ਪੂਰਾ ਪ੍ਰੋਫਾਈਲ",
+          "desc": "ਨਾਮ, ਬਾਇਓ ਅਤੇ ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ ਸ਼ਾਮਲ ਕਰੋ।"
+        },
+        "section": {
+          "title": "ਸੈਕਸ਼ਨ ਸ਼ਾਮਲ ਕਰੋ",
+          "desc": "ਪੋਰਟਫੋਲੀਓ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ 1 ਭਾਗ ਨੂੰ ਸਰਗਰਮ ਕਰੋ।"
+        },
+        "project": {
+          "title": "ਪ੍ਰੋਜੈਕਟ ਸ਼ਾਮਲ ਕਰੋ",
+          "desc": "ਆਪਣੇ ਸਭ ਤੋਂ ਵਧੀਆ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚੋਂ ਘੱਟੋ-ਘੱਟ 1 ਦਾਖਲ ਕਰੋ।"
+        },
+        "publish": {
+          "title": "ਪੋਰਟਫੋਲੀਓ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ",
+          "desc": "ਇੱਕ ਕਸਟਮ URL ਸੈਟ ਕਰੋ ਤਾਂ ਜੋ ਇਸਨੂੰ ਜਨਤਾ ਦੁਆਰਾ ਐਕਸੈਸ ਕੀਤਾ ਜਾ ਸਕੇ।"
+        }
+      },
+      "topProjects": {
+        "title": "ਸਭ ਤੋਂ ਮਸ਼ਹੂਰ ਪ੍ਰੋਜੈਕਟ",
+        "desc": "ਦਰਸ਼ਕਾਂ ਦੀਆਂ ਨਜ਼ਰਾਂ ਵਿੱਚ ਤੁਹਾਡੇ ਕੰਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ।",
+        "viewAll": "ਸਭ ਦੇਖੋ",
+        "empty": "ਤੁਹਾਡੇ ਪ੍ਰੋਜੈਕਟ ਲਈ ਅਜੇ ਤੱਕ ਕੋਈ ਵਿਯੂ ਡਾਟਾ ਨਹੀਂ ਹੈ।"
+      }
+    },
+    "themes": {
+      "title": "ਟੈਮਪਲੇਟ ਅਤੇ ਥੀਮ",
+      "subtitle": "ਆਪਣੇ ਜਨਤਕ ਪੋਰਟਫੋਲੀਓ ਦੀ ਦਿੱਖ ਅਤੇ ਮਹਿਸੂਸ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰੋ।",
+      "reset": "ਡਿਫੌਲਟ ਰੀਸੈਟ ਕਰੋ",
+      "save": "ਬਦਲਾਅ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+      "saving": "ਸੰਭਾਲ ਰਿਹਾ ਹੈ...",
+      "chooseTemplate": "ਇੱਕ ਟੈਮਪਲੇਟ ਚੁਣੋ",
+      "primaryColor": "ਪ੍ਰਾਇਮਰੀ ਰੰਗ",
+      "typography": "ਟਾਈਪੋਗ੍ਰਾਫੀ",
+      "appearance": "ਦਿੱਖ",
+      "corners": "ਕੋਨੇ ਅਤੇ ਬਾਰਡਰ",
+      "successTitle": "ਸਫਲਤਾ",
+      "successMessage": "ਥੀਮ ਤਰਜੀਹਾਂ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ",
+      "errorTitle": "ਗਲਤੀ",
+      "errorMessage": "ਥੀਮ ਤਰਜੀਹਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+      "templates": {
+        "minimalist": {
+          "name": "ਨਿਊਨਤਮ",
+          "desc": "ਸਮੱਗਰੀ 'ਤੇ ਧਿਆਨ ਕੇਂਦਰਿਤ ਕਰਨ ਵਾਲਾ ਸਾਫ਼ ਅਤੇ ਸਧਾਰਨ ਡਿਜ਼ਾਈਨ।"
+        },
+        "developerDark": {
+          "name": "ਡਿਵੈਲਪਰ ਡਾਰਕ",
+          "desc": "ਗੂੜ੍ਹਾ ਥੀਮ ਕੋਡ ਅਤੇ ਤਕਨੀਕੀ ਸਟੈਕ ਦਿਖਾਉਣ ਲਈ ਸੰਪੂਰਨ।"
+        },
+        "creative": {
+          "name": "ਰਚਨਾਤਮਕ",
+          "desc": "ਡਿਜ਼ਾਈਨਰਾਂ ਅਤੇ ਰਚਨਾਤਮਕਾਂ ਲਈ ਜੀਵੰਤ ਅਤੇ ਰੰਗੀਨ ਖਾਕਾ।"
+        },
+        "executive": {
+          "name": "ਕਾਰਜਕਾਰੀ",
+          "desc": "ਕਾਰੋਬਾਰੀ ਪੇਸ਼ੇਵਰਾਂ ਲਈ ਪੇਸ਼ੇਵਰ ਅਤੇ ਰਸਮੀ ਖਾਕਾ।"
+        },
+        "bentoGrid": {
+          "name": "ਬੈਂਟੋ ਗਰਿੱਡ",
+          "desc": "ਆਧੁਨਿਕ ਐਪਲ-ਸ਼ੈਲੀ ਦਾ ਗਰਿੱਡ ਲੇਆਉਟ ਜੋ ਵੱਖ-ਵੱਖ ਹੁਨਰਾਂ ਨੂੰ ਕੁਸ਼ਲਤਾ ਨਾਲ ਉਜਾਗਰ ਕਰਦਾ ਹੈ।"
+        },
+        "neoBrutalism": {
+          "name": "ਨਵ-ਬੇਰਹਿਮੀ",
+          "desc": "ਫੈਸ਼ਨੇਬਲ, ਅਣਪਛਾਤੀ ਦਿੱਖ ਲਈ ਬੋਲਡ ਬਾਰਡਰ ਅਤੇ ਉੱਚ ਕੰਟ੍ਰਾਸਟ ਰੰਗ।"
+        },
+        "glassmorphism": {
+          "name": "ਗਲਾਸਮੋਰਫਿਜ਼ਮ",
+          "desc": "ਇੱਕ ਪਤਲੇ ਆਧੁਨਿਕ UI ਲਈ ਰੰਗੀਨ ਗਰੇਡੀਐਂਟ ਉੱਤੇ ਠੰਡੇ ਹੋਏ ਕੱਚ ਦੇ ਪ੍ਰਭਾਵ।"
+        },
+        "linkInBio": {
+          "name": "ਬਾਇਓ ਵਿੱਚ ਲਿੰਕ",
+          "desc": "ਸੰਖੇਪ ਵਰਟੀਕਲ ਲੇਆਉਟ ਮੋਬਾਈਲ ਸਕ੍ਰੀਨਾਂ ਅਤੇ ਸੋਸ਼ਲ ਮੀਡੀਆ ਲਈ ਅਨੁਕੂਲਿਤ ਹੈ।"
+        }
+      },
+      "appearances": {
+        "light": "ਚਾਨਣ",
+        "dark": "ਹਨੇਰਾ",
+        "system": "ਸਿਸਟਮ"
+      },
+      "cornersOptions": {
+        "sharp": "ਤਿੱਖਾ",
+        "rounded": "ਗੋਲ",
+        "pill": "ਗੋਲੀ"
+      }
+    },
+    "feedback": {
+      "title": "ਫੀਡਬੈਕ ਭੇਜੋ",
+      "subtitle": "ਇਸ ਐਪਲੀਕੇਸ਼ਨ 'ਤੇ ਸੁਝਾਅ, ਆਲੋਚਨਾ, ਜਾਂ ਬੱਗ ਦੀ ਰਿਪੋਰਟ ਕਰਕੇ ਇਸਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰੋ।",
+      "categoryLabel": "ਫੀਡਬੈਕ ਸ਼੍ਰੇਣੀ",
+      "messageLabel": "ਸੁਨੇਹਾ ਵੇਰਵਾ",
+      "messagePlaceholder": "ਤੁਸੀਂ ਜੋ ਫੀਡਬੈਕ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ ਉਸ ਬਾਰੇ ਮੈਨੂੰ ਵਿਸਥਾਰ ਨਾਲ ਦੱਸੋ...",
+      "imageLabel": "ਚਿੱਤਰ ਅਟੈਚਮੈਂਟ (ਵਿਕਲਪਿਕ)",
+      "imagePlaceholder": "ਚਿੱਤਰ ਜਾਂ ਸਕ੍ਰੀਨਸ਼ੌਟ ਅੱਪਲੋਡ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
+      "submitting": "ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
+      "submitBtn": "ਫੀਡਬੈਕ ਭੇਜੋ",
+      "categories": {
+        "suggestion": "ਸੁਝਾਅ ਅਤੇ ਵਿਚਾਰ",
+        "bug": "ਬੱਗ / ਗਲਤੀ ਰਿਪੋਰਟ",
+        "criticism": "ਆਲੋਚਨਾ",
+        "other": "ਹੋਰ"
+      },
+      "imageErrorTitle": "ਗਲਤੀ",
+      "imageErrorMessage": "ਕੁਝ ਫਾਈਲਾਂ ਅਸਵੀਕਾਰ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ ਕਿਉਂਕਿ ਉਹ ਚਿੱਤਰ ਫਾਰਮੈਟਾਂ (JPG, PNG, GIF, WEBP) ਨੂੰ ਸਮਰਥਿਤ ਨਹੀਂ ਹਨ",
+      "successTitle": "ਸਫਲਤਾ",
+      "successMessage": "ਤੁਹਾਡੇ ਫੀਡਬੈਕ ਲਈ ਧੰਨਵਾਦ! ਰਿਪੋਰਟ ਭੇਜ ਦਿੱਤੀ ਹੈ।",
+      "submitErrorTitle": "ਅਸਫਲ",
+      "submitErrorMessage": "ਫੀਡਬੈਕ ਭੇਜਣ ਦੌਰਾਨ ਇੱਕ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "ਮੇਰੇ ਬਾਰੇ ਵਿੱਚ",
+      "skills": "ਹੁਨਰ",
+      "projects": "ਪ੍ਰੋਜੈਕਟਸ",
+      "workExperience": "ਕੰਮ ਦਾ ਅਨੁਭਵ",
+      "orgExperience": "ਸੰਗਠਨਾਤਮਕ ਅਨੁਭਵ",
+      "education": "ਸਿੱਖਿਆ",
+      "certifications": "ਸਿਖਲਾਈ ਅਤੇ ਪ੍ਰਮਾਣੀਕਰਣ",
+      "contact": "ਮੇਰੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
+    },
+    "editor": {
+      "profileInfo": "ਪ੍ਰੋਫਾਈਲ ਜਾਣਕਾਰੀ",
+      "saving": "ਰੱਖਿਅਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+      "profilePhoto": "ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ",
+      "clickToUpload": "ਅੱਪਲੋਡ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ (JPG, PNG)",
+      "fullName": "ਪੂਰਾ ਨਾਂਮ",
+      "fullNamePlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "bio": "ਬਾਇਓ",
+      "bioPlaceholder": "ਆਧੁਨਿਕ ਵੈੱਬ ਐਪਸ ਬਣਾਉਣ ਦੇ ਜਨੂੰਨ ਨਾਲ ਫੁੱਲਸਟੈਕ ਡਿਵੈਲਪਰ...",
+      "location": "ਟਿਕਾਣਾ",
+      "locationPlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "gender": "ਲਿੰਗ",
+      "selectGender": "ਲਿੰਗ ਚੁਣੋ",
+      "male": "ਨਰ",
+      "female": "ਔਰਤ",
+      "custom": "ਕਸਟਮ",
+      "customPlaceholder": "ਆਪਣਾ ਕਸਟਮ ਲਿੰਗ ਟਾਈਪ ਕਰੋ...",
+      "uploadCv": "CV ਅੱਪਲੋਡ ਕਰੋ",
+      "cvFormat": "(DOC ਜਾਂ PDF)",
+      "preview": "ਝਲਕ",
+      "remove": "ਹਟਾਓ",
+      "clickToUploadCv": "PDF ਜਾਂ DOC ਅੱਪਲੋਡ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
+      "sections": "ਸੈਕਸ਼ਨ",
+      "removeSelected": "ਚੁਣਿਆ ਹਟਾਓ",
+      "confirmRemove": "ਹਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+      "addSection": "ਸੈਕਸ਼ਨ ਸ਼ਾਮਲ ਕਰੋ",
+      "addAllSections": "ਸਾਰੇ ਭਾਗ ਸ਼ਾਮਲ ਕਰੋ",
+      "noSections": "ਅਜੇ ਤੱਕ ਕੋਈ ਸੈਕਸ਼ਨ ਨਹੀਂ ਹੈ",
+      "clickToAdd": "ਸ਼ੁਰੂ ਕਰਨ ਲਈ \"+ ਸੈਕਸ਼ਨ ਸ਼ਾਮਲ ਕਰੋ\" 'ਤੇ ਕਲਿੱਕ ਕਰੋ",
+      "selectAll": "ਸਭ ਚੁਣੋ",
+      "selected": "ਚੁਣਿਆ ਗਿਆ",
+      "dragToReorder": "ਭਾਗਾਂ ਨੂੰ ਮੁੜ ਕ੍ਰਮਬੱਧ ਕਰਨ ਲਈ ਖਿੱਚੋ",
+      "livePreview": "ਲਾਈਵ ਪ੍ਰੀਵਿਊ",
+      "addSectionsToBuild": "ਆਪਣਾ ਪੋਰਟਫੋਲੀਓ ਬਣਾਉਣ ਲਈ ਭਾਗ ਸ਼ਾਮਲ ਕਰੋ",
+      "now": "ਹੁਣ",
+      "current": "ਵਰਤਮਾਨ",
+      "noExpiry": "ਕੋਈ ਮਿਆਦ ਸਮਾਪਤੀ ਨਹੀਂ",
+      "see": "ਦੇਖੋ",
+      "position": "ਸਥਿਤੀ",
+      "degree": "ਡਿਗਰੀ",
+      "certification": "ਸਰਟੀਫਿਕੇਸ਼ਨ",
+      "sectionsForm": {
+        "about": {
+          "label": "ਆਪਣੇ ਆਪ ਦਾ ਵਰਣਨ",
+          "placeholder": "ਸਾਨੂੰ ਆਪਣੇ ਬਾਰੇ, ਆਪਣੇ ਪਿਛੋਕੜ, ਰੁਚੀਆਂ ਅਤੇ ਹੁਨਰ ਬਾਰੇ ਦੱਸੋ..."
+        },
+        "skills": {
+          "addPlaceholder": "ਹੁਨਰ ਟਾਈਪ ਕਰੋ ਫਿਰ ਐਂਟਰ ਦਬਾਓ..."
+        },
+        "projects": {
+          "title": "ਪ੍ਰੋਜੈਕਟ ਦਾ ਨਾਮ",
+          "titlePlaceholder": "ਪ੍ਰੋਜੈਕਟ ਦਾ ਨਾਮ...",
+          "url": "ਪ੍ਰੋਜੈਕਟ URL",
+          "description": "ਵਰਣਨ",
+          "descriptionPlaceholder": "ਪ੍ਰੋਜੈਕਟ ਦਾ ਸੰਖੇਪ ਵੇਰਵਾ...",
+          "uploadThumbnail": "ਪ੍ਰੋਜੈਕਟ ਚਿੱਤਰ",
+          "addProject": "ਪ੍ਰੋਜੈਕਟ ਸ਼ਾਮਲ ਕਰੋ",
+          "projectNum": "ਪ੍ਰੋਜੈਕਟ #",
+          "currentProject": "ਇਹ ਇੱਕ ਪ੍ਰੋਜੈਕਟ ਹੈ ਜਿਸ 'ਤੇ ਮੈਂ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ"
+        },
+        "work": {
+          "company": "ਕੰਪਨੀ/ਏਜੰਸੀ",
+          "companyPlaceholder": "ਕੰਪਨੀ ਦਾ ਨਾਂ...",
+          "position": "ਅਹੁਦਾ/ਸਿਰਲੇਖ",
+          "positionPlaceholder": "ਤੁਹਾਡੀ ਸਥਿਤੀ...",
+          "employmentType": "ਕੰਮ ਦੀ ਕਿਸਮ",
+          "location": "ਟਿਕਾਣਾ",
+          "locationPlaceholder": "ਸ਼ਹਿਰ, ਦੇਸ਼...",
+          "startDate": "ਸ਼ੁਰੂ ਕਰੋ",
+          "endDate": "ਸਮਾਪਤ",
+          "currentWork": "ਮੈਂ ਅਜੇ ਵੀ ਇਸ ਸਮੇਂ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+          "description": "ਵਰਣਨ",
+          "descriptionPlaceholder": "ਨੌਕਰੀ ਦਾ ਵੇਰਵਾ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀਆਂ...",
+          "skills": "ਹੁਨਰ",
+          "addExperience": "ਕੰਮ ਦਾ ਤਜਰਬਾ ਸ਼ਾਮਲ ਕਰੋ",
+          "experienceNum": "ਅਨੁਭਵ #",
+          "dateError": "ਸਮਾਪਤੀ ਮਿਤੀ ਸ਼ੁਰੂਆਤੀ ਮਿਤੀ ਤੋਂ ਪਹਿਲਾਂ ਨਹੀਂ ਹੋ ਸਕਦੀ"
+        },
+        "org": {
+          "organization": "ਸੰਸਥਾ ਦਾ ਨਾਮ",
+          "orgPlaceholder": "ਬੀਈਐਮ ਯੂਨੀਵਰਸਿਟੀ...",
+          "role": "ਭੂਮਿਕਾ/ਅਹੁਦਾ",
+          "rolePlaceholder": "ਡਵੀਜ਼ਨ ਮੁਖੀ...",
+          "addOrg": "ਸੰਗਠਨਾਤਮਕ ਅਨੁਭਵ ਸ਼ਾਮਲ ਕਰੋ",
+          "orgNum": "ਸੰਸਥਾ #"
+        },
+        "edu": {
+          "institution": "ਵਿਦਿਅਕ ਸੰਸਥਾਵਾਂ",
+          "institutionPlaceholder": "ਕੈਂਪਸ ਜਾਂ ਸਕੂਲ ਦਾ ਨਾਮ...",
+          "degree": "ਸਿਰਲੇਖ",
+          "degreePlaceholder": "S1, ਹਾਈ ਸਕੂਲ, ਆਦਿ...",
+          "major": "ਵਿਭਾਗ/ਅਧਿਐਨ ਦੇ ਖੇਤਰ",
+          "majorPlaceholder": "ਸੂਚਨਾ ਵਿਗਿਆਨ ਇੰਜਨੀਅਰਿੰਗ...",
+          "gpa": "GPA (ਵਿਕਲਪਿਕ)",
+          "currentStudy": "ਮੈਂ ਅਜੇ ਵੀ ਇੱਥੇ ਸਿੱਖ ਰਿਹਾ ਹਾਂ",
+          "descriptionPlaceholder": "ਅਧਿਐਨ ਦੌਰਾਨ ਗਤੀਵਿਧੀਆਂ ਅਤੇ ਪ੍ਰਾਪਤੀਆਂ...",
+          "addEdu": "ਸਿੱਖਿਆ ਸ਼ਾਮਲ ਕਰੋ",
+          "eduNum": "ਸਿੱਖਿਆ #"
+        },
+        "cert": {
+          "name": "ਸਰਟੀਫਿਕੇਸ਼ਨ/ਸਿਖਲਾਈ ਦਾ ਨਾਮ",
+          "namePlaceholder": "ਪ੍ਰਮਾਣੀਕਰਣ ਨਾਮ...",
+          "issuer": "ਪ੍ਰਕਾਸ਼ਕ",
+          "issuerPlaceholder": "ਪ੍ਰਕਾਸ਼ਨ ਸੰਸਥਾ...",
+          "issueDate": "ਸ਼ੁਰੂ ਕਰੋ (ਪ੍ਰਕਾਸ਼ਿਤ ਮਿਤੀ)",
+          "issueDatePlaceholder": "ਪ੍ਰਕਾਸ਼ਨ ਮਿਤੀ ਚੁਣੋ...",
+          "expiryDate": "ਪੂਰਾ ਹੋਇਆ (ਵੈਧ ਅਵਧੀ)",
+          "expiryDatePlaceholder": "ਮਿਆਦ ਪੁੱਗਣ ਦੀ ਮਿਤੀ ਚੁਣੋ...",
+          "noExpiry": "ਇਸ ਸਰਟੀਫਿਕੇਟ ਦੀ ਕੋਈ ਮਿਆਦ ਪੁੱਗਣ ਦੀ ਤਾਰੀਖ ਨਹੀਂ ਹੈ",
+          "url": "ਕ੍ਰੈਡੈਂਸ਼ੀਅਲ URL",
+          "uploadThumbnail": "ਸਰਟੀਫਿਕੇਟ / ਸਿਖਲਾਈ ਚਿੱਤਰ",
+          "uploadThumbnailLimit": "ਸਰਟੀਫਿਕੇਟ ਚਿੱਤਰ ਅੱਪਲੋਡ ਕਰੋ (JPG/PNG/WEBP, ਅਧਿਕਤਮ 2MB)",
+          "addCert": "ਪ੍ਰਮਾਣੀਕਰਨ ਸ਼ਾਮਲ ਕਰੋ",
+          "certNum": "ਸਰਟੀਫਿਕੇਸ਼ਨ #"
+        },
+        "contact": {
+          "contactNum": "ਸੰਪਰਕ #",
+          "platform": "ਪਲੇਟਫਾਰਮ",
+          "displayText": "ਡਿਸਪਲੇ ਟੈਕਸਟ",
+          "displayTextPlaceholder": "ਉਦਾਹਰਨ ਲਈ, you@email.com ਜਾਂ @username",
+          "url": "ਲਿੰਕ (URL)",
+          "urlPlaceholderWhatsapp": "ਉਦਾਹਰਨ ਲਈ, 62812... (ਬਿਨਾਂ ਮੋਹਰੀ 0)",
+          "urlPlaceholderEmail": "ਉਦਾਹਰਨ ਲਈ, you@email.com",
+          "urlPlaceholderWebsite": "ਉਦਾਹਰਨ ਲਈ, https://...",
+          "urlPlaceholderDefault": "ਉਦਾਹਰਨ ਲਈ, ਉਪਭੋਗਤਾ ਨਾਮ",
+          "addContact": "ਸੰਪਰਕ ਸ਼ਾਮਲ ਕਰੋ"
+        },
+        "common": {
+          "months": {
+            "1": "ਜਨਵਰੀ",
+            "2": "ਫਰਵਰੀ",
+            "3": "ਮਾਰਚ",
+            "4": "ਅਪ੍ਰੈਲ",
+            "5": "ਮਈ",
+            "6": "ਜੂਨ",
+            "7": "ਜੁਲਾਈ",
+            "8": "ਅਗਸਤ",
+            "9": "ਸਤੰਬਰ",
+            "10": "ਅਕਤੂਬਰ",
+            "11": "ਨਵੰਬਰ",
+            "12": "ਦਸੰਬਰ"
+          },
+          "month": "ਮਹੀਨਾ",
+          "year": "ਸਾਲ",
+          "invalidDate": "ਅਵੈਧ ਸਮਾਪਤੀ ਮਹੀਨਾ",
+          "words": "ਸ਼ਬਦ"
+        }
+      },
+      "sure": "ਯਕੀਨਨ",
+      "deletePhotoTitle": "ਕੀ ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ?",
+      "deletePhotoMessage": "ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+      "cancel": "ਰੱਦ ਕਰੋ",
+      "delete": "ਮਿਟਾਓ"
+    },
+    "cropper": {
+      "chooseBackground": "ਬੈਕਗ੍ਰਾਊਂਡ ਚੁਣੋ",
+      "cropPhoto": "ਆਪਣੀ ਫੋਟੋ ਨੂੰ ਕੱਟੋ",
+      "useOriginal": "ਅਸਲੀ ਵਰਤੋ",
+      "backgroundPresets": "ਬੈਕਗ੍ਰਾਊਂਡ ਪ੍ਰੀਸੈਟਸ",
+      "none": "ਕੋਈ ਨਹੀਂ",
+      "uploadBackground": "ਬੈਕਗ੍ਰਾਊਂਡ ਅੱਪਲੋਡ ਕਰੋ",
+      "cancel": "ਰੱਦ ਕਰੋ",
+      "savePhoto": "ਫੋਟੋ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+      "zoom": "ਜ਼ੂਮ",
+      "rotationTilt": "ਰੋਟੇਸ਼ਨ ਅਤੇ ਝੁਕਾਅ",
+      "resetRotation": "0° 'ਤੇ ਰੀਸੈਟ ਕਰੋ",
+      "center": "ਕੇਂਦਰ",
+      "rotateLeft": "-90° ਘੁੰਮਾਓ",
+      "rotateRight": "+90° ਘੁੰਮਾਓ",
+      "removeBackground": "ਬੈਕਗ੍ਰਾਊਂਡ ਹਟਾਓ",
+      "processing": "ਤੁਹਾਡੇ ਚਿੱਤਰ ਦੀ ਪ੍ਰਕਿਰਿਆ ਹੋ ਰਹੀ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ..."
+    },
+    "cvPreview": {
+      "title": "ਸੀਵੀ ਪ੍ਰੀਵਿਊ",
+      "downloadCv": "CV ਡਾਊਨਲੋਡ ਕਰੋ",
+      "download": "ਡਾਊਨਲੋਡ ਕਰੋ",
+      "wordCannotPreview": "ਵਰਡ ਦਸਤਾਵੇਜ਼ (.doc/.docx) ਨੂੰ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਮੂਲ ਰੂਪ ਵਿੱਚ ਪੂਰਵਦਰਸ਼ਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ",
+      "downloadFile": "CV ਫਾਈਲ ਡਾਊਨਲੋਡ ਕਰੋ",
+      "back": "ਪਿੱਛੇ",
+      "mobileMessage": "ਕਿਰਪਾ ਕਰਕੇ ਇਸਦੀ ਪੂਰਵਦਰਸ਼ਨ ਕਰਨ ਲਈ CV ਫਾਈਲ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।",
+      "preview": "ਸੀਵੀ ਦੀ ਝਲਕ",
+      "wordPreviewTitle": "ਸ਼ਬਦ ਦਸਤਾਵੇਜ਼ ਦੀ ਝਲਕ",
+      "wordPreviewMessage": "ਵਰਡ ਦਸਤਾਵੇਜ਼ (.doc/.docx) ਨੂੰ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਮੂਲ ਰੂਪ ਵਿੱਚ ਪੂਰਵਦਰਸ਼ਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਦੇਖਣ ਲਈ ਫਾਈਲ ਡਾਊਨਲੋਡ ਕਰੋ।"
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "ਆਪਣੇ ਬਾਰੇ, ਦਿਲਚਸਪੀਆਂ ਅਤੇ ਕਰੀਅਰ ਦੇ ਟੀਚਿਆਂ ਬਾਰੇ ਸੰਖੇਪ ਵਰਣਨ ਲਿਖੋ..."
+    },
+    "skills": {
+      "placeholder": "ਹੁਨਰ ਦਾ ਨਾਮ ਟਾਈਪ ਕਰੋ...",
+      "add": "ਸ਼ਾਮਲ ਕਰੋ",
+      "enterToAdd": "ਜੋੜਨ ਲਈ ਐਂਟਰ ਦਬਾਓ",
+      "noSkills": "ਅਜੇ ਕੋਈ ਹੁਨਰ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਗਿਆ।"
+    },
+    "projects": {
+      "projectName": "ਪ੍ਰੋਜੈਕਟ ਦਾ ਨਾਮ",
+      "projectNamePlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "projectUrl": "ਪ੍ਰੋਜੈਕਟ URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "ਮਿਆਦ",
+      "startMonth": "ਸ਼ੁਰੂ ਮਹੀਨਾ",
+      "startYear": "ਸ਼ੁਰੂਆਤੀ ਸਾਲ",
+      "endMonth": "ਅੰਤ ਮਹੀਨਾ",
+      "endYear": "ਅੰਤ ਸਾਲ",
+      "currentlyWorking": "ਫਿਲਹਾਲ ਇਸ 'ਤੇ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ",
+      "description": "ਵਰਣਨ",
+      "descriptionPlaceholder": "ਪ੍ਰੋਜੈਕਟ, ਤੁਹਾਡੀ ਭੂਮਿਕਾ ਅਤੇ ਪ੍ਰਾਪਤੀਆਂ ਦਾ ਵਰਣਨ ਕਰੋ...",
+      "technologies": "ਵਰਤੀਆਂ ਗਈਆਂ ਤਕਨੀਕਾਂ",
+      "addProject": "ਪ੍ਰੋਜੈਕਟ ਸ਼ਾਮਲ ਕਰੋ",
+      "image": "ਪ੍ਰੋਜੈਕਟ ਚਿੱਤਰ",
+      "removeImage": "ਚਿੱਤਰ ਨੂੰ ਹਟਾਓ",
+      "uploadImage": "ਚਿੱਤਰ ਅੱਪਲੋਡ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ"
+    },
+    "work": {
+      "company": "ਕੰਪਨੀ/ਸੰਸਥਾ",
+      "companyPlaceholder": "ਕੰਪਨੀ ਦਾ ਨਾਂ...",
+      "role": "ਭੂਮਿਕਾ/ਅਹੁਦਾ",
+      "rolePlaceholder": "ਤੁਹਾਡੀ ਸਥਿਤੀ...",
+      "jobType": "ਨੌਕਰੀ ਦੀ ਕਿਸਮ",
+      "selectJobType": "ਕਿਸਮ ਚੁਣੋ",
+      "fullTime": "ਪੂਰਾ ਸਮਾਂ",
+      "partTime": "ਥੋੜਾ ਸਮਾਂ",
+      "contract": "ਇਕਰਾਰਨਾਮਾ",
+      "internship": "ਇੰਟਰਨਸ਼ਿਪ",
+      "freelance": "ਫ੍ਰੀਲਾਂਸ",
+      "location": "ਟਿਕਾਣਾ",
+      "locationPlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "duration": "ਮਿਆਦ",
+      "currentlyWorking": "ਵਰਤਮਾਨ ਵਿੱਚ ਇੱਥੇ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ",
+      "description": "ਕੰਮ ਦਾ ਵੇਰਵਾ",
+      "descriptionPlaceholder": "ਆਪਣੀਆਂ ਮੁੱਖ ਜ਼ਿੰਮੇਵਾਰੀਆਂ ਅਤੇ ਪ੍ਰਾਪਤੀਆਂ ਦਾ ਵਰਣਨ ਕਰੋ...",
+      "skills": "ਖਾਸ ਹੁਨਰ",
+      "addExperience": "ਅਨੁਭਵ ਜੋੜੋ"
+    },
+    "org": {
+      "organization": "ਸੰਸਥਾ ਦਾ ਨਾਮ",
+      "organizationPlaceholder": "ਸੰਸਥਾ ਦਾ ਨਾਮ...",
+      "role": "ਭੂਮਿਕਾ/ਅਹੁਦਾ",
+      "rolePlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "duration": "ਮਿਆਦ",
+      "periodFormat": "ਜਾਂ ਮੁਫ਼ਤ ਫਾਰਮੈਟ (ਉਦਾਹਰਨ ਲਈ 2020 - 2022)",
+      "periodPlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "currentlyActive": "ਵਰਤਮਾਨ ਵਿੱਚ ਸਰਗਰਮ ਹੈ",
+      "description": "ਗਤੀਵਿਧੀ ਵਰਣਨ",
+      "descriptionPlaceholder": "ਆਪਣੀਆਂ ਗਤੀਵਿਧੀਆਂ ਜਾਂ ਯੋਗਦਾਨ ਦਾ ਵਰਣਨ ਕਰੋ...",
+      "addExperience": "ਅਨੁਭਵ ਜੋੜੋ"
+    },
+    "education": {
+      "institution": "ਸੰਸਥਾ ਦਾ ਨਾਮ",
+      "institutionPlaceholder": "ਸਕੂਲ ਜਾਂ ਯੂਨੀਵਰਸਿਟੀ ਦਾ ਨਾਮ...",
+      "degree": "ਡਿਗਰੀ/ਪੱਧਰ",
+      "degreePlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "major": "ਅਧਿਐਨ ਦੇ ਪ੍ਰਮੁੱਖ/ਖੇਤਰ",
+      "majorPlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "gpa": "GPA / ਗ੍ਰੇਡ",
+      "gpaPlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "duration": "ਸਿੱਖਿਆ ਦੀ ਮਿਆਦ",
+      "periodFormat": "ਜਾਂ ਮੁਫ਼ਤ ਫਾਰਮੈਟ (ਉਦਾਹਰਨ ਲਈ 2018 - 2022)",
+      "periodPlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "currentlyStudying": "ਵਰਤਮਾਨ ਵਿੱਚ ਇੱਥੇ ਪੜ੍ਹ ਰਿਹਾ ਹੈ",
+      "description": "ਗਤੀਵਿਧੀਆਂ / ਸਨਮਾਨ",
+      "descriptionPlaceholder": "ਅਕਾਦਮਿਕ ਗਤੀਵਿਧੀਆਂ, ਸੰਸਥਾਵਾਂ, ਜਾਂ ਪ੍ਰਾਪਤ ਹੋਏ ਸਨਮਾਨਾਂ ਦਾ ਵਰਣਨ ਕਰੋ...",
+      "addEducation": "ਸਿੱਖਿਆ ਸ਼ਾਮਲ ਕਰੋ"
+    },
+    "cert": {
+      "name": "ਸਰਟੀਫਿਕੇਸ਼ਨ ਨਾਮ",
+      "namePlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "issuer": "ਜਾਰੀ ਕਰਨ ਵਾਲੀ ਸੰਸਥਾ",
+      "issuerPlaceholder": "ਜਿਵੇਂ ਕਿ ",
+      "issueDate": "ਜਾਰੀ ਕਰਨ ਦੀ ਮਿਤੀ",
+      "expiryDate": "ਤੱਕ ਵੈਧ",
+      "noExpiry": "ਇਸ ਪ੍ਰਮਾਣ ਪੱਤਰ ਦੀ ਮਿਆਦ ਪੁੱਗਦੀ ਨਹੀਂ ਹੈ",
+      "yearPlaceholder": "ਜਾਂ ਸਾਲ (ਉਦਾਹਰਨ ਲਈ 2023)",
+      "credentialUrl": "ਕ੍ਰੈਡੈਂਸ਼ੀਅਲ URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "ਸਬੰਧਤ ਹੁਨਰ",
+      "addCertification": "ਪ੍ਰਮਾਣੀਕਰਨ ਸ਼ਾਮਲ ਕਰੋ",
+      "image": "ਚਿੱਤਰ/ਲੋਗੋ",
+      "removeImage": "ਚਿੱਤਰ ਨੂੰ ਹਟਾਓ",
+      "uploadImage": "ਚਿੱਤਰ ਅੱਪਲੋਡ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ"
+    },
+    "common": {
+      "months": {
+        "1": "ਜਨਵਰੀ",
+        "2": "ਫਰਵਰੀ",
+        "3": "ਮਾਰਚ",
+        "4": "ਅਪ੍ਰੈਲ",
+        "5": "ਮਈ",
+        "6": "ਜੂਨ",
+        "7": "ਜੁਲਾਈ",
+        "8": "ਅਗਸਤ",
+        "9": "ਸਤੰਬਰ",
+        "10": "ਅਕਤੂਬਰ",
+        "11": "ਨਵੰਬਰ",
+        "12": "ਦਸੰਬਰ"
+      },
+      "month": "ਮਹੀਨਾ",
+      "year": "ਸਾਲ",
+      "invalidDate": "ਅਵੈਧ ਸਮਾਪਤੀ ਮਹੀਨਾ",
+      "words": "ਸ਼ਬਦ"
+    }
+  },
+  "settings": {
+    "title": "ਸੈਟਿੰਗਾਂ",
+    "subtitle": "ਆਪਣੇ ਪੋਰਟਫੋਲੀਓ ਪ੍ਰੋਫਾਈਲ ਅਤੇ ਤਰਜੀਹਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
+    "tabs": {
+      "profile": "ਮੇਰੀ ਪ੍ਰੋਫ਼ਾਈਲ",
+      "security": "ਸੁਰੱਖਿਆ",
+      "personalization": "ਵਿਅਕਤੀਗਤਕਰਨ"
+    },
+    "profile": {
+      "infoTitle": "ਮੁੱਢਲੀ ਜਾਣਕਾਰੀ",
+      "photo": "ਪ੍ਰੋਫਾਈਲ ਫੋਟੋ",
+      "uploadPhoto": "ਫੋਟੋ ਬਦਲੋ",
+      "fullName": "ਪੂਰਾ ਨਾਂਮ",
+      "fullNamePlaceholder": "ਜੌਨ ਡੋ",
+      "email": "ਈਮੇਲ ਪਤਾ",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "ਈਮੇਲ ਲੌਗਇਨ ਲਈ ਵਰਤੀ ਜਾਂਦੀ ਹੈ ਅਤੇ ਜਨਤਕ ਤੌਰ 'ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।",
+      "portfolioUrl": "ਪੋਰਟਫੋਲੀਓ URL",
+      "saveProfile": "ਪ੍ਰੋਫਾਈਲ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+      "save": "ਪ੍ਰੋਫਾਈਲ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+      "accountCreated": "ਖਾਤਾ ਬਣਾਇਆ ਗਿਆ",
+      "lastLogin": "ਆਖਰੀ ਲਾਗਇਨ",
+      "oauthNotice": "ਇਹ ਪ੍ਰੋਫਾਈਲ ਤੁਹਾਡੇ {{provider}} ਖਾਤੇ ਨਾਲ ਜੁੜਿਆ ਹੋਇਆ ਹੈ। ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਬਦਲਾਅ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਦੁਆਰਾ ਕੀਤੇ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ।"
+    },
+    "security": {
+      "changePassword": "ਪਾਸਵਰਡ ਬਦਲੋ",
+      "currentPassword": "ਵਰਤਮਾਨ ਪਾਸਵਰਡ",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "ਨਵਾਂ ਪਾਸਵਰਡ",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "ਨਵੇਂ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ",
+        "uppercase": "ਇੱਕ ਵੱਡੇ ਅੱਖਰ (A-Z)",
+        "number": "ਇੱਕ ਨੰਬਰ (0-9)",
+        "symbol": "ਇੱਕ ਚਿੰਨ੍ਹ (!@#$%^&*)"
+      },
+      "passwordTitle": "ਪਾਸਵਰਡ",
+      "updatePassword": "ਪਾਸਵਰਡ ਅੱਪਡੇਟ ਕਰੋ",
+      "additionalSecurity": "ਵਧੀਕ ਸੁਰੱਖਿਆ",
+      "twoFactor": "ਦੋ-ਕਾਰਕ ਪ੍ਰਮਾਣਿਕਤਾ (2FA)",
+      "twoFactorDesc": "ਇੱਕ ਵਾਧੂ OTP ਕੋਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ।",
+      "activeSessions": "ਕਿਰਿਆਸ਼ੀਲ ਸੈਸ਼ਨ",
+      "activeSessionsDesc": "ਹਮੇਸ਼ਾ ਲੌਗ-ਇਨ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਦੀ ਨਿਗਰਾਨੀ ਕਰਨ ਦਿਓ।",
+      "publicVisibility": "ਜਨਤਕ ਦਰਿਸ਼ਗੋਚਰਤਾ",
+      "hideFromSearch": "ਖੋਜ ਇੰਜਣਾਂ ਤੋਂ ਪੋਰਟਫੋਲੀਓ ਲੁਕਾਓ",
+      "hideFromSearchDesc": "Google ਨੂੰ ਤੁਹਾਡੇ ਜਨਤਕ ਪੋਰਟਫੋਲੀਓ ਪੰਨੇ ਨੂੰ ਇੰਡੈਕਸ ਕਰਨ ਤੋਂ ਰੋਕੋ।",
+      "disable2fa": {
+        "title": "2FA ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ",
+        "description": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਦੋ-ਕਾਰਕ ਪ੍ਰਮਾਣੀਕਰਨ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+        "confirmPasswordLabel": "ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਆਪਣਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+        "currentPasswordPlaceholder": "ਮੌਜੂਦਾ ਪਾਸਵਰਡ",
+        "cancelButton": "ਰੱਦ ਕਰੋ",
+        "confirmButton": "2FA ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ",
+        "incorrectPassword": "ਗਲਤ ਪਾਸਵਰਡ।"
+      },
+      "setup2fa": {
+        "step1Title": "1. QR ਕੋਡ ਸਕੈਨ ਕਰੋ",
+        "step1Desc": "ਆਪਣਾ ਪ੍ਰਮਾਣਕ ਐਪ ਖੋਲ੍ਹੋ ਅਤੇ ਹੇਠਾਂ ਦਿੱਤੇ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ:",
+        "unableToScan": "ਸਕੈਨ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ? ਸੈੱਟਅੱਪ ਕੁੰਜੀ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "step2Title": "2. ਕੋਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+        "step2Desc": "ਤੁਹਾਡੀ ਐਪ ਦੁਆਰਾ ਤਿਆਰ ਕੀਤਾ ਗਿਆ 6-ਅੰਕ ਦਾ ਕੋਡ ਦਾਖਲ ਕਰੋ:",
+        "cancelButton": "ਰੱਦ ਕਰੋ",
+        "enableButton": "2FA ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ",
+        "invalidLength": "Please enter a 6-digit code.",
+        "invalidCode": "ਅਵੈਧ ਪੁਸ਼ਟੀਕਰਨ ਕੋਡ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+      }
+    },
+    "personalization": {
+      "languageTitle": "ਭਾਸ਼ਾ ਨਿਯੰਤਰਣ",
+      "appLanguage": "ਐਪ ਭਾਸ਼ਾ",
+      "layoutTitle": "ਖਾਕਾ ਅਤੇ ਟਾਈਪੋਗ੍ਰਾਫੀ",
+      "layoutStyle": "ਖਾਕਾ ਸ਼ੈਲੀ",
+      "layoutModern": "ਆਧੁਨਿਕ ਸ਼ੈਲੀ (ਡਿਫੌਲਟ)",
+      "layoutClassic": "ਕਲਾਸਿਕ ਸ਼ੈਲੀ",
+      "layoutMinimalist": "ਨਿਊਨਤਮ ਸ਼ੈਲੀ",
+      "fontSize": "ਐਪ ਫੌਂਟ ਦਾ ਆਕਾਰ",
+      "fontSmall": "ਛੋਟਾ",
+      "fontNormal": "ਸਧਾਰਣ (ਮੱਧਮ)",
+      "fontLarge": "ਵੱਡਾ",
+      "searchLanguage": "ਭਾਸ਼ਾ ਖੋਜੋ...",
+      "languageNotFound": "ਭਾਸ਼ਾ ਨਹੀਂ ਮਿਲੀ",
+      "layoutElegant": "ਸ਼ਾਨਦਾਰ ਸ਼ੈਲੀ"
+    },
+    "saveChanges": "ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+    "cancel": "ਰੱਦ ਕਰੋ",
+    "appSettings": "ਐਪ ਸੈਟਿੰਗਾਂ",
+    "logoutConfirmTitle": "ਲਾਗਆਉਟ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "logoutConfirmDesc": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਸਿਸਟਮ ਤੋਂ ਲੌਗ ਆਊਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    "logoutConfirmYes": "ਹਾਂ, ਲੌਗਆਊਟ ਕਰੋ",
+    "generalError": "ਇੱਕ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ। ",
+    "success": "ਸਫਲਤਾ",
+    "preferencesSaved": "ਐਪ ਤਰਜੀਹਾਂ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ।",
+    "header": "ਐਪਲੀਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ",
+    "logout": {
+      "title": "ਲਾਗਆਉਟ ਪੁਸ਼ਟੀਕਰਨ",
+      "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਸਿਸਟਮ ਤੋਂ ਲੌਗ ਆਊਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+      "confirm": "ਹਾਂ, ਲੌਗਆਊਟ ਕਰੋ"
+    },
+    "about": {
+      "title": "ਐਪਲੀਕੇਸ਼ਨ ਬਾਰੇ",
+      "subtitle": "ਪੋਰਟਫੋਲੀਓ ਬਿਲਡਰ ਪਲੇਟਫਾਰਮ",
+      "version": "ਸੰਸਕਰਣ",
+      "description": "DevFolio ਇੱਕ ਆਧੁਨਿਕ ਪੋਰਟਫੋਲੀਓ ਬਿਲਡਰ ਪਲੇਟਫਾਰਮ ਹੈ ਜੋ ਡਿਵੈਲਪਰਾਂ, ਡਿਜ਼ਾਈਨਰਾਂ ਅਤੇ ਪੇਸ਼ੇਵਰ ਸਿਰਜਣਹਾਰਾਂ ਲਈ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ। ",
+      "license": "ਲਾਇਸੰਸ ਅਤੇ ਕਾਪੀਰਾਈਟ",
+      "copyright": "© 2026 DevFolio Inc. ਸਾਰੇ ਅਧਿਕਾਰ ਰਾਖਵੇਂ ਹਨ।",
+      "developer": "ਵਿਕਾਸਕਾਰ",
+      "developedBy": "ਰਿਫਕੀ ਨਾਰਦਤਾ ਦੁਆਰਾ ਵਿਕਸਿਤ ਕੀਤਾ ਗਿਆ"
+    },
+    "deleteAccount": {
+      "title": "ਖਾਤਾ ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾਓ",
+      "menuItem": "ਖਾਤਾ ਮਿਟਾਓ",
+      "successTitle": "ਸਫਲਤਾ",
+      "successMessage": "ਇੱਕ ਖਾਤਾ ਮਿਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਈਮੇਲ ਭੇਜੀ ਗਈ ਹੈ।",
+      "errorTitle": "ਅਸਫਲ",
+      "errorMessage": "ਪੁਸ਼ਟੀਕਰਨ ਈਮੇਲ ਭੇਜਣ ਵਿੱਚ ਅਸਫਲ।",
+      "confirmationMessage": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਪੱਕੇ ਤੌਰ 'ਤੇ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+      "warningMessage1": "ਤੁਹਾਨੂੰ ਖਾਤਾ ਮਿਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਇੱਕ ਈਮੇਲ ਪ੍ਰਾਪਤ ਹੋਵੇਗੀ।",
+      "warningMessage2": "ਜੇਕਰ ਪੁਸ਼ਟੀ ਹੋ ​​ਜਾਂਦੀ ਹੈ, ਤਾਂ ਸਾਰਾ ਡਾਟਾ (ਪੋਰਟਫੋਲੀਓ, ਪ੍ਰੋਜੈਕਟ, ਅੰਕੜੇ) ਸਥਾਈ ਤੌਰ 'ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਮੁੜ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।",
+      "cancel": "ਰੱਦ ਕਰੋ",
+      "confirm": "ਪੁਸ਼ਟੀ"
+    },
+    "toasts": {
+      "toastError": "ਗਲਤੀ",
+      "toastSuccess": "ਸਫਲਤਾ",
+      "toastSetup2FAFailed": "2FA ਸੈੱਟਅੱਪ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+      "toast2FAEnabled": "ਦੋ-ਕਾਰਕ ਪ੍ਰਮਾਣਿਕਤਾ ਨੂੰ ਸਮਰੱਥ ਬਣਾਇਆ ਗਿਆ ਹੈ।",
+      "toast2FADisabled": "ਦੋ-ਕਾਰਕ ਪ੍ਰਮਾਣੀਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਇਆ ਗਿਆ ਹੈ।",
+      "toastSessionEnabled": "ਕਿਰਿਆਸ਼ੀਲ ਸੈਸ਼ਨ ਨਿਗਰਾਨੀ ਨੂੰ ਸਮਰੱਥ ਬਣਾਇਆ ਗਿਆ ਹੈ।",
+      "toastSessionDisabled": "ਕਿਰਿਆਸ਼ੀਲ ਸੈਸ਼ਨ ਨਿਗਰਾਨੀ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਇਆ ਗਿਆ ਹੈ।",
+      "toastSetupKeyCopied": "ਸੈੱਟਅੱਪ ਕੁੰਜੀ ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ ਕੀਤੀ ਗਈ।"
+    },
+    "privacy": {
+      "title": "ਪਰਾਈਵੇਟ ਨੀਤੀ",
+      "updateDate": "ਆਖਰੀ ਅਪਡੇਟ: 15 ਜੁਲਾਈ, 2026",
+      "intro": "ਇਹ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਦੱਸਦੀ ਹੈ ਕਿ ਸਾਡੀਆਂ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ DevFolio ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਕਿਵੇਂ ਇਕੱਤਰ ਕਰਦਾ ਹੈ, ਵਰਤਦਾ ਹੈ ਅਤੇ ਸੁਰੱਖਿਅਤ ਕਰਦਾ ਹੈ।",
+      "section1Title": "1. ਜਾਣਕਾਰੀ ਅਸੀਂ ਇਕੱਠੀ ਕਰਦੇ ਹਾਂ",
+      "section1Content": "ਅਸੀਂ ਖਾਤਾ ਬਣਾਉਣ, ਪੋਰਟਫੋਲੀਓ ਬਣਾਉਣ ਅਤੇ ਸਾਡੀ ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰਨ ਵੇਲੇ ਤੁਹਾਡੇ ਦੁਆਰਾ ਸਿੱਧੀ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਦੇ ਹਾਂ। ",
+      "section2Title": "2. ਜਾਣਕਾਰੀ ਦੀ ਵਰਤੋਂ",
+      "section2Content": "ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਦੀ ਵਰਤੋਂ ਸਾਡੀਆਂ ਸੇਵਾਵਾਂ ਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਚਲਾਉਣ, ਸਾਂਭ-ਸੰਭਾਲ ਕਰਨ ਅਤੇ ਪ੍ਰਦਾਨ ਕਰਨ ਦੇ ਨਾਲ-ਨਾਲ ਤੁਹਾਡੇ ਖਾਤੇ ਜਾਂ ਸੇਵਾਵਾਂ ਬਾਰੇ ਤੁਹਾਡੇ ਨਾਲ ਸੰਚਾਰ ਕਰਨ ਲਈ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।",
+      "section3Title": "3. ਡਾਟਾ ਸੁਰੱਖਿਆ",
+      "section3Content": "ਅਸੀਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ, ਖੁਲਾਸੇ ਜਾਂ ਤਬਾਹੀ ਤੋਂ ਬਚਾਉਣ ਲਈ ਉਚਿਤ ਸੁਰੱਖਿਆ ਉਪਾਅ ਲਾਗੂ ਕਰਦੇ ਹਾਂ।"
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "ਪੁਸ਼ਟੀਕਰਨ ਟੋਕਨ ਨਹੀਂ ਮਿਲਿਆ।",
+    "defaultError": "ਖਾਤਾ ਮਿਟਾਉਣਾ ਅਸਫਲ ਰਿਹਾ। ਟੋਕਨ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੋ ਸਕਦੀ ਹੈ।",
+    "loadingTitle": "ਖਾਤਾ ਮਿਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "loadingMessage": "ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ, ਅਸੀਂ ਤੁਹਾਡੀ ਬੇਨਤੀ 'ਤੇ ਕਾਰਵਾਈ ਕਰ ਰਹੇ ਹਾਂ।",
+    "successTitle": "ਖਾਤਾ ਸਫਲਤਾਪੂਰਵਕ ਮਿਟਾਇਆ ਗਿਆ",
+    "successMessage": "ਤੁਹਾਡਾ ਸਾਰਾ ਡਾਟਾ ਪੱਕੇ ਤੌਰ 'ਤੇ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤੁਹਾਨੂੰ ਰੀਡਾਇਰੈਕਟ ਕੀਤਾ ਜਾਵੇਗਾ...",
+    "errorTitle": "ਖਾਤਾ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫਲ",
+    "backToHome": "ਘਰ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+  },
+  "forgotPassword": {
+    "minutes": "ਮਿੰਟ",
+    "seconds": "ਸਕਿੰਟ",
+    "success": "ਸਫਲਤਾ",
+    "otpSentToEmail": "ਤੁਹਾਡੀ ਈਮੇਲ 'ਤੇ ਇੱਕ OTP ਕੋਡ ਭੇਜਿਆ ਗਿਆ ਹੈ।",
+    "failed": "ਅਸਫਲ",
+    "emailNotFound": "ਈਮੇਲ ਨਹੀਂ ਮਿਲੀ।",
+    "emailThirdParty": "ਇਹ ਈਮੇਲ ਤੀਜੀ ਧਿਰ ਦੁਆਰਾ ਰਜਿਸਟਰ ਕੀਤੀ ਗਈ ਹੈ।",
+    "genericError": "ਇੱਕ ਤਰੁੱਟੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+    "otpVerified": "OTP ਕੋਡ ਦੀ ਸਫਲਤਾਪੂਰਵਕ ਪੁਸ਼ਟੀ ਕੀਤੀ ਗਈ ਹੈ।",
+    "otpExpired": "OTP ਕੋਡ ਦੀ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਨਵੇਂ ਕੋਡ ਦੀ ਬੇਨਤੀ ਕਰੋ।",
+    "otpInvalid": "ਅਵੈਧ OTP ਕੋਡ।",
+    "otpResent": "ਤੁਹਾਡੇ ਈਮੇਲ 'ਤੇ ਇੱਕ ਨਵਾਂ OTP ਕੋਡ ਭੇਜਿਆ ਗਿਆ ਹੈ।",
+    "otpResendFailed": "OTP ਕੋਡ ਦੁਬਾਰਾ ਭੇਜਣਾ ਅਸਫਲ ਰਿਹਾ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+    "passwordResetSuccess": "ਪਾਸਵਰਡ ਸਫਲਤਾਪੂਰਵਕ ਰੀਸੈਟ ਕੀਤਾ ਗਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਨਵੇਂ ਪਾਸਵਰਡ ਨਾਲ ਲਾਗਇਨ ਕਰੋ।",
+    "passwordResetFailed": "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।",
+    "backToLogin": "ਲੌਗਇਨ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+    "back": "ਪਿੱਛੇ",
+    "title": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ",
+    "description": "ਆਪਣੇ ਖਾਤੇ 'ਤੇ ਰਜਿਸਟਰ ਕੀਤਾ ਈਮੇਲ ਪਤਾ ਦਰਜ ਕਰੋ। ਅਸੀਂ ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰਨ ਲਈ ਇੱਕ OTP ਕੋਡ ਭੇਜਾਂਗੇ।",
+    "emailLabel": "ਈਮੇਲ ਪਤਾ",
+    "sending": "ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "sendOtp": "OTP ਕੋਡ ਭੇਜੋ",
+    "verifyOtpTitle": "OTP ਕੋਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "verifyOtpDesc": "6 ਅੰਕਾਂ ਦਾ ਕੋਡ ਦਾਖਲ ਕਰੋ ਜੋ ਤੁਹਾਡੀ ਪਛਾਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਤੁਹਾਡੀ ਈਮੇਲ 'ਤੇ ਭੇਜਿਆ ਗਿਆ ਹੈ।",
+    "verifying": "ਪੁਸ਼ਟੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...",
+    "verifyOtp": "OTP ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "resending": "ਮੁੜ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "resendOtp": "OTP ਕੋਡ ਦੁਬਾਰਾ ਭੇਜੋ",
+    "resendCodeIn": "ਕੋਡ ਨੂੰ",
+    "newPasswordTitle": "ਵਿੱਚ ਦੁਬਾਰਾ ਭੇਜੋ ਨਵਾਂ ਪਾਸਵਰਡ ਬਣਾਓ",
+    "newPasswordDesc": "ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਇੱਕ ਨਵਾਂ, ਮਜ਼ਬੂਤ ​​ਪਾਸਵਰਡ ਬਣਾਓ।",
+    "newPasswordLabel": "ਨਵਾਂ ਪਾਸਵਰਡ",
+    "min8Chars": "ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ",
+    "oneUpperCase": "1 ਅਪਰਕੇਸ (A-Z)",
+    "oneNumber": "1 ਨੰਬਰ (0-9)",
+    "oneSymbol": "1 ਚਿੰਨ੍ਹ (!@#$%^&*)",
+    "confirmPasswordLabel": "ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "passwordsDoNotMatch": "ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦੇ।",
+    "resettingPassword": "ਪਾਸਵਰਡ ਰੀਸੈੱਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...",
+    "resetPassword": "ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ"
+  },
+  "verifyEmail": {
+    "resendError": "ਪੁਸ਼ਟੀਕਰਨ ਈਮੇਲ ਦੁਬਾਰਾ ਭੇਜਣਾ ਅਸਫਲ ਰਿਹਾ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+    "checkingStatus": "ਤਸਦੀਕ ਸਥਿਤੀ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...",
+    "title": "ਆਪਣੀ ਈਮੇਲ ਦੀ ਜਾਂਚ ਕਰੋ",
+    "description": "ਅਸੀਂ ਤੁਹਾਡੇ ਈਮੇਲ ਪਤੇ 'ਤੇ ਇੱਕ ਪੁਸ਼ਟੀਕਰਨ ਈਮੇਲ ਭੇਜੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਈਮੇਲ ਖੋਲ੍ਹੋ ਅਤੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਕਿਰਿਆਸ਼ੀਲ ਕਰਨ ਲਈ <1>\"ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ\"</1> ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ।",
+    "stepsTitle": "ਕਦਮ",
+    "step1": "ਆਪਣੀ ਈਮੇਲ ਐਪਲੀਕੇਸ਼ਨ ਖੋਲ੍ਹੋ (ਜੀਮੇਲ, ਯਾਹੂ, ਆਦਿ)",
+    "step2": "\"ਖਾਤਾ ਸਰਗਰਮੀ\"",
+    "step3": "ਵਿਸ਼ੇ ਦੇ ਨਾਲ DevFolio ਤੋਂ ਇੱਕ ਈਮੇਲ ਲੱਭੋ ਈਮੇਲ ਵਿੱਚ \"ਖਾਤੇ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ\" ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ",
+    "step4": "ਤੁਹਾਨੂੰ ਦਾਖਲ ਕਰਨ ਲਈ ਲੌਗਇਨ ਪੰਨੇ 'ਤੇ ਭੇਜਿਆ ਜਾਵੇਗਾ",
+    "resendSuccess": "ਪੁਸ਼ਟੀਕਰਨ ਈਮੇਲ ਦੁਬਾਰਾ ਭੇਜ ਦਿੱਤੀ ਗਈ ਹੈ!",
+    "resending": "ਮੁੜ ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ...",
+    "resendButton": "ਪੁਸ਼ਟੀਕਰਨ ਈਮੇਲ ਦੁਬਾਰਾ ਭੇਜੋ",
+    "backToLogin": "ਲੌਗਇਨ ਪੰਨੇ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+    "footerNote": "ਕੀ ਈਮੇਲ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਈ? ਆਪਣੀ ਈਮੇਲ ਵਿੱਚ <1>ਸਪੈਮ</1> ਜਾਂ <2>ਜੰਕ</2> ਫੋਲਡਰ ਦੀ ਜਾਂਚ ਕਰੋ। ਪੁਸ਼ਟੀਕਰਨ ਲਿੰਕ <3>24 ਘੰਟੇ</3> ਲਈ ਵੈਧ ਹੈ।"
+  }
+}

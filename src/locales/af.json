@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Kenmerke",
+    "templates": "Sjablone",
+    "pricing": "Pryse",
+    "login": "Teken in",
+    "getStarted": "Begin",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Die uiteindelike portefeuljebouer vir ontwikkelaars",
+    "title1": "Bou jou professionele persoon",
+    "title2": "portefeulje in",
+    "titleHighlight": "sekondes.",
+    "subtitle": "Alles wat jy nodig het om jou vaardighede, projekte en ervaring ten toon te stel. ",
+    "startBuilding": "Begin nou bou",
+    "viewTemplates": "Bekyk sjablone",
+    "fastDeployment": "Vinnige ontplooiing",
+    "liveStatus": "username.dev is regstreeks!",
+    "featuresTitle": "Kragtige kenmerke",
+    "featuresSubtitle": "Ons verskaf al die gereedskap wat jy nodig het om uit die skare uit te staan ​​en jou droomwerk te kry.",
+    "feature1Title": "Sleep & Drop Bouer",
+    "feature1Desc": "Organiseer jou afdelings, projekte en vaardighede maklik met ons intuïtiewe visuele redigeerder.",
+    "feature2Title": "Pasgemaakte temas",
+    "feature2Desc": "Kies uit professioneel ontwerpte sjablone of skep jou eie unieke voorkoms.",
+    "feature3Title": "Intydse analise",
+    "feature3Desc": "Volg jou besoekers, kyk watter projekte die meeste aandag kry, en meer."
+  },
+  "auth": {
+    "welcomeBack": "Welkom Terug",
+    "loginToContinue": "Meld aan by jou rekening om voort te gaan",
+    "createAccount": "Skep rekening",
+    "joinCommunity": "Sluit aan by duisende ander ontwikkelaars",
+    "fullName": "Volle Naam",
+    "fullNamePlaceholder": "bv. ",
+    "email": "E-posadres",
+    "emailPlaceholder": "jy@voorbeeld.com",
+    "password": "Wagwoord",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Onthou my",
+    "forgotPassword": "Wagwoord vergeet?",
+    "signIn": "Meld aan",
+    "signingIn": "Meld tans aan...",
+    "signUp": "Teken in",
+    "signingUp": "Sluit tans aan...",
+    "noAccount": "Het jy nie 'n rekening nie?",
+    "hasAccount": "Het jy reeds 'n rekening?",
+    "passwordRules": {
+      "title": "Wagwoord moet bevat:",
+      "length": "Ten minste 8 karakters",
+      "uppercase": "Een hoofletter (A-Z)",
+      "number": "Een nommer (0-9)",
+      "symbol": "Een simbool (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portefeuljebouer",
+      "templates": "Sjablone en temas",
+      "settings": "Instellings",
+      "collapse": "Vou sybalk in",
+      "overview": "Oorsig",
+      "profileSettings": "Profielinstellings",
+      "customDomain": "Gepasmaakte domein",
+      "feedback": "Terugvoer"
+    },
+    "header": {
+      "viewLive": "Kyk regstreeks",
+      "welcome": "Welkom,",
+      "logout": "Teken uit",
+      "builder": "Bouer",
+      "livePortfolio": "Regstreekse portefeulje",
+      "live": "Leef"
+    },
+    "logoutModal": {
+      "title": "Teken uit",
+      "message": "Is jy seker jy wil by jou rekening afmeld? ",
+      "cancel": "Kanselleer",
+      "confirm": "Ja, afmeld"
+    },
+    "slugModal": {
+      "title": "Kies jou portefeulje-URL",
+      "message": "Hierdie URL sal die unieke skakel na jou portefeulje wees. ",
+      "slugPlaceholder": "jou-naam",
+      "availability": "Beskikbaarheid:",
+      "available": "Beskikbaar",
+      "unavailable": "Onbeskikbaar",
+      "checking": "Kontroleer tans …",
+      "mustFormat": "Kan net letters, syfers en strepies bevat (-)",
+      "cancel": "Kanselleer",
+      "save": "Stoor URL",
+      "usernameUrl": "Gebruikersnaam URL",
+      "helpText": "Kleinletters, syfers en strepies. ",
+      "validation": {
+        "empty": "Slak kan nie leeg wees nie.",
+        "min3": "Minimum 3 karakters.",
+        "max30": "Maksimum 30 karakters.",
+        "format": "Slegs kleinletters, syfers en strepies (-). "
+      }
+    },
+    "loadingPortfolio": "Laai tans portefeuljedata...",
+    "overview": {
+      "greetings": {
+        "morning": "Goeie môre",
+        "afternoon": "Goeie middag",
+        "evening": "Goeie middag",
+        "night": "Goeie nag"
+      },
+      "welcome": {
+        "hi": "O,",
+        "creator": "Skepper",
+        "desc1": "Welkom by die DevFolio-kontroleskerm. Jou portefeulje is bekyk deur",
+        "desc2": "persoon. Hou aan werk!",
+        "editPortfolio": "Wysig portefeulje"
+      },
+      "stats": {
+        "totalVisitors": "Totale besoekers",
+        "projectViews": "Bekyk (projek)",
+        "activeSessions": "Aktiewe sessie",
+        "totalLabel": "Totaal"
+      },
+      "setup": {
+        "title": "Opstelvordering",
+        "completed": "Jou portefeulje is voltooi! 🎉",
+        "inProgress": "Stappe na die perfekte portefeulje.",
+        "profile": {
+          "title": "Voltooi profiel",
+          "desc": "Voeg naam, bio en profielfoto by."
+        },
+        "section": {
+          "title": "Voeg afdelings by",
+          "desc": "Aktiveer ten minste 1 afdeling in die portefeulje."
+        },
+        "project": {
+          "title": "Voeg projek by",
+          "desc": "Voer ten minste 1 van jou beste projekte in."
+        },
+        "publish": {
+          "title": "Publiseer portefeulje",
+          "desc": "Stel 'n pasgemaakte URL sodat dit deur die publiek verkry kan word."
+        }
+      },
+      "topProjects": {
+        "title": "Gewildste projekte",
+        "desc": "Die uitvoering van jou werk in die oë van besoekers.",
+        "viewAll": "Sien Alles",
+        "empty": "Daar is nog geen aansigdata vir jou projek nie."
+      }
+    },
+    "themes": {
+      "title": "Sjablone en temas",
+      "subtitle": "Pas die voorkoms en gevoel van jou publieke portefeulje aan.",
+      "reset": "Stel verstek terug",
+      "save": "Stoor veranderinge",
+      "saving": "Stoor tans...",
+      "chooseTemplate": "Kies 'n sjabloon",
+      "primaryColor": "Primêre kleur",
+      "typography": "Tipografie",
+      "appearance": "Voorkoms",
+      "corners": "Hoeke & Grense",
+      "successTitle": "Sukses",
+      "successMessage": "Temavoorkeure is suksesvol opgedateer",
+      "errorTitle": "Fout",
+      "errorMessage": "Kon nie temavoorkeure stoor nie",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalisties",
+          "desc": "Skoon en eenvoudige ontwerp wat op inhoud fokus."
+        },
+        "developerDark": {
+          "name": "Ontwikkelaar Dark",
+          "desc": "Donker tema perfek vir die vertoon van kode en tegnologiese stapels."
+        },
+        "creative": {
+          "name": "Kreatief",
+          "desc": "Lewendige en kleurvolle uitleg vir ontwerpers en kreatiewe."
+        },
+        "executive": {
+          "name": "Uitvoerend",
+          "desc": "Professionele en formele uitleg vir sakelui."
+        },
+        "bentoGrid": {
+          "name": "Bento-rooster",
+          "desc": "Moderne Apple-styl roosteruitleg wat verskillende vaardighede doeltreffend uitlig."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalisme",
+          "desc": "Gewaagde rande en hoë kontras kleure vir 'n nuwerwetse, onverskoonbare voorkoms."
+        },
+        "glassmorphism": {
+          "name": "Glasmorfisme",
+          "desc": "Matglas-effekte oor kleurvolle gradiënte vir 'n slanke moderne UI."
+        },
+        "linkInBio": {
+          "name": "Skakel in Bio",
+          "desc": "Kompakte vertikale uitleg wat geoptimaliseer is vir mobiele skerms en sosiale media."
+        }
+      },
+      "appearances": {
+        "light": "Lig",
+        "dark": "Donker",
+        "system": "Stelsel"
+      },
+      "cornersOptions": {
+        "sharp": "Skerp",
+        "rounded": "Afgeronde",
+        "pill": "Pil"
+      }
+    },
+    "feedback": {
+      "title": "Stuur terugvoer",
+      "subtitle": "Help ons om dit beter te maak deur voorstelle, kritiek te verskaf of foute op hierdie toepassing aan te meld.",
+      "categoryLabel": "Terugvoerkategorie",
+      "messageLabel": "Boodskapbesonderhede",
+      "messagePlaceholder": "Vertel my in detail van die terugvoer wat jy wil oordra...",
+      "imageLabel": "Beeldaanhegsel (opsioneel)",
+      "imagePlaceholder": "Klik om prent of skermskoot op te laai",
+      "submitting": "Stuur tans...",
+      "submitBtn": "Stuur terugvoer",
+      "categories": {
+        "suggestion": "Voorstelle en idees",
+        "bug": "Fout-/foutverslag",
+        "criticism": "Kritiek",
+        "other": "Ander"
+      },
+      "imageErrorTitle": "Fout",
+      "imageErrorMessage": "Sommige lêers word verwerp omdat hulle nie prentformate ondersteun word nie (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Sukses",
+      "successMessage": "Dankie vir jou terugvoer! Verslag is gestuur.",
+      "submitErrorTitle": "Misluk",
+      "submitErrorMessage": "'n Fout het voorgekom tydens die stuur van terugvoer. Probeer asseblief weer."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Oor My",
+      "skills": "Vaardighede",
+      "projects": "Projekte",
+      "workExperience": "Werkservaring",
+      "orgExperience": "Organisatoriese ervaring",
+      "education": "Onderwys",
+      "certifications": "Opleiding & Sertifisering",
+      "contact": "Kontak My"
+    },
+    "editor": {
+      "profileInfo": "Profielinligting",
+      "saving": "Stoor tans …",
+      "profilePhoto": "Profielfoto",
+      "clickToUpload": "Klik om op te laai (JPG, PNG)",
+      "fullName": "Volle Naam",
+      "fullNamePlaceholder": "bv. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack-ontwikkelaar met 'n passie vir die bou van moderne webtoepassings...",
+      "location": "Ligging",
+      "locationPlaceholder": "bv. ",
+      "gender": "Geslag",
+      "selectGender": "Kies Geslag",
+      "male": "Manlik",
+      "female": "Vroulik",
+      "custom": "Pasgemaak",
+      "customPlaceholder": "Tik jou gepasmaakte geslag...",
+      "uploadCv": "Laai CV op",
+      "cvFormat": "(DOC of PDF)",
+      "preview": "Voorskou",
+      "remove": "Verwyder",
+      "clickToUploadCv": "Klik om PDF of DOC op te laai",
+      "sections": "Seksies",
+      "removeSelected": "Verwyder geselekteerde",
+      "confirmRemove": "Bevestig verwyder",
+      "addSection": "Voeg afdeling by",
+      "addAllSections": "Voeg alle afdelings by",
+      "noSections": "Nog geen afdelings nie",
+      "clickToAdd": "Klik \"+ Voeg afdeling by\" om te begin",
+      "selectAll": "Kies Alles",
+      "selected": "Gekies",
+      "dragToReorder": "Sleep om afdelings te herrangskik",
+      "livePreview": "Regstreekse voorskou",
+      "addSectionsToBuild": "Voeg afdelings by om jou portefeulje te bou",
+      "now": "Nou",
+      "current": "Huidige",
+      "noExpiry": "Geen vervaldatum nie",
+      "see": "Sien",
+      "position": "Posisie",
+      "degree": "Graad",
+      "certification": "Sertifisering",
+      "sectionsForm": {
+        "about": {
+          "label": "Beskrywing van jouself",
+          "placeholder": "Vertel ons van jouself, jou agtergrond, belangstellings en vaardighede..."
+        },
+        "skills": {
+          "addPlaceholder": "Tik vaardigheid en druk dan Enter..."
+        },
+        "projects": {
+          "title": "Projek Naam",
+          "titlePlaceholder": "Projek naam...",
+          "url": "Projek URL",
+          "description": "Beskrywing",
+          "descriptionPlaceholder": "Kort beskrywing van die projek...",
+          "uploadThumbnail": "Projek Beeld",
+          "addProject": "Voeg projek by",
+          "projectNum": "Projek #",
+          "currentProject": "Dit is 'n projek waaraan ek werk"
+        },
+        "work": {
+          "company": "Maatskappy/Agentskap",
+          "companyPlaceholder": "Maatskappy naam...",
+          "position": "Posisie/Titel",
+          "positionPlaceholder": "Jou posisie...",
+          "employmentType": "Soort werk",
+          "location": "Ligging",
+          "locationPlaceholder": "Stad, land...",
+          "startDate": "Begin",
+          "endDate": "Klaar",
+          "currentWork": "Ek werk op die oomblik nog",
+          "description": "Beskrywing",
+          "descriptionPlaceholder": "Posbeskrywing en verantwoordelikhede...",
+          "skills": "Vaardigheid",
+          "addExperience": "Voeg werkservaring by",
+          "experienceNum": "Ervaring #",
+          "dateError": "Die einddatum kan nie vroeër as die begindatum wees nie"
+        },
+        "org": {
+          "organization": "Organisasie Naam",
+          "orgPlaceholder": "BEM Universiteit...",
+          "role": "Rol/Posisie",
+          "rolePlaceholder": "Afdelingshoof...",
+          "addOrg": "Voeg organisasie-ervaring by",
+          "orgNum": "Organisasie #"
+        },
+        "edu": {
+          "institution": "Opvoedkundige instellings",
+          "institutionPlaceholder": "Naam van kampus of skool...",
+          "degree": "Titel",
+          "degreePlaceholder": "S1, hoërskool, ens...",
+          "major": "Departement/Studierigting",
+          "majorPlaceholder": "Informatika Ingenieurswese...",
+          "gpa": "GPA (opsioneel)",
+          "currentStudy": "Ek leer nog hier",
+          "descriptionPlaceholder": "Aktiwiteite en prestasies tydens studie...",
+          "addEdu": "Voeg onderwys by",
+          "eduNum": "Onderwys #"
+        },
+        "cert": {
+          "name": "Naam van sertifisering / opleiding",
+          "namePlaceholder": "Sertifiseringsnaam...",
+          "issuer": "Uitgewer",
+          "issuerPlaceholder": "Publiseer instansie...",
+          "issueDate": "Begin (Publiseerdatum)",
+          "issueDatePlaceholder": "Kies publikasiedatum...",
+          "expiryDate": "Voltooi (Geldige tydperk)",
+          "expiryDatePlaceholder": "Kies vervaldatum...",
+          "noExpiry": "Hierdie sertifikaat het geen vervaldatum nie",
+          "url": "Geloofs-URL",
+          "uploadThumbnail": "Sertifikaat / Opleiding Beeld",
+          "uploadThumbnailLimit": "Laai sertifikaatprent op (JPG/PNG/WEBP, maksimum 2MB)",
+          "addCert": "Voeg sertifisering by",
+          "certNum": "Sertifisering #"
+        },
+        "contact": {
+          "contactNum": "Kontak #",
+          "platform": "Platform",
+          "displayText": "Vertoon teks",
+          "displayTextPlaceholder": "bv. jy@e-pos.com of @gebruikernaam",
+          "url": "Skakel (URL)",
+          "urlPlaceholderWhatsapp": "bv. 62812... (sonder 0 vooraan)",
+          "urlPlaceholderEmail": "bv. jy@e-pos.com",
+          "urlPlaceholderWebsite": "bv. https://...",
+          "urlPlaceholderDefault": "bv. gebruikersnaam",
+          "addContact": "Voeg kontak by"
+        },
+        "common": {
+          "months": {
+            "1": "Januarie",
+            "2": "Februarie",
+            "3": "Maart",
+            "4": "April",
+            "5": "Mei",
+            "6": "Junie",
+            "7": "Julie",
+            "8": "Augustus",
+            "9": "September",
+            "10": "Oktober",
+            "11": "November",
+            "12": "Desember"
+          },
+          "month": "Maand",
+          "year": "Jaar",
+          "invalidDate": "Ongeldige eindmaand",
+          "words": "woorde"
+        }
+      },
+      "sure": "Sekerlik",
+      "deletePhotoTitle": "Vee profielfoto uit?",
+      "deletePhotoMessage": "Is jy seker jy wil hierdie profielfoto uitvee?",
+      "cancel": "Kanselleer",
+      "delete": "Vee uit"
+    },
+    "cropper": {
+      "chooseBackground": "Kies Agtergrond",
+      "cropPhoto": "Sny jou foto",
+      "useOriginal": "Gebruik oorspronklike",
+      "backgroundPresets": "Agtergrondvoorinstellings",
+      "none": "Geen",
+      "uploadBackground": "Laai agtergrond op",
+      "cancel": "Kanselleer",
+      "savePhoto": "Stoor foto",
+      "zoom": "Zoem",
+      "rotationTilt": "Rotasie en kantel",
+      "resetRotation": "Stel terug na 0°",
+      "center": "Sentrum",
+      "rotateLeft": "Draai -90°",
+      "rotateRight": "Draai +90°",
+      "removeBackground": "Verwyder agtergrond",
+      "processing": "Verwerk tans jou prent, wag asseblief..."
+    },
+    "cvPreview": {
+      "title": "CV Voorskou",
+      "downloadCv": "Laai CV af",
+      "download": "Laai af",
+      "wordCannotPreview": "Word-dokumente (.doc/.docx) kan nie oorspronklik in die blaaier bekyk word nie. ",
+      "downloadFile": "Laai CV-lêer af",
+      "back": "Terug",
+      "mobileMessage": "Laai asseblief die CV-lêer af om dit te besigtig.",
+      "preview": "Voorskou CV",
+      "wordPreviewTitle": "Word-dokumentvoorskou",
+      "wordPreviewMessage": "Word-dokumente (.doc/.docx) kan nie oorspronklik in die blaaier bekyk word nie. Laai asseblief die lêer af om dit te sien."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Skryf 'n kort beskrywing oor jouself, belangstellings en loopbaandoelwitte..."
+    },
+    "skills": {
+      "placeholder": "Tik vaardigheidnaam...",
+      "add": "Voeg by",
+      "enterToAdd": "Druk Enter om by te voeg",
+      "noSkills": "Nog geen vaardighede bygevoeg nie."
+    },
+    "projects": {
+      "projectName": "Projek Naam",
+      "projectNamePlaceholder": "bv. ",
+      "projectUrl": "Projek URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Duur",
+      "startMonth": "Begin maand",
+      "startYear": "Begin Jaar",
+      "endMonth": "Einde maand",
+      "endYear": "Einde Jaar",
+      "currentlyWorking": "Werk tans hieraan",
+      "description": "Beskrywing",
+      "descriptionPlaceholder": "Beskryf die projek, jou rol en prestasies...",
+      "technologies": "Tegnologieë wat gebruik word",
+      "addProject": "Voeg projek by",
+      "image": "Projek Beeld",
+      "removeImage": "Verwyder prent",
+      "uploadImage": "Klik om prent op te laai"
+    },
+    "work": {
+      "company": "Maatskappy/Instelling",
+      "companyPlaceholder": "Maatskappy naam...",
+      "role": "Rol/Posisie",
+      "rolePlaceholder": "Jou posisie...",
+      "jobType": "Soort werk",
+      "selectJobType": "Kies tipe",
+      "fullTime": "Voltyds",
+      "partTime": "Deeltyds",
+      "contract": "Kontrak",
+      "internship": "Internskap",
+      "freelance": "Vryskut",
+      "location": "Ligging",
+      "locationPlaceholder": "bv. ",
+      "duration": "Duur",
+      "currentlyWorking": "Werk tans hier",
+      "description": "Posbeskrywing",
+      "descriptionPlaceholder": "Beskryf jou sleutelverantwoordelikhede en prestasies...",
+      "skills": "Spesifieke vaardighede",
+      "addExperience": "Voeg ervaring by"
+    },
+    "org": {
+      "organization": "Organisasie Naam",
+      "organizationPlaceholder": "Organisasie se naam...",
+      "role": "Rol/Posisie",
+      "rolePlaceholder": "bv. ",
+      "duration": "Duur",
+      "periodFormat": "of gratis formaat (bv. 2020 - 2022)",
+      "periodPlaceholder": "bv. ",
+      "currentlyActive": "Tans aktief",
+      "description": "Aktiwiteitsbeskrywing",
+      "descriptionPlaceholder": "Beskryf jou aktiwiteite of bydraes...",
+      "addExperience": "Voeg ervaring by"
+    },
+    "education": {
+      "institution": "Inrigting Naam",
+      "institutionPlaceholder": "Skool of universiteit se naam...",
+      "degree": "Graad/Vlak",
+      "degreePlaceholder": "bv. ",
+      "major": "Hoofvak/studierigting",
+      "majorPlaceholder": "bv. ",
+      "gpa": "GPA / Graad",
+      "gpaPlaceholder": "bv. ",
+      "duration": "Onderwys Duur",
+      "periodFormat": "of gratis formaat (bv. 2018 - 2022)",
+      "periodPlaceholder": "bv. ",
+      "currentlyStudying": "Studeer tans hier",
+      "description": "Aktiwiteite / Honneurs",
+      "descriptionPlaceholder": "Beskryf akademiese aktiwiteite, organisasies of eerbewyse wat ontvang is...",
+      "addEducation": "Voeg onderwys by"
+    },
+    "cert": {
+      "name": "Sertifisering Naam",
+      "namePlaceholder": "bv. ",
+      "issuer": "Uitreikingsorganisasie",
+      "issuerPlaceholder": "bv. ",
+      "issueDate": "Uitreikingsdatum",
+      "expiryDate": "Geldig tot",
+      "noExpiry": "Hierdie geloofsbriewe verval nie",
+      "yearPlaceholder": "of Jaar (bv. 2023)",
+      "credentialUrl": "Geloofs-URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Verwante vaardighede",
+      "addCertification": "Voeg sertifisering by",
+      "image": "Beeld/logo",
+      "removeImage": "Verwyder prent",
+      "uploadImage": "Klik om prent op te laai"
+    },
+    "common": {
+      "months": {
+        "1": "Januarie",
+        "2": "Februarie",
+        "3": "Maart",
+        "4": "April",
+        "5": "Mei",
+        "6": "Junie",
+        "7": "Julie",
+        "8": "Augustus",
+        "9": "September",
+        "10": "Oktober",
+        "11": "November",
+        "12": "Desember"
+      },
+      "month": "Maand",
+      "year": "Jaar",
+      "invalidDate": "Ongeldige eindmaand",
+      "words": "woorde"
+    }
+  },
+  "settings": {
+    "title": "Instellings",
+    "subtitle": "Bestuur jou portefeuljeprofiel en voorkeure",
+    "tabs": {
+      "profile": "My profiel",
+      "security": "Sekuriteit",
+      "personalization": "Verpersoonliking"
+    },
+    "profile": {
+      "infoTitle": "Basiese inligting",
+      "photo": "Profielfoto",
+      "uploadPhoto": "Verander foto",
+      "fullName": "Volle Naam",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-posadres",
+      "emailPlaceholder": "john@voorbeeld.com",
+      "emailHelp": "E-pos word gebruik vir aanmelding en word nie publiek vertoon nie.",
+      "portfolioUrl": "Portefeulje-URL",
+      "saveProfile": "Stoor profiel",
+      "save": "Stoor profiel",
+      "accountCreated": "Rekening geskep",
+      "lastLogin": "Laaste aanmelding",
+      "oauthNotice": "Hierdie profiel is gekoppel aan jou {{provider}} rekening. Profielveranderinge moet deur die diensverskaffer gemaak word."
+    },
+    "security": {
+      "changePassword": "Verander wagwoord",
+      "currentPassword": "Huidige wagwoord",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nuwe wagwoord",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Bevestig nuwe wagwoord",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Ten minste 8 karakters",
+        "uppercase": "Een hoofletter (A-Z)",
+        "number": "Een nommer (0-9)",
+        "symbol": "Een simbool (!@#$%^&*)"
+      },
+      "passwordTitle": "Wagwoord",
+      "updatePassword": "Dateer wagwoord op",
+      "additionalSecurity": "Bykomende sekuriteit",
+      "twoFactor": "Twee-faktor-verifikasie (2FA)",
+      "twoFactorDesc": "Beveilig jou rekening met 'n bykomende OTP-kode.",
+      "activeSessions": "Aktiewe sessies",
+      "activeSessionsDesc": "Laat altyd monitering van aangemelde toestelle toe.",
+      "publicVisibility": "Publieke sigbaarheid",
+      "hideFromSearch": "Versteek portefeulje van soekenjins",
+      "hideFromSearchDesc": "Verhoed dat Google jou publieke portefeuljebladsy indekseer.",
+      "disable2fa": {
+        "title": "Deaktiveer 2FA",
+        "description": "Is jy seker jy wil twee-faktor-stawing afskakel?",
+        "confirmPasswordLabel": "Voer jou wagwoord in om te bevestig",
+        "currentPasswordPlaceholder": "Huidige wagwoord",
+        "cancelButton": "Kanselleer",
+        "confirmButton": "Deaktiveer 2FA",
+        "incorrectPassword": "Verkeerde wagwoord."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skandeer QR-kode",
+        "step1Desc": "Maak jou authenticator-toepassing oop en skandeer die volgende QR-kode:",
+        "unableToScan": "Kan nie skandeer nie? Gebruik die opstelsleutel",
+        "step2Title": "2. Verifieer kode",
+        "step2Desc": "Voer die 6-syfer kode in wat deur jou program gegenereer word:",
+        "cancelButton": "Kanselleer",
+        "enableButton": "Aktiveer 2FA",
+        "invalidLength": "Voer asseblief 'n 6-syfer kode in.",
+        "invalidCode": "Ongeldige verifikasiekode. Probeer asseblief weer."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Taalkontroles",
+      "appLanguage": "App Taal",
+      "layoutTitle": "Uitleg & Tipografie",
+      "layoutStyle": "Uitlegstyl",
+      "layoutModern": "Moderne styl (verstek)",
+      "layoutClassic": "Klassieke Styl",
+      "layoutMinimalist": "Minimalistiese styl",
+      "fontSize": "App Font Grootte",
+      "fontSmall": "Klein",
+      "fontNormal": "Normaal (medium)",
+      "fontLarge": "Groot",
+      "searchLanguage": "Soek taal...",
+      "languageNotFound": "Taal nie gevind nie",
+      "layoutElegant": "Elegante styl"
+    },
+    "saveChanges": "Stoor veranderinge",
+    "cancel": "Kanselleer",
+    "appSettings": "Programinstellings",
+    "logoutConfirmTitle": "Bevestig afmeld",
+    "logoutConfirmDesc": "Is jy seker jy wil by die stelsel afmeld?",
+    "logoutConfirmYes": "Ja, afmeld",
+    "generalError": "'n Fout het voorgekom. ",
+    "success": "Sukses",
+    "preferencesSaved": "Programvoorkeure is suksesvol gestoor.",
+    "header": "Toepassingsinstellings",
+    "logout": {
+      "title": "Bevestiging van afmeld",
+      "message": "Is jy seker jy wil by die stelsel afmeld?",
+      "confirm": "Ja, afmeld"
+    },
+    "about": {
+      "title": "Oor Aansoek",
+      "subtitle": "Portefeuljebouerplatform",
+      "version": "Weergawe",
+      "description": "DevFolio is 'n moderne portefeuljebouplatform wat ontwerp is vir ontwikkelaars, ontwerpers en professionele skeppers. ",
+      "license": "Lisensie & Kopiereg",
+      "copyright": "© 2026 DevFolio Inc. Alle regte voorbehou.",
+      "developer": "Ontwikkelaar",
+      "developedBy": "Ontwikkel deur Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Verwyder rekening permanent",
+      "menuItem": "Verwyder rekening",
+      "successTitle": "Sukses",
+      "successMessage": "'n Bevestigings-e-pos vir rekeninguitvee is gestuur.",
+      "errorTitle": "Misluk",
+      "errorMessage": "Kon nie bevestigings-e-pos stuur nie.",
+      "confirmationMessage": "Is jy seker jy wil jou rekening permanent uitvee?",
+      "warningMessage1": "Jy sal 'n e-pos ontvang om rekeninguitvee te bevestig.",
+      "warningMessage2": "As dit bevestig word, sal alle data (portefeulje, projekte, statistieke) permanent uitgevee word en kan dit nie herwin word nie.",
+      "cancel": "Kanselleer",
+      "confirm": "Bevestiging"
+    },
+    "toasts": {
+      "toastError": "Fout",
+      "toastSuccess": "Sukses",
+      "toastSetup2FAFailed": "Kon nie 2FA opstel nie. Probeer asseblief weer.",
+      "toast2FAEnabled": "Twee-faktor-stawing is geaktiveer.",
+      "toast2FADisabled": "Twee-faktor-stawing is gedeaktiveer.",
+      "toastSessionEnabled": "Aktiewe sessiemonitering is geaktiveer.",
+      "toastSessionDisabled": "Aktiewe sessiemonitering is gedeaktiveer.",
+      "toastSetupKeyCopied": "Opstellingsleutel is na knipbord gekopieer."
+    },
+    "privacy": {
+      "title": "Privaatheidsbeleid",
+      "updateDate": "Laas opgedateer: 15 Julie 2026",
+      "intro": "Hierdie Privaatheidsbeleid verduidelik hoe DevFolio jou persoonlike inligting insamel, gebruik en beskerm wanneer jy ons dienste gebruik.",
+      "section1Title": "1. Inligting wat ons versamel",
+      "section1Content": "Ons samel inligting in wat u direk verskaf wanneer u 'n rekening skep, 'n portefeulje bou en ons ondersteuning kontak. ",
+      "section2Title": "2. Gebruik van inligting",
+      "section2Content": "Jou inligting word gebruik om die kenmerke van ons dienste te bedryf, in stand te hou en te verskaf, asook om met jou te kommunikeer rakende jou rekening of dienste.",
+      "section3Title": "3. Datasekuriteit",
+      "section3Content": "Ons implementeer redelike sekuriteitsmaatreëls om jou inligting teen ongemagtigde toegang, openbaarmaking of vernietiging te beskerm."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Bevestigingstoken nie gevind nie.",
+    "defaultError": "Kon nie rekening uitvee nie. Die teken het dalk verval.",
+    "loadingTitle": "Vee rekening uit...",
+    "loadingMessage": "Wag asseblief, ons verwerk jou versoek.",
+    "successTitle": "Rekening suksesvol uitgevee",
+    "successMessage": "Al jou data is permanent uitgevee. Jy sal herlei word...",
+    "errorTitle": "Kon nie rekening uitvee nie",
+    "backToHome": "Keer terug na die huis"
+  },
+  "forgotPassword": {
+    "minutes": "minute",
+    "seconds": "sekondes",
+    "success": "Sukses",
+    "otpSentToEmail": "'n OTP-kode is na jou e-pos gestuur.",
+    "failed": "Misluk",
+    "emailNotFound": "E-pos nie gevind nie.",
+    "emailThirdParty": "Hierdie e-pos is deur 'n derde party geregistreer.",
+    "genericError": "Daar is 'n fout. Probeer asseblief weer.",
+    "otpVerified": "Die OTP-kode is suksesvol geverifieer.",
+    "otpExpired": "Die OTP-kode het verval. Versoek asseblief 'n nuwe kode.",
+    "otpInvalid": "Ongeldige OTP-kode.",
+    "otpResent": "'n Nuwe OTP-kode is na jou e-pos gestuur.",
+    "otpResendFailed": "Kon nie OTP-kode weer stuur nie. Probeer asseblief weer.",
+    "passwordResetSuccess": "Wagwoord suksesvol teruggestel. Meld asseblief aan met jou nuwe wagwoord.",
+    "passwordResetFailed": "Kon nie wagwoord terugstel nie.",
+    "backToLogin": "Keer terug na Aanmelding",
+    "back": "Terug",
+    "title": "Wagwoord vergeet",
+    "description": "Voer die e-posadres in wat op jou rekening geregistreer is. Ons sal 'n OTP-kode stuur om die wagwoord terug te stel.",
+    "emailLabel": "E-posadres",
+    "sending": "Stuur tans...",
+    "sendOtp": "Stuur OTP-kode",
+    "verifyOtpTitle": "Verifieer OTP-kode",
+    "verifyOtpDesc": "Voer die 6-syfer kode in wat na jou e-pos gestuur is om jou identiteit te bevestig.",
+    "verifying": "Verifieer tans...",
+    "verifyOtp": "Verifieer OTP",
+    "resending": "Herstuur...",
+    "resendOtp": "Stuur OTP-kode weer",
+    "resendCodeIn": "Stuur die kode weer in",
+    "newPasswordTitle": "Skep 'n nuwe wagwoord",
+    "newPasswordDesc": "Skep 'n nuwe, sterk wagwoord om jou rekening te beveilig.",
+    "newPasswordLabel": "Nuwe wagwoord",
+    "min8Chars": "Minimum 8 karakters",
+    "oneUpperCase": "1 hoofletter (A-Z)",
+    "oneNumber": "1 nommer (0-9)",
+    "oneSymbol": "1 simbool (!@#$%^&*)",
+    "confirmPasswordLabel": "Bevestig wagwoord",
+    "passwordsDoNotMatch": "Wagwoorde stem nie ooreen nie.",
+    "resettingPassword": "Stel wagwoord terug...",
+    "resetPassword": "Stel wagwoord terug"
+  },
+  "verifyEmail": {
+    "resendError": "Kon nie verifikasie-e-pos weer stuur nie. Probeer asseblief weer.",
+    "checkingStatus": "Kontroleer tans verifikasiestatus...",
+    "title": "Gaan jou e-pos na",
+    "description": "Ons het 'n verifikasie-e-pos na jou e-posadres gestuur. Maak asseblief die e-pos oop en klik die <1>\"Bevestig rekening\"</1>-knoppie om jou rekening te aktiveer.",
+    "stepsTitle": "Stappe",
+    "step1": "Maak jou e-postoepassing oop (Gmail, Yahoo, ens.)",
+    "step2": "Soek 'n e-pos van DevFolio met die onderwerp \"Rekeningaktivering\"",
+    "step3": "Klik op die \"Bevestig rekening\"-knoppie in die e-pos",
+    "step4": "Jy sal na die aanmeldbladsy gelei word om",
+    "resendSuccess": "in te voer Die verifikasie-e-pos is weer gestuur!",
+    "resending": "Herstuur...",
+    "resendButton": "Stuur verifikasie-e-pos weer",
+    "backToLogin": "Keer terug na aanmeldbladsy",
+    "footerNote": "Het jy nie die e-pos ontvang nie? Gaan die <1>Strooipos</1> of <2>Gemors</2> vouer in jou e-pos na. Die verifikasieskakel is geldig vir <3>24 uur</3>."
+  }
+}

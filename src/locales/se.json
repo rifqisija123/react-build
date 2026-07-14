@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Iešvuođat",
+    "templates": "Mállet",
+    "pricing": "Háhkan",
+    "login": "Logge sisa",
+    "getStarted": "Álggos",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Loahpalaš portfoliohuksejeaddji ovddideaddjiide",
+    "title1": "Hukset iežat ámmátlaš",
+    "title2": "portfolio",
+    "titleHighlight": "sekunddaid.",
+    "subtitle": "Buot maid dárbbašat čájehit iežat gelbbolašvuođa, prošeavttaid ja vásáhusaid. ",
+    "startBuilding": "Álggos hukset dál",
+    "viewTemplates": "Geahča málle",
+    "fastDeployment": "Jođánit álggaheapmi",
+    "liveStatus": "username.dev lea njuolggosáddagis!",
+    "featuresTitle": "Fámolaš doaimmat",
+    "featuresSubtitle": "Mii fállat buot reaidduid maid dárbbašat vai beasat eret earáin ja oažžut du nieidabarggu.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Organisere álkit iežat osiid, prošeavttaid ja gelbbolašvuođa min intuitiiva visuála editoriin.",
+    "feature2Title": "Eaktodáhtolaš fáttát",
+    "feature2Desc": "Vállje ámmátlaččat hábmejuvvon málliid gaskkas dahje ráhkada iežat erenoamáš hámi.",
+    "feature3Title": "Reálaáiggi analysat",
+    "feature3Desc": "Čuovo gallededdjiid, geahča makkár prošeavttat ožžot eanemus fuomášumi ja eará."
+  },
+  "auth": {
+    "welcomeBack": "Bures boahtin ruovttoluotta",
+    "loginToContinue": "Loga sisa iežat kontui joatkit",
+    "createAccount": "Ásahit konto",
+    "joinCommunity": "Searvva duháhiid eará ovddideaddjiide",
+    "fullName": "Olles namma",
+    "fullNamePlaceholder": "omd. ",
+    "email": "E-poastačujuhus",
+    "emailPlaceholder": "don@ovdamearka.com",
+    "password": "Suollemassátni",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Muitte mu",
+    "forgotPassword": "Unno beassansáni?",
+    "signIn": "Logge sisa",
+    "signingIn": "Sisaloggen...",
+    "signUp": "Registrere",
+    "signingUp": "Dieđihan...",
+    "noAccount": "Ii dus leat konto?",
+    "hasAccount": "Leago dus juo konto?",
+    "passwordRules": {
+      "title": "Beassansánis galgá leat:",
+      "length": "Unnimusat 8 mearkka",
+      "uppercase": "Okta stuorra bustáva (A-Z)",
+      "number": "Okta lohku (0-9)",
+      "symbol": "Okta symbola (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Porteføljehuksejeaddji",
+      "templates": "Mállet ja fáttát",
+      "settings": "Ásahusat",
+      "collapse": "Čoahkkáigeassu",
+      "overview": "Ovdagovva",
+      "profileSettings": "Profiila njuolggadusat",
+      "customDomain": "Eaktodáhtolaš domena",
+      "feedback": "Máhcahat"
+    },
+    "header": {
+      "viewLive": "Geahča njuolggosáddagis",
+      "welcome": "Buresboahtin,",
+      "logout": "Logge eret",
+      "builder": "Huksejeaddji",
+      "livePortfolio": "Ealli portfolio",
+      "live": "Ealli"
+    },
+    "logoutModal": {
+      "title": "Logge eret",
+      "message": "Leat go sihkkarat ahte háliidat logget eret iežat konttus? ",
+      "cancel": "Bisset",
+      "confirm": "Juo, logget eret"
+    },
+    "slugModal": {
+      "title": "Vállje iežat portfolio URL",
+      "message": "Dát URL šaddá erenoamáš liŋkan du portfolioi. ",
+      "slugPlaceholder": "du-namma",
+      "availability": "Gávdnomis:",
+      "available": "Oažžumis",
+      "unavailable": "Ii gávdno",
+      "checking": "Dárkkistit...",
+      "mustFormat": "Sáhttá leat dušše bustávat, logut ja čuoggát (-)",
+      "cancel": "Bisset",
+      "save": "Seagut URL",
+      "usernameUrl": "Geavaheaddjinamma URL",
+      "helpText": "Unna bustávat, logut ja čuoggát. ",
+      "validation": {
+        "empty": "Slug ii sáhte leat guoros.",
+        "min3": "Unnimusat 3 mearkka.",
+        "max30": "Eanemusat 30 mearkka.",
+        "format": "Dušše smávva bustávat, logut ja čuoggát (-). "
+      }
+    },
+    "loadingPortfolio": "Porteføljedieđuid bidjan...",
+    "overview": {
+      "greetings": {
+        "morning": "Buorre iđit",
+        "afternoon": "Buorre beaivi",
+        "evening": "Buorre beaivi",
+        "night": "Buorre ija"
+      },
+      "welcome": {
+        "hi": "Dearvvaš,",
+        "creator": "Luođiheaddji",
+        "desc1": "Bures boahtin DevFolio-távvalii. Du portfolio lea geahččojuvvon",
+        "desc2": "olmmoš. Joatkke barggu!",
+        "editPortfolio": "Rievdat portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Oktiibuot galledeaddjit",
+        "projectViews": "Geahččan (Prošeakta)",
+        "activeSessions": "Aktiiva sešuvdna",
+        "totalLabel": "Oktiibuot"
+      },
+      "setup": {
+        "title": "Ásaheami ovdáneapmi",
+        "completed": "Du portfolio lea gárvvis! 🎉",
+        "inProgress": "Lávkkit ollislaš portfolioi.",
+        "profile": {
+          "title": "Olles profiila",
+          "desc": "Lasit nama, bio ja profiilagovva."
+        },
+        "section": {
+          "title": "Lasit osiid",
+          "desc": "Aktivere unnimusat 1 oasi portfolios."
+        },
+        "project": {
+          "title": "Lasit prošeavtta",
+          "desc": "Čále unnimusat 1 iežat buoremus prošeavttain."
+        },
+        "publish": {
+          "title": "Almmuhit portfolio",
+          "desc": "Ásahit iešheanalaš URL nu ahte álbmot beassá dasa."
+        }
+      },
+      "topProjects": {
+        "title": "Bivnnuheamos prošeavttat",
+        "desc": "Du barggu ovdanbuktin galledeaddjiid čalmmiin.",
+        "viewAll": "Geahča buot",
+        "empty": "Du prošektii ii leat vuos oaidnindieđut."
+      }
+    },
+    "themes": {
+      "title": "Mállet ja fáttát",
+      "subtitle": "Heive iežat almmolaš portfolio hámi ja dovddu.",
+      "reset": "Nuppástuhttit standárda",
+      "save": "Seagut rievdadusaid",
+      "saving": "Seastit...",
+      "chooseTemplate": "Vállje málle",
+      "primaryColor": "Váldoivdni",
+      "typography": "Typografiija",
+      "appearance": "Čájáhus",
+      "corners": "Čuovggat ja rájit",
+      "successTitle": "Menestuvvan",
+      "successMessage": "Fáddáválljemat leat ođasmahttojuvvon lihkostuvvan",
+      "errorTitle": "Meattáhus",
+      "errorMessage": "Ii nagodan vurket fáddáválljemiid",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalisttalaš",
+          "desc": "Buhtes ja álkes hábmen mas lea fokus sisdollui."
+        },
+        "developerDark": {
+          "name": "Ovddideaddji Dark",
+          "desc": "Divrras fáddá heive bures čájehit koda ja teknihkalaš stakkaid."
+        },
+        "creative": {
+          "name": "Luohtehahtti",
+          "desc": "Ealli ja sárgosat hábmen designeriidda ja kreatiivvaide."
+        },
+        "executive": {
+          "name": "Doaimmaheaddji",
+          "desc": "Fágalaš ja formálalaš hábmen fitnodatdoalliide."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Ođđaáigásaš Apple-stiila ruovdegeaidnu mii čalmmustahttá iešguđetlágan gelbbolašvuođaid effektiivvalaččat."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalisma",
+          "desc": "Lihkus rájit ja alla kontrasta ivdnit mat addet trendalaš, eahpeáššálaš čalmmiid."
+        },
+        "glassmorphism": {
+          "name": "Glássamorfisma",
+          "desc": "Čáhceglása effeavttat sárgosat gradiánttaid badjel mat addet čáppa ođđaáigásaš geavaheaddjigráda."
+        },
+        "linkInBio": {
+          "name": "Liŋka Bio:s",
+          "desc": "Kompakta vertikála hábmen mii lea heivehuvvon mobiilačájáhusaide ja sosiála mediaide."
+        }
+      },
+      "appearances": {
+        "light": "Čuovga",
+        "dark": "Divrras",
+        "system": "Systema"
+      },
+      "cornersOptions": {
+        "sharp": "Šarpma",
+        "rounded": "Ruovttoluotta",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Sádde ruovttoluottadieđuid",
+      "subtitle": "Veahket min buoridit dan go addá evttohusaid, kritihka dahje dieđiheame vealaheami dán prográmmas.",
+      "categoryLabel": "Ruovttoluottadieđuid kategoriija",
+      "messageLabel": "Dieđu dieđut",
+      "messagePlaceholder": "Muital dárkilit dan máhcahaga birra maid háliidat fievrridit...",
+      "imageLabel": "Govva čatnan (Válljejuvvon)",
+      "imagePlaceholder": "Deaddilat vai sáhtát lasihit gova dahje čájáhusgova",
+      "submitting": "Sádden...",
+      "submitBtn": "Sádde ruovttoluottadieđuid",
+      "categories": {
+        "suggestion": "Evttohusat ja jurdagat",
+        "bug": "Vealaheapmi / Vealaheapmi",
+        "criticism": "Kritihkka",
+        "other": "Earát"
+      },
+      "imageErrorTitle": "Meattáhus",
+      "imageErrorMessage": "Muhtun fiillat hilgojuvvojit go eai doarjjo govvahámiid (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Menestuvvan",
+      "successMessage": "Giitu máhcahaga ovddas! Raporta lea sáddejuvvon.",
+      "submitErrorTitle": "Ii lihkostuvvan",
+      "submitErrorMessage": "Dáhpáhuvai meattáhus go sáddejin ruovttoluottadieđuid. Geahččal fas."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Mu birra",
+      "skills": "Dáiddut",
+      "projects": "Prošeavttat",
+      "workExperience": "Bargovásáhus",
+      "orgExperience": "Organisašuvdnavásáhus",
+      "education": "Skuvlejupmi",
+      "certifications": "Oahppu ja duođaštusat",
+      "contact": "Váldde oktavuođa muinna"
+    },
+    "editor": {
+      "profileInfo": "Profiiladieđut",
+      "saving": "Seastit...",
+      "profilePhoto": "Profiilagovva",
+      "clickToUpload": "Deaddilat vai sáhtát lasihit (JPG, PNG)",
+      "fullName": "Olles namma",
+      "fullNamePlaceholder": "omd. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack ovddideaddji geas lea beroštupmi hukset ođđaáigásaš neahttaprográmmaid...",
+      "location": "Sajádat",
+      "locationPlaceholder": "omd. ",
+      "gender": "Sohkabealli",
+      "selectGender": "Vállje sohkabeali",
+      "male": "Almmái",
+      "female": "Nisson",
+      "custom": "Dáhpi",
+      "customPlaceholder": "Čále iežat sohkabeali...",
+      "uploadCv": "Lasit CV",
+      "cvFormat": "(DOC dahje PDF)",
+      "preview": "Ovdagovva",
+      "remove": "Jávkadit",
+      "clickToUploadCv": "Deaddilat vai sáhtát lasihit PDF dahje DOC",
+      "sections": "Oasit",
+      "removeSelected": "Váldde eret válljejuvvon",
+      "confirmRemove": "Duođaš Váldde eret",
+      "addSection": "Lasit oasi",
+      "addAllSections": "Lasit buot osiid",
+      "noSections": "Eai leat vuos oasit",
+      "clickToAdd": "Deaddilat \"+ Lasit oasi\" vai beasat álgit",
+      "selectAll": "Vállje buot",
+      "selected": "Válljejuvvon",
+      "dragToReorder": "Geahča ođđasit ordnet osiid",
+      "livePreview": "Njuolggosáddagis",
+      "addSectionsToBuild": "Lasit osiid vai sáhtát hukset iežat portfolio",
+      "now": "Dál",
+      "current": "Dáláš",
+      "noExpiry": "Ii nohkan",
+      "see": "Oaidnit",
+      "position": "Sajádat",
+      "degree": "Gráda",
+      "certification": "Duođaštus",
+      "sectionsForm": {
+        "about": {
+          "label": "Iežas čilgehus",
+          "placeholder": "Muital iežat birra, du duogáža, beroštumiid ja gelbbolašvuođa birra..."
+        },
+        "skills": {
+          "addPlaceholder": "Čále skill ja deaddilat Enter..."
+        },
+        "projects": {
+          "title": "Prošeavtta namma",
+          "titlePlaceholder": "Prošeavtta namma...",
+          "url": "Prošeavtta URL",
+          "description": "Govvádus",
+          "descriptionPlaceholder": "Oanehis čilgehus prošeavttas...",
+          "uploadThumbnail": "Prošeaktagovva",
+          "addProject": "Lasit prošeavtta",
+          "projectNum": "Prošeakta #",
+          "currentProject": "Dát lea prošeakta mainna lean bargamin"
+        },
+        "work": {
+          "company": "Fitnodat/doaimmahat",
+          "companyPlaceholder": "Fitnodaga namma...",
+          "position": "Virgi/namma",
+          "positionPlaceholder": "Du sajádat...",
+          "employmentType": "Bargošládja",
+          "location": "Sajádat",
+          "locationPlaceholder": "Gávpot, Riika...",
+          "startDate": "Álgit",
+          "endDate": "Gárvvis",
+          "currentWork": "Mun lean ain barggus dál",
+          "description": "Govvádus",
+          "descriptionPlaceholder": "Bargočilgehus ja ovddasvástádusat...",
+          "skills": "Dáidu",
+          "addExperience": "Lasit bargovásáhusaid",
+          "experienceNum": "Vásáhus #",
+          "dateError": "Loahppabeaivi ii sáhte leat árabut go álggahanbeaivi"
+        },
+        "org": {
+          "organization": "Organisašuvnna namma",
+          "orgPlaceholder": "BEM universitehta...",
+          "role": "Rolla/Virgi",
+          "rolePlaceholder": "Divišuvdnahoavda...",
+          "addOrg": "Lasit organisašuvdnavásáhusaid",
+          "orgNum": "Searvi #"
+        },
+        "edu": {
+          "institution": "Oahppolágádusat",
+          "institutionPlaceholder": "Campusa dahje skuvlla namma...",
+          "degree": "Bajilčála",
+          "degreePlaceholder": "S1, joatkkaskuvla jna...",
+          "major": "Oahpposuorgi/oahpposuorgi",
+          "majorPlaceholder": "Informatihkkateknihkka...",
+          "gpa": "GPA (válljejuvvon)",
+          "currentStudy": "Mun lean ain oahppamin dáppe",
+          "descriptionPlaceholder": "Doaimmat ja olahusat oahpu áigge...",
+          "addEdu": "Lasit oahpu",
+          "eduNum": "Skuvlejupmi #"
+        },
+        "cert": {
+          "name": "Duođaštusa / oahpu namma",
+          "namePlaceholder": "Duođaštusnamma...",
+          "issuer": "Almmuheaddji",
+          "issuerPlaceholder": "Almmuhanlágádus...",
+          "issueDate": "Álggaheapmi (Almmuhusbeaivi)",
+          "issueDatePlaceholder": "Vállje almmuhanbeaivvi...",
+          "expiryDate": "Gáldu (Doaibmaáigodat)",
+          "expiryDatePlaceholder": "Vállje nohkanbeaivvi...",
+          "noExpiry": "Dán duođaštusas ii leat nohkanbeaivi",
+          "url": "Duođaštusčujuhus",
+          "uploadThumbnail": "Duođaštus / Oahppogovva",
+          "uploadThumbnailLimit": "Bija duođaštusgova (JPG/PNG/WEBP, eanemustá 2MB)",
+          "addCert": "Lasit duođaštusa",
+          "certNum": "Duođaštus #"
+        },
+        "contact": {
+          "contactNum": "Oktavuohta #",
+          "platform": "Vuođđu",
+          "displayText": "Čájehit teavstta",
+          "displayTextPlaceholder": "omd., you@email.com dahje @username",
+          "url": "Liŋka (URL)",
+          "urlPlaceholderWhatsapp": "omd. 62812... (ovddabealde 0)",
+          "urlPlaceholderEmail": "omd., you@email.com",
+          "urlPlaceholderWebsite": "omd., https://...",
+          "urlPlaceholderDefault": "omd. geavaheaddjinamma",
+          "addContact": "Lasit oktavuođa"
+        },
+        "common": {
+          "months": {
+            "1": "ođđajagimánnu",
+            "2": "Guovvamánnu",
+            "3": "Njukčamánnu",
+            "4": "Cuoŋománnu",
+            "5": "Miessemánnu",
+            "6": "Geassemánnu",
+            "7": "Suoidnemánnu",
+            "8": "Borgemánnu",
+            "9": "Čakčamánnu",
+            "10": "Golggotmánnu",
+            "11": "Skábmamánnu",
+            "12": "Juovlamánnu"
+          },
+          "month": "Mánotbadji",
+          "year": "Jahki",
+          "invalidDate": "Eai dohkálaš loahppamánu",
+          "words": "sánit"
+        }
+      },
+      "sure": "Sihkkar",
+      "deletePhotoTitle": "Slette profiilagovva?",
+      "deletePhotoMessage": "Leat go sihkkarat ahte háliidat sihkkut dán profiilagova?",
+      "cancel": "Bisset",
+      "delete": "Duššadit"
+    },
+    "cropper": {
+      "chooseBackground": "Vállje duogáš",
+      "cropPhoto": "Čuohpat gova",
+      "useOriginal": "Geavat originála",
+      "backgroundPresets": "Duogášovdamearkkat",
+      "none": "Ii miige",
+      "uploadBackground": "Lasit duogáš",
+      "cancel": "Bisset",
+      "savePhoto": "Seagut gova",
+      "zoom": "Zoom",
+      "rotationTilt": "Jorran ja jorran",
+      "resetRotation": "Nuppástuhttit 0°:ii",
+      "center": "Guovddáš",
+      "rotateLeft": "Jorggihit -90°",
+      "rotateRight": "Jorggihit +90°",
+      "removeBackground": "Váldde eret duogáža",
+      "processing": "Go gieđahallat gova, de vuordit..."
+    },
+    "cvPreview": {
+      "title": "CV ovdagovva",
+      "downloadCv": "Viežže CV",
+      "download": "Viežžat",
+      "wordCannotPreview": "Word-dokumeanttaid (.doc/.docx) ii sáhte ovddalgihtii geahččat neahttačujuhusas. ",
+      "downloadFile": "Viežže CV-fiilla",
+      "back": "Ruovttoluotta",
+      "mobileMessage": "Viežže CV-fiilla vai beasat ovddalgihtii geahččat dan.",
+      "preview": "Ovdagovva CV",
+      "wordPreviewTitle": "Word-dokumeantta ovdagovva",
+      "wordPreviewMessage": "Word-dokumeanttaid (.doc/.docx) ii sáhte ovddalgihtii geahččat neahttačujuhusas. Viežže fiilla vai beasat dan geahččat."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Čále oanehis čilgehusa iežat birra, beroštumiid ja karriera mihttomeriid birra..."
+    },
+    "skills": {
+      "placeholder": "Čále gelbbolašvuođa nama...",
+      "add": "Lasihit",
+      "enterToAdd": "Deaddilat Enter vai beasat lasihit",
+      "noSkills": "Ii leat vuos lasihuvvon gelbbolašvuohta."
+    },
+    "projects": {
+      "projectName": "Prošeavtta namma",
+      "projectNamePlaceholder": "omd. ",
+      "projectUrl": "Prošeavtta URL",
+      "projectUrlPlaceholder": "https://…",
+      "duration": "Bistin",
+      "startMonth": "Álgománu",
+      "startYear": "Álgojahki",
+      "endMonth": "Mánu loahppa",
+      "endYear": "Loahppajahki",
+      "currentlyWorking": "Dál barggan dán",
+      "description": "Govvádus",
+      "descriptionPlaceholder": "Čilge prošeavtta, iežat rolla ja olahusaid...",
+      "technologies": "Geavahuvvon teknologiijat",
+      "addProject": "Lasit prošeavtta",
+      "image": "Prošeaktagovva",
+      "removeImage": "Váldde eret gova",
+      "uploadImage": "Deaddilat vai sáhtát lasihit gova"
+    },
+    "work": {
+      "company": "Fitnodat/ásahus",
+      "companyPlaceholder": "Fitnodaga namma...",
+      "role": "Rolla/Virgi",
+      "rolePlaceholder": "Du sajádat...",
+      "jobType": "Bargošládja",
+      "selectJobType": "Vállje šlája",
+      "fullTime": "Ollesáigge",
+      "partTime": "Oasseáigásaš",
+      "contract": "Soahpamuš",
+      "internship": "Hárjehallan",
+      "freelance": "Friijabargi",
+      "location": "Sajádat",
+      "locationPlaceholder": "omd. ",
+      "duration": "Bistin",
+      "currentlyWorking": "Dál barggan dáppe",
+      "description": "Bargočilgehus",
+      "descriptionPlaceholder": "Čilge iežat guovddáš ovddasvástádusaid ja olahusaid...",
+      "skills": "Erenoamáš gelbbolašvuohta",
+      "addExperience": "Lasit vásáhusaid"
+    },
+    "org": {
+      "organization": "Organisašuvnna namma",
+      "organizationPlaceholder": "Organisašuvnna namma...",
+      "role": "Rolla/Virgi",
+      "rolePlaceholder": "omd. ",
+      "duration": "Bistin",
+      "periodFormat": "dahje friddja hápmi (omd. 2020 - 2022)",
+      "periodPlaceholder": "omd. ",
+      "currentlyActive": "Dál doaibmá",
+      "description": "Doaibmačilgehus",
+      "descriptionPlaceholder": "Čilge iežat doaimmaid dahje ovdanbuktimiid...",
+      "addExperience": "Lasit vásáhusaid"
+    },
+    "education": {
+      "institution": "Ásahusa namma",
+      "institutionPlaceholder": "Skuvlla dahje universitehta namma...",
+      "degree": "Oahppu/dássi",
+      "degreePlaceholder": "omd. ",
+      "major": "Oahppofága/oahpposuorgi",
+      "majorPlaceholder": "omd. ",
+      "gpa": "GPA / Árvosátni",
+      "gpaPlaceholder": "omd. ",
+      "duration": "Oahpahusa bisti",
+      "periodFormat": "dahje friddja hápmi (omd. 2018 - 2022)",
+      "periodPlaceholder": "omd. ",
+      "currentlyStudying": "Dál lohkan dáppe",
+      "description": "Doaimmat / gudnebálkkašumit",
+      "descriptionPlaceholder": "Čilge fágalaš doaimmaid, organisašuvnnaid dahje gudnebálkkašumiid maid leat ožžon...",
+      "addEducation": "Lasit oahpu"
+    },
+    "cert": {
+      "name": "Duođaštusa namma",
+      "namePlaceholder": "omd. ",
+      "issuer": "Almmuhanorganisašuvdna",
+      "issuerPlaceholder": "omd. ",
+      "issueDate": "Almmuhanbeaivi",
+      "expiryDate": "Doaibmi dassážii go",
+      "noExpiry": "Dát duođaštus ii noga",
+      "yearPlaceholder": "dahje Jahki (omd. 2023)",
+      "credentialUrl": "Duođaštusčujuhus",
+      "credentialUrlPlaceholder": "https://…",
+      "skills": "Guoskevaš gelbbolašvuođat",
+      "addCertification": "Lasit duođaštusa",
+      "image": "Govva/Logo",
+      "removeImage": "Váldde eret gova",
+      "uploadImage": "Deaddilat vai sáhtát lasihit gova"
+    },
+    "common": {
+      "months": {
+        "1": "ođđajagimánnu",
+        "2": "Guovvamánnu",
+        "3": "Njukčamánnu",
+        "4": "Cuoŋománnu",
+        "5": "Miessemánnu",
+        "6": "Geassemánnu",
+        "7": "Suoidnemánnu",
+        "8": "Borgemánnu",
+        "9": "Čakčamánnu",
+        "10": "Golggotmánnu",
+        "11": "Skábmamánnu",
+        "12": "Juovlamánnu"
+      },
+      "month": "Mánotbadji",
+      "year": "Jahki",
+      "invalidDate": "Eai dohkálaš loahppamánu",
+      "words": "sánit"
+    }
+  },
+  "settings": {
+    "title": "Ásahusat",
+    "subtitle": "Hálddaš iežat portfolioprofiilla ja miellaguottuid",
+    "tabs": {
+      "profile": "Mu profiila",
+      "security": "Oadjebasvuohta",
+      "personalization": "Persovnnalašvuohta"
+    },
+    "profile": {
+      "infoTitle": "Vuođđodieđut",
+      "photo": "Profiilagovva",
+      "uploadPhoto": "Rievdat gova",
+      "fullName": "Olles namma",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-poastačujuhus",
+      "emailPlaceholder": "john@ovdamearka.com",
+      "emailHelp": "E-poasta geavahuvvo sisaloggemii ja ii čájehuvvo almmolaččat.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Seagut profiilla",
+      "save": "Seagut profiilla",
+      "accountCreated": "Konto lea ráhkaduvvon",
+      "lastLogin": "Maŋimuš sisaloggen",
+      "oauthNotice": "Dát profiila lea čadnojuvvon du {{fálaldat}} kontui. Profiilla nuppástusat fertejit dahkkot bálvalusfálaldagaid bokte."
+    },
+    "security": {
+      "changePassword": "Rievdat beassansáni",
+      "currentPassword": "Dálá beassansáni",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Ođđa beassansáni",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Duođaš ođđa beassansáni",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Unnimusat 8 mearkka",
+        "uppercase": "Okta stuorra bustáva (A-Z)",
+        "number": "Okta lohku (0-9)",
+        "symbol": "Okta symbola (!@#$%^&*)"
+      },
+      "passwordTitle": "Suollemassátni",
+      "updatePassword": "Ođasmahttit beassansáni",
+      "additionalSecurity": "Lassi sihkarvuohta",
+      "twoFactor": "Guovttefáktorautentiseren (2FA)",
+      "twoFactorDesc": "Sihkkarastit iežat konto lassi OTP-kodain.",
+      "activeSessions": "Aktiivvalaš sešuvnnat",
+      "activeSessionsDesc": "Dohkket álo čuovvut sisaloggen rusttegiid.",
+      "publicVisibility": "Almmolaš oidnosisvuohta",
+      "hideFromSearch": "Čuohpat portfolio ohcanvuogádagain",
+      "hideFromSearchDesc": "Eastadit Google indekseremis du almmolaš portfolio-siiddu.",
+      "disable2fa": {
+        "title": "Deaktivere 2FA",
+        "description": "Leat go sihkkarat ahte háliidat heaittihit guovttefáktorautentiserema?",
+        "confirmPasswordLabel": "Čále beassansáni duođaštit",
+        "currentPasswordPlaceholder": "Dálá beassansáni",
+        "cancelButton": "Heaittihit",
+        "confirmButton": "Deaktivere 2FA",
+        "incorrectPassword": "Rievttes beassansáni."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skánnet QR-koda",
+        "step1Desc": "Raba duođašteaddji áppa ja skáhppo čuovvovaš QR-koda:",
+        "unableToScan": "Ii sáhte skáhppot? Geavat setup-távvala",
+        "step2Title": "2. Dárkkis koda",
+        "step2Desc": "Čále 6-logu koda maid du áppa lea ráhkadan:",
+        "cancelButton": "Bisset",
+        "enableButton": "Aktivere 2FA",
+        "invalidLength": "Čále 6-logu koda.",
+        "invalidCode": "Rievttes duođaštuskoda. Geahččal fas."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Giellabearráigeahčču",
+      "appLanguage": "Áppagiella",
+      "layoutTitle": "Čájáhus ja čállinvuohki",
+      "layoutStyle": "Layout-stiila",
+      "layoutModern": "Ođđaáigásaš stiila (standárda)",
+      "layoutClassic": "Klassihkalaš stiila",
+      "layoutMinimalist": "Minimalisttalaš stiila",
+      "fontSize": "Áppa čállinsturrodat",
+      "fontSmall": "Uhci",
+      "fontNormal": "Dábálaš (gaska)",
+      "fontLarge": "Stuoris",
+      "searchLanguage": "Ohcangiela...",
+      "languageNotFound": "Giella ii gávdnon",
+      "layoutElegant": "Elegánta stiila"
+    },
+    "saveChanges": "Seaillut rievdadusaid",
+    "cancel": "Bisset",
+    "appSettings": "Áppa njuolggadusat",
+    "logoutConfirmTitle": "Duođaš logget",
+    "logoutConfirmDesc": "Leat go sihkkarat ahte háliidat logget eret ortnegis?",
+    "logoutConfirmYes": "Juo, logget eret",
+    "generalError": "Dáhpáhuvai meattáhus. ",
+    "success": "Menestupmi",
+    "preferencesSaved": "Áppa miellaguottut leat vurkejuvvon lihkostuvvan.",
+    "header": "Prográmma njuolggadusat",
+    "logout": {
+      "title": "Loggema duođaštus",
+      "message": "Leat go sihkkarat ahte háliidat logget eret ortnegis?",
+      "confirm": "Juo, logget eret"
+    },
+    "about": {
+      "title": "Ohcama birra",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "Veršuvdna",
+      "description": "DevFolio lea ođđaáigásaš portfoliohuksenlávdi mii lea jurddašuvvon ovddideaddjiide, hábmejeaddjiide ja ámmátlaš ráhkadeaddjiide. ",
+      "license": "Liseansa ja vuoigatvuođat",
+      "copyright": "© 2026 DevFolio Inc. Buot vuoigatvuođat leat suddjejuvvon.",
+      "developer": "Ovddideaddji",
+      "developedBy": "DevFolio Team lea ráhkadan"
+    },
+    "deleteAccount": {
+      "title": "Bissovaččat heaittihit kontu",
+      "menuItem": "Slette kontu",
+      "successTitle": "Menestuvvan",
+      "successMessage": "Kontu heaittiheami duođaštus e-poasta lea sáddejuvvon.",
+      "errorTitle": "Ii lihkostuvvan",
+      "errorMessage": "Ii nagodan sáddet duođaštuspoastta.",
+      "confirmationMessage": "Leat go sihkkarat ahte háliidat sihkkut du kontu bissovaččat?",
+      "warningMessage1": "Don oaččut e-poastta mas duođaštat konto heaittiheami.",
+      "warningMessage2": "Jus duođaštuvvo, de buot dieđut (portfolio, prošeavttat, statistihkka) sihkkojuvvojit bissovaččat ja daid ii sáhte fas máhcahit.",
+      "cancel": "Heaittihit",
+      "confirm": "Duođaštus"
+    },
+    "toasts": {
+      "toastError": "Feaila",
+      "toastSuccess": "Menestupmi",
+      "toastSetup2FAFailed": "Ii nagodan bidjat johtui 2FA. Geahččal fas.",
+      "toast2FAEnabled": "Guovttefáktorautentiseren lea álggahuvvon.",
+      "toast2FADisabled": "Guovttefáktorautentiseren lea deaktiverejuvvon.",
+      "toastSessionEnabled": "Aktiivvalaš sešuvdnačuovvoleapmi lea álggahuvvon.",
+      "toastSessionDisabled": "Aktiiva sešuvdnačuovvoleapmi lea deaktiverejuvvon.",
+      "toastSetupKeyCopied": "Setup-čujuhus lea kopierejuvvon čujuhustávvalii."
+    },
+    "privacy": {
+      "title": "Persovdnadieđuid njuolggadusat",
+      "updateDate": "Maŋimuš ođasmahtton: 15.7.2026",
+      "intro": "Dát persovdnadiehtovuogádat čilge mo DevFolio čoaggá, geavaha ja suodjala du persovdnadieđuid go geavahat min bálvalusaid.",
+      "section1Title": "1. Dieđut maid mii čoaggit",
+      "section1Content": "Mii čoaggit dieđuid maid addá njuolga go ráhkadat konto, hukset portfolio ja válddát oktavuođa min doarjagiin. ",
+      "section2Title": "2. Dieđuid geavaheapmi",
+      "section2Content": "Du dieđut geavahuvvojit doaimmahit, bajásdoallat ja fállat min bálvalusaid doaimmaid, ja maiddái gulahallat duinna du konto dahje bálvalusaid birra.",
+      "section3Title": "3. Diehtosihkarvuohta",
+      "section3Content": "Mii čađahit dohkálaš sihkarvuođadoaibmabijuid mat suodjalit du dieđuid lobihis sisabeassama, almmuheami dahje duššadeami vuostá."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Duođaštusmearka ii gávdnon.",
+    "defaultError": "Ii nagodan sihkkut kontu. Token soaitá leat nohkan.",
+    "loadingTitle": "Kontu heaittiheapmi...",
+    "loadingMessage": "Vuordde, mii gieđahallat du jearaldaga.",
+    "successTitle": "Konto lea lihkostuvvan sihkkut",
+    "successMessage": "Buot du dieđut leat sihkkojuvvon bissovaččat. Don čujuhuvvot...",
+    "errorTitle": "Ii nagodan sihkkut kontu",
+    "backToHome": "Ruovttoluotta ruoktot"
+  },
+  "forgotPassword": {
+    "minutes": "minuhta",
+    "seconds": "sekunddat",
+    "success": "Menestuvvan",
+    "otpSentToEmail": "OTP-koda lea sáddejuvvon du e-poastta sisa.",
+    "failed": "Ii lihkostuvvan",
+    "emailNotFound": "E-poasta ii gávdnon.",
+    "emailThirdParty": "Dát e-poasta lea registrerejuvvon goalmmát beali bokte.",
+    "genericError": "Lea meattáhus. Geahččal fas.",
+    "otpVerified": "OTP-koda lea lihkostuvvan duođaštuvvot.",
+    "otpExpired": "OTP-koda lea nohkan. Bivdde ođđa koda.",
+    "otpInvalid": "Eai dohkálaš OTP-koda.",
+    "otpResent": "Ođđa OTP-koda lea sáddejuvvon du e-poastta sisa.",
+    "otpResendFailed": "Ii nagodan sáddet OTP-koda ođđasit. Geahččal fas.",
+    "passwordResetSuccess": "Beassansáni lea lihkostuvvan nuppástuhttit. Logge sisa ođđa beassansániin.",
+    "passwordResetFailed": "Ii nagodan nuppástuhttit beassansáni.",
+    "backToLogin": "Máhccat sisaloggemii",
+    "back": "Ruovttoluotta",
+    "title": "Unnán beassansáni",
+    "description": "Čále e-poastačujuhusa mii lea registrerejuvvon du kontos. Mii sáddet OTP-koda nuppástuhttit beassansáni.",
+    "emailLabel": "E-poastačujuhus",
+    "sending": "Sádden...",
+    "sendOtp": "Sádde OTP-koda",
+    "verifyOtpTitle": "Dárkkis OTP-koda",
+    "verifyOtpDesc": "Čále 6-logu koda mii lea sáddejuvvon du e-poastta sisa vai duođaštat du identitehta.",
+    "verifying": "Duođaštit...",
+    "verifyOtp": "Dárkkis OTP",
+    "resending": "Ođđasit sádden...",
+    "resendOtp": "Sádde OTP-koda ođđasit",
+    "resendCodeIn": "Sádde koda ođđasit",
+    "newPasswordTitle": "Luohte ođđa beassansáni",
+    "newPasswordDesc": "Ráhkat ođđa, nana beassansáni sihkkarastit iežat kontu.",
+    "newPasswordLabel": "Ođđa beassansáni",
+    "min8Chars": "Unnimusat 8 mearkka",
+    "oneUpperCase": "1 stuorra bustáva (A-Z)",
+    "oneNumber": "1 lohku (0-9)",
+    "oneSymbol": "1 symbola (!@#$%^&*)",
+    "confirmPasswordLabel": "Duođaš beassansáni",
+    "passwordsDoNotMatch": "Beassansánit eai heive oktii.",
+    "resettingPassword": "Beassansáni nuppástuhttin...",
+    "resetPassword": "Nuppástuhttit beassansáni"
+  },
+  "verifyEmail": {
+    "resendError": "Ii nagodan sáddet fas duođaštuspoastta. Geahččal fas.",
+    "checkingStatus": "Dárkkistit duođaštusdili...",
+    "title": "Dárkkis iežat e-poastta",
+    "description": "Mii leat sádden duođaštusboastta du e-poastačujuhussii. Rahpat e-poastta ja deaddilat <1>\"Duođaštit konto\"</1> -boalu vai beasat aktiveret kontu.",
+    "stepsTitle": "Lávkkit",
+    "step1": "Rahpat e-poastaprográmma (Gmail, Yahoo jna.)",
+    "step2": "Ohcat e-poastta DevFolios mas lea fáddá \"Konttu aktiveren\"",
+    "step3": "Deaddilat \"Duođaštit kontu\" -boalu e-poasttas",
+    "step4": "Don čujuhuvvot sisaloggensiidui gos galggat čállit",
+    "resendSuccess": "Duođaštus-e-poasta lea fas sáddejuvvon!",
+    "resending": "Ođđasit sádden...",
+    "resendButton": "Sádde ođđasit duođaštuspoastta",
+    "backToLogin": "Máhccat sisaloggensiidui",
+    "footerNote": "It go ožžon e-poastta? Dárkkis <1>Spam</1> dahje <2>Junk</2> máhpa du e-poasttas. Duođaštusliŋka lea fámus <3>24 diimmu</3>."
+  }
+}

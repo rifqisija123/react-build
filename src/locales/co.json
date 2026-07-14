@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Features",
+    "templates": "Templates",
+    "pricing": "Pricing",
+    "login": "Login",
+    "getStarted": "Cuminciate",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "L'ultimu custruttore di cartera per i sviluppatori",
+    "title1": "Custruite u vostru prufessiunale",
+    "title2": "portfolio in",
+    "titleHighlight": "seconde.",
+    "subtitle": "Tuttu ciò chì avete bisognu per mostrà e vostre cumpetenze, prughjetti è sperienza. ",
+    "startBuilding": "Cuminciate a custruisce avà",
+    "viewTemplates": "Vede i mudelli",
+    "fastDeployment": "Impiegazione rapida",
+    "liveStatus": "username.dev hè in diretta!",
+    "featuresTitle": "Funzioni putenti",
+    "featuresSubtitle": "Furnemu tutti l'arnesi chì avete bisognu per distinguersi da a folla è atterri u vostru travagliu di sognu.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Organizzate facilmente e vostre sezioni, prughjetti è cumpetenze cù u nostru editore visuale intuitivu.",
+    "feature2Title": "Temi persunalizati",
+    "feature2Desc": "Sceglite trà mudelli cuncepiti prufessiunali o creanu u vostru propiu aspettu unicu.",
+    "feature3Title": "Analytics in tempu reale",
+    "feature3Desc": "Segui i vostri visitatori, vede quali prughjetti ricevenu più attenzione, è più."
+  },
+  "auth": {
+    "welcomeBack": "Benvenuta di ritornu",
+    "loginToContinue": "Entra in u vostru contu per cuntinuà",
+    "createAccount": "Crea un contu",
+    "joinCommunity": "Unisci à migliaia di altri sviluppatori",
+    "fullName": "Nome interu",
+    "fullNamePlaceholder": "p.e. ",
+    "email": "Indirizzu mail",
+    "emailPlaceholder": "tu@esempiu.com",
+    "password": "Codice",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Arriccorda ti di mè",
+    "forgotPassword": "Password dimenticata?",
+    "signIn": "Firmà lu",
+    "signingIn": "Signing in...",
+    "signUp": "Firma",
+    "signingUp": "Iscriviti...",
+    "noAccount": "Ùn avete micca un contu ?",
+    "hasAccount": "Avete digià un contu ?",
+    "passwordRules": {
+      "title": "A password deve cuntene:",
+      "length": "Almenu 8 caratteri",
+      "uppercase": "Una lettera maiuscula (A-Z)",
+      "number": "Un numeru (0-9)",
+      "symbol": "Un simbulu (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Templates & Temi",
+      "settings": "Settings",
+      "collapse": "Collapse Sidebar",
+      "overview": "Panoramica",
+      "profileSettings": "Paràmetri di u prufilu",
+      "customDomain": "Dominiu persunalizatu",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Vede in diretta",
+      "welcome": "Benvenuti,",
+      "logout": "Scunnettà si",
+      "builder": "Custruttore",
+      "livePortfolio": "Portfolio Live",
+      "live": "Live"
+    },
+    "logoutModal": {
+      "title": "Scunnettà si",
+      "message": "Sò sicuru chì vulete log out da u vostru contu ? ",
+      "cancel": "Cancella",
+      "confirm": "Iè, Logout"
+    },
+    "slugModal": {
+      "title": "Sceglite u vostru URL Portfolio",
+      "message": "Questu URL serà u ligame unicu à a vostra cartera. ",
+      "slugPlaceholder": "u vostru nome",
+      "availability": "Disponibilità:",
+      "available": "Disponibile",
+      "unavailable": "Indisponibile",
+      "checking": "Verificà...",
+      "mustFormat": "Pò cuntene solu lettere, numeri è trattini (-)",
+      "cancel": "Cancella",
+      "save": "Salvà l'URL",
+      "usernameUrl": "Nome d'utilizatore URL",
+      "helpText": "Lettere minuscule, numeri è trattini. ",
+      "validation": {
+        "empty": "Slug ùn pò esse viotu.",
+        "min3": "Minimu 3 caratteri.",
+        "max30": "Massimu 30 caratteri.",
+        "format": "Solu lettere minuscule, numeri è trattini (-). "
+      }
+    },
+    "loadingPortfolio": "Caricamentu di dati di portafogli...",
+    "overview": {
+      "greetings": {
+        "morning": "Bonghjornu",
+        "afternoon": "Bonu dopu meziornu",
+        "evening": "Bonu dopu meziornu",
+        "night": "Bona Notte"
+      },
+      "welcome": {
+        "hi": "Saluti,",
+        "creator": "Criaturi",
+        "desc1": "Benvenuti à u dashboard DevFolio. U vostru portfolio hè statu vistu da",
+        "desc2": "persona. Continua à travaglià!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Visitors",
+        "projectViews": "Vede (prughjettu)",
+        "activeSessions": "Sessione attiva",
+        "totalLabel": "Totale"
+      },
+      "setup": {
+        "title": "Prugressu di l'installazione",
+        "completed": "U vostru portfolio hè cumpletu! 🎉",
+        "inProgress": "Passi à u portfolio perfettu.",
+        "profile": {
+          "title": "Profilu cumpletu",
+          "desc": "Aggiungi nome, biografia è foto di prufilu."
+        },
+        "section": {
+          "title": "Aghjunghjite Sezioni",
+          "desc": "Attivate almenu 1 sezione in a cartera."
+        },
+        "project": {
+          "title": "Aghjunghjite u prughjettu",
+          "desc": "Inserite almenu 1 di i vostri migliori prughjetti."
+        },
+        "publish": {
+          "title": "Publicà Portfolio",
+          "desc": "Stabilite un URL persunalizatu in modu chì pò esse accessu da u publicu."
+        }
+      },
+      "topProjects": {
+        "title": "Prughjetti più populari",
+        "desc": "A prestazione di u vostru travagliu in l'ochji di i visitori.",
+        "viewAll": "Vede tuttu",
+        "empty": "Ùn ci hè ancu micca dati di vista per u vostru prughjettu."
+      }
+    },
+    "themes": {
+      "title": "Modelli & Temi",
+      "subtitle": "Personalizà l'aspettu è u sensu di a vostra cartera publica.",
+      "reset": "Ripristina Predefinitu",
+      "save": "Salvà i cambiamenti",
+      "saving": "Salvà...",
+      "chooseTemplate": "Sceglite un Template",
+      "primaryColor": "Culore Primariu",
+      "typography": "Tipografia",
+      "appearance": "Apparizione",
+      "corners": "Corners & Borders",
+      "successTitle": "Successu",
+      "successMessage": "Preferenze di u tema aghjurnatu cun successu",
+      "errorTitle": "Errore",
+      "errorMessage": "Impossible di salvà e preferenze di u tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Disegnu pulitu è ​​​​semplice cuncintratu nantu à u cuntenutu."
+        },
+        "developerDark": {
+          "name": "Sviluppatore Dark",
+          "desc": "Tema scuru perfettu per a mostra di codice è pile tecnologiche."
+        },
+        "creative": {
+          "name": "Creativu",
+          "desc": "Disposizione vibrante è culurita per i diseggiani è i creativi."
+        },
+        "executive": {
+          "name": "Esecutivu",
+          "desc": "Disposizione prufessiunale è formale per i prufessiunali di l'affari."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Disposizione di griglia moderna in stile Apple chì mette in risaltu diverse cumpetenze in modu efficiente."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutalismu",
+          "desc": "Bordi audaci è culori di cuntrastu altu per un aspettu trendy, senza scusa."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Effetti di vetru smerigliatu nantu à gradienti culuriti per una UI moderna elegante."
+        },
+        "linkInBio": {
+          "name": "Link in Bio",
+          "desc": "Disposizione verticale compatta ottimizzata per i schermi mobili è e social media."
+        }
+      },
+      "appearances": {
+        "light": "Luce",
+        "dark": "Scuru",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Arrotondatu",
+        "pill": "Pilula"
+      }
+    },
+    "feedback": {
+      "title": "Mandate Feedback",
+      "subtitle": "Aiutateci à fà megliu furnisce suggerimenti, critiche, o signalendu bugs nantu à sta applicazione.",
+      "categoryLabel": "Category Feedback",
+      "messageLabel": "Dettagli di u messagiu",
+      "messagePlaceholder": "Parlami in dettaglii di u feedback chì vulete trasmette...",
+      "imageLabel": "Image Attachment (Opcional)",
+      "imagePlaceholder": "Cliccate per carica l'imagine o screenshot",
+      "submitting": "Mandatu...",
+      "submitBtn": "Mandate Feedback",
+      "categories": {
+        "suggestion": "Suggerimenti & Idee",
+        "bug": "Rapportu di bug / errore",
+        "criticism": "Critica",
+        "other": "Altri"
+      },
+      "imageErrorTitle": "Errore",
+      "imageErrorMessage": "Certi schedari sò rifiutati perchè ùn sò micca supportati furmati d'imaghjini (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Successu",
+      "successMessage": "Grazie per u vostru feedback! U rapportu hè statu mandatu.",
+      "submitErrorTitle": "Fiascu",
+      "submitErrorMessage": "Un errore hè accadutu durante l'invio di feedback. Per piacè pruvate di novu."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Per mè",
+      "skills": "Cumpetenze",
+      "projects": "Prughjetti",
+      "workExperience": "Esperienza di travagliu",
+      "orgExperience": "Esperienza organizzativa",
+      "education": "Educazione",
+      "certifications": "Formazione è Certificazioni",
+      "contact": "Cuntattatemi"
+    },
+    "editor": {
+      "profileInfo": "Informazioni di u prufilu",
+      "saving": "Salvà...",
+      "profilePhoto": "Foto di prufilu",
+      "clickToUpload": "Cliccate per carica (JPG, PNG)",
+      "fullName": "Nome interu",
+      "fullNamePlaceholder": "p.e. ",
+      "bio": "bio",
+      "bioPlaceholder": "Sviluppatore Fullstack cun passione per a creazione di app web muderne ...",
+      "location": "Locu",
+      "locationPlaceholder": "p.e. ",
+      "gender": "Genere",
+      "selectGender": "Selezziunà Gender",
+      "male": "Masculinu",
+      "female": "Femmina",
+      "custom": "Custom",
+      "customPlaceholder": "Scrivite u vostru genere persunalizatu...",
+      "uploadCv": "Caricate CV",
+      "cvFormat": "(DOC o PDF)",
+      "preview": "Anteprima",
+      "remove": "Eliminate",
+      "clickToUploadCv": "Cliccate per caricate PDF o DOC",
+      "sections": "Sezzioni",
+      "removeSelected": "Eliminate i selezziunati",
+      "confirmRemove": "Cunfirmà Elimina",
+      "addSection": "Aghjunghjite a Sezione",
+      "addAllSections": "Aghjunghjite tutte e sezioni",
+      "noSections": "Nisuna sezione ancora",
+      "clickToAdd": "Cliccate \"+ Add Section\" per cumincià",
+      "selectAll": "Selezziunà tuttu",
+      "selected": "Scelta",
+      "dragToReorder": "Trascinate per riordinà e sezioni",
+      "livePreview": "Anteprima in diretta",
+      "addSectionsToBuild": "Aghjunghjite sezioni per custruisce a vostra cartera",
+      "now": "Avà",
+      "current": "currente",
+      "noExpiry": "Nisuna scadenza",
+      "see": "Vede",
+      "position": "pusizioni",
+      "degree": "Grau",
+      "certification": "Certificazione",
+      "sectionsForm": {
+        "about": {
+          "label": "Descrizzione di sè stessu",
+          "placeholder": "Parlaci di sè stessu, u vostru background, interessi è cumpetenze ..."
+        },
+        "skills": {
+          "addPlaceholder": "Scrivite skill dopu appughjà Enter ..."
+        },
+        "projects": {
+          "title": "Nome di u prughjettu",
+          "titlePlaceholder": "Nome di u prugettu...",
+          "url": "URL di u prughjettu",
+          "description": "Descrizzione",
+          "descriptionPlaceholder": "Breve descrizzione di u prughjettu ...",
+          "uploadThumbnail": "Image Project",
+          "addProject": "Aghjunghjite u prughjettu",
+          "projectNum": "Prughjettu #",
+          "currentProject": "Questu hè un prughjettu chì aghju travagliatu"
+        },
+        "work": {
+          "company": "Cumpagnia/Agenzia",
+          "companyPlaceholder": "Nome di a cumpagnia...",
+          "position": "Postu / Titulu",
+          "positionPlaceholder": "A vostra pusizioni...",
+          "employmentType": "Tipu di travagliu",
+          "location": "Locu",
+          "locationPlaceholder": "Città, Paese...",
+          "startDate": "Principià",
+          "endDate": "Finitu",
+          "currentWork": "Sò sempre travagliatu per u mumentu",
+          "description": "Descrizzione",
+          "descriptionPlaceholder": "Descrizzione di u travagliu è rispunsabilità ...",
+          "skills": "Skill",
+          "addExperience": "Aghjunghjite l'Esperienza di travagliu",
+          "experienceNum": "Esperienza #",
+          "dateError": "A data di fine ùn pò esse prima di a data di iniziu"
+        },
+        "org": {
+          "organization": "Nome di l'urganizazione",
+          "orgPlaceholder": "Università BEM...",
+          "role": "Role/Position",
+          "rolePlaceholder": "capu di divisione...",
+          "addOrg": "Aghjunghjite l'Esperienza Organizativa",
+          "orgNum": "urganizazione #"
+        },
+        "edu": {
+          "institution": "Istituzioni educative",
+          "institutionPlaceholder": "Nome di campus o scola...",
+          "degree": "Titulu",
+          "degreePlaceholder": "S1, liceu, ecc...",
+          "major": "Dipartimentu / Campu di studiu",
+          "majorPlaceholder": "Ingegneria Informatica...",
+          "gpa": "GPA (opcional)",
+          "currentStudy": "Sò sempre à amparà quì",
+          "descriptionPlaceholder": "Attività è rializazioni durante u studiu ...",
+          "addEdu": "Add Education",
+          "eduNum": "educazione #"
+        },
+        "cert": {
+          "name": "Nome di Certificazione / Formazione",
+          "namePlaceholder": "Nome di certificazione...",
+          "issuer": "Editore",
+          "issuerPlaceholder": "L'istituzione editrice...",
+          "issueDate": "Start (Data di Publicazione)",
+          "issueDatePlaceholder": "Sceglite a data di publicazione...",
+          "expiryDate": "Cumplitu (periodu validu)",
+          "expiryDatePlaceholder": "Sceglite a data di scadenza ...",
+          "noExpiry": "Stu certificatu ùn hà micca data di scadenza",
+          "url": "URL di credenziale",
+          "uploadThumbnail": "Certificatu / Training Image",
+          "uploadThumbnailLimit": "Caricate l'immagine di certificatu (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Aghjunghjite a Certificazione",
+          "certNum": "Certificazione #"
+        },
+        "contact": {
+          "contactNum": "Cuntattu #",
+          "platform": "Piattaforma",
+          "displayText": "Mostra u testu",
+          "displayTextPlaceholder": "per esempiu, tu@email.com o @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "p.e., 62812... (senza menà 0)",
+          "urlPlaceholderEmail": "per esempiu, tu@email.com",
+          "urlPlaceholderWebsite": "per esempiu, https://...",
+          "urlPlaceholderDefault": "per esempiu, nome d'utilizatore",
+          "addContact": "Aghjunghjite u cuntattu"
+        },
+        "common": {
+          "months": {
+            "1": "Ghjinnaghju",
+            "2": "Febbraiu",
+            "3": "Marzu",
+            "4": "Aprile",
+            "5": "Maghju",
+            "6": "Ghjugnu",
+            "7": "Lugliu",
+            "8": "Aostu",
+            "9": "Sittembre",
+            "10": "Ottobre",
+            "11": "Nuvembre",
+            "12": "Dicembre"
+          },
+          "month": "Mese",
+          "year": "Annu",
+          "invalidDate": "Finu di u mese invalidu",
+          "words": "parolle"
+        }
+      },
+      "sure": "Di sicuru",
+      "deletePhotoTitle": "Eliminate a foto di u prufilu ?",
+      "deletePhotoMessage": "Sò sicuru chì vulete sguassà sta foto di prufilu ?",
+      "cancel": "Cancella",
+      "delete": "Sguassà"
+    },
+    "cropper": {
+      "chooseBackground": "Sceglite Sfondo",
+      "cropPhoto": "Tagliate a vostra foto",
+      "useOriginal": "Aduprà uriginale",
+      "backgroundPresets": "Presets di fondo",
+      "none": "Nimu",
+      "uploadBackground": "Caricà u fondu",
+      "cancel": "Cancella",
+      "savePhoto": "Salvà a foto",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation & Tilt",
+      "resetRotation": "Resetta à 0 °",
+      "center": "Centru",
+      "rotateLeft": "Rotate -90 °",
+      "rotateRight": "Girate + 90 °",
+      "removeBackground": "Eliminate u fondu",
+      "processing": "Trattamentu di a vostra maghjina, per piacè aspettate..."
+    },
+    "cvPreview": {
+      "title": "Anteprima di CV",
+      "downloadCv": "Scarica CV",
+      "download": "Scaricate",
+      "wordCannotPreview": "I documenti Word (.doc/.docx) ùn ponu micca esse previsualizzati nativamente in u navigatore. ",
+      "downloadFile": "Scaricate u file CV",
+      "back": "Torna",
+      "mobileMessage": "Scaricate u schedariu CV per vede in anteprima.",
+      "preview": "Anteprima CV",
+      "wordPreviewTitle": "Apertura di u documentu Word",
+      "wordPreviewMessage": "I documenti Word (.doc/.docx) ùn ponu micca esse previsualizzati nativamente in u navigatore. Per piacè scaricate u schedariu per vede."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Scrivite una breve descrizzione di sè stessu, interessi è scopi di carriera ..."
+    },
+    "skills": {
+      "placeholder": "Scrivite u nome di l'abilità ...",
+      "add": "Add",
+      "enterToAdd": "Press Enter per aghjunghje",
+      "noSkills": "Nisuna cumpetenze aghjuntu ancu."
+    },
+    "projects": {
+      "projectName": "Nome di u prughjettu",
+      "projectNamePlaceholder": "p.e. ",
+      "projectUrl": "URL di u prughjettu",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Durata",
+      "startMonth": "Start Month",
+      "startYear": "Inizio annu",
+      "endMonth": "Finu di u mese",
+      "endYear": "Fin d'annu",
+      "currentlyWorking": "Attualmente travaglia nantu à questu",
+      "description": "Descrizzione",
+      "descriptionPlaceholder": "Descrivite u prughjettu, u vostru rolu è i risultati ...",
+      "technologies": "Tecnulugie Aduprate",
+      "addProject": "Aghjunghjite u prughjettu",
+      "image": "Image Project",
+      "removeImage": "Elimina l'Image",
+      "uploadImage": "Cliccate per carica l'imagine"
+    },
+    "work": {
+      "company": "Cumpagnia / Instituzione",
+      "companyPlaceholder": "Nome di a cumpagnia...",
+      "role": "Role/Position",
+      "rolePlaceholder": "A vostra pusizioni...",
+      "jobType": "Tipu di travagliu",
+      "selectJobType": "Selezziunà u tipu",
+      "fullTime": "Tempu pienu",
+      "partTime": "Staghjunescu",
+      "contract": "Cuntrattu",
+      "internship": "Stage",
+      "freelance": "Freelance",
+      "location": "Locu",
+      "locationPlaceholder": "p.e. ",
+      "duration": "Durata",
+      "currentlyWorking": "Attualmente travaglia quì",
+      "description": "Descrizzione di u travagliu",
+      "descriptionPlaceholder": "Descrivite e vostre responsabilità chjave è i risultati ...",
+      "skills": "Cumpetenze specifiche",
+      "addExperience": "Aghjunghjite l'Esperienza"
+    },
+    "org": {
+      "organization": "Nome di l'urganizazione",
+      "organizationPlaceholder": "Nome di l'urganizazione...",
+      "role": "Role/Position",
+      "rolePlaceholder": "p.e. ",
+      "duration": "Durata",
+      "periodFormat": "o Formatu liberu (per esempiu 2020 - 2022)",
+      "periodPlaceholder": "p.e. ",
+      "currentlyActive": "Attualmente attivu",
+      "description": "Descrizzione di l'attività",
+      "descriptionPlaceholder": "Descrivite e vostre attività o cuntributi...",
+      "addExperience": "Aghjunghjite l'Esperienza"
+    },
+    "education": {
+      "institution": "Nome di l'istituzione",
+      "institutionPlaceholder": "Nome scola o università...",
+      "degree": "Grau / Livellu",
+      "degreePlaceholder": "p.e. ",
+      "major": "Major / Campu di studiu",
+      "majorPlaceholder": "p.e. ",
+      "gpa": "GPA / Grade",
+      "gpaPlaceholder": "p.e. ",
+      "duration": "Durata di l'educazione",
+      "periodFormat": "o Formatu liberu (per esempiu, 2018 - 2022)",
+      "periodPlaceholder": "p.e. ",
+      "currentlyStudying": "Attualmente studia quì",
+      "description": "Attività / Onori",
+      "descriptionPlaceholder": "Descrivi l'attività accademica, l'urganisazione o l'onori ricevuti...",
+      "addEducation": "Add Education"
+    },
+    "cert": {
+      "name": "Nome di certificazione",
+      "namePlaceholder": "p.e. ",
+      "issuer": "Organisazione emittente",
+      "issuerPlaceholder": "p.e. ",
+      "issueDate": "Data di emissione",
+      "expiryDate": "Valide finu à",
+      "noExpiry": "Questa credenza ùn scade micca",
+      "yearPlaceholder": "o Annu (per esempiu 2023)",
+      "credentialUrl": "URL di credenziale",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Cumpetenze Relative",
+      "addCertification": "Aghjunghjite a Certificazione",
+      "image": "Image / Logo",
+      "removeImage": "Elimina l'Image",
+      "uploadImage": "Cliccate per carica l'imagine"
+    },
+    "common": {
+      "months": {
+        "1": "Ghjinnaghju",
+        "2": "Febbraiu",
+        "3": "Marzu",
+        "4": "Aprile",
+        "5": "Maghju",
+        "6": "Ghjugnu",
+        "7": "Lugliu",
+        "8": "Aostu",
+        "9": "Sittembre",
+        "10": "Ottobre",
+        "11": "Nuvembre",
+        "12": "Dicembre"
+      },
+      "month": "Mese",
+      "year": "Annu",
+      "invalidDate": "Finu di u mese invalidu",
+      "words": "parolle"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Gestisce u vostru prufilu di cartera è e preferenze",
+    "tabs": {
+      "profile": "U mo prufilu",
+      "security": "Sicurezza",
+      "personalization": "persunalizazione"
+    },
+    "profile": {
+      "infoTitle": "Informazioni basiche",
+      "photo": "Foto di prufilu",
+      "uploadPhoto": "Cambia a foto",
+      "fullName": "Nome interu",
+      "fullNamePlaceholder": "Ghjuvanni Doe",
+      "email": "Indirizzu mail",
+      "emailPlaceholder": "John@example.com",
+      "emailHelp": "L'email hè utilizatu per u login è ùn hè micca visualizatu publicamente.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Salvà u prufilu",
+      "save": "Salvà u prufilu",
+      "accountCreated": "Cuntu Creatu",
+      "lastLogin": "Last Login",
+      "oauthNotice": "Stu prufilu hè cunnessu à u vostru contu {{provider}}. I cambiamenti di u prufilu deve esse fattu attraversu u fornitore di serviziu."
+    },
+    "security": {
+      "changePassword": "Cambia Password",
+      "currentPassword": "parolla d'intesa attuale",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "New Password",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Cunfirmà New Password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Almenu 8 caratteri",
+        "uppercase": "Una lettera maiuscula (A-Z)",
+        "number": "Un numeru (0-9)",
+        "symbol": "Un simbulu (!@#$%^&*)"
+      },
+      "passwordTitle": "Codice",
+      "updatePassword": "Aghjurnà a password",
+      "additionalSecurity": "Sicurezza addiziale",
+      "twoFactor": "Autentificazione à dui fattori (2FA)",
+      "twoFactorDesc": "Secure u vostru contu usendu un codice OTP supplementu.",
+      "activeSessions": "Sessioni attive",
+      "activeSessionsDesc": "Sempre permette u monitoraghju di i dispositi logged-in.",
+      "publicVisibility": "Visibilità publica",
+      "hideFromSearch": "Oculta u Portfolio da i Motori di Ricerca",
+      "hideFromSearchDesc": "Impedisce à Google di indexà a vostra pagina di cartera publica.",
+      "disable2fa": {
+        "title": "Disattivà 2FA",
+        "description": "Sò sicuru chì vulete disattivà l'autentificazione à dui fattori?",
+        "confirmPasswordLabel": "Inserite a vostra password per cunfirmà",
+        "currentPasswordPlaceholder": "Password attuale",
+        "cancelButton": "Cancella",
+        "confirmButton": "Disattivà 2FA",
+        "incorrectPassword": "Password sbagliata."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code",
+        "step1Desc": "Aprite a vostra app autentificatore è scansate u seguente codice QR:",
+        "unableToScan": "Impossible di scansà ? Utilizà a chjave di cunfigurazione",
+        "step2Title": "2. Verify Code",
+        "step2Desc": "Inserite u codice di 6 cifre generatu da a vostra app:",
+        "cancelButton": "Cancella",
+        "enableButton": "Attivà 2FA",
+        "invalidLength": "Per piacè inserite un codice di 6 cifre.",
+        "invalidCode": "Codice di verificazione invalidu. Per piacè pruvate di novu."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Cuntrolli di lingua",
+      "appLanguage": "Lingua App",
+      "layoutTitle": "Disposizione è Tipografia",
+      "layoutStyle": "Stile di layout",
+      "layoutModern": "Stile mudernu (predeterminatu)",
+      "layoutClassic": "Stile classicu",
+      "layoutMinimalist": "Stile minimalista",
+      "fontSize": "App Size Font",
+      "fontSmall": "Picculu",
+      "fontNormal": "Normale (mediu)",
+      "fontLarge": "Grande",
+      "searchLanguage": "Ricerca lingua...",
+      "languageNotFound": "Lingua micca trovu",
+      "layoutElegant": "Stile elegante"
+    },
+    "saveChanges": "Salvà i cambiamenti",
+    "cancel": "Cancella",
+    "appSettings": "Settings App",
+    "logoutConfirmTitle": "Cunfirmà Logout",
+    "logoutConfirmDesc": "Sò sicuru chì vulete log out da u sistema?",
+    "logoutConfirmYes": "Iè, Logout",
+    "generalError": "Un errore hè accadutu. ",
+    "success": "Successu",
+    "preferencesSaved": "Preferenze di l'app salvate cù successu.",
+    "header": "Impostazioni di l'applicazione",
+    "logout": {
+      "title": "Conferma di Logout",
+      "message": "Sò sicuru chì vulete log out da u sistema?",
+      "confirm": "Iè, Logout"
+    },
+    "about": {
+      "title": "À propositu di l'applicazione",
+      "subtitle": "Piattaforma di Portfolio Builder",
+      "version": "Versione",
+      "description": "DevFolio hè una piattaforma muderna di creazione di portafogli pensata per sviluppatori, disegnatori è creatori prufessiunali. ",
+      "license": "Licenza & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Tutti i diritti riservati.",
+      "developer": "Sviluppatore",
+      "developedBy": "Sviluppatu da Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Elimina permanentemente u contu",
+      "menuItem": "Sguassà u contu",
+      "successTitle": "Successu",
+      "successMessage": "Un e-mail di cunferma di a cancellazione di u contu hè statu mandatu.",
+      "errorTitle": "Fiascu",
+      "errorMessage": "Impossible di mandà email di cunferma.",
+      "confirmationMessage": "Sò sicuru chì vulete sguassà u vostru contu permanentemente?",
+      "warningMessage1": "Riceverete un email per cunfirmà a cancellazione di u contu.",
+      "warningMessage2": "Se cunfirmatu, tutti i dati (portfolio, prughjetti, statistiche) seranu sguassati permanentemente è ùn ponu micca esse recuperati.",
+      "cancel": "Cancella",
+      "confirm": "Cunfirmazione"
+    },
+    "toasts": {
+      "toastError": "Errore",
+      "toastSuccess": "Successu",
+      "toastSetup2FAFailed": "Fiascu à stallà 2FA. Per piacè pruvate di novu.",
+      "toast2FAEnabled": "L'autentificazione à dui fattori hè stata attivata.",
+      "toast2FADisabled": "L'autentificazione à dui fattori hè stata disattivata.",
+      "toastSessionEnabled": "A surviglianza di sessione attiva hè stata attivata.",
+      "toastSessionDisabled": "A surviglianza di a sessione attiva hè stata disattivata.",
+      "toastSetupKeyCopied": "A chjave di cunfigurazione hè stata copiata in u clipboard."
+    },
+    "privacy": {
+      "title": "Pulitica di privacy",
+      "updateDate": "Ultima aghjurnata: 15 di lugliu di u 2026",
+      "intro": "Questa Politica di Privacy spiega cumu DevFolio raccoglie, usa è prutegge a vostra infurmazione persunale quandu utilizate i nostri servizii.",
+      "section1Title": "1. L'infurmazione chì avemu cullatu",
+      "section1Content": "Raccogliamu l'infurmazioni chì furnite direttamente quandu creanu un contu, custruendu una cartera, è cuntattate u nostru supportu. ",
+      "section2Title": "2. Usu di Information",
+      "section2Content": "A vostra infurmazione hè aduprata per operà, mantene è furnisce e caratteristiche di i nostri servizii, è ancu per cumunicà cun voi in quantu à u vostru contu o servizii.",
+      "section3Title": "3. Sicurezza di Dati",
+      "section3Content": "Implementemu misure di sicurezza ragiunate per prutege a vostra infurmazione da l'accessu micca autorizatu, a divulgazione o a distruzzione."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "U token di cunferma ùn hè micca truvatu.",
+    "defaultError": "Fiascatu à sguassà u contu. U token pò esse scadutu.",
+    "loadingTitle": "Sguassà u contu...",
+    "loadingMessage": "Per piacè, aspittà, trattemu a vostra dumanda.",
+    "successTitle": "Cuntu eliminatu successu",
+    "successMessage": "Tutti i vostri dati sò stati sguassati permanentemente. Serete rediretti...",
+    "errorTitle": "Fiascatu à sguassà u contu",
+    "backToHome": "Ritorna in casa"
+  },
+  "forgotPassword": {
+    "minutes": "minuti",
+    "seconds": "seconde",
+    "success": "Successu",
+    "otpSentToEmail": "Un codice OTP hè statu mandatu à u vostru email.",
+    "failed": "Fiascu",
+    "emailNotFound": "Email micca trovu.",
+    "emailThirdParty": "Stu email hè registratu attraversu un terzu.",
+    "genericError": "Ci hè un errore. Per piacè pruvate di novu.",
+    "otpVerified": "U codice OTP hè statu verificatu cù successu.",
+    "otpExpired": "U codice OTP hè scadutu. Per piacè dumandà un novu codice.",
+    "otpInvalid": "Codice OTP invalidu.",
+    "otpResent": "Un novu codice OTP hè statu mandatu à u vostru email.",
+    "otpResendFailed": "Fiascu di rinvià u codice OTP. Per piacè pruvate di novu.",
+    "passwordResetSuccess": "A password hè stata resettata cù successu. Per piacè accede cù a vostra nova password.",
+    "passwordResetFailed": "Ùn hè statu resettatu a password.",
+    "backToLogin": "Ritorna à u login",
+    "back": "Torna",
+    "title": "Password dimenticata",
+    "description": "Inserite l'indirizzu email registratu in u vostru contu. Manderemu un codice OTP per resettate a password.",
+    "emailLabel": "Indirizzu email",
+    "sending": "Mandatu...",
+    "sendOtp": "Mandate u codice OTP",
+    "verifyOtpTitle": "Verificate u codice OTP",
+    "verifyOtpDesc": "Inserite u codice di 6 cifre chì hè statu mandatu à u vostru email per cunfirmà a vostra identità.",
+    "verifying": "Verificà...",
+    "verifyOtp": "Verificate l'OTP",
+    "resending": "Rienviu...",
+    "resendOtp": "Rienvià u codice OTP",
+    "resendCodeIn": "Rienvia u codice in",
+    "newPasswordTitle": "Crea una nova password",
+    "newPasswordDesc": "Crea una nova password forte per assicurà u vostru contu.",
+    "newPasswordLabel": "New Password",
+    "min8Chars": "Minimu 8 caratteri",
+    "oneUpperCase": "1 maiuscule (A-Z)",
+    "oneNumber": "1 numeru (0-9)",
+    "oneSymbol": "1 simbulu (!@#$%^&*)",
+    "confirmPasswordLabel": "Cunfirmà a password",
+    "passwordsDoNotMatch": "I password ùn currispondenu micca.",
+    "resettingPassword": "Resetting Password...",
+    "resetPassword": "Resetten Password"
+  },
+  "verifyEmail": {
+    "resendError": "Impossibile rinvià l'email di verificazione. Per piacè pruvate di novu.",
+    "checkingStatus": "Verificà u statu di verificazione...",
+    "title": "Verificate u vostru email",
+    "description": "Avemu mandatu un email di verificazione à u vostru indirizzu email. Per piacè apre u email è cliccate u buttone <1>\"Confirmà u contu\"</1> per attivà u vostru contu.",
+    "stepsTitle": "Passi",
+    "step1": "Aprite a vostra applicazione email (Gmail, Yahoo, etc.)",
+    "step2": "Cerca un email da DevFolio cù u sughjettu \"Account Activation\"",
+    "step3": "Cliccate u buttone \"Confirmà Account\" in l'email",
+    "step4": "Vi sarà diretta à a pagina di login per entre",
+    "resendSuccess": "L'email di verificazione hè stata rinviata!",
+    "resending": "Rienviu...",
+    "resendButton": "Rienvia l'email di verificazione",
+    "backToLogin": "Ritorna à a pagina di login",
+    "footerNote": "Ùn avete micca ricevutu l'email? Verificate u cartulare <1>Spam</1> o <2>Spam</2> in u vostru email. U ligame di verificazione hè validu per <3>24 ore</3>."
+  }
+}

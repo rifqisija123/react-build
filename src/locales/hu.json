@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Jellemzők",
+    "templates": "Sablonok",
+    "pricing": "Árképzés",
+    "login": "Bejelentkezés",
+    "getStarted": "Kezdje el",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "A végső portfólióépítő fejlesztők számára",
+    "title1": "Építsd fel szakmai tudásodat",
+    "title2": "portfólió be",
+    "titleHighlight": "másodpercig.",
+    "subtitle": "Minden, amire szüksége van ahhoz, hogy bemutassa készségeit, projektjeit és tapasztalatait. ",
+    "startBuilding": "Kezdje el az építést most",
+    "viewTemplates": "Sablonok megtekintése",
+    "fastDeployment": "Gyors telepítés",
+    "liveStatus": "a username.dev él!",
+    "featuresTitle": "Erőteljes tulajdonságok",
+    "featuresSubtitle": "Minden eszközt biztosítunk ahhoz, hogy kitűnjön a tömegből, és elérje álmai munkáját.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Egyszerűen rendszerezheti szakaszait, projektjeit és készségeit intuitív vizuális szerkesztőnkkel.",
+    "feature2Title": "Egyéni témák",
+    "feature2Desc": "Válasszon a professzionálisan tervezett sablonok közül, vagy alkossa meg saját egyedi megjelenését.",
+    "feature3Title": "Valós idejű elemzés",
+    "feature3Desc": "Kövesse nyomon a látogatókat, nézze meg, mely projektek kapják a legtöbb figyelmet, és így tovább."
+  },
+  "auth": {
+    "welcomeBack": "Üdvözöljük Vissza",
+    "loginToContinue": "A folytatáshoz jelentkezzen be fiókjába",
+    "createAccount": "Fiók létrehozása",
+    "joinCommunity": "Csatlakozzon több ezer más fejlesztőhöz",
+    "fullName": "Teljes név",
+    "fullNamePlaceholder": "például ",
+    "email": "E-mail cím",
+    "emailPlaceholder": "te@example.com",
+    "password": "Jelszó",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Emlékezz rám",
+    "forgotPassword": "Elfelejtetted a jelszavad?",
+    "signIn": "Jelentkezzen be",
+    "signingIn": "Bejelentkezés...",
+    "signUp": "Regisztráljon",
+    "signingUp": "Regisztráció...",
+    "noAccount": "Nincs fiókja?",
+    "hasAccount": "Már van fiókja?",
+    "passwordRules": {
+      "title": "A jelszónak tartalmaznia kell:",
+      "length": "Legalább 8 karakter",
+      "uppercase": "Egy nagybetű (A-Z)",
+      "number": "Egy szám (0-9)",
+      "symbol": "Egy szimbólum (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfólióépítő",
+      "templates": "Sablonok és témák",
+      "settings": "Beállítások elemre",
+      "collapse": "Oldalsáv összecsukása",
+      "overview": "Áttekintés",
+      "profileSettings": "Profilbeállítások",
+      "customDomain": "Egyéni domain",
+      "feedback": "Visszacsatolás"
+    },
+    "header": {
+      "viewLive": "Élő megtekintése",
+      "welcome": "Isten hozott,",
+      "logout": "Kijelentkezés",
+      "builder": "Építész",
+      "livePortfolio": "Élő portfólió",
+      "live": "Élő"
+    },
+    "logoutModal": {
+      "title": "Kijelentkezés",
+      "message": "Biztos benne, hogy ki szeretne jelentkezni a fiókjából? ",
+      "cancel": "Mégsem",
+      "confirm": "Igen, kijelentkezés"
+    },
+    "slugModal": {
+      "title": "Válassza ki a portfólió URL-jét",
+      "message": "Ez az URL lesz a portfóliójához vezető egyedi hivatkozás. ",
+      "slugPlaceholder": "a te neved",
+      "availability": "Elérhetőség:",
+      "available": "Elérhető",
+      "unavailable": "Nem elérhető",
+      "checking": "Ellenőrzés...",
+      "mustFormat": "Csak betűket, számokat és kötőjeleket (-) tartalmazhat",
+      "cancel": "Mégsem",
+      "save": "URL mentése",
+      "usernameUrl": "Felhasználónév URL",
+      "helpText": "Kisbetűk, számok és kötőjelek. ",
+      "validation": {
+        "empty": "A csiga nem lehet üres.",
+        "min3": "Minimum 3 karakter.",
+        "max30": "Maximum 30 karakter.",
+        "format": "Csak kisbetűk, számok és kötőjelek (-). "
+      }
+    },
+    "loadingPortfolio": "Portfólióadatok betöltése...",
+    "overview": {
+      "greetings": {
+        "morning": "Jó reggelt",
+        "afternoon": "Jó délutánt",
+        "evening": "Jó délutánt",
+        "night": "Jó éjszakát"
+      },
+      "welcome": {
+        "hi": "Szia",
+        "creator": "Alkotó",
+        "desc1": "Üdvözöljük a DevFolio irányítópultján. Portfólióját megtekintette",
+        "desc2": "személy. Dolgozz tovább!",
+        "editPortfolio": "Portfólió szerkesztése"
+      },
+      "stats": {
+        "totalVisitors": "Összes látogató",
+        "projectViews": "Megtekintve (projekt)",
+        "activeSessions": "Aktív munkamenet",
+        "totalLabel": "Összesen"
+      },
+      "setup": {
+        "title": "A beállítás folyamata",
+        "completed": "Kész a portfóliója! 🎉",
+        "inProgress": "Lépések a tökéletes portfólió felé.",
+        "profile": {
+          "title": "Teljes profil",
+          "desc": "Adj hozzá nevet, életrajzot és profilfotót."
+        },
+        "section": {
+          "title": "Szakaszok hozzáadása",
+          "desc": "Aktiváljon legalább 1 szakaszt a portfólióban."
+        },
+        "project": {
+          "title": "Projekt hozzáadása",
+          "desc": "Adja meg legalább 1 legjobb projektjét."
+        },
+        "publish": {
+          "title": "Portfólió közzététele",
+          "desc": "Állítson be egyéni URL-t, hogy az nyilvánosan elérhető legyen."
+        }
+      },
+      "topProjects": {
+        "title": "Legnépszerűbb Projektek",
+        "desc": "Munkájának teljesítménye a látogatók szemében.",
+        "viewAll": "Összes megtekintése",
+        "empty": "Még nincsenek megtekintési adatok a projektjéhez."
+      }
+    },
+    "themes": {
+      "title": "Sablonok és témák",
+      "subtitle": "Szabja személyre nyilvános portfóliójának megjelenését és hangulatát.",
+      "reset": "Alapértelmezés visszaállítása",
+      "save": "Módosítások mentése",
+      "saving": "Mentés...",
+      "chooseTemplate": "Válasszon egy sablont",
+      "primaryColor": "Elsődleges szín",
+      "typography": "Tipográfia",
+      "appearance": "Megjelenés",
+      "corners": "Sarkok és szegélyek",
+      "successTitle": "Siker",
+      "successMessage": "A témabeállítások sikeresen frissítve",
+      "errorTitle": "Hiba",
+      "errorMessage": "Nem sikerült menteni a témabeállításokat",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Letisztult és egyszerű dizájn a tartalomra összpontosítva."
+        },
+        "developerDark": {
+          "name": "Developer Dark",
+          "desc": "A sötét téma tökéletes a kód és a technológiai halmazok bemutatásához."
+        },
+        "creative": {
+          "name": "Kreatív",
+          "desc": "Élénk és színes elrendezés tervezőknek és kreatívoknak."
+        },
+        "executive": {
+          "name": "Ügyvezető",
+          "desc": "Professzionális és formális elrendezés üzleti szakemberek számára."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Modern Apple-stílusú rácselrendezés, amely hatékonyan emeli ki a különböző készségeket."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutalizmus",
+          "desc": "Merész szegélyek és nagy kontrasztú színek a divatos, nem bocsánatkérő megjelenésért."
+        },
+        "glassmorphism": {
+          "name": "Üvegmorfizmus",
+          "desc": "Tetüveg hatások színes színátmeneteken az elegáns, modern felhasználói felületért."
+        },
+        "linkInBio": {
+          "name": "Link a Bioban",
+          "desc": "Kompakt függőleges elrendezés mobilképernyőkre és közösségi médiára optimalizálva."
+        }
+      },
+      "appearances": {
+        "light": "Fény",
+        "dark": "Sötét",
+        "system": "Rendszer"
+      },
+      "cornersOptions": {
+        "sharp": "Éles",
+        "rounded": "Lekerekített",
+        "pill": "Tabletta"
+      }
+    },
+    "feedback": {
+      "title": "Visszajelzés küldése",
+      "subtitle": "Segítsen nekünk, hogy jobbá tegyük az alkalmazással kapcsolatos javaslatokkal, kritikával vagy hibák bejelentésével.",
+      "categoryLabel": "Visszajelzés kategória",
+      "messageLabel": "Üzenet részletei",
+      "messagePlaceholder": "Mondja el részletesen a visszajelzést, amelyet továbbítani szeretne...",
+      "imageLabel": "Képmelléklet (opcionális)",
+      "imagePlaceholder": "Kattintson a kép vagy képernyőkép feltöltéséhez",
+      "submitting": "Küldés...",
+      "submitBtn": "Visszajelzés küldése",
+      "categories": {
+        "suggestion": "Javaslatok és ötletek",
+        "bug": "Bug/Error Report",
+        "criticism": "Kritika",
+        "other": "Egyebek"
+      },
+      "imageErrorTitle": "Hiba",
+      "imageErrorMessage": "Egyes fájlokat a rendszer elutasít, mert nem támogatott képformátumok (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Siker",
+      "successMessage": "Köszönjük visszajelzését! A jelentés elküldve.",
+      "submitErrorTitle": "Sikertelen",
+      "submitErrorMessage": "Hiba történt a visszajelzés küldése közben. Kérjük, próbálja újra."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Rólam",
+      "skills": "Készségek",
+      "projects": "Projektek",
+      "workExperience": "Munkatapasztalat",
+      "orgExperience": "Szervezési tapasztalat",
+      "education": "Oktatás",
+      "certifications": "Képzés és bizonyítványok",
+      "contact": "Lépjen kapcsolatba velem"
+    },
+    "editor": {
+      "profileInfo": "Profil információ",
+      "saving": "Megtakarítás...",
+      "profilePhoto": "Profil fotó",
+      "clickToUpload": "Kattintson a feltöltéshez (JPG, PNG)",
+      "fullName": "Teljes név",
+      "fullNamePlaceholder": "például ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack fejlesztő a modern webalkalmazások készítése iránti szenvedéllyel...",
+      "location": "Elhelyezkedés",
+      "locationPlaceholder": "például ",
+      "gender": "Nem",
+      "selectGender": "Válassza a Nem lehetőséget",
+      "male": "Férfi",
+      "female": "Női",
+      "custom": "Szokás",
+      "customPlaceholder": "Írja be egyéni nemét...",
+      "uploadCv": "Önéletrajz feltöltése",
+      "cvFormat": "(DOC vagy PDF)",
+      "preview": "Előnézet",
+      "remove": "Távolítsa el",
+      "clickToUploadCv": "Kattintson ide a PDF vagy DOC feltöltéséhez",
+      "sections": "szakaszok",
+      "removeSelected": "Kijelölt eltávolítása",
+      "confirmRemove": "Erősítse meg az Eltávolítást",
+      "addSection": "Szakasz hozzáadása",
+      "addAllSections": "Összes szakasz hozzáadása",
+      "noSections": "Még nincsenek szakaszok",
+      "clickToAdd": "A kezdéshez kattintson a \"+ Szakasz hozzáadása\" gombra",
+      "selectAll": "Válassza az Összes lehetőséget",
+      "selected": "Kiválasztott",
+      "dragToReorder": "Húzza a szakaszok átrendezéséhez",
+      "livePreview": "Élő előnézet",
+      "addSectionsToBuild": "A portfólió felépítéséhez adjon hozzá szakaszokat",
+      "now": "Jelenleg",
+      "current": "Jelenlegi",
+      "noExpiry": "Nincs lejárat",
+      "see": "Lásd",
+      "position": "Pozíció",
+      "degree": "Fokozat",
+      "certification": "Tanúsítvány",
+      "sectionsForm": {
+        "about": {
+          "label": "Saját leírása",
+          "placeholder": "Mesélj magadról, hátteredről, érdeklődési körödről és készségeidről..."
+        },
+        "skills": {
+          "addPlaceholder": "Írja be a skillt, majd nyomja meg az Entert..."
+        },
+        "projects": {
+          "title": "Projekt neve",
+          "titlePlaceholder": "Projekt neve...",
+          "url": "Projekt URL",
+          "description": "Leírás",
+          "descriptionPlaceholder": "A projekt rövid leírása...",
+          "uploadThumbnail": "Projekt kép",
+          "addProject": "Projekt hozzáadása",
+          "projectNum": "Projekt száma",
+          "currentProject": "Ez egy projekt, amin dolgozom"
+        },
+        "work": {
+          "company": "Vállalat/ügynökség",
+          "companyPlaceholder": "Cég neve...",
+          "position": "Beosztás/Tit",
+          "positionPlaceholder": "A pozíciód...",
+          "employmentType": "A munka típusa",
+          "location": "Elhelyezkedés",
+          "locationPlaceholder": "Város, Ország...",
+          "startDate": "Indul",
+          "endDate": "Befejezett",
+          "currentWork": "Jelenleg még dolgozom",
+          "description": "Leírás",
+          "descriptionPlaceholder": "Munkaköri leírás és kötelezettségek...",
+          "skills": "Ügyesség",
+          "addExperience": "Add munkatapasztalat",
+          "experienceNum": "Tapasztalat #",
+          "dateError": "A befejező dátum nem lehet korábbi, mint a kezdő dátum"
+        },
+        "org": {
+          "organization": "Szervezet neve",
+          "orgPlaceholder": "BEM Egyetem...",
+          "role": "Szerep/pozíció",
+          "rolePlaceholder": "osztályvezető...",
+          "addOrg": "Szervezeti tapasztalat hozzáadása",
+          "orgNum": "Szervezet száma"
+        },
+        "edu": {
+          "institution": "Oktatási intézmények",
+          "institutionPlaceholder": "Az egyetem vagy iskola neve...",
+          "degree": "Cím",
+          "degreePlaceholder": "S1, középiskola stb...",
+          "major": "Tanszék/Tanulmányi terület",
+          "majorPlaceholder": "Informatikai mérnök...",
+          "gpa": "GPA (opcionális)",
+          "currentStudy": "Még mindig itt tanulok",
+          "descriptionPlaceholder": "Tevékenységek és eredmények a tanulás során...",
+          "addEdu": "Oktatás hozzáadása",
+          "eduNum": "Oktatás #"
+        },
+        "cert": {
+          "name": "Tanúsítvány / képzés neve",
+          "namePlaceholder": "Tanúsítvány neve...",
+          "issuer": "Kiadó",
+          "issuerPlaceholder": "Kiadó intézmény...",
+          "issueDate": "Kezdés (közzététel dátuma)",
+          "issueDatePlaceholder": "Válassza ki a megjelenés dátumát...",
+          "expiryDate": "Befejezve (érvényes időszak)",
+          "expiryDatePlaceholder": "Válassza ki a lejárati dátumot...",
+          "noExpiry": "Ennek a tanúsítványnak nincs lejárati ideje",
+          "url": "Hitelesítési adatok URL-je",
+          "uploadThumbnail": "Bizonyítvány / Képzési kép",
+          "uploadThumbnailLimit": "Tanúsítványkép feltöltése (JPG/PNG/WEBP, legfeljebb 2 MB)",
+          "addCert": "Tanúsítvány hozzáadása",
+          "certNum": "Tanúsítvány száma"
+        },
+        "contact": {
+          "contactNum": "Kapcsolattartási szám",
+          "platform": "Platform",
+          "displayText": "Szöveg megjelenítése",
+          "displayTextPlaceholder": "például te@email.com vagy @felhasználónév",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "pl. 62812... (előzetes 0 nélkül)",
+          "urlPlaceholderEmail": "például te@email.com",
+          "urlPlaceholderWebsite": "pl: https://...",
+          "urlPlaceholderDefault": "például felhasználónév",
+          "addContact": "Névjegy hozzáadása elemre"
+        },
+        "common": {
+          "months": {
+            "1": "január",
+            "2": "február",
+            "3": "március",
+            "4": "április",
+            "5": "május",
+            "6": "június",
+            "7": "július",
+            "8": "augusztus",
+            "9": "szeptember",
+            "10": "október",
+            "11": "november",
+            "12": "december"
+          },
+          "month": "Hónap",
+          "year": "Év",
+          "invalidDate": "Érvénytelen záró hónap",
+          "words": "szavak"
+        }
+      },
+      "sure": "Persze",
+      "deletePhotoTitle": "Törli a profilfotót?",
+      "deletePhotoMessage": "Biztosan törlöd ezt a profilfotót?",
+      "cancel": "Mégse",
+      "delete": "Töröl"
+    },
+    "cropper": {
+      "chooseBackground": "Válassza a Háttér lehetőséget",
+      "cropPhoto": "Vágja le a fényképét",
+      "useOriginal": "Használja az eredetit",
+      "backgroundPresets": "Háttérbeállítások",
+      "none": "Egyik sem",
+      "uploadBackground": "Feltöltés háttér",
+      "cancel": "Mégsem",
+      "savePhoto": "Fotó mentése",
+      "zoom": "Zoomolás",
+      "rotationTilt": "Forgatás és döntés",
+      "resetRotation": "Állítsa vissza 0°-ra",
+      "center": "Központ",
+      "rotateLeft": "-90°-os elforgatás",
+      "rotateRight": "Forgatás +90°",
+      "removeBackground": "Háttér eltávolítása",
+      "processing": "A kép feldolgozása folyamatban, kérjük, várjon..."
+    },
+    "cvPreview": {
+      "title": "Önéletrajz előnézet",
+      "downloadCv": "Töltse le az önéletrajzot",
+      "download": "Letöltés",
+      "wordCannotPreview": "A Word dokumentumok (.doc/.docx) előnézete nem tekinthető meg natív módon a böngészőben. ",
+      "downloadFile": "Töltse le az önéletrajz fájlt",
+      "back": "Vissza",
+      "mobileMessage": "Kérjük, töltse le az önéletrajz fájlt az előnézethez.",
+      "preview": "Önéletrajz előnézete",
+      "wordPreviewTitle": "Word dokumentum előnézet",
+      "wordPreviewMessage": "A Word dokumentumok (.doc/.docx) előnézete nem tekinthető meg natív módon a böngészőben. Kérjük, töltse le a fájlt a megtekintéséhez."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Írj rövid leírást magadról, érdeklődési köreidről és karriercéljairól..."
+    },
+    "skills": {
+      "placeholder": "Írja be a készség nevét...",
+      "add": "Hozzáadás",
+      "enterToAdd": "Nyomja meg az Entert a hozzáadáshoz",
+      "noSkills": "Még nincsenek hozzáadott készségek."
+    },
+    "projects": {
+      "projectName": "Projekt neve",
+      "projectNamePlaceholder": "például ",
+      "projectUrl": "Projekt URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Időtartam",
+      "startMonth": "Kezdő hónap",
+      "startYear": "Kezdő év",
+      "endMonth": "Hónap vége",
+      "endYear": "Év vége",
+      "currentlyWorking": "Jelenleg ezen dolgozik",
+      "description": "Leírás",
+      "descriptionPlaceholder": "Ismertesse a projektet, szerepét és eredményeit...",
+      "technologies": "Használt technológiák",
+      "addProject": "Projekt hozzáadása",
+      "image": "Projekt kép",
+      "removeImage": "Kép eltávolítása",
+      "uploadImage": "Kattintson a kép feltöltéséhez"
+    },
+    "work": {
+      "company": "Vállalat/intézmény",
+      "companyPlaceholder": "Cég neve...",
+      "role": "Szerep/pozíció",
+      "rolePlaceholder": "A pozíciód...",
+      "jobType": "Munka típusa",
+      "selectJobType": "Válasszon típust",
+      "fullTime": "Teljes munkaidőben",
+      "partTime": "Részidős",
+      "contract": "Szerződés",
+      "internship": "Szakmai gyakorlat",
+      "freelance": "Szabadúszó",
+      "location": "Elhelyezkedés",
+      "locationPlaceholder": "például ",
+      "duration": "Időtartam",
+      "currentlyWorking": "Jelenleg itt dolgozik",
+      "description": "Munkakör leírása",
+      "descriptionPlaceholder": "Írja le legfontosabb feladatait és eredményeit...",
+      "skills": "Specifikus készségek",
+      "addExperience": "Tapasztalat hozzáadása"
+    },
+    "org": {
+      "organization": "Szervezet neve",
+      "organizationPlaceholder": "Szervezet neve...",
+      "role": "Szerep/pozíció",
+      "rolePlaceholder": "például ",
+      "duration": "Időtartam",
+      "periodFormat": "vagy szabad formátum (pl. 2020-2022)",
+      "periodPlaceholder": "például ",
+      "currentlyActive": "Jelenleg aktív",
+      "description": "Tevékenység leírása",
+      "descriptionPlaceholder": "Ismertesse tevékenységeit vagy hozzájárulásait...",
+      "addExperience": "Tapasztalat hozzáadása"
+    },
+    "education": {
+      "institution": "Intézmény neve",
+      "institutionPlaceholder": "Iskola vagy egyetem neve...",
+      "degree": "Fokozat/Szint",
+      "degreePlaceholder": "például ",
+      "major": "szak/tanulmányi terület",
+      "majorPlaceholder": "például ",
+      "gpa": "GPA / fokozat",
+      "gpaPlaceholder": "például ",
+      "duration": "Oktatás időtartama",
+      "periodFormat": "vagy szabad formátum (pl. 2018-2022)",
+      "periodPlaceholder": "például ",
+      "currentlyStudying": "Jelenleg itt tanul",
+      "description": "Tevékenységek / Kitüntetések",
+      "descriptionPlaceholder": "Ismertesse a tudományos tevékenységeket, a szervezeteket vagy a kapott kitüntetéseket...",
+      "addEducation": "Oktatás hozzáadása"
+    },
+    "cert": {
+      "name": "Tanúsítvány neve",
+      "namePlaceholder": "például ",
+      "issuer": "Kibocsátó szervezet",
+      "issuerPlaceholder": "például ",
+      "issueDate": "Kiadás dátuma",
+      "expiryDate": "ig érvényes",
+      "noExpiry": "Ez a hitelesítő adat nem jár le",
+      "yearPlaceholder": "vagy év (pl. 2023)",
+      "credentialUrl": "Hitelesítési adatok URL-je",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Kapcsolódó készségek",
+      "addCertification": "Tanúsítvány hozzáadása",
+      "image": "Kép/logó",
+      "removeImage": "Kép eltávolítása",
+      "uploadImage": "Kattintson a kép feltöltéséhez"
+    },
+    "common": {
+      "months": {
+        "1": "január",
+        "2": "február",
+        "3": "március",
+        "4": "április",
+        "5": "május",
+        "6": "június",
+        "7": "július",
+        "8": "augusztus",
+        "9": "szeptember",
+        "10": "október",
+        "11": "november",
+        "12": "december"
+      },
+      "month": "Hónap",
+      "year": "Év",
+      "invalidDate": "Érvénytelen záró hónap",
+      "words": "szavak"
+    }
+  },
+  "settings": {
+    "title": "Beállítások elemre",
+    "subtitle": "Kezelje portfólióprofilját és beállításait",
+    "tabs": {
+      "profile": "Saját profil",
+      "security": "Biztonság",
+      "personalization": "Személyre szabás"
+    },
+    "profile": {
+      "infoTitle": "Alapvető információk",
+      "photo": "Profil fotó",
+      "uploadPhoto": "Fotó módosítása",
+      "fullName": "Teljes név",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-mail cím",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Az e-mail-cím a bejelentkezésre szolgál, és nem jelenik meg nyilvánosan.",
+      "portfolioUrl": "Portfólió URL-je",
+      "saveProfile": "Profil mentése",
+      "save": "Profil mentése",
+      "accountCreated": "Fiók létrehozva",
+      "lastLogin": "Utolsó bejelentkezés",
+      "oauthNotice": "Ez a profil kapcsolódik az Ön {{provider}}-fiókjához. A profilmódosításokat a szolgáltatón keresztül kell végrehajtani."
+    },
+    "security": {
+      "changePassword": "Jelszó módosítása",
+      "currentPassword": "Jelenlegi jelszó",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Új jelszó",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Új jelszó megerősítése",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Legalább 8 karakter",
+        "uppercase": "Egy nagybetű (A-Z)",
+        "number": "Egy szám (0-9)",
+        "symbol": "Egy szimbólum (!@#$%^&*)"
+      },
+      "passwordTitle": "Jelszó",
+      "updatePassword": "Jelszó frissítése",
+      "additionalSecurity": "További biztonság",
+      "twoFactor": "Kéttényezős hitelesítés (2FA)",
+      "twoFactorDesc": "Biztosítsa fiókját egy további OTP-kóddal.",
+      "activeSessions": "Aktív munkamenetek",
+      "activeSessionsDesc": "Mindig engedélyezze a bejelentkezett eszközök figyelését.",
+      "publicVisibility": "Nyilvános láthatóság",
+      "hideFromSearch": "Portfólió elrejtése a keresőmotorok elől",
+      "hideFromSearchDesc": "Akadályozza meg, hogy a Google indexelje nyilvános portfólióoldalát.",
+      "disable2fa": {
+        "title": "A 2FA letiltása",
+        "description": "Biztosan kikapcsolja a kéttényezős hitelesítést?",
+        "confirmPasswordLabel": "A megerősítéshez adja meg jelszavát",
+        "currentPasswordPlaceholder": "Jelenlegi jelszó",
+        "cancelButton": "Mégsem",
+        "confirmButton": "A 2FA letiltása",
+        "incorrectPassword": "Helytelen jelszó."
+      },
+      "setup2fa": {
+        "step1Title": "1. Olvassa be a QR-kódot",
+        "step1Desc": "Nyissa meg a hitelesítő alkalmazást, és olvassa be a következő QR-kódot:",
+        "unableToScan": "Nem tudja beolvasni? Használja a beállító gombot",
+        "step2Title": "2. Ellenőrizze a kódot",
+        "step2Desc": "Adja meg az alkalmazás által generált hatjegyű kódot:",
+        "cancelButton": "Mégsem",
+        "enableButton": "Engedélyezze a 2FA-t",
+        "invalidLength": "Adjon meg egy 6 számjegyű kódot.",
+        "invalidCode": "Érvénytelen ellenőrző kód. Kérjük, próbálja újra."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Nyelvi vezérlők",
+      "appLanguage": "Alkalmazás nyelve",
+      "layoutTitle": "Elrendezés és tipográfia",
+      "layoutStyle": "Elrendezési stílus",
+      "layoutModern": "Modern stílus (alapértelmezett)",
+      "layoutClassic": "Klasszikus stílus",
+      "layoutMinimalist": "Minimalista stílus",
+      "fontSize": "Alkalmazás betűmérete",
+      "fontSmall": "Kicsi",
+      "fontNormal": "Normál (közepes)",
+      "fontLarge": "Nagy",
+      "searchLanguage": "Nyelv keresése...",
+      "languageNotFound": "A nyelv nem található",
+      "layoutElegant": "Elegáns stílus"
+    },
+    "saveChanges": "Módosítások mentése",
+    "cancel": "Mégsem",
+    "appSettings": "Alkalmazásbeállítások",
+    "logoutConfirmTitle": "Erősítse meg a kijelentkezést",
+    "logoutConfirmDesc": "Biztos, hogy ki akar jelentkezni a rendszerből?",
+    "logoutConfirmYes": "Igen, kijelentkezés",
+    "generalError": "Hiba történt. ",
+    "success": "Siker",
+    "preferencesSaved": "Az alkalmazásbeállítások sikeresen mentve.",
+    "header": "Alkalmazásbeállítások",
+    "logout": {
+      "title": "Kijelentkezés megerősítése",
+      "message": "Biztos, hogy ki akar jelentkezni a rendszerből?",
+      "confirm": "Igen, kijelentkezés"
+    },
+    "about": {
+      "title": "Az alkalmazásról",
+      "subtitle": "Portfólióépítő platform",
+      "version": "Változat",
+      "description": "A DevFolio egy modern portfóliókészítő platform fejlesztőknek, tervezőknek és professzionális alkotóknak. ",
+      "license": "Licenc és szerzői jog",
+      "copyright": "© 2026 DevFolio Inc. Minden jog fenntartva.",
+      "developer": "Fejlesztő",
+      "developedBy": "Rifqi Naradata fejlesztette"
+    },
+    "deleteAccount": {
+      "title": "Fiók végleges törlése",
+      "menuItem": "Fiók törlése",
+      "successTitle": "Siker",
+      "successMessage": "A fiók törlését megerősítő e-mailt elküldtünk.",
+      "errorTitle": "Sikertelen",
+      "errorMessage": "Nem sikerült elküldeni a megerősítő e-mailt.",
+      "confirmationMessage": "Biztos benne, hogy véglegesen törölni szeretné fiókját?",
+      "warningMessage1": "Kapni fog egy e-mailt a fiók törlésének megerősítéséről.",
+      "warningMessage2": "Megerősítés esetén minden adat (portfólió, projektek, statisztikák) véglegesen törlődik, és nem állítható vissza.",
+      "cancel": "Mégse",
+      "confirm": "Megerősítés"
+    },
+    "toasts": {
+      "toastError": "Hiba",
+      "toastSuccess": "Siker",
+      "toastSetup2FAFailed": "Nem sikerült a 2FA beállítása. Kérjük, próbálja újra.",
+      "toast2FAEnabled": "A kéttényezős hitelesítés engedélyezve van.",
+      "toast2FADisabled": "A kéttényezős hitelesítés letiltva.",
+      "toastSessionEnabled": "Az aktív munkamenet-figyelés engedélyezve van.",
+      "toastSessionDisabled": "Az aktív munkamenet-figyelés le van tiltva.",
+      "toastSetupKeyCopied": "A beállítási kulcs a vágólapra másolva."
+    },
+    "privacy": {
+      "title": "Adatvédelmi szabályzat",
+      "updateDate": "Utolsó frissítés: 2026. július 15",
+      "intro": "Ez az adatvédelmi szabályzat elmagyarázza, hogy a DevFolio hogyan gyűjti, használja és védi az Ön személyes adatait szolgáltatásaink használata során.",
+      "section1Title": "1. Az általunk gyűjtött információk",
+      "section1Content": "Az Ön által közvetlenül megadott információkat gyűjtjük, amikor fiókot hoz létre, portfóliót készít, és kapcsolatba lép ügyfélszolgálatunkkal. ",
+      "section2Title": "2. Információ felhasználása",
+      "section2Content": "Az Ön adatait szolgáltatásaink működtetésére, karbantartására és funkcióinak biztosítására, valamint az Ön fiókjával vagy szolgáltatásaival kapcsolatos kommunikációra használjuk fel.",
+      "section3Title": "3. Adatbiztonság",
+      "section3Content": "Ésszerű biztonsági intézkedéseket alkalmazunk, hogy megvédjük adatait a jogosulatlan hozzáféréstől, nyilvánosságra hozataltól vagy megsemmisítéstől."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Megerősítő token nem található.",
+    "defaultError": "Nem sikerült törölni a fiókot. Lehet, hogy a token lejárt.",
+    "loadingTitle": "Fiók törlése...",
+    "loadingMessage": "Kérjük, várjon, kérését feldolgozzuk.",
+    "successTitle": "Fiók sikeresen törölve",
+    "successMessage": "Minden adatát véglegesen töröltük. Át lesz irányítva...",
+    "errorTitle": "Nem sikerült törölni a fiókot",
+    "backToHome": "Vissza a Kezdőlapra"
+  },
+  "forgotPassword": {
+    "minutes": "perc",
+    "seconds": "másodperc",
+    "success": "Siker",
+    "otpSentToEmail": "OTP kódot küldtünk az e-mail címére.",
+    "failed": "Sikertelen",
+    "emailNotFound": "E-mail nem található.",
+    "emailThirdParty": "Ez az e-mail egy harmadik félen keresztül van regisztrálva.",
+    "genericError": "Hiba történt. Kérjük, próbálja újra.",
+    "otpVerified": "Az OTP kód sikeresen ellenőrizve.",
+    "otpExpired": "Az OTP kód lejárt. Kérjen új kódot.",
+    "otpInvalid": "Érvénytelen OTP-kód.",
+    "otpResent": "Új OTP kódot küldtünk az e-mail címére.",
+    "otpResendFailed": "Nem sikerült újraküldeni az OTP-kódot. Kérjük, próbálja újra.",
+    "passwordResetSuccess": "Sikeres jelszó visszaállítása. Kérjük, jelentkezzen be új jelszavával.",
+    "passwordResetFailed": "Nem sikerült visszaállítani a jelszót.",
+    "backToLogin": "Vissza a Bejelentkezéshez",
+    "back": "Vissza",
+    "title": "Elfelejtett jelszó",
+    "description": "Adja meg a fiókjában regisztrált e-mail címet. OTP kódot küldünk a jelszó visszaállításához.",
+    "emailLabel": "E-mail cím",
+    "sending": "Küldés...",
+    "sendOtp": "OTP kód küldése",
+    "verifyOtpTitle": "Az OTP kód ellenőrzése",
+    "verifyOtpDesc": "Írja be az e-mail címére küldött 6 számjegyű kódot, hogy megerősítse személyazonosságát.",
+    "verifying": "Ellenőrzés...",
+    "verifyOtp": "OTP ellenőrzése",
+    "resending": "Újraküldés...",
+    "resendOtp": "OTP kód újraküldése",
+    "resendCodeIn": "Küldje el újra a kódot",
+    "newPasswordTitle": "Új jelszó létrehozása",
+    "newPasswordDesc": "Hozzon létre egy új, erős jelszót fiókja biztonsága érdekében.",
+    "newPasswordLabel": "Új jelszó",
+    "min8Chars": "Legalább 8 karakter",
+    "oneUpperCase": "1 nagybetű (A-Z)",
+    "oneNumber": "1 szám (0-9)",
+    "oneSymbol": "1 szimbólum (!@#$%^&*)",
+    "confirmPasswordLabel": "Jelszó megerősítése",
+    "passwordsDoNotMatch": "A jelszavak nem egyeznek.",
+    "resettingPassword": "Jelszó visszaállítása...",
+    "resetPassword": "Jelszó visszaállítása"
+  },
+  "verifyEmail": {
+    "resendError": "Nem sikerült újraküldeni az ellenőrző e-mailt. Kérjük, próbálja újra.",
+    "checkingStatus": "Ellenőrzés állapotának ellenőrzése...",
+    "title": "Ellenőrizze e-mailjét",
+    "description": "Ellenőrző e-mailt küldtünk az Ön e-mail címére. Kérjük, nyissa meg az e-mailt, és kattintson a <1>\"Fiók megerősítése\"</1> gombra a fiók aktiválásához.",
+    "stepsTitle": "Lépések",
+    "step1": "Nyissa meg e-mail alkalmazását (Gmail, Yahoo stb.)",
+    "step2": "Keressen egy e-mailt a DevFoliótól, amelynek tárgya \"Fiók aktiválása\"",
+    "step3": "Kattintson a \"Fiók megerősítése\" gombra az e-mailben",
+    "step4": "A rendszer a bejelentkezési oldalra irányítja, ahol be kell írnia",
+    "resendSuccess": "Az ellenőrző e-mailt újra elküldtük!",
+    "resending": "Újraküldés...",
+    "resendButton": "Ellenőrző e-mail újraküldése",
+    "backToLogin": "Vissza a bejelentkezési oldalra",
+    "footerNote": "Nem kapta meg az e-mailt? Ellenőrizze az e-mailben a <1>Spam</1> vagy a <2>Junk</2> mappát. Az ellenőrző link <3>24 óráig</3> érvényes."
+  }
+}

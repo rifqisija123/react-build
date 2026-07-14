@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ominaisuudet",
+    "templates": "Mallit",
+    "pricing": "Hinnoittelu",
+    "login": "Kirjaudu sisään",
+    "getStarted": "Aloita",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Lopullinen portfolion rakentaja kehittäjille",
+    "title1": "Rakenna oma ammattisi",
+    "title2": "portfolio sisään",
+    "titleHighlight": "sekuntia.",
+    "subtitle": "Kaikki mitä tarvitset osaamisesi, projektisi ja kokemuksesi esittelyyn. ",
+    "startBuilding": "Aloita rakentaminen nyt",
+    "viewTemplates": "Näytä mallit",
+    "fastDeployment": "Nopea käyttöönotto",
+    "liveStatus": "username.dev on live-tilassa!",
+    "featuresTitle": "Tehokkaat ominaisuudet",
+    "featuresSubtitle": "Tarjoamme kaikki työkalut, joita tarvitset erottuaksesi joukosta ja saada unelmatyösi.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Järjestä osiot, projektisi ja taitosi helposti intuitiivisen visuaalisen editorin avulla.",
+    "feature2Title": "Mukautetut teemat",
+    "feature2Desc": "Valitse ammattimaisesti suunnitelluista malleista tai luo oma ainutlaatuinen ilme.",
+    "feature3Title": "Reaaliaikainen Analytics",
+    "feature3Desc": "Seuraa kävijöitäsi, katso, mitkä projektit saavat eniten huomiota ja paljon muuta."
+  },
+  "auth": {
+    "welcomeBack": "Tervetuloa Takaisin",
+    "loginToContinue": "Kirjaudu tilillesi jatkaaksesi",
+    "createAccount": "Luo tili",
+    "joinCommunity": "Liity tuhansien muiden kehittäjien joukkoon",
+    "fullName": "Koko nimi",
+    "fullNamePlaceholder": "esim. ",
+    "email": "Sähköpostiosoite",
+    "emailPlaceholder": "sinä@esimerkki.fi",
+    "password": "Salasana",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Muista minut",
+    "forgotPassword": "Unohditko salasanan?",
+    "signIn": "Kirjaudu sisään",
+    "signingIn": "Kirjaudutaan sisään...",
+    "signUp": "Rekisteröidy",
+    "signingUp": "Ilmoittautuminen...",
+    "noAccount": "Eikö sinulla ole tiliä?",
+    "hasAccount": "Onko sinulla jo tili?",
+    "passwordRules": {
+      "title": "Salasanan tulee sisältää:",
+      "length": "Vähintään 8 merkkiä",
+      "uppercase": "Yksi iso kirjain (A-Z)",
+      "number": "Yksi numero (0-9)",
+      "symbol": "Yksi symboli (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolion rakentaja",
+      "templates": "Mallit ja teemat",
+      "settings": "Asetukset",
+      "collapse": "Kutista sivupalkki",
+      "overview": "Yleiskatsaus",
+      "profileSettings": "Profiilin asetukset",
+      "customDomain": "Mukautettu verkkotunnus",
+      "feedback": "Palaute"
+    },
+    "header": {
+      "viewLive": "Näytä livenä",
+      "welcome": "Tervetuloa,",
+      "logout": "Kirjaudu ulos",
+      "builder": "Rakentaja",
+      "livePortfolio": "Live-portfolio",
+      "live": "Elää"
+    },
+    "logoutModal": {
+      "title": "Kirjaudu ulos",
+      "message": "Haluatko varmasti kirjautua ulos tililtäsi? ",
+      "cancel": "Peruuttaa",
+      "confirm": "Kyllä, Kirjaudu ulos"
+    },
+    "slugModal": {
+      "title": "Valitse portfoliosi URL-osoite",
+      "message": "Tämä URL-osoite on ainutlaatuinen linkki portfolioosi. ",
+      "slugPlaceholder": "sinun nimesi",
+      "availability": "Saatavuus:",
+      "available": "Saatavilla",
+      "unavailable": "Ei saatavilla",
+      "checking": "Tarkistetaan...",
+      "mustFormat": "Saa sisältää vain kirjaimia, numeroita ja väliviivoja (-)",
+      "cancel": "Peruuttaa",
+      "save": "Tallenna URL-osoite",
+      "usernameUrl": "Käyttäjätunnuksen URL-osoite",
+      "helpText": "Pienet kirjaimet, numerot ja väliviivat. ",
+      "validation": {
+        "empty": "Etana ei voi olla tyhjä.",
+        "min3": "Vähintään 3 merkkiä.",
+        "max30": "Enintään 30 merkkiä.",
+        "format": "Vain pienet kirjaimet, numerot ja väliviivat (-). "
+      }
+    },
+    "loadingPortfolio": "Ladataan portfoliotietoja...",
+    "overview": {
+      "greetings": {
+        "morning": "Hyvää huomenta",
+        "afternoon": "Hyvää iltapäivää",
+        "evening": "Hyvää iltapäivää",
+        "night": "Hyvää yötä"
+      },
+      "welcome": {
+        "hi": "Hei,",
+        "creator": "Luoja",
+        "desc1": "Tervetuloa DevFolion hallintapaneeliin. Portfoliosi on katsonut",
+        "desc2": "henkilö. Jatka työtä!",
+        "editPortfolio": "Muokkaa portfoliota"
+      },
+      "stats": {
+        "totalVisitors": "Vierailijat yhteensä",
+        "projectViews": "Katsottu (projekti)",
+        "activeSessions": "Aktiivinen istunto",
+        "totalLabel": "Yhteensä"
+      },
+      "setup": {
+        "title": "Asennuksen edistyminen",
+        "completed": "Portfoliosi on valmis! 🎉",
+        "inProgress": "Askeleita täydelliseen portfolioon.",
+        "profile": {
+          "title": "Täydellinen profiili",
+          "desc": "Lisää nimi, bio ja profiilikuva."
+        },
+        "section": {
+          "title": "Lisää osioita",
+          "desc": "Aktivoi portfoliossa vähintään yksi osio."
+        },
+        "project": {
+          "title": "Lisää projekti",
+          "desc": "Kirjoita vähintään yksi parhaista projekteistasi."
+        },
+        "publish": {
+          "title": "Julkaise portfolio",
+          "desc": "Aseta muokattu URL-osoite, jotta se on julkisesti saatavilla."
+        }
+      },
+      "topProjects": {
+        "title": "Suosituimmat projektit",
+        "desc": "Työsi suorituskyky vierailijoiden silmissä.",
+        "viewAll": "Katso kaikki",
+        "empty": "Projektillesi ei ole vielä näyttötietoja."
+      }
+    },
+    "themes": {
+      "title": "Mallit ja teemat",
+      "subtitle": "Muokkaa julkisen portfoliosi ulkoasua.",
+      "reset": "Palauta oletusarvo",
+      "save": "Tallenna muutokset",
+      "saving": "Tallennetaan...",
+      "chooseTemplate": "Valitse malli",
+      "primaryColor": "Ensisijainen väri",
+      "typography": "Typografia",
+      "appearance": "Ulkonäkö",
+      "corners": "Corners & Borders",
+      "successTitle": "Menestys",
+      "successMessage": "Teema-asetukset päivitetty onnistuneesti",
+      "errorTitle": "Virhe",
+      "errorMessage": "Teemaasetusten tallentaminen epäonnistui",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistinen",
+          "desc": "Puhdas ja yksinkertainen muotoilu keskittyy sisältöön."
+        },
+        "developerDark": {
+          "name": "Kehittäjä Dark",
+          "desc": "Tumma teema sopii täydellisesti koodin ja teknologiapinojen esittelyyn."
+        },
+        "creative": {
+          "name": "Luova",
+          "desc": "Eloisa ja värikäs ulkoasu suunnittelijoille ja luoville tekijöille."
+        },
+        "executive": {
+          "name": "Johtaja",
+          "desc": "Ammattimainen ja muodollinen ulkoasu liike-elämän ammattilaisille."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Moderni Apple-tyylinen ruudukkoasettelu, joka korostaa erilaisia ​​taitoja tehokkaasti."
+        },
+        "neoBrutalism": {
+          "name": "Uusbrutalismi",
+          "desc": "Rohkeat reunat ja kontrastivärit luovat trendikkään, anteeksiantamattoman ilmeen."
+        },
+        "glassmorphism": {
+          "name": "Lasimorfismi",
+          "desc": "Huurrelasitehosteet värikkäiden liukuvärien päällä luovat tyylikkään modernin käyttöliittymän."
+        },
+        "linkInBio": {
+          "name": "Linkki Biossa",
+          "desc": "Kompakti pystysuora asettelu, joka on optimoitu mobiilinäytöille ja sosiaaliseen mediaan."
+        }
+      },
+      "appearances": {
+        "light": "Kevyt",
+        "dark": "Tumma",
+        "system": "Järjestelmä"
+      },
+      "cornersOptions": {
+        "sharp": "Terävä",
+        "rounded": "Pyöristetty",
+        "pill": "Pilleri"
+      }
+    },
+    "feedback": {
+      "title": "Lähetä palautetta",
+      "subtitle": "Auta meitä parantamaan sitä tarjoamalla ehdotuksia, kritiikkiä tai ilmoittamalla tämän sovelluksen virheistä.",
+      "categoryLabel": "Palautteen luokka",
+      "messageLabel": "Viestin tiedot",
+      "messagePlaceholder": "Kerro minulle yksityiskohtaisesti palautteesta, jonka haluat välittää...",
+      "imageLabel": "Kuvaliite (valinnainen)",
+      "imagePlaceholder": "Lataa kuva tai kuvakaappaus napsauttamalla",
+      "submitting": "Lähetetään...",
+      "submitBtn": "Lähetä palautetta",
+      "categories": {
+        "suggestion": "Ehdotuksia ja ideoita",
+        "bug": "Bugi-/virheilmoitus",
+        "criticism": "Kritiikkiä",
+        "other": "Muut"
+      },
+      "imageErrorTitle": "Virhe",
+      "imageErrorMessage": "Jotkut tiedostot hylätään, koska niitä ei tueta kuvaformaatteja (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Menestys",
+      "successMessage": "Kiitos palautteestasi! Raportti on lähetetty.",
+      "submitErrorTitle": "Epäonnistui",
+      "submitErrorMessage": "Palautteen lähettämisessä tapahtui virhe. Yritä uudelleen."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Tietoja minusta",
+      "skills": "Taidot",
+      "projects": "Projektit",
+      "workExperience": "Työkokemus",
+      "orgExperience": "Organisaatiokokemus",
+      "education": "koulutus",
+      "certifications": "Koulutus ja sertifioinnit",
+      "contact": "Ota minuun yhteyttä"
+    },
+    "editor": {
+      "profileInfo": "Profiilin tiedot",
+      "saving": "Tallennetaan...",
+      "profilePhoto": "Profiilikuva",
+      "clickToUpload": "Lataa napsauttamalla (JPG, PNG)",
+      "fullName": "Koko nimi",
+      "fullNamePlaceholder": "esim. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer, jolla on intohimo nykyaikaisten verkkosovellusten rakentamiseen...",
+      "location": "Sijainti",
+      "locationPlaceholder": "esim. ",
+      "gender": "Sukupuoli",
+      "selectGender": "Valitse Sukupuoli",
+      "male": "Uros",
+      "female": "Naaras",
+      "custom": "Mukautettu",
+      "customPlaceholder": "Kirjoita mukautettu sukupuoli...",
+      "uploadCv": "Lataa CV",
+      "cvFormat": "(DOC tai PDF)",
+      "preview": "Esikatselu",
+      "remove": "Poistaa",
+      "clickToUploadCv": "Lataa PDF tai DOC napsauttamalla",
+      "sections": "Osat",
+      "removeSelected": "Poista valitut",
+      "confirmRemove": "Vahvista Poista",
+      "addSection": "Lisää osio",
+      "addAllSections": "Lisää kaikki osiot",
+      "noSections": "Ei osioita vielä",
+      "clickToAdd": "Napsauta \"+ Lisää osio\" aloittaaksesi",
+      "selectAll": "Valitse Kaikki",
+      "selected": "Valittu",
+      "dragToReorder": "Järjestä osiot uudelleen vetämällä",
+      "livePreview": "Live-esikatselu",
+      "addSectionsToBuild": "Luo portfoliosi lisäämällä osioita",
+      "now": "Nyt",
+      "current": "Nykyinen",
+      "noExpiry": "Ei vanhenemista",
+      "see": "Katso",
+      "position": "asema",
+      "degree": "Tutkinto",
+      "certification": "Sertifiointi",
+      "sectionsForm": {
+        "about": {
+          "label": "Kuvaus itsestäsi",
+          "placeholder": "Kerro meille itsestäsi, taustastasi, kiinnostuksen kohteistasi ja taidoistasi..."
+        },
+        "skills": {
+          "addPlaceholder": "Kirjoita skill ja paina Enter..."
+        },
+        "projects": {
+          "title": "Projektin nimi",
+          "titlePlaceholder": "Projektin nimi...",
+          "url": "Projektin URL-osoite",
+          "description": "Kuvaus",
+          "descriptionPlaceholder": "Lyhyt kuvaus projektista...",
+          "uploadThumbnail": "Projektin kuva",
+          "addProject": "Lisää projekti",
+          "projectNum": "Projekti nro",
+          "currentProject": "Tämä on projekti, jonka parissa työskentelen"
+        },
+        "work": {
+          "company": "Yritys/toimisto",
+          "companyPlaceholder": "Yrityksen nimi...",
+          "position": "Asema/titteli",
+          "positionPlaceholder": "Sinun asemasi...",
+          "employmentType": "Työn tyyppi",
+          "location": "Sijainti",
+          "locationPlaceholder": "Kaupunki, Maa...",
+          "startDate": "Aloita",
+          "endDate": "Valmis",
+          "currentWork": "Olen edelleen töissä tällä hetkellä",
+          "description": "Kuvaus",
+          "descriptionPlaceholder": "Tehtävänkuvaus ja vastuut...",
+          "skills": "Taito",
+          "addExperience": "Lisää työkokemusta",
+          "experienceNum": "Kokemus #",
+          "dateError": "Päättymispäivä ei voi olla aloituspäivää aikaisempi"
+        },
+        "org": {
+          "organization": "Organisaation nimi",
+          "orgPlaceholder": "BEM-yliopisto...",
+          "role": "Rooli/asema",
+          "rolePlaceholder": "Osaston johtaja...",
+          "addOrg": "Lisää organisaatiokokemusta",
+          "orgNum": "Organisaatio #"
+        },
+        "edu": {
+          "institution": "Oppilaitokset",
+          "institutionPlaceholder": "Kampuksen tai koulun nimi...",
+          "degree": "Otsikko",
+          "degreePlaceholder": "S1, lukio jne...",
+          "major": "Osasto/Opiskeluala",
+          "majorPlaceholder": "Tietotekniikkatekniikka...",
+          "gpa": "GPA (valinnainen)",
+          "currentStudy": "Opiskelen vielä täällä",
+          "descriptionPlaceholder": "Aktiviteetit ja saavutukset opiskelun aikana...",
+          "addEdu": "Lisää koulutus",
+          "eduNum": "Koulutus #"
+        },
+        "cert": {
+          "name": "Sertifioinnin/koulutuksen nimi",
+          "namePlaceholder": "Sertifioinnin nimi...",
+          "issuer": "Kustantaja",
+          "issuerPlaceholder": "Kustannuslaitos...",
+          "issueDate": "Aloitus (julkaisupäivä)",
+          "issueDatePlaceholder": "Valitse julkaisupäivä...",
+          "expiryDate": "Valmis (voimassa oleva ajanjakso)",
+          "expiryDatePlaceholder": "Valitse viimeinen voimassaolopäivä...",
+          "noExpiry": "Tällä todistuksella ei ole viimeistä voimassaolopäivää",
+          "url": "Tunnistetietojen URL-osoite",
+          "uploadThumbnail": "Todistus / koulutuskuva",
+          "uploadThumbnailLimit": "Lataa sertifikaatin kuva (JPG/PNG/WEBP, enintään 2 Mt)",
+          "addCert": "Lisää sertifikaatti",
+          "certNum": "Sertifiointinumero"
+        },
+        "contact": {
+          "contactNum": "Yhteystiedot",
+          "platform": "Alusta",
+          "displayText": "Näytä teksti",
+          "displayTextPlaceholder": "esim. sinä@sähköposti.com tai @käyttäjänimi",
+          "url": "Linkki (URL)",
+          "urlPlaceholderWhatsapp": "esim. 62812... (ilman 0:ta)",
+          "urlPlaceholderEmail": "esim. sinä@sähköposti.com",
+          "urlPlaceholderWebsite": "esim. https://...",
+          "urlPlaceholderDefault": "esim. käyttäjätunnus",
+          "addContact": "Lisää yhteystieto"
+        },
+        "common": {
+          "months": {
+            "1": "tammikuu",
+            "2": "helmikuu",
+            "3": "maaliskuuta",
+            "4": "huhtikuu",
+            "5": "toukokuuta",
+            "6": "kesäkuuta",
+            "7": "heinäkuu",
+            "8": "elokuu",
+            "9": "syyskuu",
+            "10": "lokakuu",
+            "11": "marraskuu",
+            "12": "joulukuu"
+          },
+          "month": "Kuukausi",
+          "year": "vuosi",
+          "invalidDate": "Virheellinen loppukuukausi",
+          "words": "sanoja"
+        }
+      },
+      "sure": "Varma",
+      "deletePhotoTitle": "Poistetaanko profiilikuva?",
+      "deletePhotoMessage": "Haluatko varmasti poistaa tämän profiilikuvan?",
+      "cancel": "Peruuttaa",
+      "delete": "Poistaa"
+    },
+    "cropper": {
+      "chooseBackground": "Valitse Tausta",
+      "cropPhoto": "Rajaa valokuvasi",
+      "useOriginal": "Käytä alkuperäistä",
+      "backgroundPresets": "Taustan esiasetukset",
+      "none": "Ei mitään",
+      "uploadBackground": "Lataa tausta",
+      "cancel": "Peruuttaa",
+      "savePhoto": "Tallenna valokuva",
+      "zoom": "Zoomaa",
+      "rotationTilt": "Kierto ja kallistus",
+      "resetRotation": "Palauta 0°",
+      "center": "Keskusta",
+      "rotateLeft": "Kierrä -90°",
+      "rotateRight": "Kierrä +90°",
+      "removeBackground": "Poista tausta",
+      "processing": "Käsitellään kuvaasi, odota..."
+    },
+    "cvPreview": {
+      "title": "CV esikatselu",
+      "downloadCv": "Lataa CV",
+      "download": "Lataa",
+      "wordCannotPreview": "Word-asiakirjoja (.doc/.docx) ei voi esikatsella natiivisti selaimessa. ",
+      "downloadFile": "Lataa CV-tiedosto",
+      "back": "Takaisin",
+      "mobileMessage": "Lataa CV-tiedosto esikatsellaksesi sitä.",
+      "preview": "Esikatsele CV",
+      "wordPreviewTitle": "Word-asiakirjan esikatselu",
+      "wordPreviewMessage": "Word-asiakirjoja (.doc/.docx) ei voi esikatsella natiivisti selaimessa. Lataa tiedosto nähdäksesi sen."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Kirjoita lyhyt kuvaus itsestäsi, kiinnostuksen kohteistasi ja uratavoitteistasi..."
+    },
+    "skills": {
+      "placeholder": "Kirjoita taidon nimi...",
+      "add": "Lisätä",
+      "enterToAdd": "Lisää painamalla Enter",
+      "noSkills": "Taitoja ei ole vielä lisätty."
+    },
+    "projects": {
+      "projectName": "Projektin nimi",
+      "projectNamePlaceholder": "esim. ",
+      "projectUrl": "Projektin URL-osoite",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Kesto",
+      "startMonth": "Aloita kuukausi",
+      "startYear": "Aloitusvuosi",
+      "endMonth": "Lopeta kuukausi",
+      "endYear": "Loppuvuosi",
+      "currentlyWorking": "Parhaillaan työstetään tätä",
+      "description": "Kuvaus",
+      "descriptionPlaceholder": "Kuvaile projektia, rooliasi ja saavutuksiasi...",
+      "technologies": "Käytetyt tekniikat",
+      "addProject": "Lisää projekti",
+      "image": "Projektin kuva",
+      "removeImage": "Poista kuva",
+      "uploadImage": "Lataa kuva napsauttamalla"
+    },
+    "work": {
+      "company": "Yritys/laitos",
+      "companyPlaceholder": "Yrityksen nimi...",
+      "role": "Rooli/asema",
+      "rolePlaceholder": "Sinun asemasi...",
+      "jobType": "Työn tyyppi",
+      "selectJobType": "Valitse tyyppi",
+      "fullTime": "Kokopäiväinen",
+      "partTime": "Osa-aikainen",
+      "contract": "Sopimus",
+      "internship": "Työharjoittelu",
+      "freelance": "Freelance",
+      "location": "Sijainti",
+      "locationPlaceholder": "esim. ",
+      "duration": "Kesto",
+      "currentlyWorking": "Tällä hetkellä töissä täällä",
+      "description": "Työn kuvaus",
+      "descriptionPlaceholder": "Kuvaile keskeisiä velvollisuuksiasi ja saavutuksiasi...",
+      "skills": "Erityistaidot",
+      "addExperience": "Lisää kokemusta"
+    },
+    "org": {
+      "organization": "Organisaation nimi",
+      "organizationPlaceholder": "Organisaation nimi...",
+      "role": "Rooli/asema",
+      "rolePlaceholder": "esim. ",
+      "duration": "Kesto",
+      "periodFormat": "tai vapaassa muodossa (esim. 2020 - 2022)",
+      "periodPlaceholder": "esim. ",
+      "currentlyActive": "Tällä hetkellä aktiivinen",
+      "description": "Toiminnan kuvaus",
+      "descriptionPlaceholder": "Kuvaile toimintaasi tai panostasi...",
+      "addExperience": "Lisää kokemusta"
+    },
+    "education": {
+      "institution": "Laitoksen nimi",
+      "institutionPlaceholder": "Koulun tai yliopiston nimi...",
+      "degree": "Tutkinto/taso",
+      "degreePlaceholder": "esim. ",
+      "major": "Pääaine/Opiskeluala",
+      "majorPlaceholder": "esim. ",
+      "gpa": "GPA / arvosana",
+      "gpaPlaceholder": "esim. ",
+      "duration": "Koulutuksen kesto",
+      "periodFormat": "tai vapaassa muodossa (esim. 2018–2022)",
+      "periodPlaceholder": "esim. ",
+      "currentlyStudying": "Tällä hetkellä opiskelee täällä",
+      "description": "Aktiviteetit / kunnianosoitukset",
+      "descriptionPlaceholder": "Kuvaile akateemista toimintaa, organisaatioita tai saatuja kunnianosoituksia...",
+      "addEducation": "Lisää koulutus"
+    },
+    "cert": {
+      "name": "Sertifioinnin nimi",
+      "namePlaceholder": "esim. ",
+      "issuer": "Myöntävä organisaatio",
+      "issuerPlaceholder": "esim. ",
+      "issueDate": "Julkaisupäivämäärä",
+      "expiryDate": "Voimassa asti",
+      "noExpiry": "Tämä valtuutus ei vanhene",
+      "yearPlaceholder": "tai vuosi (esim. 2023)",
+      "credentialUrl": "Tunnistetietojen URL-osoite",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Liittyvät taidot",
+      "addCertification": "Lisää sertifikaatti",
+      "image": "Kuva/logo",
+      "removeImage": "Poista kuva",
+      "uploadImage": "Lataa kuva napsauttamalla"
+    },
+    "common": {
+      "months": {
+        "1": "tammikuu",
+        "2": "helmikuu",
+        "3": "maaliskuuta",
+        "4": "huhtikuu",
+        "5": "toukokuuta",
+        "6": "kesäkuuta",
+        "7": "heinäkuu",
+        "8": "elokuu",
+        "9": "syyskuu",
+        "10": "lokakuu",
+        "11": "marraskuu",
+        "12": "joulukuu"
+      },
+      "month": "Kuukausi",
+      "year": "vuosi",
+      "invalidDate": "Virheellinen loppukuukausi",
+      "words": "sanoja"
+    }
+  },
+  "settings": {
+    "title": "Asetukset",
+    "subtitle": "Hallitse portfoliosi profiilia ja asetuksia",
+    "tabs": {
+      "profile": "Oma profiili",
+      "security": "Turvallisuus",
+      "personalization": "Personointi"
+    },
+    "profile": {
+      "infoTitle": "Perustiedot",
+      "photo": "Profiilikuva",
+      "uploadPhoto": "Vaihda valokuva",
+      "fullName": "Koko nimi",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Sähköpostiosoite",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Sähköpostia käytetään kirjautumiseen, eikä sitä näytetä julkisesti.",
+      "portfolioUrl": "Portfolion URL-osoite",
+      "saveProfile": "Tallenna profiili",
+      "save": "Tallenna profiili",
+      "accountCreated": "Tili luotu",
+      "lastLogin": "Viimeisin kirjautuminen",
+      "oauthNotice": "Tämä profiili on yhdistetty {{provider}}-tiliisi. Profiilimuutokset tulee tehdä palveluntarjoajan kautta."
+    },
+    "security": {
+      "changePassword": "Vaihda salasana",
+      "currentPassword": "Nykyinen salasana",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Uusi salasana",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Vahvista uusi salasana",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Vähintään 8 merkkiä",
+        "uppercase": "Yksi iso kirjain (A-Z)",
+        "number": "Yksi numero (0-9)",
+        "symbol": "Yksi symboli (!@#$%^&*)"
+      },
+      "passwordTitle": "Salasana",
+      "updatePassword": "Päivitä salasana",
+      "additionalSecurity": "Lisäturva",
+      "twoFactor": "Kaksitekijäinen todennus (2FA)",
+      "twoFactorDesc": "Suojaa tilisi ylimääräisellä OTP-koodilla.",
+      "activeSessions": "Aktiiviset istunnot",
+      "activeSessionsDesc": "Salli aina sisäänkirjautuneiden laitteiden valvonta.",
+      "publicVisibility": "Julkinen näkyvyys",
+      "hideFromSearch": "Piilota portfolio hakukoneilta",
+      "hideFromSearchDesc": "Estä Googlea indeksoimasta julkista portfoliosivuasi.",
+      "disable2fa": {
+        "title": "Poista 2FA käytöstä",
+        "description": "Haluatko varmasti poistaa kaksivaiheisen todennuksen käytöstä?",
+        "confirmPasswordLabel": "Vahvista antamalla salasanasi",
+        "currentPasswordPlaceholder": "Nykyinen salasana",
+        "cancelButton": "Peruuta",
+        "confirmButton": "Poista 2FA käytöstä",
+        "incorrectPassword": "Väärä salasana."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skannaa QR-koodi",
+        "step1Desc": "Avaa todennussovellus ja skannaa seuraava QR-koodi:",
+        "unableToScan": "Etkö voi skannata? Käytä asetusnäppäintä",
+        "step2Title": "2. Vahvista koodi",
+        "step2Desc": "Anna sovelluksesi luoma 6-numeroinen koodi:",
+        "cancelButton": "Peruuttaa",
+        "enableButton": "Ota 2FA käyttöön",
+        "invalidLength": "Anna 6-numeroinen koodi.",
+        "invalidCode": "Virheellinen vahvistuskoodi. Yritä uudelleen."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kielen säätimet",
+      "appLanguage": "Sovelluksen kieli",
+      "layoutTitle": "Asettelu ja typografia",
+      "layoutStyle": "Asettelutyyli",
+      "layoutModern": "Moderni tyyli (oletus)",
+      "layoutClassic": "Klassinen Tyyli",
+      "layoutMinimalist": "Minimalistinen tyyli",
+      "fontSize": "Sovelluksen kirjasinkoko",
+      "fontSmall": "Pieni",
+      "fontNormal": "Normaali (Keskitaso)",
+      "fontLarge": "Suuri",
+      "searchLanguage": "Hae kieli...",
+      "languageNotFound": "Kieltä ei löydy",
+      "layoutElegant": "Elegantti Tyyli"
+    },
+    "saveChanges": "Tallenna muutokset",
+    "cancel": "Peruuttaa",
+    "appSettings": "Sovellusasetukset",
+    "logoutConfirmTitle": "Vahvista uloskirjautuminen",
+    "logoutConfirmDesc": "Haluatko varmasti kirjautua ulos järjestelmästä?",
+    "logoutConfirmYes": "Kyllä, Kirjaudu ulos",
+    "generalError": "Tapahtui virhe. ",
+    "success": "Menestys",
+    "preferencesSaved": "Sovellusasetukset tallennettu onnistuneesti.",
+    "header": "Sovellusasetukset",
+    "logout": {
+      "title": "Uloskirjautumisen vahvistus",
+      "message": "Haluatko varmasti kirjautua ulos järjestelmästä?",
+      "confirm": "Kyllä, Kirjaudu ulos"
+    },
+    "about": {
+      "title": "Tietoja sovelluksesta",
+      "subtitle": "Portfolio Builder -alusta",
+      "version": "Versio",
+      "description": "DevFolio on moderni portfolionrakennusalusta, joka on suunniteltu kehittäjille, suunnittelijoille ja ammattimaisille luojille. ",
+      "license": "Lisenssi ja tekijänoikeus",
+      "copyright": "© 2026 DevFolio Inc. Kaikki oikeudet pidätetään.",
+      "developer": "Kehittäjä",
+      "developedBy": "Kehittäjä Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Poista tili pysyvästi",
+      "menuItem": "Poista tili",
+      "successTitle": "Menestys",
+      "successMessage": "Tilin poistamisen vahvistussähköposti on lähetetty.",
+      "errorTitle": "Epäonnistui",
+      "errorMessage": "Vahvistussähköpostin lähettäminen epäonnistui.",
+      "confirmationMessage": "Haluatko varmasti poistaa tilisi pysyvästi?",
+      "warningMessage1": "Saat sähköpostin, jossa vahvistetaan tilin poistaminen.",
+      "warningMessage2": "Jos se vahvistetaan, kaikki tiedot (salkku, projektit, tilastot) poistetaan pysyvästi, eikä niitä voi palauttaa.",
+      "cancel": "Peruuta",
+      "confirm": "Vahvistus"
+    },
+    "toasts": {
+      "toastError": "Virhe",
+      "toastSuccess": "Menestys",
+      "toastSetup2FAFailed": "2FA:n asennus epäonnistui. Yritä uudelleen.",
+      "toast2FAEnabled": "Kaksivaiheinen todennus on otettu käyttöön.",
+      "toast2FADisabled": "Kaksivaiheinen todennus on poistettu käytöstä.",
+      "toastSessionEnabled": "Aktiivinen istunnon seuranta on otettu käyttöön.",
+      "toastSessionDisabled": "Aktiivinen istunnon valvonta on poistettu käytöstä.",
+      "toastSetupKeyCopied": "Asennusavain kopioitiin leikepöydälle."
+    },
+    "privacy": {
+      "title": "Tietosuojakäytäntö",
+      "updateDate": "Viimeksi päivitetty: 15. heinäkuuta 2026",
+      "intro": "Tämä tietosuojakäytäntö selittää, kuinka DevFolio kerää, käyttää ja suojaa henkilötietojasi käyttäessäsi palveluitamme.",
+      "section1Title": "1. Keräämämme tiedot",
+      "section1Content": "Keräämme tietoja, jotka annat suoraan luodessasi tiliä, rakentaessasi portfoliota ja ottamalla yhteyttä tukeemme. ",
+      "section2Title": "2. Tietojen käyttö",
+      "section2Content": "Tietojasi käytetään palveluidemme toimintaan, ylläpitoon ja ominaisuuksien tarjoamiseen sekä tiliisi tai palveluihisi liittyvään yhteydenpitoon.",
+      "section3Title": "3. Tietoturva",
+      "section3Content": "Toteutamme kohtuulliset turvatoimenpiteet tietojesi suojaamiseksi luvattomalta käytöltä, paljastamiselta tai tuhoutumiselta."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Vahvistustunnusta ei löydy.",
+    "defaultError": "Tilin poistaminen epäonnistui. Tunnus on saattanut vanhentua.",
+    "loadingTitle": "Poistetaan tiliä...",
+    "loadingMessage": "Odota, käsittelemme pyyntöäsi.",
+    "successTitle": "Tili poistettu onnistuneesti",
+    "successMessage": "Kaikki tietosi on poistettu pysyvästi. Sinut uudelleenohjataan...",
+    "errorTitle": "Tilin poistaminen epäonnistui",
+    "backToHome": "Palaa kotiin"
+  },
+  "forgotPassword": {
+    "minutes": "minuuttia",
+    "seconds": "sekuntia",
+    "success": "Menestys",
+    "otpSentToEmail": "OTP-koodi on lähetetty sähköpostiisi.",
+    "failed": "Epäonnistui",
+    "emailNotFound": "Sähköpostia ei löydy.",
+    "emailThirdParty": "Tämä sähköposti on rekisteröity kolmannen osapuolen kautta.",
+    "genericError": "Tapahtui virhe. Yritä uudelleen.",
+    "otpVerified": "OTP-koodi on vahvistettu.",
+    "otpExpired": "OTP-koodi on vanhentunut. Pyydä uusi koodi.",
+    "otpInvalid": "Virheellinen OTP-koodi.",
+    "otpResent": "Uusi OTP-koodi on lähetetty sähköpostiisi.",
+    "otpResendFailed": "OTP-koodin uudelleenlähetys epäonnistui. Yritä uudelleen.",
+    "passwordResetSuccess": "Salasanan nollaus onnistui. Kirjaudu sisään uudella salasanallasi.",
+    "passwordResetFailed": "Salasanan nollaus epäonnistui.",
+    "backToLogin": "Palaa kirjautumiseen",
+    "back": "Takaisin",
+    "title": "Salasana unohtunut",
+    "description": "Anna tilillesi rekisteröity sähköpostiosoite. Lähetämme OTP-koodin salasanan nollaamiseksi.",
+    "emailLabel": "Sähköpostiosoite",
+    "sending": "Lähetetään...",
+    "sendOtp": "Lähetä OTP-koodi",
+    "verifyOtpTitle": "Vahvista OTP-koodi",
+    "verifyOtpDesc": "Syötä 6-numeroinen koodi, joka on lähetetty sähköpostiisi vahvistaaksesi henkilöllisyytesi.",
+    "verifying": "Vahvistetaan...",
+    "verifyOtp": "Vahvista OTP",
+    "resending": "Lähetetään uudelleen...",
+    "resendOtp": "Lähetä OTP-koodi uudelleen",
+    "resendCodeIn": "Lähetä koodi uudelleen",
+    "newPasswordTitle": "Luo uusi salasana",
+    "newPasswordDesc": "Luo uusi, vahva salasana tilisi suojaamiseksi.",
+    "newPasswordLabel": "Uusi salasana",
+    "min8Chars": "Vähintään 8 merkkiä",
+    "oneUpperCase": "1 iso kirjain (A-Z)",
+    "oneNumber": "1 numero (0-9)",
+    "oneSymbol": "1 symboli (!@#$%^&*)",
+    "confirmPasswordLabel": "Vahvista salasana",
+    "passwordsDoNotMatch": "Salasanat eivät täsmää.",
+    "resettingPassword": "Nollataan salasanaa...",
+    "resetPassword": "Palauta salasana"
+  },
+  "verifyEmail": {
+    "resendError": "Vahvistussähköpostin lähettäminen uudelleen epäonnistui. Yritä uudelleen.",
+    "checkingStatus": "Tarkistetaan vahvistuksen tilaa...",
+    "title": "Tarkista sähköpostisi",
+    "description": "Olemme lähettäneet vahvistussähköpostin sähköpostiosoitteeseesi. Avaa sähköposti ja aktivoi tilisi napsauttamalla <1>\"Vahvista tili\"</1> -painiketta.",
+    "stepsTitle": "Vaiheet",
+    "step1": "Avaa sähköpostisovelluksesi (Gmail, Yahoo jne.)",
+    "step2": "Etsi DevFoliolta sähköpostiviesti, jonka otsikko on \"Tilin aktivointi\"",
+    "step3": "Napsauta \"Vahvista tili\" -painiketta sähköpostissa",
+    "step4": "Sinut ohjataan kirjautumissivulle syöttämään",
+    "resendSuccess": "Vahvistussähköposti on lähetetty uudelleen!",
+    "resending": "Lähetetään uudelleen...",
+    "resendButton": "Lähetä vahvistussähköposti uudelleen",
+    "backToLogin": "Palaa kirjautumissivulle",
+    "footerNote": "Etkö saanut sähköpostia? Tarkista sähköpostisi <1>Roskaposti</1>- tai <2>Roskaposti</2>-kansio. Vahvistuslinkki on voimassa <3>24 tuntia</3>."
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "سمات",
+    "templates": "قوالب",
+    "pricing": "التسعير",
+    "login": "تسجيل الدخول",
+    "getStarted": "ابدأ",
+    "title": "ديففوليو"
+  },
+  "landing": {
+    "badge": "منشئ المحفظة النهائي للمطورين",
+    "title1": "بناء المهنية الخاصة بك",
+    "title2": "المحفظة في",
+    "titleHighlight": "ثواني.",
+    "subtitle": "كل ما تحتاجه لعرض مهاراتك ومشاريعك وخبراتك. ",
+    "startBuilding": "ابدأ البناء الآن",
+    "viewTemplates": "عرض القوالب",
+    "fastDeployment": "النشر السريع",
+    "liveStatus": "username.dev مباشر!",
+    "featuresTitle": "ميزات قوية",
+    "featuresSubtitle": "نحن نقدم جميع الأدوات التي تحتاجها لتتميز عن الآخرين وتحصل على وظيفة أحلامك.",
+    "feature1Title": "منشئ السحب والإسقاط",
+    "feature1Desc": "قم بتنظيم أقسامك ومشاريعك ومهاراتك بسهولة باستخدام محررنا المرئي البديهي.",
+    "feature2Title": "السمات المخصصة",
+    "feature2Desc": "اختر من بين القوالب المصممة بشكل احترافي أو قم بإنشاء مظهرك الفريد.",
+    "feature3Title": "تحليلات في الوقت الحقيقي",
+    "feature3Desc": "تتبع زوار موقعك، واعرف المشاريع التي تحظى بأكبر قدر من الاهتمام، والمزيد."
+  },
+  "auth": {
+    "welcomeBack": "مرحبًا بعودتك",
+    "loginToContinue": "قم بتسجيل الدخول إلى حسابك للمتابعة",
+    "createAccount": "إنشاء حساب",
+    "joinCommunity": "انضم إلى الآلاف من المطورين الآخرين",
+    "fullName": "الاسم الكامل",
+    "fullNamePlaceholder": "على سبيل المثال ",
+    "email": "عنوان البريد الإلكتروني",
+    "emailPlaceholder": "you@example.com",
+    "password": "كلمة المرور",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "تذكرنى",
+    "forgotPassword": "هل نسيت كلمة السر؟",
+    "signIn": "تسجيل الدخول",
+    "signingIn": "تسجيل الدخول...",
+    "signUp": "اشتراك",
+    "signingUp": "التسجيل...",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "هل لديك حساب بالفعل؟",
+    "passwordRules": {
+      "title": "يجب أن تحتوي كلمة المرور على:",
+      "length": "ما لا يقل عن 8 أحرف",
+      "uppercase": "حرف واحد كبير (A-Z)",
+      "number": "رقم واحد (0-9)",
+      "symbol": "رمز واحد (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "منشئ المحفظة",
+      "templates": "القوالب والموضوعات",
+      "settings": "إعدادات",
+      "collapse": "طي الشريط الجانبي",
+      "overview": "ملخص",
+      "profileSettings": "إعدادات الملف الشخصي",
+      "customDomain": "المجال المخصص",
+      "feedback": "تعليق"
+    },
+    "header": {
+      "viewLive": "عرض مباشر",
+      "welcome": "مرحباً،",
+      "logout": "تسجيل الخروج",
+      "builder": "منشئ",
+      "livePortfolio": "المحفظة الحية",
+      "live": "يعيش"
+    },
+    "logoutModal": {
+      "title": "تسجيل الخروج",
+      "message": "هل أنت متأكد أنك تريد تسجيل الخروج من حسابك؟ ",
+      "cancel": "يلغي",
+      "confirm": "نعم، تسجيل الخروج"
+    },
+    "slugModal": {
+      "title": "اختر عنوان URL للمحفظة الخاصة بك",
+      "message": "سيكون عنوان URL هذا هو الرابط الفريد لمحفظتك. ",
+      "slugPlaceholder": "اسمك",
+      "availability": "التوفر:",
+      "available": "متاح",
+      "unavailable": "غير متاح",
+      "checking": "جارٍ التحقق...",
+      "mustFormat": "يمكن أن يحتوي فقط على أحرف وأرقام وشرطات (-)",
+      "cancel": "يلغي",
+      "save": "حفظ URL",
+      "usernameUrl": "عنوان URL لاسم المستخدم",
+      "helpText": "الحروف الصغيرة والأرقام والشرطات. ",
+      "validation": {
+        "empty": "لا يمكن أن يكون سبيكة فارغة.",
+        "min3": "الحد الأدنى 3 أحرف.",
+        "max30": "الحد الأقصى 30 حرفا.",
+        "format": "فقط الحروف الصغيرة والأرقام والشرطات (-). "
+      }
+    },
+    "loadingPortfolio": "جارٍ تحميل بيانات المحفظة...",
+    "overview": {
+      "greetings": {
+        "morning": "صباح الخير",
+        "afternoon": "مساء الخير",
+        "evening": "مساء الخير",
+        "night": "ليلة سعيدة"
+      },
+      "welcome": {
+        "hi": "مرحبًا،",
+        "creator": "الخالق",
+        "desc1": "مرحبًا بك في لوحة تحكم DevFolio. لقد تم الاطلاع على محفظتك من قبل",
+        "desc2": "شخص. استمر في العمل!",
+        "editPortfolio": "تحرير المحفظة"
+      },
+      "stats": {
+        "totalVisitors": "إجمالي الزوار",
+        "projectViews": "تمت المشاهدة (المشروع)",
+        "activeSessions": "جلسة نشطة",
+        "totalLabel": "المجموع"
+      },
+      "setup": {
+        "title": "تقدم الإعداد",
+        "completed": "محفظتك كاملة! 🎉",
+        "inProgress": "خطوات للمحفظة المثالية.",
+        "profile": {
+          "title": "الملف الشخصي الكامل",
+          "desc": "أضف الاسم والسيرة الذاتية وصورة الملف الشخصي."
+        },
+        "section": {
+          "title": "إضافة أقسام",
+          "desc": "قم بتنشيط قسم واحد على الأقل في المحفظة."
+        },
+        "project": {
+          "title": "أضف المشروع",
+          "desc": "أدخل واحدًا على الأقل من أفضل مشاريعك."
+        },
+        "publish": {
+          "title": "نشر المحفظة",
+          "desc": "قم بتعيين عنوان URL مخصص حتى يتمكن الجمهور من الوصول إليه."
+        }
+      },
+      "topProjects": {
+        "title": "المشاريع الأكثر شعبية",
+        "desc": "أداء عملك في عيون الزوار.",
+        "viewAll": "رؤية الكل",
+        "empty": "لا توجد بيانات عرض لمشروعك حتى الآن."
+      }
+    },
+    "themes": {
+      "title": "القوالب والموضوعات",
+      "subtitle": "قم بتخصيص شكل ومظهر محفظتك العامة.",
+      "reset": "إعادة التعيين الافتراضي",
+      "save": "حفظ التغييرات",
+      "saving": "جاري الحفظ...",
+      "chooseTemplate": "اختر قالب",
+      "primaryColor": "اللون الأساسي",
+      "typography": "الطباعة",
+      "appearance": "المظهر",
+      "corners": "الزوايا والحدود",
+      "successTitle": "نجاح",
+      "successMessage": "تم تحديث تفضيلات المظهر بنجاح",
+      "errorTitle": "خطأ",
+      "errorMessage": "فشل حفظ تفضيلات السمة",
+      "templates": {
+        "minimalist": {
+          "name": "الحد الأدنى",
+          "desc": "تصميم نظيف وبسيط يركز على المحتوى."
+        },
+        "developerDark": {
+          "name": "المطور دارك",
+          "desc": "المظهر الداكن مثالي لعرض التعليمات البرمجية والأكوام التقنية."
+        },
+        "creative": {
+          "name": "إبداع",
+          "desc": "تخطيط نابض بالحياة وملون للمصممين والمبدعين."
+        },
+        "executive": {
+          "name": "تنفيذي",
+          "desc": "التخطيط المهني والرسمي لمحترفي الأعمال."
+        },
+        "bentoGrid": {
+          "name": "بينتو جريد",
+          "desc": "تخطيط شبكي حديث على طراز Apple يسلط الضوء على المهارات المختلفة بكفاءة."
+        },
+        "neoBrutalism": {
+          "name": "الوحشية الجديدة",
+          "desc": "حدود جريئة وألوان عالية التباين للحصول على مظهر عصري وغير اعتيادي."
+        },
+        "glassmorphism": {
+          "name": "التشكل الزجاجي",
+          "desc": "تأثيرات زجاجية بلوري على التدرجات الملونة لواجهة مستخدم حديثة وأنيقة."
+        },
+        "linkInBio": {
+          "name": "الرابط في البايو",
+          "desc": "تخطيط رأسي مدمج مُحسّن لشاشات الهاتف المحمول ووسائل التواصل الاجتماعي."
+        }
+      },
+      "appearances": {
+        "light": "نور",
+        "dark": "الظلام",
+        "system": "النظام"
+      },
+      "cornersOptions": {
+        "sharp": "حاد",
+        "rounded": "مدور",
+        "pill": "حبة"
+      }
+    },
+    "feedback": {
+      "title": "إرسال ملاحظات",
+      "subtitle": "ساعدنا في تحسينه من خلال تقديم الاقتراحات أو النقد أو الإبلاغ عن الأخطاء في هذا التطبيق.",
+      "categoryLabel": "فئة التعليقات",
+      "messageLabel": "تفاصيل الرسالة",
+      "messagePlaceholder": "أخبرني بالتفصيل عن التعليقات التي تريد نقلها...",
+      "imageLabel": "مرفق صورة (اختياري)",
+      "imagePlaceholder": "انقر لتحميل الصورة أو لقطة الشاشة",
+      "submitting": "جارٍ الإرسال...",
+      "submitBtn": "إرسال ملاحظات",
+      "categories": {
+        "suggestion": "اقتراحات وأفكار",
+        "bug": "تقرير الأخطاء / الأخطاء",
+        "criticism": "نقد",
+        "other": "أخرى"
+      },
+      "imageErrorTitle": "خطأ",
+      "imageErrorMessage": "تم رفض بعض الملفات لأنها غير مدعومة بتنسيقات صور (JPG، PNG، GIF، WEBP)",
+      "successTitle": "نجاح",
+      "successMessage": "شكرا لتعليقاتك! تم إرسال التقرير.",
+      "submitErrorTitle": "فشل",
+      "submitErrorMessage": "حدث خطأ أثناء إرسال التعليقات. يرجى المحاولة مرة أخرى."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "ْعَنِّي",
+      "skills": "مهارات",
+      "projects": "المشاريع",
+      "workExperience": "خبرة في العمل",
+      "orgExperience": "الخبرة التنظيمية",
+      "education": "تعليم",
+      "certifications": "التدريب والشهادات",
+      "contact": "اتصل بي"
+    },
+    "editor": {
+      "profileInfo": "معلومات الملف الشخصي",
+      "saving": "توفير...",
+      "profilePhoto": "صورة الملف الشخصي",
+      "clickToUpload": "انقر للتحميل (JPG، PNG)",
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "على سبيل المثال ",
+      "bio": "السيرة الذاتية",
+      "bioPlaceholder": "مطور Fullstack لديه شغف لبناء تطبيقات الويب الحديثة...",
+      "location": "موقع",
+      "locationPlaceholder": "على سبيل المثال ",
+      "gender": "جنس",
+      "selectGender": "حدد الجنس",
+      "male": "ذكر",
+      "female": "أنثى",
+      "custom": "مخصص",
+      "customPlaceholder": "اكتب جنسك المخصص...",
+      "uploadCv": "تحميل السيرة الذاتية",
+      "cvFormat": "(DOC أو PDF)",
+      "preview": "معاينة",
+      "remove": "يزيل",
+      "clickToUploadCv": "انقر لتحميل PDF أو DOC",
+      "sections": "الأقسام",
+      "removeSelected": "إزالة المحدد",
+      "confirmRemove": "تأكيد الإزالة",
+      "addSection": "إضافة قسم",
+      "addAllSections": "إضافة كافة الأقسام",
+      "noSections": "لا توجد أقسام بعد",
+      "clickToAdd": "انقر على \"+ إضافة قسم\" للبدء",
+      "selectAll": "حدد الكل",
+      "selected": "مختارة",
+      "dragToReorder": "اسحب لإعادة ترتيب الأقسام",
+      "livePreview": "المعاينة المباشرة",
+      "addSectionsToBuild": "أضف أقسامًا لبناء محفظتك",
+      "now": "الآن",
+      "current": "حاضِر",
+      "noExpiry": "لا انتهاء الصلاحية",
+      "see": "يرى",
+      "position": "موضع",
+      "degree": "درجة",
+      "certification": "شهادة",
+      "sectionsForm": {
+        "about": {
+          "label": "وصف لنفسك",
+          "placeholder": "أخبرنا عن نفسك، خلفيتك، اهتماماتك ومهاراتك..."
+        },
+        "skills": {
+          "addPlaceholder": "اكتب المهارة ثم اضغط على Enter..."
+        },
+        "projects": {
+          "title": "اسم المشروع",
+          "titlePlaceholder": "اسم المشروع...",
+          "url": "عنوان URL للمشروع",
+          "description": "وصف",
+          "descriptionPlaceholder": "وصف مختصر للمشروع...",
+          "uploadThumbnail": "صورة المشروع",
+          "addProject": "أضف المشروع",
+          "projectNum": "مشروع #",
+          "currentProject": "هذا هو المشروع الذي أعمل عليه"
+        },
+        "work": {
+          "company": "الشركة/الوكالة",
+          "companyPlaceholder": "اسم الشركة...",
+          "position": "المنصب/العنوان",
+          "positionPlaceholder": "موقفك...",
+          "employmentType": "نوع العمل",
+          "location": "موقع",
+          "locationPlaceholder": "المدينة، البلد...",
+          "startDate": "يبدأ",
+          "endDate": "انتهى",
+          "currentWork": "ما زلت أعمل في هذه اللحظة",
+          "description": "وصف",
+          "descriptionPlaceholder": "الوصف الوظيفي والمسؤوليات...",
+          "skills": "مهارة",
+          "addExperience": "أضف الخبرة العملية",
+          "experienceNum": "خبرة #",
+          "dateError": "لا يمكن أن يكون تاريخ الانتهاء أقدم من تاريخ البدء"
+        },
+        "org": {
+          "organization": "اسم المنظمة",
+          "orgPlaceholder": "جامعة بيم...",
+          "role": "الدور/المنصب",
+          "rolePlaceholder": "رئيس القسم...",
+          "addOrg": "إضافة الخبرة التنظيمية",
+          "orgNum": "منظمة #"
+        },
+        "edu": {
+          "institution": "المؤسسات التعليمية",
+          "institutionPlaceholder": "اسم الجامعة أو المدرسة...",
+          "degree": "عنوان",
+          "degreePlaceholder": "S1، المدرسة الثانوية، الخ ...",
+          "major": "القسم/مجال الدراسة",
+          "majorPlaceholder": "الهندسة المعلوماتية...",
+          "gpa": "المعدل التراكمي (اختياري)",
+          "currentStudy": "مازلت أتعلم هنا",
+          "descriptionPlaceholder": "الأنشطة والإنجازات أثناء الدراسة...",
+          "addEdu": "أضف التعليم",
+          "eduNum": "تعليم #"
+        },
+        "cert": {
+          "name": "اسم الشهادة / التدريب",
+          "namePlaceholder": "اسم الشهادة...",
+          "issuer": "الناشر",
+          "issuerPlaceholder": "مؤسسة النشر...",
+          "issueDate": "البدء (تاريخ النشر)",
+          "issueDatePlaceholder": "تحديد تاريخ النشر...",
+          "expiryDate": "مكتمل (فترة صالحة)",
+          "expiryDatePlaceholder": "حدد تاريخ انتهاء الصلاحية...",
+          "noExpiry": "هذه الشهادة ليس لها تاريخ انتهاء الصلاحية",
+          "url": "عنوان URL لبيانات الاعتماد",
+          "uploadThumbnail": "صورة الشهادة / التدريب",
+          "uploadThumbnailLimit": "تحميل صورة الشهادة (JPG/PNG/WEBP، بحد أقصى 2 ميجابايت)",
+          "addCert": "إضافة شهادة",
+          "certNum": "رقم الشهادة"
+        },
+        "contact": {
+          "contactNum": "اتصال #",
+          "platform": "منصة",
+          "displayText": "عرض النص",
+          "displayTextPlaceholder": "على سبيل المثال، you@email.com أو @username",
+          "url": "الرابط (عنوان URL)",
+          "urlPlaceholderWhatsapp": "على سبيل المثال، 62812... (بدون بداية 0)",
+          "urlPlaceholderEmail": "على سبيل المثال، you@email.com",
+          "urlPlaceholderWebsite": "على سبيل المثال، https://...",
+          "urlPlaceholderDefault": "على سبيل المثال، اسم المستخدم",
+          "addContact": "إضافة جهة اتصال"
+        },
+        "common": {
+          "months": {
+            "1": "يناير",
+            "2": "فبراير",
+            "3": "يمشي",
+            "4": "أبريل",
+            "5": "يمكن",
+            "6": "يونيو",
+            "7": "يوليو",
+            "8": "أغسطس",
+            "9": "سبتمبر",
+            "10": "أكتوبر",
+            "11": "نوفمبر",
+            "12": "ديسمبر"
+          },
+          "month": "شهر",
+          "year": "سنة",
+          "invalidDate": "شهر نهاية غير صالح",
+          "words": "كلمات"
+        }
+      },
+      "sure": "بالتأكيد",
+      "deletePhotoTitle": "هل تريد حذف الصورة الشخصية؟",
+      "deletePhotoMessage": "هل أنت متأكد أنك تريد حذف صورة الملف الشخصي هذه؟",
+      "cancel": "يلغي",
+      "delete": "يمسح"
+    },
+    "cropper": {
+      "chooseBackground": "اختر الخلفية",
+      "cropPhoto": "قص صورتك",
+      "useOriginal": "استخدم الأصلي",
+      "backgroundPresets": "الإعدادات المسبقة للخلفية",
+      "none": "لا أحد",
+      "uploadBackground": "تحميل الخلفية",
+      "cancel": "يلغي",
+      "savePhoto": "حفظ الصورة",
+      "zoom": "تكبير",
+      "rotationTilt": "الدوران والميل",
+      "resetRotation": "إعادة تعيين إلى 0 درجة",
+      "center": "مركز",
+      "rotateLeft": "تدوير -90 درجة",
+      "rotateRight": "تدوير +90 درجة",
+      "removeBackground": "إزالة الخلفية",
+      "processing": "جارٍ معالجة الصورة، يرجى الانتظار..."
+    },
+    "cvPreview": {
+      "title": "معاينة السيرة الذاتية",
+      "downloadCv": "تحميل السيرة الذاتية",
+      "download": "تحميل",
+      "wordCannotPreview": "لا يمكن معاينة مستندات Word (.doc/.docx) محليًا في المستعرض. ",
+      "downloadFile": "تحميل ملف السيرة الذاتية",
+      "back": "خلف",
+      "mobileMessage": "يرجى تنزيل ملف السيرة الذاتية لمعاينته.",
+      "preview": "معاينة السيرة الذاتية",
+      "wordPreviewTitle": "معاينة مستند Word",
+      "wordPreviewMessage": "لا يمكن معاينة مستندات Word (.doc/.docx) محليًا في المستعرض. يرجى تنزيل الملف لمشاهدته."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "اكتب وصفًا موجزًا ​​عن نفسك واهتماماتك وأهدافك المهنية..."
+    },
+    "skills": {
+      "placeholder": "اكتب اسم المهارة...",
+      "add": "يضيف",
+      "enterToAdd": "اضغط على Enter للإضافة",
+      "noSkills": "لم تتم إضافة أي مهارات حتى الآن."
+    },
+    "projects": {
+      "projectName": "اسم المشروع",
+      "projectNamePlaceholder": "على سبيل المثال ",
+      "projectUrl": "عنوان URL للمشروع",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "مدة",
+      "startMonth": "شهر البدء",
+      "startYear": "بداية السنة",
+      "endMonth": "نهاية الشهر",
+      "endYear": "نهاية العام",
+      "currentlyWorking": "تعمل حاليا على هذا",
+      "description": "وصف",
+      "descriptionPlaceholder": "قم بوصف المشروع ودورك وإنجازاتك...",
+      "technologies": "التقنيات المستخدمة",
+      "addProject": "أضف المشروع",
+      "image": "صورة المشروع",
+      "removeImage": "إزالة الصورة",
+      "uploadImage": "انقر لتحميل الصورة"
+    },
+    "work": {
+      "company": "الشركة/المؤسسة",
+      "companyPlaceholder": "اسم الشركة...",
+      "role": "الدور/المنصب",
+      "rolePlaceholder": "موقفك...",
+      "jobType": "نوع الوظيفة",
+      "selectJobType": "اختر النوع",
+      "fullTime": "بدوام كامل",
+      "partTime": "دوام جزئى",
+      "contract": "عقد",
+      "internship": "التدريب الداخلي",
+      "freelance": "مستقل",
+      "location": "موقع",
+      "locationPlaceholder": "على سبيل المثال ",
+      "duration": "مدة",
+      "currentlyWorking": "تعمل حاليا هنا",
+      "description": "المسمى الوظيفي",
+      "descriptionPlaceholder": "قم بوصف مسؤولياتك وإنجازاتك الرئيسية...",
+      "skills": "مهارات محددة",
+      "addExperience": "أضف الخبرة"
+    },
+    "org": {
+      "organization": "اسم المنظمة",
+      "organizationPlaceholder": "اسم المنظمة...",
+      "role": "الدور/المنصب",
+      "rolePlaceholder": "على سبيل المثال ",
+      "duration": "مدة",
+      "periodFormat": "أو تنسيق مجاني (على سبيل المثال، 2020 - 2022)",
+      "periodPlaceholder": "على سبيل المثال ",
+      "currentlyActive": "نشطة حاليا",
+      "description": "وصف النشاط",
+      "descriptionPlaceholder": "قم بوصف أنشطتك أو مساهماتك...",
+      "addExperience": "أضف الخبرة"
+    },
+    "education": {
+      "institution": "اسم المؤسسة",
+      "institutionPlaceholder": "اسم المدرسة أو الجامعة...",
+      "degree": "الدرجة / المستوى",
+      "degreePlaceholder": "على سبيل المثال ",
+      "major": "التخصص / مجال الدراسة",
+      "majorPlaceholder": "على سبيل المثال ",
+      "gpa": "المعدل التراكمي / الصف",
+      "gpaPlaceholder": "على سبيل المثال ",
+      "duration": "مدة التعليم",
+      "periodFormat": "أو التنسيق المجاني (على سبيل المثال، 2018 - 2022)",
+      "periodPlaceholder": "على سبيل المثال ",
+      "currentlyStudying": "تدرس حاليا هنا",
+      "description": "الأنشطة / التكريم",
+      "descriptionPlaceholder": "وصف الأنشطة الأكاديمية أو المنظمات أو الأوسمة التي تلقيتها...",
+      "addEducation": "أضف التعليم"
+    },
+    "cert": {
+      "name": "اسم الشهادة",
+      "namePlaceholder": "على سبيل المثال ",
+      "issuer": "منظمة الإصدار",
+      "issuerPlaceholder": "على سبيل المثال ",
+      "issueDate": "تاريخ الإصدار",
+      "expiryDate": "صالحة حتى",
+      "noExpiry": "لا تنتهي صلاحية بيانات الاعتماد هذه",
+      "yearPlaceholder": "أو السنة (على سبيل المثال 2023)",
+      "credentialUrl": "عنوان URL لبيانات الاعتماد",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "المهارات ذات الصلة",
+      "addCertification": "إضافة شهادة",
+      "image": "الصورة/الشعار",
+      "removeImage": "إزالة الصورة",
+      "uploadImage": "انقر لتحميل الصورة"
+    },
+    "common": {
+      "months": {
+        "1": "يناير",
+        "2": "فبراير",
+        "3": "يمشي",
+        "4": "أبريل",
+        "5": "يمكن",
+        "6": "يونيو",
+        "7": "يوليو",
+        "8": "أغسطس",
+        "9": "سبتمبر",
+        "10": "أكتوبر",
+        "11": "نوفمبر",
+        "12": "ديسمبر"
+      },
+      "month": "شهر",
+      "year": "سنة",
+      "invalidDate": "شهر نهاية غير صالح",
+      "words": "كلمات"
+    }
+  },
+  "settings": {
+    "title": "إعدادات",
+    "subtitle": "إدارة ملف تعريف محفظتك والتفضيلات",
+    "tabs": {
+      "profile": "ملفي الشخصي",
+      "security": "حماية",
+      "personalization": "التخصيص"
+    },
+    "profile": {
+      "infoTitle": "المعلومات الأساسية",
+      "photo": "صورة الملف الشخصي",
+      "uploadPhoto": "تغيير الصورة",
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "جون دو",
+      "email": "عنوان البريد الإلكتروني",
+      "emailPlaceholder": "جون@example.com",
+      "emailHelp": "يتم استخدام البريد الإلكتروني لتسجيل الدخول ولا يتم عرضه للعامة.",
+      "portfolioUrl": "عنوان URL للمحفظة",
+      "saveProfile": "حفظ الملف الشخصي",
+      "save": "حفظ الملف الشخصي",
+      "accountCreated": "تم إنشاء الحساب",
+      "lastLogin": "تسجيل الدخول الأخير",
+      "oauthNotice": "هذا الملف الشخصي متصل بحسابك على {{provider}}. يجب إجراء تغييرات الملف الشخصي من خلال مزود الخدمة."
+    },
+    "security": {
+      "changePassword": "تغيير كلمة المرور",
+      "currentPassword": "كلمة المرور الحالية",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "كلمة المرور الجديدة",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "تأكيد كلمة المرور الجديدة",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "ما لا يقل عن 8 أحرف",
+        "uppercase": "حرف واحد كبير (A-Z)",
+        "number": "رقم واحد (0-9)",
+        "symbol": "رمز واحد (!@#$%^&*)"
+      },
+      "passwordTitle": "كلمة المرور",
+      "updatePassword": "تحديث كلمة المرور",
+      "additionalSecurity": "أمان إضافي",
+      "twoFactor": "المصادقة الثنائية (2FA)",
+      "twoFactorDesc": "قم بتأمين حسابك باستخدام رمز OTP إضافي.",
+      "activeSessions": "الجلسات النشطة",
+      "activeSessionsDesc": "السماح دائمًا بمراقبة الأجهزة التي تم تسجيل الدخول إليها.",
+      "publicVisibility": "الرؤية العامة",
+      "hideFromSearch": "إخفاء المحفظة من محركات البحث",
+      "hideFromSearchDesc": "منع Google من فهرسة صفحة محفظتك العامة.",
+      "disable2fa": {
+        "title": "تعطيل المصادقة الثنائية (2FA).",
+        "description": "هل أنت متأكد أنك تريد إيقاف تشغيل المصادقة الثنائية؟",
+        "confirmPasswordLabel": "أدخل كلمة المرور الخاصة بك للتأكيد",
+        "currentPasswordPlaceholder": "كلمة المرور الحالية",
+        "cancelButton": "إلغاء",
+        "confirmButton": "تعطيل المصادقة الثنائية (2FA).",
+        "incorrectPassword": "كلمة مرور غير صحيحة."
+      },
+      "setup2fa": {
+        "step1Title": "1. مسح رمز الاستجابة السريعة",
+        "step1Desc": "افتح تطبيق المصادقة الخاص بك وقم بمسح رمز الاستجابة السريعة التالي:",
+        "unableToScan": "غير قادر على المسح؟ استخدم مفتاح الإعداد",
+        "step2Title": "2. التحقق من الرمز",
+        "step2Desc": "أدخل الرمز المكون من 6 أرقام الذي أنشأه تطبيقك:",
+        "cancelButton": "يلغي",
+        "enableButton": "تمكين 2FA",
+        "invalidLength": "الرجاء إدخال رمز مكون من 6 أرقام.",
+        "invalidCode": "رمز التحقق غير صالح. يرجى المحاولة مرة أخرى."
+      }
+    },
+    "personalization": {
+      "languageTitle": "ضوابط اللغة",
+      "appLanguage": "لغة التطبيق",
+      "layoutTitle": "التخطيط والطباعة",
+      "layoutStyle": "نمط التخطيط",
+      "layoutModern": "النمط الحديث (افتراضي)",
+      "layoutClassic": "النمط الكلاسيكي",
+      "layoutMinimalist": "أسلوب الحد الأدنى",
+      "fontSize": "حجم خط التطبيق",
+      "fontSmall": "صغير",
+      "fontNormal": "عادي (متوسط)",
+      "fontLarge": "كبير",
+      "searchLanguage": "لغة البحث...",
+      "languageNotFound": "لم يتم العثور على اللغة",
+      "layoutElegant": "نمط أنيق"
+    },
+    "saveChanges": "حفظ التغييرات",
+    "cancel": "يلغي",
+    "appSettings": "إعدادات التطبيق",
+    "logoutConfirmTitle": "تأكيد الخروج",
+    "logoutConfirmDesc": "هل أنت متأكد أنك تريد تسجيل الخروج من النظام؟",
+    "logoutConfirmYes": "نعم، تسجيل الخروج",
+    "generalError": "حدث خطأ. ",
+    "success": "نجاح",
+    "preferencesSaved": "تم حفظ تفضيلات التطبيق بنجاح.",
+    "header": "إعدادات التطبيق",
+    "logout": {
+      "title": "تأكيد الخروج",
+      "message": "هل أنت متأكد أنك تريد تسجيل الخروج من النظام؟",
+      "confirm": "نعم، تسجيل الخروج"
+    },
+    "about": {
+      "title": "حول التطبيق",
+      "subtitle": "منصة بناء المحفظة",
+      "version": "إصدار",
+      "description": "DevFolio عبارة عن منصة حديثة لإنشاء المحفظة مصممة للمطورين والمصممين والمبدعين المحترفين. ",
+      "license": "الترخيص وحقوق التأليف والنشر",
+      "copyright": "© 2026 شركة DevFolio Inc. جميع الحقوق محفوظة.",
+      "developer": "المطور",
+      "developedBy": "تم تطويره بواسطة رفقي ناراداتا"
+    },
+    "deleteAccount": {
+      "title": "حذف الحساب نهائيا",
+      "menuItem": "حذف الحساب",
+      "successTitle": "نجاح",
+      "successMessage": "تم إرسال رسالة تأكيد بالبريد الإلكتروني لحذف الحساب.",
+      "errorTitle": "فشل",
+      "errorMessage": "فشل في إرسال رسالة تأكيد بالبريد الإلكتروني.",
+      "confirmationMessage": "هل أنت متأكد أنك تريد حذف حسابك نهائيا؟",
+      "warningMessage1": "ستتلقى بريدًا إلكترونيًا لتأكيد حذف الحساب.",
+      "warningMessage2": "في حالة التأكيد، سيتم حذف جميع البيانات (المحفظة والمشاريع والإحصائيات) نهائيًا ولا يمكن استعادتها.",
+      "cancel": "إلغاء",
+      "confirm": "تأكيد"
+    },
+    "toasts": {
+      "toastError": "خطأ",
+      "toastSuccess": "نجاح",
+      "toastSetup2FAFailed": "فشل في إعداد 2FA. يرجى المحاولة مرة أخرى.",
+      "toast2FAEnabled": "تم تمكين المصادقة الثنائية.",
+      "toast2FADisabled": "تم تعطيل المصادقة الثنائية.",
+      "toastSessionEnabled": "تم تمكين مراقبة الجلسة النشطة.",
+      "toastSessionDisabled": "تم تعطيل مراقبة الجلسة النشطة.",
+      "toastSetupKeyCopied": "تم نسخ مفتاح الإعداد إلى الحافظة."
+    },
+    "privacy": {
+      "title": "سياسة الخصوصية",
+      "updateDate": "آخر تحديث: 15 يوليو 2026",
+      "intro": "تشرح سياسة الخصوصية هذه كيف تقوم DevFolio بجمع معلوماتك الشخصية واستخدامها وحمايتها عند استخدام خدماتنا.",
+      "section1Title": "1. المعلومات التي نجمعها",
+      "section1Content": "نقوم بجمع المعلومات التي تقدمها مباشرة عند إنشاء حساب وإنشاء محفظة والاتصال بدعمنا. ",
+      "section2Title": "2. استخدام المعلومات",
+      "section2Content": "يتم استخدام معلوماتك لتشغيل ميزات خدماتنا وصيانتها وتوفيرها، وكذلك للتواصل معك بخصوص حسابك أو خدماتك.",
+      "section3Title": "3. أمن البيانات",
+      "section3Content": "نحن ننفذ إجراءات أمنية معقولة لحماية معلوماتك من الوصول غير المصرح به أو الكشف عنها أو تدميرها."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "لم يتم العثور على رمز التأكيد.",
+    "defaultError": "فشل في حذف الحساب. ربما انتهت صلاحية الرمز المميز.",
+    "loadingTitle": "جارٍ حذف الحساب...",
+    "loadingMessage": "من فضلك انتظر، نحن نقوم بمعالجة طلبك.",
+    "successTitle": "تم حذف الحساب بنجاح",
+    "successMessage": "تم حذف جميع بياناتك نهائيًا. سيتم إعادة توجيهك...",
+    "errorTitle": "فشل في حذف الحساب",
+    "backToHome": "العودة إلى المنزل"
+  },
+  "forgotPassword": {
+    "minutes": "دقائق",
+    "seconds": "ثواني",
+    "success": "نجاح",
+    "otpSentToEmail": "تم إرسال رمز OTP إلى بريدك الإلكتروني.",
+    "failed": "فشل",
+    "emailNotFound": "لم يتم العثور على البريد الإلكتروني.",
+    "emailThirdParty": "تم تسجيل هذا البريد الإلكتروني من خلال طرف ثالث.",
+    "genericError": "هناك خطأ. يرجى المحاولة مرة أخرى.",
+    "otpVerified": "تم التحقق من رمز OTP بنجاح.",
+    "otpExpired": "لقد انتهت صلاحية رمز OTP. الرجاء طلب رمز جديد.",
+    "otpInvalid": "رمز OTP غير صالح.",
+    "otpResent": "تم إرسال رمز OTP جديد إلى بريدك الإلكتروني.",
+    "otpResendFailed": "فشل في إعادة إرسال رمز OTP. يرجى المحاولة مرة أخرى.",
+    "passwordResetSuccess": "تمت إعادة تعيين كلمة المرور بنجاح. الرجاء تسجيل الدخول باستخدام كلمة المرور الجديدة الخاصة بك.",
+    "passwordResetFailed": "فشل في إعادة تعيين كلمة المرور.",
+    "backToLogin": "العودة إلى تسجيل الدخول",
+    "back": "العودة",
+    "title": "نسيت كلمة المرور",
+    "description": "أدخل عنوان البريد الإلكتروني المسجل في حسابك. سوف نقوم بإرسال رمز OTP لإعادة تعيين كلمة المرور.",
+    "emailLabel": "عنوان البريد الإلكتروني",
+    "sending": "جارٍ الإرسال...",
+    "sendOtp": "أرسل رمز OTP",
+    "verifyOtpTitle": "التحقق من رمز OTP",
+    "verifyOtpDesc": "أدخل الرمز المكون من 6 أرقام الذي تم إرساله إلى بريدك الإلكتروني لتأكيد هويتك.",
+    "verifying": "جاري التحقق...",
+    "verifyOtp": "التحقق من كلمة المرور لمرة واحدة",
+    "resending": "إعادة الإرسال...",
+    "resendOtp": "إعادة إرسال رمز OTP",
+    "resendCodeIn": "أعد إرسال الرمز في",
+    "newPasswordTitle": "إنشاء كلمة مرور جديدة",
+    "newPasswordDesc": "قم بإنشاء كلمة مرور جديدة وقوية لتأمين حسابك.",
+    "newPasswordLabel": "كلمة المرور الجديدة",
+    "min8Chars": "الحد الأدنى 8 أحرف",
+    "oneUpperCase": "1 حرف كبير (من الألف إلى الياء)",
+    "oneNumber": "1 رقم (0-9)",
+    "oneSymbol": "رمز واحد (!@#$%^&*)",
+    "confirmPasswordLabel": "تأكيد كلمة المرور",
+    "passwordsDoNotMatch": "كلمات المرور غير متطابقة.",
+    "resettingPassword": "إعادة تعيين كلمة المرور...",
+    "resetPassword": "إعادة تعيين كلمة المرور"
+  },
+  "verifyEmail": {
+    "resendError": "فشل في إعادة إرسال البريد الإلكتروني للتحقق. يرجى المحاولة مرة أخرى.",
+    "checkingStatus": "جارٍ التحقق من حالة التحقق...",
+    "title": "تحقق من بريدك الإلكتروني",
+    "description": "لقد أرسلنا رسالة تحقق إلى عنوان بريدك الإلكتروني. يرجى فتح البريد الإلكتروني والنقر على الزر <1>\"تأكيد الحساب\"</1> لتنشيط حسابك.",
+    "stepsTitle": "الخطوات",
+    "step1": "افتح تطبيق البريد الإلكتروني الخاص بك (Gmail، Yahoo، إلخ)",
+    "step2": "ابحث عن رسالة بريد إلكتروني من DevFolio بعنوان \"تنشيط الحساب\"",
+    "step3": "انقر فوق الزر \"تأكيد الحساب\" في البريد الإلكتروني",
+    "step4": "سيتم توجيهك إلى صفحة تسجيل الدخول للدخول",
+    "resendSuccess": "تمت إعادة إرسال رسالة التحقق الإلكترونية!",
+    "resending": "إعادة الإرسال...",
+    "resendButton": "إعادة إرسال البريد الإلكتروني للتحقق",
+    "backToLogin": "العودة إلى صفحة تسجيل الدخول",
+    "footerNote": "لم تتلق البريد الإلكتروني؟ تحقق من مجلد <1>البريد العشوائي</1> أو <2>البريد غير الهام</2> في بريدك الإلكتروني. رابط التحقق صالح لمدة <3>24 ساعة</3>."
+  }
+}

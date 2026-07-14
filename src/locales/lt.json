@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Savybės",
+    "templates": "Šablonai",
+    "pricing": "Kainodara",
+    "login": "Prisijungti",
+    "getStarted": "Pradėkite",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Geriausias portfelio kūrėjas kūrėjams",
+    "title1": "Sukurkite savo profesionalumą",
+    "title2": "portfelyje",
+    "titleHighlight": "sekundžių.",
+    "subtitle": "Viskas, ko reikia norint parodyti savo įgūdžius, projektus ir patirtį. ",
+    "startBuilding": "Pradėkite kurti dabar",
+    "viewTemplates": "Peržiūrėti šablonus",
+    "fastDeployment": "Greitas diegimas",
+    "liveStatus": "username.dev yra tiesiogiai!",
+    "featuresTitle": "Galingos savybės",
+    "featuresSubtitle": "Suteikiame visus įrankius, kurių jums reikia norint išsiskirti iš minios ir įgyti svajonių darbą.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Lengvai tvarkykite skyrius, projektus ir įgūdžius naudodami mūsų intuityvią vaizdo redaktorių.",
+    "feature2Title": "Pasirinktinės temos",
+    "feature2Desc": "Pasirinkite iš profesionaliai sukurtų šablonų arba sukurkite savo unikalų vaizdą.",
+    "feature3Title": "Analizė realiuoju laiku",
+    "feature3Desc": "Stebėkite savo lankytojus, sužinokite, kurie projektai sulaukia daugiausia dėmesio ir dar daugiau."
+  },
+  "auth": {
+    "welcomeBack": "Sveiki sugrįžę",
+    "loginToContinue": "Jei norite tęsti, prisijunkite prie savo paskyros",
+    "createAccount": "Sukurti paskyrą",
+    "joinCommunity": "Prisijunkite prie tūkstančių kitų kūrėjų",
+    "fullName": "Pilnas vardas",
+    "fullNamePlaceholder": "pvz. ",
+    "email": "El. pašto adresas",
+    "emailPlaceholder": "tu@example.com",
+    "password": "Slaptažodis",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Prisimink mane",
+    "forgotPassword": "Pamiršote slaptažodį?",
+    "signIn": "Prisijunkite",
+    "signingIn": "Prisijungiama...",
+    "signUp": "Registruotis",
+    "signingUp": "Prisiregistruojama...",
+    "noAccount": "Neturite paskyros?",
+    "hasAccount": "Jau turite paskyrą?",
+    "passwordRules": {
+      "title": "Slaptažodyje turi būti:",
+      "length": "Bent 8 simboliai",
+      "uppercase": "Viena didžioji raidė (A-Z)",
+      "number": "Vienas skaičius (0-9)",
+      "symbol": "Vienas simbolis (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfelio kūrėjas",
+      "templates": "Šablonai ir temos",
+      "settings": "Nustatymai",
+      "collapse": "Sutraukti šoninę juostą",
+      "overview": "Apžvalga",
+      "profileSettings": "Profilio nustatymai",
+      "customDomain": "Pasirinktinis domenas",
+      "feedback": "Atsiliepimai"
+    },
+    "header": {
+      "viewLive": "Žiūrėti gyvai",
+      "welcome": "Sveiki atvykę,",
+      "logout": "Atsijungti",
+      "builder": "Statybininkas",
+      "livePortfolio": "Tiesioginis portfelis",
+      "live": "Tiesiogiai"
+    },
+    "logoutModal": {
+      "title": "Atsijungti",
+      "message": "Ar tikrai norite atsijungti nuo paskyros? ",
+      "cancel": "Atšaukti",
+      "confirm": "Taip, Atsijungti"
+    },
+    "slugModal": {
+      "title": "Pasirinkite savo portfelio URL",
+      "message": "Šis URL bus unikali nuoroda į jūsų portfelį. ",
+      "slugPlaceholder": "tavo vardas",
+      "availability": "Prieinamumas:",
+      "available": "Galima",
+      "unavailable": "Nepasiekiamas",
+      "checking": "Tikrinama...",
+      "mustFormat": "Gali būti tik raidės, skaičiai ir brūkšneliai (-)",
+      "cancel": "Atšaukti",
+      "save": "Išsaugoti URL",
+      "usernameUrl": "Vartotojo vardo URL",
+      "helpText": "Mažosios raidės, skaičiai ir brūkšniai. ",
+      "validation": {
+        "empty": "Šliužas negali būti tuščias.",
+        "min3": "Mažiausiai 3 simboliai.",
+        "max30": "Daugiausia 30 simbolių.",
+        "format": "Tik mažosios raidės, skaičiai ir brūkšneliai (-). "
+      }
+    },
+    "loadingPortfolio": "Įkeliami portfelio duomenys...",
+    "overview": {
+      "greetings": {
+        "morning": "Labas rytas",
+        "afternoon": "Laba diena",
+        "evening": "Laba diena",
+        "night": "Labanakt"
+      },
+      "welcome": {
+        "hi": "Sveiki,",
+        "creator": "Kūrėjas",
+        "desc1": "Sveiki atvykę į „DevFolio“ prietaisų skydelį. Jūsų aplanką peržiūrėjo",
+        "desc2": "asmuo. Dirbk toliau!",
+        "editPortfolio": "Redaguoti aplanką"
+      },
+      "stats": {
+        "totalVisitors": "Iš viso lankytojų",
+        "projectViews": "Peržiūrėta (projektas)",
+        "activeSessions": "Aktyvi sesija",
+        "totalLabel": "Iš viso"
+      },
+      "setup": {
+        "title": "Sąrankos eiga",
+        "completed": "Jūsų portfelis baigtas! 🎉",
+        "inProgress": "Žingsniai iki tobulo portfelio.",
+        "profile": {
+          "title": "Užbaigti profilį",
+          "desc": "Pridėkite vardą, biografiją ir profilio nuotrauką."
+        },
+        "section": {
+          "title": "Pridėti skyrius",
+          "desc": "Suaktyvinkite bent 1 portfelio skyrių."
+        },
+        "project": {
+          "title": "Pridėti projektą",
+          "desc": "Įveskite bent 1 iš savo geriausių projektų."
+        },
+        "publish": {
+          "title": "Paskelbkite aplanką",
+          "desc": "Nustatykite tinkintą URL, kad jį galėtų pasiekti vieša."
+        }
+      },
+      "topProjects": {
+        "title": "Populiariausi projektai",
+        "desc": "Jūsų darbų atlikimas lankytojų akimis.",
+        "viewAll": "Žiūrėti viską",
+        "empty": "Dar nėra jūsų projekto peržiūros duomenų."
+      }
+    },
+    "themes": {
+      "title": "Šablonai ir temos",
+      "subtitle": "Tinkinkite savo viešojo portfelio išvaizdą.",
+      "reset": "Atstatyti numatytuosius nustatymus",
+      "save": "Išsaugoti pakeitimus",
+      "saving": "Išsaugoma...",
+      "chooseTemplate": "Pasirinkite šabloną",
+      "primaryColor": "Pagrindinė spalva",
+      "typography": "Tipografija",
+      "appearance": "Išvaizda",
+      "corners": "Kampai ir sienos",
+      "successTitle": "Sėkmės",
+      "successMessage": "Temos nuostatos sėkmingai atnaujintos",
+      "errorTitle": "Klaida",
+      "errorMessage": "Nepavyko išsaugoti temos nuostatų",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistinis",
+          "desc": "Švarus ir paprastas dizainas, sutelktas į turinį."
+        },
+        "developerDark": {
+          "name": "Kūrėjas Dark",
+          "desc": "Tamsi tema puikiai tinka kodo ir technologijų krūvoms rodyti."
+        },
+        "creative": {
+          "name": "Kūrybinis",
+          "desc": "Ryškus ir spalvingas maketas dizaineriams ir kūrybingiems žmonėms."
+        },
+        "executive": {
+          "name": "Vykdomoji",
+          "desc": "Profesionalus ir oficialus maketavimas verslo profesionalams."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Modernus Apple stiliaus tinklelio išdėstymas, efektyviai išryškinantis skirtingus įgūdžius."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutalizmas",
+          "desc": "Ryškios kraštinės ir didelio kontrasto spalvos suteikia madingą, nepaprastą išvaizdą."
+        },
+        "glassmorphism": {
+          "name": "Stiklo morfizmas",
+          "desc": "Matinio stiklo efektai per spalvingus gradientus, kad būtų aptaki moderni vartotojo sąsaja."
+        },
+        "linkInBio": {
+          "name": "Nuoroda biografijoje",
+          "desc": "Kompaktiškas vertikalus išdėstymas, optimizuotas mobiliųjų įrenginių ekranams ir socialinei žiniasklaidai."
+        }
+      },
+      "appearances": {
+        "light": "Šviesa",
+        "dark": "Tamsus",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Aštri",
+        "rounded": "Suapvalintas",
+        "pill": "Tabletė"
+      }
+    },
+    "feedback": {
+      "title": "Siųsti atsiliepimą",
+      "subtitle": "Padėkite mums tai padaryti geriau, pateikdami pasiūlymus, kritikuodami arba pranešdami apie šios programos klaidas.",
+      "categoryLabel": "Atsiliepimų kategorija",
+      "messageLabel": "Išsami pranešimo informacija",
+      "messagePlaceholder": "Papasakokite man išsamiai apie atsiliepimus, kuriuos norite perduoti...",
+      "imageLabel": "Vaizdo priedas (pasirenkamas)",
+      "imagePlaceholder": "Spustelėkite, kad įkeltumėte vaizdą arba ekrano kopiją",
+      "submitting": "Siunčiama...",
+      "submitBtn": "Siųsti atsiliepimą",
+      "categories": {
+        "suggestion": "Pasiūlymai ir idėjos",
+        "bug": "Pranešimas apie riktą / klaidą",
+        "criticism": "Kritika",
+        "other": "Kiti"
+      },
+      "imageErrorTitle": "Klaida",
+      "imageErrorMessage": "Kai kurie failai atmetami, nes nepalaikomi vaizdo formatai (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Sėkmės",
+      "successMessage": "Dėkojame už atsiliepimą! Pranešimas išsiųstas.",
+      "submitErrorTitle": "Nepavyko",
+      "submitErrorMessage": "Siunčiant atsiliepimą įvyko klaida. Bandykite dar kartą."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Apie mane",
+      "skills": "Įgūdžiai",
+      "projects": "Projektai",
+      "workExperience": "Darbo patirtis",
+      "orgExperience": "Organizacinė patirtis",
+      "education": "Išsilavinimas",
+      "certifications": "Mokymai ir sertifikatai",
+      "contact": "Susisiekite su manimi"
+    },
+    "editor": {
+      "profileInfo": "Profilio informacija",
+      "saving": "Išsaugoma...",
+      "profilePhoto": "Profilio nuotrauka",
+      "clickToUpload": "Spustelėkite, kad įkeltumėte (JPG, PNG)",
+      "fullName": "Pilnas vardas",
+      "fullNamePlaceholder": "pvz. ",
+      "bio": "Biografija",
+      "bioPlaceholder": "„Fullstack“ kūrėjas, kuriam aistra kuria modernias žiniatinklio programas...",
+      "location": "Vieta",
+      "locationPlaceholder": "pvz. ",
+      "gender": "Lytis",
+      "selectGender": "Pasirinkite Lytis",
+      "male": "Vyriška",
+      "female": "Moteris",
+      "custom": "Pasirinktinis",
+      "customPlaceholder": "Įveskite tinkintą lytį...",
+      "uploadCv": "Įkelti CV",
+      "cvFormat": "(DOC arba PDF)",
+      "preview": "Peržiūra",
+      "remove": "Pašalinti",
+      "clickToUploadCv": "Spustelėkite norėdami įkelti PDF arba DOC",
+      "sections": "Skyriai",
+      "removeSelected": "Pašalinti pasirinktus",
+      "confirmRemove": "Patvirtinkite Pašalinti",
+      "addSection": "Pridėti skyrių",
+      "addAllSections": "Pridėti visus skyrius",
+      "noSections": "Skyrių dar nėra",
+      "clickToAdd": "Norėdami pradėti, spustelėkite „+ Pridėti skyrių“.",
+      "selectAll": "Pasirinkite Viskas",
+      "selected": "Pasirinkta",
+      "dragToReorder": "Norėdami pertvarkyti skyrius, vilkite",
+      "livePreview": "Tiesioginė peržiūra",
+      "addSectionsToBuild": "Pridėkite skyrių, kad sukurtumėte savo portfelį",
+      "now": "Dabar",
+      "current": "Dabartinė",
+      "noExpiry": "Nėra galiojimo pabaigos",
+      "see": "Žr",
+      "position": "Padėtis",
+      "degree": "Laipsnis",
+      "certification": "Sertifikavimas",
+      "sectionsForm": {
+        "about": {
+          "label": "Savęs aprašymas",
+          "placeholder": "Papasakokite apie save, savo kilmę, pomėgius ir įgūdžius..."
+        },
+        "skills": {
+          "addPlaceholder": "Įveskite įgūdžius, tada paspauskite Enter..."
+        },
+        "projects": {
+          "title": "Projekto pavadinimas",
+          "titlePlaceholder": "Projekto pavadinimas...",
+          "url": "Projekto URL",
+          "description": "Aprašymas",
+          "descriptionPlaceholder": "Trumpas projekto aprašymas...",
+          "uploadThumbnail": "Projekto vaizdas",
+          "addProject": "Pridėti projektą",
+          "projectNum": "Projektas Nr.",
+          "currentProject": "Tai projektas, prie kurio aš dirbu"
+        },
+        "work": {
+          "company": "Įmonė/agentūra",
+          "companyPlaceholder": "Įmonės pavadinimas...",
+          "position": "Pareigos / Pavadinimas",
+          "positionPlaceholder": "Jūsų pozicija...",
+          "employmentType": "Darbo tipas",
+          "location": "Vieta",
+          "locationPlaceholder": "Miestas, Šalis...",
+          "startDate": "Pradėti",
+          "endDate": "Baigta",
+          "currentWork": "Šiuo metu vis dar dirbu",
+          "description": "Aprašymas",
+          "descriptionPlaceholder": "Darbo aprašymas ir pareigos...",
+          "skills": "Įgūdis",
+          "addExperience": "Pridėti darbo patirtį",
+          "experienceNum": "Patirtis #",
+          "dateError": "Pabaigos data negali būti ankstesnė nei pradžios data"
+        },
+        "org": {
+          "organization": "Organizacijos pavadinimas",
+          "orgPlaceholder": "BEM universitetas...",
+          "role": "Vaidmuo/pozicija",
+          "rolePlaceholder": "Skyriaus vadovas...",
+          "addOrg": "Pridėti organizacinę patirtį",
+          "orgNum": "Organizacijos Nr."
+        },
+        "edu": {
+          "institution": "Švietimo įstaigos",
+          "institutionPlaceholder": "Universiteto ar mokyklos pavadinimas...",
+          "degree": "Pavadinimas",
+          "degreePlaceholder": "S1, vidurinė mokykla ir kt...",
+          "major": "Katedra/Studijų sritis",
+          "majorPlaceholder": "Informatikos inžinerija...",
+          "gpa": "GPA (neprivaloma)",
+          "currentStudy": "Aš vis dar mokausi čia",
+          "descriptionPlaceholder": "Veikla ir pasiekimai studijų metu...",
+          "addEdu": "Pridėti išsilavinimą",
+          "eduNum": "Išsilavinimas Nr."
+        },
+        "cert": {
+          "name": "Sertifikato / mokymo pavadinimas",
+          "namePlaceholder": "Sertifikato pavadinimas...",
+          "issuer": "Leidėjas",
+          "issuerPlaceholder": "Leidybos įstaiga...",
+          "issueDate": "Pradžia (paskelbimo data)",
+          "issueDatePlaceholder": "Pasirinkite paskelbimo datą...",
+          "expiryDate": "Užbaigta (galiojantis laikotarpis)",
+          "expiryDatePlaceholder": "Pasirinkite galiojimo pabaigos datą...",
+          "noExpiry": "Šis sertifikatas neturi galiojimo pabaigos datos",
+          "url": "Kredencialų URL",
+          "uploadThumbnail": "Sertifikatas / mokymo vaizdas",
+          "uploadThumbnailLimit": "Įkelti sertifikato vaizdą (JPG / PNG / WEBP, maks. 2 MB)",
+          "addCert": "Pridėti sertifikatą",
+          "certNum": "Sertifikato Nr."
+        },
+        "contact": {
+          "contactNum": "Kontakto nr.",
+          "platform": "Platforma",
+          "displayText": "Rodyti tekstą",
+          "displayTextPlaceholder": "pvz., jūs@el.paštas.com arba @naudotojo vardas",
+          "url": "Nuoroda (URL)",
+          "urlPlaceholderWhatsapp": "pvz., 62812... (be 0)",
+          "urlPlaceholderEmail": "pvz., tu@el.paštas.com",
+          "urlPlaceholderWebsite": "pvz., https://...",
+          "urlPlaceholderDefault": "pvz., vartotojo vardas",
+          "addContact": "Pridėti kontaktą"
+        },
+        "common": {
+          "months": {
+            "1": "sausio mėn",
+            "2": "vasario mėn",
+            "3": "kovo mėn",
+            "4": "balandžio mėn",
+            "5": "gegužės mėn",
+            "6": "birželio mėn",
+            "7": "liepos mėn",
+            "8": "rugpjūčio mėn",
+            "9": "rugsėjis",
+            "10": "spalis",
+            "11": "lapkritis",
+            "12": "gruodį"
+          },
+          "month": "Mėnuo",
+          "year": "Metai",
+          "invalidDate": "Netinkamas pabaigos mėnuo",
+          "words": "žodžius"
+        }
+      },
+      "sure": "Žinoma",
+      "deletePhotoTitle": "Ištrinti profilio nuotrauką?",
+      "deletePhotoMessage": "Ar tikrai norite ištrinti šią profilio nuotrauką?",
+      "cancel": "Atšaukti",
+      "delete": "Ištrinti"
+    },
+    "cropper": {
+      "chooseBackground": "Pasirinkite Fonas",
+      "cropPhoto": "Apkirpkite savo nuotrauką",
+      "useOriginal": "Naudokite originalą",
+      "backgroundPresets": "Fono išankstiniai nustatymai",
+      "none": "Nėra",
+      "uploadBackground": "Įkėlimo fonas",
+      "cancel": "Atšaukti",
+      "savePhoto": "Išsaugoti nuotrauką",
+      "zoom": "Padidinti",
+      "rotationTilt": "Pasukimas ir pakreipimas",
+      "resetRotation": "Iš naujo nustatykite į 0°",
+      "center": "centras",
+      "rotateLeft": "Pasukti -90°",
+      "rotateRight": "Pasukti +90°",
+      "removeBackground": "Pašalinti foną",
+      "processing": "Apdorojamas vaizdas, palaukite..."
+    },
+    "cvPreview": {
+      "title": "CV peržiūra",
+      "downloadCv": "Parsisiųsti CV",
+      "download": "Atsisiųsti",
+      "wordCannotPreview": "„Word“ dokumentų (.doc/.docx) negalima peržiūrėti naršyklėje. ",
+      "downloadFile": "Parsisiųsti CV failą",
+      "back": "Atgal",
+      "mobileMessage": "Atsisiųskite CV failą, kad galėtumėte jį peržiūrėti.",
+      "preview": "Peržiūrėkite CV",
+      "wordPreviewTitle": "„Word“ dokumento peržiūra",
+      "wordPreviewMessage": "„Word“ dokumentų (.doc/.docx) negalima peržiūrėti naršyklėje. Atsisiųskite failą, kad jį peržiūrėtumėte."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Parašykite trumpą aprašymą apie save, pomėgius ir karjeros tikslus..."
+    },
+    "skills": {
+      "placeholder": "Įveskite įgūdžių pavadinimą...",
+      "add": "Pridėti",
+      "enterToAdd": "Paspauskite Enter, kad pridėtumėte",
+      "noSkills": "Įgūdžiai dar nepridėti."
+    },
+    "projects": {
+      "projectName": "Projekto pavadinimas",
+      "projectNamePlaceholder": "pvz. ",
+      "projectUrl": "Projekto URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Trukmė",
+      "startMonth": "Pradžios mėnuo",
+      "startYear": "Pradžios metai",
+      "endMonth": "Mėnesio pabaiga",
+      "endYear": "Metų pabaiga",
+      "currentlyWorking": "Šiuo metu dirbama šiuo klausimu",
+      "description": "Aprašymas",
+      "descriptionPlaceholder": "Apibūdinkite projektą, savo vaidmenį ir pasiekimus...",
+      "technologies": "Naudotos technologijos",
+      "addProject": "Pridėti projektą",
+      "image": "Projekto vaizdas",
+      "removeImage": "Pašalinti vaizdą",
+      "uploadImage": "Spustelėkite norėdami įkelti vaizdą"
+    },
+    "work": {
+      "company": "Įmonė/Įstaiga",
+      "companyPlaceholder": "Įmonės pavadinimas...",
+      "role": "Vaidmuo/pozicija",
+      "rolePlaceholder": "Jūsų pozicija...",
+      "jobType": "Darbo tipas",
+      "selectJobType": "Pasirinkite tipą",
+      "fullTime": "Pilnas etatas",
+      "partTime": "Ne visą darbo dieną",
+      "contract": "Sutartis",
+      "internship": "Stažuotė",
+      "freelance": "Laisvai samdomas",
+      "location": "Vieta",
+      "locationPlaceholder": "pvz. ",
+      "duration": "Trukmė",
+      "currentlyWorking": "Šiuo metu čia dirba",
+      "description": "Darbo aprašymas",
+      "descriptionPlaceholder": "Apibūdinkite savo pagrindines pareigas ir pasiekimus...",
+      "skills": "Specifiniai įgūdžiai",
+      "addExperience": "Pridėti patirtį"
+    },
+    "org": {
+      "organization": "Organizacijos pavadinimas",
+      "organizationPlaceholder": "Organizacijos pavadinimas...",
+      "role": "Vaidmuo/pozicija",
+      "rolePlaceholder": "pvz. ",
+      "duration": "Trukmė",
+      "periodFormat": "arba laisvas formatas (pvz., 2020–2022 m.)",
+      "periodPlaceholder": "pvz. ",
+      "currentlyActive": "Šiuo metu aktyvus",
+      "description": "Veiklos aprašymas",
+      "descriptionPlaceholder": "Aprašykite savo veiklą ar indėlį...",
+      "addExperience": "Pridėti patirtį"
+    },
+    "education": {
+      "institution": "Institucijos pavadinimas",
+      "institutionPlaceholder": "Mokyklos ar universiteto pavadinimas...",
+      "degree": "Laipsnis / lygis",
+      "degreePlaceholder": "pvz. ",
+      "major": "Pagrindinis / studijų kryptis",
+      "majorPlaceholder": "pvz. ",
+      "gpa": "GPA / Įvertinimas",
+      "gpaPlaceholder": "pvz. ",
+      "duration": "Išsilavinimo trukmė",
+      "periodFormat": "arba laisvu formatu (pvz., 2018–2022 m.)",
+      "periodPlaceholder": "pvz. ",
+      "currentlyStudying": "Šiuo metu čia studijuoja",
+      "description": "Veikla / pagyrimai",
+      "descriptionPlaceholder": "Apibūdinkite akademinę veiklą, organizacijas ar gautus pagyrimus...",
+      "addEducation": "Pridėti išsilavinimą"
+    },
+    "cert": {
+      "name": "Sertifikavimo pavadinimas",
+      "namePlaceholder": "pvz. ",
+      "issuer": "Išduodanti organizacija",
+      "issuerPlaceholder": "pvz. ",
+      "issueDate": "Išleidimo data",
+      "expiryDate": "Galioja iki",
+      "noExpiry": "Šis kredencialas nesibaigia",
+      "yearPlaceholder": "arba metai (pvz., 2023 m.)",
+      "credentialUrl": "Kredencialų URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Susiję įgūdžiai",
+      "addCertification": "Pridėti sertifikatą",
+      "image": "Vaizdas / logotipas",
+      "removeImage": "Pašalinti vaizdą",
+      "uploadImage": "Spustelėkite norėdami įkelti vaizdą"
+    },
+    "common": {
+      "months": {
+        "1": "sausio mėn",
+        "2": "vasario mėn",
+        "3": "kovo mėn",
+        "4": "balandžio mėn",
+        "5": "gegužės mėn",
+        "6": "birželis",
+        "7": "liepos mėn",
+        "8": "rugpjūčio mėn",
+        "9": "rugsėjis",
+        "10": "spalis",
+        "11": "lapkritis",
+        "12": "gruodį"
+      },
+      "month": "Mėnuo",
+      "year": "Metai",
+      "invalidDate": "Netinkamas pabaigos mėnuo",
+      "words": "žodžius"
+    }
+  },
+  "settings": {
+    "title": "Nustatymai",
+    "subtitle": "Tvarkykite savo portfelio profilį ir nuostatas",
+    "tabs": {
+      "profile": "Mano profilis",
+      "security": "Saugumas",
+      "personalization": "Personalizavimas"
+    },
+    "profile": {
+      "infoTitle": "Pagrindinė informacija",
+      "photo": "Profilio nuotrauka",
+      "uploadPhoto": "Keisti nuotrauką",
+      "fullName": "Pilnas vardas",
+      "fullNamePlaceholder": "John Doe",
+      "email": "El. pašto adresas",
+      "emailPlaceholder": "jonas@example.com",
+      "emailHelp": "El. paštas naudojamas prisijungimui ir nėra viešai rodomas.",
+      "portfolioUrl": "Portfelio URL",
+      "saveProfile": "Išsaugoti profilį",
+      "save": "Išsaugoti profilį",
+      "accountCreated": "Paskyra sukurta",
+      "lastLogin": "Paskutinis prisijungimas",
+      "oauthNotice": "Šis profilis susietas su jūsų {{provider}} paskyra. Profilio pakeitimus reikia atlikti per paslaugų teikėją."
+    },
+    "security": {
+      "changePassword": "Keisti slaptažodį",
+      "currentPassword": "Dabartinis slaptažodis",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Naujas slaptažodis",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Patvirtinkite naują slaptažodį",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Bent 8 simboliai",
+        "uppercase": "Viena didžioji raidė (A-Z)",
+        "number": "Vienas skaičius (0-9)",
+        "symbol": "Vienas simbolis (!@#$%^&*)"
+      },
+      "passwordTitle": "Slaptažodis",
+      "updatePassword": "Atnaujinti slaptažodį",
+      "additionalSecurity": "Papildomas saugumas",
+      "twoFactor": "Dviejų veiksnių autentifikavimas (2FA)",
+      "twoFactorDesc": "Apsaugokite paskyrą naudodami papildomą vienkartinį kodą.",
+      "activeSessions": "Aktyvūs užsiėmimai",
+      "activeSessionsDesc": "Visada leiskite stebėti prisijungusius įrenginius.",
+      "publicVisibility": "Viešasis matomumas",
+      "hideFromSearch": "Slėpti portfelį nuo paieškos sistemų",
+      "hideFromSearchDesc": "Neleiskite „Google“ indeksuoti jūsų viešojo portfelio puslapio.",
+      "disable2fa": {
+        "title": "Išjungti 2FA",
+        "description": "Ar tikrai norite išjungti dviejų veiksnių autentifikavimą?",
+        "confirmPasswordLabel": "Įveskite slaptažodį, kad patvirtintumėte",
+        "currentPasswordPlaceholder": "Dabartinis slaptažodis",
+        "cancelButton": "Atšaukti",
+        "confirmButton": "Išjungti 2FA",
+        "incorrectPassword": "Neteisingas slaptažodis."
+      },
+      "setup2fa": {
+        "step1Title": "1. Nuskaitykite QR kodą",
+        "step1Desc": "Atidarykite autentifikavimo programą ir nuskaitykite šį QR kodą:",
+        "unableToScan": "Negalite nuskaityti? Naudokite sąrankos klavišą",
+        "step2Title": "2. Patikrinkite kodą",
+        "step2Desc": "Įveskite programos sugeneruotą 6 skaitmenų kodą:",
+        "cancelButton": "Atšaukti",
+        "enableButton": "Įgalinti 2FA",
+        "invalidLength": "Įveskite 6 skaitmenų kodą.",
+        "invalidCode": "Neteisingas patvirtinimo kodas. Bandykite dar kartą."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kalbos valdikliai",
+      "appLanguage": "Programos kalba",
+      "layoutTitle": "Išdėstymas ir tipografija",
+      "layoutStyle": "Išdėstymo stilius",
+      "layoutModern": "Šiuolaikinis stilius (numatytasis)",
+      "layoutClassic": "Klasikinis Stilius",
+      "layoutMinimalist": "Minimalistinis stilius",
+      "fontSize": "Programos šrifto dydis",
+      "fontSmall": "Mažas",
+      "fontNormal": "Normalus (vidutinis)",
+      "fontLarge": "Didelis",
+      "searchLanguage": "Ieškoti kalbos...",
+      "languageNotFound": "Kalba nerasta",
+      "layoutElegant": "Elegantiškas Stilius"
+    },
+    "saveChanges": "Išsaugoti pakeitimus",
+    "cancel": "Atšaukti",
+    "appSettings": "Programos nustatymai",
+    "logoutConfirmTitle": "Patvirtinkite atsijungimą",
+    "logoutConfirmDesc": "Ar tikrai norite atsijungti nuo sistemos?",
+    "logoutConfirmYes": "Taip, Atsijungti",
+    "generalError": "Įvyko klaida. ",
+    "success": "Sėkmės",
+    "preferencesSaved": "Programos nuostatos sėkmingai išsaugotos.",
+    "header": "Programos nustatymai",
+    "logout": {
+      "title": "Atsijungimo patvirtinimas",
+      "message": "Ar tikrai norite atsijungti nuo sistemos?",
+      "confirm": "Taip, Atsijungti"
+    },
+    "about": {
+      "title": "Apie taikymą",
+      "subtitle": "Portfelio kūrimo platforma",
+      "version": "Versija",
+      "description": "„DevFolio“ yra moderni portfelio kūrimo platforma, skirta kūrėjams, dizaineriams ir profesionaliems kūrėjams. ",
+      "license": "Licencija ir autorių teisės",
+      "copyright": "© 2026 DevFolio Inc. Visos teisės saugomos.",
+      "developer": "Kūrėjas",
+      "developedBy": "Sukūrė Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Ištrinti paskyrą visam laikui",
+      "menuItem": "Ištrinti paskyrą",
+      "successTitle": "Sėkmės",
+      "successMessage": "Buvo išsiųstas paskyros ištrynimo patvirtinimo el. laiškas.",
+      "errorTitle": "Nepavyko",
+      "errorMessage": "Nepavyko išsiųsti patvirtinimo el.",
+      "confirmationMessage": "Ar tikrai norite visam laikui ištrinti paskyrą?",
+      "warningMessage1": "Jūs gausite el. laišką, patvirtinantį paskyros ištrynimą.",
+      "warningMessage2": "Patvirtinus visi duomenys (portfelis, projektai, statistika) bus visam laikui ištrinti ir jų nebegalima atkurti.",
+      "cancel": "Atšaukti",
+      "confirm": "Patvirtinimas"
+    },
+    "toasts": {
+      "toastError": "Klaida",
+      "toastSuccess": "Sėkmės",
+      "toastSetup2FAFailed": "Nepavyko nustatyti 2FA. Bandykite dar kartą.",
+      "toast2FAEnabled": "Įjungtas dviejų veiksnių autentifikavimas.",
+      "toast2FADisabled": "Dviejų veiksnių autentifikavimas buvo išjungtas.",
+      "toastSessionEnabled": "Aktyvus seanso stebėjimas buvo įjungtas.",
+      "toastSessionDisabled": "Aktyvus seanso stebėjimas buvo išjungtas.",
+      "toastSetupKeyCopied": "Sąrankos raktas nukopijuotas į mainų sritį."
+    },
+    "privacy": {
+      "title": "Privatumo politika",
+      "updateDate": "Paskutinį kartą atnaujinta: 2026 m. liepos 15 d",
+      "intro": "Šioje privatumo politikoje paaiškinama, kaip „DevFolio“ renka, naudoja ir saugo jūsų asmeninę informaciją, kai naudojatės mūsų paslaugomis.",
+      "section1Title": "1. Informacija, kurią renkame",
+      "section1Content": "Renkame informaciją, kurią pateikiate tiesiogiai kurdami paskyrą, kurdami portfelį ir susisiekdami su mūsų palaikymo tarnyba. ",
+      "section2Title": "2. Informacijos naudojimas",
+      "section2Content": "Jūsų informacija naudojama mūsų paslaugų veikimui, priežiūrai ir funkcijoms teikti, taip pat susisiekti su jumis dėl jūsų paskyros ar paslaugų.",
+      "section3Title": "3. Duomenų saugumas",
+      "section3Content": "Mes įgyvendiname pagrįstas saugumo priemones, kad apsaugotume jūsų informaciją nuo neteisėtos prieigos, atskleidimo ar sunaikinimo."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Patvirtinimo raktas nerastas.",
+    "defaultError": "Nepavyko ištrinti paskyros. Gali būti, kad žetono galiojimo laikas baigėsi.",
+    "loadingTitle": "Ištrinama paskyra...",
+    "loadingMessage": "Palaukite, mes apdorojame jūsų užklausą.",
+    "successTitle": "Paskyra sėkmingai ištrinta",
+    "successMessage": "Visi jūsų duomenys buvo visam laikui ištrinti. Būsite nukreipti...",
+    "errorTitle": "Nepavyko ištrinti paskyros",
+    "backToHome": "Grįžti į namus"
+  },
+  "forgotPassword": {
+    "minutes": "minučių",
+    "seconds": "sekundės",
+    "success": "Sėkmės",
+    "otpSentToEmail": "OTP kodas buvo išsiųstas jūsų el.",
+    "failed": "Nepavyko",
+    "emailNotFound": "El. pašto adresas nerastas.",
+    "emailThirdParty": "Šis el. laiškas užregistruotas per trečiąją šalį.",
+    "genericError": "Įvyko klaida. Bandykite dar kartą.",
+    "otpVerified": "OTP kodas sėkmingai patvirtintas.",
+    "otpExpired": "Vienkartinio kodo galiojimo laikas baigėsi. Prašykite naujo kodo.",
+    "otpInvalid": "Neteisingas OTP kodas.",
+    "otpResent": "Jūsų el. paštu išsiųstas naujas OTP kodas.",
+    "otpResendFailed": "Nepavyko pakartotinai išsiųsti OTP kodo. Bandykite dar kartą.",
+    "passwordResetSuccess": "Slaptažodis sėkmingai nustatytas iš naujo. Prisijunkite naudodami naują slaptažodį.",
+    "passwordResetFailed": "Nepavyko iš naujo nustatyti slaptažodžio.",
+    "backToLogin": "Grįžti į prisijungimą",
+    "back": "Atgal",
+    "title": "Pamiršau slaptažodį",
+    "description": "Įveskite savo paskyroje užregistruotą el. pašto adresą. Atsiųsime OTP kodą slaptažodžiui nustatyti iš naujo.",
+    "emailLabel": "El. pašto adresas",
+    "sending": "Siunčiama...",
+    "sendOtp": "Siųsti OTP kodą",
+    "verifyOtpTitle": "Patvirtinkite OTP kodą",
+    "verifyOtpDesc": "Įveskite 6 skaitmenų kodą, kuris buvo išsiųstas jūsų el. paštu, kad patvirtintumėte savo tapatybę.",
+    "verifying": "Tikrinama...",
+    "verifyOtp": "Patvirtinti OTP",
+    "resending": "Siunčiamas iš naujo...",
+    "resendOtp": "Iš naujo siųsti OTP kodą",
+    "resendCodeIn": "Iš naujo nusiųskite kodą",
+    "newPasswordTitle": "Sukurti naują slaptažodį",
+    "newPasswordDesc": "Sukurkite naują, tvirtą slaptažodį, kad apsaugotumėte paskyrą.",
+    "newPasswordLabel": "Naujas slaptažodis",
+    "min8Chars": "Mažiausiai 8 simboliai",
+    "oneUpperCase": "1 didžiosios raidės (A–Z)",
+    "oneNumber": "1 skaičius (0-9)",
+    "oneSymbol": "1 simbolis (!@#$%^&*)",
+    "confirmPasswordLabel": "Patvirtinti slaptažodį",
+    "passwordsDoNotMatch": "Slaptažodžiai nesutampa.",
+    "resettingPassword": "Slaptažodžio nustatymas iš naujo...",
+    "resetPassword": "Iš naujo nustatyti slaptažodį"
+  },
+  "verifyEmail": {
+    "resendError": "Nepavyko pakartotinai išsiųsti patvirtinimo el. Bandykite dar kartą.",
+    "checkingStatus": "Tikrinama patvirtinimo būsena...",
+    "title": "Patikrinkite savo el. paštą",
+    "description": "Išsiuntėme patvirtinimo el. laišką jūsų el. pašto adresu. Atidarykite el. laišką ir spustelėkite mygtuką <1>\"Patvirtinti paskyrą\"</1>, kad suaktyvintumėte paskyrą.",
+    "stepsTitle": "Žingsniai",
+    "step1": "Atidarykite el. pašto programą („Gmail“, „Yahoo“ ir kt.)",
+    "step2": "Ieškokite el. laiško iš „DevFolio“ su tema „Paskyros aktyvinimas“",
+    "step3": "El. laiške spustelėkite mygtuką „Patvirtinti paskyrą“",
+    "step4": "Būsite nukreipti į prisijungimo puslapį, kuriame įveskite",
+    "resendSuccess": "Patvirtinimo el. laiškas išsiųstas iš naujo!",
+    "resending": "Siunčiamas iš naujo...",
+    "resendButton": "Iš naujo siųsti patvirtinimo el. laišką",
+    "backToLogin": "Grįžti į prisijungimo puslapį",
+    "footerNote": "Negavote el. laiško? Patikrinkite el. pašto aplanką <1>Šlamštas</1> arba <2>Šlamštas</2>. Patvirtinimo nuoroda galioja <3>24 valandas</3>."
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "විශේෂාංග",
+    "templates": "සැකිලි",
+    "pricing": "මිල නියම කිරීම",
+    "login": "ඇතුල් වන්න",
+    "getStarted": "ආරම්භ කරන්න",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "සංවර්ධකයින් සඳහා වන අවසාන කළඹ සාදන්නා",
+    "title1": "ඔබේ වෘත්තීය ගොඩනඟන්න",
+    "title2": "කළඹ තුළ",
+    "titleHighlight": "තත්පර.",
+    "subtitle": "ඔබේ කුසලතා, ව්‍යාපෘති සහ අත්දැකීම් ප්‍රදර්ශනය කිරීමට ඔබට අවශ්‍ය සියල්ල. ",
+    "startBuilding": "දැන් ගොඩනැගීම ආරම්භ කරන්න",
+    "viewTemplates": "සැකිලි බලන්න",
+    "fastDeployment": "වේගවත් යෙදවීම",
+    "liveStatus": "username.dev සජීවීයි!",
+    "featuresTitle": "බලවත් විශේෂාංග",
+    "featuresSubtitle": "සමූහයාගෙන් කැපී පෙනීමට සහ ඔබේ සිහින රැකියාවට යාමට අවශ්‍ය සියලුම මෙවලම් අපි සපයන්නෙමු.",
+    "feature1Title": "ඇදගෙන යන්න සාදන්නා",
+    "feature1Desc": "අපගේ බුද්ධිමය දෘශ්‍ය සංස්කාරකය සමඟින් ඔබේ අංශ, ව්‍යාපෘති සහ කුසලතා පහසුවෙන් සංවිධානය කරන්න.",
+    "feature2Title": "අභිරුචි තේමාවන්",
+    "feature2Desc": "වෘත්තීයමය වශයෙන් නිර්මාණය කරන ලද සැකිලි වලින් තෝරන්න හෝ ඔබේම අද්විතීය පෙනුමක් සාදන්න.",
+    "feature3Title": "තත්‍ය කාලීන විශ්ලේෂණ",
+    "feature3Desc": "ඔබේ අමුත්තන් ලුහුබඳින්න, වඩාත්ම අවධානයට ලක්වන ව්‍යාපෘති බලන්න, සහ තවත් දේ."
+  },
+  "auth": {
+    "welcomeBack": "ආපසු සාදරයෙන් පිළිගනිමු",
+    "loginToContinue": "ඉදිරියට යාමට ඔබගේ ගිණුමට ලොග් වන්න",
+    "createAccount": "ගිණුම තනන්න",
+    "joinCommunity": "වෙනත් සංවර්ධකයින් දහස් ගණනකට සම්බන්ධ වන්න",
+    "fullName": "සම්පූර්ණ නම",
+    "fullNamePlaceholder": "උදා. ",
+    "email": "ඊතැපැල් ලිපිනය",
+    "emailPlaceholder": "you@example.com",
+    "password": "මුරපදය",
+    "passwordPlaceholder": "••••••••••",
+    "rememberMe": "මාව මතක ද",
+    "forgotPassword": "මුරපදය අමතක වුණා ද?",
+    "signIn": "පුරන්න",
+    "signingIn": "පුරනය වෙමින්...",
+    "signUp": "ලියාපදිංචි වන්න",
+    "signingUp": "ලියාපදිංචි වෙමින්...",
+    "noAccount": "ගිණුමක් නැද්ද?",
+    "hasAccount": "දැනටමත් ගිණුමක් තිබේද?",
+    "passwordRules": {
+      "title": "මුරපදය අඩංගු විය යුතුය:",
+      "length": "අවම වශයෙන් අක්ෂර 8 ක්",
+      "uppercase": "එක් ලොකු අකුරක් (A-Z)",
+      "number": "එක් අංකයක් (0-9)",
+      "symbol": "එක් සංකේතයක් (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "සැකිලි සහ තේමා",
+      "settings": "සැකසීම්",
+      "collapse": "පැති තීරුව හකුළන්න",
+      "overview": "දළ විශ්ලේෂණය",
+      "profileSettings": "පැතිකඩ සැකසුම්",
+      "customDomain": "අභිරුචි වසම",
+      "feedback": "ප්රතිපෝෂණ"
+    },
+    "header": {
+      "viewLive": "සජීවීව බලන්න",
+      "welcome": "සාදරයෙන් පිළිගනිමු,",
+      "logout": "පිටවීම",
+      "builder": "ඉදි කරන්නා",
+      "livePortfolio": "සජීවී කළඹ",
+      "live": "සජීවීව"
+    },
+    "logoutModal": {
+      "title": "පිටවීම",
+      "message": "ඔබට ඔබගේ ගිණුමෙන් ඉවත් වීමට අවශ්‍ය බව විශ්වාසද? ",
+      "cancel": "අවලංගු කරන්න",
+      "confirm": "ඔව්, පිටවීම"
+    },
+    "slugModal": {
+      "title": "ඔබේ Portfolio URL එක තෝරන්න",
+      "message": "මෙම URL එක ඔබේ කළඹට අනන්‍ය සබැඳිය වනු ඇත. ",
+      "slugPlaceholder": "ඔයාගේ නම",
+      "availability": "පවතින බව:",
+      "available": "ලබා ගත හැක",
+      "unavailable": "ලබා ගත නොහැක",
+      "checking": "පරීක්ෂා කරමින්...",
+      "mustFormat": "අකුරු, ඉලක්කම් සහ ඉරි පමණක් අඩංගු විය හැක (-)",
+      "cancel": "අවලංගු කරන්න",
+      "save": "URL එක සුරකින්න",
+      "usernameUrl": "පරිශීලක නාමය URL",
+      "helpText": "කුඩා අකුරු, ඉලක්කම් සහ ඉරි. ",
+      "validation": {
+        "empty": "ස්ලග් හිස් විය නොහැක.",
+        "min3": "අවම වශයෙන් අක්ෂර 3 ක්.",
+        "max30": "උපරිම අක්ෂර 30.",
+        "format": "කුඩා අකුරු, ඉලක්කම් සහ ඉරි (-) පමණි. "
+      }
+    },
+    "loadingPortfolio": "කළඹ දත්ත පූරණය කරමින්...",
+    "overview": {
+      "greetings": {
+        "morning": "සුභ උදෑසනක්",
+        "afternoon": "සුබ සන්ධ්‍යාවක්",
+        "evening": "සුබ සන්ධ්‍යාවක්",
+        "night": "සුභ රාත්‍රියක්"
+      },
+      "welcome": {
+        "hi": "හායි,",
+        "creator": "නිර්මාතෘ",
+        "desc1": "DevFolio උපකරණ පුවරුව වෙත සාදරයෙන් පිළිගනිමු. ඔබගේ කළඹ නරඹා ඇත",
+        "desc2": "පුද්ගලයා. දිගටම වැඩ කරන්න!",
+        "editPortfolio": "කළඹ සංස්කරණය කරන්න"
+      },
+      "stats": {
+        "totalVisitors": "මුළු අමුත්තන්",
+        "projectViews": "බැලූ (ව්‍යාපෘතිය)",
+        "activeSessions": "ක්රියාකාරී සැසිය",
+        "totalLabel": "මුළු"
+      },
+      "setup": {
+        "title": "පිහිටුවීම් ප්රගතිය",
+        "completed": "ඔබේ කළඹ සම්පූර්ණයි! 🎉",
+        "inProgress": "පරිපූර්ණ කළඹට පියවර.",
+        "profile": {
+          "title": "සම්පූර්ණ පැතිකඩ",
+          "desc": "නම, ජීව දත්ත සහ පැතිකඩ ඡායාරූපය එක් කරන්න."
+        },
+        "section": {
+          "title": "කොටස් එකතු කරන්න",
+          "desc": "කළඹ තුළ අවම වශයෙන් 1 කොටස සක්‍රිය කරන්න."
+        },
+        "project": {
+          "title": "ව්යාපෘතිය එකතු කරන්න",
+          "desc": "අවම වශයෙන් ඔබේ හොඳම ව්‍යාපෘති 1ක් වත් ඇතුළත් කරන්න."
+        },
+        "publish": {
+          "title": "ප්‍රකාශන කළඹ",
+          "desc": "මහජනයාට ප්‍රවේශ විය හැකි පරිදි අභිරුචි URL එකක් සකසන්න."
+        }
+      },
+      "topProjects": {
+        "title": "වඩාත්ම ජනප්රිය ව්යාපෘති",
+        "desc": "අමුත්තන්ගේ ඇස් හමුවේ ඔබේ කාර්යයේ කාර්ය සාධනය.",
+        "viewAll": "සියල්ල බලන්න",
+        "empty": "ඔබගේ ව්‍යාපෘතිය සඳහා තවමත් බැලීමේ දත්ත නොමැත."
+      }
+    },
+    "themes": {
+      "title": "සැකිලි සහ තේමා",
+      "subtitle": "ඔබේ පොදු කළඹේ පෙනුම සහ හැඟීම අභිරුචිකරණය කරන්න.",
+      "reset": "පෙරනිමිය යළි පිහිටුවන්න",
+      "save": "වෙනස්කම් සුරකින්න",
+      "saving": "සුරකිමින්...",
+      "chooseTemplate": "සැකිල්ලක් තෝරන්න",
+      "primaryColor": "ප්‍රාථමික වර්ණය",
+      "typography": "මුද්‍රණ ශිල්පය",
+      "appearance": "පෙනුම",
+      "corners": "කොන් සහ මායිම්",
+      "successTitle": "සාර්ථකත්වය",
+      "successMessage": "තේමා මනාප සාර්ථකව යාවත්කාලීන කරන ලදී",
+      "errorTitle": "දෝෂය",
+      "errorMessage": "තේමා මනාප සුරැකීමට අපොහොසත් විය",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "අන්තර්ගතය කෙරෙහි අවධානය යොමු කරන පිරිසිදු හා සරල නිර්මාණය."
+        },
+        "developerDark": {
+          "name": "සංවර්ධක අඳුරු",
+          "desc": "කේතය සහ තාක්ෂණික අට්ටි ප්‍රදර්ශනය කිරීම සඳහා අඳුරු තේමාව පරිපූර්ණයි."
+        },
+        "creative": {
+          "name": "නිර්මාණාත්මක",
+          "desc": "නිර්මාණකරුවන් සහ නිර්මාණකරුවන් සඳහා විචිත්‍රවත් සහ වර්ණවත් පිරිසැලසුම."
+        },
+        "executive": {
+          "name": "විධායක",
+          "desc": "ව්යාපාරික වෘත්තිකයන් සඳහා වෘත්තීය සහ විධිමත් පිරිසැලසුම."
+        },
+        "bentoGrid": {
+          "name": "බෙන්ටෝ ග්‍රිඩ්",
+          "desc": "විවිධ කුසලතා කාර්යක්ෂමව ඉස්මතු කරන නවීන Apple-style ජාල සැකැස්ම."
+        },
+        "neoBrutalism": {
+          "name": "නව ම්ලේච්ඡත්වය",
+          "desc": "නවීන, නිර්දෝෂී පෙනුමක් සඳහා තද මායිම් සහ ඉහළ ප්‍රතිවිරුද්ධ වර්ණ."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "සිනිඳු නවීන UI එකක් සඳහා වර්ණවත් අනුක්‍රමණයට වඩා ශීත කළ වීදුරු බලපෑම්."
+        },
+        "linkInBio": {
+          "name": "Bio",
+          "desc": "හි සබැඳිය ජංගම තිර සහ සමාජ මාධ්‍ය සඳහා සංයුක්ත සිරස් පිරිසැලසුම ප්‍රශස්ත කර ඇත."
+        }
+      },
+      "appearances": {
+        "light": "ආලෝකය",
+        "dark": "අඳුරු",
+        "system": "පද්ධතිය"
+      },
+      "cornersOptions": {
+        "sharp": "තියුණු",
+        "rounded": "වටකුරු",
+        "pill": "පෙති"
+      }
+    },
+    "feedback": {
+      "title": "ප්‍රතිපෝෂණ යවන්න",
+      "subtitle": "මෙම යෙදුමේ යෝජනා, විවේචන හෝ දෝෂ වාර්තා කිරීමෙන් එය වඩා හොඳ කිරීමට අපට උදවු කරන්න.",
+      "categoryLabel": "ප්‍රතිපෝෂණ ප්‍රවර්ගය",
+      "messageLabel": "පණිවිඩ විස්තර",
+      "messagePlaceholder": "ඔබට පැවසීමට අවශ්‍ය ප්‍රතිපෝෂණ ගැන විස්තරාත්මකව මට කියන්න...",
+      "imageLabel": "රූප ඇමුණුම (විකල්ප)",
+      "imagePlaceholder": "රූපය හෝ තිර රුවක් උඩුගත කිරීමට ක්ලික් කරන්න",
+      "submitting": "යවමින්...",
+      "submitBtn": "ප්‍රතිපෝෂණ යවන්න",
+      "categories": {
+        "suggestion": "යෝජනා සහ අදහස්",
+        "bug": "දෝෂ / දෝෂ වාර්තාව",
+        "criticism": "විවේචනය",
+        "other": "වෙනත්"
+      },
+      "imageErrorTitle": "දෝෂය",
+      "imageErrorMessage": "සමහර ගොනු ප්‍රතික්‍ෂේප කරනු ලබන්නේ ඒවා රූප ආකෘති සඳහා සහය නොදක්වන නිසා (JPG, PNG, GIF, WEBP)",
+      "successTitle": "සාර්ථකත්වය",
+      "successMessage": "ඔබගේ ප්‍රතිපෝෂණයට ස්තූතියි! වාර්තාව යවා ඇත.",
+      "submitErrorTitle": "අසාර්ථක",
+      "submitErrorMessage": "ප්‍රතිපෝෂණ යැවීමේදී දෝෂයක් ඇති විය. කරුණාකර නැවත උත්සාහ කරන්න."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "මා ගැන",
+      "skills": "කුසලතා",
+      "projects": "ව්යාපෘති",
+      "workExperience": "වැඩ පළපුරුද්ද",
+      "orgExperience": "ආයතනික අත්දැකීම්",
+      "education": "අධ්යාපනය",
+      "certifications": "පුහුණු සහ සහතික",
+      "contact": "මාව සම්බන්ධ කරගන්න"
+    },
+    "editor": {
+      "profileInfo": "පැතිකඩ තොරතුරු",
+      "saving": "සුරකිමින්...",
+      "profilePhoto": "පැතිකඩ ඡායාරූපය",
+      "clickToUpload": "උඩුගත කිරීමට ක්ලික් කරන්න (JPG, PNG)",
+      "fullName": "සම්පූර්ණ නම",
+      "fullNamePlaceholder": "උදා. ",
+      "bio": "ජෛව",
+      "bioPlaceholder": "නවීන වෙබ් යෙදුම් තැනීමට ආශාවක් ඇති Fullstack Developer...",
+      "location": "ස්ථානය",
+      "locationPlaceholder": "උදා. ",
+      "gender": "ලිංගභේදය",
+      "selectGender": "ලිංගභේදය තෝරන්න",
+      "male": "පිරිමි",
+      "female": "ගැහැණු",
+      "custom": "අභිරුචි",
+      "customPlaceholder": "ඔබේ අභිරුචි ලිංගභේදය ටයිප් කරන්න...",
+      "uploadCv": "CV උඩුගත කරන්න",
+      "cvFormat": "(DOC හෝ PDF)",
+      "preview": "පෙරදසුන",
+      "remove": "ඉවත් කරන්න",
+      "clickToUploadCv": "PDF හෝ DOC උඩුගත කිරීමට ක්ලික් කරන්න",
+      "sections": "අංශ",
+      "removeSelected": "තෝරාගත් ඉවත් කරන්න",
+      "confirmRemove": "ඉවත් කිරීම තහවුරු කරන්න",
+      "addSection": "කොටස එකතු කරන්න",
+      "addAllSections": "සියලුම කොටස් එකතු කරන්න",
+      "noSections": "තවම අංශ නොමැත",
+      "clickToAdd": "ආරම්භ කිරීමට \"+ කොටස එකතු කරන්න\" ක්ලික් කරන්න",
+      "selectAll": "සියල්ල තෝරන්න",
+      "selected": "තෝරා ගන්නා ලදී",
+      "dragToReorder": "කොටස් නැවත සකස් කිරීමට අදින්න",
+      "livePreview": "සජීවී පෙරදසුන",
+      "addSectionsToBuild": "ඔබේ කළඹ ගොඩනැගීමට කොටස් එක් කරන්න",
+      "now": "දැන්",
+      "current": "වත්මන්",
+      "noExpiry": "කල් ඉකුත්වීමක් නැත",
+      "see": "බලන්න",
+      "position": "තනතුර",
+      "degree": "උපාධිය",
+      "certification": "සහතික කිරීම",
+      "sectionsForm": {
+        "about": {
+          "label": "ඔබ ගැන විස්තරය",
+          "placeholder": "ඔබ ගැන, ඔබේ පසුබිම, රුචිකත්වයන් සහ කුසලතා ගැන අපට කියන්න..."
+        },
+        "skills": {
+          "addPlaceholder": "කුසලතාව ටයිප් කර Enter ඔබන්න..."
+        },
+        "projects": {
+          "title": "ව්යාපෘතියේ නම",
+          "titlePlaceholder": "ව්‍යාපෘතියේ නම...",
+          "url": "ව්‍යාපෘති URL",
+          "description": "විස්තරය",
+          "descriptionPlaceholder": "ව්‍යාපෘතිය පිළිබඳ කෙටි විස්තරයක්...",
+          "uploadThumbnail": "ව්යාපෘති රූපය",
+          "addProject": "ව්යාපෘතිය එකතු කරන්න",
+          "projectNum": "ව්‍යාපෘතිය #",
+          "currentProject": "මේක මම වැඩ කරමින් සිටින ව්‍යාපෘතියක්"
+        },
+        "work": {
+          "company": "සමාගම/ඒජන්සිය",
+          "companyPlaceholder": "සමාගමේ නම...",
+          "position": "තනතුර/මාතෘකාව",
+          "positionPlaceholder": "ඔබේ තනතුර...",
+          "employmentType": "වැඩ වර්ගය",
+          "location": "ස්ථානය",
+          "locationPlaceholder": "නගරය, රට ...",
+          "startDate": "ආරම්භ කරන්න",
+          "endDate": "අවසන්",
+          "currentWork": "මම දැනටත් වැඩ කරනවා",
+          "description": "විස්තරය",
+          "descriptionPlaceholder": "රැකියා විස්තරය සහ වගකීම්...",
+          "skills": "දක්ෂතාවය",
+          "addExperience": "වැඩ පළපුරුද්ද එකතු කරන්න",
+          "experienceNum": "පළපුරුද්ද #",
+          "dateError": "අවසාන දිනය ආරම්භක දිනයට වඩා කලින් විය නොහැක"
+        },
+        "org": {
+          "organization": "සංවිධානයේ නම",
+          "orgPlaceholder": "BEM විශ්වවිද්‍යාලය...",
+          "role": "භූමිකාව/තනතුර",
+          "rolePlaceholder": "අංශ ප්‍රධානියා...",
+          "addOrg": "ආයතනික අත්දැකීම් එකතු කරන්න",
+          "orgNum": "සංවිධානය #"
+        },
+        "edu": {
+          "institution": "අධ්යාපන ආයතන",
+          "institutionPlaceholder": "කැම්පස් එකේ හෝ පාසැලේ නම...",
+          "degree": "මාතෘකාව",
+          "degreePlaceholder": "S1, උසස් පාසල, ආදිය...",
+          "major": "දෙපාර්තමේන්තුව/අධ්‍යයන ක්ෂේත්‍රය",
+          "majorPlaceholder": "තොරතුරු තාක්ෂණ ඉංජිනේරු...",
+          "gpa": "GPA (විකල්ප)",
+          "currentStudy": "මම තාම මෙතන ඉගෙන ගන්නවා",
+          "descriptionPlaceholder": "අධ්‍යයනය අතරතුර ක්‍රියාකාරකම් සහ ජයග්‍රහණ...",
+          "addEdu": "අධ්යාපනය එකතු කරන්න",
+          "eduNum": "අධ්‍යාපනය #"
+        },
+        "cert": {
+          "name": "සහතිකයේ නම / පුහුණුව",
+          "namePlaceholder": "සහතික නම...",
+          "issuer": "ප්‍රකාශකයා",
+          "issuerPlaceholder": "ප්‍රකාශන ආයතනය...",
+          "issueDate": "ආරම්භය (ප්‍රකාශන දිනය)",
+          "issueDatePlaceholder": "ප්‍රකාශන දිනය තෝරන්න...",
+          "expiryDate": "සම්පූර්ණයි (වලංගු කාල සීමාව)",
+          "expiryDatePlaceholder": "කල් ඉකුත්වන දිනය තෝරන්න...",
+          "noExpiry": "මෙම සහතිකයේ කල් ඉකුත්වන දිනයක් නොමැත",
+          "url": "අක්තපත්ර URL",
+          "uploadThumbnail": "සහතිකය / පුහුණු රූපය",
+          "uploadThumbnailLimit": "සහතික රූපය උඩුගත කරන්න (JPG/PNG/WEBP, උපරිම 2MB)",
+          "addCert": "සහතිකය එකතු කරන්න",
+          "certNum": "සහතිකය #"
+        },
+        "contact": {
+          "contactNum": "අමතන්න #",
+          "platform": "වේදිකාව",
+          "displayText": "පෙළ පෙන්වන්න",
+          "displayTextPlaceholder": "උදා. you@email.com හෝ @username",
+          "url": "සබැඳිය (URL)",
+          "urlPlaceholderWhatsapp": "උදා., 62812... (0 ඉදිරියෙන් තොරව)",
+          "urlPlaceholderEmail": "උදා. you@email.com",
+          "urlPlaceholderWebsite": "උදා., https://...",
+          "urlPlaceholderDefault": "උදා., පරිශීලක නාමය",
+          "addContact": "සම්බන්ධතා එකතු කරන්න"
+        },
+        "common": {
+          "months": {
+            "1": "ජනවාරි",
+            "2": "පෙබරවාරි",
+            "3": "මාර්තු",
+            "4": "අප්රේල්",
+            "5": "මැයි",
+            "6": "ජූනි",
+            "7": "ජූලි",
+            "8": "අගෝස්තු",
+            "9": "සැප්තැම්බර්",
+            "10": "ඔක්තෝබර්",
+            "11": "නොවැම්බර්",
+            "12": "දෙසැම්බර්"
+          },
+          "month": "මාසය",
+          "year": "වසර",
+          "invalidDate": "වලංගු නොවන අවසන් මාසය",
+          "words": "වචන"
+        }
+      },
+      "sure": "ෂුවර්",
+      "deletePhotoTitle": "පැතිකඩ ඡායාරූපය මකන්නද?",
+      "deletePhotoMessage": "ඔබට මෙම පැතිකඩ ඡායාරූපය මැකීමට අවශ්‍ය බව විශ්වාසද?",
+      "cancel": "අවලංගු කරන්න",
+      "delete": "මකන්න"
+    },
+    "cropper": {
+      "chooseBackground": "පසුබිම තෝරන්න",
+      "cropPhoto": "ඔබේ ඡායාරූපය කප්පාදු කරන්න",
+      "useOriginal": "මුල් භාවිතා කරන්න",
+      "backgroundPresets": "පසුබිම් පෙරසිටුවීම්",
+      "none": "කිසිවක් නැත",
+      "uploadBackground": "පසුබිම උඩුගත කරන්න",
+      "cancel": "අවලංගු කරන්න",
+      "savePhoto": "ඡායාරූපය සුරකින්න",
+      "zoom": "විශාලනය කරන්න",
+      "rotationTilt": "භ්රමණය සහ ඇලවීම",
+      "resetRotation": "0° වෙත යළි පිහිටුවන්න",
+      "center": "මධ්යස්ථානය",
+      "rotateLeft": "-90 ° කරකවන්න",
+      "rotateRight": "+90 ° කරකවන්න",
+      "removeBackground": "පසුබිම ඉවත් කරන්න",
+      "processing": "ඔබගේ රූපය සකසමින්, කරුණාකර රැඳී සිටින්න..."
+    },
+    "cvPreview": {
+      "title": "CV පෙරදසුන",
+      "downloadCv": "CV බාගන්න",
+      "download": "බාගන්න",
+      "wordCannotPreview": "Word ලේඛන (.doc/.docx) බ්‍රවුසරයේ ස්වදේශිකව පෙරදසුන් කළ නොහැක. ",
+      "downloadFile": "CV ගොනුව බාගන්න",
+      "back": "ආපසු",
+      "mobileMessage": "කරුණාකර CV ගොනුව පෙරදසුන් කිරීමට බාගන්න.",
+      "preview": "CV පෙරදසුන් කරන්න",
+      "wordPreviewTitle": "Word Document Preview",
+      "wordPreviewMessage": "Word ලේඛන (.doc/.docx) බ්‍රවුසරයේ ස්වදේශිකව පෙරදසුන් කළ නොහැක. කරුණාකර එය බැලීමට ගොනුව බාගන්න."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "ඔබ ගැන, රුචිකත්වයන් සහ වෘත්තීය ඉලක්ක ගැන කෙටි විස්තරයක් ලියන්න..."
+    },
+    "skills": {
+      "placeholder": "කුසලතා නම වර්ගය...",
+      "add": "එකතු කරන්න",
+      "enterToAdd": "එකතු කිරීමට Enter ඔබන්න",
+      "noSkills": "තවම කුසලතා එකතු කර නැත."
+    },
+    "projects": {
+      "projectName": "ව්යාපෘතියේ නම",
+      "projectNamePlaceholder": "උදා. ",
+      "projectUrl": "ව්‍යාපෘති URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "කාලසීමාව",
+      "startMonth": "ආරම්භක මාසය",
+      "startYear": "ආරම්භක වසර",
+      "endMonth": "අවසන් මාසය",
+      "endYear": "අවසාන වසර",
+      "currentlyWorking": "දැනට මේ වැඩේ කරගෙන යනවා",
+      "description": "විස්තරය",
+      "descriptionPlaceholder": "ව්‍යාපෘතිය, ඔබේ කාර්යභාරය සහ ජයග්‍රහණ විස්තර කරන්න...",
+      "technologies": "භාවිතා කරන තාක්ෂණයන්",
+      "addProject": "ව්යාපෘතිය එකතු කරන්න",
+      "image": "ව්යාපෘති රූපය",
+      "removeImage": "රූපය ඉවත් කරන්න",
+      "uploadImage": "පින්තූරය උඩුගත කිරීමට ක්ලික් කරන්න"
+    },
+    "work": {
+      "company": "සමාගම/ආයතනය",
+      "companyPlaceholder": "සමාගමේ නම...",
+      "role": "භූමිකාව/තනතුර",
+      "rolePlaceholder": "ඔබේ තනතුර...",
+      "jobType": "රැකියා වර්ගය",
+      "selectJobType": "වර්ගය තෝරන්න",
+      "fullTime": "පූර්ණ කාලීන",
+      "partTime": "අර්ධ කාලීන",
+      "contract": "කොන්ත්රාත්තුව",
+      "internship": "සීමාවාසික පුහුණුව",
+      "freelance": "නිදහස්",
+      "location": "ස්ථානය",
+      "locationPlaceholder": "උදා. ",
+      "duration": "කාලසීමාව",
+      "currentlyWorking": "දැනට මෙහෙ වැඩ කරනවා",
+      "description": "රැකියා විස්තරය",
+      "descriptionPlaceholder": "ඔබේ ප්‍රධාන වගකීම් සහ ජයග්‍රහණ විස්තර කරන්න...",
+      "skills": "විශේෂිත කුසලතා",
+      "addExperience": "අත්දැකීම් එකතු කරන්න"
+    },
+    "org": {
+      "organization": "සංවිධානයේ නම",
+      "organizationPlaceholder": "සංවිධානයේ නම...",
+      "role": "භූමිකාව/තනතුර",
+      "rolePlaceholder": "උදා. ",
+      "duration": "කාලසීමාව",
+      "periodFormat": "හෝ නිදහස් ආකෘතිය (උදා. 2020 - 2022)",
+      "periodPlaceholder": "උදා. ",
+      "currentlyActive": "දැනට ක්‍රියාත්මකයි",
+      "description": "ක්රියාකාරකම් විස්තරය",
+      "descriptionPlaceholder": "ඔබේ ක්‍රියාකාරකම් හෝ දායකත්වය විස්තර කරන්න...",
+      "addExperience": "අත්දැකීම් එකතු කරන්න"
+    },
+    "education": {
+      "institution": "ආයතනයේ නම",
+      "institutionPlaceholder": "පාසලේ හෝ විශ්ව විද්‍යාලයේ නම...",
+      "degree": "උපාධිය/මට්ටම",
+      "degreePlaceholder": "උදා. ",
+      "major": "ප්‍රධාන/අධ්‍යයන ක්ෂේත්‍රය",
+      "majorPlaceholder": "උදා. ",
+      "gpa": "GPA / ශ්‍රේණිය",
+      "gpaPlaceholder": "උදා. ",
+      "duration": "අධ්යාපන කාලය",
+      "periodFormat": "හෝ නිදහස් ආකෘතිය (උදා. 2018 - 2022)",
+      "periodPlaceholder": "උදා. ",
+      "currentlyStudying": "දැනට මෙහි ඉගෙනුම ලබයි",
+      "description": "ක්රියාකාරකම් / ගෞරව",
+      "descriptionPlaceholder": "අධ්‍යයන ක්‍රියාකාරකම්, සංවිධාන, හෝ ලැබුණු ගෞරව විස්තර කරන්න...",
+      "addEducation": "අධ්යාපනය එකතු කරන්න"
+    },
+    "cert": {
+      "name": "සහතික කිරීමේ නම",
+      "namePlaceholder": "උදා. ",
+      "issuer": "නිකුත් කිරීමේ සංවිධානය",
+      "issuerPlaceholder": "උදා. ",
+      "issueDate": "නිකුත් කරන දිනය",
+      "expiryDate": "දක්වා වලංගු වේ",
+      "noExpiry": "මෙම අක්තපත්‍රය කල් ඉකුත් නොවේ",
+      "yearPlaceholder": "හෝ වර්ෂය (උදා. 2023)",
+      "credentialUrl": "අක්තපත්ර URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "අදාළ කුසලතා",
+      "addCertification": "සහතිකය එකතු කරන්න",
+      "image": "රූපය/ලාංඡනය",
+      "removeImage": "රූපය ඉවත් කරන්න",
+      "uploadImage": "පින්තූරය උඩුගත කිරීමට ක්ලික් කරන්න"
+    },
+    "common": {
+      "months": {
+        "1": "ජනවාරි",
+        "2": "පෙබරවාරි",
+        "3": "මාර්තු",
+        "4": "අප්රේල්",
+        "5": "මැයි",
+        "6": "ජූනි",
+        "7": "ජූලි",
+        "8": "අගෝස්තු",
+        "9": "සැප්තැම්බර්",
+        "10": "ඔක්තෝබර්",
+        "11": "නොවැම්බර්",
+        "12": "දෙසැම්බර්"
+      },
+      "month": "මාසය",
+      "year": "වසර",
+      "invalidDate": "වලංගු නොවන අවසන් මාසය",
+      "words": "වචන"
+    }
+  },
+  "settings": {
+    "title": "සැකසීම්",
+    "subtitle": "ඔබගේ කළඹ පැතිකඩ සහ මනාප කළමනාකරණය කරන්න",
+    "tabs": {
+      "profile": "මගේ පැතිකඩ",
+      "security": "ආරක්ෂාව",
+      "personalization": "පුද්ගලීකරණය"
+    },
+    "profile": {
+      "infoTitle": "මූලික තොරතුරු",
+      "photo": "පැතිකඩ ඡායාරූපය",
+      "uploadPhoto": "ඡායාරූපය වෙනස් කරන්න",
+      "fullName": "සම්පූර්ණ නම",
+      "fullNamePlaceholder": "ජෝන් ඩෝ",
+      "email": "ඊතැපැල් ලිපිනය",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "පුරනය වීම සඳහා විද්‍යුත් තැපෑල භාවිතා කරන අතර ප්‍රසිද්ධියේ ප්‍රදර්ශනය නොවේ.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "පැතිකඩ සුරකින්න",
+      "save": "පැතිකඩ සුරකින්න",
+      "accountCreated": "ගිණුම සාදා ඇත",
+      "lastLogin": "අවසන් පිවිසුම",
+      "oauthNotice": "මෙම පැතිකඩ ඔබගේ {{provider}} ගිණුමට සම්බන්ධ කර ඇත. සේවා සපයන්නා හරහා පැතිකඩ වෙනස්කම් සිදු කළ යුතුය."
+    },
+    "security": {
+      "changePassword": "මුරපදය වෙනස් කරන්න",
+      "currentPassword": "වත්මන් මුර පදය",
+      "currentPasswordPlaceholder": "••••••••••",
+      "newPassword": "නව මුරපදය",
+      "newPasswordPlaceholder": "••••••••••",
+      "confirmPassword": "නව මුරපදය තහවුරු කරන්න",
+      "confirmPasswordPlaceholder": "••••••••••",
+      "passwordRules": {
+        "length": "අවම වශයෙන් අක්ෂර 8 ක්",
+        "uppercase": "එක් ලොකු අකුරක් (A-Z)",
+        "number": "එක් අංකයක් (0-9)",
+        "symbol": "එක් සංකේතයක් (!@#$%^&*)"
+      },
+      "passwordTitle": "මුරපදය",
+      "updatePassword": "මුරපදය යාවත්කාලීන කරන්න",
+      "additionalSecurity": "අතිරේක ආරක්ෂාව",
+      "twoFactor": "ද්වි සාධක සත්‍යාපනය (2FA)",
+      "twoFactorDesc": "අතිරේක OTP කේතයක් භාවිතයෙන් ඔබගේ ගිණුම සුරක්ෂිත කරන්න.",
+      "activeSessions": "ක්රියාකාරී සැසි",
+      "activeSessionsDesc": "පුරනය වී ඇති උපාංග නිරීක්ෂණය කිරීමට සැමවිටම ඉඩ දෙන්න.",
+      "publicVisibility": "පොදු දෘශ්‍යතාව",
+      "hideFromSearch": "සෙවුම් යන්ත්‍ර වලින් කළඹ සඟවන්න",
+      "hideFromSearchDesc": "ඔබගේ පොදු කළඹ පිටුව සුචිගත කිරීමෙන් Google වළක්වන්න.",
+      "disable2fa": {
+        "title": "2FA අබල කරන්න",
+        "description": "ඔබට ද්වි සාධක සත්‍යාපනය අක්‍රිය කිරීමට අවශ්‍ය බව විශ්වාසද?",
+        "confirmPasswordLabel": "තහවුරු කිරීමට ඔබගේ මුරපදය ඇතුලත් කරන්න",
+        "currentPasswordPlaceholder": "වත්මන් මුරපදය",
+        "cancelButton": "අවලංගු කරන්න",
+        "confirmButton": "2FA අබල කරන්න",
+        "incorrectPassword": "වැරදි මුරපදය."
+      },
+      "setup2fa": {
+        "step1Title": "1. QR කේතය පරිලෝකනය කරන්න",
+        "step1Desc": "ඔබගේ සත්‍යාපන යෙදුම විවෘත කර පහත QR කේතය පරිලෝකනය කරන්න:",
+        "unableToScan": "ස්කෑන් කිරීමට නොහැකිද? සැකසුම් යතුර භාවිතා කරන්න",
+        "step2Title": "2. කේතය සත්‍යාපනය කරන්න",
+        "step2Desc": "ඔබගේ යෙදුම මගින් ජනනය කරන ලද ඉලක්කම්-6 කේතය ඇතුළු කරන්න:",
+        "cancelButton": "අවලංගු කරන්න",
+        "enableButton": "2FA සබල කරන්න",
+        "invalidLength": "කරුණාකර ඉලක්කම් 6ක කේතයක් ඇතුළු කරන්න.",
+        "invalidCode": "වලංගු නොවන සත්‍යාපන කේතය. කරුණාකර නැවත උත්සාහ කරන්න."
+      }
+    },
+    "personalization": {
+      "languageTitle": "භාෂා පාලන",
+      "appLanguage": "යෙදුම් භාෂාව",
+      "layoutTitle": "පිරිසැලසුම සහ මුද්‍රණ ශිල්පය",
+      "layoutStyle": "පිරිසැලසුම් විලාසය",
+      "layoutModern": "නවීන විලාසය (පෙරනිමි)",
+      "layoutClassic": "සම්භාව්ය විලාසය",
+      "layoutMinimalist": "අවම ශෛලිය",
+      "fontSize": "යෙදුම් අකුරු ප්රමාණය",
+      "fontSmall": "කුඩා",
+      "fontNormal": "සාමාන්‍ය (මධ්‍යම)",
+      "fontLarge": "විශාල",
+      "searchLanguage": "භාෂාව සොයන්න...",
+      "languageNotFound": "භාෂාව හමු නොවීය",
+      "layoutElegant": "අලංකාර ශෛලිය"
+    },
+    "saveChanges": "වෙනස්කම් සුරකින්න",
+    "cancel": "අවලංගු කරන්න",
+    "appSettings": "යෙදුම් සැකසීම්",
+    "logoutConfirmTitle": "පිටවීම තහවුරු කරන්න",
+    "logoutConfirmDesc": "ඔබට පද්ධතියෙන් ඉවත් වීමට අවශ්‍ය බව විශ්වාසද?",
+    "logoutConfirmYes": "ඔව්, පිටවීම",
+    "generalError": "දෝෂයක් සිදු විය. ",
+    "success": "සාර්ථකත්වය",
+    "preferencesSaved": "යෙදුම් මනාප සාර්ථකව සුරකින ලදී.",
+    "header": "යෙදුම් සැකසුම්",
+    "logout": {
+      "title": "පිටවීම තහවුරු කිරීම",
+      "message": "ඔබට පද්ධතියෙන් ඉවත් වීමට අවශ්‍ය බව විශ්වාසද?",
+      "confirm": "ඔව්, පිටවීම"
+    },
+    "about": {
+      "title": "යෙදුම ගැන",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "අනුවාදය",
+      "description": "DevFolio යනු සංවර්ධකයින්, නිර්මාණකරුවන් සහ වෘත්තීය නිර්මාණකරුවන් සඳහා නිර්මාණය කර ඇති නවීන කළඹ සාදන්නන්ගේ වේදිකාවකි. ",
+      "license": "බලපත්‍රය සහ ප්‍රකාශන හිමිකම",
+      "copyright": "© 2026 DevFolio Inc. සියලුම හිමිකම් ඇවිරිණි.",
+      "developer": "සංවර්ධකයා",
+      "developedBy": "DevFolio කණ්ඩායම විසින් වැඩි දියුණු කරන ලදී"
+    },
+    "deleteAccount": {
+      "title": "ගිණුම ස්ථිරවම මකන්න",
+      "menuItem": "ගිණුම මකන්න",
+      "successTitle": "සාර්ථකත්වය",
+      "successMessage": "ගිණුම මකාදැමීම තහවුරු කිරීමේ විද්‍යුත් තැපෑලක් යවා ඇත.",
+      "errorTitle": "අසාර්ථක",
+      "errorMessage": "තහවුරු කිරීමේ ඊමේල් යැවීමට අසමත් විය.",
+      "confirmationMessage": "ඔබට ඔබගේ ගිණුම ස්ථිරවම මැකීමට අවශ්‍ය බව විශ්වාසද?",
+      "warningMessage1": "ගිණුම මකාදැමීම තහවුරු කිරීමට ඔබට විද්‍යුත් තැපෑලක් ලැබෙනු ඇත.",
+      "warningMessage2": "තහවුරු කර ඇත්නම්, සියලු දත්ත (කළඹ, ව්‍යාපෘති, සංඛ්‍යාලේඛන) ස්ථිරවම මකා දමනු ලබන අතර ප්‍රතිසාධනය කළ නොහැක.",
+      "cancel": "අවලංගු කරන්න",
+      "confirm": "තහවුරු කිරීම"
+    },
+    "toasts": {
+      "toastError": "දෝෂයකි",
+      "toastSuccess": "සාර්ථකත්වය",
+      "toastSetup2FAFailed": "2FA පිහිටුවීමට අසමත් විය. කරුණාකර නැවත උත්සාහ කරන්න.",
+      "toast2FAEnabled": "ද්වි සාධක සත්‍යාපනය සක්‍රීය කර ඇත.",
+      "toast2FADisabled": "ද්වි සාධක සත්‍යාපනය අක්‍රිය කර ඇත.",
+      "toastSessionEnabled": "සක්‍රිය සැසි නිරීක්‍ෂණය සබල කර ඇත.",
+      "toastSessionDisabled": "ක්‍රියාකාරී සැසි නිරීක්‍ෂණය අබල කර ඇත.",
+      "toastSetupKeyCopied": "සැකසුම් යතුර පසුරු පුවරුවට පිටපත් කරන ලදී."
+    },
+    "privacy": {
+      "title": "රහස්යතා ප්රතිපත්තිය",
+      "updateDate": "අවසන් වරට යාවත්කාලීන කළේ: 2026 ජූලි 15",
+      "intro": "මෙම රහස්‍යතා ප්‍රතිපත්තිය DevFolio අපගේ සේවාවන් භාවිතා කරන විට ඔබගේ පුද්ගලික තොරතුරු රැස් කරන, භාවිතා කරන සහ ආරක්ෂා කරන ආකාරය පැහැදිලි කරයි.",
+      "section1Title": "1. අපි රැස් කරන තොරතුරු",
+      "section1Content": "ගිණුමක් සෑදීමේදී, කළඹක් තැනීමේදී සහ අපගේ සහාය සම්බන්ධ කර ගැනීමේදී ඔබ සෘජුවම සපයන තොරතුරු අපි රැස්කරමු. ",
+      "section2Title": "2. Use of Information",
+      "section2Content": "ඔබගේ තොරතුරු අපගේ සේවාවන් ක්‍රියාත්මක කිරීමට, නඩත්තු කිරීමට සහ සැපයීමට මෙන්ම ඔබගේ ගිණුම හෝ සේවාවන් සම්බන්ධයෙන් ඔබ සමග සන්නිවේදනය කිරීමට භාවිතා කරයි.",
+      "section3Title": "3. දත්ත ආරක්ෂාව",
+      "section3Content": "We implement reasonable security measures to protect your information from unauthorized access, disclosure, or destruction."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "තහවුරු කිරීමේ ටෝකනය හමු නොවීය.",
+    "defaultError": "ගිණුම මැකීමට අසමත් විය. ටෝකනය කල් ඉකුත් වී තිබිය හැක.",
+    "loadingTitle": "ගිණුම මකා දමමින්...",
+    "loadingMessage": "කරුණාකර රැඳී සිටින්න, අපි ඔබගේ ඉල්ලීම සකස් කරමින් සිටිමු.",
+    "successTitle": "ගිණුම සාර්ථකව මකා දමන ලදී",
+    "successMessage": "ඔබගේ සියලු දත්ත ස්ථිරවම මකා ඇත. ඔබව හරවා යවනු ඇත...",
+    "errorTitle": "ගිණුම මකා දැමීමට අසමත් විය",
+    "backToHome": "මුල් පිටුවට ආපසු යන්න"
+  },
+  "forgotPassword": {
+    "minutes": "මිනිත්තු",
+    "seconds": "තත්පර",
+    "success": "සාර්ථකත්වය",
+    "otpSentToEmail": "OTP කේතයක් ඔබගේ විද්‍යුත් තැපෑලට යවා ඇත.",
+    "failed": "අසාර්ථක",
+    "emailNotFound": "විද්‍යුත් තැපෑල හමු නොවීය.",
+    "emailThirdParty": "මෙම විද්‍යුත් තැපෑල තෙවන පාර්ශවයක් හරහා ලියාපදිංචි කර ඇත.",
+    "genericError": "දෝෂයක් ඇත. කරුණාකර නැවත උත්සාහ කරන්න.",
+    "otpVerified": "OTP කේතය සාර්ථකව සත්‍යාපනය කර ඇත.",
+    "otpExpired": "OTP කේතය කල් ඉකුත් වී ඇත. කරුණාකර නව කේතයක් ඉල්ලන්න.",
+    "otpInvalid": "වලංගු නොවන OTP කේතය.",
+    "otpResent": "ඔබගේ විද්‍යුත් තැපෑලට නව OTP කේතයක් යවා ඇත.",
+    "otpResendFailed": "OTP කේතය නැවත යැවීමට අසමත් විය. කරුණාකර නැවත උත්සාහ කරන්න.",
+    "passwordResetSuccess": "මුරපදය සාර්ථකව යළි පිහිටුවන ලදී. කරුණාකර ඔබගේ නව මුරපදය සමඟ ලොග් වන්න.",
+    "passwordResetFailed": "මුරපදය යළි පිහිටුවීම අසාර්ථක විය.",
+    "backToLogin": "පුරනය",
+    "back": "වෙත ආපසු යන්න ආපසු",
+    "title": "මුරපදය අමතකද",
+    "description": "ඔබගේ ගිණුමේ ලියාපදිංචි ඊමේල් ලිපිනය ඇතුලත් කරන්න. මුරපදය නැවත සැකසීමට අපි OTP කේතයක් එවන්නෙමු.",
+    "emailLabel": "විද්‍යුත් තැපැල් ලිපිනය",
+    "sending": "යවමින්...",
+    "sendOtp": "OTP කේතය",
+    "verifyOtpTitle": "යවන්න OTP කේතය",
+    "verifyOtpDesc": "සත්‍යාපනය කරන්න ඔබගේ අනන්‍යතාවය තහවුරු කිරීමට ඔබගේ විද්‍යුත් තැපෑලට යවා ඇති ඉලක්කම් 6ක කේතය ඇතුලත් කරන්න.",
+    "verifying": "සත්‍යාපනය කරමින්...",
+    "verifyOtp": "OTP තහවුරු කරන්න",
+    "resending": "නැවත යවමින්...",
+    "resendOtp": "OTP කේතය නැවත යවන්න",
+    "resendCodeIn": "කේතය නැවත යවන්න",
+    "newPasswordTitle": "නව මුරපදයක් සාදන්න",
+    "newPasswordDesc": "ඔබගේ ගිණුම සුරක්ෂිත කිරීමට නව ශක්තිමත් මුරපදයක් සාදන්න.",
+    "newPasswordLabel": "නව මුරපදය",
+    "min8Chars": "අවම අක්ෂර 8",
+    "oneUpperCase": "1 ලොකු අකුරු (A-Z)",
+    "oneNumber": "1 අංකය (0-9)",
+    "oneSymbol": "1 සංකේත (!@#$%^&*)",
+    "confirmPasswordLabel": "මුරපදය තහවුරු කරන්න",
+    "passwordsDoNotMatch": "මුරපද නොගැලපේ.",
+    "resettingPassword": "මුරපදය යළි පිහිටුවීම...",
+    "resetPassword": "මුරපදය යළි පිහිටුවන්න"
+  },
+  "verifyEmail": {
+    "resendError": "සත්‍යාපන ඊමේල් යලි යැවීම අසාර්ථක විය. කරුණාකර නැවත උත්සාහ කරන්න.",
+    "checkingStatus": "සත්‍යාපන තත්ත්වය පරීක්ෂා කරමින්...",
+    "title": "ඔබගේ විද්‍යුත් තැපෑල පරීක්ෂා කරන්න",
+    "description": "අපි ඔබගේ විද්‍යුත් තැපැල් ලිපිනයට සත්‍යාපන විද්‍යුත් තැපෑලක් එවා ඇත. ඔබගේ ගිණුම සක්‍රිය කිරීමට කරුණාකර විද්‍යුත් තැපෑල විවෘත කර <1>\"ගිණුම තහවුරු කරන්න\"</1> බොත්තම ක්ලික් කරන්න.",
+    "stepsTitle": "පියවර",
+    "step1": "ඔබගේ විද්‍යුත් තැපැල් යෙදුම විවෘත කරන්න (Gmail, Yahoo, etc)",
+    "step2": "DevFolio වෙතින් \"ගිණුම් සක්‍රිය කිරීම\"",
+    "step3": "යන මාතෘකාව සහිත විද්‍යුත් තැපෑලක් සොයන්න ඊමේල්",
+    "step4": "හි ඇති \"ගිණුම තහවුරු කරන්න\" බොත්තම ක්ලික් කරන්න",
+    "resendSuccess": "ඇතුළු කිරීමට ඔබව පිවිසුම් පිටුවට යොමු කරනු ඇත සත්‍යාපන ඊමේල් යලි යවා ඇත!",
+    "resending": "නැවත යවමින්...",
+    "resendButton": "සත්‍යාපන විද්‍යුත් තැපෑල නැවත යවන්න",
+    "backToLogin": "පිවිසුම් පිටුව",
+    "footerNote": "වෙත ආපසු යන්න ඊමේල් එක ලැබුණේ නැද්ද? ඔබගේ විද්‍යුත් තැපෑලෙහි <1>අයාචිත තැපෑල</1> හෝ <2>ජන්ක්</2> ෆෝල්ඩරය පරීක්ෂා කරන්න. සත්‍යාපන සබැඳිය <3>පැය 24</3> සඳහා වලංගු වේ."
+  }
+}

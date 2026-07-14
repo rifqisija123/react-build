@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ibulibuli",
+    "templates": "ivakaraitaki",
+    "pricing": "Na isau",
+    "login": "Loma",
+    "getStarted": "Tekivu",
+    "title": "Veivakatorocaketaki"
+  },
+  "landing": {
+    "badge": "Na iotioti ni dau tara vale me baleti ira na dauvakatorocaketaka",
+    "title1": "Tara cake na nomu kenadau .",
+    "title2": "potifolio ena",
+    "titleHighlight": "sekodi.",
+    "subtitle": "Na veika kece o gadreva mo vakaraitaka kina na nomu kila, cakacaka, kei na veika o sotava. ",
+    "startBuilding": "Tekivu tara ena gauna oqo",
+    "viewTemplates": "Raica na ivakaraitaki",
+    "fastDeployment": "Vakayagataki totolo",
+    "liveStatus": "yaca ni vakayagataki.dev sa bula tiko!",
+    "featuresTitle": "Na veika kaukauwa",
+    "featuresSubtitle": "Eda vakarautaka na iyaya kece o gadreva mo tu tani mai vei ira na lewevuqa ka qele na nomu cakacaka ni tadra.",
+    "feature1Title": "Dredre & Biuta na Dauniveibuli",
+    "feature1Desc": "Rawarawa na kena tuvanaki na nomu iwasewase, cakacaka, kei na kila ena noda edita ni rai vakaibalebale.",
+    "feature2Title": "Na ulutaga vakaitaukei",
+    "feature2Desc": "Digitaka mai na templates vakarautaki vakacakacaka se bulia na nomu irairai duatani.",
+    "feature3Title": "Vakadidike ena gauna dina",
+    "feature3Desc": "Vakamuria na nomu veisiko, raica na cakacaka cava e rawata vakalevu duadua na kauwai, kei na so tale."
+  },
+  "auth": {
+    "welcomeBack": "Kidavaki kemuni",
+    "loginToContinue": "Vakacuruma na nomu akaude mo tomana tikoga .",
+    "createAccount": "Cakava na akaude",
+    "joinCommunity": "Tomani ira na udolu tale na dauvakatorocaketaka",
+    "fullName": "Yaca Taucoko",
+    "fullNamePlaceholder": "t.s. ",
+    "email": "Itikotiko ni imeli",
+    "emailPlaceholder": "iko@ivakaraitaki.com",
+    "password": "Vosavuni",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Nanumi au",
+    "forgotPassword": "Guilecava na vosanicuru?",
+    "signIn": "Saini",
+    "signingIn": "Saini ena...",
+    "signUp": "Saini",
+    "signingUp": "Saini...",
+    "noAccount": "Sega ni dua na nomu akaude?",
+    "hasAccount": "Sa tiko beka e dua na nomu akaude?",
+    "passwordRules": {
+      "title": "Na vosanicuru e dodonu me tiko kina:",
+      "length": "E lailai mai na 8 na matanivola",
+      "uppercase": "E dua na matanivola lelevu (A-Z)",
+      "number": "Dua na naba (0-9)",
+      "symbol": "E dua na ivakatakilakila (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Dauniveiqaravi",
+      "templates": "ivakaraitaki kei na ulutaga",
+      "settings": "Tuvatuva",
+      "collapse": "Kosova na tabana ni yasana",
+      "overview": "Railesuvi",
+      "profileSettings": "Tuvatuva ni itukutuku",
+      "customDomain": "Vanua Vakaitaukei",
+      "feedback": "Itukutuku vakalesui"
+    },
+    "header": {
+      "viewLive": "Raica na bula",
+      "welcome": "Kidavaki,",
+      "logout": "Biuta",
+      "builder": "Dau tara vale",
+      "livePortfolio": "Potefolio Bula",
+      "live": "Bula"
+    },
+    "logoutModal": {
+      "title": "Biuta",
+      "message": "O sa vakadeitaka beka ni o vinakata mo biuta na nomu akaude? ",
+      "cancel": "Biuta laivi",
+      "confirm": "Io, Lako tani"
+    },
+    "slugModal": {
+      "title": "Digitaka na nomu URL ni itukutuku",
+      "message": "Na URL oqo ena isema duatani ki na nomu itukutuku. ",
+      "slugPlaceholder": "nomu-yaca",
+      "availability": "Na kena rawati:",
+      "available": "Tiko",
+      "unavailable": "Sega ni rawati",
+      "checking": "Vakadikeva tiko...",
+      "mustFormat": "E rawa ni tiko ga kina na matanivola, naba, kei na dashes (-)",
+      "cancel": "Biuta laivi",
+      "save": "Maroroya na URL",
+      "usernameUrl": "URL ni yaca vakayagataki",
+      "helpText": "Na matanivola lalai, naba, kei na dash. ",
+      "validation": {
+        "empty": "E sega ni rawa ni vakalalai na Slug.",
+        "min3": "E lailai duadua na 3 na matanivola.",
+        "max30": "E levu duadua e 30 na matanivola.",
+        "format": "Na matanivola lalai ga, naba, kei na dash (-). "
+      }
+    },
+    "loadingPortfolio": "Vakavodoki tiko na itukutuku ni kato...",
+    "overview": {
+      "greetings": {
+        "morning": "Ni Mataka Vinaka",
+        "afternoon": "Siga Vinaka",
+        "evening": "Siga Vinaka",
+        "night": "Bogi Vinaka"
+      },
+      "welcome": {
+        "hi": "Bula vinaka,",
+        "creator": "Dauveibuli",
+        "desc1": "Kidavaki kemuni ki na papa ni DevFolio. Sa raica oti na nomu itukutuku na .",
+        "desc2": "tamata. Tomana tikoga na cakacaka!",
+        "editPortfolio": "Edita na Potefolio"
+      },
+      "stats": {
+        "totalVisitors": "iWiliwili ni Veisiko",
+        "projectViews": "Raica (Cakacaka)",
+        "activeSessions": "Soqoni Gugumatua",
+        "totalLabel": "Taucoko"
+      },
+      "setup": {
+        "title": "Toso ki liu",
+        "completed": "Sa taucoko na nomu ivolatukutuku! 🎉",
+        "inProgress": "Na ikalawa ki na itukutuku uasivi.",
+        "profile": {
+          "title": "Taucoko na itukutuku",
+          "desc": "Kuria na yaca, bio kei na itaba ni itukutuku."
+        },
+        "section": {
+          "title": "Kuria na Wasewase",
+          "desc": "Vakayacora e lailai duadua na 1 na iwasewase ena itukutuku."
+        },
+        "project": {
+          "title": "Kuria na cakacaka",
+          "desc": "Vakacuruma ke lailai 1 na nomu cakacaka vinaka duadua."
+        },
+        "publish": {
+          "title": "Tabaka na itukutuku",
+          "desc": "Vakarautaka e dua na URL vakaitaukei me rawa ni ra raica na lewenivanua."
+        }
+      },
+      "topProjects": {
+        "title": "Cakacaka kilai levu duadua",
+        "desc": "Na vakayacori ni nomu cakacaka ena matadra na dausiko vanua.",
+        "viewAll": "Raica kece",
+        "empty": "E se bera ni dua na itukutuku ni rai me baleta na nomu cakacaka."
+      }
+    },
+    "themes": {
+      "title": "Na ivakaraitaki kei na ulutaga",
+      "subtitle": "Vakarautaka na irairai kei na vakila ni nomu itukutuku raraba.",
+      "reset": "Vakavoutaka na kena ivakarau",
+      "save": "Maroroya na veisau",
+      "saving": "Vakabulai...",
+      "chooseTemplate": "Digitaka e dua na ivakaraitaki",
+      "primaryColor": "Roka taumada",
+      "typography": "Tipo",
+      "appearance": "Na kena irairai",
+      "corners": "Na tutu kei na iyalayala",
+      "successTitle": "Rawaka",
+      "successMessage": "Na gagadre ni ulutaga sa vakavoutaki vakavinaka",
+      "errorTitle": "Cala",
+      "errorMessage": "E sega ni rawa ni maroroi na gagadre ni ulutaga",
+      "templates": {
+        "minimalist": {
+          "name": "Vakalailai",
+          "desc": "Na ituvatuva savasava ka rawarawa ka vakanamata ki na veika e tiko kina."
+        },
+        "developerDark": {
+          "name": "Vakatorocaketaka butobuto",
+          "desc": "Ulutaga butobuto vinaka sara me baleta na vakaraitaki ni code kei na tech stacks."
+        },
+        "creative": {
+          "name": "Veibuli",
+          "desc": "Na ituvatuva bulabula ka rokataki me baleta na daudroini kei na veibuli."
+        },
+        "executive": {
+          "name": "Veiliutaki",
+          "desc": "Na ituvatuva vakacakacaka kei na kenadau me baleta na kenadau ni bisinisi."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Na ituvatuva ni grid ni Apple-ivakarau ni gauna oqo ka vakaraitaka na kila duidui vakavinaka."
+        },
+        "neoBrutalism": {
+          "name": "Na Veivakasaurarataki Vou",
+          "desc": "Na iyalayala kaukauwa kei na roka duidui cecere me baleta e dua na irairai ni ivakarau, sega ni veivosoti."
+        },
+        "glassmorphism": {
+          "name": "Na iloilo",
+          "desc": "Na kena revurevu ni iloilo batabata ena veimataqali roka me baleta e dua na UI ni gauna oqo."
+        },
+        "linkInBio": {
+          "name": "Veisemati ena Bio",
+          "desc": "Na ituvatuva vakadodonu ni compact vakavinakataki me baleta na sikirini ni talevoni veikauyaki kei na itukutuku raraba."
+        }
+      },
+      "appearances": {
+        "light": "Rarama",
+        "dark": "Butobuto",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Matata",
+        "rounded": "Vakavolivolita",
+        "pill": "Pili"
+      }
+    },
+    "feedback": {
+      "title": "Vakauta mai na nomu vakasama",
+      "subtitle": "Vukei keda me da vinaka cake ena kena vakarautaki na vakatutu, veivakacacani, se ripotetaki na bugs ena ivolakerekere oqo.",
+      "categoryLabel": "Na iwasewase ni vakasama",
+      "messageLabel": "Na itukutuku ni itukutuku",
+      "messagePlaceholder": "Tukuna vei au ena kena matailalai na veivakasama o vinakata mo vakadewataka...",
+      "imageLabel": "Vakacurumi ni iyaloyalo (Vakatulewa)",
+      "imagePlaceholder": "Kiliki mo vakauta na iyaloyalo se sikirini",
+      "submitting": "Vakauta...",
+      "submitBtn": "Vakauta mai na nomu vakasama",
+      "categories": {
+        "suggestion": "Vakatutu & Vakasama",
+        "bug": "Ripote ni cala / cala",
+        "criticism": "Veivakacacani",
+        "other": "Eso tale"
+      },
+      "imageErrorTitle": "Cala",
+      "imageErrorMessage": "Eso na faile era sa vakasukai baleta ni ra sega ni tokoni na ivakarau ni iyaloyalo (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Rawaka",
+      "successMessage": "Vinaka vakalevu na veivakasama! Sa vakau na ripote.",
+      "submitErrorTitle": "Sega ni rawa",
+      "submitErrorMessage": "E dua na cala e yaco ena gauna e vakau kina na vakatutu. Kerekere mo tovolea tale."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Me baleti Au",
+      "skills": "Kila",
+      "projects": "Cakacaka",
+      "workExperience": "Na veika e sotavi ena cakacaka",
+      "orgExperience": "Na veika e sotavi ena isoqosoqo",
+      "education": "Vuli",
+      "certifications": "Veivakavulici & Sitivikiti",
+      "contact": "Veitaratara kei au"
+    },
+    "editor": {
+      "profileInfo": "itukutuku ni itukutuku",
+      "saving": "Vakabulai...",
+      "profilePhoto": "itaba ni itukutuku",
+      "clickToUpload": "Kiliki mo vakauta cake (JPG, PNG)",
+      "fullName": "Yaca Taucoko",
+      "fullNamePlaceholder": "t.s. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Dauniveiqaravi ni Fullstack kei na dua na gagadre me baleta na tara ni apps ni itukutuku ni gauna oqo...",
+      "location": "Vanua",
+      "locationPlaceholder": "t.s. ",
+      "gender": "Tagane se yalewa",
+      "selectGender": "Digitaka na tagane se yalewa",
+      "male": "Tagane",
+      "female": "Yalewa",
+      "custom": "Ivakarau",
+      "customPlaceholder": "Taipataka na nomu tagane se yalewa...",
+      "uploadCv": "Vakauta mai na CV",
+      "cvFormat": "(DOC se PDF)",
+      "preview": "Raica taumada",
+      "remove": "Kauta tani",
+      "clickToUploadCv": "Kiliki mo vakauta na PDF se DOC .",
+      "sections": "Wasewase",
+      "removeSelected": "Kauta laivi na Digitaki",
+      "confirmRemove": "Vakadeitaka na Kauta laivi",
+      "addSection": "Kuria na Wase",
+      "addAllSections": "Kuria na veiwase kece",
+      "noSections": "Se bera ni dua na iwasewase",
+      "clickToAdd": "Kiliki ena \"+ Vakacuruma na Wase\" me tekivu",
+      "selectAll": "Digitaka kece",
+      "selected": "Digitaki",
+      "dragToReorder": "Dredre me vakarautaki tale na iwasewase",
+      "livePreview": "Raica taumada",
+      "addSectionsToBuild": "Kuria na veiwase me tara kina na nomu itukutuku .",
+      "now": "Oqo",
+      "current": "Gauna oqo",
+      "noExpiry": "Sega ni oti",
+      "see": "Raica",
+      "position": "Itutu",
+      "degree": "Ivakatagedegede",
+      "certification": "Sitivikiti",
+      "sectionsForm": {
+        "about": {
+          "label": "Vakamacalataki iko",
+          "placeholder": "Tukuna vei keitou na veika me baleti iko, na nomu itukutuku, na veika o taleitaka kei na nomu kila..."
+        },
+        "skills": {
+          "addPlaceholder": "Taipa kila ka qai tabaka na Vakacuruma..."
+        },
+        "projects": {
+          "title": "Yaca ni Cakacaka",
+          "titlePlaceholder": "Yaca ni cakacaka...",
+          "url": "URL ni cakacaka",
+          "description": "Ivakamacala",
+          "descriptionPlaceholder": "Na ivakamacala lekaleka ni cakacaka...",
+          "uploadThumbnail": "iyaloyalo ni cakacaka",
+          "addProject": "Kuria na cakacaka",
+          "projectNum": "Itavi #",
+          "currentProject": "Oqo e dua na cakacaka au sa cakacaka tiko kina ."
+        },
+        "work": {
+          "company": "Kabani/Tabacakacaka",
+          "companyPlaceholder": "Yaca ni kabani...",
+          "position": "itutu/itutu",
+          "positionPlaceholder": "Na nomu itutu...",
+          "employmentType": "Mataqali cakacaka",
+          "location": "Vanua",
+          "locationPlaceholder": "Siti, Vanua...",
+          "startDate": "Tekivu",
+          "endDate": "Oti",
+          "currentWork": "Au se cakacaka tikoga ena gauna oqo .",
+          "description": "Ivakamacala",
+          "descriptionPlaceholder": "Na ivakamacala ni cakacaka kei na itavi...",
+          "skills": "Maqosa",
+          "addExperience": "Kuria na veika e sotavi ena cakacaka",
+          "experienceNum": "Veika e sotava #",
+          "dateError": "Na siga ni cava e sega ni rawa ni totolo cake mai na siga ni tekivu ."
+        },
+        "org": {
+          "organization": "Yaca ni isoqosoqo",
+          "orgPlaceholder": "Univesiti ni BEM...",
+          "role": "iTavi/Itutu",
+          "rolePlaceholder": "Ulu ni Wasewase...",
+          "addOrg": "Kuria na veika e sotavi ena isoqosoqo",
+          "orgNum": "Isoqosoqo #"
+        },
+        "edu": {
+          "institution": "Na veivanua ni vuli",
+          "institutionPlaceholder": "Yaca ni koronivuli se koronivuli...",
+          "degree": "Ulutaga",
+          "degreePlaceholder": "S1, vuli torocake, kei na so tale...",
+          "major": "Tabana/Vanua ni Vuli",
+          "majorPlaceholder": "Idinia ni itukutuku...",
+          "gpa": "GPA (vakatulewa)",
+          "currentStudy": "Au se vuli tikoga eke .",
+          "descriptionPlaceholder": "Na veicakacaka kei na veika e rawati ena gauna ni vuli...",
+          "addEdu": "Kuria na Vuli",
+          "eduNum": "Vuli #"
+        },
+        "cert": {
+          "name": "Yaca ni Sitivikiti / Veivakavulici",
+          "namePlaceholder": "Yaca ni veivakadeitaki...",
+          "issuer": "Dauvolaivola",
+          "issuerPlaceholder": "Inisitute ni tabaivola...",
+          "issueDate": "Tekivu (Siga ni Tabaki)",
+          "issueDatePlaceholder": "Digitaka na siga ni tabaki...",
+          "expiryDate": "Sa vakacavari (Gauna Vakayagataki)",
+          "expiryDatePlaceholder": "Digitaka na siga ni cava...",
+          "noExpiry": "Na sitivikiti oqo e sega ni dua na siga ni kena vakayagataki .",
+          "url": "URL ni ivakadinadina",
+          "uploadThumbnail": "Sitivikiti / Iyaloyalo ni Veivakavulici",
+          "uploadThumbnailLimit": "Vakauta mai na iyaloyalo ni sitivikiti (JPG/PNG/WEBP, levu duadua 2MB)",
+          "addCert": "Kuria na Sitivikiti",
+          "certNum": "Sitivikiti #"
+        },
+        "contact": {
+          "contactNum": "Veitaratara #",
+          "platform": "Ituvatuva",
+          "displayText": "Vakaraitaka na ivola",
+          "displayTextPlaceholder": "me kena ivakaraitaki, o iko@imeli.com se @yacavakayagataki",
+          "url": "Veisemati (URL)",
+          "urlPlaceholderWhatsapp": "ivakaraitaki, 62812... (sega ni liutaki 0)",
+          "urlPlaceholderEmail": "me kena ivakaraitaki, o iko@imeli.com",
+          "urlPlaceholderWebsite": "me kena ivakaraitaki, http://...",
+          "urlPlaceholderDefault": "me kena ivakaraitaki, yaca vakayagataki",
+          "addContact": "Kuria na veitaratara"
+        },
+        "common": {
+          "months": {
+            "1": "Janueri",
+            "2": "Feperueri",
+            "3": "Maji",
+            "4": "Epereli",
+            "5": "Me",
+            "6": "June",
+            "7": "Julai",
+            "8": "Okosita",
+            "9": "Seviteba",
+            "10": "Okotova",
+            "11": "Noveba",
+            "12": "Tiseba"
+          },
+          "month": "Vula",
+          "year": "Yabaki",
+          "invalidDate": "Vula ni Vakacagicagi sega ni dodonu",
+          "words": "vosa"
+        }
+      },
+      "sure": "Dina",
+      "deletePhotoTitle": "Bokoca na itaba ni itukutuku?",
+      "deletePhotoMessage": "O sa vakadeitaka ni o vinakata mo bokoca na itaba ni itukutuku oqo?",
+      "cancel": "Biuta laivi",
+      "delete": "Bokoca"
+    },
+    "cropper": {
+      "chooseBackground": "Digitaka na itukutuku",
+      "cropPhoto": "Kotiva na nomu itaba",
+      "useOriginal": "Vakayagataka na kena taumada",
+      "backgroundPresets": "Vakarautaki ni itukutuku",
+      "none": "Sega",
+      "uploadBackground": "Vakauta mai na itukutuku",
+      "cancel": "Biuta laivi",
+      "savePhoto": "Maroroya na itaba",
+      "zoom": "Zoom",
+      "rotationTilt": "Veisau & Veisau",
+      "resetRotation": "Vakavoutaka tale ki na 0°",
+      "center": "Lomadonu",
+      "rotateLeft": "Vuki -90°",
+      "rotateRight": "Vuki +90°",
+      "removeBackground": "Kauta laivi na itukutuku",
+      "processing": "Vakarautaki tiko na nomu iyaloyalo, yalovinaka waraka..."
+    },
+    "cvPreview": {
+      "title": "Railesuva na CV",
+      "downloadCv": "Lavetaka na CV",
+      "download": "Lavetaka",
+      "wordCannotPreview": "Na ivola ni vosa (.doc/.docx) e sega ni rawa ni vakaraitaki taumada ena barausa. ",
+      "downloadFile": "Lavetaka na faile ni CV",
+      "back": "Lesu tale",
+      "mobileMessage": "Kerekere mo lavetaka na faile ni CV mo raica taumada.",
+      "preview": "Raica taumada na CV",
+      "wordPreviewTitle": "Raica taumada na ivola ni Vosa",
+      "wordPreviewMessage": "Na ivola ni vosa (.doc/.docx) e sega ni rawa ni vakaraitaki taumada ena barausa. Yalovinaka lavetaka na faile mo raica kina."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Vola e dua na ivakamacala lekaleka me baleti iko, veika o taleitaka, kei na takete ni cakacaka..."
+    },
+    "skills": {
+      "placeholder": "Taipa na yaca ni kila...",
+      "add": "Vakuria",
+      "enterToAdd": "Tabaka na Enter mo vakuria .",
+      "noSkills": "Sega ni dua na kila ka e vakacurumi."
+    },
+    "projects": {
+      "projectName": "Yaca ni Cakacaka",
+      "projectNamePlaceholder": "t.s. ",
+      "projectUrl": "URL ni cakacaka",
+      "projectUrlPlaceholder": "http://...",
+      "duration": "Gauna",
+      "startMonth": "Tekivu ni Vula",
+      "startYear": "Yabaki ni Tekivu",
+      "endMonth": "Mudu ni Vula",
+      "endYear": "Mudu ni Yabaki",
+      "currentlyWorking": "Ena gauna oqo e cakacaka tiko ena ka oqo .",
+      "description": "Ivakamacala",
+      "descriptionPlaceholder": "Vakamacalataka na cakacaka, nomu itavi, kei na veika o rawata...",
+      "technologies": "Tekinolaji e vakayagataki",
+      "addProject": "Kuria na cakacaka",
+      "image": "iyaloyalo ni cakacaka",
+      "removeImage": "Kauta laivi na iyaloyalo",
+      "uploadImage": "Kiliki mo vakauta na iyaloyalo"
+    },
+    "work": {
+      "company": "Kabani/Soqosoqo",
+      "companyPlaceholder": "Yaca ni kabani...",
+      "role": "iTavi/Itutu",
+      "rolePlaceholder": "Na nomu itutu...",
+      "jobType": "Mataqali Cakacaka",
+      "selectJobType": "Digitaka na mataqali",
+      "fullTime": "Gauna taucoko",
+      "partTime": "Gauna vakalekaleka",
+      "contract": "Veidinadinati",
+      "internship": "Vuli",
+      "freelance": "Galala",
+      "location": "Vanua",
+      "locationPlaceholder": "t.s. ",
+      "duration": "Gauna",
+      "currentlyWorking": "Ena gauna oqo e cakacaka tiko eke .",
+      "description": "iVakamacala ni Cakacaka",
+      "descriptionPlaceholder": "Vakamacalataka na nomu itavi bibi kei na veika o rawata...",
+      "skills": "Kila Vakatabakidua",
+      "addExperience": "Kuria na veika o sotava"
+    },
+    "org": {
+      "organization": "Yaca ni isoqosoqo",
+      "organizationPlaceholder": "Yaca ni isoqosoqo...",
+      "role": "iTavi/Itutu",
+      "rolePlaceholder": "t.s. ",
+      "duration": "Gauna",
+      "periodFormat": "se iTuvatuva Galala (me vaka na 2020 - 2022)",
+      "periodPlaceholder": "t.s. ",
+      "currentlyActive": "Sa cakacaka tiko ena gauna oqo",
+      "description": "iVakamacala ni Cakacaka",
+      "descriptionPlaceholder": "Vakamacalataka na nomu itaviqaravi se cau...",
+      "addExperience": "Kuria na veika o sotava"
+    },
+    "education": {
+      "institution": "Yaca ni isoqosoqo",
+      "institutionPlaceholder": "Yaca ni koronivuli se univesiti...",
+      "degree": "Diqiri/ivakatagedegede",
+      "degreePlaceholder": "t.s. ",
+      "major": "Levu/Vanua ni Vuli",
+      "majorPlaceholder": "t.s. ",
+      "gpa": "GPA / Kalasi",
+      "gpaPlaceholder": "t.s. ",
+      "duration": "Balavu ni Vuli",
+      "periodFormat": "se ituvatuva galala (me vaka na 2018 - 2022)",
+      "periodPlaceholder": "t.s. ",
+      "currentlyStudying": "Ena gauna oqo vuli tiko eke .",
+      "description": "Cakacaka / Veivakarokorokotaki",
+      "descriptionPlaceholder": "Vakamacalataka na itaviqaravi vakavuli, isoqosoqo, se na veivakarokorokotaki e ciqomi...",
+      "addEducation": "Kuria na Vuli"
+    },
+    "cert": {
+      "name": "Yaca ni Sitivikiti",
+      "namePlaceholder": "t.s. ",
+      "issuer": "iSoqosoqo ni Veisoliyaki",
+      "issuerPlaceholder": "t.s. ",
+      "issueDate": "Siga ni Lavo",
+      "expiryDate": "Vakayagataki me yacova na",
+      "noExpiry": "Na ivakadinadina oqo e sega ni oti .",
+      "yearPlaceholder": "se Yabaki (me vaka na 2023)",
+      "credentialUrl": "URL ni ivakadinadina",
+      "credentialUrlPlaceholder": "http://...",
+      "skills": "Na kila ka veiwekani",
+      "addCertification": "Kuria na Sitivikiti",
+      "image": "iyaloyalo/ivakatakilakila",
+      "removeImage": "Kauta laivi na iyaloyalo",
+      "uploadImage": "Kiliki mo vakauta na iyaloyalo"
+    },
+    "common": {
+      "months": {
+        "1": "Janueri",
+        "2": "Feperueri",
+        "3": "Maji",
+        "4": "Epereli",
+        "5": "Me",
+        "6": "June",
+        "7": "Julai",
+        "8": "Okosita",
+        "9": "Seviteba",
+        "10": "Okotova",
+        "11": "Noveba",
+        "12": "Tiseba"
+      },
+      "month": "Vula",
+      "year": "Yabaki",
+      "invalidDate": "Vula ni Vakacagicagi sega ni dodonu",
+      "words": "vosa"
+    }
+  },
+  "settings": {
+    "title": "Tuvatuva",
+    "subtitle": "Vakarautaka na nomu itukutuku kei na veika o taleitaka",
+    "tabs": {
+      "profile": "Noqu itukutuku",
+      "security": "Veitaqomaki",
+      "personalization": "Vakatamata"
+    },
+    "profile": {
+      "infoTitle": "Yavu ni itukutuku",
+      "photo": "itaba ni itukutuku",
+      "uploadPhoto": "Veisautaka na itaba",
+      "fullName": "Yaca Taucoko",
+      "fullNamePlaceholder": "Joni Doe",
+      "email": "Itikotiko ni imeli",
+      "emailPlaceholder": "joni@ivakaraitaki.com",
+      "emailHelp": "E vakayagataki na imeli me baleta na curu ka sega ni vakaraitaki raraba.",
+      "portfolioUrl": "URL ni itukutuku",
+      "saveProfile": "Maroroya na itukutuku",
+      "save": "Maroroya na itukutuku",
+      "accountCreated": "Sa buli na akaude",
+      "lastLogin": "iOtioti ni curu",
+      "oauthNotice": "Na itukutuku oqo e semati ki na nomu akaude ni {{vakarautaki}}. Na veisau ni itukutuku e dodonu me vakayacori ena veiqaravi ni veiqaravi."
+    },
+    "security": {
+      "changePassword": "Veisautaka na vosanicuru",
+      "currentPassword": "Vosanicuru ena gauna oqo",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Vosanicuru vou",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Vakadeitaka na vosanicuru vou",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "E lailai mai na 8 na matanivola",
+        "uppercase": "E dua na matanivola lelevu (A-Z)",
+        "number": "Dua na naba (0-9)",
+        "symbol": "E dua na ivakatakilakila (!@#$%^&*)"
+      },
+      "passwordTitle": "Vosavuni",
+      "updatePassword": "Vakavoutaka na vosanicuru",
+      "additionalSecurity": "ikuri ni veitaqomaki",
+      "twoFactor": "Na veivakadeitaki ni rua na ka (2FA)",
+      "twoFactorDesc": "Vakadeitaka na nomu akaude ena kena vakayagataki e dua na ikuri ni OTP code.",
+      "activeSessions": "Soqoni Vakaitavi",
+      "activeSessionsDesc": "Dau vakatara na kena dikevi na iyaya ni curu-ena.",
+      "publicVisibility": "Raici Raraba",
+      "hideFromSearch": "Vunitaka na itukutuku mai na misini ni vakasaqaqara",
+      "hideFromSearchDesc": "Tarova na Google mai na kena vakaraitaki na nomu tabana ni itukutuku raraba.",
+      "disable2fa": {
+        "title": "Vakacacana na 2FA",
+        "description": "O sa vakadeitaka ni o vinakata mo bokoca na veivakadeitaki ni rua na ka?",
+        "confirmPasswordLabel": "Vakacuruma na nomu vosanicuru me vakadeitaka .",
+        "currentPasswordPlaceholder": "Vosanicuru ena gauna oqo",
+        "cancelButton": "Bokoca",
+        "confirmButton": "Vakacacana na 2FA",
+        "incorrectPassword": "Cala na vosanicuru."
+      },
+      "setup2fa": {
+        "step1Title": "1. Vakadikeva na naba ni QR",
+        "step1Desc": "Dolava na nomu app ni veivakadeitaki ka vakaraica na QR code oqo:",
+        "unableToScan": "Sega ni rawa ni scan? Vakayagataka na ki ni ituvatuva",
+        "step2Title": "2. Vakadeitaka na Kode",
+        "step2Desc": "Vakacuruma na 6-digidigi ni kode e vakatubura na nomu app:",
+        "cancelButton": "Biuta laivi",
+        "enableButton": "Vakatara na 2FA",
+        "invalidLength": "Yalovinaka vakacuruma e dua na code 6-digidigi.",
+        "invalidCode": "Kode ni veivakadeitaki sega ni dodonu. Kerekere mo tovolea tale."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Veiliutaki ni Vosa",
+      "appLanguage": "Vosa ni App",
+      "layoutTitle": "Tuvatuva kei na tabaivola",
+      "layoutStyle": "ivakarau ni ituvatuva",
+      "layoutModern": "iVakarau ni gauna oqo (Tudei)",
+      "layoutClassic": "iVakarau kilai levu",
+      "layoutMinimalist": "ivakarau lailai",
+      "fontSize": "Levu ni matanivola ni App",
+      "fontSmall": "Lailai",
+      "fontNormal": "Vakatautauvata (Veimama)",
+      "fontLarge": "Levu",
+      "searchLanguage": "Vakasaqara na vosa...",
+      "languageNotFound": "Sega ni kunei na vosa",
+      "layoutElegant": "iVakarau totoka"
+    },
+    "saveChanges": "Maroroya na veisau",
+    "cancel": "Biuta laivi",
+    "appSettings": "Tuvatuva ni App",
+    "logoutConfirmTitle": "Vakadeitaka na biubiu",
+    "logoutConfirmDesc": "O sa vakadeitaka beka ni o vinakata mo biuta na ivakarau?",
+    "logoutConfirmYes": "Io, Lako tani",
+    "generalError": "E yaco e dua na cala. ",
+    "success": "Rawati",
+    "preferencesSaved": "Na gagadre ni App e vakabulai vakavinaka.",
+    "header": "Na ituvatuva ni ivolakerekere",
+    "logout": {
+      "title": "Vakadeitaki ni Biubiu",
+      "message": "O sa vakadeitaka beka ni o vinakata mo biuta na ivakarau?",
+      "confirm": "Io, Lako tani"
+    },
+    "about": {
+      "title": "Me baleta na ivolakerekere",
+      "subtitle": "Tuvatuva ni Dauniveiqaravi",
+      "version": "Itabataba",
+      "description": "DevFolio e dua na ituvatuva ni tara vale ni gauna oqo ka vakarautaki me baleta na dauvakatorocaketaki, daudroini, kei na daubulibuli vakaitaukei. ",
+      "license": "Laiseni kei na dodonu ni taukeni",
+      "copyright": "Na dodonu kece e maroroi tu.",
+      "developer": "Dauveivakatorocaketaki",
+      "developedBy": "Vakatorocaketaka o Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Bokoca vakadua na akaude",
+      "menuItem": "Bokoca na akaude",
+      "successTitle": "Rawaka",
+      "successMessage": "Sa vakau yani e dua na imeli ni veivakadeitaki ni bokoci ni akaude.",
+      "errorTitle": "Sega ni rawa",
+      "errorMessage": "E sega ni rawa ni vakau na imeli ni veivakadeitaki.",
+      "confirmationMessage": "O sa vakadeitaka beka ni o vinakata mo bokoca vakadua na nomu akaude?",
+      "warningMessage1": "O na ciqoma e dua na imeli me vakadeitaka na bokoci ni akaude.",
+      "warningMessage2": "Kevaka e vakadeitaki, na itukutuku kece (itukutuku, cakacaka, iwiliwili) ena bokoci vakadua ka sega ni rawa ni vakalesui mai.",
+      "cancel": "Vakasuka",
+      "confirm": "Veivakadeitaki"
+    },
+    "toasts": {
+      "toastError": "Cala",
+      "toastSuccess": "Rawati",
+      "toastSetup2FAFailed": "E sega ni rawa ni vakarautaki na 2FA. Kerekere mo tovolea tale.",
+      "toast2FAEnabled": "Sa vakatarai na veivakadeitaki ni rua na ka.",
+      "toast2FADisabled": "Sa vakaleqai na veivakadeitaki ni rua na ka.",
+      "toastSessionEnabled": "Sa vakatarai na veiqaravi ni veiqaravi ni veiqaravi.",
+      "toastSessionDisabled": "Sa vakaleqai na veiqaravi ni veiqaravi ni veiqaravi.",
+      "toastSetupKeyCopied": "Ki ni vakarautaki e kopitaki ki na papa ni volavola."
+    },
+    "privacy": {
+      "title": "iTuvatuva ni itukutuku",
+      "updateDate": "iOtioti ni Vakavoui: 15 ni Julai, 2026",
+      "intro": "Na iTuvatuva ni itukutuku oqo e vakamacalataka na sala e kumuna kina o DevFolio, vakayagataka, ka taqomaka na nomu itukutuku vakaitaukei ni o vakayagataka na noda veiqaravi.",
+      "section1Title": "1. Na itukutuku keitou kumuna .",
+      "section1Content": "Eda kumuna na itukutuku o solia vakadodonu ena gauna o bulia kina e dua na akaude, tara e dua na itukutuku, ka veitaratara kei na noda veitokoni. ",
+      "section2Title": "2. Vakayagataki ni itukutuku .",
+      "section2Content": "Na nomu itukutuku e vakayagataki me cakacakataki, maroroi, ka vakarautaka na veika e baleta na noda veiqaravi, ka vakakina me veitaratara kei iko me baleta na nomu akaude se veiqaravi.",
+      "section3Title": "3. Veitaqomaki ni itukutuku",
+      "section3Content": "Eda vakayagataka na iwalewale ni veitaqomaki veiganiti me taqomaki kina na nomu itukutuku mai na kena sega ni vakadonui na kena rawati, vakaraitaki, se vakarusai."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "E sega ni kunei na ivakatakilakila ni veivakadeitaki.",
+    "defaultError": "E sega ni rawa ni bokoci na akaude. E rawa ni sa oti na kena gauna na tokeni.",
+    "loadingTitle": "Bokoca na akaude...",
+    "loadingMessage": "Kerekere mo ni waraka, keitou sa vakayacora tiko na nomuni kerekere.",
+    "successTitle": "Sa rawa ni bokoci na akaude",
+    "successMessage": "Na nomu itukutuku kece sa bokoci vakadua. O na vakasukai tale...",
+    "errorTitle": "E sega ni rawa ni bokoci na akaude",
+    "backToHome": "Lesu tale ki Vale ."
+  },
+  "forgotPassword": {
+    "minutes": "miniti",
+    "seconds": "sekodi",
+    "success": "Rawaka",
+    "otpSentToEmail": "Sa vakau e dua na ivakatakilakila ni OTP ki na nomu imeli.",
+    "failed": "Sega ni rawa",
+    "emailNotFound": "E sega ni kunei na imeli.",
+    "emailThirdParty": "Na imeli oqo e rejisitataki ena dua na ikatolu ni ilawalawa.",
+    "genericError": "E tiko e dua na cala. Kerekere mo tovolea tale.",
+    "otpVerified": "Na kode ni OTP sa vakadeitaki vakavinaka.",
+    "otpExpired": "Sa oti na kena gauna na kode ni OTP. Kerekere mo kerea e dua na code vou.",
+    "otpInvalid": "Kode ni OTP sega ni dodonu.",
+    "otpResent": "Sa vakau e dua na kode vou ni OTP ki na nomu imeli.",
+    "otpResendFailed": "E sega ni rawa ni vakau tale na kode ni OTP. Kerekere mo tovolea tale.",
+    "passwordResetSuccess": "Sa vakavoutaki vinaka na vosanicuru. Kerekere mo curu mai ena nomu vosanicuru vou.",
+    "passwordResetFailed": "E sega ni rawa ni vakavoutaki na vosanicuru.",
+    "backToLogin": "Lesu tale ki na curu",
+    "back": "Lesu tale",
+    "title": "Guilecava na vosanicuru",
+    "description": "Vakacuruma na itikotiko ni imeli e rejisitataki ena nomu akaude. Eda na vakauta e dua na ivakatakilakila ni OTP me vakavoutaki kina na vosanicuru.",
+    "emailLabel": "Imeli ni itikotiko",
+    "sending": "Vakauta...",
+    "sendOtp": "Vakauta na Kode ni OTP",
+    "verifyOtpTitle": "Vakadeitaka na Kode ni OTP",
+    "verifyOtpDesc": "Vakacuruma na 6 na digidigi ni code sa vakau yani ki na nomu imeli me vakadeitaka na nomu ivakatakilakila.",
+    "verifying": "Vakadeitaka...",
+    "verifyOtp": "Vakadeitaka na OTP",
+    "resending": "Vakauta tale...",
+    "resendOtp": "Vakauta tale mai na Kode ni OTP",
+    "resendCodeIn": "Vakauta tale na kode ena",
+    "newPasswordTitle": "Cakava e dua na vosanicuru vou",
+    "newPasswordDesc": "Cakava e dua na vosanicuru vou, kaukauwa me taqomaka na nomu akaude.",
+    "newPasswordLabel": "Vosanicuru vou",
+    "min8Chars": "E lailai duadua na 8 na matanivola",
+    "oneUpperCase": "1 matanivola lelevu (A-Z)",
+    "oneNumber": "1 na naba (0-9)",
+    "oneSymbol": "1 ivakatakilakila (!@#$%^&*)",
+    "confirmPasswordLabel": "Vakadeitaka na vosanicuru",
+    "passwordsDoNotMatch": "E sega ni veiganiti na vosanicuru.",
+    "resettingPassword": "Vakavoutaka na vosanicuru...",
+    "resetPassword": "Vakavoutaka na vosanicuru"
+  },
+  "verifyEmail": {
+    "resendError": "E sega ni rawa ni vakau tale na imeli ni veivakadeitaki. Kerekere mo tovolea tale.",
+    "checkingStatus": "Vakadeitaka na ituvaki ni veivakadeitaki...",
+    "title": "Raica na nomu imeli",
+    "description": "Eda sa vakauta e dua na imeli ni veivakadeitaki ki na nomu itikotiko ni imeli. Yalovinaka dolava na imeli ka kiliki ena <1>\"Vakadeitaka na akaude\"</1> me vakayagataki kina na nomu akaude.",
+    "stepsTitle": "Na ikalawa",
+    "step1": "Dolava na nomu kerekere ni imeli (Gmail, Yahoo, kei na so tale)",
+    "step2": "Raica e dua na imeli mai na DevFolio kei na ulutaga \"Vakabulabulataki ni akaude\"",
+    "step3": "Kiliki ena \"Vakadeitaka na akaude\" ena imeli",
+    "step4": "O na vakau yani ki na tabana ni curu mo curu kina",
+    "resendSuccess": "Sa vakau tale na imeli ni veivakadeitaki!",
+    "resending": "Vakauta tale...",
+    "resendButton": "Vakauta tale mai na imeli ni veivakadeitaki",
+    "backToLogin": "Lesu tale ki na tabana ni curu",
+    "footerNote": "E sega beka ni o ciqoma na imeli? Raica na <1>Spam</1> se <2>Junk</2> ena nomu imeli. Na isema ni veivakadeitaki e vakayagataki me baleta na <3>24 na auwa</3>."
+  }
+}

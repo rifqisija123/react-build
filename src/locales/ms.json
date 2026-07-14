@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ciri-ciri",
+    "templates": "templat",
+    "pricing": "penentuan harga",
+    "login": "Log masuk",
+    "getStarted": "Mulakan",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Pembina portfolio muktamad untuk pembangun",
+    "title1": "Bina profesional anda",
+    "title2": "portfolio dalam",
+    "titleHighlight": "detik.",
+    "subtitle": "Semua yang anda perlukan untuk mempamerkan kemahiran, projek dan pengalaman anda. ",
+    "startBuilding": "Mula Membina Sekarang",
+    "viewTemplates": "Lihat Templat",
+    "fastDeployment": "Deployment Cepat",
+    "liveStatus": "username.dev bersiaran langsung!",
+    "featuresTitle": "Ciri Berkuasa",
+    "featuresSubtitle": "Kami menyediakan semua alat yang anda perlukan untuk menonjolkan diri daripada orang ramai dan mendapatkan pekerjaan impian anda.",
+    "feature1Title": "Seret & Lepaskan Pembina",
+    "feature1Desc": "Susun bahagian, projek dan kemahiran anda dengan mudah dengan editor visual intuitif kami.",
+    "feature2Title": "Tema Tersuai",
+    "feature2Desc": "Pilih daripada templat yang direka secara profesional atau cipta rupa unik anda sendiri.",
+    "feature3Title": "Analitis masa nyata",
+    "feature3Desc": "Jejaki pelawat anda, lihat projek yang paling mendapat perhatian dan banyak lagi."
+  },
+  "auth": {
+    "welcomeBack": "Selamat Kembali",
+    "loginToContinue": "Log masuk ke akaun anda untuk meneruskan",
+    "createAccount": "Buat Akaun",
+    "joinCommunity": "Sertai beribu-ribu pembangun lain",
+    "fullName": "Nama Penuh",
+    "fullNamePlaceholder": "cth. ",
+    "email": "Alamat E-mel",
+    "emailPlaceholder": "you@example.com",
+    "password": "Kata laluan",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Ingat saya",
+    "forgotPassword": "Lupa kata laluan?",
+    "signIn": "Log Masuk",
+    "signingIn": "Log Masuk...",
+    "signUp": "Daftar",
+    "signingUp": "Mendaftar...",
+    "noAccount": "Tiada akaun?",
+    "hasAccount": "Sudah mempunyai akaun?",
+    "passwordRules": {
+      "title": "Kata laluan mesti mengandungi:",
+      "length": "Sekurang-kurangnya 8 aksara",
+      "uppercase": "Satu huruf besar (A-Z)",
+      "number": "Satu nombor (0-9)",
+      "symbol": "Satu simbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Pembina Portfolio",
+      "templates": "Templat & Tema",
+      "settings": "tetapan",
+      "collapse": "Runtuhkan Sidebar",
+      "overview": "Gambaran keseluruhan",
+      "profileSettings": "Tetapan Profil",
+      "customDomain": "Domain Tersuai",
+      "feedback": "Maklum balas"
+    },
+    "header": {
+      "viewLive": "Lihat Langsung",
+      "welcome": "selamat datang,",
+      "logout": "Log keluar",
+      "builder": "pembina",
+      "livePortfolio": "Portfolio Langsung",
+      "live": "Langsung"
+    },
+    "logoutModal": {
+      "title": "Log keluar",
+      "message": "Adakah anda pasti mahu log keluar daripada akaun anda? ",
+      "cancel": "Batal",
+      "confirm": "Ya, Log Keluar"
+    },
+    "slugModal": {
+      "title": "Pilih URL Portfolio Anda",
+      "message": "URL ini akan menjadi pautan unik kepada portfolio anda. ",
+      "slugPlaceholder": "nama anda",
+      "availability": "Ketersediaan:",
+      "available": "Tersedia",
+      "unavailable": "Tidak tersedia",
+      "checking": "Menyemak...",
+      "mustFormat": "Hanya boleh mengandungi huruf, nombor dan sempang (-)",
+      "cancel": "Batal",
+      "save": "Simpan URL",
+      "usernameUrl": "URL nama pengguna",
+      "helpText": "Huruf kecil, nombor dan sempang. ",
+      "validation": {
+        "empty": "Slug tidak boleh kosong.",
+        "min3": "Minimum 3 aksara.",
+        "max30": "Maksimum 30 aksara.",
+        "format": "Hanya huruf kecil, nombor dan sempang (-). "
+      }
+    },
+    "loadingPortfolio": "Memuatkan data portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Selamat Pagi",
+        "afternoon": "Selamat Petang",
+        "evening": "Selamat Petang",
+        "night": "Selamat Malam"
+      },
+      "welcome": {
+        "hi": "Hai,",
+        "creator": "Pencipta",
+        "desc1": "Selamat datang ke papan pemuka DevFolio. Portfolio anda telah dilihat oleh",
+        "desc2": "orang. Teruskan bekerja!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Jumlah Pelawat",
+        "projectViews": "Dilihat (Projek)",
+        "activeSessions": "Sesi Aktif",
+        "totalLabel": "Jumlah"
+      },
+      "setup": {
+        "title": "Kemajuan Persediaan",
+        "completed": "Portfolio anda sudah lengkap! 🎉",
+        "inProgress": "Langkah ke portfolio yang sempurna.",
+        "profile": {
+          "title": "Profil Lengkap",
+          "desc": "Tambahkan nama, bio dan foto profil."
+        },
+        "section": {
+          "title": "Tambah Bahagian",
+          "desc": "Aktifkan sekurang-kurangnya 1 bahagian dalam portfolio."
+        },
+        "project": {
+          "title": "Tambah Projek",
+          "desc": "Masukkan sekurang-kurangnya 1 projek terbaik anda."
+        },
+        "publish": {
+          "title": "Terbitkan Portfolio",
+          "desc": "Tetapkan URL tersuai supaya ia boleh diakses oleh orang ramai."
+        }
+      },
+      "topProjects": {
+        "title": "Projek Paling Popular",
+        "desc": "Prestasi kerja anda di mata pengunjung.",
+        "viewAll": "Lihat Semua",
+        "empty": "Tiada data paparan untuk projek anda lagi."
+      }
+    },
+    "themes": {
+      "title": "Templat & Tema",
+      "subtitle": "Sesuaikan rupa dan rasa portfolio awam anda.",
+      "reset": "Tetapkan Semula Lalai",
+      "save": "Simpan Perubahan",
+      "saving": "Menyimpan...",
+      "chooseTemplate": "Pilih Templat",
+      "primaryColor": "Warna Utama",
+      "typography": "Tipografi",
+      "appearance": "Rupa",
+      "corners": "Sudut & Sempadan",
+      "successTitle": "Kejayaan",
+      "successMessage": "Pilihan tema berjaya dikemas kini",
+      "errorTitle": "Ralat",
+      "errorMessage": "Gagal menyimpan pilihan tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalis",
+          "desc": "Reka bentuk yang bersih dan ringkas memfokuskan pada kandungan."
+        },
+        "developerDark": {
+          "name": "Pemaju Gelap",
+          "desc": "Tema gelap sesuai untuk mempamerkan susunan kod dan teknologi."
+        },
+        "creative": {
+          "name": "Kreatif",
+          "desc": "Reka letak yang bertenaga dan berwarna-warni untuk pereka bentuk dan kreatif."
+        },
+        "executive": {
+          "name": "Eksekutif",
+          "desc": "Susun atur profesional dan formal untuk profesional perniagaan."
+        },
+        "bentoGrid": {
+          "name": "Grid Bento",
+          "desc": "Reka letak grid gaya Apple moden yang menyerlahkan kemahiran berbeza dengan cekap."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalisme",
+          "desc": "Sempadan tebal dan warna kontras tinggi untuk penampilan yang bergaya dan tidak menyesal."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Kesan kaca beku pada kecerunan berwarna-warni untuk UI moden yang anggun."
+        },
+        "linkInBio": {
+          "name": "Pautan di Bio",
+          "desc": "Reka letak menegak padat dioptimumkan untuk skrin mudah alih dan media sosial."
+        }
+      },
+      "appearances": {
+        "light": "Cahaya",
+        "dark": "Gelap",
+        "system": "Sistem"
+      },
+      "cornersOptions": {
+        "sharp": "Tajam",
+        "rounded": "Bulat",
+        "pill": "Pil"
+      }
+    },
+    "feedback": {
+      "title": "Hantar Maklum Balas",
+      "subtitle": "Bantu kami menjadikannya lebih baik dengan memberikan cadangan, kritikan atau melaporkan pepijat pada aplikasi ini.",
+      "categoryLabel": "Kategori Maklum Balas",
+      "messageLabel": "Butiran Mesej",
+      "messagePlaceholder": "Beritahu saya secara terperinci tentang maklum balas yang ingin anda sampaikan...",
+      "imageLabel": "Lampiran Imej (Pilihan)",
+      "imagePlaceholder": "Klik untuk memuat naik imej atau tangkapan skrin",
+      "submitting": "Menghantar...",
+      "submitBtn": "Hantar Maklum Balas",
+      "categories": {
+        "suggestion": "Cadangan & Idea",
+        "bug": "Laporan Pepijat / Ralat",
+        "criticism": "Kritikan",
+        "other": "Lain-lain"
+      },
+      "imageErrorTitle": "Ralat",
+      "imageErrorMessage": "Sesetengah fail ditolak kerana ia tidak disokong format imej (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Kejayaan",
+      "successMessage": "Terima kasih atas maklum balas anda! Laporan telah dihantar.",
+      "submitErrorTitle": "Gagal",
+      "submitErrorMessage": "Ralat berlaku semasa menghantar maklum balas. Sila cuba lagi."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Tentang Saya",
+      "skills": "Kemahiran",
+      "projects": "Projek",
+      "workExperience": "Pengalaman Kerja",
+      "orgExperience": "Pengalaman Organisasi",
+      "education": "Pendidikan",
+      "certifications": "Latihan & Pensijilan",
+      "contact": "Hubungi Saya"
+    },
+    "editor": {
+      "profileInfo": "Maklumat Profil",
+      "saving": "Menyimpan...",
+      "profilePhoto": "Foto Profil",
+      "clickToUpload": "Klik untuk memuat naik (JPG, PNG)",
+      "fullName": "Nama Penuh",
+      "fullNamePlaceholder": "cth. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer dengan semangat untuk membina apl web moden...",
+      "location": "Lokasi",
+      "locationPlaceholder": "cth. ",
+      "gender": "Jantina",
+      "selectGender": "Pilih Jantina",
+      "male": "jantan",
+      "female": "perempuan",
+      "custom": "Adat",
+      "customPlaceholder": "Taip jantina tersuai anda...",
+      "uploadCv": "Muat naik CV",
+      "cvFormat": "(DOC atau PDF)",
+      "preview": "Pratonton",
+      "remove": "Alih keluar",
+      "clickToUploadCv": "Klik untuk memuat naik PDF atau DOC",
+      "sections": "Bahagian",
+      "removeSelected": "Alih Keluar Dipilih",
+      "confirmRemove": "Sahkan Alih Keluar",
+      "addSection": "Tambah Bahagian",
+      "addAllSections": "Tambah Semua Bahagian",
+      "noSections": "Tiada bahagian lagi",
+      "clickToAdd": "Klik \"+ Tambah Bahagian\" untuk bermula",
+      "selectAll": "Pilih Semua",
+      "selected": "Dipilih",
+      "dragToReorder": "Seret untuk menyusun semula bahagian",
+      "livePreview": "Pratonton Langsung",
+      "addSectionsToBuild": "Tambahkan bahagian untuk membina portfolio anda",
+      "now": "Sekarang",
+      "current": "semasa",
+      "noExpiry": "Tiada Tamat Tempoh",
+      "see": "Lihat",
+      "position": "kedudukan",
+      "degree": "Ijazah",
+      "certification": "Pensijilan",
+      "sectionsForm": {
+        "about": {
+          "label": "Penerangan tentang diri anda",
+          "placeholder": "Beritahu kami tentang diri anda, latar belakang, minat dan kemahiran anda..."
+        },
+        "skills": {
+          "addPlaceholder": "Taip kemahiran kemudian tekan Enter..."
+        },
+        "projects": {
+          "title": "Nama Projek",
+          "titlePlaceholder": "Nama projek...",
+          "url": "URL projek",
+          "description": "Penerangan",
+          "descriptionPlaceholder": "Penerangan ringkas projek...",
+          "uploadThumbnail": "Imej Projek",
+          "addProject": "Tambah Projek",
+          "projectNum": "Projek #",
+          "currentProject": "Ini adalah projek yang sedang saya kerjakan"
+        },
+        "work": {
+          "company": "Syarikat/Agensi",
+          "companyPlaceholder": "Nama syarikat...",
+          "position": "Jawatan/Tajuk",
+          "positionPlaceholder": "Kedudukan awak...",
+          "employmentType": "Jenis kerja",
+          "location": "Lokasi",
+          "locationPlaceholder": "Bandar, Negara...",
+          "startDate": "Mulakan",
+          "endDate": "Selesai",
+          "currentWork": "Saya masih bekerja pada masa ini",
+          "description": "Penerangan",
+          "descriptionPlaceholder": "Penerangan kerja dan tanggungjawab...",
+          "skills": "Kemahiran",
+          "addExperience": "Tambah Pengalaman Kerja",
+          "experienceNum": "Pengalaman #",
+          "dateError": "Tarikh tamat tidak boleh lebih awal daripada tarikh mula"
+        },
+        "org": {
+          "organization": "Nama Organisasi",
+          "orgPlaceholder": "Universiti BEM...",
+          "role": "Peranan/Jawatan",
+          "rolePlaceholder": "Ketua Bahagian...",
+          "addOrg": "Tambah Pengalaman Organisasi",
+          "orgNum": "Organisasi #"
+        },
+        "edu": {
+          "institution": "Institusi Pendidikan",
+          "institutionPlaceholder": "Nama kampus atau sekolah...",
+          "degree": "Tajuk",
+          "degreePlaceholder": "S1, sekolah menengah, dll...",
+          "major": "Jabatan/Bidang Pengajian",
+          "majorPlaceholder": "Kejuruteraan Informatik...",
+          "gpa": "GPA (pilihan)",
+          "currentStudy": "Saya masih belajar di sini",
+          "descriptionPlaceholder": "Aktiviti dan pencapaian semasa belajar...",
+          "addEdu": "Tambah Pendidikan",
+          "eduNum": "Pendidikan #"
+        },
+        "cert": {
+          "name": "Nama Persijilan / Latihan",
+          "namePlaceholder": "Nama pensijilan...",
+          "issuer": "Penerbit",
+          "issuerPlaceholder": "Institusi penerbitan...",
+          "issueDate": "Mula (Tarikh Terbitan)",
+          "issueDatePlaceholder": "Pilih tarikh penerbitan...",
+          "expiryDate": "Selesai (Tempoh Sah)",
+          "expiryDatePlaceholder": "Pilih tarikh tamat tempoh...",
+          "noExpiry": "Sijil ini tidak mempunyai tarikh luput",
+          "url": "URL kelayakan",
+          "uploadThumbnail": "Imej Sijil / Latihan",
+          "uploadThumbnailLimit": "Muat naik imej sijil (JPG/PNG/WEBP, maks 2MB)",
+          "addCert": "Tambah Pensijilan",
+          "certNum": "Pensijilan #"
+        },
+        "contact": {
+          "contactNum": "Kenalan #",
+          "platform": "Platform",
+          "displayText": "Teks Paparan",
+          "displayTextPlaceholder": "cth., you@email.com atau @nama pengguna",
+          "url": "Pautan (URL)",
+          "urlPlaceholderWhatsapp": "cth., 62812... (tanpa mendahului 0)",
+          "urlPlaceholderEmail": "cth., you@email.com",
+          "urlPlaceholderWebsite": "cth., https://...",
+          "urlPlaceholderDefault": "cth., nama pengguna",
+          "addContact": "Tambah Kenalan"
+        },
+        "common": {
+          "months": {
+            "1": "Januari",
+            "2": "Februari",
+            "3": "Mac",
+            "4": "April",
+            "5": "Mei",
+            "6": "Jun",
+            "7": "Julai",
+            "8": "Ogos",
+            "9": "September",
+            "10": "Oktober",
+            "11": "November",
+            "12": "Disember"
+          },
+          "month": "bulan",
+          "year": "tahun",
+          "invalidDate": "Bulan Akhir Tidak Sah",
+          "words": "perkataan"
+        }
+      },
+      "sure": "pasti",
+      "deletePhotoTitle": "Padamkan Foto Profil?",
+      "deletePhotoMessage": "Adakah anda pasti mahu memadamkan foto profil ini?",
+      "cancel": "Batal",
+      "delete": "Padam"
+    },
+    "cropper": {
+      "chooseBackground": "Pilih Latar Belakang",
+      "cropPhoto": "Pangkas Foto Anda",
+      "useOriginal": "Guna original",
+      "backgroundPresets": "Pratetap Latar Belakang",
+      "none": "tiada",
+      "uploadBackground": "Muat Naik Latar Belakang",
+      "cancel": "Batal",
+      "savePhoto": "Simpan Foto",
+      "zoom": "Zum",
+      "rotationTilt": "Putaran & Condongkan",
+      "resetRotation": "Tetapkan semula kepada 0°",
+      "center": "Pusat",
+      "rotateLeft": "Putar -90°",
+      "rotateRight": "Putar +90°",
+      "removeBackground": "Alih Keluar Latar Belakang",
+      "processing": "Memproses imej anda, sila tunggu..."
+    },
+    "cvPreview": {
+      "title": "Pratonton CV",
+      "downloadCv": "Muat turun CV",
+      "download": "Muat turun",
+      "wordCannotPreview": "Dokumen perkataan (.doc/.docx) tidak boleh dipratonton secara asli dalam penyemak imbas. ",
+      "downloadFile": "Muat turun Fail CV",
+      "back": "belakang",
+      "mobileMessage": "Sila muat turun fail CV untuk melihatnya.",
+      "preview": "Pratonton CV",
+      "wordPreviewTitle": "Pratonton Dokumen Word",
+      "wordPreviewMessage": "Dokumen perkataan (.doc/.docx) tidak boleh dipratonton secara asli dalam penyemak imbas. Sila muat turun fail untuk melihatnya."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Tulis penerangan ringkas tentang diri anda, minat dan matlamat kerjaya..."
+    },
+    "skills": {
+      "placeholder": "Taip nama kemahiran...",
+      "add": "Tambah",
+      "enterToAdd": "Tekan Enter untuk menambah",
+      "noSkills": "Tiada kemahiran ditambah lagi."
+    },
+    "projects": {
+      "projectName": "Nama Projek",
+      "projectNamePlaceholder": "cth. ",
+      "projectUrl": "URL projek",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Tempoh",
+      "startMonth": "Bulan Mula",
+      "startYear": "Tahun Mula",
+      "endMonth": "Akhir Bulan",
+      "endYear": "Akhir Tahun",
+      "currentlyWorking": "Sedang mengusahakan ini",
+      "description": "Penerangan",
+      "descriptionPlaceholder": "Terangkan projek, peranan anda dan pencapaian...",
+      "technologies": "Teknologi yang Digunakan",
+      "addProject": "Tambah Projek",
+      "image": "Imej Projek",
+      "removeImage": "Alih Keluar Imej",
+      "uploadImage": "Klik untuk memuat naik imej"
+    },
+    "work": {
+      "company": "Syarikat/Institusi",
+      "companyPlaceholder": "Nama syarikat...",
+      "role": "Peranan/Jawatan",
+      "rolePlaceholder": "Kedudukan awak...",
+      "jobType": "Jenis Pekerjaan",
+      "selectJobType": "Pilih jenis",
+      "fullTime": "Sepenuh masa",
+      "partTime": "Sambilan",
+      "contract": "Kontrak",
+      "internship": "Internship",
+      "freelance": "Bebas",
+      "location": "Lokasi",
+      "locationPlaceholder": "cth. ",
+      "duration": "Tempoh",
+      "currentlyWorking": "Sedang bekerja di sini",
+      "description": "Penerangan Kerja",
+      "descriptionPlaceholder": "Terangkan tanggungjawab dan pencapaian utama anda...",
+      "skills": "Kemahiran Khusus",
+      "addExperience": "Tambah Pengalaman"
+    },
+    "org": {
+      "organization": "Nama Organisasi",
+      "organizationPlaceholder": "Nama organisasi...",
+      "role": "Peranan/Jawatan",
+      "rolePlaceholder": "cth. ",
+      "duration": "Tempoh",
+      "periodFormat": "atau Format Percuma (cth. 2020 - 2022)",
+      "periodPlaceholder": "cth. ",
+      "currentlyActive": "Pada masa ini aktif",
+      "description": "Penerangan Aktiviti",
+      "descriptionPlaceholder": "Terangkan aktiviti atau sumbangan anda...",
+      "addExperience": "Tambah Pengalaman"
+    },
+    "education": {
+      "institution": "Nama Institusi",
+      "institutionPlaceholder": "Nama sekolah atau universiti...",
+      "degree": "Ijazah/Tahap",
+      "degreePlaceholder": "cth. ",
+      "major": "Major/Bidang Pengajian",
+      "majorPlaceholder": "cth. ",
+      "gpa": "GPA / Gred",
+      "gpaPlaceholder": "cth. ",
+      "duration": "Tempoh Pendidikan",
+      "periodFormat": "atau Format Percuma (cth. 2018 - 2022)",
+      "periodPlaceholder": "cth. ",
+      "currentlyStudying": "Sedang belajar di sini",
+      "description": "Aktiviti / Kepujian",
+      "descriptionPlaceholder": "Terangkan aktiviti akademik, organisasi atau penghormatan yang diterima...",
+      "addEducation": "Tambah Pendidikan"
+    },
+    "cert": {
+      "name": "Nama Pensijilan",
+      "namePlaceholder": "cth. ",
+      "issuer": "Organisasi Pengeluar",
+      "issuerPlaceholder": "cth. ",
+      "issueDate": "Tarikh Keluaran",
+      "expiryDate": "Sah Sehingga",
+      "noExpiry": "Bukti kelayakan ini tidak luput",
+      "yearPlaceholder": "atau Tahun (cth. 2023)",
+      "credentialUrl": "URL kelayakan",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Kemahiran Berkaitan",
+      "addCertification": "Tambah Pensijilan",
+      "image": "Imej/Logo",
+      "removeImage": "Alih Keluar Imej",
+      "uploadImage": "Klik untuk memuat naik imej"
+    },
+    "common": {
+      "months": {
+        "1": "Januari",
+        "2": "Februari",
+        "3": "Mac",
+        "4": "April",
+        "5": "Mei",
+        "6": "Jun",
+        "7": "Julai",
+        "8": "Ogos",
+        "9": "September",
+        "10": "Oktober",
+        "11": "November",
+        "12": "Disember"
+      },
+      "month": "bulan",
+      "year": "tahun",
+      "invalidDate": "Bulan Akhir Tidak Sah",
+      "words": "perkataan"
+    }
+  },
+  "settings": {
+    "title": "tetapan",
+    "subtitle": "Urus profil portfolio dan pilihan anda",
+    "tabs": {
+      "profile": "Profil Saya",
+      "security": "Keselamatan",
+      "personalization": "Pemperibadian"
+    },
+    "profile": {
+      "infoTitle": "Maklumat Asas",
+      "photo": "Foto Profil",
+      "uploadPhoto": "Tukar Foto",
+      "fullName": "Nama Penuh",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Alamat E-mel",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-mel digunakan untuk log masuk dan tidak dipaparkan secara terbuka.",
+      "portfolioUrl": "URL Portfolio",
+      "saveProfile": "Simpan Profil",
+      "save": "Simpan Profil",
+      "accountCreated": "Akaun Dibuat",
+      "lastLogin": "Log Masuk Terakhir",
+      "oauthNotice": "Profil ini disambungkan ke akaun {{provider}} anda. Perubahan profil mesti dibuat melalui pembekal perkhidmatan."
+    },
+    "security": {
+      "changePassword": "Tukar Kata Laluan",
+      "currentPassword": "Kata Laluan Semasa",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Kata Laluan Baharu",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Sahkan Kata Laluan Baharu",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Sekurang-kurangnya 8 aksara",
+        "uppercase": "Satu huruf besar (A-Z)",
+        "number": "Satu nombor (0-9)",
+        "symbol": "Satu simbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Kata laluan",
+      "updatePassword": "Kemas kini Kata Laluan",
+      "additionalSecurity": "Keselamatan Tambahan",
+      "twoFactor": "Pengesahan Dua Faktor (2FA)",
+      "twoFactorDesc": "Lindungi akaun anda menggunakan kod OTP tambahan.",
+      "activeSessions": "Sesi Aktif",
+      "activeSessionsDesc": "Sentiasa benarkan pemantauan peranti log masuk.",
+      "publicVisibility": "Keterlihatan Awam",
+      "hideFromSearch": "Sembunyikan Portfolio daripada Enjin Carian",
+      "hideFromSearchDesc": "Halang Google daripada mengindeks halaman portfolio awam anda.",
+      "disable2fa": {
+        "title": "Lumpuhkan 2FA",
+        "description": "Adakah anda pasti mahu mematikan pengesahan dua faktor?",
+        "confirmPasswordLabel": "Masukkan kata laluan anda untuk mengesahkan",
+        "currentPasswordPlaceholder": "Kata laluan semasa",
+        "cancelButton": "Batal",
+        "confirmButton": "Lumpuhkan 2FA",
+        "incorrectPassword": "Kata laluan salah."
+      },
+      "setup2fa": {
+        "step1Title": "1. Imbas Kod QR",
+        "step1Desc": "Buka apl pengesah anda dan imbas kod QR berikut:",
+        "unableToScan": "Tidak dapat mengimbas? Gunakan kunci persediaan",
+        "step2Title": "2. Sahkan Kod",
+        "step2Desc": "Masukkan kod 6 digit yang dijana oleh apl anda:",
+        "cancelButton": "Batal",
+        "enableButton": "Dayakan 2FA",
+        "invalidLength": "Sila masukkan kod 6 digit.",
+        "invalidCode": "Kod pengesahan tidak sah. Sila cuba lagi."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kawalan Bahasa",
+      "appLanguage": "Bahasa Apl",
+      "layoutTitle": "Susun atur & Tipografi",
+      "layoutStyle": "Gaya Reka Letak",
+      "layoutModern": "Gaya Moden (Lalai)",
+      "layoutClassic": "Gaya Klasik",
+      "layoutMinimalist": "Gaya Minimalis",
+      "fontSize": "Saiz Fon Apl",
+      "fontSmall": "Kecil",
+      "fontNormal": "Biasa (Sederhana)",
+      "fontLarge": "besar",
+      "searchLanguage": "Bahasa carian...",
+      "languageNotFound": "Bahasa tidak ditemui",
+      "layoutElegant": "Gaya Elegan"
+    },
+    "saveChanges": "Simpan Perubahan",
+    "cancel": "Batal",
+    "appSettings": "Tetapan Apl",
+    "logoutConfirmTitle": "Sahkan Log Keluar",
+    "logoutConfirmDesc": "Adakah anda pasti mahu log keluar daripada sistem?",
+    "logoutConfirmYes": "Ya, Log Keluar",
+    "generalError": "Ralat berlaku. ",
+    "success": "Kejayaan",
+    "preferencesSaved": "Pilihan apl berjaya disimpan.",
+    "header": "Tetapan Aplikasi",
+    "logout": {
+      "title": "Pengesahan Log Keluar",
+      "message": "Adakah anda pasti mahu log keluar daripada sistem?",
+      "confirm": "Ya, Log Keluar"
+    },
+    "about": {
+      "title": "Perihal Permohonan",
+      "subtitle": "Platform Pembina Portfolio",
+      "version": "Versi",
+      "description": "DevFolio ialah platform pembina portfolio moden yang direka untuk pembangun, pereka bentuk dan pencipta profesional. ",
+      "license": "Lesen & Hak Cipta",
+      "copyright": "© 2026 DevFolio Inc. Hak cipta terpelihara.",
+      "developer": "pemaju",
+      "developedBy": "Dibangunkan oleh Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Padam Akaun Secara Kekal",
+      "menuItem": "Padam Akaun",
+      "successTitle": "Kejayaan",
+      "successMessage": "E-mel pengesahan pemadaman akaun telah dihantar.",
+      "errorTitle": "Gagal",
+      "errorMessage": "Gagal menghantar e-mel pengesahan.",
+      "confirmationMessage": "Adakah anda pasti mahu memadamkan akaun anda secara kekal?",
+      "warningMessage1": "Anda akan menerima e-mel untuk mengesahkan pemadaman akaun.",
+      "warningMessage2": "Jika disahkan, semua data (portfolio, projek, statistik) akan dipadamkan secara kekal dan tidak boleh dipulihkan.",
+      "cancel": "Batal",
+      "confirm": "Pengesahan"
+    },
+    "toasts": {
+      "toastError": "ralat",
+      "toastSuccess": "Kejayaan",
+      "toastSetup2FAFailed": "Gagal menyediakan 2FA. Sila cuba lagi.",
+      "toast2FAEnabled": "Pengesahan dua faktor telah didayakan.",
+      "toast2FADisabled": "Pengesahan dua faktor telah dilumpuhkan.",
+      "toastSessionEnabled": "Pemantauan sesi aktif telah didayakan.",
+      "toastSessionDisabled": "Pemantauan sesi aktif telah dilumpuhkan.",
+      "toastSetupKeyCopied": "Kunci persediaan disalin ke papan keratan."
+    },
+    "privacy": {
+      "title": "Dasar Privasi",
+      "updateDate": "Kemas Kini Terakhir: 15 Julai 2026",
+      "intro": "Dasar Privasi ini menerangkan cara DevFolio mengumpul, menggunakan dan melindungi maklumat peribadi anda apabila menggunakan perkhidmatan kami.",
+      "section1Title": "1. Maklumat yang Kami Kumpul",
+      "section1Content": "Kami mengumpul maklumat yang anda berikan secara langsung semasa membuat akaun, membina portfolio dan menghubungi sokongan kami. ",
+      "section2Title": "2. Penggunaan Maklumat",
+      "section2Content": "Maklumat anda digunakan untuk mengendalikan, menyelenggara dan menyediakan ciri perkhidmatan kami, serta untuk berkomunikasi dengan anda berkenaan akaun atau perkhidmatan anda.",
+      "section3Title": "3. Keselamatan Data",
+      "section3Content": "Kami melaksanakan langkah keselamatan yang munasabah untuk melindungi maklumat anda daripada akses, pendedahan atau pemusnahan yang tidak dibenarkan."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token pengesahan tidak ditemui.",
+    "defaultError": "Gagal memadamkan akaun. Token mungkin telah tamat tempoh.",
+    "loadingTitle": "Memadam Akaun...",
+    "loadingMessage": "Sila tunggu, kami sedang memproses permintaan anda.",
+    "successTitle": "Akaun Berjaya Dipadamkan",
+    "successMessage": "Semua data anda telah dipadamkan secara kekal. Anda akan diubah hala...",
+    "errorTitle": "Gagal Memadam Akaun",
+    "backToHome": "Kembali ke Rumah"
+  },
+  "forgotPassword": {
+    "minutes": "minit",
+    "seconds": "saat",
+    "success": "Kejayaan",
+    "otpSentToEmail": "Kod OTP telah dihantar ke e-mel anda.",
+    "failed": "Gagal",
+    "emailNotFound": "E-mel tidak ditemui.",
+    "emailThirdParty": "E-mel ini didaftarkan melalui pihak ketiga.",
+    "genericError": "Terdapat ralat. Sila cuba lagi.",
+    "otpVerified": "Kod OTP telah berjaya disahkan.",
+    "otpExpired": "Kod OTP telah tamat tempoh. Sila minta kod baharu.",
+    "otpInvalid": "Kod OTP tidak sah.",
+    "otpResent": "Kod OTP baharu telah dihantar ke e-mel anda.",
+    "otpResendFailed": "Gagal menghantar semula kod OTP. Sila cuba lagi.",
+    "passwordResetSuccess": "Kata laluan berjaya ditetapkan semula. Sila log masuk dengan kata laluan baharu anda.",
+    "passwordResetFailed": "Gagal menetapkan semula kata laluan.",
+    "backToLogin": "Kembali ke Log Masuk",
+    "back": "Belakang",
+    "title": "Lupa Kata Laluan",
+    "description": "Masukkan alamat e-mel yang didaftarkan pada akaun anda. Kami akan menghantar kod OTP untuk menetapkan semula kata laluan.",
+    "emailLabel": "Alamat E-mel",
+    "sending": "Menghantar...",
+    "sendOtp": "Hantar Kod OTP",
+    "verifyOtpTitle": "Sahkan Kod OTP",
+    "verifyOtpDesc": "Masukkan kod 6 digit yang telah dihantar ke e-mel anda untuk mengesahkan identiti anda.",
+    "verifying": "Mengesahkan...",
+    "verifyOtp": "Sahkan OTP",
+    "resending": "Menghantar semula...",
+    "resendOtp": "Hantar semula Kod OTP",
+    "resendCodeIn": "Hantar semula kod dalam",
+    "newPasswordTitle": "Cipta Kata Laluan Baharu",
+    "newPasswordDesc": "Cipta kata laluan baharu yang kukuh untuk melindungi akaun anda.",
+    "newPasswordLabel": "Kata Laluan Baharu",
+    "min8Chars": "Minimum 8 aksara",
+    "oneUpperCase": "1 huruf besar (A-Z)",
+    "oneNumber": "1 nombor (0-9)",
+    "oneSymbol": "1 simbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Sahkan Kata Laluan",
+    "passwordsDoNotMatch": "Kata laluan tidak sepadan.",
+    "resettingPassword": "Menetapkan Semula Kata Laluan...",
+    "resetPassword": "Tetapkan Semula Kata Laluan"
+  },
+  "verifyEmail": {
+    "resendError": "Gagal menghantar semula e-mel pengesahan. Sila cuba lagi.",
+    "checkingStatus": "Menyemak status pengesahan...",
+    "title": "Semak E-mel Anda",
+    "description": "Kami telah menghantar e-mel pengesahan ke alamat e-mel anda. Sila buka e-mel dan klik butang <1>\"Sahkan Akaun\"</1> untuk mengaktifkan akaun anda.",
+    "stepsTitle": "Langkah",
+    "step1": "Buka aplikasi e-mel anda (Gmail, Yahoo, dll)",
+    "step2": "Cari e-mel daripada DevFolio dengan subjek \"Pengaktifan Akaun\"",
+    "step3": "Klik butang \"Sahkan Akaun\" dalam e-mel",
+    "step4": "Anda akan diarahkan ke halaman log masuk untuk memasukkan",
+    "resendSuccess": "E-mel pengesahan telah dihantar semula!",
+    "resending": "Menghantar semula...",
+    "resendButton": "Hantar semula E-mel Pengesahan",
+    "backToLogin": "Kembali ke Halaman Log Masuk",
+    "footerNote": "Tidak menerima e-mel? Semak folder <1>Spam</1> atau <2>Sampah</2> dalam e-mel anda. Pautan pengesahan sah selama <3>24 jam</3>."
+  }
+}

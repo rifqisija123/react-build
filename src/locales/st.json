@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Likaroloana",
+    "templates": "Lithempleite",
+    "pricing": "Theko",
+    "login": "Kena",
+    "getStarted": "Qala",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Sehahi sa ho qetela sa potefolio bakeng sa bahlahisi",
+    "title1": "Haha setsebi sa hau",
+    "title2": "potefolio ka",
+    "titleHighlight": "metsotsoana.",
+    "subtitle": "Ntho e ngoe le e ngoe eo u e hlokang ho bonts'a tsebo ea hau, merero le boiphihlelo. ",
+    "startBuilding": "Qala Ho Aha Hona Joale",
+    "viewTemplates": "Sheba Lithempleite",
+    "fastDeployment": "Phatlalatso e potlakileng",
+    "liveStatus": "username.dev e ea sebetsa!",
+    "featuresTitle": "Likarolo Tse Matla",
+    "featuresSubtitle": "Re fana ka lisebelisoa tsohle tseo u li hlokang ho hlahella har'a bongata le ho fumana mosebetsi oa litoro tsa hau.",
+    "feature1Title": "Hula & Thehela Sehahi",
+    "feature1Desc": "Hlophisa likarolo tsa hau, merero le litsebo tsa hau habonolo ka mohlophisi oa rona o hlakileng oa pono.",
+    "feature2Title": "Merero e Tloaelehileng",
+    "feature2Desc": "Khetha ho tsoa ho litempele tse entsoeng ka bokhabane kapa u iketsetse chebahalo ea hau e ikhethang.",
+    "feature3Title": "Litlhahlobo tsa nako ea 'nete",
+    "feature3Desc": "Latela baeti ba hau, bona hore na ke merero efe e hapang tlhokomelo haholo, le tse ling."
+  },
+  "auth": {
+    "welcomeBack": "Rea u amohela hape",
+    "loginToContinue": "Kena akhaonteng ea hau ho tsoela pele",
+    "createAccount": "Theha ak'haonte",
+    "joinCommunity": "Eba le bahlahisi ba bang ba likete",
+    "fullName": "Mabitso a felletseng",
+    "fullNamePlaceholder": "mohlala ",
+    "email": "Aterese ea imeile",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Nkhopole",
+    "forgotPassword": "U lebetse phasewete?",
+    "signIn": "Kena",
+    "signingIn": "Kena...",
+    "signUp": "Ngolisa",
+    "signingUp": "Ingolisa...",
+    "noAccount": "Ha u na ak'haonte?",
+    "hasAccount": "Na u se u na le ak'haonte?",
+    "passwordRules": {
+      "title": "Lekunutu le tlameha ho ba le:",
+      "length": "Bonyane litlhaku tse 8",
+      "uppercase": "Tlhaku e le 'ngoe e kholo (A-Z)",
+      "number": "Nomoro e le 'ngoe (0-9)",
+      "symbol": "Letšoao le le leng (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Sehahi sa Portfolio",
+      "templates": "Lithempleite & Merero",
+      "settings": "Litlhophiso",
+      "collapse": "Koala Sidebar",
+      "overview": "Kakaretso",
+      "profileSettings": "Litlhophiso tsa Profaele",
+      "customDomain": "Custom Domain",
+      "feedback": "Maikutlo"
+    },
+    "header": {
+      "viewLive": "Sheba Live",
+      "welcome": "Rea u amohela,",
+      "logout": "Tsoa",
+      "builder": "Sehahi",
+      "livePortfolio": "Phela Portfolio",
+      "live": "Phela"
+    },
+    "logoutModal": {
+      "title": "Tsoa",
+      "message": "Na ehlile u batla ho tsoa akhaonteng ea hau? ",
+      "cancel": "Hlakola",
+      "confirm": "E, Tsoha"
+    },
+    "slugModal": {
+      "title": "Khetha URL ea Portfolio ea hau",
+      "message": "URL ena e tla ba sehokelo se ikhethileng ho portfolio ea hau. ",
+      "slugPlaceholder": "lebitso la hau",
+      "availability": "Boteng:",
+      "available": "E fumaneha",
+      "unavailable": "Ha e fumanehe",
+      "checking": "E hlahloba...",
+      "mustFormat": "E ka ba le litlhaku, linomoro, le li-dashes feela (-)",
+      "cancel": "Hlakola",
+      "save": "Boloka URL",
+      "usernameUrl": "URL ea lebitso la mosebelisi",
+      "helpText": "Litlhaku tse nyane, linomoro le li-dashes. ",
+      "validation": {
+        "empty": "Slug e ka se be le letho.",
+        "min3": "Bonyane litlhaku tse 3.",
+        "max30": "Boholo ba litlhaku tse 30.",
+        "format": "Feela litlhaku tse nyane, linomoro, le li-dashes (-). "
+      }
+    },
+    "loadingPortfolio": "E kenya lintlha tsa portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Good Hoseng",
+        "afternoon": "Motšehare o Molemo",
+        "evening": "Motšehare o Molemo",
+        "night": "Bosiu bo Botle"
+      },
+      "welcome": {
+        "hi": "Lumela,",
+        "creator": "Mmopi",
+        "desc1": "Rea u amohela ho dashboard ea DevFolio. Potefolio ea hau e shebiloe ke",
+        "desc2": "motho. Tsoela pele ho sebetsa!",
+        "editPortfolio": "Fetola Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Kakaretso ea Baeti",
+        "projectViews": "E shebiloe (Projeke)",
+        "activeSessions": "Mosebetsi oa Thuto",
+        "totalLabel": "Kakaretso"
+      },
+      "setup": {
+        "title": "Tsoelo-pele ea Seta",
+        "completed": "Photefolio ea hau e felile! 🎉",
+        "inProgress": "Mehato ho potefolio e phethahetseng.",
+        "profile": {
+          "title": "Feletseng Profile",
+          "desc": "Kenya lebitso, bophelo le foto ea profil."
+        },
+        "section": {
+          "title": "Kenya Likarolo",
+          "desc": "Kenya tšebetsong bonyane karolo e le 1 potefoliong."
+        },
+        "project": {
+          "title": "Eketsa Morero",
+          "desc": "Kenya bonyane 1 ea merero ea hau e ntle ka ho fetisisa."
+        },
+        "publish": {
+          "title": "Phatlalatsang Portfolio",
+          "desc": "Beha URL ea tloaelo e le hore e ka fihlelleha ke sechaba."
+        }
+      },
+      "topProjects": {
+        "title": "Merero e tsebahalang haholo",
+        "desc": "Ts'ebetso ea mosebetsi oa hau mahlong a baeti.",
+        "viewAll": "Bona Tsohle",
+        "empty": "Ha ho na data ea pono bakeng sa morero oa hau hajoale."
+      }
+    },
+    "themes": {
+      "title": "Lithempleite & Merero",
+      "subtitle": "Iketsetse chebahalo le maikutlo a potefolio ea hau ea sechaba.",
+      "reset": "Khutlisa Default",
+      "save": "Boloka Liphetoho",
+      "saving": "E boloka...",
+      "chooseTemplate": "Khetha Setšoantšo",
+      "primaryColor": "Mmala wa Mathomo",
+      "typography": "typography",
+      "appearance": "Ponahalo",
+      "corners": "Likhutlo le Meeli",
+      "successTitle": "Katleho",
+      "successMessage": "Likhetho tsa Theme li ntlafalitsoe ka katleho",
+      "errorTitle": "Phoso",
+      "errorMessage": "E hlolehile ho boloka likhetho tsa theme",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Moralo o hloekileng le o bonolo o tsepamisitseng maikutlo holim'a litaba."
+        },
+        "developerDark": {
+          "name": "Lefifi la Moqapi",
+          "desc": "Theme e lefifi e nepahetse bakeng sa ho bonts'a khoutu le mekotla ea theknoloji."
+        },
+        "creative": {
+          "name": "Moqapi",
+          "desc": "Ponahalo e hlakileng le e mebala-bala bakeng sa baqapi le baqapi."
+        },
+        "executive": {
+          "name": "Tsamaiso",
+          "desc": "Sebopeho sa setsebi le se hlophisitsoeng bakeng sa litsebi tsa khoebo."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Sebopeho sa grid ea sejoale-joale sa Apple se totobatsang litsebo tse fapaneng hantle."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Meeli e motenya le mebala e fapaneng e fapaneng bakeng sa chebahalo e tloaelehileng, e se nang boikaketsi."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Khalase e nang le serame e hlahisa li-gradients tse mebala-bala bakeng sa UI e ntle ea sejoale-joale."
+        },
+        "linkInBio": {
+          "name": "Link ho Bio",
+          "desc": "Ponahalo e otlolohileng e ntlafalitsoeng bakeng sa li-skrini tsa mehala le mecha ea litaba ea sechaba."
+        }
+      },
+      "appearances": {
+        "light": "Leseli",
+        "dark": "Lefifi",
+        "system": "Sistimi"
+      },
+      "cornersOptions": {
+        "sharp": "E bohale",
+        "rounded": "E pota-potiloe",
+        "pill": "Pilisi"
+      }
+    },
+    "feedback": {
+      "title": "Romella Maikutlo",
+      "subtitle": "Re thuse ho e ntlafatsa ka ho fana ka litlhahiso, ho nyatsa, kapa ho tlaleha liphoso ka sesebelisoa sena.",
+      "categoryLabel": "Feedback Category",
+      "messageLabel": "Lintlha tsa Molaetsa",
+      "messagePlaceholder": "Mpolelle ka botlalo mabapi le maikutlo ao o batlang ho fana ka ona...",
+      "imageLabel": "Sehlomathiso sa Litšoantšo (Ha ho boikhethelo)",
+      "imagePlaceholder": "Tobetsa ho kenya setšoantšo kapa skrini",
+      "submitting": "E ea romela...",
+      "submitBtn": "Romella Maikutlo",
+      "categories": {
+        "suggestion": "Litlhahiso & Maikutlo",
+        "bug": "Tlaleho ea Phoso / Phoso",
+        "criticism": "Ho nyatsa",
+        "other": "Tse ling"
+      },
+      "imageErrorTitle": "Phoso",
+      "imageErrorMessage": "Lifaele tse ling li hanngoe hobane ha li tšehetsoe ke lifomate tsa litšoantšo (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Katleho",
+      "successMessage": "Kea leboha ka maikutlo a hau! Tlaleho e rometsoe.",
+      "submitErrorTitle": "E hlolehile",
+      "submitErrorMessage": "Phoso e etsahetse nakong eo re romellang maikutlo. Ka kopo, leka hape."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ka 'na",
+      "skills": "Tsebo",
+      "projects": "Merero",
+      "workExperience": "Boiphihlelo ba mosebetsi",
+      "orgExperience": "Phihlelo ea Mokhatlo",
+      "education": "Thuto",
+      "certifications": "Koetliso & Litifikeiti",
+      "contact": "Ikopanye le 'Na"
+    },
+    "editor": {
+      "profileInfo": "Litaba tsa Boemo",
+      "saving": "E boloka...",
+      "profilePhoto": "Senepe sa Boemo",
+      "clickToUpload": "Tobetsa ho kenya (JPG, PNG)",
+      "fullName": "Mabitso a felletseng",
+      "fullNamePlaceholder": "mohlala ",
+      "bio": "Bophelo",
+      "bioPlaceholder": "Fullstack Developer ka tjantjello ea ho aha lits'ebetso tsa sejoale-joale tsa webo...",
+      "location": "Sebaka",
+      "locationPlaceholder": "mohlala ",
+      "gender": "Bong",
+      "selectGender": "Kgetha Bong",
+      "male": "Monna",
+      "female": "E tšehali",
+      "custom": "Tloaelo",
+      "customPlaceholder": "Ngola bong ba hao ba tloaelo...",
+      "uploadCv": "Kenya CV",
+      "cvFormat": "(DOC kapa PDF)",
+      "preview": "Sheba esale pele",
+      "remove": "Tlosa",
+      "clickToUploadCv": "Tobetsa ho kenya PDF kapa DOC",
+      "sections": "Likarolo",
+      "removeSelected": "Tlosa Khethiloeng",
+      "confirmRemove": "Netefatsa Tlosa",
+      "addSection": "Eketsa Karolo",
+      "addAllSections": "Kenya Likarolo Tsohle",
+      "noSections": "Ha ho na likarolo",
+      "clickToAdd": "Tobetsa \"+ Eketsa Karolo\" ho qala",
+      "selectAll": "Kgetha Tsohle",
+      "selected": "E kgethiloeng",
+      "dragToReorder": "Hula ho hlophisa likarolo hape",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Kenya likarolo ho haha ​​​​potefolio ea hau",
+      "now": "Jwale",
+      "current": "Hona joale",
+      "noExpiry": "Ha ho Phello ea Nako",
+      "see": "Bona",
+      "position": "Boemo",
+      "degree": "Degree",
+      "certification": "Setifikeiti",
+      "sectionsForm": {
+        "about": {
+          "label": "Tlhaloso ea hau",
+          "placeholder": "Re bolelle ka uena, semelo sa hau, lithahasello le bokhoni ba hau..."
+        },
+        "skills": {
+          "addPlaceholder": "Ngola bokgoni ebe o tobetsa Enter..."
+        },
+        "projects": {
+          "title": "Lebitso la Morero",
+          "titlePlaceholder": "Lebitso la morero...",
+          "url": "URL ea morero",
+          "description": "Tlhaloso",
+          "descriptionPlaceholder": "Tlhaloso e khuts'oane ea morero...",
+          "uploadThumbnail": "Setšoantšo sa Morero",
+          "addProject": "Eketsa Morero",
+          "projectNum": "Morero #",
+          "currentProject": "Ena ke morero oo ke sebetsang ho oona"
+        },
+        "work": {
+          "company": "Khampani/Setsi",
+          "companyPlaceholder": "Lebitso la K'hamphani...",
+          "position": "Boemo/Sehlooho",
+          "positionPlaceholder": "Boemo ba hau...",
+          "employmentType": "Mofuta oa mosebetsi",
+          "location": "Sebaka",
+          "locationPlaceholder": "Toropo, Naha...",
+          "startDate": "Qala",
+          "endDate": "E felile",
+          "currentWork": "Ke ntse ke sebetsa hona joale",
+          "description": "Tlhaloso",
+          "descriptionPlaceholder": "Tlhaloso ea mosebetsi le boikarabello ...",
+          "skills": "Tsebo",
+          "addExperience": "Eketsa Boiphihlelo ba Mosebetsi",
+          "experienceNum": "Phihlelo #",
+          "dateError": "Letsatsi la ho qetela le ka se be pele ho letsatsi la qalo"
+        },
+        "org": {
+          "organization": "Lebitso la Mokhatlo",
+          "orgPlaceholder": "Univesithi ea BEM...",
+          "role": "Karolo/Boemo",
+          "rolePlaceholder": "Hlooho ea Karolo...",
+          "addOrg": "Eketsa Phihlelo ea Mokhatlo",
+          "orgNum": "Mokhatlo #"
+        },
+        "edu": {
+          "institution": "Mekhatlo ea Thuto",
+          "institutionPlaceholder": "Lebitso la campus kapa sekolo...",
+          "degree": "Sehlooho",
+          "degreePlaceholder": "S1, sekolo se phahameng, joalo-joalo...",
+          "major": "Lefapha/Sebaka sa Boithuto",
+          "majorPlaceholder": "Boenjiniere ba Informatics...",
+          "gpa": "GPA (boikhethelo)",
+          "currentStudy": "Ke ntse ke ithuta mona",
+          "descriptionPlaceholder": "Liketso le likatleho nakong ea boithuto...",
+          "addEdu": "Eketsa Thuto",
+          "eduNum": "Thuto #"
+        },
+        "cert": {
+          "name": "Lebitso la Setifikeiti / Koetliso",
+          "namePlaceholder": "Lebitso la setifikeiti...",
+          "issuer": "Mohatisi",
+          "issuerPlaceholder": "Setsi sa khatiso...",
+          "issueDate": "Qala (Letsatsi la Phatlalatso)",
+          "issueDatePlaceholder": "Khetha letsatsi la khatiso...",
+          "expiryDate": "E phethiloe (Nako e nepahetseng)",
+          "expiryDatePlaceholder": "Khetha letsatsi la ho felloa ke nako...",
+          "noExpiry": "Setifikeiti sena ha se na letsatsi la ho felloa ke nako",
+          "url": "URL ea boitsebiso",
+          "uploadThumbnail": "Setšoantšo sa Setifikeiti / Koetliso",
+          "uploadThumbnailLimit": "Kenya setšoantšo sa setifikeiti (JPG/PNG/WEBP, boholo ba 2MB)",
+          "addCert": "Eketsa Setifikeiti",
+          "certNum": "Setifikeiti #"
+        },
+        "contact": {
+          "contactNum": "Khokahano #",
+          "platform": "Sethala",
+          "displayText": "Hlahisa Mongolo",
+          "displayTextPlaceholder": "mohlala, you@email.com kapa @username",
+          "url": "Sehokelo (URL)",
+          "urlPlaceholderWhatsapp": "mohlala, 62812... (ntle le ho etella pele 0)",
+          "urlPlaceholderEmail": "mohlala, uena@email.com",
+          "urlPlaceholderWebsite": "mohlala, https://...",
+          "urlPlaceholderDefault": "mohlala, lebitso la mosebelisi",
+          "addContact": "Kenya Lebitso"
+        },
+        "common": {
+          "months": {
+            "1": "Pherekhong",
+            "2": "Hlakola",
+            "3": "Tlhakubele",
+            "4": "Mmesa",
+            "5": "Mots'eanong",
+            "6": "Phuptjane",
+            "7": "Phupu",
+            "8": "Phato",
+            "9": "Loetse",
+            "10": "Mphalane",
+            "11": "Pulungoana",
+            "12": "Tshitwe"
+          },
+          "month": "Kgwedi",
+          "year": "Selemo",
+          "invalidDate": "Kgwedi ya ho Qetela e Fosahetseng",
+          "words": "mantsoe"
+        }
+      },
+      "sure": "Ehlile",
+      "deletePhotoTitle": "Hlakola Senepe sa Boemo?",
+      "deletePhotoMessage": "Na ehlile u batla ho hlakola senepe see sa boemo?",
+      "cancel": "Hlakola",
+      "delete": "Hlakola"
+    },
+    "cropper": {
+      "chooseBackground": "Khetha Background",
+      "cropPhoto": "Fokotsa Senepe sa Hao",
+      "useOriginal": "Sebelisa ea mantlha",
+      "backgroundPresets": "Background Presets",
+      "none": "Ha ho letho",
+      "uploadBackground": "Kenya Background",
+      "cancel": "Hlakola",
+      "savePhoto": "Boloka Senepe",
+      "zoom": "Atometsa",
+      "rotationTilt": "Ho potoloha le ho Sekama",
+      "resetRotation": "Khutlisa ho 0°",
+      "center": "Setsi",
+      "rotateLeft": "Fetola -90 °",
+      "rotateRight": "Fetola +90°",
+      "removeBackground": "Tlosa Background",
+      "processing": "E ntse e sebetsa, ka kopo ema..."
+    },
+    "cvPreview": {
+      "title": "Tlhahlobo ea CV",
+      "downloadCv": "Khoasolla CV",
+      "download": "Khoasolla",
+      "wordCannotPreview": "Litokomane tsa Lentsoe (.doc/.docx) li ke ke tsa shejoa esale pele ka har'a sebatli. ",
+      "downloadFile": "Khoasolla faele ea CV",
+      "back": "Morao",
+      "mobileMessage": "Ka kopo, khoasolla faele ea CV ho e bona esale pele.",
+      "preview": "Hlahloba CV",
+      "wordPreviewTitle": "Ponahalo ea Tokomane ea Lentsoe",
+      "wordPreviewMessage": "Litokomane tsa Lentsoe (.doc/.docx) li ke ke tsa shejoa esale pele ka har'a sebatli. Ka kopo, khoasolla faele ho e sheba."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Ngola tlhaloso e khutšoanyane ka uena, lithahasello le lipakane tsa mosebetsi..."
+    },
+    "skills": {
+      "placeholder": "Ngola lebitso la tsebo...",
+      "add": "Eketsa",
+      "enterToAdd": "Tobetsa Enter ho eketsa",
+      "noSkills": "Ha ho na litsebo tse kentsoeng."
+    },
+    "projects": {
+      "projectName": "Lebitso la Morero",
+      "projectNamePlaceholder": "mohlala ",
+      "projectUrl": "URL ea morero",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Nako",
+      "startMonth": "Khoeli ea ho Qala",
+      "startYear": "Selemo sa ho Qala",
+      "endMonth": "Qetello ea Khoeli",
+      "endYear": "Selemo sa ho Qetela",
+      "currentlyWorking": "Hajoale e sebetsa ho sena",
+      "description": "Tlhaloso",
+      "descriptionPlaceholder": "Hlalosa morero, karolo ea hau, le likatleho...",
+      "technologies": "Theknoloji e Sebelisitsoeng",
+      "addProject": "Eketsa Morero",
+      "image": "Setšoantšo sa Morero",
+      "removeImage": "Tlosa Setšoantšo",
+      "uploadImage": "Tobetsa ho kenya setšoantšo"
+    },
+    "work": {
+      "company": "Khampani/Setheo",
+      "companyPlaceholder": "Lebitso la K'hamphani...",
+      "role": "Karolo/Boemo",
+      "rolePlaceholder": "Boemo ba hau...",
+      "jobType": "Mofuta oa Mosebetsi",
+      "selectJobType": "Khetha mofuta",
+      "fullTime": "Nako eohle",
+      "partTime": "Ea nakoana",
+      "contract": "Konteraka",
+      "internship": "Koetliso",
+      "freelance": "Boikemisetso",
+      "location": "Sebaka",
+      "locationPlaceholder": "mohlala ",
+      "duration": "Nako",
+      "currentlyWorking": "Hajoale e sebetsa mona",
+      "description": "Tlhaloso ea mosebetsi",
+      "descriptionPlaceholder": "Hlalosa boikarabello ba hau ba bohlokoa le likatleho tsa hau...",
+      "skills": "Tsebo e Itseng",
+      "addExperience": "Eketsa Boiphihlelo"
+    },
+    "org": {
+      "organization": "Lebitso la Mokhatlo",
+      "organizationPlaceholder": "Lebitso la mokhatlo...",
+      "role": "Karolo/Boemo",
+      "rolePlaceholder": "mohlala ",
+      "duration": "Nako",
+      "periodFormat": "kapa Foromo ya Mahala (mohl. 2020 - 2022)",
+      "periodPlaceholder": "mohlala ",
+      "currentlyActive": "E sebetsa hajoale",
+      "description": "Tlhaloso ea Ketsahalo",
+      "descriptionPlaceholder": "Hlalosa mesebetsi ea hau kapa litlatsetso tsa hau...",
+      "addExperience": "Eketsa Boiphihlelo"
+    },
+    "education": {
+      "institution": "Lebitso la Setheo",
+      "institutionPlaceholder": "Lebitso la sekolo kapa yunivesithi...",
+      "degree": "Degree/Boemo",
+      "degreePlaceholder": "mohlala ",
+      "major": "E Moholo/Sebaka sa Thuto",
+      "majorPlaceholder": "mohlala ",
+      "gpa": "GPA / Kereiti",
+      "gpaPlaceholder": "mohlala ",
+      "duration": "Nako ea Thuto",
+      "periodFormat": "kapa Foromo ya Mahala (mohl. 2018 - 2022)",
+      "periodPlaceholder": "mohlala ",
+      "currentlyStudying": "Hajoale ke ithuta mona",
+      "description": "Mesebetsi / Tlotlo",
+      "descriptionPlaceholder": "Hlalosa mesebetsi ea thuto, mekhatlo, kapa tlotla e amohetsoeng...",
+      "addEducation": "Eketsa Thuto"
+    },
+    "cert": {
+      "name": "Lebitso la Setifikeiti",
+      "namePlaceholder": "mohlala ",
+      "issuer": "Ho fana ka Mokhatlo",
+      "issuerPlaceholder": "mohlala ",
+      "issueDate": "Letsatsi la phatlalatso",
+      "expiryDate": "E sebetsa ho fihlela",
+      "noExpiry": "Lethathamo lena ha le felloe ke nako",
+      "yearPlaceholder": "kapa Selemo (mohlala 2023)",
+      "credentialUrl": "URL ea boitsebiso",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Tse Amanang le Tsebo",
+      "addCertification": "Eketsa Setifikeiti",
+      "image": "Setšoantšo/Letšoao",
+      "removeImage": "Tlosa Setšoantšo",
+      "uploadImage": "Tobetsa ho kenya setšoantšo"
+    },
+    "common": {
+      "months": {
+        "1": "Pherekhong",
+        "2": "Hlakola",
+        "3": "Tlhakubele",
+        "4": "Mmesa",
+        "5": "Mots'eanong",
+        "6": "Phuptjane",
+        "7": "Phupu",
+        "8": "Phato",
+        "9": "Loetse",
+        "10": "Mphalane",
+        "11": "Pulungoana",
+        "12": "Tshitwe"
+      },
+      "month": "Kgwedi",
+      "year": "Selemo",
+      "invalidDate": "Kgwedi ya ho Qetela e Fosahetseng",
+      "words": "mantsoe"
+    }
+  },
+  "settings": {
+    "title": "Litlhophiso",
+    "subtitle": "Laola profaele ea potefolio le lintho tseo u li ratang",
+    "tabs": {
+      "profile": "Boemo ba ka",
+      "security": "Tshireletso",
+      "personalization": "Motho ka mong"
+    },
+    "profile": {
+      "infoTitle": "Litaba tsa Motheo",
+      "photo": "Senepe sa Boemo",
+      "uploadPhoto": "Fetola Senepe",
+      "fullName": "Mabitso a felletseng",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Aterese ea imeile",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Lengolo-tsoibila le sebelisoa ho kena 'me ha le bontšoe phatlalatsa.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Boloka Profile",
+      "save": "Boloka Profile",
+      "accountCreated": "Akhaonto e Entsoe",
+      "lastLogin": "Keno ea ho Qetela",
+      "oauthNotice": "Boemo bona bo hokahantsoe le ak'haonte ea hau ea {{provider}}. Liphetoho tsa profil li tlameha ho etsoa ka mofani oa litšebeletso."
+    },
+    "security": {
+      "changePassword": "Fetola senotlolo",
+      "currentPassword": "Senotlolo sa Hajoale",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Phasewete e Ntjha",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Netefatsa Password e Ncha",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Bonyane litlhaku tse 8",
+        "uppercase": "Tlhaku e le 'ngoe e kholo (A-Z)",
+        "number": "Nomoro e le 'ngoe (0-9)",
+        "symbol": "Letšoao le le leng (!@#$%^&*)"
+      },
+      "passwordTitle": "Password",
+      "updatePassword": "Ntlafatsa Password",
+      "additionalSecurity": "Tshireletso e eketsehileng",
+      "twoFactor": "Netefatso ea Lintlha tse peli (2FA)",
+      "twoFactorDesc": "Sireletsa ak'haonte ea hau u sebelisa khoutu e 'ngoe ea OTP.",
+      "activeSessions": "Active Sessions",
+      "activeSessionsDesc": "Lumella ho beha leihlo lisebelisoa tseo u kentsoeng ho tsona.",
+      "publicVisibility": "Ponahalo ea Sechaba",
+      "hideFromSearch": "Pata Portfolio ho Baenjineri ba Lipatlisiso",
+      "hideFromSearchDesc": "Thibela Google ho supa leqephe la potefolio ea sechaba.",
+      "disable2fa": {
+        "title": "Tlosa 2FA",
+        "description": "Na ehlile u batla ho tima netefatso ea lintlha tse peli?",
+        "confirmPasswordLabel": "Kenya phasewete ea hau ho netefatsa",
+        "currentPasswordPlaceholder": "Lekunutu la hajoale",
+        "cancelButton": "Hlakola",
+        "confirmButton": "Tlosa 2FA",
+        "incorrectPassword": "Phasewete e fosahetseng."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code",
+        "step1Desc": "Bula sesebelisoa sa hau sa netefatso 'me u hlahlobe khoutu e latelang ea QR:",
+        "unableToScan": "Ha u khone ho skena? Sebelisa konopo ea ho seta",
+        "step2Title": "2. Netefatsa Khoutu",
+        "step2Desc": "Kenya khoutu ea linomoro tse 6 e hlahisitsoeng ke sesebelisoa sa hau:",
+        "cancelButton": "Hlakola",
+        "enableButton": "Thusa 2FA",
+        "invalidLength": "Ka kopo, kenya khoutu ea linomoro tse 6.",
+        "invalidCode": "Nomoro e fosahetseng. Ka kopo, leka hape."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Litaolo tsa Puo",
+      "appLanguage": "Puo ea App",
+      "layoutTitle": "Sebopeho le Typography",
+      "layoutStyle": "Sebopeho sa Setaele",
+      "layoutModern": "Setaele sa Sejoale-joale (E sa Feleng)",
+      "layoutClassic": "Mokhoa oa khale",
+      "layoutMinimalist": "Setaele sa Minimalist",
+      "fontSize": "Boholo ba Fonte ea App",
+      "fontSmall": "Nyenyane",
+      "fontNormal": "Tloaelehileng (Bohareng)",
+      "fontLarge": "E kholoanyane",
+      "searchLanguage": "Batla puo...",
+      "languageNotFound": "Puo ha e fumanehe",
+      "layoutElegant": "Setaele se Botle"
+    },
+    "saveChanges": "Boloka Liphetoho",
+    "cancel": "Hlakola",
+    "appSettings": "Litlhophiso tsa App",
+    "logoutConfirmTitle": "Netefatsa ho Tsoa",
+    "logoutConfirmDesc": "Na ehlile u batla ho tsoa ho sistimi?",
+    "logoutConfirmYes": "E, Tsoha",
+    "generalError": "Phoso e etsahetse. ",
+    "success": "Katleho",
+    "preferencesSaved": "Likhetho tsa app li bolokiloe ka katleho.",
+    "header": "Litlhophiso tsa Ts'ebeliso",
+    "logout": {
+      "title": "Netefatso ea ho Tsoa",
+      "message": "Na ehlile u batla ho tsoa ho sistimi?",
+      "confirm": "E, Tsoha"
+    },
+    "about": {
+      "title": "Mabapi le Kopo",
+      "subtitle": "Potefolio Builder Platform",
+      "version": "Phetolelo",
+      "description": "DevFolio ke sethala sa sejoale-joale sa potefolio se etselitsoeng baqapi, baqapi le baetsi ba litsebi. ",
+      "license": "Laesense & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Litokelo tsohle li sirelelitsoe.",
+      "developer": "Moqapi",
+      "developedBy": "E thehiloe ke Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Hlakola Account ka ho sa Feleng",
+      "menuItem": "Hlakola Account",
+      "successTitle": "Katleho",
+      "successMessage": "Lengolo-tsoibila le netefatsang ho hlakolwa ha ak'haonte le rometswe.",
+      "errorTitle": "E hlolehile",
+      "errorMessage": "E hlolehile ho romela lengolo-tsoibila la netefatso.",
+      "confirmationMessage": "Na ehlile u batla ho hlakola ak'haonte ea hau ruri?",
+      "warningMessage1": "O tla fumana lengolo-tsoibila ho netefatsa ho hlakolwa ha akhaonto.",
+      "warningMessage2": "Haeba ho netefalitsoe, lintlha tsohle (portfolio, merero, lipalo-palo) li tla hlakoloa ka ho sa feleng 'me li ke ke tsa fumanoa.",
+      "cancel": "Hlakola",
+      "confirm": "Netefatso"
+    },
+    "toasts": {
+      "toastError": "Phoso",
+      "toastSuccess": "Katleho",
+      "toastSetup2FAFailed": "E hlolehile ho seta 2FA. Ka kopo, leka hape.",
+      "toast2FAEnabled": "Netefatso ea lintlha tse peli e lumelletsoe.",
+      "toast2FADisabled": "Netefatso ea lintlha tse peli e koetsoe.",
+      "toastSessionEnabled": "Tlhokomelo e sebetsang ea nako e lumelletsoe.",
+      "toastSessionDisabled": "Tlhokomelo ea nako e ntseng e sebetsa e emisitsoe.",
+      "toastSetupKeyCopied": "Konopo ea ho seta e kopitsoe ho clipboard."
+    },
+    "privacy": {
+      "title": "leano la lekunutu",
+      "updateDate": "E qetetse ho ntlafatsoa: Phupu 15, 2026",
+      "intro": "Leano lena la Lekunutu le hlalosa kamoo DevFolio e bokellang, e sebelisang le ho sireletsa litaba tsa hau ha u sebelisa litšebeletso tsa rona.",
+      "section1Title": "1. Boitsebiso boo re bo Bokellang",
+      "section1Content": "Re bokella lintlha tseo u fanang ka tsona ka kotloloho ha re theha ak'haonte, ha re etsa li-portfolio, 'me re ikopanya le tšehetso ea rona. ",
+      "section2Title": "2. Tšebeliso ea Boitsebiso",
+      "section2Content": "Lintlha tsa hau li sebelisetsoa ho sebetsa, ho hlokomela, le ho fana ka likarolo tsa litšebeletso tsa rona, hammoho le ho buisana le uena mabapi le akhaonto kapa litšebeletso tsa hau.",
+      "section3Title": "3. Tšireletso ea data",
+      "section3Content": "Re kenya tšebetsong mehato e utloahalang ea ts'ireletso ho sireletsa tlhahisoleseling ea hau hore e se kenelle, e senolehe, kapa e senyehe ntle le tumello."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Letshwao la netefatso ha le fumanehe.",
+    "defaultError": "E hlolehile ho hlakola ak'haonte. E ka 'na eaba letšoao le felile.",
+    "loadingTitle": "E phumula Account...",
+    "loadingMessage": "Ka kopo ema, re ntse re sebetsa kopo ea hau.",
+    "successTitle": "Ak'haonte e Hlakotsoe ka Katleho",
+    "successMessage": "Lintlha tsohle tsa hau li hlakotsoe ruri. O tla fetisetsoa...",
+    "errorTitle": "E hlolehile ho Hlakola Account",
+    "backToHome": "Kgutlela Hae"
+  },
+  "forgotPassword": {
+    "minutes": "metsotso",
+    "seconds": "metsotsoana",
+    "success": "Katleho",
+    "otpSentToEmail": "Ho rometsoe khoutu ea OTP ho lengolo-tsoibila la hau.",
+    "failed": "E hlolehile",
+    "emailNotFound": "Lengolo-tsoibila ha le so fumanehe.",
+    "emailThirdParty": "Lengolo-tsoibila lena le ngolisoa ke batho ba bang.",
+    "genericError": "Ho na le phoso. Ka kopo, leka hape.",
+    "otpVerified": "Nomoro ea OTP e netefalitsoe ka katleho.",
+    "otpExpired": "Nomoro ea OTP e feletsoe ke nako. Ka kopo, kopa khoutu e ncha.",
+    "otpInvalid": "Khouto ea OTP e fosahetseng.",
+    "otpResent": "Ho rometsoe khoutu e ncha ea OTP ho lengolo-tsoibila la hau.",
+    "otpResendFailed": "E hlolehile ho romela khoutu ea OTP hape. Ka kopo, leka hape.",
+    "passwordResetSuccess": "E atlehile ho lokisa password. Ka kopo, kena ka password ea hau e ncha.",
+    "passwordResetFailed": "E hlolehile ho seta phasewete bocha.",
+    "backToLogin": "Khutlela ho Kena",
+    "back": "Khutlela",
+    "title": "U lebetse Password",
+    "description": "Kenya aterese ea lengolo-tsoibila e ngolisitsoeng akhaonteng ea hau. Re tla romella khoutu ea OTP ho seta phasewete bocha.",
+    "emailLabel": "Aterese ea lengolo-tsoibila",
+    "sending": "E ea romela...",
+    "sendOtp": "Romella OTP Khouto",
+    "verifyOtpTitle": "Netefatsa Khouto ya OTP",
+    "verifyOtpDesc": "Kenya khoutu ea linomoro tse 6 e rometsoeng lengolo-tsoibila la hau ho netefatsa boitsebiso ba hau.",
+    "verifying": "E ea netefatsa...",
+    "verifyOtp": "Netefatsa OTP",
+    "resending": "E romela hape...",
+    "resendOtp": "Romella OTP Khouto hape",
+    "resendCodeIn": "Romella khoutu hape ka",
+    "newPasswordTitle": "Theha Password e Ncha",
+    "newPasswordDesc": "Theha phasewete e ncha, e matla ho boloka akhaonto ea hau.",
+    "newPasswordLabel": "Password e Ncha",
+    "min8Chars": "Bonyane litlhaku tse 8",
+    "oneUpperCase": "1 litlhaku tse kholo (A-Z)",
+    "oneNumber": "1 nomoro (0-9)",
+    "oneSymbol": "1 letšoao (!@#$%^&*)",
+    "confirmPasswordLabel": "Netefatsa Lekunutu",
+    "passwordsDoNotMatch": "Li-password ha li lumellane.",
+    "resettingPassword": "Ho tsosolosa Lekunutu...",
+    "resetPassword": "Seta Lekunutu bocha"
+  },
+  "verifyEmail": {
+    "resendError": "E hlolehile ho romela lengolo-tsoibila la netefatso. Ka kopo, leka hape.",
+    "checkingStatus": "E hlahloba boemo ba netefatso...",
+    "title": "Sheba lengolo-tsoibila la hau",
+    "description": "Re rometse lengolo-tsoibila la netefatso atereseng ea hau ea lengolo-tsoibila. Ka kopo bula lengolo-tsoibila ebe o tobetsa konopo ea <1>\"Tiisa Account\"</1> ho kenya akhaonto ea hau.",
+    "stepsTitle": "Mehato",
+    "step1": "Bula sesebelisoa sa hau sa lengolo-tsoibila (Gmail, Yahoo, joalo-joalo)",
+    "step2": "Batla lengolo-tsoibila le tsoang ho DevFolio le sehlooho se reng \"Account Activation\"",
+    "step3": "Tobetsa konopo ea \"Confirm Account\" ho lengolo-tsoibila",
+    "step4": "U tla fetisetsoa leqepheng la ho kena ho kena",
+    "resendSuccess": "Lengolo-tsoibila la netefatso le rometsoe hape!",
+    "resending": "Romela hape...",
+    "resendButton": "Romela hape lengolo-tsoibila la netefatso",
+    "backToLogin": "Khutlela Leqepheng la Keno",
+    "footerNote": "Ha ua fumana lengolo-tsoibila? Sheba sephutheli sa <1>Spam</1> kapa <2>Junk</2> ho lengolo-tsoibila la hau. Sehokelo sa netefatso se sebetsa bakeng sa <3>lihora tse 24</3>."
+  }
+}

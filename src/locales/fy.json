@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Features",
+    "templates": "Sjabloanen",
+    "pricing": "Priis",
+    "login": "Oanmelde",
+    "getStarted": "Begjinne",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "De ultime portfoliobouwer foar ûntwikkelders",
+    "title1": "Bou jo profesjonele",
+    "title2": "portfolio yn",
+    "titleHighlight": "sekonden.",
+    "subtitle": "Alles wat jo nedich binne om jo feardigens, projekten en ûnderfining sjen te litten. ",
+    "startBuilding": "Begjin no te bouwen",
+    "viewTemplates": "View Templates",
+    "fastDeployment": "Snelle ynset",
+    "liveStatus": "username.dev is live!",
+    "featuresTitle": "Krêftige funksjes",
+    "featuresSubtitle": "Wy leverje alle ark dy't jo nedich binne om út 'e mannichte te stean en jo dreambaan te lânjen.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Organisearje jo seksjes, projekten en feardigens maklik mei ús yntuïtive fisuele bewurker.",
+    "feature2Title": "Oanpaste tema's",
+    "feature2Desc": "Kies út profesjoneel ûntworpen sjabloanen of meitsje jo eigen unike uterlik.",
+    "feature3Title": "Real-time Analytics",
+    "feature3Desc": "Folgje jo besikers, sjoch hokker projekten de measte oandacht krije, en mear."
+  },
+  "auth": {
+    "welcomeBack": "Opnij wolkom",
+    "loginToContinue": "Meld jo oan by jo akkount om troch te gean",
+    "createAccount": "Account oanmeitsje",
+    "joinCommunity": "Doch mei oan tûzenen oare ûntwikkelders",
+    "fullName": "Folsleine namme",
+    "fullNamePlaceholder": "bgl. ",
+    "email": "E-postadres",
+    "emailPlaceholder": "do@example.com",
+    "password": "Wachtwurd",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Unthâld my",
+    "forgotPassword": "Wachtwurd fergetten?",
+    "signIn": "Oanmelde",
+    "signingIn": "Oanmelde...",
+    "signUp": "Ynskriuwe",
+    "signingUp": "Oanmelde...",
+    "noAccount": "Hawwe jo gjin akkount?",
+    "hasAccount": "Al in akkount?",
+    "passwordRules": {
+      "title": "Wachtwurd moat befetsje:",
+      "length": "Op syn minst 8 karakters",
+      "uppercase": "Ien haadletter (A-Z)",
+      "number": "Ien nûmer (0-9)",
+      "symbol": "Ien symboal (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Bouwer",
+      "templates": "Sjabloanen en tema's",
+      "settings": "Ynstellings",
+      "collapse": "Sidebalke ynklappe",
+      "overview": "Oersicht",
+      "profileSettings": "Profile ynstellings",
+      "customDomain": "Oanpaste domein",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Sjoch Live",
+      "welcome": "Wolkom,",
+      "logout": "Ofmelde",
+      "builder": "Bouwer",
+      "livePortfolio": "Live Portfolio",
+      "live": "Libje"
+    },
+    "logoutModal": {
+      "title": "Ofmelde",
+      "message": "Binne jo wis dat jo ôfmelde wolle fan jo akkount? ",
+      "cancel": "Ofbrekke",
+      "confirm": "Ja, ôfmelde"
+    },
+    "slugModal": {
+      "title": "Kies jo portfolio-URL",
+      "message": "Dizze URL sil de unike keppeling wêze nei jo portfolio. ",
+      "slugPlaceholder": "dyn namme",
+      "availability": "Beskikberens:",
+      "available": "Beskikber",
+      "unavailable": "Net beskikber",
+      "checking": "Kontrolearje...",
+      "mustFormat": "Kin allinnich letters, sifers en streepkes befetsje (-)",
+      "cancel": "Ofbrekke",
+      "save": "Bewarje URL",
+      "usernameUrl": "Brûkersnamme URL",
+      "helpText": "Lytse letters, sifers en streepkes. ",
+      "validation": {
+        "empty": "Slug kin net leech wêze.",
+        "min3": "Minimum 3 karakters.",
+        "max30": "Maksimum 30 tekens.",
+        "format": "Allinnich lytse letters, sifers en streepkes (-). "
+      }
+    },
+    "loadingPortfolio": "Portfoliogegevens laden...",
+    "overview": {
+      "greetings": {
+        "morning": "Goeiemoarn",
+        "afternoon": "Goeiemiddei",
+        "evening": "Goeiemiddei",
+        "night": "Goeie Nacht"
+      },
+      "welcome": {
+        "hi": "hoi,",
+        "creator": "Skepper",
+        "desc1": "Wolkom by it DevFolio-dashboard. Jo portfolio is besjoen troch",
+        "desc2": "persoan. Trochgean mei wurkjen!",
+        "editPortfolio": "Portfolio bewurkje"
+      },
+      "stats": {
+        "totalVisitors": "Totaal besikers",
+        "projectViews": "Besjoen (projekt)",
+        "activeSessions": "Aktive sesje",
+        "totalLabel": "Totaal"
+      },
+      "setup": {
+        "title": "Setup Progress",
+        "completed": "Jo portfolio is kompleet! 🎉",
+        "inProgress": "Stappen nei it perfekte portfolio.",
+        "profile": {
+          "title": "Folsleine profyl",
+          "desc": "Foegje namme, bio en profylfoto ta."
+        },
+        "section": {
+          "title": "Add Seksjes",
+          "desc": "Aktivearje op syn minst 1 seksje yn 'e portefúlje."
+        },
+        "project": {
+          "title": "Add Project",
+          "desc": "Fier op syn minst 1 fan jo bêste projekten yn."
+        },
+        "publish": {
+          "title": "Portfolio publisearje",
+          "desc": "Stel in oanpaste URL yn, sadat it tagonklik wurde kin troch it publyk."
+        }
+      },
+      "topProjects": {
+        "title": "Meast populêre projekten",
+        "desc": "De prestaasjes fan jo wurk yn 'e eagen fan besikers.",
+        "viewAll": "Sjoch Alles",
+        "empty": "D'r binne noch gjin werjeftegegevens foar jo projekt."
+      }
+    },
+    "themes": {
+      "title": "Sjabloanen en tema's",
+      "subtitle": "Pas it uterlik en gefoel fan jo iepenbiere portefúlje oan.",
+      "reset": "Standert weromsette",
+      "save": "Feroarings bewarje",
+      "saving": "Besparje...",
+      "chooseTemplate": "Kies in sjabloan",
+      "primaryColor": "Primêre kleur",
+      "typography": "Typografy",
+      "appearance": "Uterlik",
+      "corners": "Hoeken en grinzen",
+      "successTitle": "Sukses",
+      "successMessage": "Tema-foarkarren mei súkses bywurke",
+      "errorTitle": "Flater",
+      "errorMessage": "It bewarjen fan temafoarkarren mislearre",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistysk",
+          "desc": "Skjin en ienfâldich ûntwerp rjochte op ynhâld."
+        },
+        "developerDark": {
+          "name": "Untwikkelder Dark",
+          "desc": "Dûnker tema perfekt foar it werjaan fan koade en technyske stapels."
+        },
+        "creative": {
+          "name": "Kreatyf",
+          "desc": "Levendige en kleurige yndieling foar ûntwerpers en kreativen."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Profesjonele en formele yndieling foar saaklike professionals."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Moderne grid-yndieling yn Apple-styl dy't ferskate feardigens effisjint markeart."
+        },
+        "neoBrutalism": {
+          "name": "Neo-brutalisme",
+          "desc": "Fet rânen en hege kontrast kleuren foar in trendy, unapologetic útstrieling."
+        },
+        "glassmorphism": {
+          "name": "Glasmorfisme",
+          "desc": "Frosted glêzen effekten oer kleurige hellingen foar in slanke moderne UI."
+        },
+        "linkInBio": {
+          "name": "Link in Bio",
+          "desc": "Kompakte fertikale yndieling optimalisearre foar mobile skermen en sosjale media."
+        }
+      },
+      "appearances": {
+        "light": "Ljocht",
+        "dark": "Dûnker",
+        "system": "Systeem"
+      },
+      "cornersOptions": {
+        "sharp": "Skerp",
+        "rounded": "Rûne",
+        "pill": "Pil"
+      }
+    },
+    "feedback": {
+      "title": "Feedback ferstjoere",
+      "subtitle": "Help ús om it better te meitsjen troch suggestjes, krityk te leverjen of bugs te melden op dizze applikaasje.",
+      "categoryLabel": "Feedbackkategory",
+      "messageLabel": "Berjochtdetails",
+      "messagePlaceholder": "Fertel my yn detail oer de feedback dy't jo oerbringe wolle ...",
+      "imageLabel": "Ofbylding taheaksel (opsjoneel)",
+      "imagePlaceholder": "Klikje om ôfbylding of skermôfbylding te uploaden",
+      "submitting": "Ferstjoere...",
+      "submitBtn": "Feedback ferstjoere",
+      "categories": {
+        "suggestion": "Suggestjes en ideeën",
+        "bug": "Bug / Flaterrapport",
+        "criticism": "Krityk",
+        "other": "Oaren"
+      },
+      "imageErrorTitle": "Flater",
+      "imageErrorMessage": "Guon bestannen wurde ôfwiisd om't se gjin ôfbyldingsformaten wurde stipe (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Sukses",
+      "successMessage": "Tankewol foar jo feedback! Ferslach is ferstjoerd.",
+      "submitErrorTitle": "Mislearre",
+      "submitErrorMessage": "Der barde in flater by it ferstjoeren fan feedback. Besykje it nochris."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Oer my",
+      "skills": "Skills",
+      "projects": "Projekten",
+      "workExperience": "Wurkûnderfining",
+      "orgExperience": "Organisatoaryske ûnderfining",
+      "education": "Oplieding",
+      "certifications": "Training & Certifications",
+      "contact": "Nim kontakt mei my op"
+    },
+    "editor": {
+      "profileInfo": "Profile ynformaasje",
+      "saving": "Besparret...",
+      "profilePhoto": "Profylfoto",
+      "clickToUpload": "Klik om te uploaden (JPG, PNG)",
+      "fullName": "Folsleine namme",
+      "fullNamePlaceholder": "bgl. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Untwikkelder mei in passy foar it bouwen fan moderne webapps ...",
+      "location": "Lokaasje",
+      "locationPlaceholder": "bgl. ",
+      "gender": "Geslacht",
+      "selectGender": "Selektearje Geslacht",
+      "male": "Male",
+      "female": "Female",
+      "custom": "Oanpast",
+      "customPlaceholder": "Typ jo oanpaste geslacht ...",
+      "uploadCv": "Upload CV",
+      "cvFormat": "(DOC of PDF)",
+      "preview": "Foarbyld",
+      "remove": "Fuortsmite",
+      "clickToUploadCv": "Klikje om PDF of DOC te uploaden",
+      "sections": "Seksjes",
+      "removeSelected": "Selektearre fuortsmite",
+      "confirmRemove": "Befêstigje Fuortsmite",
+      "addSection": "Add Seksje",
+      "addAllSections": "Alle seksjes tafoegje",
+      "noSections": "Noch gjin seksjes",
+      "clickToAdd": "Klikje op \"+ Seksje tafoegje\" om te begjinnen",
+      "selectAll": "Selektearje alles",
+      "selected": "Selektearre",
+      "dragToReorder": "Sleep om seksjes te feroarjen",
+      "livePreview": "Live Foarbyld",
+      "addSectionsToBuild": "Foegje seksjes ta om jo portfolio te bouwen",
+      "now": "No",
+      "current": "Aktueel",
+      "noExpiry": "Gjin ferfal",
+      "see": "Sjen",
+      "position": "Posysje",
+      "degree": "Graad",
+      "certification": "Sertifisearring",
+      "sectionsForm": {
+        "about": {
+          "label": "Beskriuwing fan dysels",
+          "placeholder": "Fertel ús oer josels, jo eftergrûn, ynteresses en feardigens ..."
+        },
+        "skills": {
+          "addPlaceholder": "Typ feardigens en druk op Enter..."
+        },
+        "projects": {
+          "title": "Projekt Namme",
+          "titlePlaceholder": "Projektnamme...",
+          "url": "Projekt URL",
+          "description": "Beskriuwing",
+          "descriptionPlaceholder": "Koarte beskriuwing fan it projekt...",
+          "uploadThumbnail": "Project Image",
+          "addProject": "Add Project",
+          "projectNum": "Projekt #",
+          "currentProject": "Dit is in projekt dêr't ik oan wurkje"
+        },
+        "work": {
+          "company": "Bedriuw / Agintskip",
+          "companyPlaceholder": "Bedriuwsnamme...",
+          "position": "Posysje / Titel",
+          "positionPlaceholder": "Jo posysje ...",
+          "employmentType": "Soart wurk",
+          "location": "Lokaasje",
+          "locationPlaceholder": "Stêd, lân ...",
+          "startDate": "Start",
+          "endDate": "Finished",
+          "currentWork": "Ik bin op dit stuit noch oan it wurk",
+          "description": "Beskriuwing",
+          "descriptionPlaceholder": "Funksjebeskriuwing en ferantwurdlikheden ...",
+          "skills": "Feardigens",
+          "addExperience": "Wurkûnderfining tafoegje",
+          "experienceNum": "Underfining #",
+          "dateError": "De eindatum kin net earder wêze as de startdatum"
+        },
+        "org": {
+          "organization": "Organisaasje Namme",
+          "orgPlaceholder": "BEM Universiteit...",
+          "role": "Rol / posysje",
+          "rolePlaceholder": "Division Head...",
+          "addOrg": "Foegje organisatoaryske ûnderfining ta",
+          "orgNum": "Organisaasje #"
+        },
+        "edu": {
+          "institution": "Underwiisynstellingen",
+          "institutionPlaceholder": "Namme fan kampus of skoalle ...",
+          "degree": "Titel",
+          "degreePlaceholder": "S1, middelbere skoalle, ensfh.",
+          "major": "Ofdieling / fakgebiet",
+          "majorPlaceholder": "Ynformatika Engineering ...",
+          "gpa": "GPA (opsjoneel)",
+          "currentStudy": "Ik lear hjir noch",
+          "descriptionPlaceholder": "Aktiviteiten en prestaasjes tidens stúdzje ...",
+          "addEdu": "Underwiis tafoegje",
+          "eduNum": "Underwiis #"
+        },
+        "cert": {
+          "name": "Namme fan sertifisearring / training",
+          "namePlaceholder": "Sertifikaasjenamme ...",
+          "issuer": "Útjouwer",
+          "issuerPlaceholder": "Utjouwerij ynstelling...",
+          "issueDate": "Start (publisearje datum)",
+          "issueDatePlaceholder": "Selektearje publikaasjedatum...",
+          "expiryDate": "Folslein (jildich perioade)",
+          "expiryDatePlaceholder": "Selektearje ferfaldatum ...",
+          "noExpiry": "Dit sertifikaat hat gjin ferfaldatum",
+          "url": "Credential URL",
+          "uploadThumbnail": "Sertifikaat / Training Image",
+          "uploadThumbnailLimit": "Sertifikaatôfbylding uploade (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Add Certification",
+          "certNum": "Sertifikaasje #"
+        },
+        "contact": {
+          "contactNum": "Kontakt #",
+          "platform": "Perron",
+          "displayText": "Tekst werjaan",
+          "displayTextPlaceholder": "bgl. do@email.com of @brûkersnamme",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "bgl. 62812... (sûnder 0 foaroan)",
+          "urlPlaceholderEmail": "bgl. do@email.com",
+          "urlPlaceholderWebsite": "bygelyks https://...",
+          "urlPlaceholderDefault": "bgl. brûkersnamme",
+          "addContact": "Kontakt taheakje"
+        },
+        "common": {
+          "months": {
+            "1": "jannewaris",
+            "2": "febrewaris",
+            "3": "maart",
+            "4": "april",
+            "5": "maaie",
+            "6": "juny",
+            "7": "july",
+            "8": "augustus",
+            "9": "spetimber",
+            "10": "oktober",
+            "11": "novimber",
+            "12": "desimber"
+          },
+          "month": "Moanne",
+          "year": "Jier",
+          "invalidDate": "Unjildige einmoanne",
+          "words": "wurden"
+        }
+      },
+      "sure": "Wis",
+      "deletePhotoTitle": "Profylfoto wiskje?",
+      "deletePhotoMessage": "Binne jo wis dat jo dizze profylfoto fuortsmite wolle?",
+      "cancel": "Ofbrekke",
+      "delete": "Wiskje"
+    },
+    "cropper": {
+      "chooseBackground": "Kies Eftergrûn",
+      "cropPhoto": "Crop jo foto",
+      "useOriginal": "Brûk orizjinele",
+      "backgroundPresets": "Eftergrûn Presets",
+      "none": "Gjin",
+      "uploadBackground": "Upload eftergrûn",
+      "cancel": "Ofbrekke",
+      "savePhoto": "Foto bewarje",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotaasje & Tilt",
+      "resetRotation": "Weromsette nei 0°",
+      "center": "Sintrum",
+      "rotateLeft": "Draaie -90°",
+      "rotateRight": "+90° draaie",
+      "removeBackground": "Fuortsmite Eftergrûn",
+      "processing": "Jo ôfbylding wurdt ferwurke, wachtsje asjebleaft..."
+    },
+    "cvPreview": {
+      "title": "CV Preview",
+      "downloadCv": "Download CV",
+      "download": "Download",
+      "wordCannotPreview": "Word-dokuminten (.doc/.docx) kinne net native besjoen wurde yn 'e browser. ",
+      "downloadFile": "Download CV-bestân",
+      "back": "Rêch",
+      "mobileMessage": "Download asjebleaft it CV-bestân om it te besjen.",
+      "preview": "Foarbyld fan CV",
+      "wordPreviewTitle": "Foarbyld fan Word Document",
+      "wordPreviewMessage": "Word-dokuminten (.doc/.docx) kinne net native besjoen wurde yn 'e browser. Download asjebleaft it bestân om it te besjen."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Skriuw in koarte beskriuwing oer josels, ynteresses en karriêredoelen ..."
+    },
+    "skills": {
+      "placeholder": "Type skill name...",
+      "add": "Add",
+      "enterToAdd": "Druk op Enter om ta te foegjen",
+      "noSkills": "Gjin feardichheden tafoege noch."
+    },
+    "projects": {
+      "projectName": "Projekt Namme",
+      "projectNamePlaceholder": "bgl. ",
+      "projectUrl": "Projekt URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Doer",
+      "startMonth": "Begjin Moanne",
+      "startYear": "Begjin jier",
+      "endMonth": "Ein Moanne",
+      "endYear": "Einjier",
+      "currentlyWorking": "Op it stuit wurket hjir oan",
+      "description": "Beskriuwing",
+      "descriptionPlaceholder": "Beskriuw it projekt, jo rol, en prestaasjes ...",
+      "technologies": "Technologies brûkt",
+      "addProject": "Add Project",
+      "image": "Project Image",
+      "removeImage": "Ofbyld fuortsmite",
+      "uploadImage": "Klikje om ôfbylding te uploaden"
+    },
+    "work": {
+      "company": "Bedriuw / ynstelling",
+      "companyPlaceholder": "Bedriuwsnamme...",
+      "role": "Rol / posysje",
+      "rolePlaceholder": "Jo posysje ...",
+      "jobType": "Job Type",
+      "selectJobType": "Selektearje type",
+      "fullTime": "Foltiid",
+      "partTime": "Part-time",
+      "contract": "Kontrakt",
+      "internship": "Staazje",
+      "freelance": "Freelance",
+      "location": "Lokaasje",
+      "locationPlaceholder": "bgl. ",
+      "duration": "Doer",
+      "currentlyWorking": "Op it stuit wurket hjir",
+      "description": "Jobbeskriuwing",
+      "descriptionPlaceholder": "Beskriuw jo wichtige ferantwurdlikheden en prestaasjes ...",
+      "skills": "Spesifike feardigens",
+      "addExperience": "Add Experience"
+    },
+    "org": {
+      "organization": "Organisaasje Namme",
+      "organizationPlaceholder": "Organisaasje namme...",
+      "role": "Rol / posysje",
+      "rolePlaceholder": "bgl. ",
+      "duration": "Doer",
+      "periodFormat": "of fergees formaat (bgl. 2020 - 2022)",
+      "periodPlaceholder": "bgl. ",
+      "currentlyActive": "Op it stuit aktyf",
+      "description": "Aktiviteit Beskriuwing",
+      "descriptionPlaceholder": "Beskriuw jo aktiviteiten of bydragen ...",
+      "addExperience": "Add Experience"
+    },
+    "education": {
+      "institution": "Ynstitút Namme",
+      "institutionPlaceholder": "Skoalle of universiteit namme ...",
+      "degree": "Graad / nivo",
+      "degreePlaceholder": "bgl. ",
+      "major": "Major / fakgebiet",
+      "majorPlaceholder": "bgl. ",
+      "gpa": "GPA / Grade",
+      "gpaPlaceholder": "bgl. ",
+      "duration": "Underwiis Duration",
+      "periodFormat": "of Free Format (bgl. 2018 - 2022)",
+      "periodPlaceholder": "bgl. ",
+      "currentlyStudying": "Studearret hjir op it stuit",
+      "description": "Aktiviteiten / Honours",
+      "descriptionPlaceholder": "Beskriuw akademyske aktiviteiten, organisaasjes, as eare ûntfongen ...",
+      "addEducation": "Underwiis tafoegje"
+    },
+    "cert": {
+      "name": "Sertifisearring Namme",
+      "namePlaceholder": "bgl. ",
+      "issuer": "Utjaan Organisaasje",
+      "issuerPlaceholder": "bgl. ",
+      "issueDate": "Utjeftedatum",
+      "expiryDate": "Jildich oant",
+      "noExpiry": "Dizze bewiisbrief ferrint net",
+      "yearPlaceholder": "of jier (bygelyks 2023)",
+      "credentialUrl": "Credential URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Related Skills",
+      "addCertification": "Add Certification",
+      "image": "Ofbylding / Logo",
+      "removeImage": "Ofbyld fuortsmite",
+      "uploadImage": "Klikje om ôfbylding te uploaden"
+    },
+    "common": {
+      "months": {
+        "1": "jannewaris",
+        "2": "febrewaris",
+        "3": "maart",
+        "4": "april",
+        "5": "maaie",
+        "6": "juny",
+        "7": "july",
+        "8": "augustus",
+        "9": "spetimber",
+        "10": "oktober",
+        "11": "novimber",
+        "12": "desimber"
+      },
+      "month": "Moanne",
+      "year": "Jier",
+      "invalidDate": "Unjildige einmoanne",
+      "words": "wurden"
+    }
+  },
+  "settings": {
+    "title": "Ynstellings",
+    "subtitle": "Behear jo portfolioprofyl en foarkarren",
+    "tabs": {
+      "profile": "Myn profyl",
+      "security": "Feiligens",
+      "personalization": "Personalization"
+    },
+    "profile": {
+      "infoTitle": "Basis ynformaasje",
+      "photo": "Profylfoto",
+      "uploadPhoto": "Feroarje Foto",
+      "fullName": "Folsleine namme",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-postadres",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-post wurdt brûkt foar oanmelding en wurdt net iepenbier werjûn.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Bewarje profyl",
+      "save": "Bewarje profyl",
+      "accountCreated": "Account oanmakke",
+      "lastLogin": "Lêste Login",
+      "oauthNotice": "Dit profyl is ferbûn mei jo {{provider}} akkount. Profilwizigingen moatte wurde makke fia de tsjinstferliener."
+    },
+    "security": {
+      "changePassword": "Feroarje wachtwurd",
+      "currentPassword": "Hjoeddeistich wachtwurd",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nij wachtwurd",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Befêstigje Nij Wachtwurd",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Op syn minst 8 karakters",
+        "uppercase": "Ien haadletter (A-Z)",
+        "number": "Ien nûmer (0-9)",
+        "symbol": "Ien symboal (!@#$%^&*)"
+      },
+      "passwordTitle": "Wachtwurd",
+      "updatePassword": "Update Wachtwurd",
+      "additionalSecurity": "Oanfoljende feiligens",
+      "twoFactor": "Twa-faktor autentikaasje (2FA)",
+      "twoFactorDesc": "Befeiligje jo akkount mei in ekstra OTP-koade.",
+      "activeSessions": "Aktive sesjes",
+      "activeSessionsDesc": "Altyd tafersjoch op oanmelde apparaten tastean.",
+      "publicVisibility": "Publike sichtberens",
+      "hideFromSearch": "Portfolio ferbergje fan sykmasines",
+      "hideFromSearchDesc": "Foarkom dat Google jo publike portfolioside yndeksearret.",
+      "disable2fa": {
+        "title": "2FA útskeakelje",
+        "description": "Binne jo wis dat jo twa-faktor autentikaasje útsette wolle?",
+        "confirmPasswordLabel": "Fier jo wachtwurd yn om te befêstigjen",
+        "currentPasswordPlaceholder": "Aktueel wachtwurd",
+        "cancelButton": "Ofbrekke",
+        "confirmButton": "2FA útskeakelje",
+        "incorrectPassword": "Unjildich wachtwurd."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code",
+        "step1Desc": "Iepenje jo autentikaasje-app en scan de folgjende QR-koade:",
+        "unableToScan": "Kin net scannen? Brûk de konfiguraasjekaai",
+        "step2Title": "2. Ferifiearje Code",
+        "step2Desc": "Fier de 6-sifers koade yn generearre troch jo app:",
+        "cancelButton": "Ofbrekke",
+        "enableButton": "2FA ynskeakelje",
+        "invalidLength": "Fier in 6-sifers koade yn.",
+        "invalidCode": "Unjildige ferifikaasjekoade. Besykje it nochris."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Taalkontrôles",
+      "appLanguage": "App Taal",
+      "layoutTitle": "Layout & Typografy",
+      "layoutStyle": "Layout Style",
+      "layoutModern": "Moderne styl (standert)",
+      "layoutClassic": "Klassike styl",
+      "layoutMinimalist": "Minimalistyske styl",
+      "fontSize": "App-lettertypegrutte",
+      "fontSmall": "Lyts",
+      "fontNormal": "Normaal (medium)",
+      "fontLarge": "Grut",
+      "searchLanguage": "Taal sykje...",
+      "languageNotFound": "Taal net fûn",
+      "layoutElegant": "Elegante styl"
+    },
+    "saveChanges": "Feroarings bewarje",
+    "cancel": "Ofbrekke",
+    "appSettings": "App Ynstellings",
+    "logoutConfirmTitle": "Befêstigje ôfmelde",
+    "logoutConfirmDesc": "Binne jo wis dat jo út it systeem ôfmelde wolle?",
+    "logoutConfirmYes": "Ja, ôfmelde",
+    "generalError": "Der barde in flater. ",
+    "success": "Sukses",
+    "preferencesSaved": "App-foarkarren mei sukses bewarre.",
+    "header": "Applikaasje ynstellings",
+    "logout": {
+      "title": "Befêstiging fan ôfmelde",
+      "message": "Binne jo wis dat jo út it systeem ôfmelde wolle?",
+      "confirm": "Ja, ôfmelde"
+    },
+    "about": {
+      "title": "Oer Applikaasje",
+      "subtitle": "Portfolio Bouwer Platfoarm",
+      "version": "Ferzje",
+      "description": "DevFolio is in modern portfoliobouwerplatfoarm ûntworpen foar ûntwikkelders, ûntwerpers en profesjonele makkers. ",
+      "license": "Lisinsje & auteursrjocht",
+      "copyright": "© 2026 DevFolio Inc. Alle rjochten foarbehâlden.",
+      "developer": "Untwikkelder",
+      "developedBy": "Ûntwikkele troch Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Account permanint wiskje",
+      "menuItem": "Account wiskje",
+      "successTitle": "Sukses",
+      "successMessage": "In befêstigings-e-post foar wiskjen fan akkount is ferstjoerd.",
+      "errorTitle": "Mislearre",
+      "errorMessage": "It ferstjoeren fan befêstigings-e-post mislearre.",
+      "confirmationMessage": "Binne jo wis dat jo jo akkount permanint wiskje wolle?",
+      "warningMessage1": "Jo krije in e-post om it wiskjen fan akkount te befêstigjen.",
+      "warningMessage2": "As befêstige, sille alle gegevens (portfolio, projekten, statistiken) permanint wiske wurde en kinne net weromhelle wurde.",
+      "cancel": "Ofbrekke",
+      "confirm": "Befêstiging"
+    },
+    "toasts": {
+      "toastError": "Fersin",
+      "toastSuccess": "Sukses",
+      "toastSetup2FAFailed": "It ynstellen fan 2FA is mislearre. Besykje it nochris.",
+      "toast2FAEnabled": "Twa-faktor autentikaasje is ynskeakele.",
+      "toast2FADisabled": "Twa-faktor autentikaasje is útskeakele.",
+      "toastSessionEnabled": "Aktive sesjemonitoring is ynskeakele.",
+      "toastSessionDisabled": "Aktive sesjemonitoring is útskeakele.",
+      "toastSetupKeyCopied": "Setup-kaai kopiearre nei klamboerd."
+    },
+    "privacy": {
+      "title": "Privacybelied",
+      "updateDate": "Lêst bywurke: 15 july 2026",
+      "intro": "Dit privacybelied ferklearret hoe't DevFolio jo persoanlike ynformaasje sammelet, brûkt en beskermet by it brûken fan ús tsjinsten.",
+      "section1Title": "1. Ynformaasje Wy sammelje",
+      "section1Content": "Wy sammelje ynformaasje dy't jo direkt leverje by it meitsjen fan in akkount, it bouwen fan in portfolio en kontakt opnimme mei ús stipe. ",
+      "section2Title": "2. Gebrûk fan ynformaasje",
+      "section2Content": "Jo ynformaasje wurdt brûkt om de funksjes fan ús tsjinsten te operearjen, te ûnderhâlden en te leverjen, en ek om mei jo te kommunisearjen oer jo akkount of tsjinsten.",
+      "section3Title": "3. Data Security",
+      "section3Content": "Wy implementearje ridlike feiligensmaatregels om jo ynformaasje te beskermjen tsjin net autorisearre tagong, iepenbiering of ferneatiging."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Befêstigingstoken net fûn.",
+    "defaultError": "It wiskjen fan akkount is mislearre. It token kin ferrûn wêze.",
+    "loadingTitle": "Account wiskje...",
+    "loadingMessage": "Wachtsje asjebleaft, wy ferwurkje jo fersyk.",
+    "successTitle": "Account mei sukses wiske",
+    "successMessage": "Al jo gegevens binne permanint wiske. Jo wurde omlaat...",
+    "errorTitle": "It wiskjen fan akkount mislearre",
+    "backToHome": "Werom nei Thús"
+  },
+  "forgotPassword": {
+    "minutes": "minuten",
+    "seconds": "sekonden",
+    "success": "Sukses",
+    "otpSentToEmail": "An OTP code has been sent to your email.",
+    "failed": "Mislearre",
+    "emailNotFound": "E-post net fûn.",
+    "emailThirdParty": "This email is registered through a third party.",
+    "genericError": "Der is in flater. Besykje it nochris.",
+    "otpVerified": "The OTP code has been successfully verified.",
+    "otpExpired": "The OTP code has expired. Please request a new code.",
+    "otpInvalid": "Unjildige OTP-koade.",
+    "otpResent": "A new OTP code has been sent to your email.",
+    "otpResendFailed": "Failed to resend OTP code. Besykje it nochris.",
+    "passwordResetSuccess": "Password successfully reset. Please log in with your new password.",
+    "passwordResetFailed": "Failed to reset password.",
+    "backToLogin": "Werom nei Oanmelde",
+    "back": "Werom",
+    "title": "Wachtwurd fergetten",
+    "description": "Fier it e-mailadres yn dat is registrearre op jo akkount. We will send an OTP code to reset the password.",
+    "emailLabel": "E-postadres",
+    "sending": "Ferstjoere...",
+    "sendOtp": "Stjoer OTP-koade",
+    "verifyOtpTitle": "Ferifiearje OTP Code",
+    "verifyOtpDesc": "Fier de 6-siferskoade yn dy't nei jo e-post is stjoerd om jo identiteit te befêstigjen.",
+    "verifying": "Ferifiearje...",
+    "verifyOtp": "Ferifiearje OTP",
+    "resending": "Op 'e nij ferstjoere...",
+    "resendOtp": "OTP-koade opnij ferstjoere",
+    "resendCodeIn": "Stjoer de koade opnij yn",
+    "newPasswordTitle": "Create a New Password",
+    "newPasswordDesc": "Meitsje in nij, sterk wachtwurd om jo akkount te befeiligjen.",
+    "newPasswordLabel": "Nij wachtwurd",
+    "min8Chars": "Minimum 8 tekens",
+    "oneUpperCase": "1 haadletters (A-Z)",
+    "oneNumber": "1 nûmer (0-9)",
+    "oneSymbol": "1 symboal (!@#$%^&*)",
+    "confirmPasswordLabel": "Wachtwurd befêstigje",
+    "passwordsDoNotMatch": "Wachtwurden komme net oerien.",
+    "resettingPassword": "Resetting Password...",
+    "resetPassword": "Wachtwurd weromsette"
+  },
+  "verifyEmail": {
+    "resendError": "It ferstjoeren fan ferifikaasje-e-post is net slagge. Besykje it nochris.",
+    "checkingStatus": "Kontrolearje ferifikaasjestatus...",
+    "title": "Kontrolearje jo e-post",
+    "description": "Wy hawwe in ferifikaasje-e-post stjoerd nei jo e-mailadres. Iepenje asjebleaft de e-post en klik op de knop <1>\"Account befêstigje\"</1> om jo akkount te aktivearjen.",
+    "stepsTitle": "Stappen",
+    "step1": "Iepenje jo e-postapplikaasje (Gmail, Yahoo, ensfh.)",
+    "step2": "Sykje nei in e-post fan DevFolio mei it ûnderwerp \"Account Activation\"",
+    "step3": "Klikje op de knop \"Account befêstigje\" yn 'e e-post",
+    "step4": "Jo wurde trochstjoerd nei de oanmeldside om yn te gean",
+    "resendSuccess": "De ferifikaasje-e-post is opnij ferstjoerd!",
+    "resending": "Op 'e nij ferstjoere...",
+    "resendButton": "Ferifikaasje-e-post opnij ferstjoere",
+    "backToLogin": "Werom nei oanmeldside",
+    "footerNote": "Hawwe jo de e-post net ûntfongen? Kontrolearje de map <1>Onpost</1> of <2>Junk</2> yn jo e-post. De ferifikaasjekeppeling is jildich foar <3>24 oeren</3>."
+  }
+}

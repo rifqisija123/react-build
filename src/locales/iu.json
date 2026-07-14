@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "ᑕᑯᓐᓇᕐᓂᖏᑦ",
+    "templates": "ᐋᖅᑭᒃᓯᒪᓂᖏᑦ",
+    "pricing": "ᐊᑭᖏᑦ",
+    "login": "ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒃᓴᖅ",
+    "getStarted": "ᐱᒋᐊᕈᑎᑦ",
+    "title": "ᑎᐊᕝᕘᓕᐊ"
+  },
+  "landing": {
+    "badge": "ᑭᖑᓪᓕᖅᐹᖅ ᐸᕐᓇᐅᑎᓕᐅᖅᑎ ᐱᕙᓪᓕᐊᑎᑦᑎᔨᓄᑦ",
+    "title1": "ᓴᓇᓗᑎᑦ ᖃᐅᔨᒪᔨᑕᕆᔭᕐᓂᒃ",
+    "title2": "ᒥᓂᔅᑕᐅᕝᕕᒃ ᐃᓗᐊᓂ",
+    "titleHighlight": "ᓴᑲᓐᔅ.",
+    "subtitle": "ᑭᓱᓕᒫᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᔭᕆᐊᖃᖅᑕᑎᑦ ᐊᔪᙱᓐᓂᕆᔭᕐᓂᒃ, ᐱᓕᕆᐊᒃᓴᓂᒃ, ᐊᒻᒪᓗ ᖃᐅᔨᒪᓂᕆᔭᕐᓂᒃ. ",
+    "startBuilding": "ᓴᓇᒋᐊᓯᓗᑎᑦ ᒫᓐᓇ",
+    "viewTemplates": "ᑕᑯᓗᒋᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ",
+    "fastDeployment": "ᓱᒃᑲᔪᒃᑯᑦ ᓴᖅᑭᔮᖅᑎᑕᐅᓂᖓ",
+    "liveStatus": "ᐊᑐᖅᑎᐅᑉ ᐊᑎᖓ.dev ᑕᑯᒃᓴᐅᕗᖅ!",
+    "featuresTitle": "ᓴᙱᔪᑦ ᐱᐅᓯᖏᑦ",
+    "featuresSubtitle": "ᐱᑕᖃᖅᑎᑦᑎᕙᒃᐳᒍᑦ ᓴᓇᕐᕈᑎᓕᒫᓂᒃ ᐱᔭᕆᐊᖃᖅᑕᕐᓂᒃ ᑕᑯᒃᓴᐅᑦᑎᐊᖁᓪᓗᑎᑦ ᐃᓄᒋᐊᒃᑐᓂᒃ ᐊᒻᒪᓗ ᐃᖅᑲᓇᐃᔮᖅᑖᕈᒪᔭᕐᓂᒃ.",
+    "feature1Title": "ᑎᒍᒥᐊᕐᓗᒍ ᐲᕐᓗᒍᓗ ᓴᓇᔨ",
+    "feature1Desc": "ᐱᔭᕆᐊᑭᑦᑐᒃᑯᑦ ᐋᖅᑭᒃᓱᐃᓗᑎᑦ ᐃᓚᖏᓐᓂᒃ, ᐱᓕᕆᐊᒃᓴᓂᒃ, ᐊᒻᒪᓗ ᐊᔪᙱᓐᓂᕆᔭᕐᓂᒃ ᑕᑯᒃᓴᐅᔪᒃᑯᑦ ᐋᖅᑭᒃᓱᐃᔨᒃᑯᑦ.",
+    "feature2Title": "ᐋᖅᑭᒃᓱᖅᑕᐅᓯᒪᔪᑦ ᑕᐃᒎᓯᖏᑦ",
+    "feature2Desc": "ᓂᕈᐊᕐᓗᑎᑦ ᖃᐅᔨᒪᔨᑕᓄᑦ ᐋᖅᑭᒃᓱᖅᑕᐅᓯᒪᔪᓂᒃ ᐆᒃᑑᑎᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓇᖕᒥᓂᖅ ᓴᓇᓗᑎᑦ ᐊᔾᔨᐅᙱᑦᑐᒥᒃ ᑕᑯᒥᓇᖅᑐᒥᒃ.",
+    "feature3Title": "ᖃᖓᓪᓚᑦᑖᒃᑯᑦ ᖃᐅᔨᓴᕐᓂᖅ",
+    "feature3Desc": "ᖃᐅᔨᒪᓇᓱᐊᖃᑦᑕᕐᓗᒋᑦ ᐳᓛᕆᐊᖅᓯᒪᔪᑦ, ᓇᓕᐊᒃ ᐱᓕᕆᐊᒃᓴᑦ ᑕᑯᔭᐅᓂᖅᐹᖑᖕᒪᖔᑕ, ᐊᒻᒪᓗ ᐊᓯᖏᑦ."
+  },
+  "auth": {
+    "welcomeBack": "ᑐᙵᓱᒋᑦ ᐅᑎᕋᕕᑦ",
+    "loginToContinue": "ᖃᕆᑕᐅᔭᕐᓄᑦ ᑎᑎᕋᕐᓗᑎᑦ ᑲᔪᓯᓂᐊᕐᓗᑎᑦ",
+    "createAccount": "ᓴᖅᑭᑦᑎᓗᑎᑦ ᐊᑭᓕᒃᓴᒥᒃ",
+    "joinCommunity": "ᐃᓚᐅᖃᑕᐅᒋᑦ ᑕᐅᓴᓐᑎᓄᑦ ᐊᓯᖏᓐᓄᑦ ᐱᕙᓪᓕᐊᑎᑦᑎᔨᓄᑦ",
+    "fullName": "ᐊᑎᓕᒫᖓ",
+    "fullNamePlaceholder": "ᓲᕐᓗ ",
+    "email": "ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᑐᕌᕈᑎᖓ",
+    "emailPlaceholder": "ᐃᕝᕕᑦ@ᐆᒃᑑᑎ.com",
+    "password": "ᐃᓯᕈᓐᓇᐅᑎᖓ",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "ᐃᖅᑲᐅᒪᓂᐊᖅᐸᙵ",
+    "forgotPassword": "ᐳᐃᒍᖅᐲᑦ ᓇᕿᑦᑕᒐᕐᒥᒃ?",
+    "signIn": "ᐊᑎᓕᐅᕆᑦ",
+    "signingIn": "ᐊᑎᓕᐅᕐᓂᖅ...",
+    "signUp": "ᐊᑎᓕᐅᕆᑦ",
+    "signingUp": "ᐊᑎᓕᐅᕐᓂᖅ...",
+    "noAccount": "ᐊᑭᓕᒃᓴᖃᙱᓚᑎᑦ?",
+    "hasAccount": "ᑮᓇᐅᔭᒃᑯᕕᖃᕇᖅᐲᑦ?",
+    "passwordRules": {
+      "title": "ᓇᕿᑦᑕᒐᖅ ᐃᓗᓕᖃᕆᐊᖃᖅᐳᖅ:",
+      "length": "ᒥᑭᓛᒥᒃ 8-ᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ",
+      "uppercase": "ᐊᑕᐅᓯᖅ ᐊᖏᔪᐊᓗᒃ ᑎᑎᖅᑲᖅ (A-Z)",
+      "number": "ᐊᑕᐅᓯᖅ ᓈᓴᐅᑎ (0-9)",
+      "symbol": "ᐊᑕᐅᓯᖅ ᓇᓗᓇᐃᒃᑯᑕᖅ (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "ᐸᕐᓇᐅᑎᓂᒃ ᓴᓇᔨ",
+      "templates": "ᐋᖅᑭᒃᓯᒪᓂᖏᑦ ᐊᒻᒪ ᑕᐃᒎᓯᖏᑦ",
+      "settings": "ᐋᖅᑭᒃᓯᒪᓂᖏᑦ",
+      "collapse": "ᑲᑕᒃᑎᓪᓗᒍ ᓴᓂᕌᓂ ᓇᕿᑦᑕᒐᖅ",
+      "overview": "ᓇᐃᓈᖅᓯᒪᔪᖅ",
+      "profileSettings": "ᓇᓗᓇᐃᔭᖅᓯᒪᔪᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ",
+      "customDomain": "ᓇᖕᒥᓂᖅ ᐋᖅᑭᒃᓱᖅᓯᒪᔪᖅ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᕌᕈᑎ",
+      "feedback": "ᐅᖃᐅᓯᐅᔪᑦ"
+    },
+    "header": {
+      "viewLive": "ᑕᑯᓐᓇᕐᓗᒍ ᑕᑯᒃᓴᐅᑲᐅᑎᒋᔪᖅ",
+      "welcome": "ᑐᙵᓱᒋᑦ,",
+      "logout": "ᐊᓂᓗᑎᑦ",
+      "builder": "ᓴᓇᔨ",
+      "livePortfolio": "ᑕᑯᒃᓴᐅᑲᐅᑎᒋᔪᑦ ᐸᕐᓇᐅᑎᑦ",
+      "live": "ᐆᒪᔪᖅ"
+    },
+    "logoutModal": {
+      "title": "ᐊᓂᓗᑎᑦ",
+      "message": "ᓇᓗᓇᙱᓚᖅ ᐊᓂᔪᒪᓕᖅᐲᑦ ᐊᑭᓕᒃᓴᕆᔭᕐᓂᒃ? ",
+      "cancel": "ᖁᔭᓈᕐᓂᖅ",
+      "confirm": "ᐄ, ᐊᓂᓗᑎᑦ"
+    },
+    "slugModal": {
+      "title": "ᓂᕈᐊᕐᓗᒍ ᐸᐃᑉᐹᖁᑎᕕᑦ URL",
+      "message": "ᑖᓐᓇ URL ᐊᔾᔨᐅᖏᑦᑐᒥᒃ ᑐᕌᕈᑎᐅᓂᐊᖅᑐᖅ ᐸᐃᑉᐹᖁᑎᓐᓄᑦ. ",
+      "slugPlaceholder": "ᐊᑎᑎᑦ",
+      "availability": "ᐊᑐᐃᓐᓇᐅᓂᖏᑦ:",
+      "available": "ᐊᑐᐃᓐᓇᖅ",
+      "unavailable": "ᐊᑐᐃᓐᓇᐅᙱᑦᑐᖅ",
+      "checking": "ᖃᐅᔨᓴᕐᓂᖅ...",
+      "mustFormat": "ᐃᓗᓕᖃᕈᓐᓇᖅᑐᖅ ᑎᑎᖅᑲᓂᒃ, ᓈᓴᐅᑎᓂᒃ, ᐊᒻᒪᓗ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ (-)",
+      "cancel": "ᖁᔭᓈᕐᓂᖅ",
+      "save": "ᓴᓂᕐᕙᒃᑕᐅᓗᓂ URL",
+      "usernameUrl": "ᐊᑐᖅᑎᐅᑉ ᐊᑎᖓ URL",
+      "helpText": "ᒥᑭᑦᑑᑎᑯᓗᐃᑦ ᑎᑎᖅᑲᐃᑦ, ᓈᓴᐅᑏᑦ, ᐊᒻᒪᓗ ᑎᑎᕋᖅᓯᒪᔪᑦ. ",
+      "validation": {
+        "empty": "ᓯᒥᒃᓯᒪᔪᖅ ᐃᓄᖃᕈᓐᓇᖏᑦᑐᖅ.",
+        "min3": "ᒥᑭᓛᖑᓗᓂ ᐱᖓᓱᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ.",
+        "max30": "30-ᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ.",
+        "format": "ᒥᑭᑦᑑᑎᑯᓗᐃᑦ ᑎᑎᖅᑲᐃᑦ, ᓈᓴᐅᑏᑦ, ᐊᒻᒪᓗ ᑎᑎᕋᖅᓯᒪᔪᑦ (-). "
+      }
+    },
+    "loadingPortfolio": "ᖃᕆᑕᐅᔭᕐᒨᖅᑕᐅᔪᖅ ᒥᓂᔅᑕᐅᕝᕕᐅᑉ ᑐᑭᓯᒋᐊᕈᑎᖏᑦ...",
+    "overview": {
+      "greetings": {
+        "morning": "ᐅᓪᓛᒃᑯᑦ",
+        "afternoon": "ᐅᓐᓄᓴᒃᑯᑦ",
+        "evening": "ᐅᓐᓄᓴᒃᑯᑦ",
+        "night": "ᐅᓐᓄᒃᑯᑦ"
+      },
+      "welcome": {
+        "hi": "ᕼᐊᐃ,",
+        "creator": "ᓴᓇᔨ",
+        "desc1": "ᑐᙵᓱᒋᑦ ᑕᕝᕗᖓ DevFolio ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᑭᓯᒋᐊᕐᕕᖓᓄᑦ. ᒥᓂᔅᑕᐅᕝᕕᒋᔭᐃᑦ ᑕᑯᔭᐅᓯᒪᓕᖅᑐᖅ ᐅᑯᓄᖓ",
+        "desc2": "ᐃᓄᒃ. ᐱᓕᕆᖏᓐᓇᕆᑦ!",
+        "editPortfolio": "ᐋᖅᑭᒋᐊᕆᓂᖅ ᐸᐃᑉᐹᖁᑎᓂᒃ"
+      },
+      "stats": {
+        "totalVisitors": "ᑲᑎᖦᖢᒋᑦ ᐳᓛᕆᐊᖅᓯᒪᔪᑦ",
+        "projectViews": "ᑕᑯᔭᐅᔪᖅ (ᐱᓕᕆᐊᒃᓴᖅ)",
+        "activeSessions": "ᐆᒻᒪᕆᒃᑐᖅ ᑲᑎᒪᓂᖅ",
+        "totalLabel": "ᑲᑎᖦᖢᒋᑦ"
+      },
+      "setup": {
+        "title": "ᐋᖅᑭᒃᓱᐃᓂᖅ ᐱᕙᓪᓕᐊᓂᕐᒥᒃ",
+        "completed": "ᑎᑎᕋᖅᓯᒪᔪᖁᑎᑎᑦ ᐱᔭᕇᖅᐳᑦ! 🎉",
+        "inProgress": "ᐊᓪᓗᕆᐊᕈᑎᑦ ᐱᐅᓂᖅᐹᒧᑦ ᒥᓂᔅᑕᐅᕝᕕᒻᒧᑦ.",
+        "profile": {
+          "title": "ᐱᔭᕇᖅᓯᒪᔪᖅ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖓ",
+          "desc": "ᐃᓚᓕᐅᑎᓗᒍ ᐊᑎᖅ, ᓇᓗᓇᐃᒃᑯᑕᖅ ᐊᒻᒪ ᓇᓗᓇᐃᒃᑯᑕᖅ ᐊᔾᔨᙳᐊᖅ."
+        },
+        "section": {
+          "title": "ᐃᓚᓕᐅᑎᓗᒋᑦ ᐃᓚᖏᑦ",
+          "desc": "ᓴᖅᑭᑦᑎᓗᑎᑦ ᐊᑕᐅᓯᕐᒥᒃ ᐃᓚᖓᓂᒃ ᐸᐃᑉᐹᖁᑎᒥ."
+        },
+        "project": {
+          "title": "ᐃᓚᓕᐅᑎᓗᒍ ᐱᓕᕆᐊᒃᓴᖅ",
+          "desc": "ᑎᑎᕋᕐᓗᒍ ᐊᑕᐅᓯᖅ ᐱᐅᓂᖅᐹᖅ ᐱᓕᕆᐊᕆᔭᐃᑦ."
+        },
+        "publish": {
+          "title": "ᓴᖅᑭᑎᑕᐅᓗᓂ ᒥᓂᔅᑕᐅᕝᕕᒃ",
+          "desc": "ᐋᖅᑭᒃᓯᓗᑎᑦ ᓇᖕᒥᓂᖅ URL-ᒥᒃ ᑭᒃᑯᑐᐃᓐᓇᕐᓄᑦ ᑕᑯᔭᐅᔪᓐᓇᖁᓪᓗᒍ."
+        }
+      },
+      "topProjects": {
+        "title": "ᐱᐅᒋᔭᐅᓂᖅᐹᑦ ᐱᓕᕆᐊᒃᓴᑦ",
+        "desc": "ᐱᓕᕆᐊᕆᔭᐃᑦ ᑕᑯᓐᓇᖅᑕᐅᓪᓗᓂ ᐳᓛᕆᐊᖅᓯᒪᔪᓄᑦ.",
+        "viewAll": "ᑕᑯᓗᒋᑦ ᑕᒪᕐᒥᒃ",
+        "empty": "ᑕᑯᔭᒃᓴᖅᑕᖃᙱᓚᖅ ᓱᓕ ᐱᓕᕆᐊᕆᔭᕐᓄᑦ."
+      }
+    },
+    "themes": {
+      "title": "ᐋᖅᑭᒃᓯᒪᓂᖏᑦ & ᑕᐃᒎᓯᖏᑦ",
+      "subtitle": "ᐋᖅᑭᒃᓱᕐᓗᒍ ᑕᑯᒃᓴᐅᓂᖓ ᐊᒻᒪᓗ ᐃᒃᐱᒋᔭᐅᓂᖓ ᑭᒃᑯᑐᐃᓐᓇᕐᓄᑦ ᐸᐃᑉᐹᖁᑎᒋᔭᐃᑦ.",
+      "reset": "ᐋᖅᑭᒃᓯᒃᑲᓐᓂᕐᓂᖅ ᐋᖅᑭᒃᓯᒪᓂᕆᔭᖓᓂᒃ",
+      "save": "ᓴᓂᕐᕙᐃᓂᖅ ᐊᓯᔾᔨᖅᑕᐅᓯᒪᔪᓂᒃ",
+      "saving": "ᑮᓇᐅᔭᓂᒃ ᐊᑐᙱᓐᓂᖅᓴᐅᓂᖅ...",
+      "chooseTemplate": "ᓂᕈᐊᕐᓗᑎᑦ ᐋᖅᑭᒃᓯᒪᓂᐅᔪᒥᒃ",
+      "primaryColor": "ᓯᕗᓪᓕᖅᐹᖅ ᐊᒥᐊᖓ",
+      "typography": "ᑎᑎᕋᐅᔭᕐᓂᖅ",
+      "appearance": "ᑕᑯᒃᓴᐅᓂᖓ",
+      "corners": "ᓴᓂᕌᓂ & ᑭᓪᓕᖏᑦ",
+      "successTitle": "ᑲᔪᓯᑦᑎᐊᕐᓂᖅ",
+      "successMessage": "ᑕᐃᒎᓯᖅ ᐱᐅᒋᔭᐅᔪᑦ ᓄᑖᙳᕆᐊᖅᑕᐅᓯᒪᔪᑦ ᑲᔪᓯᑦᑎᐊᖅᑐᒃᑯᑦ",
+      "errorTitle": "ᑕᒻᒪᖅᓯᒪᔪᖅ",
+      "errorMessage": "ᓴᓂᕐᕙᐃᔪᓐᓇᓚᐅᙱᓚᖅ ᑕᐃᒎᓯᕐᒥᒃ ᐱᐅᒋᔭᐅᓂᖅᐹᓂᒃ",
+      "templates": {
+        "minimalist": {
+          "name": "ᒥᑭᓛᖑᔪᖅ",
+          "desc": "ᓴᓗᒪᔪᒥᒃ ᐱᔭᕆᐊᑭᑦᑐᒥᓪᓗ ᓴᓇᒪᓂᖃᕐᓗᓂ ᑐᕌᖓᔪᒥᒃ ᐃᓗᓕᖏᓐᓄᑦ."
+        },
+        "developerDark": {
+          "name": "ᐱᕙᓪᓕᐊᔪᓕᕆᔨ ᑖᖅᑐᖅ",
+          "desc": "ᑖᖅᑐᐊᓗᒃ ᑕᑯᒃᓴᐅᑎᑦᑎᓂᕐᒧᑦ ᒪᓕᒐᕐᓂᒃ ᐊᒻᒪᓗ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᖅᑯᖅᑕᐅᓯᒪᔪᓂᒃ."
+        },
+        "creative": {
+          "name": "ᓴᓇᐅᒐᖅ",
+          "desc": "ᐆᒻᒪᕆᒃᑐᖅ ᐊᒻᒪᓗ ᐊᒥᐊᖃᑦᑎᐊᖅᑐᖅ ᐋᖅᑭᒃᓯᒪᓂᖓ ᑎᑎᕋᐅᔭᖅᑎᓄᑦ ᐊᒻᒪᓗ ᓴᓇᐅᒐᓕᐅᖅᑎᓄᑦ."
+        },
+        "executive": {
+          "name": "ᐊᐅᓚᑦᑎᔨ",
+          "desc": "ᖃᐅᔨᒪᔨᑕᓄᑦ ᐊᒻᒪᓗ ᐋᖅᑭᒃᓯᒪᓂᕆᔭᖓ ᓇᖕᒥᓂᖃᖅᑐᓄᑦ ᖃᐅᔨᒪᔨᑕᓄᑦ."
+        },
+        "bentoGrid": {
+          "name": "ᐲᓐᑐ ᒍᕆᑦ",
+          "desc": "ᒫᓐᓇᓕᓴᐃᑦ ᐋᐳᑎᑐᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ ᓇᓗᓇᐃᖅᓯᔪᑦ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐱᔪᓐᓇᕐᓂᐅᔪᓂᒃ ᐊᑑᑎᖃᑦᑎᐊᖅᑐᒃᑯᑦ."
+        },
+        "neoBrutalism": {
+          "name": "ᓂᐅ-ᐳᕈᑕᓕᔅ",
+          "desc": "ᑭᓪᓕᖃᑦᑎᐊᖅᑐᑦ ᐊᒻᒪᓗ ᐊᔾᔨᒌᙱᓐᓂᖃᑦᑎᐊᖅᑐᑦ ᐊᒥᐊᖏᑦ ᓄᑖᖑᔪᒥᒃ, ᒪᒥᐊᓇᙱᑦᑐᒥᒃ ᑕᑯᒥᓇᖅᑐᒥᒃ."
+        },
+        "glassmorphism": {
+          "name": "ᐃᒐᓛᖅ ᐋᖅᑭᒃᓯᒪᓂᖓ",
+          "desc": "ᖁᐊᖅᑎᓯᒪᔪᑦ ᐃᒐᓛᑦ ᐊᒃᑐᐃᓂᖃᖅᑐᑦ ᐊᒥᐊᖃᖅᑐᓂᒃ ᑕᑯᒥᓇᖅᑐᒥᒃ ᒫᓐᓇᓕᓴᕐᒥᒃ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᒥᒃ."
+        },
+        "linkInBio": {
+          "name": "ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᕌᕈᑎᖓ ᐆᒪᔪᓕᕆᓂᕐᒧᑦ",
+          "desc": "ᒥᑭᔪᑯᓗᒃ ᖁᒻᒧᐊᖓᔪᖅ ᐋᖅᑭᒃᓯᒪᓂᖓ ᐱᐅᓯᒋᐊᖅᑕᐅᓯᒪᔪᖅ ᓄᒃᑕᕋᐅᑎᓄᑦ ᑕᕐᕋᖅᑑᑎᓄᑦ ᐊᒻᒪᓗ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᓴᐅᒪᖃᑦᑕᐅᑎᔾᔪᑎᓄᑦ."
+        }
+      },
+      "appearances": {
+        "light": "ᖃᐅᒪᔪᖅ",
+        "dark": "ᑖᖅᑐᖅ",
+        "system": "ᐋᖅᑭᒃᓯᒪᓂᖓ"
+      },
+      "cornersOptions": {
+        "sharp": "ᓵᑉ",
+        "rounded": "ᓴᕕᕋᔭᒃ",
+        "pill": "ᐄᔭᒐᖅ"
+      }
+    },
+    "feedback": {
+      "title": "ᓇᒃᓯᐅᔾᔨᓗᑎᑦ ᑭᐅᔾᔪᑎᓂᒃ",
+      "subtitle": "ᐃᑲᔪᕐᓗᑎᒍᑦ ᐱᐅᓯᕚᓪᓕᖁᓪᓗᒍ ᑐᓂᓯᓗᑎᑦ ᐃᓱᒪᒃᓴᖅᓯᐅᕈᑎᒃᓴᓂᒃ, ᖃᕿᐊᖅᓯᓂᕐᒥᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᐅᓂᒃᑳᓕᐅᕐᓂᕐᒥᒃ ᖁᐱᕐᕈᓂᒃ ᑕᕝᕙᓂ ᑐᒃᓯᕋᐅᑎᒥ.",
+      "categoryLabel": "ᑭᐅᔾᔪᑎᑦ ᓇᓗᓇᐃᒃᑯᑕᖅ",
+      "messageLabel": "ᑐᓴᒐᒃᓴᖅ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖓ",
+      "messagePlaceholder": "ᐅᖃᐅᑎᓚᐅᙵ ᓇᓗᓇᐃᔭᖅᓯᒪᔪᓂᒃ ᑭᐅᔾᔪᑎᓂᒃ ᑐᓴᖅᑎᑦᑎᔪᒪᔭᕐᓂᒃ...",
+      "imageLabel": "ᐊᔾᔨᙳᐊᖅ ᐃᓚᓕᐅᑎᓯᒪᔪᖅ (ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ)",
+      "imagePlaceholder": "ᓇᕿᓪᓗᒍ ᖃᕆᑕᐅᔭᕐᒨᖅᓯᓂᐊᕐᓗᑎᑦ ᐊᔾᔨᙳᐊᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑕᕐᕋᖅᑑᑎᒥᒃ",
+      "submitting": "ᑐᔪᐃᓂᖅ...",
+      "submitBtn": "ᓇᒃᓯᐅᔾᔨᓗᑎᑦ ᑭᐅᔾᔪᑎᓂᒃ",
+      "categories": {
+        "suggestion": "ᐃᓱᒪᒋᔭᐅᔪᑦ ᐊᒻᒪ ᐃᓱᒪᒃᓴᖅᓯᐅᕈᑕᐅᔪᑦ",
+        "bug": "ᖃᕋᓴᐅᔭᒃᑯᑦ / ᑕᒻᒪᖅᓯᒪᔪᑦ ᐅᓂᒃᑳᓕᐊᖅ",
+        "criticism": "ᖃᕿᐊᖅᓯᓂᖅ",
+        "other": "ᐊᓯᖏᑦ"
+      },
+      "imageErrorTitle": "ᑕᒻᒪᖅᓯᒪᔪᖅ",
+      "imageErrorMessage": "ᐃᓚᖏᑦ ᑎᑎᖅᑲᐃᑦ ᕿᐱᓗᒃᑕᐅᕗᑦ ᐃᑲᔪᖅᓱᖅᑕᐅᙱᓐᓂᖏᓐᓄᑦ ᐊᔾᔨᙳᐊᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᓐᓄᑦ (JPG, PNG, GIF, WEBP)",
+      "successTitle": "ᑲᔪᓯᑦᑎᐊᕐᓂᖅ",
+      "successMessage": "ᖁᔭᓐᓇᒦᒃ ᑭᐅᔾᔪᑎᒋᔭᕐᓄᑦ! ᐅᓂᒃᑳᖅ ᓇᒃᓯᐅᔾᔭᐅᓯᒪᓕᖅᑐᖅ.",
+      "submitErrorTitle": "ᑲᔪᓯᑦᑎᐊᖏᑦᑐᖅ",
+      "submitErrorMessage": "ᑕᒻᒪᖅᓯᒪᔪᖅᑕᖃᓚᐅᕐᒪᑦ ᑐᓴᒐᒃᓴᒥᒃ ᑐᔪᐃᑎᓪᓗᑕ. ᐆᑦᑐᑲᓐᓂᕆᑦ."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "ᐅᕙᖓ ᒥᒃᓵᓄᑦ",
+      "skills": "ᐊᔪᙱᑕᖃᕐᓂᖅ",
+      "projects": "ᐱᓕᕆᐊᑦ",
+      "workExperience": "ᐃᖅᑲᓇᐃᔭᖃᑦᑕᖅᓯᒪᓗᓂ",
+      "orgExperience": "ᑎᒥᐅᔪᒥ ᐱᓕᕆᖃᑦᑕᖅᓯᒪᓂᑰᓗᓂ",
+      "education": "ᐃᓕᓐᓂᐊᕐᓂᖅ",
+      "certifications": "ᐱᓕᒻᒪᒃᓴᕐᓂᖅ ᐊᒻᒪ ᓇᓗᓇᐃᒃᑯᑕᖅᑖᕐᓂᖅ",
+      "contact": "ᖃᐅᔨᒋᐊᕐᕕᒋᓗᖓ"
+    },
+    "editor": {
+      "profileInfo": "ᖃᓄᐃᑦᑑᓂᖏᓐᓄᑦ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑦ",
+      "saving": "ᐊᑐᙱᓂᖅᓴᐅᓂᖅ...",
+      "profilePhoto": "ᓇᖕᒥᓂᖅ ᐊᔾᔨᓕᐅᖅᑕᐅᓯᒪᔪᖅ",
+      "clickToUpload": "ᓇᕿᓪᓗᒍ ᖃᕆᑕᐅᔭᕐᒨᕈᒪᒍᕕᐅᒃ (JPG, PNG)",
+      "fullName": "ᐊᑎᓕᒫᖓ",
+      "fullNamePlaceholder": "ᓲᕐᓗ ",
+      "bio": "ᐆᒪᔪᓕᕆᓂᕐᒧᑦ",
+      "bioPlaceholder": "Fullstack ᐋᖅᑭᒃᓱᐃᔨ ᖁᕕᐊᒋᔭᖃᖅᑐᖅ ᓴᓇᓂᕐᒥᒃ ᓄᑖᓂᒃ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᒃᓯᕋᐅᑎᓂᒃ...",
+      "location": "ᐃᓂᒋᔭᐅᔪᖅ",
+      "locationPlaceholder": "ᓲᕐᓗ ",
+      "gender": "ᐊᕐᓇᐅᖕᒪᖔᑦ ᐊᖑᑕᐅᖕᒪᖔ",
+      "selectGender": "ᓂᕈᐊᕐᓗᒍ ᐊᕐᓇᐅᓂᖅ ᐊᖑᑕᐅᓂᖅ",
+      "male": "ᐊᖑᑦ",
+      "female": "ᐊᕐᓇᖅ",
+      "custom": "ᐃᓕᖅᑯᓯᖅ",
+      "customPlaceholder": "ᓇᕿᓪᓗᒍ ᓇᖕᒥᓂᖅ ᐊᕐᓇᐅᓂᕆᔭᐃᑦ...",
+      "uploadCv": "ᖃᕆᑕᐅᔭᕐᒨᕐᓗᒍ ᓇᓗᓇᐃᒃᑯᑕᖅ",
+      "cvFormat": "(ᑎᑎᖅᑲᖅ ᐅᕝᕙᓘᓐᓃᑦ PDF)",
+      "preview": "ᓯᕗᕐᖓᒍᑦ ᑕᑯᓐᓇᕐᓂᖅ",
+      "remove": "ᐲᕐᓗᒍ",
+      "clickToUploadCv": "ᓇᕿᓪᓗᒍ ᖃᕆᑕᐅᔭᕐᒨᖅᓯᓂᐊᕐᓗᑎᑦ PDF ᐅᕝᕙᓘᓐᓃᑦ DOC",
+      "sections": "ᐃᓚᖏᑦ",
+      "removeSelected": "ᐲᕐᓗᒋᑦ ᓂᕈᐊᖅᑕᐅᓯᒪᔪᑦ",
+      "confirmRemove": "ᓇᓗᓇᐃᕐᓗᒍ ᐲᖅᑕᐅᓂᖓ",
+      "addSection": "ᐃᓚᓕᐅᑎᓗᒍ ᐃᓚᖓ",
+      "addAllSections": "ᐃᓚᓕᐅᑎᓗᒋᑦ ᑕᒪᕐᒥᒃ ᐃᓚᖏᑦ",
+      "noSections": "ᐃᓚᖃᙱᑦᑐᖅ ᓱᓕ",
+      "clickToAdd": "ᓇᕿᓪᓗᒍ \"+ ᐃᓚᓕᐅᑎᓗᒍ ᐃᓚᖓ\" ᐱᒋᐊᕈᑎᒋᓂᐊᕐᓗᒍ",
+      "selectAll": "ᓂᕈᐊᕐᓗᒋᑦ ᑕᒪᕐᒥᒃ",
+      "selected": "ᓂᕈᐊᖅᑕᐅᓯᒪᔪᑦ",
+      "dragToReorder": "ᑎᒍᒥᐊᕐᓗᒍ ᐋᖅᑭᒃᓱᒃᑲᓐᓂᕈᒪᒍᕕᒋᑦ ᐃᓚᖏᑦ",
+      "livePreview": "ᑕᑯᓐᓇᖅᑕᐅᑲᐅᑎᒋᔪᖅ",
+      "addSectionsToBuild": "ᐃᓚᓕᐅᑎᓗᒋᑦ ᐃᓚᖏᑦ ᓴᓇᓂᐊᕐᓗᒋᑦ ᐸᐃᑉᐹᖁᑎᑎᑦ",
+      "now": "ᒫᓐᓇ",
+      "current": "ᒫᓐᓇᐅᔪᖅ",
+      "noExpiry": "ᐃᓱᓕᕝᕕᒃᓴᖃᙱᑦᑐᖅ",
+      "see": "ᑕᑯᓗᒍ",
+      "position": "ᐃᖅᑲᓇᐃᔮᖓ",
+      "degree": "ᐊᓂᒍᐃᔾᔪᑎ",
+      "certification": "ᓇᓗᓇᐃᒃᑯᑕᖅᑖᕐᓂᖅ",
+      "sectionsForm": {
+        "about": {
+          "label": "ᐃᒻᒥᓂᒃ ᓇᓗᓇᐃᔭᐃᓂᖅ",
+          "placeholder": "ᐅᓂᒃᑳᕆᑦ ᐃᕝᕕᑦ ᒥᒃᓵᓄᑦ, ᑭᖑᓂᕆᓯᒪᔭᕐᓂᒃ, ᐱᔪᒥᒋᔭᕐᓂᒃ ᐊᒻᒪ ᐊᔪᙱᓐᓂᕆᔭᕐᓂᒃ..."
+        },
+        "skills": {
+          "addPlaceholder": "ᑎᑎᕋᕐᓗᒍ ᐊᔪᙱᓐᓂᖅ ᓇᕿᓪᓗᒍᓗ Enter..."
+        },
+        "projects": {
+          "title": "ᐱᓕᕆᐊᑉ ᐊᑎᖓ",
+          "titlePlaceholder": "ᐱᓕᕆᐊᑉ ᐊᑎᖓ...",
+          "url": "ᐱᓕᕆᐊᒃᓴᖅ URL",
+          "description": "ᐃᓗᓕᖏᑦ",
+          "descriptionPlaceholder": "ᓇᐃᓈᖅᓯᒪᔪᖅ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖓ ᐱᓕᕆᐊᑉ...",
+          "uploadThumbnail": "ᐱᓕᕆᐊᒃᓴᖅ ᐊᔾᔨᙳᐊᖅ",
+          "addProject": "ᐃᓚᓕᐅᑎᓗᒍ ᐱᓕᕆᐊᒃᓴᖅ",
+          "projectNum": "ᐱᓕᕆᐊᖅ #",
+          "currentProject": "ᑖᓐᓇ ᐱᓕᕆᐊᕆᔭᕋ ᐱᓕᕆᐊᕆᔭᕋ ."
+        },
+        "work": {
+          "company": "ᑲᒻᐸᓂ/ᑎᒥᐅᔪᖅ",
+          "companyPlaceholder": "ᑲᒻᐸᓂᐅᑉ ᐊᑎᖓ...",
+          "position": "ᐃᖅᑲᓇᐃᔮᖅ/ᑕᐃᔭᐅᓂᖓ",
+          "positionPlaceholder": "ᐃᖅᑲᓇᐃᔮᕆᔭᐃᑦ...",
+          "employmentType": "ᖃᓄᐃᑦᑑᓂᖓ ᐱᓕᕆᐊᖑᓂᖓ",
+          "location": "ᐃᓂᒋᔭᐅᔪᖅ",
+          "locationPlaceholder": "ᓄᓇᓕᐸᐅᔭᖅ, ᑲᓐᑐᕆ...",
+          "startDate": "ᐱᒋᐊᕐᕕᖓ",
+          "endDate": "ᐱᔭᕇᖅᓯᒪᔪᖅ",
+          "currentWork": "ᓱᓕ ᐃᖅᑲᓇᐃᔭᖅᑐᖓ ᒫᓐᓇᐅᔪᖅ",
+          "description": "ᐃᓗᓕᖏᑦ",
+          "descriptionPlaceholder": "ᐃᖅᑲᓇᐃᔮᑉ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖓ ᐊᒻᒪᓗ ᑲᒪᒋᔭᒃᓴᖏᑦ...",
+          "skills": "ᐊᔪᙱᑕᖏᑦ",
+          "addExperience": "ᐃᓚᓕᐅᑎᓗᒍ ᐃᖅᑲᓇᐃᔭᖃᑦᑕᖅᓯᒪᓂᖓ",
+          "experienceNum": "ᐃᓕᓯᒪᔪᖅ #",
+          "dateError": "ᐃᓱᓕᕝᕕᒃᓴᖓ ᓯᕗᕙᓯᓐᓂᖅᓴᐅᔪᓐᓇᖏᑦᑐᖅ ᐱᒋᐊᕐᕕᒃᓴᖓᑕ ᐅᓪᓗᖓᓂᒃ"
+        },
+        "org": {
+          "organization": "ᑎᒥᐅᔪᑦ ᐊᑎᖓ",
+          "orgPlaceholder": "BEM ᓯᓚᑦᑐᖅᓴᕐᕕᒡᔪᐊᖅ...",
+          "role": "ᐱᓕᕆᐊᒃᓴᖅ/ᐃᖅᑲᓇᐃᔮᖅ",
+          "rolePlaceholder": "ᐊᕕᒃᑐᖅᓯᒪᔪᓂ ᐊᖓᔪᖅᑳᖅ...",
+          "addOrg": "ᐃᓚᓕᐅᑎᓗᒍ ᑎᒥᐅᔪᒥ ᐊᑐᖅᓯᒪᔭᐃᑦ",
+          "orgNum": "ᑲᑐᔾᔨᖃᑎᒌᑦ #"
+        },
+        "edu": {
+          "institution": "ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᕐᒧᑦ ᑎᒥᐅᔪᑦ",
+          "institutionPlaceholder": "ᐊᑎᖓ ᓯᓚᑦᑐᓴᕐᕕᐅᑉ ᐃᓕᓐᓂᐊᕐᕕᐅᑉᓘᓐᓃᑦ...",
+          "degree": "ᑕᐃᒎᓯᐊ",
+          "degreePlaceholder": "S1, ᐃᓕᓐᓂᐊᕐᕕᐊᓗᒃ, ᐊᓯᖏᓪᓗ...",
+          "major": "ᐱᓕᕆᕝᕕᒃ/ᖃᐅᔨᓴᕐᕕᒃ",
+          "majorPlaceholder": "ᑐᓴᐅᒪᔾᔪᑎᓕᕆᓂᕐᒧᑦ ᓴᓇᔨᒻᒪᕆᐅᓂᖅ...",
+          "gpa": "GPA (ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ)",
+          "currentStudy": "ᓱᓕ ᐃᓕᑉᐸᓪᓕᐊᔪᖓ ᐅᕙᓂ",
+          "descriptionPlaceholder": "ᐱᓕᕆᐊᖑᔪᑦ ᐊᒻᒪᓗ ᐱᔭᕇᖅᑕᐅᓯᒪᔪᑦ ᖃᐅᔨᓴᕐᓂᖃᖅᑎᓪᓗᒋᑦ...",
+          "addEdu": "ᐃᓚᓕᐅᑎᓗᒍ ᐃᓕᓐᓂᐊᕐᓂᖅ",
+          "eduNum": "ᐃᓕᓐᓂᐊᕐᓂᖅ #"
+        },
+        "cert": {
+          "name": "ᐊᑎᖓ ᓇᓗᓇᐃᒃᑯᑕᖅ / ᐱᓕᒻᒪᒃᓴᐃᓂᖅ",
+          "namePlaceholder": "ᓇᓗᓇᐃᒃᑯᑕᖅ ᐊᑎᖓ...",
+          "issuer": "ᓴᖅᑭᑎᑦᑎᔨ",
+          "issuerPlaceholder": "ᑎᑎᕋᕐᕕᒃ...",
+          "issueDate": "ᐱᒋᐊᕐᕕᖓ (ᓴᖅᑭᑕᐅᓂᖓᑕ ᐅᓪᓗᖓ)",
+          "issueDatePlaceholder": "ᓂᕈᐊᕐᓗᒍ ᓴᖅᑭᑕᐅᓂᒃᓴᖓᑕ ᐅᓪᓗᖓ...",
+          "expiryDate": "ᐱᔭᕇᖅᓯᒪᔪᖅ (ᐊᑐᕐᓂᐊᖅᑐᖅ)",
+          "expiryDatePlaceholder": "ᓂᕈᐊᕐᓗᒍ ᐃᓱᓕᕝᕕᒃᓴᖓ...",
+          "noExpiry": "ᑖᓐᓇ ᓇᓗᓇᐃᒃᑯᑕᖅ ᐃᓱᓕᕝᕕᒃᓴᖃᙱᓚᖅ",
+          "url": "ᓇᓗᓇᐃᒃᑯᑕᖅ URL",
+          "uploadThumbnail": "ᓇᓗᓇᐃᒃᑯᑕᖅ / ᐃᓕᓐᓂᐊᕐᓂᕐᒧᑦ ᐊᔾᔨᙳᐊᖅ",
+          "uploadThumbnailLimit": "ᖃᕆᑕᐅᔭᕐᒨᕐᓗᒍ ᓇᓗᓇᐃᒃᑯᑕᖅ ᐊᔾᔨᙳᐊᖅ (JPG/PNG/WEBP, ᖁᑦᑎᖕᓂᖅᐹᖅ 2MB)",
+          "addCert": "ᐃᓚᓕᐅᑎᓗᒍ ᓇᓗᓇᐃᒃᑯᑕᖅ",
+          "certNum": "ᓇᓗᓇᐃᒃᑯᑕᖅ #"
+        },
+        "contact": {
+          "contactNum": "ᖃᐅᔨᒋᐊᕐᕕᒃᓴᖅ #",
+          "platform": "ᑐᙵᕕᐊ",
+          "displayText": "ᑕᑯᒃᓴᐅᑎᑦᑎᓂᖅ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ",
+          "displayTextPlaceholder": "ᓲᕐᓗ, ᐃᕝᕕᑦ@ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒃᓴᖅ.com ᐅᕝᕙᓘᓐᓃᑦ @ᐊᑎᖓ",
+          "url": "ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᕌᕈᑎᖓ (URL)",
+          "urlPlaceholderWhatsapp": "ᓲᕐᓗ, 62812... (ᓯᕗᓪᓕᐅᙱᓪᓗᓂ 0)",
+          "urlPlaceholderEmail": "ᓲᕐᓗ, ᐃᕝᕕᑦ@ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒃ.com",
+          "urlPlaceholderWebsite": "ᓲᕐᓗ, https://...",
+          "urlPlaceholderDefault": "ᓲᕐᓗ, ᐊᑐᖅᑎᐅᑉ ᐊᑎᖓ",
+          "addContact": "ᐃᓚᓕᐅᑎᓗᒍ ᖃᐅᔨᒋᐊᕐᕕᒃᓴᖅ"
+        },
+        "common": {
+          "months": {
+            "1": "ᔭᓄᐊᕆ",
+            "2": "ᕕᕗᐊᕆ",
+            "3": "ᒪᔨ",
+            "4": "ᐊᐃᕆᓕ",
+            "5": "ᒪᐃ",
+            "6": "ᔫᓂ",
+            "7": "ᔪᓚᐃ",
+            "8": "ᐅᒍᔅᓯ",
+            "9": "ᓯᑉᑎᒻᐱᕆ",
+            "10": "ᐅᒃᑐᐱᕆ",
+            "11": "ᓄᕕᒻᐱᕆ",
+            "12": "ᑎᓯᐱᕆ"
+          },
+          "month": "ᑕᖅᑭᖅ",
+          "year": "ᐊᕐᕌᒍ",
+          "invalidDate": "ᐊᑐᙱᑦᑐᖅ ᑕᖅᑭᐅᑉ ᓄᙳᐊᓂ",
+          "words": "ᐅᖃᐅᓰᑦ"
+        }
+      },
+      "sure": "ᓱᓕᓂᖅ",
+      "deletePhotoTitle": "ᐲᖅᓯᓗᑎᑦ ᓇᖕᒥᓂᖅ ᐊᔾᔨᙳᐊᒥᒃ?",
+      "deletePhotoMessage": "ᐲᖅᓯᔪᒪᓪᓚᕆᒃᐲᑦ ᑖᔅᓱᒥᖓ ᓇᖕᒥᓂᖅ ᐊᔾᔨᙳᐊᒥᒃ?",
+      "cancel": "ᖁᔭᓈᕐᓂᖅ",
+      "delete": "ᐲᔭᖅᑕᐅᔪᖅ"
+    },
+    "cropper": {
+      "chooseBackground": "ᓂᕈᐊᕐᓗᒍ ᑭᖑᓂᑦᑎᓐᓂ",
+      "cropPhoto": "ᓇᑲᑎᕆᓗᑎᑦ ᐊᔾᔨᙳᐊᕐᓂᒃ",
+      "useOriginal": "ᐊᑐᕐᓗᒍ ᑎᑎᕋᖅᓯᒪᓪᓚᕆᒃᑐᖅ",
+      "backgroundPresets": "ᑐᓄᐊᓂ ᐋᖅᑭᒃᓯᒪᕙᒌᖅᑐᑦ",
+      "none": "ᐱᑕᖃᔮ",
+      "uploadBackground": "ᖃᕆᑕᐅᔭᕐᒨᕐᓗᒍ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᖅ",
+      "cancel": "ᖁᔭᓈᕐᓂᖅ",
+      "savePhoto": "ᓴᓂᕐᕙᒃᑕᐅᓗᓂ ᐊᔾᔨᙳᐊᖅ",
+      "zoom": "Zoom",
+      "rotationTilt": "ᓴᖑᓂᖓ ᐊᒻᒪ ᓴᖑᓂᖓ",
+      "resetRotation": "ᐋᖅᑭᒃᑲᓐᓂᕐᓗᒍ 0°",
+      "center": "ᕿᑎᐊᓂ",
+      "rotateLeft": "ᓴᖑᑎᓪᓗᒍ -90°",
+      "rotateRight": "ᓴᖑᑎᓪᓗᒍ +90°",
+      "removeBackground": "ᐲᖅᓯᓗᑎᑦ ᑭᖑᓂᑦᑎᓐᓂᑦ",
+      "processing": "ᑲᒪᒋᔭᖃᕐᓂᖅ ᐊᔾᔨᓕᐅᕈᑎᒋᔭᕐᓂᒃ, ᐅᑕᖅᑭᑲᐃᓐᓇᕆᑦ..."
+    },
+    "cvPreview": {
+      "title": "ᓇᓗᓇᐃᒃᑯᑕᖅ ᓯᕗᕐᖓᒍᑦ",
+      "downloadCv": "ᒥᓇᕆᓗᒍ CV",
+      "download": "ᒥᓇᕆᓗᒍ",
+      "wordCannotPreview": "Word ᑎᑎᖅᑲᐃᑦ (.doc/.docx) ᑕᑯᔭᐅᔪᓐᓇᙱᓚᑦ ᓇᖕᒥᓂᖅ ᑕᑯᔭᒐᖃᕐᕕᖕᒥ. ",
+      "downloadFile": "ᒥᓇᕆᓗᒍ CV ᐸᐃᑉᐹᖅ",
+      "back": "ᑐᓄ",
+      "mobileMessage": "ᐊᑏ ᖃᕋᓴᐅᔭᕐᒧᑦ ᑎᒍᓯᓗᑎᑦ ᓇᓗᓇᐃᒃᑯᑕᕐᒥᒃ ᑕᑯᓇᒍᓐᓇᕐᓂᐊᕋᕕᐅᒃ.",
+      "preview": "ᓯᕗᕐᖓᒍᑦ ᑕᑯᒋᐊᕐᓂᖅ ᐃᖅᑲᓇᐃᔮᕆᓯᒪᔭᖓᓂᒃ",
+      "wordPreviewTitle": "Word ᑎᑎᖅᑲᖅ ᓯᕗᕐᖓᒍᑦ ᑕᑯᔭᐅᓂᖓ",
+      "wordPreviewMessage": "Word ᑎᑎᖅᑲᐃᑦ (.doc/.docx) ᑕᑯᔭᐅᔪᓐᓇᙱᓚᑦ ᓇᖕᒥᓂᖅ ᑕᑯᔭᒐᖃᕐᕕᖕᒥ. ᐊᑏ ᖃᕆᑕᐅᔭᕐᒧᑦ ᑎᒍᓯᓗᑎᑦ ᑕᑯᓂᐊᕈᒪᒍᕕᐅᒃ."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "ᑎᑎᕋᕐᓗᑎᑦ ᓇᐃᓈᖅᓯᒪᔪᒥᒃ ᓇᓗᓇᐃᔭᐃᓗᑎᑦ ᐃᒻᒥᓂᒃ, ᐱᔪᒥᒋᔭᕐᓂᒃ, ᐊᒻᒪᓗ ᐃᖅᑲᓇᐃᔮᕆᔪᒪᔭᕐᓂᒃ..."
+    },
+    "skills": {
+      "placeholder": "ᑎᑎᕋᕐᓗᒍ ᐊᔪᙱᓐᓂᐅᑉ ᐊᑎᖓ...",
+      "add": "ᐃᓚᓗᒍ",
+      "enterToAdd": "ᓇᕿᓪᓗᒍ Enter ᐃᓚᓕᐅᑎᓂᐊᕐᓗᒍ",
+      "noSkills": "ᐊᔪᕈᓐᓃᖅᓴᕈᑎᒃᓴᐃᑦ ᐃᓚᔭᐅᓯᒪᙱᑦᑐᑦ ᓱᓕ."
+    },
+    "projects": {
+      "projectName": "ᐱᓕᕆᐊᑉ ᐊᑎᖓ",
+      "projectNamePlaceholder": "ᓲᕐᓗ ",
+      "projectUrl": "ᐱᓕᕆᐊᒃᓴᖅ URL",
+      "projectUrlPlaceholder": "http://...",
+      "duration": "ᐊᑯᓂᐅᓂᖓ",
+      "startMonth": "ᐱᒋᐊᕐᕕᒃᓴᖅ ᑕᖅᑭᖅ",
+      "startYear": "ᐱᒋᐊᕐᕕᖓ ᐊᕐᕌᒍ",
+      "endMonth": "ᑕᖅᑭᐅᑉ ᓄᙳᐊᓂ",
+      "endYear": "ᐊᕐᕌᒍᑉ ᐃᓱᐊᓂ",
+      "currentlyWorking": "ᒫᓐᓇᐅᔪᖅ ᑕᒪᓐᓇ ᐱᓕᕆᐊᖑᕙᓪᓕᐊᔪᖅ",
+      "description": "ᐃᓗᓕᖏᑦ",
+      "descriptionPlaceholder": "ᓇᓗᓇᐃᔭᕐᓗᒍ ᐱᓕᕆᐊᖑᔪᖅ, ᐱᓕᕆᐊᕆᔭᐃᑦ, ᐊᒻᒪᓗ ᐱᔭᕇᖅᓯᒪᔭᑎᑦ...",
+      "technologies": "ᓄᑖᖑᖅᐸᓪᓕᐊᔪᑦ ᐊᑐᖅᑕᐅᔪᑦ",
+      "addProject": "ᐃᓚᓕᐅᑎᓗᒍ ᐱᓕᕆᐊᒃᓴᖅ",
+      "image": "ᐱᓕᕆᐊᒃᓴᖅ ᐊᔾᔨᙳᐊᖅ",
+      "removeImage": "ᐲᕐᓗᒍ ᐊᔾᔨᙳᐊᖅ",
+      "uploadImage": "ᓇᕿᓪᓗᒍ ᖃᕆᑕᐅᔭᕐᒧᑦ ᐃᓕᓯᓂᐊᕐᓗᑎᑦ ᐊᔾᔨᙳᐊᒥᒃ"
+    },
+    "work": {
+      "company": "ᑲᒻᐸᓂ/ᑎᒥᐅᔪᖅ",
+      "companyPlaceholder": "ᑲᒻᐸᓂᐅᑉ ᐊᑎᖓ...",
+      "role": "ᐱᓕᕆᐊᒃᓴᖅ/ᐃᖅᑲᓇᐃᔮᖅ",
+      "rolePlaceholder": "ᐃᖅᑲᓇᐃᔮᕆᔭᐃᑦ...",
+      "jobType": "ᐃᖅᑲᓇᐃᔮᑉ ᖃᓄᐃᑦᑑᓂᖓ",
+      "selectJobType": "ᓂᕈᐊᕐᓗᒍ ᖃᓄᐃᑦᑑᓂᖓ",
+      "fullTime": "ᐅᓪᓗᓕᒫᖅ",
+      "partTime": "ᐃᖅᑲᓇᐃᔭᑲᐃᓐᓇᖃᑦᑕᖅᑐᑦ",
+      "contract": "ᐊᖏᖃᑎᒌᒍᑎ",
+      "internship": "ᐃᖅᑲᓇᐃᔭᓯᓐᓈᑦ ᐃᓕᓐᓂᐊᕐᓂᖅ",
+      "freelance": "ᐃᒻᒥᒃᑰᖅᑐᖅ",
+      "location": "ᐃᓂᒋᔭᐅᔪᖅ",
+      "locationPlaceholder": "ᓲᕐᓗ ",
+      "duration": "ᐊᑯᓂᐅᓂᖓ",
+      "currentlyWorking": "ᒫᓐᓇᐅᔪᖅ ᐅᕙᓂ ᐃᖅᑲᓇᐃᔭᖅᑐᖅ",
+      "description": "ᐃᖅᑲᓇᐃᔮᑉ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖓ",
+      "descriptionPlaceholder": "ᓇᓗᓇᐃᔭᕐᓗᒋᑦ ᑲᒪᒋᔭᒃᓴᓪᓗᐊᑕᑎᑦ ᐊᒻᒪᓗ ᐱᔭᕇᖅᓯᒪᔭᑎᑦ...",
+      "skills": "ᓇᓗᓇᐃᖅᑕᐅᓯᒪᔪᑦ ᐊᔪᕈᓐᓃᖅᑕᐅᔭᕆᐊᓖᑦ",
+      "addExperience": "ᐃᓚᓯᓗᑎᑦ ᐊᑐᖅᓯᒪᔭᕐᓂᒃ"
+    },
+    "org": {
+      "organization": "ᑎᒥᐅᔪᑦ ᐊᑎᖓ",
+      "organizationPlaceholder": "ᑎᒥᐅᔪᑦ ᐊᑎᖓ...",
+      "role": "ᐱᓕᕆᐊᒃᓴᖅ/ᐃᖅᑲᓇᐃᔮᖅ",
+      "rolePlaceholder": "ᓲᕐᓗ ",
+      "duration": "ᐊᑯᓂᐅᓂᖓ",
+      "periodFormat": "ᐅᕝᕙᓘᓐᓃᑦ ᐊᑭᖃᙱᑦᑐᖅ ᐋᖅᑭᒃᓯᒪᓂᖓ (ᓲᕐᓗ 2020 - 2022)",
+      "periodPlaceholder": "ᓲᕐᓗ ",
+      "currentlyActive": "ᒫᓐᓇᐅᔪᖅ ᐆᒻᒪᕆᒃᑐᖅ",
+      "description": "ᐱᓕᕆᐊᑉ ᓇᓗᓇᐃᔭᖅᑕᐅᓂᖓ",
+      "descriptionPlaceholder": "ᓇᓗᓇᐃᔭᕐᓗᒋᑦ ᐱᓕᕆᐊᕆᕙᒃᑕᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐃᑲᔪᕈᑎᒋᕙᒃᑕᑎᑦ...",
+      "addExperience": "ᐃᓚᓯᓗᑎᑦ ᐊᑐᖅᓯᒪᔭᕐᓂᒃ"
+    },
+    "education": {
+      "institution": "ᐱᓕᕆᕝᕕᐅᑉ ᐊᑎᖓ",
+      "institutionPlaceholder": "ᐃᓕᓐᓂᐊᕐᕕᐅᑉ ᓯᓚᑦᑐᖅᓴᕐᕕᒡᔪᐊᕐᓘᓐᓃᑦ ᐊᑎᖓ...",
+      "degree": "ᓇᓗᓇᐃᒃᑯᑕᖅ/ᖁᑦᑎᖕᓂᓕᒃ",
+      "degreePlaceholder": "ᓲᕐᓗ ",
+      "major": "ᐊᖏᔪᒥᒃ/ᐃᓕᓐᓂᐊᕐᕕᒋᓂᐊᖅᑕᖓ",
+      "majorPlaceholder": "ᓲᕐᓗ ",
+      "gpa": "GPA / ᖁᑦᑎᖕᓂᓕᒃ",
+      "gpaPlaceholder": "ᓲᕐᓗ ",
+      "duration": "ᐃᓕᓐᓂᐊᕐᓂᐅᑉ ᐊᑯᓂᐅᑎᒋᓂᖓ",
+      "periodFormat": "ᐅᕝᕙᓘᓐᓃᑦ ᐊᑭᖃᙱᑦᑐᖅ ᐋᖅᑭᒃᓯᒪᓂᖓ (ᓲᕐᓗ 2018 - 2022)",
+      "periodPlaceholder": "ᓲᕐᓗ ",
+      "currentlyStudying": "ᒫᓐᓇᐅᔪᖅ ᐃᓕᓐᓂᐊᖅᑐᖅ ᐅᕙᓂ",
+      "description": "ᐱᓕᕆᐊᑦ / ᐅᐱᒋᔭᐅᔾᔪᑏᑦ",
+      "descriptionPlaceholder": "ᓇᓗᓇᐃᔭᐃᓗᑎᑦ ᐃᓕᓐᓂᐊᕐᓂᒃᑯᑦ ᐱᓕᕆᐊᖑᔪᓂᒃ, ᑲᑐᔾᔨᖃᑎᒌᓂᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᓕᓴᕆᔭᐅᔾᔪᑎᓂᒃ ᐱᔭᐅᓯᒪᔪᓂᒃ...",
+      "addEducation": "ᐃᓚᓕᐅᑎᓗᒍ ᐃᓕᓐᓂᐊᕐᓂᖅ"
+    },
+    "cert": {
+      "name": "ᓇᓗᓇᐃᒃᑯᑕᖅ ᐊᑎᖓ",
+      "namePlaceholder": "ᓲᕐᓗ ",
+      "issuer": "ᑐᓂᓯᔪᖅ ᑎᒥᐅᔪᖅ",
+      "issuerPlaceholder": "ᓲᕐᓗ ",
+      "issueDate": "ᓴᖅᑭᑕᐅᓂᖓᑕ ᐅᓪᓗᖓ",
+      "expiryDate": "ᐊᑐᕐᓂᐊᖅᑐᖅ ᑎᑭᓪᓗᒍ",
+      "noExpiry": "ᑖᓐᓇ ᐃᓕᑕᕆᔭᐅᔾᔪᑎ ᐃᓱᓕᕝᕕᒃᓴᖃᙱᑦᑐᖅ",
+      "yearPlaceholder": "ᐅᕝᕙᓘᓐᓃᑦ ᐊᕐᕌᒍ (ᓲᕐᓗ 2023)",
+      "credentialUrl": "ᓇᓗᓇᐃᒃᑯᑕᖅ URL",
+      "credentialUrlPlaceholder": "http://...",
+      "skills": "ᐊᒃᑐᐊᓂᓖᑦ ᐊᔪᕈᓐᓃᖅᑕᐅᔭᕆᐊᓖᑦ",
+      "addCertification": "ᐃᓚᓕᐅᑎᓗᒍ ᓇᓗᓇᐃᒃᑯᑕᖅ",
+      "image": "ᐊᔾᔨᙳᐊᖅ/ᓇᓗᓇᐃᒃᑯᑕᖅ",
+      "removeImage": "ᐲᕐᓗᒍ ᐊᔾᔨᙳᐊᖅ",
+      "uploadImage": "ᓇᕿᓪᓗᒍ ᖃᕆᑕᐅᔭᕐᒧᑦ ᐃᓕᓯᓂᐊᕐᓗᑎᑦ ᐊᔾᔨᙳᐊᒥᒃ"
+    },
+    "common": {
+      "months": {
+        "1": "ᔭᓄᐊᕆ",
+        "2": "ᕕᕗᐊᕆ",
+        "3": "ᒪᔨ",
+        "4": "ᐊᐃᕆᓕ",
+        "5": "ᒪᐃ",
+        "6": "ᔫᓂ",
+        "7": "ᔪᓚᐃ",
+        "8": "ᐅᒍᔅᓯ",
+        "9": "ᓯᑉᑎᒻᐱᕆ",
+        "10": "ᐅᒃᑐᐱᕆ",
+        "11": "ᓄᕕᒻᐱᕆ",
+        "12": "ᑎᓯᐱᕆ"
+      },
+      "month": "ᑕᖅᑭᖅ",
+      "year": "ᐊᕐᕌᒍ",
+      "invalidDate": "ᐊᑐᙱᑦᑐᖅ ᑕᖅᑭᐅᑉ ᓄᙳᐊᓂ",
+      "words": "ᐅᖃᐅᓰᑦ"
+    }
+  },
+  "settings": {
+    "title": "ᐋᖅᑭᒃᓯᒪᓂᖏᑦ",
+    "subtitle": "ᐊᐅᓚᑦᑎᓗᑎᑦ ᐸᐃᑉᐹᖁᑎᕕᑦ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖓᓂᒃ ᐊᒻᒪᓗ ᐱᔪᒥᒋᔭᕐᓂᒃ",
+    "tabs": {
+      "profile": "ᓇᓗᓇᐃᔭᖅᓯᒪᓂᕆᔭᕋ",
+      "security": "ᓇᐅᑦᑎᖅᓱᖅᑎᑦ",
+      "personalization": "ᓇᖕᒥᓂᖅ ᐋᖅᑭᒃᓱᐃᓂᖅ"
+    },
+    "profile": {
+      "infoTitle": "ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑦ",
+      "photo": "ᓇᖕᒥᓂᖅ ᐊᔾᔨᓕᐅᖅᑕᐅᓯᒪᔪᖅ",
+      "uploadPhoto": "ᐊᓯᔾᔨᕐᓗᒍ ᐊᔾᔨᙳᐊᖅ",
+      "fullName": "ᐊᑎᓕᒫᖓ",
+      "fullNamePlaceholder": "ᔮᓐ ᑑ",
+      "email": "ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᑐᕌᕈᑎᖓ",
+      "emailPlaceholder": "ᔮᓐ@ᐆᒃᑑᑎ.ᑳᒻ",
+      "emailHelp": "ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᐊᑐᖅᑕᐅᕙᒃᑐᖅ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒃᓴᓄᑦ ᐊᒻᒪᓗ ᑕᑯᒃᓴᐅᕙᙱᓚᖅ ᑭᒃᑯᑐᐃᓐᓇᕐᓄᑦ.",
+      "portfolioUrl": "ᒥᓂᔅᑕᐅᕝᕕᐅᑉ URL",
+      "saveProfile": "ᓴᓂᕐᕙᒃᑕᐅᓗᓂ ᓇᓗᓇᐃᒃᑯᑕᖅ",
+      "save": "ᓴᓂᕐᕙᒃᑕᐅᓗᓂ ᓇᓗᓇᐃᒃᑯᑕᖅ",
+      "accountCreated": "ᐊᑭᓕᒃᓴᖅ ᓴᖅᑭᑕᐅᔪᖅ",
+      "lastLogin": "ᑭᖑᓪᓕᖅᐹᖅ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒃᓴᖅ",
+      "oauthNotice": "ᑖᓐᓇ ᓇᓗᓇᐃᒃᑯᑕᖅ ᑲᓱᖅᓯᒪᔪᖅ ᐃᓕᖕᓄᑦ {{ᐱᔨᑦᑎᕋᖅᑎ}} ᐊᑭᓕᒃᓴᓄᑦ. ᓇᓗᓇᐃᔭᖅᓯᒪᔪᑦ ᐊᓯᔾᔨᖅᑕᐅᔭᕆᐊᖃᖅᐳᑦ ᐱᔨᑦᑎᕋᖅᑎᒃᑯᑦ."
+    },
+    "security": {
+      "changePassword": "ᐊᓯᔾᔨᕐᓗᒍ ᓇᕿᑦᑕᒐᖅ",
+      "currentPassword": "ᒫᓐᓇᐅᔪᖅ ᓇᕿᑦᑕᒐᖅ",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "ᓄᑖᖅ ᓇᕿᑦᑕᒐᖅ",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "ᓇᓗᓇᐃᖅᓯᓗᑎᑦ ᓄᑖᒥᒃ ᓇᕿᑦᑕᒐᕐᒥᒃ",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "ᒥᑭᓛᒥᒃ 8-ᓂᒃ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ",
+        "uppercase": "ᐊᑕᐅᓯᖅ ᐊᖏᔪᐊᓗᒃ ᑎᑎᖅᑲᖅ (A-Z)",
+        "number": "ᐊᑕᐅᓯᖅ ᓈᓴᐅᑎ (0-9)",
+        "symbol": "ᐊᑕᐅᓯᖅ ᓇᓗᓇᐃᒃᑯᑕᖅ (!@#$%^&*)"
+      },
+      "passwordTitle": "ᐃᓯᕈᓐᓇᐅᑎᖓ",
+      "updatePassword": "ᓄᑖᙳᕆᐊᕐᓗᒍ ᓇᕿᑦᑕᒐᖅ",
+      "additionalSecurity": "ᐃᓚᒋᐊᕈᑎᑦ ᐊᑦᑕᓇᔾᔭᐃᖅᓯᒪᓂᕐᒧᑦ",
+      "twoFactor": "ᒪᕐᕉᖕᓂᒃ ᐱᔾᔪᑎᖃᖅᖢᓂ ᓇᓗᓇᐃᒃᑯᑕᖅ (2FA)",
+      "twoFactorDesc": "ᓴᐳᒻᒥᓗᒍ ᐊᑭᓕᒃᓴᐃᑦ ᐊᑐᕐᓗᑎᑦ ᐃᓚᒋᐊᕈᑎᒥᒃ OTP ᓇᓗᓇᐃᒃᑯᑕᕐᒥᒃ.",
+      "activeSessions": "ᐆᒻᒪᕆᒃᑐᑦ ᑲᑎᒪᓂᐅᔪᑦ",
+      "activeSessionsDesc": "ᐱᕕᖃᖅᑎᑦᑎᖏᓐᓇᕐᓗᑎᑦ ᖃᐅᔨᓴᕐᓂᕐᒥᒃ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᓂᒃ.",
+      "publicVisibility": "ᑭᒃᑯᑐᐃᓐᓇᕐᓄᑦ ᑕᑯᒃᓴᐅᓂᖓ",
+      "hideFromSearch": "ᐃᔨᖅᓯᒪᓗᒍ ᐸᐃᑉᐹᖁᑎ ᕿᓂᕈᑎᓄᑦ",
+      "hideFromSearchDesc": "ᓄᖅᑲᖓᑎᑦᑎᓗᑎᑦ Google-ᑯᓐᓂᑦ ᓇᓗᓇᐃᔭᐃᓂᕐᒥᑦ ᑭᒃᑯᑐᐃᓐᓇᕐᓄᑦ ᐸᐃᑉᐹᖁᑎᒋᔭᕐᓄᑦ ᒪᒃᐱᒐᕐᒥᒃ.",
+      "disable2fa": {
+        "title": "ᓄᖅᑲᖅᑎᓪᓗᒍ 2FA",
+        "description": "ᖃᒥᑦᑎᔪᒪᓪᓚᕆᒃᐲᑦ ᒪᕐᕉᖕᓂᒃ ᓇᓗᓇᐃᒃᑯᑕᖃᕐᓂᕐᒥᒃ?",
+        "confirmPasswordLabel": "ᑎᑎᕋᕐᓗᒍ ᓇᕿᑦᑕᒐᐃᑦ ᓇᓗᓇᐃᖅᓯᓂᐊᕐᓗᑎᑦ",
+        "currentPasswordPlaceholder": "ᒫᓐᓇᐅᔪᖅ ᓇᕿᑦᑕᒐᖅ",
+        "cancelButton": "ᖁᔭᓈᖅᑕᐅᔪᖅ",
+        "confirmButton": "ᓄᖅᑲᖅᑎᓪᓗᒍ 2FA",
+        "incorrectPassword": "ᑕᒻᒪᖅᓯᒪᔪᖅ ᓇᕿᑦᑕᒐᖅ."
+      },
+      "setup2fa": {
+        "step1Title": "1. ᖃᕋᓴᐅᔭᒃᑯᑦ QR ᓇᓗᓇᐃᒃᑯᑕᖅ",
+        "step1Desc": "ᒪᑐᐃᕐᓗᒍ ᓇᓗᓇᐃᒃᑯᑕᖅ ᖃᕆᑕᐅᔭᕋᓛᖅ ᐊᒻᒪᓗ ᑕᕐᕋᓕᐅᕐᓗᒍ ᐅᑯᐊ QR ᓇᓗᓇᐃᒃᑯᑕᐃᑦ:",
+        "unableToScan": "ᑕᕐᕋᓕᐅᕈᓐᓇᙱᓚᑎᑦ? ᐊᑐᕐᓗᒍ ᐋᖅᑭᒃᓯᔾᔪᑎ ᓇᕿᑦᑕᒐᖅ",
+        "step2Title": "2. ᓇᓗᓇᐃᖅᓯᓗᑎᑦ ᓇᓗᓇᐃᒃᑯᑕᕐᒥᒃ",
+        "step2Desc": "ᑎᑎᕋᕐᓗᒍ 6-ᓂᒃ ᓈᓴᐅᑎᓕᒃ ᓇᓗᓇᐃᒃᑯᑕᖅ ᓴᖅᑭᑕᐅᓯᒪᔪᖅ ᖃᕆᑕᐅᔭᕐᓄᑦ:",
+        "cancelButton": "ᖁᔭᓈᕐᓂᖅ",
+        "enableButton": "ᐱᔪᓐᓇᖅᑎᓪᓗᒍ 2FA",
+        "invalidLength": "ᐊᑏ ᑎᑎᕋᕐᓗᒍ 6-ᓂᒃ ᓈᓴᐅᑎᓕᒃ ᓇᓗᓇᐃᒃᑯᑕᖅ.",
+        "invalidCode": "ᐊᑐᙱᑦᑐᖅ ᓇᓗᓇᐃᒃᑯᑕᖅ. ᐆᑦᑐᑲᓐᓂᕆᑦ."
+      }
+    },
+    "personalization": {
+      "languageTitle": "ᐅᖃᐅᓯᕐᓄᑦ ᐊᐅᓚᑦᑎᔾᔪᑏᑦ",
+      "appLanguage": "ᖃᕆᑕᐅᔭᒃᑯᑦ ᐅᖃᐅᓯᖅ",
+      "layoutTitle": "ᐋᖅᑭᒃᓯᒪᓂᖓ ᓇᕿᑦᑕᒐᐅᓂᖓᓗ",
+      "layoutStyle": "ᐋᖅᑭᒃᓯᒪᓂᖓᑕ ᐋᖅᑭᒃᓯᒪᓂᖓ",
+      "layoutModern": "ᒫᓐᓇᓕᓴᖅ ᐋᖅᑭᒃᓯᒪᓂᖓ (ᐊᑐᖅᑕᐅᕙᒃᑐᖅ)",
+      "layoutClassic": "ᐃᓕᖅᑯᓯᑐᖃᖅ",
+      "layoutMinimalist": "ᒥᑭᓛᖑᔪᖅ ᓴᓇᒪᓂᖓ",
+      "fontSize": "ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᐅᓯᐅᑉ ᐊᖏᓂᖓ",
+      "fontSmall": "ᒥᑭᑦᑐᖅ",
+      "fontNormal": "ᑕᐃᒪᐃᒐᔪᒃᑐᖅ (ᐊᑯᓐᓂᖓᓃᑦᑐᖅ)",
+      "fontLarge": "ᐊᖏᔪᖅ",
+      "searchLanguage": "ᕿᓂᕐᓂᖅ ᐅᖃᐅᓯᕐᒥᒃ...",
+      "languageNotFound": "ᐅᖃᐅᓯᖅ ᓇᓂᔭᐅᙱᑦᑐᖅ",
+      "layoutElegant": "ᑕᑯᒥᓇᖅᑐᒻᒪᕆᒃ ᓴᓇᒪᓂᖓ"
+    },
+    "saveChanges": "ᓴᓂᕐᕙᐃᓂᖅ ᐊᓯᔾᔨᖅᑕᐅᓯᒪᔪᓂᒃ",
+    "cancel": "ᖁᔭᓈᕐᓂᖅ",
+    "appSettings": "ᖃᕆᑕᐅᔭᒃᑯᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ",
+    "logoutConfirmTitle": "ᓇᓗᓇᐃᖅᓯᓗᑎᑦ ᐊᓂᓂᕐᒥᒃ",
+    "logoutConfirmDesc": "ᓇᓗᓇᓐᖏᑦᑐᖅ ᐊᓂᔪᒪᓕᖅᐲᑦ ᖃᕋᓴᐅᔭᕐᒥᒃ?",
+    "logoutConfirmYes": "ᐄ, ᐊᓂᓗᑎᑦ",
+    "generalError": "ᑕᒻᒪᖅᑐᖃᓚᐅᕐᒪᑦ. ",
+    "success": "ᑲᔪᓯᓂᖃᑦᑎᐊᕐᓂᖅ",
+    "preferencesSaved": "ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᒃᓯᕋᐅᑏᑦ ᓴᓂᕐᕙᒃᑕᐅᓯᒪᔪᑦ ᑲᔪᓯᑦᑎᐊᖅᑐᒃᑯᑦ.",
+    "header": "ᑐᒃᓯᕋᐅᑎᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ",
+    "logout": {
+      "title": "ᐊᓂᓂᕐᒧᑦ ᓇᓗᓇᐃᖅᓯᓂᖅ",
+      "message": "ᓇᓗᓇᓐᖏᑦᑐᖅ ᐊᓂᔪᒪᓕᖅᐲᑦ ᖃᕋᓴᐅᔭᕐᒥᒃ?",
+      "confirm": "ᐄ, ᐊᓂᓗᑎᑦ"
+    },
+    "about": {
+      "title": "ᑐᒃᓯᕋᐅᑎᐅᑉ ᒥᒃᓵᓄᑦ",
+      "subtitle": "ᒥᓂᔅᑕᐅᕝᕕᒃ ᓴᓇᔨᐅᑉ ᑐᙵᕕᖓ",
+      "version": "ᖃᓄᐃᑦᑑᓂᖓ",
+      "description": "DevFolio ᒫᓐᓇᓕᓴᖅ ᐸᐃᑉᐹᖁᑎᓕᐅᕈᑎᓄᑦ ᓴᓇᔨᓄᑦ ᑐᙵᕕᒃ ᐋᖅᑭᒃᓱᖅᑕᐅᓯᒪᔪᖅ ᓴᓇᔨᓄᑦ, ᑎᑎᕋᐅᔭᖅᑎᓄᑦ, ᐊᒻᒪᓗ ᖃᐅᔨᒪᔨᑕᓄᑦ ᓴᓇᔨᓄᑦ. ",
+      "license": "ᓚᐃᓴᓐᓯ ᐊᒻᒪ ᑎᑎᕋᖅᑕᐅᓯᒪᔪᖅ",
+      "copyright": "© 2026 ᑎᐊᕕᕗᓕᐊ ᐃᓐᑲ. ᐱᔪᓐᓇᐅᑎᓕᒫᑦ ᓴᐳᔾᔭᐅᓯᒪᔪᑦ.",
+      "developer": "ᐱᕙᓪᓕᐊᔪᓕᕆᔨ",
+      "developedBy": "ᐋᖅᑭᒃᓱᖅᑕᐅᔪᖅ ᕆᕝᑭ ᓇᕋᑕᑕᒧᑦ"
+    },
+    "deleteAccount": {
+      "title": "ᐲᔭᐃᓂᖅ ᑕᐃᒪᐃᖏᓐᓇᕐᓂᐊᖅᑐᒥᒃ ᐊᑭᓕᒃᓴᒥᒃ",
+      "menuItem": "ᐲᔭᐃᓂᖅ ᐊᑭᓕᒃᓴᒥᒃ",
+      "successTitle": "ᑲᔪᓯᑦᑎᐊᕐᓂᖅ",
+      "successMessage": "ᐊᑭᓕᒃᓴᖅ ᐲᖅᑕᐅᓂᖓᓄᑦ ᓇᓗᓇᐃᖅᓯᔾᔪᑎ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᓇᒃᓯᐅᔾᔭᐅᓯᒪᓕᖅᑐᖅ.",
+      "errorTitle": "ᑲᔪᓯᑦᑎᐊᖏᑦᑐᖅ",
+      "errorMessage": "ᓇᒃᓯᐅᔾᔨᔪᓐᓇᓚᐅᙱᓚᖅ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒥᒃ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ.",
+      "confirmationMessage": "ᐲᖅᓯᔪᒪᓪᓚᕆᒃᐲᑦ ᐊᑭᓕᒃᓴᕆᔭᕐᓂᒃ?",
+      "warningMessage1": "ᖃᕋᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᐅᓂᐊᖅᐳᑎᑦ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒥᒃ ᐊᑭᓕᒃᓴᖅ ᐲᖅᑕᐅᓂᖓᓂᒃ.",
+      "warningMessage2": "ᓇᓗᓇᐃᖅᑕᐅᒃᐸᑦ, ᑕᒪᕐᒥᒃ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑦ (ᑎᑎᕋᖅᓯᒪᔪᑦ, ᐱᓕᕆᐊᒃᓴᑦ, ᓈᓴᐅᑎᑦ) ᐲᖅᑕᐅᖏᓐᓇᕐᓂᐊᖅᑐᑦ ᐊᒻᒪᓗ ᐅᑎᖅᑎᑕᐅᔪᓐᓇᔾᔮᖏᑦᑐᑦ.",
+      "cancel": "ᓄᖅᑲᖅᑎᑕᐅᓗᓂ",
+      "confirm": "ᓇᓗᓇᐃᖅᓯᓂᖅ"
+    },
+    "toasts": {
+      "toastError": "ᑕᒻᒪᖅᑐᖅ",
+      "toastSuccess": "ᑲᔪᓯᓂᖃᑦᑎᐊᕐᓂᖅ",
+      "toastSetup2FAFailed": "ᐋᖅᑭᒃᓯᔪᓐᓇᓚᐅᙱᓚᖅ 2FA-ᒥᒃ. ᐆᑦᑐᑲᓐᓂᕆᑦ.",
+      "toast2FAEnabled": "ᒪᕐᕉᖕᓂᒃ ᓇᓗᓇᐃᒃᑯᑕᖃᕐᓂᖅ ᐱᔪᓐᓇᖅᑎᑕᐅᓯᒪᓕᖅᑐᖅ.",
+      "toast2FADisabled": "ᒪᕐᕉᖕᓂᒃ ᓇᓗᓇᐃᒃᑯᑕᖃᕐᓂᖅ ᓄᖅᑲᖅᑎᑕᐅᓯᒪᓕᖅᑐᖅ.",
+      "toastSessionEnabled": "ᑲᑎᒪᓂᐅᔪᑦ ᓇᐅᑦᑎᖅᓱᖅᑕᐅᓂᖏᑦ ᐱᔪᓐᓇᖅᑎᑕᐅᓯᒪᓕᖅᑐᑦ.",
+      "toastSessionDisabled": "ᖃᓄᐃᓕᐅᕐᓂᐅᔪᒥ ᑲᑎᒪᓂᐅᔪᒥ ᓇᐅᑦᑎᖅᓱᕐᓂᖅ ᓄᖅᑲᖅᑎᑕᐅᓯᒪᓕᖅᐳᖅ.",
+      "toastSetupKeyCopied": "ᐋᖅᑭᒃᓱᐃᔾᔪᑎ ᓇᕿᑦᑕᒐᖅ ᐊᔾᔨᓕᐅᖅᑕᐅᓯᒪᔪᖅ ᑎᑎᕋᕐᕕᒃᓴᒧᑦ."
+    },
+    "privacy": {
+      "title": "ᑲᓐᖑᓇᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᑐᐊᒐᖅ",
+      "updateDate": "ᑭᖑᓪᓕᖅᐹᒥ ᓄᑖᙳᕆᐊᖅᑕᐅᔪᖅ: ᔪᓚᐃ 15, 2026",
+      "intro": "ᑖᓐᓇ ᑲᓐᖑᓇᖅᑐᓕᕆᓂᕐᒧᑦ ᐊᑐᐊᒐᖅ ᓇᓗᓇᐃᔭᐃᔪᖅ ᖃᓄᖅ DevFolio ᑲᑎᖅᓱᐃᕙᖕᒪᖔᑦ, ᐊᑐᖅᐸᖕᒪᖔᑦ, ᐊᒻᒪᓗ ᓴᐳᔾᔨᓯᒪᕙᖕᒪᖔᑦ ᐃᓕᖕᓄᑦ ᑐᕌᖓᔪᓂᒃ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᓂᒃ ᐊᑐᖅᑎᓪᓗᑎᑦ ᐱᔨᑦᑎᕋᐅᑎᑦᑎᓐᓂᒃ.",
+      "section1Title": "1. ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑦ ᓄᐊᑉᐸᒃᑕᕗᑦ",
+      "section1Content": "ᓄᐊᑦᑎᕙᒃᐳᒍᑦ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᓂᒃ ᑐᓂᓯᔭᕐᓂᒃ ᑐᕌᖓᔪᓂᒃ ᓴᖅᑭᑦᑎᓕᕌᖓᕕᑦ ᐊᑭᓕᒃᓴᒥᒃ, ᓴᓇᓕᕌᖓᕕᑦ ᐸᐃᑉᐹᖁᑎᓂᒃ, ᐊᒻᒪᓗ ᖃᐅᔨᒋᐊᕐᕕᒋᓕᕌᖓᕕᒋᑦ ᐃᑲᔪᖅᑎᕗᑦ. ",
+      "section2Title": "2. ᐊᑐᖅᑕᐅᓂᖏᑦ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑦ",
+      "section2Content": "ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑎᑦ ᐊᑐᖅᑕᐅᕙᒃᑐᑦ ᐊᐅᓚᑦᑎᓂᕐᒧᑦ, ᐋᖅᑭᐅᒪᑎᑦᑎᓂᕐᒧᑦ, ᐊᒻᒪᓗ ᐱᑕᖃᖅᑎᑦᑎᓂᕐᒧᑦ ᐱᔨᑦᑎᕋᐅᑎᑦᑕ ᖃᓄᐃᑦᑑᓂᖏᓐᓂᒃ, ᐊᒻᒪᓗᑦᑕᐅᖅ ᑐᓴᐅᒪᑎᑦᑎᓂᕐᒧᑦ ᐃᓕᖕᓂᒃ ᐱᔾᔪᑎᒋᓪᓗᒍ ᐊᑭᓕᒃᓴᕆᔭᐃᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔨᑦᑎᕋᐅᑎᑎᑦ.",
+      "section3Title": "3. ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑦ ᐊᑦᑕᓇᔾᔭᐃᖅᓯᒪᓂᖏᑦ",
+      "section3Content": "ᐊᑐᓕᖅᑎᑦᑎᕙᒃᐳᒍᑦ ᓈᒻᒪᒃᑐᓂᒃ ᓴᐳᒻᒥᔭᐅᔾᔪᑎᓂᒃ ᓴᐳᒻᒥᔭᐅᖁᓪᓗᒋᑦ ᑐᑭᓯᒋᐊᕈᑎᒃᓴᑎᑦ ᐱᔪᓐᓇᐅᑎᖃᙱᑦᑐᓄᑦ ᑎᒍᔭᐅᖁᓇᒋᑦ, ᓴᖅᑭᑕᐅᖁᓇᒋᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᓱᕋᒃᑕᐅᖁᓇᒋᑦ."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "ᓇᓗᓇᐃᖅᓯᔾᔪᑎ ᓇᓂᔭᐅᓚᐅᙱᑦᑐᖅ.",
+    "defaultError": "ᐲᔭᖅᑕᐅᔪᓐᓇᓚᐅᙱᓚᖅ ᐊᑭᓕᒃᓴᖅ. ᓇᓗᓇᐃᒃᑯᑕᖅ ᐃᓱᓕᓯᒪᓕᑐᐃᓐᓇᕆᐊᓕᒃ.",
+    "loadingTitle": "ᐲᔭᐃᓂᖅ ᐊᑭᓕᒃᓴᒥᒃ...",
+    "loadingMessage": "ᐅᑕᖅᑭᑲᐃᓐᓇᕆᑦ, ᑐᒃᓯᕋᐅᑎᒋᔭᐃᑦ ᑲᒪᒋᕙᓪᓕᐊᔭᕗᑦ.",
+    "successTitle": "ᐊᑭᓕᒃᓴᖅ ᐲᖅᑕᐅᑦᑎᐊᖅᑐᖅ",
+    "successMessage": "ᑐᑭᓯᒋᐊᕈᑎᓕᒫᑎᑦ ᐲᖅᑕᐅᓯᒪᓕᖅᑐᑦ. ᑐᕌᖅᑎᑕᐅᒃᑲᓐᓂᕐᓂᐊᖅᐳᑎᑦ...",
+    "errorTitle": "ᐲᔭᐃᔪᓐᓇᓚᐅᙱᑦᑐᖅ ᐊᑭᓕᒃᓴᒥᒃ",
+    "backToHome": "ᐊᖏᕐᕋᒧᑦ ᐅᑎᕐᓂᖅ"
+  },
+  "forgotPassword": {
+    "minutes": "ᒥᓂᑦᓯᑦ",
+    "seconds": "ᓴᑲᓐᔅ",
+    "success": "ᑲᔪᓯᑦᑎᐊᕐᓂᖅ",
+    "otpSentToEmail": "OTP ᓇᓗᓇᐃᒃᑯᑕᖅ ᓇᒃᓯᐅᔾᔭᐅᓯᒪᓕᖅᑐᖅ ᖃᕋᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒋᔭᕐᓄᑦ.",
+    "failed": "ᑲᔪᓯᑦᑎᐊᖏᑦᑐᖅ",
+    "emailNotFound": "ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᓇᓂᔭᐅᙱᓚᖅ.",
+    "emailThirdParty": "ᑖᓐᓇ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᑎᑎᕋᖅᑕᐅᓯᒪᔪᖅ ᓯᓚᑖᓃᑦᑐᒃᑯᑦ.",
+    "genericError": "ᑕᒻᒪᖅᓯᒪᔪᖅᑕᖃᕐᒪᑦ. ᐆᑦᑐᑲᓐᓂᕆᑦ.",
+    "otpVerified": "OTP ᓇᓗᓇᐃᒃᑯᑕᖅ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᓕᖅᑐᖅ.",
+    "otpExpired": "ᑖᓐᓇ ᓇᓗᓇᐃᒃᑯᑕᖅ ᐃᓱᓕᓯᒪᓕᖅᑐᖅ. ᓄᑖᒥᒃ ᒪᓕᒐᕐᒥᒃ ᑐᒃᓯᕋᕆᑦ.",
+    "otpInvalid": "ᐊᑐᙱᑦᑐᖅ OTP ᓇᓗᓇᐃᒃᑯᑕᖅ.",
+    "otpResent": "ᓄᑖᖅ OTP ᓇᓗᓇᐃᒃᑯᑕᖅ ᖃᕋᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒋᕙᒃᑕᕐᓄᑦ ᓇᒃᓯᐅᔾᔭᐅᓯᒪᓕᖅᑐᖅ.",
+    "otpResendFailed": "ᑐᔪᐃᒃᑲᓐᓂᕈᓐᓇᓚᐅᙱᓚᖅ OTP ᓇᓗᓇᐃᒃᑯᑕᕐᒥᒃ. ᐆᑦᑐᑲᓐᓂᕆᑦ.",
+    "passwordResetSuccess": "ᓇᕿᑦᑕᒐᖅ ᐋᖅᑭᒃᑕᐅᒃᑲᓐᓂᖅᑐᖅ. ᐊᑏ ᓄᑖᒥᒃ ᓇᕿᑦᑕᒐᕐᒥᒃ ᐊᑐᕐᓗᑎᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᓗᑎᑦ.",
+    "passwordResetFailed": "ᐋᖅᑭᒃᓯᒃᑲᓐᓂᕈᓐᓇᓚᐅᙱᓚᖅ ᓇᕿᑦᑕᒐᕐᒥᒃ.",
+    "backToLogin": "ᐅᑎᕐᓗᑎᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒃᓴᒧᑦ",
+    "back": "ᐅᑎᕐᓗᓂ",
+    "title": "ᐳᐃᒍᖅᑕᐃᑦ ᓇᕿᑦᑕᒐᖅ",
+    "description": "ᑎᑎᕋᕐᓗᒍ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᕌᕈᑎᖓ ᑎᑎᕋᖅᑕᐅᓯᒪᔪᖅ ᐊᑭᓕᒃᓴᕆᔭᕐᓄᑦ. ᓇᒃᓯᐅᔾᔨᓂᐊᖅᐳᒍᑦ OTP ᓇᓗᓇᐃᒃᑯᑕᕐᒥᒃ ᐋᖅᑭᒃᓱᐃᒃᑲᓐᓂᕐᓂᐊᕐᓗᑕ ᓇᕿᑦᑕᒐᕐᒥᒃ.",
+    "emailLabel": "ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᑐᕌᕈᑎᖓ",
+    "sending": "ᑐᔪᐃᓂᖅ...",
+    "sendOtp": "ᑐᔪᐃᓗᑎᑦ OTP ᓇᓗᓇᐃᒃᑯᑕᕐᒥᒃ",
+    "verifyOtpTitle": "ᓇᓗᓇᐃᖅᓯᓗᑎᑦ OTP ᓇᓗᓇᐃᒃᑯᑕᖓᓂᒃ",
+    "verifyOtpDesc": "ᑎᑎᕋᕐᓗᒍ 6-ᓂᒃ ᓈᓴᐅᑎᓕᒃ ᓇᓗᓇᐃᒃᑯᑕᖅ ᖃᕋᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᒋᓯᒪᔭᕐᓄᑦ ᓇᓗᓇᐃᖅᓯᔾᔪᑕᐅᓗᓂ ᑭᓇᐅᓂᕐᓂᒃ.",
+    "verifying": "ᓇᓗᓇᐃᖅᓯᓂᖅ...",
+    "verifyOtp": "ᓇᓗᓇᐃᖅᓯᓗᑎᑦ OTP-ᒥᒃ",
+    "resending": "ᑐᔪᐃᒃᑲᓐᓂᕐᓂᖅ...",
+    "resendOtp": "ᑐᔪᐃᒃᑲᓐᓂᕐᓗᒍ OTP ᓇᓗᓇᐃᒃᑯᑕᖅ",
+    "resendCodeIn": "ᑐᔪᐃᒃᑲᓐᓂᕐᓗᒍ ᓇᓗᓇᐃᒃᑯᑕᖅ ᐃᓗᐊᓂ",
+    "newPasswordTitle": "ᓄᑖᒥᒃ ᓇᕿᑦᑕᒐᕐᒥᒃ ᓴᖅᑭᑦᑎᓗᑎᑦ",
+    "newPasswordDesc": "ᓴᖅᑭᑦᑎᓗᑎᑦ ᓄᑖᒥᒃ, ᓴᙱᔪᒥᒃ ᓇᕿᑦᑕᒐᕐᒥᒃ ᓴᐳᒻᒥᔭᐅᖁᓪᓗᒍ ᐊᑭᓕᒃᓴᐃᑦ.",
+    "newPasswordLabel": "ᓄᑖᖅ ᓇᕿᑦᑕᒐᖅ",
+    "min8Chars": "ᒥᑭᓛᖑᔪᖅ 8 ᑎᑎᕋᖅᓯᒪᔪᑦ",
+    "oneUpperCase": "1 ᐊᖏᔪᐊᓗᒃ (A-Z)",
+    "oneNumber": "1 ᓈᓴᐅᑎᖓ (0-9)",
+    "oneSymbol": "1 ᓇᓗᓇᐃᒃᑯᑕᖅ (!@#$%^&*)",
+    "confirmPasswordLabel": "ᓇᓗᓇᐃᖅᓯᓗᑎᑦ ᓇᕿᑦᑕᒐᕐᒥᒃ",
+    "passwordsDoNotMatch": "ᓇᕿᑦᑕᒐᐃᑦ ᐊᔾᔨᒌᙱᒻᒪᑕ.",
+    "resettingPassword": "ᐋᖅᑭᒃᓱᐃᒃᑲᓐᓂᕐᓂᖅ ᓇᕿᑦᑕᒐᕐᒥᒃ...",
+    "resetPassword": "ᐋᖅᑭᒃᑲᓐᓂᕐᓗᒍ ᓇᕿᑦᑕᒐᖅ"
+  },
+  "verifyEmail": {
+    "resendError": "ᓇᒃᓯᐅᔾᔨᒃᑲᓐᓂᕈᓐᓇᓚᐅᙱᓚᖅ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒥᒃ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ. ᐆᑦᑐᑲᓐᓂᕆᑦ.",
+    "checkingStatus": "ᖃᐅᔨᓴᕐᓂᖅ ᓇᓗᓇᐃᖅᑕᐅᓯᒪᔪᒥᒃ ᖃᓄᐃᓕᖓᓕᕐᓂᖓᓂᒃ...",
+    "title": "ᖃᐅᔨᒋᐊᕐᓗᒍ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ",
+    "description": "ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒥᒃ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᕗᒍᑦ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᑐᕌᕈᑎᒋᔭᕐᓄᑦ. ᐊᑏ ᒪᑐᐃᖅᓯᓗᑎᑦ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ ᓇᕿᓪᓗᒍᓗ <1>\"ᓇᓗᓇᐃᖅᓯᓂᖅ ᐊᑭᓕᒃᓴᒥᒃ\"</1> ᓇᕿᑦᑕᒐᖅ ᖃᒥᑕᐅᖁᓪᓗᒍ ᐊᑭᓕᒃᓴᖅ.",
+    "stepsTitle": "ᐊᓪᓗᕆᐊᕈᑏᑦ",
+    "step1": "ᒪᑐᐃᖅᓯᓗᑎᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᒃᓯᕋᐅᑎᓂᒃ (Gmail, Yahoo, ᐊᓯᖏᓪᓗ)",
+    "step2": "ᕿᓂᕐᓗᑎᑦ ᖃᕋᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᒥᒃ DevFolio-ᑯᓐᓂᑦ ᑕᐃᒎᓯᓕᖕᒥᒃ \"ᐊᑭᓕᒃᓴᖅ ᓴᖅᑭᑕᐅᓂᖓ\"",
+    "step3": "ᓇᕿᓪᓗᒍ \"ᓇᓗᓇᐃᖅᓯᓂᖅ ᐊᑭᓕᒃᓴᒥᒃ\" ᓇᕿᑦᑕᒐᖅ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ",
+    "step4": "ᑐᕌᖅᑎᑕᐅᓂᐊᖅᐳᑎᑦ ᒪᒃᐱᒐᕐᒧᑦ ᐃᓯᕐᓂᐊᕐᓗᑎᑦ",
+    "resendSuccess": "ᓇᓗᓇᐃᖅᓯᔾᔪᑎ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ ᓇᒃᓯᐅᔾᔭᐅᒃᑲᓐᓂᖅᓯᒪᓕᖅᑐᖅ!",
+    "resending": "ᑐᔪᐃᒃᑲᓐᓂᕐᓂᖅ...",
+    "resendButton": "ᓇᒃᓯᐅᔾᔨᒃᑲᓐᓂᕐᓗᑎᑦ ᓇᓗᓇᐃᖅᓯᔾᔪᑎᒥᒃ ᐃᕐᖐᓐᓈᖅᑕᐅᑦ",
+    "backToLogin": "ᐅᑎᕐᓗᑎᑦ ᒪᒃᐱᒐᕐᒧᑦ",
+    "footerNote": "ᖃᕋᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᕐᕕᐅᓚᐅᙱᓚᑎᑦ? ᖃᐅᔨᒋᐊᕐᓗᒍ <1>ᐃᕐᖐᓐᓈᖅᑕᐅᑦ</1> ᐅᕝᕙᓘᓐᓃᑦ <2>ᐃᕐᖐᓐᓈᖅᑕᐅᑦ</2> ᐸᐃᑉᐹᖁᑎᖓ ᐃᕐᖐᓐᓈᖅᑕᐅᑎᒃᑯᑦ. ᓇᓗᓇᐃᖅᓯᔾᔪᑎ ᖃᕆᑕᐅᔭᒃᑯᑦ ᑐᕌᕈᑎᖓ ᐊᑐᖅᑐᖅ <3>24 ᐃᑲᕐᕋᓄᑦ</3>."
+  }
+}

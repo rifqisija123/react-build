@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Tshivhumbeo",
+    "templates": "Thempleithi",
+    "pricing": "Mutengo",
+    "login": "Login",
+    "getStarted": "Thomani",
+    "title": "Foḽio ya Mveledziso"
+  },
+  "landing": {
+    "badge": "Mufhaṱi wa phothifoḽio wa u fhedzisela wa vhabveledzi",
+    "title1": "Fhaṱani vhuphurofeshinaḽa haṋu .",
+    "title2": "phothifoḽio kha",
+    "titleHighlight": "mithethe.",
+    "subtitle": "Zwothe zwine na zwi toda u sumbedza vhukoni hanu, dzi project, na tshenzhemo. ",
+    "startBuilding": "Thomani U Fhaṱa Zwino",
+    "viewTemplates": "Vhonani Thempleithi",
+    "fastDeployment": "U ṱavhanya u rumelwa",
+    "liveStatus": "dzina ḽa mushumisi.dev ḽi khou tshila!",
+    "featuresTitle": "Zwivhumbeo zwi re na maanḓa",
+    "featuresSubtitle": "Ri vha nea zwishumiswa zwothe zwine vha zwi toda uri vha kone u fhambana na vhanwe na u wana mushumo wavho wa muloro.",
+    "feature1Title": "Mufhaṱi wa u kokodza na u posa",
+    "feature1Desc": "Kha vha dzudzanye nga hu leluwaho zwipiḓa zwavho, phurojeke, na zwikili nga mudzudzanyi washu wa zwifanyiso zwi pfalaho.",
+    "feature2Title": "Thero dzo khetheaho",
+    "feature2Desc": "Khethani kha thempleithi dzo ḓiitelaho nga nḓila ya vhutsila kana ni ite mbonalo yaṋu yo khetheaho.",
+    "feature3Title": "Tsenguluso dza tshifhinga tsha vhukuma",
+    "feature3Desc": "Tevhelani vhaeni vhaṋu, vhonani uri ndi phurojeke dzifhio dzine dza dzhielwa nṱha vhukuma, na zwiṅwe."
+  },
+  "auth": {
+    "welcomeBack": "Ro Ni tanganedza",
+    "loginToContinue": "Kha vha dzhene kha akhaunthu yavho vha bvele phanda",
+    "createAccount": "Kha vha ite akhaunthu",
+    "joinCommunity": "Dzhenani na zwigidi zwa vhaṅwe vhabveledzi",
+    "fullName": "Dzina ḽo fhelelaho",
+    "fullNamePlaceholder": "tsumbo ",
+    "email": "Ḓiresi ya Imeiḽi",
+    "emailPlaceholder": "inwi@tsumbo.com",
+    "password": "Phasiwede",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Ni nkhumbule .",
+    "forgotPassword": "Vho hangwa phasiwede?",
+    "signIn": "Kha vha dzhene",
+    "signingIn": "U dzhena...",
+    "signUp": "Kha vha sainele",
+    "signingUp": "U saina...",
+    "noAccount": "Ahuna account?",
+    "hasAccount": "Vho no vha na akhaunthu?",
+    "passwordRules": {
+      "title": "Phasiwede i tea u vha na:",
+      "length": "Maḽeḓere a ṱoḓaho u vha 8",
+      "uppercase": "Ḽeḓere ḽithihi ḽihulwane (A-Z)",
+      "number": "Nomboro nthihi (0-9)",
+      "symbol": "Tshiga tshithihi (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Mufhaṱi wa phothifoḽio",
+      "templates": "Thempleithi na Thero",
+      "settings": "Zwishumiswa",
+      "collapse": "Kha vha wa Sidebar",
+      "overview": "U ṱanganya",
+      "profileSettings": "Zwiṱirathedzhi zwa Phurofaili",
+      "customDomain": "Domeini yo khetheaho",
+      "feedback": "Vhiga"
+    },
+    "header": {
+      "viewLive": "Vhonani thwii",
+      "welcome": "Ṱanganedzwa,",
+      "logout": "U bva",
+      "builder": "Mufhaṱi",
+      "livePortfolio": "Phothifoḽio ya vhutshilo",
+      "live": "Tshila"
+    },
+    "logoutModal": {
+      "title": "U bva",
+      "message": "Ni na vhuṱanzi ha uri ni khou ṱoḓa u bva kha akhaunthu yaṋu? ",
+      "cancel": "Thutha",
+      "confirm": "Ee, bvani"
+    },
+    "slugModal": {
+      "title": "Khethani URL ya Photifoḽio yaṋu",
+      "message": "URL iyi i ḓo vha vhuṱumani ho khetheaho ha phothifoḽio yaṋu. ",
+      "slugPlaceholder": "dzina-ḽaṋu",
+      "availability": "U wanala:",
+      "available": "Wanalea",
+      "unavailable": "A zwi wanali",
+      "checking": "Ndi khou sedza...",
+      "mustFormat": "I nga vha na maḽeḓere fhedzi, nomboro, na dashi (-)",
+      "cancel": "Thutha",
+      "save": "Vhulunga URL",
+      "usernameUrl": "Dzina ḽa mushumisi URL",
+      "helpText": "Maḽeḓere maṱuku, nomboro, na zwiga. ",
+      "validation": {
+        "empty": "Slug a i koni u vha na tshithu.",
+        "min3": "Minimum wa zwiga zwiraru.",
+        "max30": "Vhunzhi ha maḽeḓere a 30.",
+        "format": "Maḽeḓere maṱuku fhedzi, nomboro, na zwiga (-). "
+      }
+    },
+    "loadingPortfolio": "Ri khou dzhia datha ya phothifoḽio...",
+    "overview": {
+      "greetings": {
+        "morning": "Ndi matsheloni",
+        "afternoon": "Ndi masiari",
+        "evening": "Ndi masiari",
+        "night": "Vhusiku havhudi"
+      },
+      "welcome": {
+        "hi": "Hurini,",
+        "creator": "Musiki",
+        "desc1": "Ni ṱanganedzwa kha dashibodo ya DevFolio. Photifoḽio yaṋu yo sedzwa nga",
+        "desc2": "muthu. Bvelani phanḓa ni tshi shuma!",
+        "editPortfolio": "Swaya phothifoḽio"
+      },
+      "stats": {
+        "totalVisitors": "Vhaeni vhoṱhe",
+        "projectViews": "Vho vhoniwa (Phurojeke)",
+        "activeSessions": "Sesheni i shumaho",
+        "totalLabel": "Zwoṱhe"
+      },
+      "setup": {
+        "title": "Mvelaphanḓa ya u dzudzanya",
+        "completed": "Phothifoḽio yaṋu yo fhelela! 🎉",
+        "inProgress": "Maga a u swika kha phothifoḽio yo fhelelaho.",
+        "profile": {
+          "title": "Phurofaili yo fhelelaho",
+          "desc": "Engedza dzina, bio na tshinepe tsha profile."
+        },
+        "section": {
+          "title": "Engedza Zwipiḓa",
+          "desc": "U shumisa tshipiḓa tshithihi kha phothifoḽio."
+        },
+        "project": {
+          "title": "Engedza phurojeke",
+          "desc": "Ṅwalani 1 ya phurojeke dzaṋu dza khwine."
+        },
+        "publish": {
+          "title": "Kha vha ganḓise phothifoḽio",
+          "desc": "Setha URL yo khetheaho u itela uri i kone u swikeleliwa nga tshitshavha."
+        }
+      },
+      "topProjects": {
+        "title": "Phurojeke dzi takalelwaho vhukuma",
+        "desc": "U shuma ha mushumo waṋu maṱoni a vhaeni.",
+        "viewAll": "Vhonani zwothe",
+        "empty": "A hu athu vha na data ya u vhona ya phurojeke yaṋu."
+      }
+    },
+    "themes": {
+      "title": "Thempleithi & Thero",
+      "subtitle": "Kha vha dzudzanye mbonalo na u ḓipfa ha phothifoḽio yavho ya tshitshavha.",
+      "reset": "Reset Zwo Ḓivhadzwaho",
+      "save": "Vhulunga Tshanduko",
+      "saving": "U vhulunga...",
+      "chooseTemplate": "Khethani Thempleithi",
+      "primaryColor": "Muvhala wa Phuraimari",
+      "typography": "Thaiphogirafi",
+      "appearance": "Mbonalo",
+      "corners": "Khona & Mikano",
+      "successTitle": "U bvelela",
+      "successMessage": "Zwine zwa takalelwa nga thero zwo khwiniswa nga nḓila yo bvelelaho",
+      "errorTitle": "Vhukhakhi",
+      "errorMessage": "Zwo kundelwa u vhulunga zwine na zwi takalela kha thero",
+      "templates": {
+        "minimalist": {
+          "name": "Vhuṱuku",
+          "desc": "Dizaini yo kunaho na yo leluwaho yo sedzaho kha zwi re ngomu."
+        },
+        "developerDark": {
+          "name": "Mubveledzi Swiswi",
+          "desc": "Thero ya swiswi yo teaho u sumbedza khoudu na zwiṱeki zwa thekinoḽodzhi."
+        },
+        "creative": {
+          "name": "Vhusiki",
+          "desc": "Layout i tshilaho na ya mivhalavhala ya vhaḓivhazwakale na vhasiki."
+        },
+        "executive": {
+          "name": "Mulanguli",
+          "desc": "Layout ya phurofeshinaḽa na ya fomala ya vhaphurofeshinala vha mabindu."
+        },
+        "bentoGrid": {
+          "name": "Giridi ya Bento",
+          "desc": "Nzudzanyo ya giridi ya tshitaila tsha Apple ya musalauno ine ya bvisela khagala zwikili zwo fhambanaho nga nḓila yavhuḓi."
+        },
+        "neoBrutalism": {
+          "name": "Vhutshinyi vhuswa",
+          "desc": "Mikano yo khwaṱhaho na mivhala ya nṱha ya u fhambana u itela u vhonala ha mvelele, hu sa ṱoḓi pfarelo."
+        },
+        "glassmorphism": {
+          "name": "Vhubvo ha ngilasi",
+          "desc": "Masiandoitwa a ngilasi yo fhisaho kha mivhalavhala ya UI ya musalauno yo ṱambaho."
+        },
+        "linkInBio": {
+          "name": "Link kha Bio",
+          "desc": "Mbekanyamushumo yo khwaṱhaho yo khwiniswaho ya zwikirini zwa luṱingothendeleki na nyanḓadzamafhungo ya matshilisano."
+        }
+      },
+      "appearances": {
+        "light": "Tshedza",
+        "dark": "Swiswi",
+        "system": "Sisiṱeme"
+      },
+      "cornersOptions": {
+        "sharp": "Vhuhali",
+        "rounded": "Zwo ṱangana",
+        "pill": "Philisi"
+      }
+    },
+    "feedback": {
+      "title": "Rumelani vhupfiwa",
+      "subtitle": "Ri thuseni u ita uri zwi vhe khwine nga u ṋea nyeletshedzo, u sasaladza, kana u vhiga vhukhakhi kha ino tshumiso.",
+      "categoryLabel": "Tshigwada tsha Vhupfiwa",
+      "messageLabel": "Zwidodombedzwa zwa Mulaedza",
+      "messagePlaceholder": "Ni mmbudze nga vhuḓalo nga ha vhupfiwa vhune na ṱoḓa u vhu fhirisela...",
+      "imageLabel": "Tshifanyiso tsho nambatedzwaho (Zwi sa ṱoḓei)",
+      "imagePlaceholder": "Kha vha puṱedze u dzhenisa tshifanyiso kana tshikirini",
+      "submitting": "U rumela...",
+      "submitBtn": "Rumelani vhupfiwa",
+      "categories": {
+        "suggestion": "Nyeletshedzo & Mihumbulo",
+        "bug": "Muvhigo wa Vhukhakhi / Vhukhakhi",
+        "criticism": "U sasaladzwa",
+        "other": "Vhaṅwe"
+      },
+      "imageErrorTitle": "Vhukhakhi",
+      "imageErrorMessage": "Dziṅwe faila dzi a hanedzwa ngauri a dzi tikedziwi zwivhumbeo zwa zwifanyiso (JPG, PNG, GIF, WEBP)",
+      "successTitle": "U bvelela",
+      "successMessage": "Ri livhuwa vhupfiwa havho! Muvhigo wo rumelwa.",
+      "submitErrorTitle": "Zwo kundelwa",
+      "submitErrorMessage": "Ho itea vhukhakhi musi hu tshi khou rumelwa vhupfiwa. Ndi khou humbela uri ni lingedze hafhu."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Nga ha Nṋe",
+      "skills": "Vhukoni",
+      "projects": "Phurojeke",
+      "workExperience": "Tshenzhemo ya Mushumo",
+      "orgExperience": "Tshenzhemo ya Dzangano",
+      "education": "Pfunzo",
+      "certifications": "Vhugudisi na Ṱhanziela",
+      "contact": "Kha vha nkwame"
+    },
+    "editor": {
+      "profileInfo": "Mafhungo a Phurofaili",
+      "saving": "U vhulunga...",
+      "profilePhoto": "Tshinepe tsha phurofaili",
+      "clickToUpload": "Kha vha puṱedze u itela u dzhenisa (JPG, PNG)",
+      "fullName": "Dzina ḽo fhelelaho",
+      "fullNamePlaceholder": "tsumbo ",
+      "bio": "Bio",
+      "bioPlaceholder": "Mubveledzi wa Fullstack a re na lutamo lwa u fhaṱa dzi-app dza web dza musalauno...",
+      "location": "Vhupo",
+      "locationPlaceholder": "tsumbo ",
+      "gender": "Mbeu",
+      "selectGender": "Khethani Mbeu",
+      "male": "Tshinnani",
+      "female": "Tshifumakadzini",
+      "custom": "Maitele",
+      "customPlaceholder": "Kha vha thayipe mbeu yavho...",
+      "uploadCv": "Kha vha dzhenise CV",
+      "cvFormat": "(DOC kana PDF)",
+      "preview": "Vhuṱoli",
+      "remove": "Bvisa",
+      "clickToUploadCv": "Kha vha puṱedze u dzhenisa PDF kana DOC",
+      "sections": "Zwipiḓa",
+      "removeSelected": "Bvisani zwo Khethwaho",
+      "confirmRemove": "Ṱhogomelani u bvisa",
+      "addSection": "Engedza Tshipiḓa",
+      "addAllSections": "Engedza Zwipida zwothe",
+      "noSections": "Ahuna zwipida",
+      "clickToAdd": "Kha vha puṱedze \"+ Engedza Tshipiḓa\" u itela u thoma",
+      "selectAll": "Khethani Zwoṱhe",
+      "selected": "Vho khethiwa",
+      "dragToReorder": "Hukudzani u itela u oda hafhu zwipiḓa",
+      "livePreview": "Vhuṱoli vhu tshilaho",
+      "addSectionsToBuild": "Engedzani zwipida zwa u fhata phothifoḽio yaṋu",
+      "now": "Zwino",
+      "current": "Zwino",
+      "noExpiry": "Ahuna u fhela ha tshifhinga",
+      "see": "Vhona",
+      "position": "Tshiimo",
+      "degree": "Digirii",
+      "certification": "Ṱhanziela",
+      "sectionsForm": {
+        "about": {
+          "label": "Ṱhalutshedzo ya inwi muṋe",
+          "placeholder": "Ri vhudzeni nga ha vhone vhaṋe, vhubvo havho, zwine vha zwi takalela na vhukoni havho..."
+        },
+        "skills": {
+          "addPlaceholder": "Ṅwalani tshikili ni kone u ṋaṋisa Enter..."
+        },
+        "projects": {
+          "title": "Dzina ḽa phurojeke",
+          "titlePlaceholder": "Dzina ḽa phurojeke...",
+          "url": "URL ya phurojeke",
+          "description": "Ṱhalutshedzo",
+          "descriptionPlaceholder": "Ṱhalutshedzo pfufhi ya phurojeke...",
+          "uploadThumbnail": "Tshifanyiso tsha phurojeke",
+          "addProject": "Engedza phurojeke",
+          "projectNum": "Thandela #",
+          "currentProject": "Heyi ndi project ine nda khou shuma khayo ."
+        },
+        "work": {
+          "company": "Khamphani/Zhendedzi",
+          "companyPlaceholder": "Dzina ḽa khamphani...",
+          "position": "Vhuimo/Dzina",
+          "positionPlaceholder": "Vhuimo havho...",
+          "employmentType": "Lushaka lwa mushumo",
+          "location": "Vhupo",
+          "locationPlaceholder": "Ḓorobo, Shango...",
+          "startDate": "Thoma",
+          "endDate": "Fhedza",
+          "currentWork": "Ndi kha di shuma nga hetshi tshifhinga .",
+          "description": "Ṱhalutshedzo",
+          "descriptionPlaceholder": "Ṱhalutshedzo ya mushumo na vhuḓifhinduleli...",
+          "skills": "Vhukoni",
+          "addExperience": "Engedza Tshenzhemo ya Mushumo",
+          "experienceNum": "Tshenzhemo #",
+          "dateError": "Datumu ya u fhedza i nga si vhe phanda ha duvha la u thoma ."
+        },
+        "org": {
+          "organization": "Dzina ḽa Dzangano",
+          "orgPlaceholder": "Yunivesithi ya BEM...",
+          "role": "Mushumo/Vhuimo",
+          "rolePlaceholder": "Ṱhoho ya Tshigwada...",
+          "addOrg": "Engedza Tshenzhemo ya Dzangano",
+          "orgNum": "Tshiimiswa #"
+        },
+        "edu": {
+          "institution": "Zwiimiswa zwa Pfunzo",
+          "institutionPlaceholder": "Dzina ḽa khamphasi kana tshikolo...",
+          "degree": "Ṱhoho",
+          "degreePlaceholder": "S1, tshikolo tsha nṱha, na zwiṅwe-vho...",
+          "major": "Muhasho/Tsimu ya Ngudo",
+          "majorPlaceholder": "Vhuinzhiniere ha Inthanethe...",
+          "gpa": "GPA (u sa ḓikhethela)",
+          "currentStudy": "Ndi kha di guda hafha .",
+          "descriptionPlaceholder": "Mishumo na zwine zwa swikelelwa nga tshifhinga tsha ngudo...",
+          "addEdu": "Engedza Pfunzo",
+          "eduNum": "Pfunzo #"
+        },
+        "cert": {
+          "name": "Dzina ḽa Ṱhanziela / Vhugudisi",
+          "namePlaceholder": "Dzina ḽa ṱhanziela...",
+          "issuer": "Muganḓisi",
+          "issuerPlaceholder": "Tshiimiswa tsha u gandisa...",
+          "issueDate": "Thoma (Ḓuvha ḽa u Ganḓisa)",
+          "issueDatePlaceholder": "Khethani duvha la u gandiswa...",
+          "expiryDate": "Zwo fhela (Tshifhinga tshi shumaho)",
+          "expiryDatePlaceholder": "Khethani duvha la u fhela ha tshifhinga...",
+          "noExpiry": "Ṱhanziela iyi a i na datumu ya u fhela ha tshifhinga .",
+          "url": "URL ya vhuṱanzi",
+          "uploadThumbnail": "Tshifanyiso tsha Ṱhanziela / Vhugudisi",
+          "uploadThumbnailLimit": "Kha vha dzhenise tshifanyiso tsha ṱhanziela (JPG/PNG/WEBP, vhunzhi ha 2MB)",
+          "addCert": "Engedza Ṱhanziela",
+          "certNum": "Ṱhanziela #"
+        },
+        "contact": {
+          "contactNum": "Khwamano #",
+          "platform": "Puḽatifomo",
+          "displayText": "Sumbedza Maṅwalo",
+          "displayTextPlaceholder": "tsumbo, inwi@imeiḽi.com kana @dzina ḽa mushumisi",
+          "url": "Vhuṱumani (URL)",
+          "urlPlaceholderWhatsapp": "tsumbo, 62812... (hu si na 0 i rangaho phanḓa)",
+          "urlPlaceholderEmail": "tsumbo, inwi@imeiḽi.com",
+          "urlPlaceholderWebsite": "tsumbo, https://...",
+          "urlPlaceholderDefault": "tsumbo, dzina ḽa mushumisi",
+          "addContact": "Engedza Vhukwamani"
+        },
+        "common": {
+          "months": {
+            "1": "Phando",
+            "2": "Luhuhi",
+            "3": "Luhwenyisi",
+            "4": "Lambamai",
+            "5": "Shundunthule",
+            "6": "Fulwi",
+            "7": "Fulwana",
+            "8": "Ṱhangule",
+            "9": "Khubvumedzi",
+            "10": "Tshimedzi",
+            "11": "Lara",
+            "12": "Nyendavhusiku"
+          },
+          "month": "Ṅwedzi",
+          "year": "Ṅwaha",
+          "invalidDate": "Ṅwedzi wa u Fhela u sa shumi",
+          "words": "maipfi"
+        }
+      },
+      "sure": "Zwo to ralo",
+      "deletePhotoTitle": "Phumula tshinepe tsha phurofaili?",
+      "deletePhotoMessage": "Ni na vhutanzi uri ni khou toda u phumula tshinepe itshi tsha phurofaili?",
+      "cancel": "Thutha",
+      "delete": "Thutha"
+    },
+    "cropper": {
+      "chooseBackground": "Khethani Mutheo",
+      "cropPhoto": "Kha vha fhungudze tshinepe tshavho",
+      "useOriginal": "Shumisani zwa vhukuma",
+      "backgroundPresets": "Preset dza murahu",
+      "none": "Ahuna na tshithihi",
+      "uploadBackground": "U dzhenisa vhubvo",
+      "cancel": "Thutha",
+      "savePhoto": "Vhulunga tshinepe",
+      "zoom": "Zoom",
+      "rotationTilt": "U rembuluwa na u sendela",
+      "resetRotation": "Setha hafhu kha 0°",
+      "center": "Vhukati",
+      "rotateLeft": "U rembulusa -90°",
+      "rotateRight": "U rembulusa +90°",
+      "removeBackground": "Bvisani vhubvo",
+      "processing": "Ri khou shuma tshifanyiso tshavho, kha vha lindele..."
+    },
+    "cvPreview": {
+      "title": "Ṱhoḓisiso ya CV",
+      "downloadCv": "Kha vha dawuniḽoude CV",
+      "download": "Sudzulusa",
+      "wordCannotPreview": "Maṅwalo a Word (.doc/.docx) a nga si kone u vhoniwa nga nḓila ya mvelele kha burauza. ",
+      "downloadFile": "Kha vha dawuniḽoude Faela ya CV",
+      "back": "Murahu",
+      "mobileMessage": "Kha vha download file ya CV vha i vhone.",
+      "preview": "CV ya u vhona",
+      "wordPreviewTitle": "Ṱhoḓisiso ya Dokhumennde ya Word",
+      "wordPreviewMessage": "Maṅwalo a Word (.doc/.docx) a nga si kone u vhoniwa nga nḓila ya mvelele kha burauza. Kha vha dawuniḽoude faila uri vha i vhone."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Ṅwalani ṱhaluso pfufhi nga ha inwi muṋe, zwine na zwi takalela, na zwipikwa zwa mushumo..."
+    },
+    "skills": {
+      "placeholder": "Dzina ḽa tshikili...",
+      "add": "Engedza",
+      "enterToAdd": "Kha vha ṋaṋise Enter u engedza",
+      "noSkills": "Ahuna zwikili zwo engedzwaho."
+    },
+    "projects": {
+      "projectName": "Dzina ḽa phurojeke",
+      "projectNamePlaceholder": "tsumbo ",
+      "projectUrl": "URL ya phurojeke",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Tshifhinga",
+      "startMonth": "Ṅwedzi wa u Thoma",
+      "startYear": "Ṅwaha wa u Thoma",
+      "endMonth": "Ṅwedzi wa Mafhelo",
+      "endYear": "Mafhelo a nwaha",
+      "currentlyWorking": "Zwazwino ri khou shuma kha hezwi .",
+      "description": "Ṱhalutshedzo",
+      "descriptionPlaceholder": "Kha vha talutshedze phurojeke, mushumo wavho, na zwine vha zwi swikelela...",
+      "technologies": "Thekinolodzhi dzo Shumiswaho",
+      "addProject": "Engedza phurojeke",
+      "image": "Tshifanyiso tsha phurojeke",
+      "removeImage": "Kha vha bvise tshifanyiso",
+      "uploadImage": "Kha vha puṱedze u dzhenisa tshifanyiso"
+    },
+    "work": {
+      "company": "Khamphani/Tshiimiswa",
+      "companyPlaceholder": "Dzina ḽa khamphani...",
+      "role": "Mushumo/Vhuimo",
+      "rolePlaceholder": "Vhuimo havho...",
+      "jobType": "Lushaka lwa mushumo",
+      "selectJobType": "Khethani lushaka",
+      "fullTime": "Tshifhinga tshothe",
+      "partTime": "Tshifhinganyana",
+      "contract": "Konṱhiraka",
+      "internship": "Mushumogudwa",
+      "freelance": "Muḓishumeli",
+      "location": "Vhupo",
+      "locationPlaceholder": "tsumbo ",
+      "duration": "Tshifhinga",
+      "currentlyWorking": "Zwazwino ndi khou shuma henefha .",
+      "description": "Ṱhalutshedzo ya Mushumo",
+      "descriptionPlaceholder": "Kha vha talutshedze vhudifhinduleli havho ha ndeme na zwine vha zwi swikelela...",
+      "skills": "Zwikili zwo khetheaho",
+      "addExperience": "Engedza Tshenzhemo"
+    },
+    "org": {
+      "organization": "Dzina ḽa Dzangano",
+      "organizationPlaceholder": "Dzina ḽa dzangano...",
+      "role": "Mushumo/Vhuimo",
+      "rolePlaceholder": "tsumbo ",
+      "duration": "Tshifhinga",
+      "periodFormat": "kana Fomathi ya Mahala (tsumbo, 2020 - 2022)",
+      "periodPlaceholder": "tsumbo ",
+      "currentlyActive": "Zwa zwino i khou shuma",
+      "description": "Ṱhalutshedzo ya Mushumo",
+      "descriptionPlaceholder": "Kha vha talutshedze mishumo yavho kana miṋeelo yavho...",
+      "addExperience": "Engedza Tshenzhemo"
+    },
+    "education": {
+      "institution": "Dzina la tshiimiswa",
+      "institutionPlaceholder": "Dzina ḽa tshikolo kana ḽa yunivesithi...",
+      "degree": "Digirii/Vhuimo",
+      "degreePlaceholder": "tsumbo ",
+      "major": "Khulwane/Tsimu ya Pfunzo",
+      "majorPlaceholder": "tsumbo ",
+      "gpa": "GPA / Gireidi",
+      "gpaPlaceholder": "tsumbo ",
+      "duration": "Tshifhinga tsha Pfunzo",
+      "periodFormat": "kana Fomathi ya Mahala (tsumbo, 2018 - 2022)",
+      "periodPlaceholder": "tsumbo ",
+      "currentlyStudying": "Zwazwino ndi khou guda hafha .",
+      "description": "Mishumo / Ṱhonifho",
+      "descriptionPlaceholder": "Ṱalusani mishumo ya zwa pfunzo, madzangano, kana ṱhonifho dzo ṱanganedzwaho...",
+      "addEducation": "Engedza Pfunzo"
+    },
+    "cert": {
+      "name": "Dzina ḽa ṱhanziela",
+      "namePlaceholder": "tsumbo ",
+      "issuer": "Dzangano ḽine ḽa khou bvisa",
+      "issuerPlaceholder": "tsumbo ",
+      "issueDate": "Datumu ya u bvisa",
+      "expiryDate": "I shuma u swika",
+      "noExpiry": "Vhuṱanzi uhu a vhu fheli",
+      "yearPlaceholder": "kana Ṅwaha (tsumbo, 2023)",
+      "credentialUrl": "URL ya vhuṱanzi",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Zwikili zwi elanaho",
+      "addCertification": "Engedza Ṱhanziela",
+      "image": "Tshifanyiso/Logo",
+      "removeImage": "Kha vha bvise tshifanyiso",
+      "uploadImage": "Kha vha puṱedze u dzhenisa tshifanyiso"
+    },
+    "common": {
+      "months": {
+        "1": "Phando",
+        "2": "Luhuhi",
+        "3": "Luhwenyisi",
+        "4": "Lambamai",
+        "5": "Shundunthule",
+        "6": "Fulwi",
+        "7": "Fulwana",
+        "8": "Ṱhangule",
+        "9": "Khubvumedzi",
+        "10": "Tshimedzi",
+        "11": "Lara",
+        "12": "Nyendavhusiku"
+      },
+      "month": "Ṅwedzi",
+      "year": "Ṅwaha",
+      "invalidDate": "Ṅwedzi wa u Fhela u sa shumi",
+      "words": "maipfi"
+    }
+  },
+  "settings": {
+    "title": "Zwishumiswa",
+    "subtitle": "Langula phrofaili ya phothifoḽio yaṋu na zwine na zwi takalela",
+    "tabs": {
+      "profile": "Phurofaili yanga",
+      "security": "Tsireledzo",
+      "personalization": "U ḓiitela"
+    },
+    "profile": {
+      "infoTitle": "Mafhungo a Mutheo",
+      "photo": "Tshinepe tsha phurofaili",
+      "uploadPhoto": "Shandukisani tshinepe",
+      "fullName": "Dzina ḽo fhelelaho",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Ḓiresi ya Imeiḽi",
+      "emailPlaceholder": "john@tsumbo.com",
+      "emailHelp": "Email i shumiswa kha u dzhena nahone a i sumbedziwi khagala.",
+      "portfolioUrl": "URL ya phothifoḽio",
+      "saveProfile": "Vhulunga Phurofaili",
+      "save": "Vhulunga Phurofaili",
+      "accountCreated": "Akhaunthu yo sikiwa",
+      "lastLogin": "Login ya u fhedzisela",
+      "oauthNotice": "Phurofaili iyi yo ṱumana na akhaunthu yaṋu ya {{muṋetshedzi}}. Tshanduko dza phrofaili dzi tea u itwa nga kha muṋetshedzi wa tshumelo."
+    },
+    "security": {
+      "changePassword": "Shandukisani phasiwedi",
+      "currentPassword": "Phasiwedi ya zwino",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Phasiwedi ntswa",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Kha vha khwaṱhisedze phasiwedi ntswa",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "Maḽeḓere a ṱoḓaho u vha 8",
+        "uppercase": "Ḽeḓere ḽithihi ḽihulwane (A-Z)",
+        "number": "Nomboro nthihi (0-9)",
+        "symbol": "Tshiga tshithihi (!@#$%^&*)"
+      },
+      "passwordTitle": "Phasiwede",
+      "updatePassword": "Kha vha vusuludze phasiwede",
+      "additionalSecurity": "Tsireledzo yo Engedzeaho",
+      "twoFactor": "Vhuṱanzi ha Zwithu Zwivhili (2FA)",
+      "twoFactorDesc": "Tsireledzani akhaunthu yaṋu ni tshi shumisa khoudu ya OTP yo engedzwaho.",
+      "activeSessions": "Sesheni dzi shumaho",
+      "activeSessionsDesc": "Tshifhinga tshoṱhe tendelani u monithara ha zwishumiswa zwo dzhenaho.",
+      "publicVisibility": "U vhonala kha tshitshavha",
+      "hideFromSearch": "Dzumbani phothifoḽio u bva kha dzinzhini dza u ṱoḓa",
+      "hideFromSearchDesc": "Thivhelani Google u index siaṱari ḽaṋu ḽa phothifoḽio ya tshitshavha.",
+      "disable2fa": {
+        "title": "Dzima 2FA",
+        "description": "Naa ni na vhungoho ha uri ni khou ṱoḓa u dzima khwaṱhisedzo ya zwithu zwivhili?",
+        "confirmPasswordLabel": "Kha vha ṅwale password yavho u itela u khwaṱhisedza",
+        "currentPasswordPlaceholder": "Phasiwedi ya zwino",
+        "cancelButton": "Khansela",
+        "confirmButton": "Dzima 2FA",
+        "incorrectPassword": "Phasiwede yo khakheaho."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skenani Khoudu ya QR",
+        "step1Desc": "Kha vha vule app yavho ya u khwaṱhisedza vha skene khoudu ya QR i tevhelaho:",
+        "unableToScan": "A vha koni u scan? Shumisani khii ya u dzudzanya",
+        "step2Title": "2. Kha vha khwaṱhisedze Khoudu",
+        "step2Desc": "Kha vha dzhene kha khoudu ya 6-digit yo bveledzwaho nga app yavho:",
+        "cancelButton": "Thutha",
+        "enableButton": "Khonisa 2FA",
+        "invalidLength": "Kha vha ṅwale khoudu ya 6-digit.",
+        "invalidCode": "Khoudu ya khwaṱhisedzo i sa shumi. Ndi khou humbela uri ni lingedze hafhu."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Ndangulo ya Luambo",
+      "appLanguage": "Luambo lwa App",
+      "layoutTitle": "Nzudzanyo na Thaiphogirafi",
+      "layoutStyle": "Tshitaila tsha nzudzanyo",
+      "layoutModern": "Tshitaila tsha musalauno (Tshivhumbeo)",
+      "layoutClassic": "Tshitaila tsha kale",
+      "layoutMinimalist": "Tshitaila tsha vhuṱuku",
+      "fontSize": "Saizi ya Fonte ya App",
+      "fontSmall": "Zwiṱuku",
+      "fontNormal": "Zwo ḓoweleaho (Vhukati)",
+      "fontLarge": "Khulu",
+      "searchLanguage": "Luambo lwa u setsha...",
+      "languageNotFound": "Luambo a lu wanali",
+      "layoutElegant": "Tshitaila tsha Vhudele"
+    },
+    "saveChanges": "Vhulunga tshanduko",
+    "cancel": "Thutha",
+    "appSettings": "Zwiṱirathedzhi zwa App",
+    "logoutConfirmTitle": "Kha vha khwaṱhisedze u bva",
+    "logoutConfirmDesc": "Ni na vhutanzi uri ni khou toda u bva kha system?",
+    "logoutConfirmYes": "Ee, bvani",
+    "generalError": "Ho itea vhukhakhi. ",
+    "success": "Bvelela",
+    "preferencesSaved": "Zwine na zwi takalela kha app zwo vhulungwa zwavhuḓi.",
+    "header": "Zwiṱirathedzhi zwa khumbelo",
+    "logout": {
+      "title": "Ṱhanziela ya u bva",
+      "message": "Ni na vhutanzi uri ni khou toda u bva kha system?",
+      "confirm": "Ee, bvani"
+    },
+    "about": {
+      "title": "Nga ha Khumbelo",
+      "subtitle": "Puḽatifomo ya Mufhaṱi wa Phothifoḽio",
+      "version": "Sia",
+      "description": "DevFolio ndi pulatifomo ya mufhaṱi wa phothifoḽio ya musalauno yo itelwaho vhabveledzi, vhadizaini, na vhasiki vha phurofeshinala. ",
+      "license": "Laisentsi & Pfanelo dza u ṅwala",
+      "copyright": "© 2026 DevFolio Inc. Pfanelo dzoṱhe dzo vhulungea.",
+      "developer": "Mubveledzi",
+      "developedBy": "Vho bveledzwa nga Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "U phumula akhaunthu lwa tshoṱhe",
+      "menuItem": "Phumula akhaunthu",
+      "successTitle": "U bvelela",
+      "successMessage": "Imeili ya u khwaṱhisedza u phumulwa ha akhaunthu yo rumelwa.",
+      "errorTitle": "Zwo kundelwa",
+      "errorMessage": "Vho kundelwa u rumela imeiḽi ya u khwaṱhisedza.",
+      "confirmationMessage": "Ni na vhuṱanzi ha uri ni khou ṱoḓa u phumula akhaunthu yaṋu lwa tshoṱhe?",
+      "warningMessage1": "U ḓo wana email ya u khwaṱhisedza u phumulwa ha akhaunthu.",
+      "warningMessage2": "Arali zwa khwaṱhisedzwa, datha yoṱhe (phothifoḽio, phurojeke, zwitatamennde) i ḓo phumulwa lwa tshoṱhe nahone a i nga ḓo vhuyedzedzwa.",
+      "cancel": "Khansela",
+      "confirm": "U khwaṱhisedzwa"
+    },
+    "toasts": {
+      "toastError": "Phoswo",
+      "toastSuccess": "Bvelela",
+      "toastSetup2FAFailed": "U kundelwa u setha 2FA. Ndi khou humbela uri ni lingedze hafhu.",
+      "toast2FAEnabled": "U khwaṱhisedzwa ha zwithu zwivhili zwo tendelwa.",
+      "toast2FADisabled": "U khwaṱhisedzwa ha zwithu zwivhili zwo thivhelwa.",
+      "toastSessionEnabled": "U monithara ha sesheni hu shumaho ho tendelwa.",
+      "toastSessionDisabled": "U monithara ha sesheni hu shumaho ho thivhelwa.",
+      "toastSetupKeyCopied": "Setup key yo kopiwa kha bodo ya u ṅwala."
+    },
+    "privacy": {
+      "title": "Mbekanyamaitele ya zwa vhuṋe",
+      "updateDate": "U fhedzisela u khwiniswa: Ḽa 15 Fulwi, 2026",
+      "intro": "Mbekanyamaitele iyi ya Vhuṋe i ṱalutshedza nḓila ine DevFolio ya kuvhanganya, u shumisa, na u tsireledza ngayo mafhungo aṋu a vhuṋe musi ni tshi shumisa tshumelo dzashu.",
+      "section1Title": "1. Mafhungo ane ra a kuvhanganya",
+      "section1Content": "Ri kuvhanganya mafhungo ane na a ṋea thwii musi ni tshi sika akhaunthu, u fhaṱa phothifoḽio, na u kwamana na thikhedzo yashu. ",
+      "section2Title": "2. U Shumisa Mafhungo .",
+      "section2Content": "Mafhungo aṋu a shumiswa u itela u shumisa, u ṱhogomela, na u ṋea zwishumiswa zwa tshumelo dzashu, khathihi na u davhidzana na inwi malugana na akhaunthu yaṋu kana tshumelo dzaṋu.",
+      "section3Title": "3. Tsireledzo ya Datha",
+      "section3Content": "Ri shumisa maga a tsireledzo a pfalaho u itela u tsireledza mafhungo aṋu kha u swikelela hu songo tendelwaho, u bvisela khagala, kana u fheliswa."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token ya u khwaṱhisedza a yo ngo wanala.",
+    "defaultError": "Zwo kundelwa u phumula akhaunthu. Token i nga vha yo fhelelwa nga tshifhinga.",
+    "loadingTitle": "U phumula akhaunthu...",
+    "loadingMessage": "Kha vha lindele, ri khou shuma khumbelo yavho.",
+    "successTitle": "Account yo phumulwa nga nḓila yo bvelelaho",
+    "successMessage": "Data yavho yothe yo phumulwa lwa tshothe. U do livhiswa...",
+    "errorTitle": "U kundelwa u phumula akhaunthu",
+    "backToHome": "U vhuyelela hayani"
+  },
+  "forgotPassword": {
+    "minutes": "miniti",
+    "seconds": "mithethe",
+    "success": "U bvelela",
+    "otpSentToEmail": "Khoudu ya OTP yo rumelwa kha email yavho.",
+    "failed": "Zwo kundelwa",
+    "emailNotFound": "Email a i wanali.",
+    "emailThirdParty": "Email iyi yo nwaliswa nga muthu wa vhuraru.",
+    "genericError": "Hu na vhukhakhi. Ndi khou humbela uri ni lingedze hafhu.",
+    "otpVerified": "Khoudu ya OTP yo khwaṱhisedzwa nga nḓila yo bvelelaho.",
+    "otpExpired": "Khoudu ya OTP yo fhela tshifhinga. Kha vha humbele khoudu ntswa.",
+    "otpInvalid": "Khoudu ya OTP a i shumi.",
+    "otpResent": "Khoudu ntswa ya OTP yo rumelwa kha email yavho.",
+    "otpResendFailed": "U kundelwa u rumela hafhu khoudu ya OTP. Ndi khou humbela uri ni lingedze hafhu.",
+    "passwordResetSuccess": "Password yo bvelela kha u vusuludzwa. Kha vha dzhene nga password yavho ntswa.",
+    "passwordResetFailed": "Zwo kundelwa u vusuludza phasiwede.",
+    "backToLogin": "Vhuyelela kha u dzhena",
+    "back": "Muvhuya",
+    "title": "Ndo hangwa phasiwedi",
+    "description": "Ṅwalani ḓiresi ya imeiḽi yo ṅwaliswaho kha akhaunthu yaṋu. Ri do rumela khoudu ya OTP u itela u vusuludza password.",
+    "emailLabel": "Ḓiresi ya Imeili",
+    "sending": "U rumela...",
+    "sendOtp": "Rumelani Khoudu ya OTP",
+    "verifyOtpTitle": "U khwaṱhisedza Khoudu ya OTP",
+    "verifyOtpDesc": "Kha vha ṅwale khoudu ya 6 digit ye ​​ya rumelwa kha email yavho u itela u khwaṱhisedza vhuṋe havho.",
+    "verifying": "U khwaṱhisedza...",
+    "verifyOtp": "U khwaṱhisedza OTP",
+    "resending": "U rumela hafhu...",
+    "resendOtp": "U rumela hafhu Khoudu ya OTP",
+    "resendCodeIn": "Rumelani hafhu khoudu kha",
+    "newPasswordTitle": "U sika Phasiwedi Ntswa",
+    "newPasswordDesc": "Kha vha ite password ntswa, yo khwaṱhaho u itela u tsireledza akhaunthu yavho.",
+    "newPasswordLabel": "Phasiwedi ntswa",
+    "min8Chars": "Minimum wa zwiga zwa 8",
+    "oneUpperCase": "1 ḽeḓere ḽihulwane (A-Z)",
+    "oneNumber": "1 nomboro (0-9)",
+    "oneSymbol": "1 tshiga (!@#$%^&*)",
+    "confirmPasswordLabel": "Ṱhogomelani Phasiwedi",
+    "passwordsDoNotMatch": "Dzi password a dzi fani.",
+    "resettingPassword": "U vusuludza Phasiwedi...",
+    "resetPassword": "Setha hafhu Phasiwedi"
+  },
+  "verifyEmail": {
+    "resendError": "Zwo kundelwa u rumela hafhu imeiḽi ya u khwaṱhisedza. Ndi khou humbela uri ni lingedze hafhu.",
+    "checkingStatus": "U sedza tshiimo tsha u khwaṱhisedza...",
+    "title": "Kha vha sedze Email Yavho",
+    "description": "Ro rumela email ya u khwathisedza kha email address yavho. Kha vha vule imeiḽi vha puṱedze gunubu ya <1>\"Ṱhogomelani akhaunthu\"</1> u itela uri akhaunthu yavho i shume.",
+    "stepsTitle": "Maga",
+    "step1": "Vula tshumiso ya imeiḽi yaṋu (Gmail, Yahoo, na zwiṅwe-vho)",
+    "step2": "Kha vha sedze email i bvaho kha DevFolio ine ya vha na thero \"U Thoma ha Akhaunthu\"",
+    "step3": "Kha vha dzhene kha \"Kha vha khwaṱhisedze akhaunthu\" kha email",
+    "step4": "U do livhiswa kha siatari la u dzhena uri a dzhene",
+    "resendSuccess": "Imeili ya u khwaṱhisedza yo rumelwa hafhu!",
+    "resending": "U rumela hafhu...",
+    "resendButton": "Rumelani hafhu Email ya u khwaṱhisedza",
+    "backToLogin": "Vhuyelela kha Siaṱari ḽa u Dzhena",
+    "footerNote": "A vha athu wana email? Sedzani foldara ya <1>Spam</1> kana <2>Zunk</2> kha imeiḽi yaṋu. Link ya u khwaṱhisedza i shuma lwa <3>awara dza 24</3>."
+  }
+}

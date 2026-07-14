@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Features",
+    "templates": "Templates",
+    "pricing": "Pricing",
+    "login": "Login",
+    "getStarted": "Adepto Coepi",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ultima portfolio aedificatoris pro developers",
+    "title1": "Aedificare professionalem",
+    "title2": "portfolio in",
+    "titleHighlight": "secundis.",
+    "subtitle": "Omnia quae debes ostendere artes, incepta, et experientiam tuam. ",
+    "startBuilding": "Satus Aedificium Nunc",
+    "viewTemplates": "View Templates",
+    "fastDeployment": "Fast instruere",
+    "liveStatus": "username.dev is live!",
+    "featuresTitle": "Potens Features",
+    "featuresSubtitle": "Praebemus omnia instrumenta, quae ex turba eminere debes, et officium tuum somnium in terra.",
+    "feature1Title": "Drag & Iacta conditor",
+    "feature1Desc": "Facilius tuas sectiones, incepta et artes compone cum editore visuali intuitivo nostro.",
+    "feature2Title": "Custom Themes",
+    "feature2Desc": "Eligite ex professionali constituto templates vel unicum tuum aspectum crea.",
+    "feature3Title": "Real-time Analytics",
+    "feature3Desc": "Visitatores tuos indagare, vide quae incepta maxime attentionem obtineant, et plura."
+  },
+  "auth": {
+    "welcomeBack": "Receperint Back",
+    "loginToContinue": "Log ad rationem vestram pergere",
+    "createAccount": "Create Account",
+    "joinCommunity": "Iungere milia alia developers",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Inscriptio electronica",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "memento mei",
+    "forgotPassword": "Oblitusne es tesserae?",
+    "signIn": "Signum in",
+    "signingIn": "Signing In...",
+    "signUp": "Sign up",
+    "signingUp": "Signandi...",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Habesne iam rationem?",
+    "passwordRules": {
+      "title": "Password debet continere:",
+      "length": "Saltem VIII characteribus",
+      "uppercase": "Unum lowercase litteras (A-Z)",
+      "number": "Numerus unus (0-9)",
+      "symbol": "Unum symbolum (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio conditor",
+      "templates": "Templates & Themes",
+      "settings": "Occasus",
+      "collapse": "Collapse Sidebar",
+      "overview": "Overview",
+      "profileSettings": "Profile Occasus",
+      "customDomain": "Custom Domain",
+      "feedback": "Commentarium"
+    },
+    "header": {
+      "viewLive": "Visum vive",
+      "welcome": "salve,",
+      "logout": "Logout",
+      "builder": "conditor",
+      "livePortfolio": "Vivamus Portfolio",
+      "live": "Vivamus"
+    },
+    "logoutModal": {
+      "title": "Logout",
+      "message": "Certusne esne de tuo ratione logari vis? ",
+      "cancel": "Cancel",
+      "confirm": "Ita Logout"
+    },
+    "slugModal": {
+      "title": "Client URL tuum elige",
+      "message": "Hoc domicilium una cum librario tuo nexus erit. ",
+      "slugPlaceholder": "tuum-nomen",
+      "availability": "Availability:",
+      "available": "Praesto",
+      "unavailable": "Unavailable",
+      "checking": "Reperiens...",
+      "mustFormat": "Tantum continere possunt epistolas, numeros, inlidit (-)",
+      "cancel": "Cancel",
+      "save": "Salvum URL",
+      "usernameUrl": "Username URL",
+      "helpText": "Lowercase epistolas, numeros, inliditque. ",
+      "validation": {
+        "empty": "Limax vacare non potest.",
+        "min3": "Minimum III ingenia.",
+        "max30": "Maximum XXX ingenia.",
+        "format": "Tantum litterae minusculae, numeri, inlidit (-). "
+      }
+    },
+    "loadingPortfolio": "Loading portfolio data...",
+    "overview": {
+      "greetings": {
+        "morning": "Salve",
+        "afternoon": "bonum meridiem",
+        "evening": "bonum meridiem",
+        "night": "Bonum noctis"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Creator",
+        "desc1": "Welcome to the DevFolio ashboardday. Your portfolio has been view by",
+        "desc2": "hominem. Opus serva!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Totalis Visitatores",
+        "projectViews": "Viewed (Project)",
+        "activeSessions": "Active Sessio",
+        "totalLabel": "Totalis"
+      },
+      "setup": {
+        "title": "Setup Progressio",
+        "completed": "Your portfolio is complete! 🎉",
+        "inProgress": "Ad perfectum librarium.",
+        "profile": {
+          "title": "Complete Profile",
+          "desc": "Nomen addere, photo bio et profile."
+        },
+        "section": {
+          "title": "Add sectiones",
+          "desc": "Activare saltem 1 sectionem in portfolio."
+        },
+        "project": {
+          "title": "Add Project",
+          "desc": "Intra saltem I tui optimi inceptis."
+        },
+        "publish": {
+          "title": "Publica Portfolio",
+          "desc": "Morem URL pone ut per publicum accedere possit."
+        }
+      },
+      "topProjects": {
+        "title": "Most Popular Projects",
+        "desc": "Executio operis tui in oculis salutantium.",
+        "viewAll": "Vide All",
+        "empty": "Nulla sententia notitia pro incepto tuo adhuc est."
+      }
+    },
+    "themes": {
+      "title": "Templates & Themes",
+      "subtitle": "Mos vultus et senties portfolio publici tui.",
+      "reset": "Reset Default",
+      "save": "Servare Mutationes",
+      "saving": "Salvis...",
+      "chooseTemplate": "Formula elige",
+      "primaryColor": "Primae Coloris",
+      "typography": "Typographia",
+      "appearance": "Aspectus",
+      "corners": "Anguli & Borders",
+      "successTitle": "Success",
+      "successMessage": "Theme optiones updated feliciter",
+      "errorTitle": "Error",
+      "errorMessage": "Non nisi propositum optiones",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Munda et simplex intentio contenta est positus."
+        },
+        "developerDark": {
+          "name": "Elit Dark",
+          "desc": "Dark theme perfect for showcasing code and tech acervos."
+        },
+        "creative": {
+          "name": "Creative",
+          "desc": "Vibranti et varia layout pro gravida et creatrix."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Professiones et formales layout pro negotiis elit."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Lacus style eget at arcu ut varius volutpat efficienter."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalismus",
+          "desc": "Audax fines et altum contra colores pro trendy, unapologetic aspectum."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphismus",
+          "desc": "Effectus vitrei concretus in gradientibus coloratis pro modernis nitidis UI."
+        },
+        "linkInBio": {
+          "name": "Link in Bio",
+          "desc": "Foedus verticalis layout optimized pro telis mobilibus et instrumentis socialibus."
+        }
+      },
+      "appearances": {
+        "light": "lux",
+        "dark": "Dark",
+        "system": "Systema"
+      },
+      "cornersOptions": {
+        "sharp": "sharp",
+        "rounded": "rotundus",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Feedback",
+      "subtitle": "Adiuva nos ut melius praebendo suggestiones, reprehensiones vel cimices in hac applicatione referentes.",
+      "categoryLabel": "Numerus videre",
+      "messageLabel": "Ordo Details",
+      "messagePlaceholder": "Indica mihi singillatim de feedback quod voles deferre...",
+      "imageLabel": "Imago adscriptione (Libitum)",
+      "imagePlaceholder": "Click to upload an image or screenshot",
+      "submitting": "Mitte...",
+      "submitBtn": "Feedback",
+      "categories": {
+        "suggestion": "Consilia & Ideas",
+        "bug": "Bug / Error Renuntiationes",
+        "criticism": "Criticism",
+        "other": "Other"
+      },
+      "imageErrorTitle": "Error",
+      "imageErrorMessage": "Aliquae imaginum reiciuntur quia formarum imaginum non praebentur (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Success",
+      "successMessage": "Gratias tibi pro feedback! Fama missum est.",
+      "submitErrorTitle": "Fail",
+      "submitErrorMessage": "Error feedback mittens occurrit. Quaeso, iterum conare."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "De Me",
+      "skills": "Solers",
+      "projects": "Projects",
+      "workExperience": "Opus Usus",
+      "orgExperience": "Organizational Usus",
+      "education": "Education",
+      "certifications": "Training & Certificaciones",
+      "contact": "Contact Me"
+    },
+    "editor": {
+      "profileInfo": "Profile Information",
+      "saving": "Salvis...",
+      "profilePhoto": "Profile Photo",
+      "clickToUpload": "Click to upload (JPG, PNG)",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Developer Fullstack cum fervore ad recentes telas apps aedificandi...",
+      "location": "Locus",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Gender",
+      "selectGender": "Lego Gender",
+      "male": "Male",
+      "female": "Femina",
+      "custom": "Consuetudinem",
+      "customPlaceholder": "Typus tua consuetudo genus...",
+      "uploadCv": "Index CV",
+      "cvFormat": "(DOC vel PDF)",
+      "preview": "Praevius",
+      "remove": "Aufer",
+      "clickToUploadCv": "Click to upload PDF or DOC",
+      "sections": "Sectiones",
+      "removeSelected": "Remove Selectae",
+      "confirmRemove": "Confírma Aufer",
+      "addSection": "Add sectionem",
+      "addAllSections": "Addere omnes Sectiones",
+      "noSections": "No sectiones adhuc",
+      "clickToAdd": "Click \"+ Add Section\" ut incipiat",
+      "selectAll": "Lego All",
+      "selected": "electus",
+      "dragToReorder": "Trahunt ad sectiones reorder",
+      "livePreview": "Vivamus Praevius",
+      "addSectionsToBuild": "Add sectiones facere tuam portfolio",
+      "now": "Nunc",
+      "current": "Current",
+      "noExpiry": "Nulla Expiration",
+      "see": "Vide",
+      "position": "Position",
+      "degree": "Gradus",
+      "certification": "Certification",
+      "sectionsForm": {
+        "about": {
+          "label": "Descriptio te ipsum",
+          "placeholder": "Dic nobis de te ipso, tuo curriculo, studiis et artibus..."
+        },
+        "skills": {
+          "addPlaceholder": "Typus arte deinde premunt Intra..."
+        },
+        "projects": {
+          "title": "Nomen Project",
+          "titlePlaceholder": "Project nomen...",
+          "url": "Project URL",
+          "description": "Descriptio",
+          "descriptionPlaceholder": "Brevis descriptio propositi...",
+          "uploadThumbnail": "Project Image",
+          "addProject": "Add Project",
+          "projectNum": "Project #",
+          "currentProject": "Hoc est consilium laboro in"
+        },
+        "work": {
+          "company": "Company / Agency",
+          "companyPlaceholder": "Societas nomen...",
+          "position": "Situ / Title",
+          "positionPlaceholder": "Tuae positionis...",
+          "employmentType": "Genus operis",
+          "location": "Locus",
+          "locationPlaceholder": "Urbs, patria...",
+          "startDate": "Satus",
+          "endDate": "perfectus",
+          "currentWork": "Im 'etiam opus in tempore",
+          "description": "Descriptio",
+          "descriptionPlaceholder": "Iob descriptio et officia...",
+          "skills": "Skill",
+          "addExperience": "Opus addere Usus",
+          "experienceNum": "Usus #",
+          "dateError": "Finis date non ante quam initium date"
+        },
+        "org": {
+          "organization": "Organization Name",
+          "orgPlaceholder": "BEM University...",
+          "role": "Munus / Position",
+          "rolePlaceholder": "Divisio capitis...",
+          "addOrg": "Addere Organizational Usus",
+          "orgNum": "Organization #"
+        },
+        "edu": {
+          "institution": "Institutiones institutiones",
+          "institutionPlaceholder": "Nomen campus vel schola ...",
+          "degree": "Titulus",
+          "degreePlaceholder": "S1, altus schola, etc.",
+          "major": "Department / campus",
+          "majorPlaceholder": "Informmatics Engineering...",
+          "gpa": "GPA (libitum)",
+          "currentStudy": "Im 'etiam hic discunt",
+          "descriptionPlaceholder": "Actus et res gestae in studio ...",
+          "addEdu": "Add Education",
+          "eduNum": "Education #"
+        },
+        "cert": {
+          "name": "Nomen Certification / Training",
+          "namePlaceholder": "Certification nomen...",
+          "issuer": "Publisher",
+          "issuerPlaceholder": "Institutiones publicationes...",
+          "issueDate": "Initium (Publish Date)",
+          "issueDatePlaceholder": "Select publication date...",
+          "expiryDate": "Complebitur (Fortis period)",
+          "expiryDatePlaceholder": "Lego expirata...",
+          "noExpiry": "Hoc libellum non habet expirata",
+          "url": "URL Cre",
+          "uploadThumbnail": "Testimonium / Training Image",
+          "uploadThumbnailLimit": "Upload certificatorium imago (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Add Certification",
+          "certNum": "Certification #"
+        },
+        "contact": {
+          "contactNum": "Contact #",
+          "platform": "Platform",
+          "displayText": "Proponere Text",
+          "displayTextPlaceholder": "exempli causa, you@email.com or @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (sine ducens 0)",
+          "urlPlaceholderEmail": "exempli causa, you@email.com",
+          "urlPlaceholderWebsite": "e.g., https://...",
+          "urlPlaceholderDefault": "e.g., nomen usoris",
+          "addContact": "Contactum addere"
+        },
+        "common": {
+          "months": {
+            "1": "ianuarii",
+            "2": "Februarii",
+            "3": "Martii",
+            "4": "Aprilis",
+            "5": "May",
+            "6": "mensis Iunii",
+            "7": "Iulii",
+            "8": "Aug",
+            "9": "Septembris",
+            "10": "Octobris",
+            "11": "Novembris",
+            "12": "Decembris"
+          },
+          "month": "Mensis",
+          "year": "Annus",
+          "invalidDate": "Aliquam finem mense",
+          "words": "verba"
+        }
+      },
+      "sure": "Certus",
+      "deletePhotoTitle": "Delere Profile Photo?",
+      "deletePhotoMessage": "Visne vero hanc profile photo delere?",
+      "cancel": "Cancel",
+      "delete": "Delere"
+    },
+    "cropper": {
+      "chooseBackground": "Elige Maecenas vitae",
+      "cropPhoto": "Seges Photo",
+      "useOriginal": "utere originali",
+      "backgroundPresets": "Background Presets",
+      "none": "Nullus",
+      "uploadBackground": "Index Background",
+      "cancel": "Cancel",
+      "savePhoto": "Serva Photo",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotatione & Tilt",
+      "resetRotation": "Reset ut 0 °",
+      "center": "Centrum",
+      "rotateLeft": "Rotate -90°",
+      "rotateRight": "Rotate +90°",
+      "removeBackground": "Remove Maecenas vitae",
+      "processing": "Imaginem tuam expedi, quaeso..."
+    },
+    "cvPreview": {
+      "title": "CV Praevius",
+      "downloadCv": "Download CV",
+      "download": "Download",
+      "wordCannotPreview": "Verbi documenta (.doc/.docx) in navigatro praevisa esse non possunt. ",
+      "downloadFile": "Download CV Tabularium",
+      "back": "Retro",
+      "mobileMessage": "Quaeso, lima CV depone ut eam praemonstrare.",
+      "preview": "Praevius CV",
+      "wordPreviewTitle": "Verbum Documentum Praevius",
+      "wordPreviewMessage": "Verbi documenta (.doc/.docx) in navigatro praevisa esse non possunt. Quaeso depone tabella ut eam videas."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Scribere brevem descriptionem de te, utilitate et curriculo calx..."
+    },
+    "skills": {
+      "placeholder": "Genus arte nomen...",
+      "add": "Add",
+      "enterToAdd": "Intra ad torcular addendi",
+      "noSkills": "Nullae artes adduntur adhuc."
+    },
+    "projects": {
+      "projectName": "Nomen Project",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "Project URL",
+      "projectUrlPlaceholder": "https://.",
+      "duration": "Duratio",
+      "startMonth": "Satus mense",
+      "startYear": "Satus Year",
+      "endMonth": "Finis mense",
+      "endYear": "Finis Year",
+      "currentlyWorking": "Currently opus in hoc",
+      "description": "Descriptio",
+      "descriptionPlaceholder": "Describe propositum, munus, res gestas...",
+      "technologies": "Technologies Used",
+      "addProject": "Add Project",
+      "image": "Project Image",
+      "removeImage": "Aufer Imago",
+      "uploadImage": "Click to upload image"
+    },
+    "work": {
+      "company": "Company / Institution",
+      "companyPlaceholder": "Societas nomen...",
+      "role": "Munus / Position",
+      "rolePlaceholder": "Tuae positionis...",
+      "jobType": "Job Type",
+      "selectJobType": "Lego genus",
+      "fullTime": "Plenus tempus",
+      "partTime": "Pars temporis",
+      "contract": "Contractus",
+      "internship": "Nulla",
+      "freelance": "justo",
+      "location": "Locus",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Duratio",
+      "currentlyWorking": "Currently opus hic",
+      "description": "Job Description",
+      "descriptionPlaceholder": "Tuas key officia et res gestae describere...",
+      "skills": "Imprimis Artes",
+      "addExperience": "Addere Usus"
+    },
+    "org": {
+      "organization": "Organization Name",
+      "organizationPlaceholder": "Organization nomen...",
+      "role": "Munus / Position",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Duratio",
+      "periodFormat": "seu Formae Liberae (exempli gratia 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Currently activae",
+      "description": "Actio Description",
+      "descriptionPlaceholder": "Conlationes tuas actiones vel describere ...",
+      "addExperience": "Addere Usus"
+    },
+    "education": {
+      "institution": "Nomen institutionis",
+      "institutionPlaceholder": "Scholae seu universitatis nomen...",
+      "degree": "Gradus / Level",
+      "degreePlaceholder": "e.g. ",
+      "major": "Maior / campus",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Grade",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Educationem Duration",
+      "periodFormat": "seu Formae Liberae (exempli gratia 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Currently studeo hic",
+      "description": "Operationes / honores",
+      "descriptionPlaceholder": "Describere actiones academicas, institutiones, seu honores susceptos...",
+      "addEducation": "Add Education"
+    },
+    "cert": {
+      "name": "Certification Name",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Fiebant Unitarum",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Exitus Date",
+      "expiryDate": "Valet Usque",
+      "noExpiry": "Hoc MANDATUM non exspirare",
+      "yearPlaceholder": "or Year (exampla 2023)",
+      "credentialUrl": "URL Cre",
+      "credentialUrlPlaceholder": "https://.",
+      "skills": "Related Artes",
+      "addCertification": "Add Certification",
+      "image": "Imago / Logo",
+      "removeImage": "Aufer Imago",
+      "uploadImage": "Click to upload image"
+    },
+    "common": {
+      "months": {
+        "1": "ianuarii",
+        "2": "Februarii",
+        "3": "Martii",
+        "4": "Aprilis",
+        "5": "May",
+        "6": "mensis Iunii",
+        "7": "Iulii",
+        "8": "Aug",
+        "9": "Septembris",
+        "10": "Octobris",
+        "11": "Novembris",
+        "12": "Decembris"
+      },
+      "month": "Mensis",
+      "year": "Annus",
+      "invalidDate": "Aliquam finem mense",
+      "words": "verba"
+    }
+  },
+  "settings": {
+    "title": "Occasus",
+    "subtitle": "Curo tuum portfolio profile et optiones",
+    "tabs": {
+      "profile": "My Profile",
+      "security": "Securitas",
+      "personalization": "Personalisation"
+    },
+    "profile": {
+      "infoTitle": "Basic Information",
+      "photo": "Profile Photo",
+      "uploadPhoto": "Mutatio Photo",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Ioannes Doe",
+      "email": "Inscriptio electronica",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Inscriptio pro login usus est et publice non ostenditur.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Servare Profile",
+      "save": "Servare Profile",
+      "accountCreated": "Ratio Partum",
+      "lastLogin": "Last Login",
+      "oauthNotice": "Haec profile coniungitur cum {provisore}} tuo. Profile mutationes faciendae sunt per servitium provisoris."
+    },
+    "security": {
+      "changePassword": "Mutatio Password",
+      "currentPassword": "Current Password",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Novum Password",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Adfirmare Novum Password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Saltem VIII characteribus",
+        "uppercase": "Unum lowercase litteras (A-Z)",
+        "number": "Numerus unus (0-9)",
+        "symbol": "Unum symbolum (!@#$%^&*)"
+      },
+      "passwordTitle": "Password",
+      "updatePassword": "Update Password",
+      "additionalSecurity": "Additional Securitatis",
+      "twoFactor": "Duo-factor authenticitate (2FA)",
+      "twoFactorDesc": "Secure ratione vestra utens addito OTP codice.",
+      "activeSessions": "Active Sessiones",
+      "activeSessionsDesc": "Semper magna usores machinas.",
+      "publicVisibility": "Publica Visibilitas",
+      "hideFromSearch": "Celare Client ex Engines Quaerere",
+      "hideFromSearchDesc": "Preoccupo Google ne paginam portfolio publici indices.",
+      "disable2fa": {
+        "title": "inactivare 2FA",
+        "description": "Certus esne vis duos factores authenticas averte?",
+        "confirmPasswordLabel": "Intra password ut confirmet",
+        "currentPasswordPlaceholder": "Current password",
+        "cancelButton": "Cancel",
+        "confirmButton": "inactivare 2FA",
+        "incorrectPassword": "Recta tessera fuit."
+      },
+      "setup2fa": {
+        "step1Title": "1. QR code Scan",
+        "step1Desc": "Aperi authenticator app et scan hoc QR code:",
+        "unableToScan": "'Non scan? Usus setup clavem",
+        "step2Title": "2. Quin Code",
+        "step2Desc": "Intra in VI-digiti vestri app codice generatae:",
+        "cancelButton": "Cancel",
+        "enableButton": "Admitte 2FA*",
+        "invalidLength": "Please enter a 6-digit code.",
+        "invalidCode": "Aliquam tesseram. Quaeso, iterum conare."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Linguae Imperium",
+      "appLanguage": "App Lingua",
+      "layoutTitle": "Layout & Typography",
+      "layoutStyle": "Layout Style",
+      "layoutModern": "Modern Style (Default)",
+      "layoutClassic": "Classic Style",
+      "layoutMinimalist": "Minimalism Style",
+      "fontSize": "App Font Location",
+      "fontSmall": "Parvus",
+      "fontNormal": "Normal (Medium)",
+      "fontLarge": "Magnum",
+      "searchLanguage": "Quaere linguam...",
+      "languageNotFound": "Lingua non inveni",
+      "layoutElegant": "Elegans Style"
+    },
+    "saveChanges": "Servare Mutationes",
+    "cancel": "Cancel",
+    "appSettings": "App Occasus",
+    "logoutConfirmTitle": "Adfirmare Logout",
+    "logoutConfirmDesc": "Certusne esne vis e systemate stipes?",
+    "logoutConfirmYes": "Ita Logout",
+    "generalError": "Error occurrit. ",
+    "success": "Success",
+    "preferencesSaved": "App optiones feliciter servavit.",
+    "header": "Applicationem Occasus",
+    "logout": {
+      "title": "Concludere Confirmationis",
+      "message": "Certusne esne e systemate stipes vis?",
+      "confirm": "Ita Logout"
+    },
+    "about": {
+      "title": "De Application",
+      "subtitle": "Portfolio conditor Platform",
+      "version": "Version",
+      "description": "DevFolio est modernus portfolio architectus suggestus tincidunt, designers et creatores professionales destinati. ",
+      "license": "Licentia & Copyright",
+      "copyright": "© 2026 DevFolio Inc. All rights reserved.",
+      "developer": "Elit",
+      "developedBy": "Developed by Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Ratio in perpetuum Delete",
+      "menuItem": "Ratio delere",
+      "successTitle": "Success",
+      "successMessage": "Rationis deletionis confirmatio inscriptio missum est.",
+      "errorTitle": "Fail",
+      "errorMessage": "Non ut confirmationem email.",
+      "confirmationMessage": "Visne vero tuam rationem perpetuo delere?",
+      "warningMessage1": "Accipies electronicam ad confirmandam rationem deletionis.",
+      "warningMessage2": "Si confirmatum est, omnia notitia (portfolio, inceptis, statisticis) in perpetuum delebitur et recuperari non potest.",
+      "cancel": "Pax",
+      "confirm": "Confirmatio"
+    },
+    "toasts": {
+      "toastError": "Error",
+      "toastSuccess": "Success",
+      "toastSetup2FAFailed": "Deficio ad setup 2FA. Quaeso, iterum conare.",
+      "toast2FAEnabled": "Duo-factor authenticas datum est.",
+      "toast2FADisabled": "Duo-factor authenticas debilitata est.",
+      "toastSessionEnabled": "Sessionis activae magna vigilantia datum est.",
+      "toastSessionDisabled": "Sessionem activam vigilantia debilitata est.",
+      "toastSetupKeyCopied": "Setup key copied to clipboard."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "updateDate": "Last Updated: July 15, 2026",
+      "intro": "Haec Privacy Policy explicat quomodo DevFolio colligit, usus, ac tuetur personalis notitias tuas cum nostris officiis utendo.",
+      "section1Title": "Notitia 1. Collecta",
+      "section1Content": "Notitias colligimus directe providere cum rationem creando, portfolio aedificas, et auxilium nostrum contingentes. ",
+      "section2Title": "2. Usus Information",
+      "section2Content": "Informatio tua est ad lineamenta operarum nostrorum operanda, conservanda et praebendas, necnon ad communicandum cum te de ratione tua vel de servitiis.",
+      "section3Title": "3. Data Securitatis",
+      "section3Content": "Rationabilis securitatis mensuras efficimus, ut informationes tuas ab accessu legitimo, proditionis vel exitii tueamur."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Confirmationis causa non invenitur.",
+    "defaultError": "Defecit rationem delere. Vestigium explevisse.",
+    "loadingTitle": "Deletio Ratio...",
+    "loadingMessage": "Please wait, we are dispensando tuam.",
+    "successTitle": "Ratio deletum Feliciter",
+    "successMessage": "Omnia data tua in perpetuum deleta sunt. Redirected eris...",
+    "errorTitle": "Deficio ad Delere Ratio",
+    "backToHome": "Redi ad Home"
+  },
+  "forgotPassword": {
+    "minutes": "minute",
+    "seconds": "secundo",
+    "success": "succede",
+    "otpSentToEmail": "OTP codice missum est ad inscriptionem tuum.",
+    "failed": "Fail",
+    "emailNotFound": "Inscriptio non invenitur.",
+    "emailThirdParty": "Haec inscriptio per tertiam partem relatus est.",
+    "genericError": "Est error. Quaeso, iterum conare.",
+    "otpVerified": "In OTP codice feliciter verificatur.",
+    "otpExpired": "In OTP codice expiratus. Quaeso, peto novum codicem.",
+    "otpInvalid": "Aliquam OTP codice.",
+    "otpResent": "Novum OTP signum ad inscriptionem tuum missum est.",
+    "otpResendFailed": "Defecit ad OTP resend codice. Quaeso, iterum conare.",
+    "passwordResetSuccess": "Signum feliciter reset. Quaeso ini cum tessera nova tua.",
+    "passwordResetFailed": "Defecit reset password.",
+    "backToLogin": "Redi ad Login",
+    "back": "Redi",
+    "title": "Oblitus Tesseras",
+    "description": "Intra inscriptionem electronicam descripserunt in ratione vestra. Nos OTP mittet in signum ad reset password.",
+    "emailLabel": "Inscriptio electronica",
+    "sending": "Mitte...",
+    "sendOtp": "Mitte OTP Code",
+    "verifyOtpTitle": "Quin OTP Code",
+    "verifyOtpDesc": "Intrant digiti 6 codicem qui ad inscriptionem tuum missum est ad tuam identitatem confirmandam.",
+    "verifying": "Probari...",
+    "verifyOtp": "OTP verificationis",
+    "resending": "Resend...",
+    "resendOtp": "Resend OTP Code",
+    "resendCodeIn": "Resend interiorem codice",
+    "newPasswordTitle": "Novam creare Password",
+    "newPasswordDesc": "Novam, validam password ut rationem vestram consequamur.",
+    "newPasswordLabel": "Novum Password",
+    "min8Chars": "Minimum VIII characters",
+    "oneUpperCase": "I lowercase litteras (A-Z)",
+    "oneNumber": "1 number (0-9)",
+    "oneSymbol": "1 symbolum (!@#$%^&*)",
+    "confirmPasswordLabel": "Adfirmare Password",
+    "passwordsDoNotMatch": "Passwords non aequare.",
+    "resettingPassword": "Resetting Password...",
+    "resetPassword": "Reset Password"
+  },
+  "verifyEmail": {
+    "resendError": "Failed to resend verification email. Please try again.",
+    "checkingStatus": "Checking verification status...",
+    "title": "Check Your Email",
+    "description": "We have sent a verification email to your email address. Please open the email and click the <1>\"Confirm Account\"</1> button to activate your account.",
+    "stepsTitle": "Steps",
+    "step1": "Open your email app (Gmail, Yahoo, etc)",
+    "step2": "Look for an email from DevFolio with the subject \"Account Activation\"",
+    "step3": "Click the \"Confirm Account\" button in the email",
+    "step4": "You will be redirected to the login page to sign in",
+    "resendSuccess": "Verification email has been resent!",
+    "resending": "Resending...",
+    "resendButton": "Resend Verification Email",
+    "backToLogin": "Return to Login Page",
+    "footerNote": "Didn't receive the email? Check the <1>Spam</1> or <2>Junk</2> folder in your email. The verification link is valid for <3>24 hours</3>."
+  }
+}

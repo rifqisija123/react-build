@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Karakteristik",
+    "templates": "Modèl",
+    "pricing": "Pricing",
+    "login": "Konekte",
+    "getStarted": "Kòmanse",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Piblisite nan dosye ultim pou devlopè",
+    "title1": "Bati pwofesyonèl ou",
+    "title2": "pòtfolyo nan",
+    "titleHighlight": "segonn.",
+    "subtitle": "Tout sa ou bezwen pou montre konpetans ou, pwojè, ak eksperyans ou. ",
+    "startBuilding": "Kòmanse bati kounye a",
+    "viewTemplates": "Gade modèl yo",
+    "fastDeployment": "Deplwaman rapid",
+    "liveStatus": "username.dev ap viv!",
+    "featuresTitle": "Karakteristik pwisan",
+    "featuresSubtitle": "Nou bay tout zouti ou bezwen pou kanpe deyò nan mitan foul la ak jwenn travay rèv ou.",
+    "feature1Title": "Trennen & Drop Builder",
+    "feature1Desc": "Fasil òganize seksyon ou yo, pwojè, ak konpetans ou ak editè vizyèl entwisyon nou an.",
+    "feature2Title": "Tèm Custom",
+    "feature2Desc": "Chwazi nan modèl pwofesyonèl ki fèt oswa kreye pwòp gade inik ou.",
+    "feature3Title": "Analytics an tan reyèl",
+    "feature3Desc": "Swiv vizitè ou yo, wè ki pwojè yo jwenn plis atansyon, ak plis ankò."
+  },
+  "auth": {
+    "welcomeBack": "Byenvini tounen",
+    "loginToContinue": "Konekte sou kont ou pou kontinye",
+    "createAccount": "Kreye Kont",
+    "joinCommunity": "Antre nan plizyè milye lòt devlopè",
+    "fullName": "Non konplè",
+    "fullNamePlaceholder": "pa egzanp ",
+    "email": "Adrès Imèl",
+    "emailPlaceholder": "ou@egzanp.com",
+    "password": "Modpas",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Sonje mwen",
+    "forgotPassword": "Ou bliye modpas?",
+    "signIn": "Enskri",
+    "signingIn": "Siyen an...",
+    "signUp": "Enskri",
+    "signingUp": "Enskri...",
+    "noAccount": "Ou pa gen yon kont?",
+    "hasAccount": "Ou deja gen yon kont?",
+    "passwordRules": {
+      "title": "Modpas dwe genyen:",
+      "length": "Omwen 8 karaktè",
+      "uppercase": "Yon lèt majiskil (A-Z)",
+      "number": "Yon nimewo (0-9)",
+      "symbol": "Yon senbòl (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Modèl ak tèm",
+      "settings": "Anviwònman",
+      "collapse": "Tonbe Sidebar",
+      "overview": "Apèsi sou lekòl la",
+      "profileSettings": "Anviwònman Profile",
+      "customDomain": "Custom Domèn",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Gade Live",
+      "welcome": "Byenveni,",
+      "logout": "Dekonekte",
+      "builder": "Builder",
+      "livePortfolio": "Viv Portfolio",
+      "live": "Viv"
+    },
+    "logoutModal": {
+      "title": "Dekonekte",
+      "message": "Èske w sèten ou vle dekonekte kont ou a? ",
+      "cancel": "Anile",
+      "confirm": "Wi, Dekonekte"
+    },
+    "slugModal": {
+      "title": "Chwazi URL Portfolio w la",
+      "message": "URL sa a pral lyen inik nan pòtfolyo ou. ",
+      "slugPlaceholder": "non-ou",
+      "availability": "Disponibilite:",
+      "available": "Disponib",
+      "unavailable": "Pa disponib",
+      "checking": "Tcheke...",
+      "mustFormat": "Ka sèlman genyen lèt, nimewo, ak tirè (-)",
+      "cancel": "Anile",
+      "save": "Sove URL",
+      "usernameUrl": "Non itilizatè URL",
+      "helpText": "Lèt miniskil, chif, ak tirè. ",
+      "validation": {
+        "empty": "Paresseux pa ka vid.",
+        "min3": "Minimòm 3 karaktè.",
+        "max30": "Maksimòm 30 karaktè.",
+        "format": "Se sèlman lèt miniskil, chif, ak tirè (-). "
+      }
+    },
+    "loadingPortfolio": "Chaje done pòtfolyo...",
+    "overview": {
+      "greetings": {
+        "morning": "Bon maten",
+        "afternoon": "Bon apremidi",
+        "evening": "Bon apremidi",
+        "night": "Bon lannwit"
+      },
+      "welcome": {
+        "hi": "bonjou,",
+        "creator": "Kreyatè",
+        "desc1": "Byenveni nan tablodbò DevFolio. Yo te wè pòtfolyo ou a",
+        "desc2": "moun. Kontinye travay!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total vizitè yo",
+        "projectViews": "Wè (Pwojè)",
+        "activeSessions": "Sesyon aktif",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Enstalasyon Pwogrè",
+        "completed": "Portfolio ou a konplè! 🎉",
+        "inProgress": "Etap nan pòtfolyo pafè a.",
+        "profile": {
+          "title": "Ranpli Profile",
+          "desc": "Ajoute non, biyo ak foto pwofil."
+        },
+        "section": {
+          "title": "Ajoute Seksyon",
+          "desc": "Aktive omwen 1 seksyon nan pòtfolyo a."
+        },
+        "project": {
+          "title": "Ajoute Pwojè",
+          "desc": "Antre nan omwen 1 nan pi bon pwojè ou yo."
+        },
+        "publish": {
+          "title": "Pibliye Portfolio",
+          "desc": "Mete yon URL koutim pou piblik la ka jwenn aksè nan li."
+        }
+      },
+      "topProjects": {
+        "title": "Pwojè ki pi popilè yo",
+        "desc": "Pèfòmans travay ou nan je vizitè yo.",
+        "viewAll": "Gade Tout",
+        "empty": "Pa gen okenn done gade pou pwojè ou a ankò."
+      }
+    },
+    "themes": {
+      "title": "Modèl & Tèm",
+      "subtitle": "Customize gade ak santi pòtfolyo piblik ou a.",
+      "reset": "Reyajiste Default",
+      "save": "Sove Chanjman",
+      "saving": "Ekonomize...",
+      "chooseTemplate": "Chwazi yon Modèl",
+      "primaryColor": "Koulè Prensipal",
+      "typography": "Tipografi",
+      "appearance": "Aparans",
+      "corners": "Kwen & Fwontyè",
+      "successTitle": "Siksè",
+      "successMessage": "Preferans tèm yo mete ajou avèk siksè",
+      "errorTitle": "Erè",
+      "errorMessage": "Echwe pou sove preferans tèm",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Konsepsyon pwòp ak senp konsantre sou kontni."
+        },
+        "developerDark": {
+          "name": "Devlopè nwa",
+          "desc": "Tèm nwa pafè pou montre kòd ak pil teknoloji."
+        },
+        "creative": {
+          "name": "Kreyatif",
+          "desc": "Layout vibran ak kolore pou konsèpteur ak kreyatif."
+        },
+        "executive": {
+          "name": "Egzekitif",
+          "desc": "Layout pwofesyonèl ak fòmèl pou pwofesyonèl biznis."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Layout griy modèn Apple-style ki mete aksan sou diferan konpetans avèk efikasite."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Britalis",
+          "desc": "Fwontyè fonse ak koulè kontras segondè pou yon gade tendans, san pakul."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Efè glas glase sou gradyan kolore pou yon UI modèn dous."
+        },
+        "linkInBio": {
+          "name": "Link nan Bio",
+          "desc": "Layout vètikal kontra enfòmèl ant optimize pou ekran mobil ak medya sosyal."
+        }
+      },
+      "appearances": {
+        "light": "Limyè",
+        "dark": "Fè nwa",
+        "system": "Sistèm"
+      },
+      "cornersOptions": {
+        "sharp": "Byen file",
+        "rounded": "Awondi",
+        "pill": "Grenn"
+      }
+    },
+    "feedback": {
+      "title": "Voye Feedback",
+      "subtitle": "Ede nou fè li pi byen lè nou bay sijesyon, kritik, oswa rapòte ensèk sou aplikasyon sa a.",
+      "categoryLabel": "Feedback Kategori",
+      "messageLabel": "Detay Mesaj",
+      "messagePlaceholder": "Di m an detay sou fidbak ou vle transmèt...",
+      "imageLabel": "Tachman Imaj (Opsyonèl)",
+      "imagePlaceholder": "Klike pou w telechaje imaj oswa ekran",
+      "submitting": "Voye...",
+      "submitBtn": "Voye Feedback",
+      "categories": {
+        "suggestion": "Sijesyon & Lide",
+        "bug": "Rapò ensèk / Erè",
+        "criticism": "Kritik",
+        "other": "Lòt moun"
+      },
+      "imageErrorTitle": "Erè",
+      "imageErrorMessage": "Gen kèk dosye yo rejte paske yo pa sipòte fòma imaj (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Siksè",
+      "successMessage": "Mèsi pou fidbak ou! Yo voye rapò.",
+      "submitErrorTitle": "Echwe",
+      "submitErrorMessage": "Yon erè te fèt pandan w ap voye fidbak. Tanpri eseye ankò."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Sou mwen",
+      "skills": "Konpetans",
+      "projects": "Pwojè",
+      "workExperience": "Eksperyans Travay",
+      "orgExperience": "Eksperyans òganizasyonèl",
+      "education": "Edikasyon",
+      "certifications": "Fòmasyon & Sètifikasyon",
+      "contact": "Kontakte mwen"
+    },
+    "editor": {
+      "profileInfo": "Enfòmasyon sou Profile",
+      "saving": "Ekonomize...",
+      "profilePhoto": "Foto pwofil",
+      "clickToUpload": "Klike pou w telechaje (JPG, PNG)",
+      "fullName": "Non konplè",
+      "fullNamePlaceholder": "pa egzanp ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer ak yon pasyon pou konstwi aplikasyon entènèt modèn...",
+      "location": "Kote",
+      "locationPlaceholder": "pa egzanp ",
+      "gender": "Sèks",
+      "selectGender": "Chwazi Sèks",
+      "male": "Gason",
+      "female": "Fi",
+      "custom": "Custom",
+      "customPlaceholder": "Tape sèks koutim ou...",
+      "uploadCv": "Telechaje CV",
+      "cvFormat": "(DOC oswa PDF)",
+      "preview": "Preview",
+      "remove": "Retire",
+      "clickToUploadCv": "Klike pou w telechaje PDF oswa DOC",
+      "sections": "Seksyon",
+      "removeSelected": "Retire Chwazi yo",
+      "confirmRemove": "Konfime Retire",
+      "addSection": "Ajoute Seksyon",
+      "addAllSections": "Ajoute tout seksyon yo",
+      "noSections": "Pa gen seksyon ankò",
+      "clickToAdd": "Klike \"+ Ajoute Seksyon\" pou kòmanse",
+      "selectAll": "Chwazi Tout",
+      "selected": "Chwazi",
+      "dragToReorder": "Trennen pou reranje seksyon yo",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Ajoute seksyon pou konstwi pòtfolyo ou",
+      "now": "Kounye a",
+      "current": "Kouran",
+      "noExpiry": "Pa gen ekspirasyon",
+      "see": "Gade",
+      "position": "Pozisyon",
+      "degree": "Degre",
+      "certification": "Sètifikasyon",
+      "sectionsForm": {
+        "about": {
+          "label": "Deskripsi tentang diri Anda",
+          "placeholder": "Pale nou sou tèt ou, background ou, enterè ak konpetans ou..."
+        },
+        "skills": {
+          "addPlaceholder": "Ketik skill lalu tekan Enter..."
+        },
+        "projects": {
+          "title": "Nama Project",
+          "titlePlaceholder": "Nama project...",
+          "url": "URL Project",
+          "description": "Deskripsyon",
+          "descriptionPlaceholder": "Deskripsi singkat project...",
+          "uploadThumbnail": "Gambar Project",
+          "addProject": "Tambah Project",
+          "projectNum": "Project #",
+          "currentProject": "Sa a se yon pwojè mwen ap travay sou"
+        },
+        "work": {
+          "company": "Perusahaan/Instansi",
+          "companyPlaceholder": "Nama perusahaan...",
+          "position": "Pozisyon/Tit",
+          "positionPlaceholder": "Pozisyon w...",
+          "employmentType": "Jenis Pekerjaan",
+          "location": "Kote",
+          "locationPlaceholder": "Vil, Peyi...",
+          "startDate": "Mulai",
+          "endDate": "Fini",
+          "currentWork": "Saya masih bekerja saat ini",
+          "description": "Deskripsyon",
+          "descriptionPlaceholder": "Deskripsi pekerjaan dan tanggung jawab...",
+          "skills": "Konpetans",
+          "addExperience": "Ajoute Eksperyans Travay",
+          "experienceNum": "Pengalaman #",
+          "dateError": "Tanggal selesai tidak boleh lebih awal dari tanggal mulai"
+        },
+        "org": {
+          "organization": "Non òganizasyon an",
+          "orgPlaceholder": "Inivèsite BEM...",
+          "role": "Peran/Jabatan",
+          "rolePlaceholder": "Chèf divizyon...",
+          "addOrg": "Ajoute eksperyans òganizasyonèl",
+          "orgNum": "Organisasi #"
+        },
+        "edu": {
+          "institution": "Enstitisyon Edikasyon",
+          "institutionPlaceholder": "Nama kampus atau sekolah...",
+          "degree": "Tit",
+          "degreePlaceholder": "S1, SMA, dll...",
+          "major": "Jurusan/Bidang Studi",
+          "majorPlaceholder": "Jeni enfòmatik...",
+          "gpa": "GPA (opsyonèl)",
+          "currentStudy": "Saya masih belajar di sini",
+          "descriptionPlaceholder": "Aktivitas dan pencapaian selama studi...",
+          "addEdu": "Ajoute Edikasyon",
+          "eduNum": "Edikasyon #"
+        },
+        "cert": {
+          "name": "Nama Sertifikasi / Pelatihan",
+          "namePlaceholder": "Non sètifikasyon...",
+          "issuer": "Piblikatè",
+          "issuerPlaceholder": "Lembaga penerbit...",
+          "issueDate": "Kòmanse (Dat Pibliye)",
+          "issueDatePlaceholder": "Chwazi dat piblikasyon...",
+          "expiryDate": "Selesai (Masa Berlaku)",
+          "expiryDatePlaceholder": "Chwazi dat ekspirasyon...",
+          "noExpiry": "Sètifika sa a pa gen dat ekspirasyon",
+          "url": "Adrès adrès entènèt",
+          "uploadThumbnail": "Sètifika / Fòmasyon Imaj",
+          "uploadThumbnailLimit": "Telechaje imaj sètifika (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Ajoute Sètifikasyon",
+          "certNum": "Sètifikasyon #"
+        },
+        "contact": {
+          "contactNum": "Kontakte #",
+          "platform": "Platfòm",
+          "displayText": "Montre tèks",
+          "displayTextPlaceholder": "pa egzanp, you@email.com oswa @username",
+          "url": "Lyen (URL)",
+          "urlPlaceholderWhatsapp": "pa egzanp, 62812... (san yo pa mennen 0)",
+          "urlPlaceholderEmail": "pa egzanp, you@email.com",
+          "urlPlaceholderWebsite": "egzanp, https://...",
+          "urlPlaceholderDefault": "pa egzanp, non itilizatè",
+          "addContact": "Ajoute Kontak"
+        },
+        "common": {
+          "months": {
+            "1": "Janvye",
+            "2": "Fevriye",
+            "3": "Mas",
+            "4": "Avril",
+            "5": "Me",
+            "6": "jen",
+            "7": "Jiyè",
+            "8": "Out",
+            "9": "Septanm",
+            "10": "Oktòb",
+            "11": "Novanm",
+            "12": "Desanm"
+          },
+          "month": "Mwa",
+          "year": "Ane",
+          "invalidDate": "Envalid Mwa Fen",
+          "words": "mo"
+        }
+      },
+      "sure": "Asire w",
+      "deletePhotoTitle": "Efase foto pwofil?",
+      "deletePhotoMessage": "Èske w sèten ou vle efase foto pwofil sa a?",
+      "cancel": "Anile",
+      "delete": "Efase"
+    },
+    "cropper": {
+      "chooseBackground": "Chwazi background",
+      "cropPhoto": "Koupe foto ou",
+      "useOriginal": "Sèvi ak orijinal la",
+      "backgroundPresets": "Prereglaj background",
+      "none": "Okenn",
+      "uploadBackground": "Telechaje background",
+      "cancel": "Anile",
+      "savePhoto": "Sove foto",
+      "zoom": "Zoom",
+      "rotationTilt": "Wotasyon & Panche",
+      "resetRotation": "Reyajiste a 0°",
+      "center": "Sant",
+      "rotateLeft": "Vire -90°",
+      "rotateRight": "Vire +90°",
+      "removeBackground": "Retire background",
+      "processing": "Travay imaj ou a, tanpri tann..."
+    },
+    "cvPreview": {
+      "title": "Aperçu CV",
+      "downloadCv": "Telechaje CV",
+      "download": "Telechaje",
+      "wordCannotPreview": "Dokiman Word (.doc/.docx) pa ka preview natif natal nan navigatè a. ",
+      "downloadFile": "Telechaje CV File",
+      "back": "Retounen",
+      "mobileMessage": "Tanpri telechaje dosye CV a pou w prevwa l.",
+      "preview": "Preview CV",
+      "wordPreviewTitle": "Aperçu dokiman Word",
+      "wordPreviewMessage": "Dokiman Word (.doc/.docx) pa ka preview natif natal nan navigatè a. Tanpri telechaje fichye a pou w ka wè li."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Ekri yon deskripsyon tou kout sou tèt ou, enterè, ak objektif karyè..."
+    },
+    "skills": {
+      "placeholder": "Tape non konpetans...",
+      "add": "Ajoute",
+      "enterToAdd": "Peze Antre pou ajoute",
+      "noSkills": "Pa gen ladrès te ajoute ankò."
+    },
+    "projects": {
+      "projectName": "Non Pwojè a",
+      "projectNamePlaceholder": "pa egzanp ",
+      "projectUrl": "URL pwojè",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Dire",
+      "startMonth": "Kòmanse Mwa",
+      "startYear": "Kòmanse Ane",
+      "endMonth": "Fen Mwa",
+      "endYear": "Fen Ane",
+      "currentlyWorking": "Kounye a ap travay sou sa",
+      "description": "Deskripsyon",
+      "descriptionPlaceholder": "Dekri pwojè a, wòl ou, ak reyalizasyon...",
+      "technologies": "Teknoloji yo itilize",
+      "addProject": "Ajoute Pwojè",
+      "image": "Imaj Pwojè",
+      "removeImage": "Retire imaj",
+      "uploadImage": "Klike pou w telechaje imaj"
+    },
+    "work": {
+      "company": "Konpayi/enstitisyon",
+      "companyPlaceholder": "Non konpayi...",
+      "role": "Wòl/Pozisyon",
+      "rolePlaceholder": "Pozisyon w...",
+      "jobType": "Kalite travay",
+      "selectJobType": "Chwazi kalite",
+      "fullTime": "Aplentan",
+      "partTime": "Tan pasyèl",
+      "contract": "Kontra",
+      "internship": "Estaj",
+      "freelance": "Endependan",
+      "location": "Kote",
+      "locationPlaceholder": "pa egzanp ",
+      "duration": "Dire",
+      "currentlyWorking": "Kounye a k ap travay isit la",
+      "description": "Deskripsyon travay",
+      "descriptionPlaceholder": "Dekri responsablite prensipal ou ak reyalizasyon...",
+      "skills": "Konpetans espesifik",
+      "addExperience": "Ajoute Eksperyans"
+    },
+    "org": {
+      "organization": "Non òganizasyon an",
+      "organizationPlaceholder": "Non òganizasyon...",
+      "role": "Wòl/Pozisyon",
+      "rolePlaceholder": "pa egzanp ",
+      "duration": "Dire",
+      "periodFormat": "oswa Fòm gratis (egzanp 2020 - 2022)",
+      "periodPlaceholder": "pa egzanp ",
+      "currentlyActive": "Aktyèlman aktif",
+      "description": "Deskripsyon Aktivite",
+      "descriptionPlaceholder": "Dekri aktivite w oswa kontribisyon w yo...",
+      "addExperience": "Ajoute Eksperyans"
+    },
+    "education": {
+      "institution": "Non Enstitisyon",
+      "institutionPlaceholder": "Non lekòl oswa inivèsite...",
+      "degree": "Degre / Nivo",
+      "degreePlaceholder": "pa egzanp ",
+      "major": "Gwo/Domenn etid",
+      "majorPlaceholder": "pa egzanp ",
+      "gpa": "GPA / Klas",
+      "gpaPlaceholder": "pa egzanp ",
+      "duration": "Dire Edikasyon",
+      "periodFormat": "oswa Fòm gratis (egzanp 2018 - 2022)",
+      "periodPlaceholder": "pa egzanp ",
+      "currentlyStudying": "Kounye a etidye isit la",
+      "description": "Aktivite / Onè",
+      "descriptionPlaceholder": "Dekri aktivite akademik, òganizasyon, oswa onè ou resevwa...",
+      "addEducation": "Ajoute Edikasyon"
+    },
+    "cert": {
+      "name": "Non Sètifikasyon",
+      "namePlaceholder": "pa egzanp ",
+      "issuer": "Òganizasyon emèt",
+      "issuerPlaceholder": "pa egzanp ",
+      "issueDate": "Dat emisyon",
+      "expiryDate": "Valab Jiskaske",
+      "noExpiry": "Kredansyèl sa a pa ekspire",
+      "yearPlaceholder": "oswa Ane (egzanp 2023)",
+      "credentialUrl": "Adrès adrès entènèt",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Konpetans ki gen rapò",
+      "addCertification": "Ajoute Sètifikasyon",
+      "image": "Imaj/Logo",
+      "removeImage": "Retire imaj",
+      "uploadImage": "Klike pou w telechaje imaj"
+    },
+    "common": {
+      "months": {
+        "1": "Janvye",
+        "2": "Fevriye",
+        "3": "Mas",
+        "4": "Avril",
+        "5": "Me",
+        "6": "jen",
+        "7": "Jiyè",
+        "8": "Out",
+        "9": "Septanm",
+        "10": "Oktòb",
+        "11": "Novanm",
+        "12": "Desanm"
+      },
+      "month": "Mwa",
+      "year": "Ane",
+      "invalidDate": "Envalid Mwa Fen",
+      "words": "mo"
+    }
+  },
+  "settings": {
+    "title": "Anviwònman",
+    "subtitle": "Jere pwofil pòtfolyo ou ak preferans yo",
+    "tabs": {
+      "profile": "Profil mwen an",
+      "security": "Sekirite",
+      "personalization": "Pèsonalizasyon"
+    },
+    "profile": {
+      "infoTitle": "Enfòmasyon de baz",
+      "photo": "Foto pwofil",
+      "uploadPhoto": "Chanje foto",
+      "fullName": "Non konplè",
+      "fullNamePlaceholder": "Jan Doe",
+      "email": "Adrès Imèl",
+      "emailPlaceholder": "john@egzanp.com",
+      "emailHelp": "Yo itilize imèl pou konekte epi yo pa parèt piblikman.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Sove pwofil",
+      "save": "Sove pwofil",
+      "accountCreated": "Kont kreye",
+      "lastLogin": "Dènye Login",
+      "oauthNotice": "Pwofil sa a konekte ak kont ou {{provider}}. Chanjman pwofil yo dwe fèt atravè founisè sèvis la."
+    },
+    "security": {
+      "changePassword": "Chanje modpas",
+      "currentPassword": "Modpas aktyèl la",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nouvo Modpas",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Konfime Nouvo Modpas",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Omwen 8 karaktè",
+        "uppercase": "Yon lèt majiskil (A-Z)",
+        "number": "Yon nimewo (0-9)",
+        "symbol": "Yon senbòl (!@#$%^&*)"
+      },
+      "passwordTitle": "Modpas",
+      "updatePassword": "Mizajou Modpas",
+      "additionalSecurity": "Sekirite adisyonèl",
+      "twoFactor": "Otantifikasyon de faktè (2FA)",
+      "twoFactorDesc": "Sekirize kont ou lè l sèvi avèk yon kòd OTP adisyonèl.",
+      "activeSessions": "Sesyon aktif",
+      "activeSessionsDesc": "Toujou pèmèt siveyans aparèy ki konekte yo.",
+      "publicVisibility": "Vizibilite Piblik",
+      "hideFromSearch": "Kache pòtfolyo nan motè rechèch yo",
+      "hideFromSearchDesc": "Anpeche Google endèks paj pòtfolyo piblik ou a.",
+      "disable2fa": {
+        "title": "Enfim 2FA",
+        "description": "Èske w sèten ou vle fèmen otantifikasyon de faktè?",
+        "confirmPasswordLabel": "Antre modpas ou pou konfime",
+        "currentPasswordPlaceholder": "Modpas aktyèl la",
+        "cancelButton": "Anile",
+        "confirmButton": "Enfim 2FA",
+        "incorrectPassword": "Move modpas."
+      },
+      "setup2fa": {
+        "step1Title": "1. Eskane QR Kòd",
+        "step1Desc": "Louvri aplikasyon otantifikatè ou a epi eskane kòd QR sa a:",
+        "unableToScan": "Pa kapab eskane? Sèvi ak kle konfigirasyon",
+        "step2Title": "2. Verifye Kòd",
+        "step2Desc": "Antre kòd 6 chif ki te pwodwi pa aplikasyon w lan:",
+        "cancelButton": "Anile",
+        "enableButton": "Pèmèt 2FA",
+        "invalidLength": "Tanpri antre yon kòd ki gen 6 chif.",
+        "invalidCode": "Kòd verifikasyon ki pa valab. Tanpri eseye ankò."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontwòl Lang",
+      "appLanguage": "Lang aplikasyon an",
+      "layoutTitle": "Layout & Tipografi",
+      "layoutStyle": "Style Layout",
+      "layoutModern": "Style modèn (default)",
+      "layoutClassic": "Jwèt Klasik Style",
+      "layoutMinimalist": "Style minimalist",
+      "fontSize": "Gwosè Font App",
+      "fontSmall": "Ti",
+      "fontNormal": "Nòmal (Mwayen)",
+      "fontLarge": "Gwo",
+      "searchLanguage": "Chèche lang...",
+      "languageNotFound": "Lang pa jwenn",
+      "layoutElegant": "Elegant Style"
+    },
+    "saveChanges": "Sove Chanjman yo",
+    "cancel": "Anile",
+    "appSettings": "Anviwònman aplikasyon an",
+    "logoutConfirmTitle": "Konfime Dekonekte",
+    "logoutConfirmDesc": "Èske w sèten ou vle dekonekte sistèm lan?",
+    "logoutConfirmYes": "Wi, Dekonekte",
+    "generalError": "An error occurred. ",
+    "success": "Siksè",
+    "preferencesSaved": "Preferans aplikasyon yo sove avèk siksè.",
+    "header": "Anviwònman aplikasyon an",
+    "logout": {
+      "title": "Konfimasyon Dekonekte",
+      "message": "Èske w sèten ou vle dekonekte sistèm lan?",
+      "confirm": "Wi, Dekonekte"
+    },
+    "about": {
+      "title": "Konsènan Aplikasyon",
+      "subtitle": "Platfòm Portfolio Builder",
+      "version": "Version",
+      "description": "DevFolio se yon platfòm modèn pou bati pòtfolyo ki fèt pou devlopè, konsèpteur, ak kreyatè pwofesyonèl. ",
+      "license": "Lisans ak Copyright",
+      "copyright": "© 2026 DevFolio Inc. Tout dwa rezève.",
+      "developer": "Devlopè",
+      "developedBy": "Devlope pa Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Pèmanans Efase Kont",
+      "menuItem": "Efase Kont",
+      "successTitle": "Siksè",
+      "successMessage": "Yo voye yon imèl konfimasyon efase kont.",
+      "errorTitle": "Echwe",
+      "errorMessage": "Echwe pou voye imèl konfimasyon.",
+      "confirmationMessage": "Èske w sèten ou vle efase kont ou pou tout tan?",
+      "warningMessage1": "Ou pral resevwa yon imèl pou konfime efase kont.",
+      "warningMessage2": "Si yo konfime, tout done (pòtfolyo, pwojè, estatistik) yo pral efase pou tout tan epi yo pa ka refè.",
+      "cancel": "Anile",
+      "confirm": "Konfimasyon"
+    },
+    "toasts": {
+      "toastError": "Erè",
+      "toastSuccess": "Siksè",
+      "toastSetup2FAFailed": "Echwe pou konfigirasyon 2FA. Tanpri eseye ankò.",
+      "toast2FAEnabled": "Otantifikasyon de-faktè yo te pèmèt.",
+      "toast2FADisabled": "De-faktè otantifikasyon te enfim.",
+      "toastSessionEnabled": "Siveyans sesyon aktif yo te pèmèt.",
+      "toastSessionDisabled": "Siveyans sesyon aktif yo te enfim.",
+      "toastSetupKeyCopied": "Kle konfigirasyon kopye nan clipboard."
+    },
+    "privacy": {
+      "title": "Règleman sou enfòmasyon prive",
+      "updateDate": "Dènye Mizajou: 15 Jiyè 2026",
+      "intro": "Règleman sou enfòmasyon prive sa a eksplike kijan DevFolio kolekte, itilize, ak pwoteje enfòmasyon pèsonèl ou lè w ap itilize sèvis nou yo.",
+      "section1Title": "1. Enfòmasyon nou kolekte",
+      "section1Content": "Nou kolekte enfòmasyon ou bay dirèkteman lè w ap kreye yon kont, w ap konstwi yon pòtfolyo, epi w ap kontakte sipò nou an. ",
+      "section2Title": "2. Itilizasyon Enfòmasyon",
+      "section2Content": "Yo itilize enfòmasyon ou yo pou opere, kenbe, ak bay karakteristik sèvis nou yo, osi byen ke pou kominike avèk ou konsènan kont ou oswa sèvis ou.",
+      "section3Title": "3. Sekirite Done",
+      "section3Content": "Nou aplike mezi sekirite rezonab pou pwoteje enfòmasyon ou yo kont aksè san otorizasyon, divilgasyon, oswa destriksyon."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Siy konfimasyon pa jwenn.",
+    "defaultError": "Echwe pou efase kont. Siy la ka ekspire.",
+    "loadingTitle": "Efase kont...",
+    "loadingMessage": "Tanpri tann, nou ap trete demann ou an.",
+    "successTitle": "Kont efase avèk siksè",
+    "successMessage": "Tout done ou yo te efase pou tout tan. Yo pral redireksyon w...",
+    "errorTitle": "Echwe pou efase kont",
+    "backToHome": "Retounen lakay ou"
+  },
+  "forgotPassword": {
+    "minutes": "minit",
+    "seconds": "segonn",
+    "success": "Siksè",
+    "otpSentToEmail": "Yo te voye yon kòd OTP nan imel ou.",
+    "failed": "Echwe",
+    "emailNotFound": "Imèl pa jwenn.",
+    "emailThirdParty": "Imèl sa a anrejistre atravè yon twazyèm pati.",
+    "genericError": "Gen yon erè. Tanpri eseye ankò.",
+    "otpVerified": "Kòd OTP la te verifye avèk siksè.",
+    "otpExpired": "Kòd OTP la ekspire. Tanpri mande yon nouvo kòd.",
+    "otpInvalid": "Kòd OTP ki pa valab.",
+    "otpResent": "Yo voye yon nouvo kòd OTP nan imel ou.",
+    "otpResendFailed": "Pa t 'revoye kòd OTP. Tanpri eseye ankò.",
+    "passwordResetSuccess": "Modpas avèk siksè reset. Tanpri konekte ak nouvo modpas ou a.",
+    "passwordResetFailed": "Echwe pou reset modpas la.",
+    "backToLogin": "Retounen nan Login",
+    "back": "Retounen",
+    "title": "Bliye Modpas",
+    "description": "Antre adrès imel ki anrejistre sou kont ou a. Nou pral voye yon kòd OTP pou reset modpas la.",
+    "emailLabel": "Adrès Imèl",
+    "sending": "Voye...",
+    "sendOtp": "Voye OTP Kòd",
+    "verifyOtpTitle": "Verifye Kòd OTP",
+    "verifyOtpDesc": "Antre kòd 6 chif yo te voye nan imèl ou a pou konfime idantite w.",
+    "verifying": "Verifikasyon...",
+    "verifyOtp": "Verifye OTP",
+    "resending": "Renvoie...",
+    "resendOtp": "Revoye OTP Kòd",
+    "resendCodeIn": "Revoye kòd la nan",
+    "newPasswordTitle": "Kreye yon nouvo modpas",
+    "newPasswordDesc": "Kreye yon nouvo modpas solid pou sekirize kont ou.",
+    "newPasswordLabel": "Nouvo modpas",
+    "min8Chars": "Minimòm 8 karaktè",
+    "oneUpperCase": "1 majiskil (A-Z)",
+    "oneNumber": "1 nimewo (0-9)",
+    "oneSymbol": "1 senbòl (!@#$%^&*)",
+    "confirmPasswordLabel": "Konfime modpas",
+    "passwordsDoNotMatch": "Modpas pa koresponn.",
+    "resettingPassword": "Reyajiste modpas...",
+    "resetPassword": "Reyajiste Modpas"
+  },
+  "verifyEmail": {
+    "resendError": "Pa t 'revoye imèl verifikasyon an. Tanpri eseye ankò.",
+    "checkingStatus": "Tcheke estati verifikasyon...",
+    "title": "Tcheke Imèl Ou",
+    "description": "Nou voye yon imèl verifikasyon nan adrès imel ou. Tanpri louvri imel la epi klike sou <1>\"Konfime Kont\"</1> pou aktive kont ou.",
+    "stepsTitle": "Etap",
+    "step1": "Louvri aplikasyon imel ou a (Gmail, Yahoo, elatriye)",
+    "step2": "Chèche yon imèl ki soti nan DevFolio ak sijè \"Aktivasyon Kont\"",
+    "step3": "Klike sou bouton \"Konfime Kont\" nan imel la",
+    "step4": "Yo pral dirije w nan paj login pou antre",
+    "resendSuccess": "Yo voye imèl verifikasyon an ankò!",
+    "resending": "Renvoie...",
+    "resendButton": "Revoye Imèl Verifikasyon",
+    "backToLogin": "Retounen nan Paj Login",
+    "footerNote": "Pa resevwa imel la? Tcheke katab <1>Spam</1> oswa <2>Spam</2> ki nan imel ou a. Lyen verifikasyon an valab pou <3>24 èdtan</3>."
+  }
+}

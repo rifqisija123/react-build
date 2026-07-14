@@ -1,0 +1,738 @@
+{
+  "navbar": {
+    "features": "Fitur",
+    "templates": "Template",
+    "pricing": "Harga",
+    "login": "Masuk",
+    "getStarted": "Mulai Sekarang",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Portfolio builder terbaik untuk developer",
+    "title1": "Bangun portfolio profesional",
+    "title2": "Anda dalam",
+    "titleHighlight": "hitungan detik.",
+    "subtitle": "Semua yang Anda butuhkan untuk memamerkan keahlian, proyek, dan pengalaman Anda. Tanpa perlu coding. Hanya bakat Anda, ditampilkan dengan indah.",
+    "startBuilding": "Mulai Bangun Sekarang",
+    "viewTemplates": "Lihat Template",
+    "fastDeployment": "Deployment Cepat",
+    "liveStatus": "username.dev sudah live!",
+    "featuresTitle": "Fitur Unggulan",
+    "featuresSubtitle": "Kami menyediakan semua alat yang Anda butuhkan untuk menonjol dari yang lain dan mendapatkan pekerjaan impian Anda.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Atur bagian, proyek, dan keahlian Anda dengan mudah menggunakan editor visual intuitif kami.",
+    "feature2Title": "Tema Kustom",
+    "feature2Desc": "Pilih dari template desain profesional atau buat tampilan unik Anda sendiri.",
+    "feature3Title": "Analitik Real-time",
+    "feature3Desc": "Lacak pengunjung Anda, lihat proyek mana yang paling banyak mendapat perhatian, dan lainnya."
+  },
+  "auth": {
+    "welcomeBack": "Selamat Datang Kembali",
+    "loginToContinue": "Masuk ke akun Anda untuk melanjutkan",
+    "createAccount": "Buat Akun",
+    "joinCommunity": "Bergabung dengan ribuan developer lainnya",
+    "fullName": "Nama Lengkap",
+    "fullNamePlaceholder": "mis. Budi Santoso",
+    "email": "Alamat Email",
+    "emailPlaceholder": "anda@contoh.com",
+    "password": "Kata Sandi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Ingat saya",
+    "forgotPassword": "Lupa kata sandi?",
+    "signIn": "Masuk",
+    "signingIn": "Masuk...",
+    "signUp": "Daftar",
+    "signingUp": "Mendaftar...",
+    "noAccount": "Belum punya akun?",
+    "hasAccount": "Sudah punya akun?",
+    "passwordRules": {
+      "title": "Kata sandi harus mengandung:",
+      "length": "Minimal 8 karakter",
+      "uppercase": "Satu huruf besar (A-Z)",
+      "number": "Satu angka (0-9)",
+      "symbol": "Satu simbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Pembuat Portfolio",
+      "templates": "Template & Tema",
+      "settings": "Pengaturan",
+      "overview": "Ikhtisar",
+      "profileSettings": "Pengaturan Profil",
+      "customDomain": "Domain Kustom",
+      "feedback": "Umpan Balik",
+      "collapse": "Perkecil Sidebar"
+    },
+    "loadingPortfolio": "Memuat data portfolio...",
+    "header": {
+      "viewLive": "Lihat Live",
+      "welcome": "Selamat datang,",
+      "logout": "Keluar"
+    },
+    "logoutModal": {
+      "title": "Keluar",
+      "message": "Apakah Anda yakin ingin keluar dari akun Anda? Anda harus masuk kembali untuk mengakses pembuat portfolio Anda.",
+      "cancel": "Batal",
+      "confirm": "Ya, Keluar"
+    },
+    "slugModal": {
+      "title": "Pilih URL Portfolio Anda",
+      "message": "URL ini akan menjadi tautan unik ke portfolio Anda. Anda hanya dapat mengaturnya sekali.",
+      "slugPlaceholder": "nama-anda",
+      "availability": "Ketersediaan:",
+      "available": "Tersedia",
+      "unavailable": "Tidak tersedia",
+      "checking": "Memeriksa...",
+      "mustFormat": "Hanya boleh berisi huruf, angka, dan strip (-)",
+      "cancel": "Batal",
+      "save": "Simpan URL",
+      "usernameUrl": "Username URL",
+      "helpText": "Huruf kecil, angka, dan tanda hubung. Contoh: ",
+      "validation": {
+        "empty": "Slug tidak boleh kosong.",
+        "min3": "Minimal 3 karakter.",
+        "max30": "Maksimal 30 karakter.",
+        "format": "Hanya huruf kecil, angka, dan tanda hubung (-). Tidak boleh diawali/diakhiri dengan tanda hubung."
+      }
+    },
+    "overview": {
+      "greetings": {
+        "morning": "Selamat Pagi",
+        "afternoon": "Selamat Siang",
+        "evening": "Selamat Sore",
+        "night": "Selamat Malam"
+      },
+      "welcome": {
+        "hi": "Hai,",
+        "creator": "Kreator",
+        "desc1": "Selamat datang di dashboard DevFolio. Portfolio Anda sudah dilihat oleh",
+        "desc2": "orang. Terus berkarya!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Pengunjung",
+        "projectViews": "Dilihat (Projek)",
+        "activeSessions": "Sesi Aktif",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Setup Progress",
+        "completed": "Portfolio Anda sudah lengkap! 🎉",
+        "inProgress": "Langkah menuju portfolio sempurna.",
+        "profile": {
+          "title": "Lengkapi Profil",
+          "desc": "Tambahkan nama, bio, dan foto profil."
+        },
+        "section": {
+          "title": "Tambah Section",
+          "desc": "Aktifkan minimal 1 section di portfolio."
+        },
+        "project": {
+          "title": "Tambah Projek",
+          "desc": "Masukkan minimal 1 projek terbaik Anda."
+        },
+        "publish": {
+          "title": "Publish Portfolio",
+          "desc": "Atur custom URL agar bisa diakses publik."
+        }
+      },
+      "topProjects": {
+        "title": "Projek Terpopuler",
+        "desc": "Performa karya Anda di mata pengunjung.",
+        "viewAll": "Lihat Semua",
+        "empty": "Belum ada data view untuk projek Anda."
+      }
+    },
+    "themes": {
+      "title": "Templat & Tema",
+      "subtitle": "Sesuaikan tampilan dan nuansa portofolio publik Anda.",
+      "reset": "Atur Ulang Default",
+      "save": "Simpan Perubahan",
+      "saving": "Menyimpan...",
+      "chooseTemplate": "Pilih Templat",
+      "primaryColor": "Warna Primer",
+      "typography": "Tipografi",
+      "appearance": "Penampilan",
+      "corners": "Sudut & Batas",
+      "successTitle": "Sukses",
+      "successMessage": "Preferensi tema berhasil diperbarui",
+      "errorTitle": "Kesalahan",
+      "errorMessage": "Gagal menyimpan preferensi tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalis",
+          "desc": "Desain bersih dan sederhana yang berfokus pada konten."
+        },
+        "developerDark": {
+          "name": "Pengembang Gelap",
+          "desc": "Tema gelap sempurna untuk menampilkan kode dan tumpukan teknologi."
+        },
+        "creative": {
+          "name": "Kreatif",
+          "desc": "Tata letak yang cerah dan penuh warna untuk desainer dan kreatif."
+        },
+        "executive": {
+          "name": "Eksekutif",
+          "desc": "Tata letak profesional dan formal untuk profesional bisnis."
+        },
+        "bentoGrid": {
+          "name": "Kotak Bento",
+          "desc": "Tata letak kisi bergaya Apple modern yang menyoroti berbagai keterampilan secara efisien."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalisme",
+          "desc": "Batas tebal dan warna kontras tinggi untuk tampilan trendi dan tidak menyesal."
+        },
+        "glassmorphism": {
+          "name": "Kacamorfisme",
+          "desc": "Efek kaca buram pada gradien warna-warni untuk UI modern yang ramping."
+        },
+        "linkInBio": {
+          "name": "Tautan di Bio",
+          "desc": "Tata letak vertikal ringkas yang dioptimalkan untuk layar seluler dan media sosial."
+        }
+      },
+      "appearances": {
+        "light": "Cahaya",
+        "dark": "Gelap",
+        "system": "Sistem"
+      },
+      "cornersOptions": {
+        "sharp": "Tajam",
+        "rounded": "Bulat",
+        "pill": "Pil"
+      }
+    },
+    "feedback": {
+      "title": "Kirim Feedback",
+      "subtitle": "Bantu kami menjadi lebih baik dengan memberikan saran, kritik, atau melaporkan bug pada aplikasi ini.",
+      "categoryLabel": "Kategori Feedback",
+      "messageLabel": "Pesan Detail",
+      "messagePlaceholder": "Ceritakan secara detail mengenai feedback yang ingin Anda sampaikan...",
+      "imageLabel": "Lampiran Gambar (Opsional)",
+      "imagePlaceholder": "Klik untuk unggah gambar atau screenshot",
+      "submitting": "Mengirim...",
+      "submitBtn": "Kirim Feedback",
+      "categories": {
+        "suggestion": "Saran & Ide",
+        "bug": "Laporan Bug / Error",
+        "criticism": "Kritik",
+        "other": "Lainnya"
+      },
+      "imageErrorTitle": "Error",
+      "imageErrorMessage": "Beberapa file ditolak karena bukan format gambar yang didukung (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Sukses",
+      "successMessage": "Terima kasih atas feedback Anda! Laporan telah terkirim.",
+      "submitErrorTitle": "Gagal",
+      "submitErrorMessage": "Terjadi kesalahan saat mengirim feedback. Silakan coba lagi."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Tentang Saya",
+      "skills": "Keahlian",
+      "projects": "Proyek",
+      "workExperience": "Pengalaman Kerja",
+      "orgExperience": "Pengalaman Organisasi",
+      "education": "Pendidikan",
+      "certifications": "Pelatihan & Sertifikasi",
+      "contact": "Kontak Saya"
+    },
+    "editor": {
+      "profileInfo": "Informasi Profil",
+      "saving": "Menyimpan...",
+      "profilePhoto": "Foto Profil",
+      "clickToUpload": "Klik untuk unggah (JPG, PNG)",
+      "fullName": "Nama Lengkap",
+      "fullNamePlaceholder": "mis. Muhammad Rifqi",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer dengan hasrat untuk membangun aplikasi web modern...",
+      "location": "Lokasi",
+      "locationPlaceholder": "mis. Jakarta, Indonesia",
+      "gender": "Jenis Kelamin",
+      "selectGender": "Pilih Gender",
+      "male": "Laki-laki",
+      "female": "Perempuan",
+      "custom": "Lainnya",
+      "customPlaceholder": "Ketik gender khusus Anda...",
+      "uploadCv": "Unggah CV",
+      "cvFormat": "(DOC atau PDF)",
+      "preview": "Lihat",
+      "remove": "Hapus",
+      "clickToUploadCv": "Klik untuk mengunggah PDF atau DOC",
+      "sections": "Bagian",
+      "removeSelected": "Hapus Terpilih",
+      "confirmRemove": "Yakin Hapus",
+      "addSection": "Tambah Bagian",
+      "addAllSections": "Tambah Semua Bagian",
+      "noSections": "Belum ada bagian",
+      "clickToAdd": "Klik \"+ Tambah Bagian\" untuk memulai",
+      "sure": "Yakin",
+      "selectAll": "Pilih Semua",
+      "selected": "Terpilih",
+      "dragToReorder": "Geser untuk mengurutkan bagian",
+      "livePreview": "Pratinjau Langsung",
+      "addSectionsToBuild": "Tambahkan bagian untuk membangun portfolio Anda",
+      "now": "Sekarang",
+      "current": "Saat Ini",
+      "noExpiry": "Tanpa Kedaluwarsa",
+      "see": "Lihat",
+      "position": "Posisi",
+      "degree": "Gelar",
+      "certification": "Sertifikasi",
+      "sectionsForm": {
+        "about": {
+          "label": "Deskripsi tentang diri Anda",
+          "placeholder": "Ceritakan tentang diri Anda, latar belakang, minat, dan keahlian Anda..."
+        },
+        "skills": {
+          "addPlaceholder": "Ketik skill lalu tekan Enter..."
+        },
+        "projects": {
+          "title": "Nama Project",
+          "titlePlaceholder": "Nama project...",
+          "url": "URL Project",
+          "description": "Deskripsi",
+          "descriptionPlaceholder": "Deskripsi singkat project...",
+          "uploadThumbnail": "Gambar Project",
+          "addProject": "Tambah Project",
+          "projectNum": "Project #",
+          "currentProject": "Ini adalah project yang sedang saya kerjakan"
+        },
+        "work": {
+          "company": "Perusahaan/Instansi",
+          "companyPlaceholder": "Nama perusahaan...",
+          "position": "Posisi/Jabatan",
+          "positionPlaceholder": "Posisi Anda...",
+          "employmentType": "Jenis Pekerjaan",
+          "location": "Lokasi",
+          "locationPlaceholder": "Kota, Negara...",
+          "startDate": "Mulai",
+          "endDate": "Selesai",
+          "currentWork": "Saya masih bekerja saat ini",
+          "description": "Deskripsi",
+          "descriptionPlaceholder": "Deskripsi pekerjaan dan tanggung jawab...",
+          "skills": "Keahlian",
+          "addExperience": "Tambah Pengalaman Kerja",
+          "experienceNum": "Pengalaman #",
+          "dateError": "Tanggal selesai tidak boleh lebih awal dari tanggal mulai"
+        },
+        "org": {
+          "organization": "Nama Organisasi",
+          "orgPlaceholder": "BEM Universitas...",
+          "role": "Peran/Jabatan",
+          "rolePlaceholder": "Ketua Divisi...",
+          "addOrg": "Tambah Pengalaman Organisasi",
+          "orgNum": "Organisasi #"
+        },
+        "contact": {
+          "contactNum": "Kontak #",
+          "platform": "Platform",
+          "displayText": "Teks Tampilan",
+          "displayTextPlaceholder": "misal: you@email.com atau @username",
+          "url": "Tautan (URL)",
+          "urlPlaceholderWhatsapp": "misal: 62812... (tanpa angka 0 di depan)",
+          "urlPlaceholderEmail": "misal: you@email.com",
+          "urlPlaceholderWebsite": "misal: https://...",
+          "urlPlaceholderDefault": "misal: username",
+          "addContact": "Tambah Kontak"
+        },
+        "edu": {
+          "institution": "Institusi Pendidikan",
+          "institutionPlaceholder": "Nama kampus atau sekolah...",
+          "degree": "Gelar",
+          "degreePlaceholder": "S1, SMA, dll...",
+          "major": "Jurusan/Bidang Studi",
+          "majorPlaceholder": "Teknik Informatika...",
+          "gpa": "IPK (opsional)",
+          "currentStudy": "Saya masih belajar di sini",
+          "descriptionPlaceholder": "Aktivitas dan pencapaian selama studi...",
+          "addEdu": "Tambah Pendidikan",
+          "eduNum": "Pendidikan #"
+        },
+        "cert": {
+          "name": "Nama Sertifikasi / Pelatihan",
+          "namePlaceholder": "Nama sertifikasi...",
+          "issuer": "Penerbit",
+          "issuerPlaceholder": "Lembaga penerbit...",
+          "issueDate": "Mulai (Tanggal Terbit)",
+          "issueDatePlaceholder": "Pilih tanggal terbit...",
+          "expiryDate": "Selesai (Masa Berlaku)",
+          "expiryDatePlaceholder": "Pilih tanggal kedaluwarsa...",
+          "noExpiry": "Sertifikat ini tidak memiliki masa kedaluwarsa",
+          "url": "URL Credential",
+          "uploadThumbnail": "Gambar Sertifikat / Pelatihan",
+          "uploadThumbnailLimit": "Upload gambar sertifikat (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Tambah Sertifikasi",
+          "certNum": "Sertifikasi #"
+        }
+      },
+      "deletePhotoTitle": "Hapus Foto Profil?",
+      "deletePhotoMessage": "Apakah Anda yakin ingin menghapus foto profil ini?",
+      "cancel": "Membatalkan",
+      "delete": "Menghapus"
+    },
+    "cropper": {
+      "chooseBackground": "Pilih Latar Belakang",
+      "cropPhoto": "Potong Foto Anda",
+      "useOriginal": "Gunakan asli",
+      "backgroundPresets": "Preset Latar Belakang",
+      "none": "Kosong",
+      "uploadBackground": "Unggah Latar Belakang",
+      "cancel": "Batal",
+      "savePhoto": "Simpan Foto",
+      "zoom": "Perbesar",
+      "rotationTilt": "Rotasi & Miring",
+      "resetRotation": "Atur ulang ke 0°",
+      "center": "Tengah",
+      "rotateLeft": "Putar -90°",
+      "rotateRight": "Putar +90°",
+      "removeBackground": "Hapus Latar Belakang",
+      "processing": "Memproses gambar Anda, mohon tunggu..."
+    },
+    "cvPreview": {
+      "title": "Pratinjau CV",
+      "downloadCv": "Unduh CV",
+      "download": "Unduh",
+      "wordCannotPreview": "Dokumen Word (.doc/.docx) tidak dapat dipratinjau langsung di browser. Silakan unduh file untuk melihatnya.",
+      "downloadFile": "Unduh File CV",
+      "back": "Kembali",
+      "mobileMessage": "Silakan unduh file CV untuk melihat pratinjau CV.",
+      "preview": "Pratinjau CV",
+      "wordPreviewTitle": "Pratinjau Dokumen Word",
+      "wordPreviewMessage": "Dokumen Word (.doc/.docx) tidak dapat dipratinjau secara asli di browser. Silakan unduh file untuk melihatnya."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Tulis penjelasan singkat tentang diri Anda, minat, dan tujuan karir Anda..."
+    },
+    "skills": {
+      "placeholder": "Ketik nama skill...",
+      "add": "Tambah",
+      "enterToAdd": "Tekan Enter untuk menambah",
+      "noSkills": "Belum ada keahlian ditambahkan."
+    },
+    "projects": {
+      "projectName": "Nama Proyek",
+      "projectNamePlaceholder": "mis. Aplikasi E-Commerce",
+      "projectUrl": "URL Proyek",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Durasi",
+      "startMonth": "Bulan Mulai",
+      "startYear": "Tahun Mulai",
+      "endMonth": "Bulan Selesai",
+      "endYear": "Tahun Selesai",
+      "currentlyWorking": "Saat ini masih mengerjakan",
+      "description": "Deskripsi",
+      "descriptionPlaceholder": "Jelaskan proyek, peran Anda, dan pencapaiannya...",
+      "technologies": "Teknologi yang Digunakan",
+      "addProject": "Tambah Proyek",
+      "image": "Gambar Proyek",
+      "removeImage": "Hapus Gambar",
+      "uploadImage": "Klik untuk mengunggah gambar"
+    },
+    "work": {
+      "company": "Perusahaan/Instansi",
+      "companyPlaceholder": "Nama perusahaan...",
+      "role": "Posisi/Jabatan",
+      "rolePlaceholder": "Posisi Anda...",
+      "jobType": "Jenis Pekerjaan",
+      "selectJobType": "Pilih jenis",
+      "fullTime": "Penuh Waktu (Full-time)",
+      "partTime": "Paruh Waktu (Part-time)",
+      "contract": "Kontrak (Contract)",
+      "internship": "Magang (Internship)",
+      "freelance": "Pekerja Lepas (Freelance)",
+      "location": "Lokasi",
+      "locationPlaceholder": "mis. Jakarta / Remote",
+      "duration": "Durasi",
+      "currentlyWorking": "Saat ini masih bekerja di sini",
+      "description": "Deskripsi Pekerjaan",
+      "descriptionPlaceholder": "Jelaskan tanggung jawab utama dan pencapaian Anda...",
+      "skills": "Keahlian Spesifik",
+      "addExperience": "Tambah Pengalaman"
+    },
+    "org": {
+      "organization": "Nama Organisasi",
+      "organizationPlaceholder": "Nama organisasi...",
+      "role": "Peran/Jabatan",
+      "rolePlaceholder": "mis. Ketua, Anggota...",
+      "duration": "Durasi",
+      "periodFormat": "atau isi Format Bebas (mis. 2020 - 2022)",
+      "periodPlaceholder": "mis. 2020 - 2022",
+      "currentlyActive": "Saat ini masih aktif",
+      "description": "Deskripsi Kegiatan",
+      "descriptionPlaceholder": "Jelaskan kegiatan atau kontribusi Anda...",
+      "addExperience": "Tambah Pengalaman"
+    },
+    "education": {
+      "institution": "Nama Institusi",
+      "institutionPlaceholder": "Nama sekolah atau universitas...",
+      "degree": "Gelar/Tingkat",
+      "degreePlaceholder": "mis. S1, SMA...",
+      "major": "Jurusan/Program Studi",
+      "majorPlaceholder": "mis. Teknik Informatika...",
+      "gpa": "IPK / Nilai",
+      "gpaPlaceholder": "mis. 3.85 / 4.00",
+      "duration": "Durasi Pendidikan",
+      "periodFormat": "atau isi Format Bebas (mis. 2018 - 2022)",
+      "periodPlaceholder": "mis. 2018 - 2022",
+      "currentlyStudying": "Saat ini masih menempuh pendidikan",
+      "description": "Aktivitas / Penghargaan",
+      "descriptionPlaceholder": "Jelaskan aktivitas akademik, organisasi, atau penghargaan yang didapat...",
+      "addEducation": "Tambah Pendidikan"
+    },
+    "cert": {
+      "name": "Nama Sertifikasi",
+      "namePlaceholder": "mis. AWS Certified Developer...",
+      "issuer": "Lembaga Penerbit",
+      "issuerPlaceholder": "mis. Amazon Web Services...",
+      "issueDate": "Tanggal Terbit",
+      "expiryDate": "Berlaku Hingga",
+      "noExpiry": "Sertifikasi ini tidak memiliki masa berlaku",
+      "yearPlaceholder": "atau isi Tahun (mis. 2023)",
+      "credentialUrl": "URL Kredensial",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Keahlian Terkait",
+      "addCertification": "Tambah Sertifikasi",
+      "image": "Gambar/Logo",
+      "removeImage": "Hapus Gambar",
+      "uploadImage": "Klik untuk mengunggah gambar"
+    },
+    "common": {
+      "months": {
+        "1": "Januari",
+        "2": "Februari",
+        "3": "Maret",
+        "4": "April",
+        "5": "Mei",
+        "6": "Juni",
+        "7": "Juli",
+        "8": "Agustus",
+        "9": "September",
+        "10": "Oktober",
+        "11": "November",
+        "12": "Desember"
+      },
+      "month": "Bulan",
+      "year": "Tahun",
+      "invalidDate": "Bulan Selesai tidak valid",
+      "words": "kata"
+    }
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "subtitle": "Kelola profil dan preferensi portfolio Anda",
+    "tabs": {
+      "profile": "Pengaturan Akun",
+      "security": "Privasi & Keamanan",
+      "personalization": "Personalisasi"
+    },
+    "profile": {
+      "infoTitle": "Informasi Dasar",
+      "photo": "Foto Profil",
+      "uploadPhoto": "Ganti Foto",
+      "fullName": "Nama Lengkap",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Alamat Email",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Email digunakan untuk login dan tidak ditampilkan secara publik.",
+      "portfolioUrl": "URL Portfolio",
+      "saveProfile": "Simpan Profil",
+      "save": "Simpan Profil",
+      "accountCreated": "Akun Dibuat",
+      "lastLogin": "Terakhir Login",
+      "oauthNotice": "Profil ini terhubung dengan akun {{provider}} Anda. Perubahan profil harus dilakukan melalui penyedia layanan tersebut."
+    },
+    "security": {
+      "changePassword": "Ubah Kata Sandi",
+      "currentPassword": "Kata Sandi Saat Ini",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Kata Sandi Baru",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Konfirmasi Kata Sandi Baru",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Minimal 8 karakter",
+        "uppercase": "Satu huruf besar (A-Z)",
+        "number": "Satu angka (0-9)",
+        "symbol": "Satu simbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Kata Sandi",
+      "updatePassword": "Perbarui Kata Sandi",
+      "additionalSecurity": "Keamanan Tambahan",
+      "twoFactor": "Autentikasi Dua Faktor (2FA)",
+      "twoFactorDesc": "Amankan akun Anda menggunakan kode OTP tambahan.",
+      "activeSessions": "Sesi Aktif",
+      "activeSessionsDesc": "Selalu izinkan untuk memantau aktivitas perangkat yang masuk.",
+      "publicVisibility": "Visibilitas Publik",
+      "hideFromSearch": "Sembunyikan Portfolio dari Mesin Pencari",
+      "hideFromSearchDesc": "Mencegah Google mengindeks halaman portfolio publik Anda.",
+      "disable2fa": {
+        "title": "Nonaktifkan 2FA",
+        "description": "Apakah Anda yakin ingin menonaktifkan autentikasi dua faktor?",
+        "confirmPasswordLabel": "Masukkan kata sandi Anda untuk mengonfirmasi",
+        "currentPasswordPlaceholder": "Kata sandi saat ini",
+        "cancelButton": "Batalkan",
+        "confirmButton": "Nonaktifkan 2FA",
+        "incorrectPassword": "Kata sandi salah."
+      },
+      "setup2fa": {
+        "step1Title": "1. Pindai Kode QR",
+        "step1Desc": "Buka aplikasi autentikator Anda dan pindai kode QR berikut:",
+        "unableToScan": "Tidak dapat memindai? Gunakan kunci pengaturan",
+        "step2Title": "2. Verifikasi Kode",
+        "step2Desc": "Masukkan kode 6 digit yang dihasilkan oleh aplikasi Anda:",
+        "cancelButton": "Membatalkan",
+        "enableButton": "Aktifkan 2FA",
+        "invalidLength": "Silakan masukkan kode 6 digit.",
+        "invalidCode": "Kode verifikasi tidak valid. Silakan coba lagi."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Bahasa Kontrol",
+      "appLanguage": "Bahasa Aplikasi",
+      "layoutTitle": "Layout & Tipografi",
+      "layoutStyle": "Gaya Tata Letak",
+      "layoutModern": "Gaya Modern (Default)",
+      "layoutClassic": "Gaya Klasik",
+      "layoutMinimalist": "Gaya Minimalis",
+      "fontSize": "Ukuran Font Aplikasi",
+      "fontSmall": "Kecil (Small)",
+      "fontNormal": "Normal (Medium)",
+      "fontLarge": "Besar (Large)",
+      "searchLanguage": "Cari bahasa...",
+      "languageNotFound": "Bahasa tidak ditemukan",
+      "layoutElegant": "Gaya Elegan"
+    },
+    "about": {
+      "title": "Tentang Aplikasi",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "Versi",
+      "description": "DevFolio adalah platform pembuat portofolio modern yang dirancang untuk developer, desainer, dan kreator profesional. Dengan DevFolio, Anda dapat membangun dan mempublikasikan portofolio Anda secara cepat dan mudah.",
+      "license": "Lisensi & Hak Cipta",
+      "copyright": "© 2026 DevFolio Inc. Seluruh hak cipta dilindungi undang-undang.",
+      "developer": "Developer",
+      "developedBy": "Dikembangkan oleh DevFolio Tim"
+    },
+    "saveChanges": "Simpan Perubahan",
+    "cancel": "Batal",
+    "appSettings": "Pengaturan Aplikasi",
+    "logoutConfirmTitle": "Konfirmasi Logout",
+    "logoutConfirmDesc": "Apakah anda yakin ingin logout dari sistem?",
+    "logoutConfirmYes": "Ya, Logout",
+    "generalError": "Terjadi kesalahan. Silakan coba lagi.",
+    "success": "Berhasil",
+    "preferencesSaved": "Preferensi aplikasi berhasil disimpan.",
+    "header": "Pengaturan Aplikasi",
+    "logout": {
+      "title": "Konfirmasi Keluar",
+      "message": "Apakah Anda yakin ingin keluar dari sistem?",
+      "confirm": "Ya, Keluar"
+    },
+    "deleteAccount": {
+      "title": "Hapus Akun Permanen",
+      "menuItem": "Hapus Akun",
+      "successTitle": "Sukses",
+      "successMessage": "Email konfirmasi penghapusan akun telah dikirim.",
+      "errorTitle": "Gagal",
+      "errorMessage": "Gagal mengirim email konfirmasi.",
+      "confirmationMessage": "Apakah Anda yakin ingin menghapus akun Anda secara permanen?",
+      "warningMessage1": "Anda akan menerima email untuk melakukan konfirmasi penghapusan akun.",
+      "warningMessage2": "Jika dikonfirmasi, seluruh data (portfolio, proyek, statistik) akan terhapus secara permanen dan tidak bisa dipulihkan kembali.",
+      "cancel": "Batal",
+      "confirm": "Konfirmasi"
+    },
+    "toasts": {
+      "toastError": "Kesalahan",
+      "toastSuccess": "Kesuksesan",
+      "toastSetup2FAFailed": "Gagal menyiapkan 2FA. Silakan coba lagi.",
+      "toast2FAEnabled": "Otentikasi dua faktor telah diaktifkan.",
+      "toast2FADisabled": "Otentikasi dua faktor telah dinonaktifkan.",
+      "toastSessionEnabled": "Pemantauan sesi aktif telah diaktifkan.",
+      "toastSessionDisabled": "Pemantauan sesi aktif telah dinonaktifkan.",
+      "toastSetupKeyCopied": "Kunci pengaturan disalin ke clipboard."
+    },
+    "privacy": {
+      "title": "Kebijakan Privasi",
+      "updateDate": "Terakhir Diperbarui: 15 Juli 2026",
+      "intro": "Kebijakan Privasi ini menjelaskan bagaimana DevFolio mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda saat menggunakan layanan kami.",
+      "section1Title": "1. Informasi yang Kami Kumpulkan",
+      "section1Content": "Kami mengumpulkan informasi yang Anda berikan secara langsung saat membuat akun, membangun portofolio, dan menghubungi dukungan kami. ",
+      "section2Title": "2. Penggunaan Informasi",
+      "section2Content": "Informasi Anda digunakan untuk mengoperasikan, memelihara, dan menyediakan fitur layanan kami, serta untuk berkomunikasi dengan Anda mengenai akun atau layanan Anda.",
+      "section3Title": "3. Keamanan Data",
+      "section3Content": "Kami menerapkan langkah-langkah keamanan yang wajar untuk melindungi informasi Anda dari akses, pengungkapan, atau penghancuran yang tidak sah."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token konfirmasi tidak ditemukan.",
+    "defaultError": "Gagal menghapus akun. Token mungkin sudah kedaluwarsa.",
+    "loadingTitle": "Menghapus Akun...",
+    "loadingMessage": "Mohon tunggu, kami sedang memproses permintaan Anda.",
+    "successTitle": "Akun Berhasil Dihapus",
+    "successMessage": "Semua data Anda telah dihapus secara permanen. Anda akan dialihkan...",
+    "errorTitle": "Gagal Menghapus Akun",
+    "backToHome": "Kembali ke Beranda"
+  },
+  "forgotPassword": {
+    "minutes": "menit",
+    "seconds": "detik",
+    "success": "Berhasil",
+    "otpSentToEmail": "Kode OTP telah dikirim ke email Anda.",
+    "failed": "Gagal",
+    "emailNotFound": "Email tidak ditemukan.",
+    "emailThirdParty": "Email ini terdaftar melalui pihak ketiga.",
+    "genericError": "Terjadi kesalahan. Silakan coba lagi.",
+    "otpVerified": "Kode OTP berhasil diverifikasi.",
+    "otpExpired": "Kode OTP sudah kedaluwarsa. Silakan minta kode baru.",
+    "otpInvalid": "Kode OTP tidak valid.",
+    "otpResent": "Kode OTP baru telah dikirim ke email Anda.",
+    "otpResendFailed": "Gagal mengirim ulang kode OTP. Silakan coba lagi.",
+    "passwordResetSuccess": "Password berhasil direset. Silakan login dengan password baru Anda.",
+    "passwordResetFailed": "Gagal mereset password.",
+    "backToLogin": "Kembali ke Login",
+    "back": "Kembali",
+    "title": "Lupa Password",
+    "description": "Masukkan alamat email yang terdaftar pada akun Anda. Kami akan mengirimkan kode OTP untuk mereset password.",
+    "emailLabel": "Alamat Email",
+    "sending": "Mengirim...",
+    "sendOtp": "Kirim Kode OTP",
+    "verifyOtpTitle": "Verifikasi Kode OTP",
+    "verifyOtpDesc": "Masukkan 6 digit kode yang telah dikirimkan ke email Anda untuk mengonfirmasi identitas Anda.",
+    "verifying": "Memverifikasi...",
+    "verifyOtp": "Verifikasi OTP",
+    "resending": "Mengirim ulang...",
+    "resendOtp": "Kirim Ulang Kode OTP",
+    "resendCodeIn": "Kirim ulang kode dalam",
+    "newPasswordTitle": "Buat Password Baru",
+    "newPasswordDesc": "Buat password baru yang kuat untuk mengamankan akun Anda.",
+    "newPasswordLabel": "Password Baru",
+    "min8Chars": "Minimal 8 karakter",
+    "oneUpperCase": "1 huruf besar (A-Z)",
+    "oneNumber": "1 angka (0-9)",
+    "oneSymbol": "1 simbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Konfirmasi Password",
+    "passwordsDoNotMatch": "Password tidak cocok.",
+    "resettingPassword": "Mereset Password...",
+    "resetPassword": "Reset Password"
+  },
+  "verifyEmail": {
+    "resendError": "Gagal mengirim ulang email verifikasi. Silakan coba lagi.",
+    "checkingStatus": "Memeriksa status verifikasi...",
+    "title": "Cek Email Anda",
+    "description": "Kami telah mengirim email verifikasi ke alamat email Anda. Silakan buka email tersebut dan klik tombol <1>\"Konfirmasi Akun\"</1> untuk mengaktifkan akun Anda.",
+    "stepsTitle": "Langkah-langkah",
+    "step1": "Buka aplikasi email Anda (Gmail, Yahoo, dll)",
+    "step2": "Cari email dari DevFolio dengan subjek \"Aktivasi Akun\"",
+    "step3": "Klik tombol \"Konfirmasi Akun\" di dalam email",
+    "step4": "Anda akan diarahkan ke halaman login untuk masuk",
+    "resendSuccess": "Email verifikasi telah dikirim ulang!",
+    "resending": "Mengirim ulang...",
+    "resendButton": "Kirim Ulang Email Verifikasi",
+    "backToLogin": "Kembali ke Halaman Login",
+    "footerNote": "Tidak menerima email? Periksa folder <1>Spam</1> atau <2>Junk</2> di email Anda. Link verifikasi berlaku selama <3>24 jam</3>."
+  }
+}

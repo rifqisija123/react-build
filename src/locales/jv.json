@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Fitur",
+    "templates": "Cithakan",
+    "pricing": "pricing",
+    "login": "mlebu",
+    "getStarted": "Miwiti",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Pembangun portofolio utama kanggo pangembang",
+    "title1": "Mbangun profesional sampeyan",
+    "title2": "portofolio ing",
+    "titleHighlight": "detik.",
+    "subtitle": "Kabeh sing dibutuhake kanggo nampilake katrampilan, proyek, lan pengalaman. ",
+    "startBuilding": "Mulai Bangunan Saiki",
+    "viewTemplates": "Ndeleng Cithakan",
+    "fastDeployment": "Panyebaran Cepet",
+    "liveStatus": "username.dev wis urip!",
+    "featuresTitle": "Fitur Kuat",
+    "featuresSubtitle": "We nyedhiyani kabeh alat sing perlu kanggo ngadeg metu saka wong akeh lan nampa proyek ngimpi.",
+    "feature1Title": "Seret & Selehake Builder",
+    "feature1Desc": "Atur bagean, proyek, lan katrampilan kanthi gampang nganggo editor visual intuisi.",
+    "feature2Title": "Tema Custom",
+    "feature2Desc": "Pilih saka template sing dirancang kanthi profesional utawa gawe tampilan unik sampeyan dhewe.",
+    "feature3Title": "Analytics wektu nyata",
+    "feature3Desc": "Lacak pengunjung, deleng proyek endi sing paling disenengi, lan liya-liyane."
+  },
+  "auth": {
+    "welcomeBack": "Sugeng rawuh",
+    "loginToContinue": "Mlebu menyang akun kanggo nerusake",
+    "createAccount": "Nggawe Akun",
+    "joinCommunity": "Gabung ewu pangembang liyane",
+    "fullName": "Jeneng Lengkap",
+    "fullNamePlaceholder": "contone ",
+    "email": "Alamat Email",
+    "emailPlaceholder": "sampeyan@conto.com",
+    "password": "Sandi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Elingi aku",
+    "forgotPassword": "Kelalen sandi?",
+    "signIn": "Mlebu",
+    "signingIn": "Mlebu...",
+    "signUp": "Ndaftar",
+    "signingUp": "Ndaftar...",
+    "noAccount": "Ora duwe akun?",
+    "hasAccount": "Wis duwe akun?",
+    "passwordRules": {
+      "title": "Tembung sandhi kudu ngemot:",
+      "length": "Paling ora 8 karakter",
+      "uppercase": "Siji huruf gedhe (A-Z)",
+      "number": "Nomer siji (0-9)",
+      "symbol": "Siji simbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portofolio Builder",
+      "templates": "Cithakan & Tema",
+      "settings": "Setelan",
+      "collapse": "Ambruk Sidebar",
+      "overview": "Ringkesan",
+      "profileSettings": "Setelan Profil",
+      "customDomain": "Domain khusus",
+      "feedback": "Umpan balik"
+    },
+    "header": {
+      "viewLive": "Ndeleng Live",
+      "welcome": "Sugeng rawuh,",
+      "logout": "logout",
+      "builder": "Tukang gawe",
+      "livePortfolio": "Portofolio Urip",
+      "live": "Urip"
+    },
+    "logoutModal": {
+      "title": "logout",
+      "message": "Apa sampeyan yakin arep metu saka akun sampeyan? ",
+      "cancel": "Batal",
+      "confirm": "Ya, Logout"
+    },
+    "slugModal": {
+      "title": "Pilih URL Portofolio Panjenengan",
+      "message": "URL iki bakal dadi link unik menyang portofolio sampeyan. ",
+      "slugPlaceholder": "jenengmu",
+      "availability": "kasedhiyan:",
+      "available": "kasedhiya",
+      "unavailable": "Ora kasedhiya",
+      "checking": "Priksa...",
+      "mustFormat": "Mung bisa ngemot huruf, angka, lan garis (-)",
+      "cancel": "Batal",
+      "save": "Simpen URL",
+      "usernameUrl": "URL jeneng panganggo",
+      "helpText": "Huruf cilik, angka, lan garis. ",
+      "validation": {
+        "empty": "Slug ora bisa kosong.",
+        "min3": "Minimal 3 karakter.",
+        "max30": "Maksimal 30 karakter.",
+        "format": "Mung aksara cilik, angka, lan garis (-). "
+      }
+    },
+    "loadingPortfolio": "Ngunggah data portofolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Sugeng enjang",
+        "afternoon": "sugeng sonten",
+        "evening": "sugeng sonten",
+        "night": "Sugeng dalu"
+      },
+      "welcome": {
+        "hi": "halo,",
+        "creator": "pangripta",
+        "desc1": "Sugeng rawuh ing dashboard DevFolio. Portofolio sampeyan wis dideleng dening",
+        "desc2": "wong. Terus kerja!",
+        "editPortfolio": "Sunting Portofolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Pengunjung",
+        "projectViews": "Dideleng (Proyek)",
+        "activeSessions": "Sesi Aktif",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Kemajuan Setup",
+        "completed": "Portofolio sampeyan wis rampung! 🎉",
+        "inProgress": "Langkah menyang portofolio sampurna.",
+        "profile": {
+          "title": "Profil Lengkap",
+          "desc": "Tambah jeneng, bio lan foto profil."
+        },
+        "section": {
+          "title": "Tambah Bagean",
+          "desc": "Aktifake paling sethithik 1 bagean ing portofolio."
+        },
+        "project": {
+          "title": "Tambah Proyek",
+          "desc": "Ketik paling ora 1 proyek paling apik sampeyan."
+        },
+        "publish": {
+          "title": "Nerbitake Portofolio",
+          "desc": "Setel URL khusus supaya bisa diakses dening umum."
+        }
+      },
+      "topProjects": {
+        "title": "Proyek Paling Popular",
+        "desc": "Kinerja karya sampeyan ing mata pengunjung.",
+        "viewAll": "Waca Kabeh",
+        "empty": "Durung ana data tampilan kanggo proyek sampeyan."
+      }
+    },
+    "themes": {
+      "title": "Cithakan & Tema",
+      "subtitle": "Setel tampilan lan rasa portofolio umum sampeyan.",
+      "reset": "Reset Default",
+      "save": "Simpen Owah-owahan",
+      "saving": "Ngirit...",
+      "chooseTemplate": "Pilih Cithakan",
+      "primaryColor": "Warna Utama",
+      "typography": "Tipografi",
+      "appearance": "Katon",
+      "corners": "Pojok & Wates",
+      "successTitle": "Sukses",
+      "successMessage": "Preferensi tema kasil dianyari",
+      "errorTitle": "Kasalahan",
+      "errorMessage": "Gagal nyimpen preferensi tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalis",
+          "desc": "Desain sing resik lan prasaja fokus ing konten."
+        },
+        "developerDark": {
+          "name": "Pangembang Peteng",
+          "desc": "Tema peteng sampurna kanggo nampilake kode lan tumpukan teknologi."
+        },
+        "creative": {
+          "name": "Kreatif",
+          "desc": "Tata letak sing sregep lan warni kanggo desainer lan kreatif."
+        },
+        "executive": {
+          "name": "Eksekutif",
+          "desc": "Tata letak profesional lan formal kanggo profesional bisnis."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Tata letak kothak gaya Apple modern sing nyorot katrampilan sing beda kanthi efisien."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalisme",
+          "desc": "Watesan sing kandel lan warna kontras sing dhuwur kanggo tampilan sing trendi lan ora nyenengake."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Efek kaca buram liwat gradien warna-warni kanggo UI modern sing ramping."
+        },
+        "linkInBio": {
+          "name": "Link ing Bio",
+          "desc": "Tata letak vertikal kompak sing dioptimalake kanggo layar seluler lan media sosial."
+        }
+      },
+      "appearances": {
+        "light": "Cahya",
+        "dark": "Peteng",
+        "system": "Sistem"
+      },
+      "cornersOptions": {
+        "sharp": "Cepet",
+        "rounded": "Bunder",
+        "pill": "Pil"
+      }
+    },
+    "feedback": {
+      "title": "Kirimi Umpan Balik",
+      "subtitle": "Tulung kita dadi luwih apik kanthi menehi saran, kritik, utawa nglaporake bug ing aplikasi iki.",
+      "categoryLabel": "Kategori Umpan Balik",
+      "messageLabel": "Rincian Pesen",
+      "messagePlaceholder": "Cekap semanten atur pamrayogi ingkang badhe dipun aturaken...",
+      "imageLabel": "Lampiran Gambar (Opsional)",
+      "imagePlaceholder": "Klik kanggo ngunggah gambar utawa gambar",
+      "submitting": "Ngirim...",
+      "submitBtn": "Kirimi Umpan Balik",
+      "categories": {
+        "suggestion": "Saran & Gagasan",
+        "bug": "Laporan Bug / Kasalahan",
+        "criticism": "Kritik",
+        "other": "Liyane"
+      },
+      "imageErrorTitle": "Kasalahan",
+      "imageErrorMessage": "Sawetara file ditolak amarga ora didhukung format gambar (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Sukses",
+      "successMessage": "Matur nuwun kanggo saran! Laporan wis dikirim.",
+      "submitErrorTitle": "Gagal",
+      "submitErrorMessage": "Ana kesalahan nalika ngirim umpan balik. Coba maneh."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Babagan Aku",
+      "skills": "Katrampilan",
+      "projects": "Proyek",
+      "workExperience": "Pengalaman Kerja",
+      "orgExperience": "Pengalaman Organisasi",
+      "education": "Pendidikan",
+      "certifications": "Pelatihan & Sertifikasi",
+      "contact": "Kontak Aku"
+    },
+    "editor": {
+      "profileInfo": "Informasi Profil",
+      "saving": "Ngirit...",
+      "profilePhoto": "Foto Profile",
+      "clickToUpload": "Klik kanggo ngunggah (JPG, PNG)",
+      "fullName": "Jeneng Lengkap",
+      "fullNamePlaceholder": "contone ",
+      "bio": "bio",
+      "bioPlaceholder": "Fullstack Developer kanthi semangat nggawe aplikasi web modern...",
+      "location": "lokasi",
+      "locationPlaceholder": "contone ",
+      "gender": "jinis kelamin",
+      "selectGender": "Pilih Gender",
+      "male": "lanang",
+      "female": "wadon",
+      "custom": "adat",
+      "customPlaceholder": "Ketik jenis kelamin khusus sampeyan...",
+      "uploadCv": "Unggahan CV",
+      "cvFormat": "(DOC utawa PDF)",
+      "preview": "Pratinjau",
+      "remove": "Mbusak",
+      "clickToUploadCv": "Klik kanggo ngunggah PDF utawa DOC",
+      "sections": "bagean",
+      "removeSelected": "Mbusak Dipilih",
+      "confirmRemove": "Konfirmasi Mbusak",
+      "addSection": "Tambah bagean",
+      "addAllSections": "Tambah Kabeh Bagean",
+      "noSections": "Durung ana bagean",
+      "clickToAdd": "Klik \"+ Tambah Bagean\" kanggo miwiti",
+      "selectAll": "Pilih Kabeh",
+      "selected": "Dipilih",
+      "dragToReorder": "Seret kanggo ngatur maneh bagean",
+      "livePreview": "Pratinjau Langsung",
+      "addSectionsToBuild": "Tambah bagean kanggo mbangun portofolio",
+      "now": "Saiki",
+      "current": "saiki",
+      "noExpiry": "Ora Kadaluwarsa",
+      "see": "Delengen",
+      "position": "posisi",
+      "degree": "gelar",
+      "certification": "Sertifikasi",
+      "sectionsForm": {
+        "about": {
+          "label": "Katrangan saka dhewe",
+          "placeholder": "Dakkandhani babagan sampeyan, latar mburi, minat lan katrampilan ..."
+        },
+        "skills": {
+          "addPlaceholder": "Ketik skill banjur tekan Enter..."
+        },
+        "projects": {
+          "title": "Jeneng Proyek",
+          "titlePlaceholder": "Jeneng proyek...",
+          "url": "URL proyek",
+          "description": "Katrangan",
+          "descriptionPlaceholder": "Deskripsi singkat proyek...",
+          "uploadThumbnail": "Gambar Proyek",
+          "addProject": "Tambah Proyek",
+          "projectNum": "Proyek #",
+          "currentProject": "Iki proyek aku nggarap"
+        },
+        "work": {
+          "company": "Perusahaan/Agensi",
+          "companyPlaceholder": "Jeneng perusahaan...",
+          "position": "Jabatan/Judul",
+          "positionPlaceholder": "Posisimu...",
+          "employmentType": "Jinis karya",
+          "location": "lokasi",
+          "locationPlaceholder": "Kutha, Negara ...",
+          "startDate": "Miwiti",
+          "endDate": "Rampung",
+          "currentWork": "Aku isih kerja saiki",
+          "description": "Katrangan",
+          "descriptionPlaceholder": "Deskripsi proyek lan tanggung jawab ...",
+          "skills": "Skill",
+          "addExperience": "Tambah Pengalaman Kerja",
+          "experienceNum": "Pengalaman #",
+          "dateError": "Tanggal pungkasan ora bisa luwih awal tinimbang tanggal wiwitan"
+        },
+        "org": {
+          "organization": "Jeneng Organisasi",
+          "orgPlaceholder": "Universitas BEM...",
+          "role": "Peran / Posisi",
+          "rolePlaceholder": "Kepala Divisi...",
+          "addOrg": "Tambah Pengalaman Organisasi",
+          "orgNum": "Organisasi #"
+        },
+        "edu": {
+          "institution": "Lembaga Pendidikan",
+          "institutionPlaceholder": "Jeneng kampus utawa sekolah...",
+          "degree": "judhul",
+          "degreePlaceholder": "S1, SMA, lsp.",
+          "major": "Jurusan/Bidang Studi",
+          "majorPlaceholder": "Teknik Informatika...",
+          "gpa": "GPA (opsional)",
+          "currentStudy": "Aku isih sinau ing kene",
+          "descriptionPlaceholder": "Kegiatan lan prestasi nalika sinau ...",
+          "addEdu": "Tambah Pendidikan",
+          "eduNum": "Pendidikan #"
+        },
+        "cert": {
+          "name": "Jeneng Sertifikasi / Pelatihan",
+          "namePlaceholder": "Jeneng sertifikasi...",
+          "issuer": "Penerbit",
+          "issuerPlaceholder": "Lembaga penerbitan...",
+          "issueDate": "Mulai (Tanggal Penerbitan)",
+          "issueDatePlaceholder": "Pilih tanggal publikasi...",
+          "expiryDate": "Rampung (Periode Valid)",
+          "expiryDatePlaceholder": "Pilih tanggal kadaluwarsa...",
+          "noExpiry": "Sertifikat iki ora duwe tanggal kadaluwarsa",
+          "url": "URL kredensial",
+          "uploadThumbnail": "Gambar Sertifikat / Training",
+          "uploadThumbnailLimit": "Unggah gambar sertifikat (JPG/PNG/WEBP, maksimal 2MB)",
+          "addCert": "Tambah Sertifikasi",
+          "certNum": "Sertifikasi #"
+        },
+        "contact": {
+          "contactNum": "Kontak #",
+          "platform": "Platform",
+          "displayText": "Tampilan Teks",
+          "displayTextPlaceholder": "contone, sampeyan@email.com utawa @jeneng panganggo",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "contone, 62812... (tanpa ngarah 0)",
+          "urlPlaceholderEmail": "contone, sampeyan@email.com",
+          "urlPlaceholderWebsite": "contone, https://...",
+          "urlPlaceholderDefault": "contone, jeneng panganggo",
+          "addContact": "Tambah Kontak"
+        },
+        "common": {
+          "months": {
+            "1": "Januari",
+            "2": "Februari",
+            "3": "Maret",
+            "4": "April",
+            "5": "Mei",
+            "6": "Juni",
+            "7": "Juli",
+            "8": "Agustus",
+            "9": "September",
+            "10": "Oktober",
+            "11": "November",
+            "12": "Desember"
+          },
+          "month": "wulan",
+          "year": "taun",
+          "invalidDate": "Wulan Pungkasan Ora Sah",
+          "words": "tembung"
+        }
+      },
+      "sure": "mesthi",
+      "deletePhotoTitle": "Busak foto profil?",
+      "deletePhotoMessage": "Apa sampeyan yakin pengin mbusak foto profil iki?",
+      "cancel": "Batal",
+      "delete": "Mbusak"
+    },
+    "cropper": {
+      "chooseBackground": "Pilih Latar mburi",
+      "cropPhoto": "Potong Foto Sampeyan",
+      "useOriginal": "Gunakake asli",
+      "backgroundPresets": "Prasetel latar mburi",
+      "none": "ora ana",
+      "uploadBackground": "Upload Latar mburi",
+      "cancel": "Batal",
+      "savePhoto": "Simpen Foto",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotasi & Ngiringake",
+      "resetRotation": "Reset menyang 0 °",
+      "center": "tengah",
+      "rotateLeft": "Puter -90 °",
+      "rotateRight": "Puter +90 °",
+      "removeBackground": "Mbusak Latar mburi",
+      "processing": "Ngolah gambar sampeyan, mangga ngenteni ..."
+    },
+    "cvPreview": {
+      "title": "CV Pratinjau",
+      "downloadCv": "Unduh CV",
+      "download": "Ngundhuh",
+      "wordCannotPreview": "Dokumen Word (.doc/.docx) ora bisa dipratinjau kanthi asli ing browser. ",
+      "downloadFile": "Unduh File CV",
+      "back": "Mbalik",
+      "mobileMessage": "Mangga download file CV kanggo pratinjau.",
+      "preview": "Pratinjau CV",
+      "wordPreviewTitle": "Pratinjau Dokumen Word",
+      "wordPreviewMessage": "Dokumen Word (.doc/.docx) ora bisa dipratinjau kanthi asli ing browser. Mangga download file kanggo ndeleng."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Tulis katrangan singkat babagan sampeyan, kapentingan, lan tujuan karir ..."
+    },
+    "skills": {
+      "placeholder": "Ketik jeneng skill...",
+      "add": "Tambah",
+      "enterToAdd": "Pencet Enter kanggo nambah",
+      "noSkills": "Ora ana katrampilan sing ditambahake."
+    },
+    "projects": {
+      "projectName": "Jeneng Proyek",
+      "projectNamePlaceholder": "contone ",
+      "projectUrl": "URL proyek",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Duration",
+      "startMonth": "Wiwit Wulan",
+      "startYear": "Wiwitan Taun",
+      "endMonth": "Pungkasan Wulan",
+      "endYear": "Akhir Taun",
+      "currentlyWorking": "Saiki nggarap iki",
+      "description": "Katrangan",
+      "descriptionPlaceholder": "Nerangake proyek, peran, lan prestasi ...",
+      "technologies": "Teknologi sing Digunakake",
+      "addProject": "Tambah Proyek",
+      "image": "Gambar Proyek",
+      "removeImage": "Mbusak Gambar",
+      "uploadImage": "Klik kanggo ngunggah gambar"
+    },
+    "work": {
+      "company": "Perusahaan/Lembaga",
+      "companyPlaceholder": "Jeneng perusahaan...",
+      "role": "Peran / Posisi",
+      "rolePlaceholder": "Posisimu...",
+      "jobType": "Jinis Proyek",
+      "selectJobType": "Pilih jinis",
+      "fullTime": "Full-wektu",
+      "partTime": "Part-wektu",
+      "contract": "Kontrak",
+      "internship": "Internship",
+      "freelance": "Freelance",
+      "location": "lokasi",
+      "locationPlaceholder": "contone ",
+      "duration": "Duration",
+      "currentlyWorking": "Saiki kerja ing kene",
+      "description": "Deskripsi Proyek",
+      "descriptionPlaceholder": "Nerangake tanggung jawab utama lan prestasi sampeyan ...",
+      "skills": "Katrampilan khusus",
+      "addExperience": "Tambah Pengalaman"
+    },
+    "org": {
+      "organization": "Jeneng Organisasi",
+      "organizationPlaceholder": "Jeneng organisasi...",
+      "role": "Peran / Posisi",
+      "rolePlaceholder": "contone ",
+      "duration": "Duration",
+      "periodFormat": "utawa Format Gratis (contone 2020 - 2022)",
+      "periodPlaceholder": "contone ",
+      "currentlyActive": "Saiki aktif",
+      "description": "Deskripsi Kegiatan",
+      "descriptionPlaceholder": "Nerangake kegiatan utawa kontribusi sampeyan ...",
+      "addExperience": "Tambah Pengalaman"
+    },
+    "education": {
+      "institution": "Jeneng Institusi",
+      "institutionPlaceholder": "Jeneng sekolah utawa universitas ...",
+      "degree": "Gelar / Tingkat",
+      "degreePlaceholder": "contone ",
+      "major": "Jurusan/Bidang Studi",
+      "majorPlaceholder": "contone ",
+      "gpa": "GPA / Grade",
+      "gpaPlaceholder": "contone ",
+      "duration": "Duration Education",
+      "periodFormat": "utawa Format Gratis (contone 2018 - 2022)",
+      "periodPlaceholder": "contone ",
+      "currentlyStudying": "Saiki sinau ing kene",
+      "description": "Kegiatan / Kehormatan",
+      "descriptionPlaceholder": "Nerangake kegiatan akademik, organisasi, utawa penghargaan sing ditampa...",
+      "addEducation": "Tambah Pendidikan"
+    },
+    "cert": {
+      "name": "Jeneng Sertifikasi",
+      "namePlaceholder": "contone ",
+      "issuer": "Organisasi Penerbit",
+      "issuerPlaceholder": "contone ",
+      "issueDate": "Tanggal diterbitake",
+      "expiryDate": "Valid nganti",
+      "noExpiry": "Kredensial iki ora kadaluwarsa",
+      "yearPlaceholder": "utawa Taun (contone 2023)",
+      "credentialUrl": "URL kredensial",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Katrampilan sing gegandhengan",
+      "addCertification": "Tambah Sertifikasi",
+      "image": "Gambar/Logo",
+      "removeImage": "Mbusak Gambar",
+      "uploadImage": "Klik kanggo ngunggah gambar"
+    },
+    "common": {
+      "months": {
+        "1": "Januari",
+        "2": "Februari",
+        "3": "Maret",
+        "4": "April",
+        "5": "Mei",
+        "6": "Juni",
+        "7": "Juli",
+        "8": "Agustus",
+        "9": "September",
+        "10": "Oktober",
+        "11": "November",
+        "12": "Desember"
+      },
+      "month": "wulan",
+      "year": "taun",
+      "invalidDate": "Wulan Pungkasan Ora Sah",
+      "words": "tembung"
+    }
+  },
+  "settings": {
+    "title": "Setelan",
+    "subtitle": "Ngatur profil portofolio lan pilihan",
+    "tabs": {
+      "profile": "Profil Kula",
+      "security": "Keamanan",
+      "personalization": "Personalisasi"
+    },
+    "profile": {
+      "infoTitle": "Informasi dhasar",
+      "photo": "Foto Profile",
+      "uploadPhoto": "Ganti Foto",
+      "fullName": "Jeneng Lengkap",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Alamat Email",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Email digunakake kanggo mlebu lan ora ditampilake umum.",
+      "portfolioUrl": "URL portofolio",
+      "saveProfile": "Simpen Profil",
+      "save": "Simpen Profil",
+      "accountCreated": "Akun digawe",
+      "lastLogin": "Mlebet pungkasan",
+      "oauthNotice": "Profil iki disambungake menyang akun {{panyedhiya}} sampeyan. Pangowahan profil kudu ditindakake liwat panyedhiya layanan."
+    },
+    "security": {
+      "changePassword": "Ganti Sandi",
+      "currentPassword": "Sandi Saiki",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Sandi Anyar",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Konfirmasi Sandi Anyar",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Paling ora 8 karakter",
+        "uppercase": "Siji huruf gedhe (A-Z)",
+        "number": "Nomer siji (0-9)",
+        "symbol": "Siji simbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Sandi",
+      "updatePassword": "Nganyari Sandi",
+      "additionalSecurity": "Keamanan Tambahan",
+      "twoFactor": "Otentikasi Two-Factor (2FA)",
+      "twoFactorDesc": "Ngamanake akun sampeyan nggunakake kode OTP tambahan.",
+      "activeSessions": "Sesi Aktif",
+      "activeSessionsDesc": "Tansah ngidini ngawasi piranti sing mlebu log.",
+      "publicVisibility": "Visibilitas Umum",
+      "hideFromSearch": "Singidaken Portofolio saka Mesin Telusur",
+      "hideFromSearchDesc": "Nyegah Google ngindeks kaca portofolio umum sampeyan.",
+      "disable2fa": {
+        "title": "Pateni 2FA",
+        "description": "Apa sampeyan yakin pengin mateni otentikasi rong faktor?",
+        "confirmPasswordLabel": "Ketik sandhi kanggo konfirmasi",
+        "currentPasswordPlaceholder": "sandhi saiki",
+        "cancelButton": "Batal",
+        "confirmButton": "Pateni 2FA",
+        "incorrectPassword": "Sandi salah."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code",
+        "step1Desc": "Bukak app authenticator lan pindai kode QR ing ngisor iki:",
+        "unableToScan": "Ora bisa mindai? Gunakake tombol persiyapan",
+        "step2Title": "2. Verifikasi Kode",
+        "step2Desc": "Ketik kode 6 digit sing digawe dening aplikasi sampeyan:",
+        "cancelButton": "Batal",
+        "enableButton": "Aktifake 2FA",
+        "invalidLength": "Mangga ketik kode 6 digit.",
+        "invalidCode": "Kode verifikasi ora valid. Coba maneh."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontrol Basa",
+      "appLanguage": "Basa App",
+      "layoutTitle": "Tata letak & Tipografi",
+      "layoutStyle": "Gaya Tata Letak",
+      "layoutModern": "Gaya Modern (Default)",
+      "layoutClassic": "Gaya Klasik",
+      "layoutMinimalist": "Gaya Minimalis",
+      "fontSize": "Ukuran Font Aplikasi",
+      "fontSmall": "Cilik",
+      "fontNormal": "Normal (Medium)",
+      "fontLarge": "Gedhe",
+      "searchLanguage": "Telusuri basa...",
+      "languageNotFound": "Basa ora ditemokake",
+      "layoutElegant": "Gaya Elegan"
+    },
+    "saveChanges": "Simpen Owah-owahan",
+    "cancel": "Batal",
+    "appSettings": "Setelan App",
+    "logoutConfirmTitle": "Konfirmasi Logout",
+    "logoutConfirmDesc": "Apa sampeyan yakin arep metu saka sistem?",
+    "logoutConfirmYes": "Ya, Logout",
+    "generalError": "Ana kesalahan. ",
+    "success": "Sukses",
+    "preferencesSaved": "Preferensi app kasil disimpen.",
+    "header": "Setelan Aplikasi",
+    "logout": {
+      "title": "Konfirmasi Logout",
+      "message": "Apa sampeyan yakin arep metu saka sistem?",
+      "confirm": "Ya, Logout"
+    },
+    "about": {
+      "title": "Babagan Aplikasi",
+      "subtitle": "Platform Pangembang Portofolio",
+      "version": "Versi",
+      "description": "DevFolio minangka platform pembangun portofolio modern sing dirancang kanggo pangembang, desainer, lan kreator profesional. ",
+      "license": "Lisensi & Hak Cipta",
+      "copyright": "© 2026 DevFolio Inc. Kabeh hak dilindhungi undhang-undhang.",
+      "developer": "pangembang",
+      "developedBy": "Dikembangake dening Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Mbusak Akun Permanen",
+      "menuItem": "Busak Akun",
+      "successTitle": "Sukses",
+      "successMessage": "Email konfirmasi pambusakan akun wis dikirim.",
+      "errorTitle": "Gagal",
+      "errorMessage": "Gagal ngirim email konfirmasi.",
+      "confirmationMessage": "Apa sampeyan yakin pengin mbusak akun sampeyan kanthi permanen?",
+      "warningMessage1": "Sampeyan bakal nampa email kanggo konfirmasi pambusakan akun.",
+      "warningMessage2": "Yen dikonfirmasi, kabeh data (portofolio, proyek, statistik) bakal dibusak kanthi permanen lan ora bisa dibalekake maneh.",
+      "cancel": "Batal",
+      "confirm": "Konfirmasi"
+    },
+    "toasts": {
+      "toastError": "Kesalahan",
+      "toastSuccess": "Sukses",
+      "toastSetup2FAFailed": "Gagal nyetel 2FA. Coba maneh.",
+      "toast2FAEnabled": "Otentikasi rong faktor wis diaktifake.",
+      "toast2FADisabled": "Otentikasi rong faktor wis dipateni.",
+      "toastSessionEnabled": "Pemantauan sesi aktif wis diaktifake.",
+      "toastSessionDisabled": "Pemantauan sesi aktif wis dipateni.",
+      "toastSetupKeyCopied": "Tombol persiyapan disalin menyang clipboard."
+    },
+    "privacy": {
+      "title": "Kebijakan Privasi",
+      "updateDate": "Dianyari pungkasan: 15 Juli 2026",
+      "intro": "Kebijakan Privasi iki nerangake carane DevFolio ngumpulake, nggunakake, lan nglindhungi informasi pribadhi nalika nggunakake layanan kita.",
+      "section1Title": "1. Informasi Kita Nglumpukake",
+      "section1Content": "Kita ngumpulake informasi sing diwenehake langsung nalika nggawe akun, mbangun portofolio, lan ngubungi dhukungan. ",
+      "section2Title": "2. Panganggone Informasi",
+      "section2Content": "Informasi sampeyan digunakake kanggo ngoperasikake, njaga, lan nyedhiyakake fitur layanan kita, uga kanggo komunikasi karo sampeyan babagan akun utawa layanan sampeyan.",
+      "section3Title": "3. Keamanan Data",
+      "section3Content": "Kita ngetrapake langkah-langkah keamanan sing cukup kanggo nglindhungi informasi sampeyan saka akses, pambocoran, utawa karusakan sing ora sah."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token konfirmasi ora ditemokake.",
+    "defaultError": "Gagal mbusak akun. Token kasebut bisa uga wis kadaluwarsa.",
+    "loadingTitle": "Mbusak Akun...",
+    "loadingMessage": "Mangga ngenteni, kita lagi proses panjalukan sampeyan.",
+    "successTitle": "Akun Kasil Dibusak",
+    "successMessage": "Kabeh data sampeyan wis dibusak kanthi permanen. Sampeyan bakal dialihake ...",
+    "errorTitle": "Gagal Mbusak Akun",
+    "backToHome": "Bali menyang Omah"
+  },
+  "forgotPassword": {
+    "minutes": "menit",
+    "seconds": "detik",
+    "success": "Sukses",
+    "otpSentToEmail": "Kode OTP wis dikirim menyang email sampeyan.",
+    "failed": "Gagal",
+    "emailNotFound": "Email ora ditemokake.",
+    "emailThirdParty": "Email iki didaftar liwat pihak katelu.",
+    "genericError": "Ana kesalahan. Coba maneh.",
+    "otpVerified": "Kode OTP wis kasil diverifikasi.",
+    "otpExpired": "Kode OTP wis kadaluwarsa. Mangga njaluk kode anyar.",
+    "otpInvalid": "Kode OTP ora valid.",
+    "otpResent": "Kode OTP anyar wis dikirim menyang email sampeyan.",
+    "otpResendFailed": "Gagal ngirim maneh kode OTP. Coba maneh.",
+    "passwordResetSuccess": "Sandi kasil ngreset. Mangga mlebu nganggo tembung sandhi anyar.",
+    "passwordResetFailed": "Gagal ngreset tembung sandhi.",
+    "backToLogin": "Bali menyang Mlebet",
+    "back": "Mbalik",
+    "title": "Kelalen Sandi",
+    "description": "Ketik alamat email sing didaftar ing akun sampeyan. Kita bakal ngirim kode OTP kanggo ngreset sandhi.",
+    "emailLabel": "Alamat Email",
+    "sending": "Ngirim...",
+    "sendOtp": "Kirimi Kode OTP",
+    "verifyOtpTitle": "Verifikasi Kode OTP",
+    "verifyOtpDesc": "Ketik kode 6 digit sing wis dikirim menyang email kanggo konfirmasi identitas sampeyan.",
+    "verifying": "Verifikasi...",
+    "verifyOtp": "Verifikasi OTP",
+    "resending": "Ngirim maneh...",
+    "resendOtp": "Kirim maneh Kode OTP",
+    "resendCodeIn": "Kirimi maneh kode ing",
+    "newPasswordTitle": "Gawe Sandi Anyar",
+    "newPasswordDesc": "Gawe sandhi anyar sing kuwat kanggo ngamanake akun sampeyan.",
+    "newPasswordLabel": "Sandi Anyar",
+    "min8Chars": "Minimal 8 aksara",
+    "oneUpperCase": "1 huruf gedhe (A-Z)",
+    "oneNumber": "1 nomer (0-9)",
+    "oneSymbol": "1 simbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Konfirmasi Sandi",
+    "passwordsDoNotMatch": "Tembung sandhi ora cocog.",
+    "resettingPassword": "Ngreset Sandi...",
+    "resetPassword": "Reset Sandi"
+  },
+  "verifyEmail": {
+    "resendError": "Gagal ngirim maneh email verifikasi. Coba maneh.",
+    "checkingStatus": "Priksa status verifikasi...",
+    "title": "Priksa Email Panjenengan",
+    "description": "Kita wis ngirim email verifikasi menyang alamat email sampeyan. Bukak email banjur klik tombol <1>\"Konfirmasi Akun\"</1> kanggo ngaktifake akun sampeyan.",
+    "stepsTitle": "Langkah",
+    "step1": "Bukak aplikasi email sampeyan (Gmail, Yahoo, lsp)",
+    "step2": "Goleki email saka DevFolio kanthi subyek \"Aktivasi Akun\"",
+    "step3": "Klik tombol \"Konfirmasi Akun\" ing email",
+    "step4": "Sampeyan bakal diarahake menyang kaca mlebu kanggo ngetik",
+    "resendSuccess": "Email verifikasi wis dikirim maneh!",
+    "resending": "Ngirim maneh...",
+    "resendButton": "Kirim maneh Email Verifikasi",
+    "backToLogin": "Bali menyang Kaca Mlebet",
+    "footerNote": "Ora nampa email? Priksa folder <1>Spam</1> utawa <2>Junk</2> ing email sampeyan. Link verifikasi valid kanggo <3>24 jam</3>."
+  }
+}

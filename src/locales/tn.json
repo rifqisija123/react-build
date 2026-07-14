@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Dipopego",
+    "templates": "Dithempoleite",
+    "pricing": "Ditlhwatlhwa",
+    "login": "Tsena",
+    "getStarted": "Simolola",
+    "title": "Folio ya Tlhabololo"
+  },
+  "landing": {
+    "badge": "Moagi wa bofelo wa photefolio wa batlhabolodi",
+    "title1": "Aga seporofešenale sa gago",
+    "title2": "photefolio mo",
+    "titleHighlight": "metsotswana.",
+    "subtitle": "Sengwe le sengwe se o se tlhokang go bontsha bokgoni jwa gago, diporojeke le maitemogelo a gago. ",
+    "startBuilding": "Simolola go Aga Jaanong",
+    "viewTemplates": "Leba Dithempoleite",
+    "fastDeployment": "Go Tsenngwa Tirisong ka Bofefo",
+    "liveStatus": "leinatiriso.dev e a tshela!",
+    "featuresTitle": "Dikarolo tse di Maatla",
+    "featuresSubtitle": "Re tlamela ka didirisiwa tsotlhe tse o di tlhokang go tlhagelela mo boidiiding le go bona tiro ya gago ya ditoro.",
+    "feature1Title": "Goga le go Latlhela Seagi",
+    "feature1Desc": "Rulaganya dikarolo tsa gago, diporojeke, le bokgoni jwa gago bonolo fela ka motseleganyi wa rona wa pono o o tlhaloganyesegang.",
+    "feature2Title": "Ditlhogo tse di itebagantseng",
+    "feature2Desc": "Tlhopha mo dithempoleiteng tse di tlhamilweng ka botswerere kgotsa itirele tebego e e kgethegileng.",
+    "feature3Title": "Ditshekatsheko tsa nako ya nnete",
+    "feature3Desc": "Latedisa baeng ba gago, bona gore ke diporojeke dife tse di tlhokomelwang thata, le tse dingwe."
+  },
+  "auth": {
+    "welcomeBack": "O amogetswe gape",
+    "loginToContinue": "Tsena mo akhaontong ya gago go tswelela",
+    "createAccount": "Tlhama Akhaonto",
+    "joinCommunity": "Kopanela le diketekete tsa batlhabolodi ba bangwe",
+    "fullName": "Leina ka botlalo",
+    "fullNamePlaceholder": "sk ",
+    "email": "Aterese ya Imeile",
+    "emailPlaceholder": "wena@sekao.com",
+    "password": "Khunololamoraba",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Nkgopole",
+    "forgotPassword": "A o lebetse nomoro ya sephiri?",
+    "signIn": "Saenela Tsena",
+    "signingIn": "Go saena...",
+    "signUp": "Ikwadise",
+    "signingUp": "Go ikwadisa...",
+    "noAccount": "Ga o na akhaonto?",
+    "hasAccount": "A o setse o na le akhaonto?",
+    "passwordRules": {
+      "title": "Lefoko la sephiri le tshwanetse go nna le:",
+      "length": "Bonnye ditlhaka di le 8",
+      "uppercase": "Tlhakakgolo e le nngwe (A-Z)",
+      "number": "Palo e le nngwe (0-9)",
+      "symbol": "Letshwao le le lengwe (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Moagi wa Photefolio",
+      "templates": "Dithempoleite le Ditlhogo",
+      "settings": "Diseting",
+      "collapse": "Phutlha bara ya kafa thoko",
+      "overview": "Kakaretso",
+      "profileSettings": "Diseting tsa Porofaele",
+      "customDomain": "Domeine e e itebagantseng",
+      "feedback": "Pegelo"
+    },
+    "header": {
+      "viewLive": "Leba ka tlhamalalo",
+      "welcome": "Amogelesega,",
+      "logout": "Tswa",
+      "builder": "Moagi",
+      "livePortfolio": "Photefolio e e Tshwaraganeng",
+      "live": "Tshela"
+    },
+    "logoutModal": {
+      "title": "Tswa",
+      "message": "A o tlhomamisa gore o batla go tswa mo akhaontong ya gago? ",
+      "cancel": "Phimola",
+      "confirm": "Ee, Tswa"
+    },
+    "slugModal": {
+      "title": "Tlhopha URL ya Photefolio ya Gago",
+      "message": "URL eno e tla nna kgokagano e e tlhomologileng ya photefolio ya gago. ",
+      "slugPlaceholder": "leina la gago",
+      "availability": "Go nna teng:",
+      "available": "Go gone",
+      "unavailable": "Ga e yo",
+      "checking": "Go tlhola...",
+      "mustFormat": "E ka nna le ditlhaka fela, dinomoro, le dithaladi (-)",
+      "cancel": "Phimola",
+      "save": "Boloka URL",
+      "usernameUrl": "URL ya Leinatiriso",
+      "helpText": "Ditlhaka tse dinnye, dinomoro le dithaladi. ",
+      "validation": {
+        "empty": "Slug e ka se nne lolea.",
+        "min3": "Bonnye ditlhaka di le 3.",
+        "max30": "Bogolo jwa ditlhaka di le 30.",
+        "format": "Ditlhaka tse dinnye fela, dinomoro le dithaladi (-). "
+      }
+    },
+    "loadingPortfolio": "Go laisa tshedimosetso ya photefolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Moso o montle",
+        "afternoon": "Dumela Thapama",
+        "evening": "Dumela Thapama",
+        "night": "Robala sentle"
+      },
+      "welcome": {
+        "hi": "Dumela,",
+        "creator": "Mmopi",
+        "desc1": "O amogetswe mo dashebotong ya DevFolio. Photefolio ya gago e bonwe ke",
+        "desc2": "motho. Tswelela o bereka!",
+        "editPortfolio": "Tseleganya Photefolio"
+      },
+      "stats": {
+        "totalVisitors": "Palogotlhe ya Baeng",
+        "projectViews": "E lebilwe (Porojeke)",
+        "activeSessions": "Nako e e dirang",
+        "totalLabel": "Palogotlhe"
+      },
+      "setup": {
+        "title": "Kgatelopele ya go Rulaganya",
+        "completed": "Photefolio ya gago e weditswe! 🎉",
+        "inProgress": "Dikgato tsa go ya kwa photefoliong e e itekanetseng.",
+        "profile": {
+          "title": "Porofaele e e feletseng",
+          "desc": "Tsenya leina, bio le senepe sa porofaele."
+        },
+        "section": {
+          "title": "Tsenya Dikarolo",
+          "desc": "Dira gore bonnye karolo e le 1 e dire mo photefoliong."
+        },
+        "project": {
+          "title": "Tsenya Porojeke",
+          "desc": "Tsenya bobotlana 1 ya diporojeke tsa gago tse di gaisang."
+        },
+        "publish": {
+          "title": "Phasalatsa Photefolio",
+          "desc": "Seta URL e e tlwaelegileng gore e kgone go bonwa ke batho botlhe."
+        }
+      },
+      "topProjects": {
+        "title": "Diporojeke tse di Ratiwang Thata",
+        "desc": "Tiragatso ya tiro ya gago mo matlhong a baeng.",
+        "viewAll": "Bona Tsotlhe",
+        "empty": "Ga go ise go nne le tshedimosetso ya pono ya porojeke ya gago."
+      }
+    },
+    "themes": {
+      "title": "Dithempoleite le Ditlhogo",
+      "subtitle": "Itebagantse le tebego le maikutlo a photefolio ya gago ya botlhe.",
+      "reset": "Seta gape Thulaganyetsoruri",
+      "save": "Boloka Diphetogo",
+      "saving": "Go boloka...",
+      "chooseTemplate": "Tlhopha Thempoleite",
+      "primaryColor": "Mmala wa Motheo",
+      "typography": "Thaepo",
+      "appearance": "Ponagalo",
+      "corners": "Dikhutlo le Melelwane",
+      "successTitle": "Katlego",
+      "successMessage": "Ditlhopho tsa setlhogo di tlhabolotswe ka katlego",
+      "errorTitle": "Phoso",
+      "errorMessage": "E paletswe ke go boloka ditlhopho tsa setlhogo",
+      "templates": {
+        "minimalist": {
+          "name": "Bonnye",
+          "desc": "Moakanyetso o o phepa le o o bonolo o o tsepamisitseng mogopolo mo diteng."
+        },
+        "developerDark": {
+          "name": "Motlhabolodi Lefifi",
+          "desc": "Setlhogo se se lefifi se siametse go bontsha khoutu le ditlhopha tsa thekenoloji."
+        },
+        "creative": {
+          "name": "Boitlhamedi",
+          "desc": "Thulaganyo e e matlhagatlhaga le e e mebalabala ya batlhami le batlhami."
+        },
+        "executive": {
+          "name": "Khuduthamaga",
+          "desc": "Thulaganyo ya seporofešenale le ya semmuso ya baitseanape ba kgwebo."
+        },
+        "bentoGrid": {
+          "name": "Keriti ya Bento",
+          "desc": "Thulaganyo ya keriti ya mofuta wa Apple ya segompieno e e tlhagisang bokgoni jo bo farologaneng ka katlego."
+        },
+        "neoBrutalism": {
+          "name": "Bosetlhogo jo bosha",
+          "desc": "Melelwane e e bogale le mebala e e farologaneng e e kwa godimo ya go lebega e le mo fesheneng, e sa kopa maitshwarelo."
+        },
+        "glassmorphism": {
+          "name": "Sebopego sa galase",
+          "desc": "Ditlamorago tsa galase e e serame mo godimo ga di-gradient tse di mebalabala tsa UI ya segompieno e e borethe."
+        },
+        "linkInBio": {
+          "name": "Kgokagano mo Bio",
+          "desc": "Thulaganyo e e kopaneng e e tsepameng e e tokafaditsweng ya diskrini tsa selulafouno le media wa botsalano."
+        }
+      },
+      "appearances": {
+        "light": "Lesedi",
+        "dark": "Lefifi",
+        "system": "Tsamaiso"
+      },
+      "cornersOptions": {
+        "sharp": "Bogale",
+        "rounded": "E kgolokwe",
+        "pill": "Pilisi"
+      }
+    },
+    "feedback": {
+      "title": "Romela Pegelo",
+      "subtitle": "Re thuse go e dira botoka ka go re naya dikakantsho, go tshwayatshwaya diphoso, kgotsa go bega diphoso mo tirisong eno.",
+      "categoryLabel": "Setlhopha sa Pegelo",
+      "messageLabel": "Dintlha tsa Molaetsa",
+      "messagePlaceholder": "Mpolelele ka botlalo ka pegelo e o batlang go e fetisa...",
+      "imageLabel": "Mametlelelo ya Setshwantsho (Ga go tlhokege)",
+      "imagePlaceholder": "Tobetsa go laisa setshwantsho kgotsa senepe sa sekerini",
+      "submitting": "Go romela...",
+      "submitBtn": "Romela Pegelo",
+      "categories": {
+        "suggestion": "Ditshitshinyo le Dikakanyo",
+        "bug": "Pegelo ya Dikhukhwana / Phoso",
+        "criticism": "Go tshwayatshwaya diphoso",
+        "other": "Ba bangwe"
+      },
+      "imageErrorTitle": "Phoso",
+      "imageErrorMessage": "Difaele tse dingwe di ganwa ka gonne ga di tshegediwe difomete tsa ditshwantsho (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Katlego",
+      "successMessage": "Re lebogela pegelo ya gago! Pegelo e rometswe.",
+      "submitErrorTitle": "E paletswe",
+      "submitErrorMessage": "Go nnile le phoso fa go romelwa pegelo. Tsweetswee leka gape."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ka ga Nna",
+      "skills": "Dikgono",
+      "projects": "Diporojeke",
+      "workExperience": "Maitemogelo a Tiro",
+      "orgExperience": "Maitemogelo a Mokgatlho",
+      "education": "Thuto",
+      "certifications": "Katiso le Ditifikeiti",
+      "contact": "Ikgolaganye le Nna"
+    },
+    "editor": {
+      "profileInfo": "Tshedimosetso ya Porofaele",
+      "saving": "Go boloka...",
+      "profilePhoto": "Setshwantsho sa Porofaele",
+      "clickToUpload": "Tobetsa go laisa (JPG, PNG)",
+      "fullName": "Leina ka botlalo",
+      "fullNamePlaceholder": "sk ",
+      "bio": "Baeo",
+      "bioPlaceholder": "Motlhabolodi wa Fullstack yo o ratang thata go aga ditiriso tsa webo tsa segompieno...",
+      "location": "Lefelo",
+      "locationPlaceholder": "sk ",
+      "gender": "Bong",
+      "selectGender": "Tlhopha Bong",
+      "male": "Tona",
+      "female": "Tshegadi",
+      "custom": "Tlwaelo",
+      "customPlaceholder": "Thaepa bong jwa gago...",
+      "uploadCv": "Laisa CV",
+      "cvFormat": "(DOC kgotsa PDF)",
+      "preview": "Tebopele",
+      "remove": "Tlosa",
+      "clickToUploadCv": "Tobetsa go laisa PDF kgotsa DOC",
+      "sections": "Dikarolo",
+      "removeSelected": "Tlosa tse di tlhophilweng",
+      "confirmRemove": "Tlhomamisa Tlosa",
+      "addSection": "Tsenya Karolo",
+      "addAllSections": "Tsenya Dikarolo Tsotlhe",
+      "noSections": "Ga go ise go nne le dikarolo",
+      "clickToAdd": "Tobetsa \"+ Tsenya Karolo\" go simolola",
+      "selectAll": "Tlhopha Tsotlhe",
+      "selected": "Tlhophilwe",
+      "dragToReorder": "Goga go rulaganya dikarolo gape",
+      "livePreview": "Tebopele e e Tshwaraganeng",
+      "addSectionsToBuild": "Tsenya dikarolo go aga photefolio ya gago",
+      "now": "Jaanong",
+      "current": "Ga jaana",
+      "noExpiry": "Ga go felelwe ke nako",
+      "see": "Bona",
+      "position": "Maemo",
+      "degree": "Dikirii",
+      "certification": "Setifikeiti",
+      "sectionsForm": {
+        "about": {
+          "label": "Tlhaloso ya gago",
+          "placeholder": "Re bolelele ka wena, lemorago la gago, dilo tse o di kgatlhegelang le bokgoni jwa gago..."
+        },
+        "skills": {
+          "addPlaceholder": "Thaepa bokgoni o bo o tobetsa Tsenya..."
+        },
+        "projects": {
+          "title": "Leina la Porojeke",
+          "titlePlaceholder": "Leina la porojeke...",
+          "url": "URL ya porojeke",
+          "description": "Tlhaloso",
+          "descriptionPlaceholder": "Tlhaloso e khutshwane ya porojeke...",
+          "uploadThumbnail": "Setshwantsho sa Porojeke",
+          "addProject": "Tsenya Porojeke",
+          "projectNum": "Porojeke #",
+          "currentProject": "E ke porojeke e ke dirang mo go yone"
+        },
+        "work": {
+          "company": "Setlamo/Setheo",
+          "companyPlaceholder": "Leina la setlamo...",
+          "position": "Maemo/Setlhogo",
+          "positionPlaceholder": "Maemo a gago...",
+          "employmentType": "Mofuta wa tiro",
+          "location": "Lefelo",
+          "locationPlaceholder": "Toropo, Naga...",
+          "startDate": "Simolola",
+          "endDate": "Feditse",
+          "currentWork": "Ke santse ke bereka mo nakong eno",
+          "description": "Tlhaloso",
+          "descriptionPlaceholder": "Tlhaloso ya tiro le maikarabelo...",
+          "skills": "Kgono",
+          "addExperience": "Tsenya Maitemogelo a Tiro",
+          "experienceNum": "Maitemogelo #",
+          "dateError": "Letlha la bokhutlo ga le a tshwanela go nna pele ga letlha la tshimologo"
+        },
+        "org": {
+          "organization": "Leina la Mokgatlho",
+          "orgPlaceholder": "Yunibesithi ya BEM...",
+          "role": "Seabe/Maemo",
+          "rolePlaceholder": "Tlhogo ya Lephata...",
+          "addOrg": "Tsenya Maitemogelo a Mokgatlho",
+          "orgNum": "Thulaganyo #"
+        },
+        "edu": {
+          "institution": "Ditheo tsa Thuto",
+          "institutionPlaceholder": "Leina la khamphase kgotsa sekolo...",
+          "degree": "Leina",
+          "degreePlaceholder": "S1, sekolo se segolwane, jj...",
+          "major": "Lefapha/Lephata la Thuto",
+          "majorPlaceholder": "Boenjenere jwa Tshedimosetso...",
+          "gpa": "GPA (ga go tlhokege)",
+          "currentStudy": "Ke santse ke ithuta fano",
+          "descriptionPlaceholder": "Ditiro le diphitlhelelo ka nako ya thuto...",
+          "addEdu": "Tsenya Thuto",
+          "eduNum": "Thuto #"
+        },
+        "cert": {
+          "name": "Leina la Setifikeiti / Katiso",
+          "namePlaceholder": "Leina la setifikeiti...",
+          "issuer": "Mogatisi",
+          "issuerPlaceholder": "Setheo sa kgatiso...",
+          "issueDate": "Tshimologo (Letlha la Phasalatso)",
+          "issueDatePlaceholder": "Tlhopha letlha la kgatiso...",
+          "expiryDate": "E weditswe (Paka e e Dirang)",
+          "expiryDatePlaceholder": "Tlhopha letlha la go fela ga nako...",
+          "noExpiry": "Setifikeiti seno ga se na letlha la go fela",
+          "url": "URL ya Boitshupo",
+          "uploadThumbnail": "Setifikeiti / Setshwantsho sa Katiso",
+          "uploadThumbnailLimit": "Laisa setshwantsho sa setifikeiti (JPG/PNG/WEBP, bogolo jwa 2MB)",
+          "addCert": "Tsenya Setifikeiti",
+          "certNum": "Setifikeiti #"
+        },
+        "contact": {
+          "contactNum": "Kgolagano #",
+          "platform": "Seralo",
+          "displayText": "Pontsho ya Mokwalo",
+          "displayTextPlaceholder": "ka sekai, wena@imeile.com kgotsa @leinatiriso",
+          "url": "Kgokagano (URL)",
+          "urlPlaceholderWhatsapp": "ka sekai, 62812... (ntle le go etelela pele 0)",
+          "urlPlaceholderEmail": "ka sekai, wena@imeile.com",
+          "urlPlaceholderWebsite": "ka sekai, https://...",
+          "urlPlaceholderDefault": "sk., leina la modirisi",
+          "addContact": "Tsenya Bagolagani"
+        },
+        "common": {
+          "months": {
+            "1": "Ferikgong",
+            "2": "Tlhakole",
+            "3": "Mopitlwe",
+            "4": "Moranang",
+            "5": "Ka",
+            "6": "Seetebosigo",
+            "7": "Phukwi",
+            "8": "Phatwe",
+            "9": "Lwetse",
+            "10": "Diphalane",
+            "11": "Ngwanaatsele",
+            "12": "Sedimonthole"
+          },
+          "month": "Kgwedi",
+          "year": "Ngwaga",
+          "invalidDate": "Kgwedi ya Bokhutlo e e sa Direng",
+          "words": "mafoko"
+        }
+      },
+      "sure": "Tlhomama",
+      "deletePhotoTitle": "Phimola Senepe sa Porofaele?",
+      "deletePhotoMessage": "A o tlhomamisegile gore o batla go phimola senepe seno sa porofaele?",
+      "cancel": "Phimola",
+      "delete": "Phimola"
+    },
+    "cropper": {
+      "chooseBackground": "Tlhopha Lemorago",
+      "cropPhoto": "Kgaola Senepe sa Gago",
+      "useOriginal": "Dirisa ya ntlha",
+      "backgroundPresets": "Disetepele tsa Lemorago",
+      "none": "Epe",
+      "uploadBackground": "Laisa Lemorago",
+      "cancel": "Phimola",
+      "savePhoto": "Boloka Senepe",
+      "zoom": "Zoom",
+      "rotationTilt": "Go Dikolosa le go Sekama",
+      "resetRotation": "Seta gape go 0°",
+      "center": "Bogare",
+      "rotateLeft": "Dikolosa -90°",
+      "rotateRight": "Dikolosa +90°",
+      "removeBackground": "Tlosa Lemorago",
+      "processing": "Ke bereka setshwantsho sa gago, tsweetswee ema..."
+    },
+    "cvPreview": {
+      "title": "Tebopele ya CV",
+      "downloadCv": "Laisolola CV",
+      "download": "Laisolola",
+      "wordCannotPreview": "Ditokomane tsa Word (.doc/.docx) ga di ka ke tsa bonwa pele ka tlholego mo sebatling. ",
+      "downloadFile": "Laisolola Faele ya CV",
+      "back": "Morago",
+      "mobileMessage": "Tsweetswee laisolola faele ya CV go e bona pele.",
+      "preview": "Tebopele ya CV",
+      "wordPreviewTitle": "Tebopele ya Tokumente ya Word",
+      "wordPreviewMessage": "Ditokomane tsa Word (.doc/.docx) ga di ka ke tsa bonwa pele ka tlhago mo sebatling. Tsweetswee laisolola faele gore o e lebe."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Kwala tlhaloso e khutshwane ka wena, dilo tse o di kgatlhegelang, le mekgele ya gago ya tiro..."
+    },
+    "skills": {
+      "placeholder": "Thaepa leina la bokgoni...",
+      "add": "Oketsa",
+      "enterToAdd": "Tobetsa Tsenya go tsenya",
+      "noSkills": "Ga go ise go okediwe bokgoni."
+    },
+    "projects": {
+      "projectName": "Leina la Porojeke",
+      "projectNamePlaceholder": "sk ",
+      "projectUrl": "URL ya porojeke",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Paka",
+      "startMonth": "Tshimologo ya Kgwedi",
+      "startYear": "Tshimologo ya Ngwaga",
+      "endMonth": "Bokhutlo jwa Kgwedi",
+      "endYear": "Bokhutlo jwa Ngwaga",
+      "currentlyWorking": "Ga jaanong jaana ke dira mo go seno",
+      "description": "Tlhaloso",
+      "descriptionPlaceholder": "Tlhalosa porojeke, seabe sa gago, le diphitlhelelo...",
+      "technologies": "Dithekenoloji tse di Dirisiwang",
+      "addProject": "Tsenya Porojeke",
+      "image": "Setshwantsho sa Porojeke",
+      "removeImage": "Tlosa Setshwantsho",
+      "uploadImage": "Tobetsa go laisa setshwantsho"
+    },
+    "work": {
+      "company": "Khamphani/Setheo",
+      "companyPlaceholder": "Leina la setlamo...",
+      "role": "Seabe/Maemo",
+      "rolePlaceholder": "Maemo a gago...",
+      "jobType": "Mofuta wa Tiro",
+      "selectJobType": "Tlhopha mofuta",
+      "fullTime": "Nako e e tletseng",
+      "partTime": "Tiro ya nakwana",
+      "contract": "Koteraka",
+      "internship": "Go ithuta o le mo tirong",
+      "freelance": "Moipereka",
+      "location": "Lefelo",
+      "locationPlaceholder": "sk ",
+      "duration": "Paka",
+      "currentlyWorking": "Ga jaana ke dira fano",
+      "description": "Tlhaloso ya Tiro",
+      "descriptionPlaceholder": "Tlhalosa maikarabelo a gago a konokono le diphitlhelelo...",
+      "skills": "Bokgoni jo bo rileng",
+      "addExperience": "Tsenya Maitemogelo"
+    },
+    "org": {
+      "organization": "Leina la Mokgatlho",
+      "organizationPlaceholder": "Leina la mokgatlho...",
+      "role": "Seabe/Maemo",
+      "rolePlaceholder": "sk ",
+      "duration": "Paka",
+      "periodFormat": "kgotsa Fomete ya Mahala (ka sekai 2020 - 2022)",
+      "periodPlaceholder": "sk ",
+      "currentlyActive": "E a dira ga jaana",
+      "description": "Tlhaloso ya Tiro",
+      "descriptionPlaceholder": "Tlhalosa ditiro tsa gago kgotsa dikabelo tsa gago...",
+      "addExperience": "Tsenya Maitemogelo"
+    },
+    "education": {
+      "institution": "Leina la Setheo",
+      "institutionPlaceholder": "Leina la sekolo kgotsa la yunibesithi...",
+      "degree": "Dikerii/Maemo",
+      "degreePlaceholder": "sk ",
+      "major": "Thutokgolo/Lephata la Thuto",
+      "majorPlaceholder": "sk ",
+      "gpa": "GPA / Kereiti",
+      "gpaPlaceholder": "sk ",
+      "duration": "Nako ya Thuto",
+      "periodFormat": "kgotsa Fomete ya Mahala (ka sekai 2018 - 2022)",
+      "periodPlaceholder": "sk ",
+      "currentlyStudying": "Ga jaana ke ithuta fano",
+      "description": "Ditiro / Dianase",
+      "descriptionPlaceholder": "Tlhalosa ditiro tsa thuto, mekgatlho, kgotsa ditlotla tse di amogetsweng...",
+      "addEducation": "Tsenya Thuto"
+    },
+    "cert": {
+      "name": "Leina la Setifikeiti",
+      "namePlaceholder": "sk ",
+      "issuer": "Mokgatlho o o Ntshitseng",
+      "issuerPlaceholder": "sk ",
+      "issueDate": "Issue Date",
+      "expiryDate": "E dira Go fitlha ka",
+      "noExpiry": "Lekwaloitshupo leno ga le felelwe ke nako",
+      "yearPlaceholder": "kgotsa Ngwaga (ka sekai 2023)",
+      "credentialUrl": "URL ya Boitshupo",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Bokgoni jo bo Amanang",
+      "addCertification": "Tsenya Setifikeiti",
+      "image": "Setshwantsho/Letshwao",
+      "removeImage": "Tlosa Setshwantsho",
+      "uploadImage": "Tobetsa go laisa setshwantsho"
+    },
+    "common": {
+      "months": {
+        "1": "Ferikgong",
+        "2": "Tlhakole",
+        "3": "Mopitlwe",
+        "4": "Moranang",
+        "5": "Ka",
+        "6": "Seetebosigo",
+        "7": "Phukwi",
+        "8": "Phatwe",
+        "9": "Lwetse",
+        "10": "Diphalane",
+        "11": "Ngwanaatsele",
+        "12": "Sedimonthole"
+      },
+      "month": "Kgwedi",
+      "year": "Ngwaga",
+      "invalidDate": "Kgwedi ya Bokhutlo e e sa Direng",
+      "words": "mafoko"
+    }
+  },
+  "settings": {
+    "title": "Diseting",
+    "subtitle": "Laola porofaele ya photefolio ya gago le dilo tse o di ratang",
+    "tabs": {
+      "profile": "Porofaele ya me",
+      "security": "Tshireletso",
+      "personalization": "Go itebaganya"
+    },
+    "profile": {
+      "infoTitle": "Tshedimosetso ya Motheo",
+      "photo": "Setshwantsho sa Porofaele",
+      "uploadPhoto": "Fetola Senepe",
+      "fullName": "Leina ka botlalo",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Aterese ya Imeile",
+      "emailPlaceholder": "johane@sekao.com",
+      "emailHelp": "Imeile e dirisiwa go tsena mme ga e bontshiwe phatlalatsa.",
+      "portfolioUrl": "URL ya Photefolio",
+      "saveProfile": "Boloka Porofaele",
+      "save": "Boloka Porofaele",
+      "accountCreated": "Akhaonto e tlhamilwe",
+      "lastLogin": "Tsena ya bofelo",
+      "oauthNotice": "Porofaele eno e golagantswe le akhaonto ya gago ya {{motlamedi}}. Diphetogo tsa porofaele di tshwanetse go dirwa ka motlamedi wa tirelo."
+    },
+    "security": {
+      "changePassword": "Fetola nomoro ya sephiri",
+      "currentPassword": "Nomoro ya sephiri",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nomoro ya sephiri e ntšhwa",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Tlhomamisa Nomoro ya Sephiri",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Bonnye ditlhaka di le 8",
+        "uppercase": "Tlhakakgolo e le nngwe (A-Z)",
+        "number": "Palo e le nngwe (0-9)",
+        "symbol": "Letshwao le le lengwe (!@#$%^&*)"
+      },
+      "passwordTitle": "Khunololamoraba",
+      "updatePassword": "Ntšhwafatsa nomoro ya sephiri",
+      "additionalSecurity": "Tshireletso e nngwe",
+      "twoFactor": "Netefatso ya Mabaka a mabedi (2FA)",
+      "twoFactorDesc": "Sireletsa akhaonto ya gago o dirisa khoutu ya tlaleletso ya OTP.",
+      "activeSessions": "Dinako tse di Tlhagafetseng",
+      "activeSessionsDesc": "Ka metlha letla go bayaleitlho didiriswa tse di tseneng.",
+      "publicVisibility": "Ponagalo ya Phatlalatsa",
+      "hideFromSearch": "Fitlha Photefolio mo Dienjini tsa Patlo",
+      "hideFromSearchDesc": "Thibela Google go tsenya ditshupane tsa tsebe ya gago ya photefolio ya botlhe.",
+      "disable2fa": {
+        "title": "Thibela 2FA",
+        "description": "A o tlhomamisegile gore o batla go tima netefatso ya mabaka a mabedi?",
+        "confirmPasswordLabel": "Tsenya nomoro ya gago ya sephiri go tlhomamisa",
+        "currentPasswordPlaceholder": "Lefoko la sephiri la ga jaana",
+        "cancelButton": "Khansela",
+        "confirmButton": "Thibela 2FA",
+        "incorrectPassword": "Nomoro ya sephiri e e sa siamang."
+      },
+      "setup2fa": {
+        "step1Title": "1. Sekena Khoutu ya QR",
+        "step1Desc": "Bula app ya gago ya netefatso o bo o sekaseka khoutu e e latelang ya QR:",
+        "unableToScan": "Ga o kgone go sekaseka? Dirisa senotlolo sa go rulaganya",
+        "step2Title": "2. Tlhomamisa Khoutu",
+        "step2Desc": "Tsenya khoutu ya dinomoro di le 6 e e tlhamilweng ke tiriswa ya gago:",
+        "cancelButton": "Phimola",
+        "enableButton": "Kgontsha 2FA",
+        "invalidLength": "Tsweetswee tsenya khoutu ya dinomoro di le 6.",
+        "invalidCode": "Khoutu ya netefatso e e sa direng. Tsweetswee leka gape."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Ditaolo tsa Puo",
+      "appLanguage": "Puo ya Tiriswa",
+      "layoutTitle": "Thulaganyo le go thaepa",
+      "layoutStyle": "Setaele sa Thulaganyo",
+      "layoutModern": "Setaele sa Segompieno (Tlhago)",
+      "layoutClassic": "Setaele sa bogologolo",
+      "layoutMinimalist": "Setaele sa Bonnye",
+      "fontSize": "Bogolo jwa Fonto ya Tiriswa",
+      "fontSmall": "Nnye",
+      "fontNormal": "Tlwaelegile (Magareng)",
+      "fontLarge": "Kgolo",
+      "searchLanguage": "Puo ya patlo...",
+      "languageNotFound": "Puo ga e bonwe",
+      "layoutElegant": "Setaele sa Maphatsiphatsi"
+    },
+    "saveChanges": "Boloka Diphetogo",
+    "cancel": "Phimola",
+    "appSettings": "Diseting tsa Tiriswa",
+    "logoutConfirmTitle": "Tlhomamisa go Tswa",
+    "logoutConfirmDesc": "A o tlhomamisa gore o batla go tswa mo tsamaisong?",
+    "logoutConfirmYes": "Ee, Tswa",
+    "generalError": "Go diragetse phoso. ",
+    "success": "Tswelelopele",
+    "preferencesSaved": "Ditlhopho tsa tiriswa di bolokilwe ka katlego.",
+    "header": "Diseting tsa Tiriso",
+    "logout": {
+      "title": "Netefatso ya go tswa",
+      "message": "A o tlhomamisegile gore o batla go tswa mo tsamaisong?",
+      "confirm": "Ee, Tswa"
+    },
+    "about": {
+      "title": "Ka ga Tiriso",
+      "subtitle": "Polatefomo ya Moagi wa Photefolio",
+      "version": "Thanolo",
+      "description": "DevFolio ke sethala sa segompieno sa moagi wa photefolio se se diretsweng batlhabolodi, batlhami, le batlhami ba seporofešenale. ",
+      "license": "Laesense & Tshwanelo ya Khopi",
+      "copyright": "Ditshwanelo tsotlhe di beilwe.",
+      "developer": "Motlhabolodi",
+      "developedBy": "E tlhamilwe ke Rifqi"
+    },
+    "deleteAccount": {
+      "title": "Phimola Akhaonto Ruri",
+      "menuItem": "Phimola Akhaonto",
+      "successTitle": "Katlego",
+      "successMessage": "Go rometswe imeile ya netefatso ya go phimolwa ga akhaonto.",
+      "errorTitle": "E paletswe",
+      "errorMessage": "E paletswe ke go romela imeile ya netefatso.",
+      "confirmationMessage": "A o tlhomamisegile gore o batla go phimolela akhaonto ya gago ruri?",
+      "warningMessage1": "O tla amogela imeile go tlhomamisa gore akhaonto e phimotswe.",
+      "warningMessage2": "Fa e netefaditswe, tshedimosetso yotlhe (photefolio, diporojeke, dipalopalo) e tla phimolelwa ruri mme ga e ka ke ya busediwa.",
+      "cancel": "Khansela",
+      "confirm": "Netefatso"
+    },
+    "toasts": {
+      "toastError": "Phoso",
+      "toastSuccess": "Tswelelopele",
+      "toastSetup2FAFailed": "E paletswe ke go rulaganya 2FA. Tsweetswee leka gape.",
+      "toast2FAEnabled": "Netefatso ya mabaka a mabedi e kgontshitswe.",
+      "toast2FADisabled": "Netefatso ya mabaka a mabedi e thibetswe.",
+      "toastSessionEnabled": "Go ela tlhoko nako e e matlhagatlhaga go kgontshitswe.",
+      "toastSessionDisabled": "Go bayaleitlho ga nako e e dirang go thibetswe.",
+      "toastSetupKeyCopied": "Senotlolo sa go rulaganya se kopisitswe mo peeletsomaneng."
+    },
+    "privacy": {
+      "title": "Pholisi ya Bosephiri",
+      "updateDate": "E tlhabolotswe labofelo: Phukwi 15, 2026",
+      "intro": "Pholisi eno ya Polokodiphiri e tlhalosa kafa DevFolio e kokoanyang, e dirisang, le go sireletsa tshedimosetso ya gago ka gone fa o dirisa ditirelo tsa rona.",
+      "section1Title": "1. Tshedimosetso e re e Kokoanyang",
+      "section1Content": "Re kokoanya tshedimosetso e o e nayang ka tlhamalalo fa o tlhama akhaonto, o aga photefolio, le go ikgolaganya le tshegetso ya rona. ",
+      "section2Title": "2. Tiriso ya Tshedimosetso",
+      "section2Content": "Tshedimosetso ya gago e dirisiwa go dira, go tlhokomela, le go tlamela ka dikarolo tsa ditirelo tsa rona, mmogo le go buisana le wena malebana le akhaonto ya gago kgotsa ditirelo.",
+      "section3Title": "3. Tshireletsego ya Tshedimosetso",
+      "section3Content": "Re dirisa dikgato tse di utlwalang tsa tshireletso go sireletsa tshedimosetso ya gago gore e se ka ya fitlhelelwa, ya senolwa kgotsa ya senngwa ke batho ba ba sa letlelelweng."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Letshwao la netefatso ga le a bonwa.",
+    "defaultError": "E paletswe ke go phimola akhaonto. Letshwao le ka tswa le feletswe ke nako.",
+    "loadingTitle": "Go phimola Akhaonto...",
+    "loadingMessage": "Tsweetswee ema pele, re dira kopo ya gago.",
+    "successTitle": "Akhaonto e Phimotswe ka Katlego",
+    "successMessage": "Tshedimosetso yotlhe ya gago e phimotswe ruri. O tla kaelwa gape...",
+    "errorTitle": "E paletswe ke go Phimola Akhaonto",
+    "backToHome": "Boela Gae"
+  },
+  "forgotPassword": {
+    "minutes": "Metsotso",
+    "seconds": "metsotswana",
+    "success": "Katlego",
+    "otpSentToEmail": "Khoutu ya OTP e rometswe kwa imeileng ya gago.",
+    "failed": "E paletswe",
+    "emailNotFound": "Imeile ga e bonwe.",
+    "emailThirdParty": "Imeile eno e kwadisitswe ka motho yo mongwe.",
+    "genericError": "Go na le phoso. Tsweetswee leka gape.",
+    "otpVerified": "Khoutu ya OTP e netefaditswe ka katlego.",
+    "otpExpired": "Khoutu ya OTP e feletswe ke nako. Tsweetswee kopa khoutu e ntšhwa.",
+    "otpInvalid": "Khoutu ya OTP e e sa direng.",
+    "otpResent": "Khoutu e ntšhwa ya OTP e rometswe kwa imeileng ya gago.",
+    "otpResendFailed": "E paletswe ke go romela gape khoutu ya OTP. Tsweetswee leka gape.",
+    "passwordResetSuccess": "Nomoro ya sephiri e setilwe sešwa ka katlego. Tsweetswee tsena ka nomoro ya gago ya sephiri e ntšhwa.",
+    "passwordResetFailed": "E paletswe ke go seta sešwa nomoro ya sephiri.",
+    "backToLogin": "Boela kwa go Tseneng",
+    "back": "Morago",
+    "title": "Lebetse Nomoro ya Sephiri",
+    "description": "Tsenya aterese ya imeile e e kwadisitsweng mo akhaontong ya gago. Re tla romela khoutu ya OTP go seta sešwa nomoro ya sephiri.",
+    "emailLabel": "Aterese ya Imeile",
+    "sending": "Go romela...",
+    "sendOtp": "Romela Khoutu ya OTP",
+    "verifyOtpTitle": "Netefatsa Khoutu ya OTP",
+    "verifyOtpDesc": "Tsenya khoutu ya dinomoro di le 6 e e rometsweng kwa imeileng ya gago go tlhomamisa gore o mang.",
+    "verifying": "Go netefatsa...",
+    "verifyOtp": "Netefatsa OTP",
+    "resending": "Go romela gape...",
+    "resendOtp": "Romela gape Khoutu ya OTP",
+    "resendCodeIn": "Romela khoutu gape mo",
+    "newPasswordTitle": "Tlhama Nomoro ya Sephiri e Ntšhwa",
+    "newPasswordDesc": "Tlhama nomoro ya sephiri e ntšha, e e nonofileng go sireletsa akhaonto ya gago.",
+    "newPasswordLabel": "Lefoko la sephiri le lesha",
+    "min8Chars": "Bonnye ditlhaka di le 8",
+    "oneUpperCase": "1 tlhakakgolo (A-Z)",
+    "oneNumber": "1 palo (0-9)",
+    "oneSymbol": "1 letshwao (!@#$%^&*)",
+    "confirmPasswordLabel": "Netefatsa Nomoro ya Sephiri",
+    "passwordsDoNotMatch": "Dikhunololamoraba ga di tshwane.",
+    "resettingPassword": "Go seta gape Nomoro ya sephiri...",
+    "resetPassword": "Seta sešwa nomoro ya sephiri"
+  },
+  "verifyEmail": {
+    "resendError": "E paletswe ke go romela gape imeile ya netefatso. Tsweetswee leka gape.",
+    "checkingStatus": "Go tlhola seemo sa netefatso...",
+    "title": "Tlhola Imeile ya Gago",
+    "description": "Re rometse imeile ya netefatso kwa atereseng ya gago ya imeile. Tsweetswee bula imeile o bo o tobetsa konopo ya <1>\"Netefatsa Akhaonto\"</1> go dira gore akhaonto ya gago e dire.",
+    "stepsTitle": "Dikgato",
+    "step1": "Bula tiriso ya gago ya imeile (Gmail, Yahoo, jj)",
+    "step2": "Batla imeile go tswa go DevFolio e e nang le setlhogo se se reng \"Go Tsenya Akhaonto mo Tirong\"",
+    "step3": "Tobetsa konopo ya \"Tlhomamisa Akhaonto\" mo imeileng",
+    "step4": "O tla lebisiwa kwa tsebeng ya go tsena go tsena",
+    "resendSuccess": "Imeile ya netefatso e rometswe gape!",
+    "resending": "Go romela gape...",
+    "resendButton": "Romela gape Imeile ya Netefatso",
+    "backToLogin": "Boela kwa Tsebeng ya go Tsena",
+    "footerNote": "A ga o a amogela imeile? Tlhola setsholadifaele sa <1>Sepamo</1> kgotsa <2>Matlakala</2> mo imeileng ya gago. Kgokagano ya netefatso e dira mo diureng di le <3>24</3>."
+  }
+}

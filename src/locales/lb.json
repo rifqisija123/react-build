@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Fonctiounen",
+    "templates": "Schablounen",
+    "pricing": "Präisser",
+    "login": "Login",
+    "getStarted": "Fänkt un",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Den ultimativen Portfolio Builder fir Entwéckler",
+    "title1": "Build Är berufflech",
+    "title2": "Portfolio an",
+    "titleHighlight": "Sekonnen.",
+    "subtitle": "Alles wat Dir braucht fir Är Fäegkeeten, Projeten an Erfahrung ze weisen. ",
+    "startBuilding": "Fänkt elo un ze bauen",
+    "viewTemplates": "View Schablounen",
+    "fastDeployment": "Schnell Deployment",
+    "liveStatus": "username.dev ass live!",
+    "featuresTitle": "Mächteg Features",
+    "featuresSubtitle": "Mir bidden all Tools déi Dir braucht fir aus der Masse erauszekommen an Är Dramjob ze landen.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Organiséiert Är Sektiounen, Projeten a Fäegkeeten einfach mat eisem intuitive visuellen Editor.",
+    "feature2Title": "Benotzerdefinéiert Themen",
+    "feature2Desc": "Wielt aus professionell entworf Templates oder kreéiert Ären eegene eenzegaartege Look.",
+    "feature3Title": "Echtzäit Analytics",
+    "feature3Desc": "Verfollegt Är Besucher, kuckt wéi eng Projeten déi meescht Opmierksamkeet kréien, a méi."
+  },
+  "auth": {
+    "welcomeBack": "Wëllkomm zréck",
+    "loginToContinue": "Aloggen op Äre Kont fir weider",
+    "createAccount": "Schafen Kont",
+    "joinCommunity": "Maacht mat bei Dausende vun aneren Entwéckler",
+    "fullName": "Ganzen numm",
+    "fullNamePlaceholder": "z.B. ",
+    "email": "Email Adress",
+    "emailPlaceholder": "du@example.com",
+    "password": "Passwuert",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Erënner dech u mech",
+    "forgotPassword": "Passwuert vergiess?",
+    "signIn": "Umellen",
+    "signingIn": "Umellen ...",
+    "signUp": "Umellen",
+    "signingUp": "Umellen ...",
+    "noAccount": "Hutt Dir kee Kont?",
+    "hasAccount": "Hutt Dir schonn e Kont?",
+    "passwordRules": {
+      "title": "Passwuert muss enthalen:",
+      "length": "Op d'mannst 8 Zeechen",
+      "uppercase": "Ee grousse Buschtaf (A-Z)",
+      "number": "Eng Zuel (0-9)",
+      "symbol": "Ee Symbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Schablounen & Themen",
+      "settings": "Astellungen",
+      "collapse": "Zesummebroch Sidebar",
+      "overview": "Iwwersiicht",
+      "profileSettings": "Profil Astellunge",
+      "customDomain": "Benotzerdefinéiert Domain",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "View Live",
+      "welcome": "Wëllkomm,",
+      "logout": "Ausloggen",
+      "builder": "Builder",
+      "livePortfolio": "Live Portfolio",
+      "live": "Live"
+    },
+    "logoutModal": {
+      "title": "Ausloggen",
+      "message": "Sidd Dir sécher datt Dir vun Ärem Kont ausloggen wëllt? ",
+      "cancel": "Ofbriechen",
+      "confirm": "Jo, ausloggen"
+    },
+    "slugModal": {
+      "title": "Wielt Är Portfolio URL",
+      "message": "Dës URL wäert den eenzegaartege Link op Äre Portfolio sinn. ",
+      "slugPlaceholder": "Ären Numm",
+      "availability": "Disponibilitéit:",
+      "available": "Verfügbar",
+      "unavailable": "Net verfügbar",
+      "checking": "Iwwerpréift ...",
+      "mustFormat": "Kann nëmmen Buschtawen, Zuelen an Bindestrecken enthalen (-)",
+      "cancel": "Ofbriechen",
+      "save": "URL späicheren",
+      "usernameUrl": "Benotzernumm URL",
+      "helpText": "Kleng Buschtawen, Zuelen a Bindestrecken. ",
+      "validation": {
+        "empty": "Slug kann net eidel sinn.",
+        "min3": "Minimum 3 Zeechen.",
+        "max30": "Maximum 30 Zeechen.",
+        "format": "Nëmmen kleng Buschtawen, Zuelen an Bindestrecken (-). "
+      }
+    },
+    "loadingPortfolio": "Portfoliodaten lueden ...",
+    "overview": {
+      "greetings": {
+        "morning": "Gudde Moien",
+        "afternoon": "Gudde Mëtteg",
+        "evening": "Gudde Mëtteg",
+        "night": "Gutt Nuecht"
+      },
+      "welcome": {
+        "hi": "Moien,",
+        "creator": "Schëpfer",
+        "desc1": "Wëllkomm op der DevFolio Dashboard. Äre Portfolio gouf gekuckt vun",
+        "desc2": "Persoun. Fuert weider ze schaffen!",
+        "editPortfolio": "Portfolio änneren"
+      },
+      "stats": {
+        "totalVisitors": "Ganzen Visiteuren",
+        "projectViews": "gekuckt (Projet)",
+        "activeSessions": "Aktiv Sessioun",
+        "totalLabel": "Ganzen"
+      },
+      "setup": {
+        "title": "Konfiguratioun Fortschrëtt",
+        "completed": "Äre Portfolio ass komplett! 🎉",
+        "inProgress": "Schrëtt fir de perfekte Portfolio.",
+        "profile": {
+          "title": "Komplett Profil",
+          "desc": "Füügt Numm, Bio a Profilfoto derbäi."
+        },
+        "section": {
+          "title": "Add Sektiounen",
+          "desc": "Aktivéiert op d'mannst 1 Sektioun am Portfolio."
+        },
+        "project": {
+          "title": "Projet dobäisetzen",
+          "desc": "Gitt op d'mannst 1 vun Äre beschte Projeten un."
+        },
+        "publish": {
+          "title": "Verëffentlechen Portfolio",
+          "desc": "Setzt eng personaliséiert URL sou datt et vum Public zougänglech ass."
+        }
+      },
+      "topProjects": {
+        "title": "Déi meescht populär Projeten",
+        "desc": "D'Leeschtung vun Ärer Aarbecht an den Ae vun de Visiteuren.",
+        "viewAll": "Gesinn All",
+        "empty": "Et gi keng Vue Daten fir Äre Projet nach."
+      }
+    },
+    "themes": {
+      "title": "Schablounen & Themen",
+      "subtitle": "Passt de Look a Gefill vun Ärem ëffentleche Portfolio un.",
+      "reset": "Reset Default",
+      "save": "Ännerunge späicheren",
+      "saving": "Spueren ...",
+      "chooseTemplate": "Wielt eng Schabloun",
+      "primaryColor": "Primär Faarf",
+      "typography": "Typographie",
+      "appearance": "Ausgesinn",
+      "corners": "Corner & Grenzen",
+      "successTitle": "Erfolleg",
+      "successMessage": "Thema Virléiften erfollegräich aktualiséiert",
+      "errorTitle": "Feeler",
+      "errorMessage": "Konnt Themevirstellungen net späicheren",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistesch",
+          "desc": "Propper an einfachen Design konzentréiert sech op Inhalt."
+        },
+        "developerDark": {
+          "name": "Entwéckler Dark",
+          "desc": "Däischter Thema perfekt fir Code an Tech Stacks ze weisen."
+        },
+        "creative": {
+          "name": "Kreativ",
+          "desc": "Vibrant a faarweg Layout fir Designer a Kreativer."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Professionell a formell Layout fir Geschäftsleit."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Modernen Apple-Stil Gitter Layout dee verschidde Fäegkeeten effizient beliicht."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalismus",
+          "desc": "Fett Grenzen an héich Kontrast Faarwen fir en trendy, unapologetesch Look."
+        },
+        "glassmorphism": {
+          "name": "Glasmorphismus",
+          "desc": "Frostéiert Glas Effekter iwwer faarweg Gradienten fir eng elegant modern UI."
+        },
+        "linkInBio": {
+          "name": "Link am Bio",
+          "desc": "Kompakte vertikale Layout optiméiert fir mobil Schiirme a soziale Medien."
+        }
+      },
+      "appearances": {
+        "light": "Liicht",
+        "dark": "Däischter",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Scharf",
+        "rounded": "Ofgerënnt",
+        "pill": "Pëll"
+      }
+    },
+    "feedback": {
+      "title": "Feedback schécken",
+      "subtitle": "Hëlleft eis et besser ze maachen andeems Dir Suggestiounen, Kritik oder Bugs op dëser Applikatioun mellt.",
+      "categoryLabel": "Feedback Kategorie",
+      "messageLabel": "Message Detailer",
+      "messagePlaceholder": "Sot mir am Detail iwwer de Feedback deen Dir wëllt vermëttelen ...",
+      "imageLabel": "Bildattachement (fakultativ)",
+      "imagePlaceholder": "Klickt fir e Bild oder Screenshot eropzelueden",
+      "submitting": "Senden...",
+      "submitBtn": "Feedback schécken",
+      "categories": {
+        "suggestion": "Virschléi & Iddien",
+        "bug": "Bug / Feeler Bericht",
+        "criticism": "Kritik",
+        "other": "Aner"
+      },
+      "imageErrorTitle": "Feeler",
+      "imageErrorMessage": "E puer Dateie ginn refuséiert well se net ënnerstëtzt Bildformater (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Erfolleg",
+      "successMessage": "Merci fir Äre Feedback! Bericht gouf geschéckt.",
+      "submitErrorTitle": "Ausgefall",
+      "submitErrorMessage": "E Feeler ass geschitt beim Schécken vum Feedback. Probéiert w.e.g. nach eng Kéier."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Iwwer mech",
+      "skills": "Fäegkeeten",
+      "projects": "Projeten",
+      "workExperience": "Aarbecht Erfahrung",
+      "orgExperience": "Organisatoresch Erfahrung",
+      "education": "Educatioun",
+      "certifications": "Training & Zertifizéierungen",
+      "contact": "Kontaktéiert mech"
+    },
+    "editor": {
+      "profileInfo": "Profil Informatiounen",
+      "saving": "Spuert ...",
+      "profilePhoto": "Profil Foto",
+      "clickToUpload": "Klickt fir eropzelueden (JPG, PNG)",
+      "fullName": "Ganzen numm",
+      "fullNamePlaceholder": "z.B. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Entwéckler mat enger Passioun fir modern Web Apps ze bauen ...",
+      "location": "Location",
+      "locationPlaceholder": "z.B. ",
+      "gender": "Geschlecht",
+      "selectGender": "Wielt Geschlecht",
+      "male": "Männlech",
+      "female": "weiblech",
+      "custom": "Benotzerdefinéiert",
+      "customPlaceholder": "Schreift Äert personaliséiert Geschlecht ...",
+      "uploadCv": "Eroplueden CV",
+      "cvFormat": "(DOC oder PDF)",
+      "preview": "Virschau",
+      "remove": "Ewechzehuelen",
+      "clickToUploadCv": "Klickt fir PDF oder DOC eropzelueden",
+      "sections": "Sektiounen",
+      "removeSelected": "Ewechzehuelen ausgewielt",
+      "confirmRemove": "Confirméieren Ewechmaachen",
+      "addSection": "Sektioun addéieren",
+      "addAllSections": "Add All Rubriken",
+      "noSections": "Nach keng Rubriken",
+      "clickToAdd": "Klickt op \"+ Sektioun derbäi\" fir unzefänken",
+      "selectAll": "Wielt All",
+      "selected": "Ausgewielt",
+      "dragToReorder": "Drag fir Sektiounen nei ze bestellen",
+      "livePreview": "Live Virschau",
+      "addSectionsToBuild": "Füügt Sektiounen fir Äre Portfolio ze bauen",
+      "now": "Elo",
+      "current": "Aktuell",
+      "noExpiry": "Keng Verfall",
+      "see": "Kuckt",
+      "position": "Positioun",
+      "degree": "Grad",
+      "certification": "Zertifikatioun",
+      "sectionsForm": {
+        "about": {
+          "label": "Beschreiwung vun Iech selwer",
+          "placeholder": "Sot eis iwwer Iech selwer, Ären Hannergrond, Interessen a Fäegkeeten ..."
+        },
+        "skills": {
+          "addPlaceholder": "Typ Fäegkeet dann dréckt Enter ..."
+        },
+        "projects": {
+          "title": "Projet Numm",
+          "titlePlaceholder": "Projet Numm ...",
+          "url": "Projet URL",
+          "description": "Beschreiwung",
+          "descriptionPlaceholder": "Kuerz Beschreiwung vum Projet...",
+          "uploadThumbnail": "Projet Bild",
+          "addProject": "Projet dobäisetzen",
+          "projectNum": "Projet #",
+          "currentProject": "Dëst ass e Projet un deem ech schaffen"
+        },
+        "work": {
+          "company": "Firma / Agence",
+          "companyPlaceholder": "Firma Numm ...",
+          "position": "Positioun / Titel",
+          "positionPlaceholder": "Är Positioun ...",
+          "employmentType": "Jenis Pekerjaan",
+          "location": "Location",
+          "locationPlaceholder": "Stad, Land ...",
+          "startDate": "Start",
+          "endDate": "Selesai",
+          "currentWork": "Ech schaffen am Moment nach",
+          "description": "Beschreiwung",
+          "descriptionPlaceholder": "Jobbeschreiwung a Verantwortung ...",
+          "skills": "Fäegkeet",
+          "addExperience": "Füügt Aarbechtserfahrung",
+          "experienceNum": "Erfahrung #",
+          "dateError": "Den Enndatum kann net méi fréi wéi den Startdatum sinn"
+        },
+        "org": {
+          "organization": "Organisatioun Numm",
+          "orgPlaceholder": "BEM Universitéit...",
+          "role": "Roll / Positioun",
+          "rolePlaceholder": "Chef vun der Divisioun...",
+          "addOrg": "Füügt organisatoresch Erfahrung",
+          "orgNum": "Organisatioun #"
+        },
+        "edu": {
+          "institution": "Edukatiounsinstituter",
+          "institutionPlaceholder": "Numm vum Campus oder Schoul ...",
+          "degree": "Titel",
+          "degreePlaceholder": "S1, Lycée, etc ...",
+          "major": "Departement / Fuerschungsfeld",
+          "majorPlaceholder": "Informatik Eng...",
+          "gpa": "GPA (optional)",
+          "currentStudy": "Ech léieren nach ëmmer hei",
+          "descriptionPlaceholder": "Aktivitéiten a Leeschtungen während der Studie ...",
+          "addEdu": "Add Education",
+          "eduNum": "Educatioun #"
+        },
+        "cert": {
+          "name": "Numm vun der Zertifizéierung / Training",
+          "namePlaceholder": "Zertifizéierungsnumm ...",
+          "issuer": "Verlag",
+          "issuerPlaceholder": "Verëffentlechungsinstitut ...",
+          "issueDate": "Start (Verëffentlechungsdatum)",
+          "issueDatePlaceholder": "Wielt Verëffentlechungsdatum ...",
+          "expiryDate": "Ofgeschloss (gülteg Period)",
+          "expiryDatePlaceholder": "Wielt Verfallsdatum ...",
+          "noExpiry": "Dëse Certificat huet keen Verfallsdatum",
+          "url": "Umeldungsinformatioun URL",
+          "uploadThumbnail": "Zertifikat / Training Bild",
+          "uploadThumbnailLimit": "Eroplueden Zertifikatbild (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Zertifizéierung addéieren",
+          "certNum": "Zertifikatioun #"
+        },
+        "contact": {
+          "contactNum": "Kontakt #",
+          "platform": "Plattform",
+          "displayText": "Display Text",
+          "displayTextPlaceholder": "zB du@email.com oder @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "z.B. 62812... (ouni 0 ze féieren)",
+          "urlPlaceholderEmail": "zB du@email.com",
+          "urlPlaceholderWebsite": "z.B. https://...",
+          "urlPlaceholderDefault": "z.B. Benotzernumm",
+          "addContact": "Kontakt dobäisetzen"
+        },
+        "common": {
+          "months": {
+            "1": "Januar",
+            "2": "Februar",
+            "3": "Mäerz",
+            "4": "Abrëll",
+            "5": "Mee",
+            "6": "Juni",
+            "7": "Juli",
+            "8": "August",
+            "9": "September",
+            "10": "Oktober",
+            "11": "November",
+            "12": "Dezember"
+          },
+          "month": "Mount",
+          "year": "Joer",
+          "invalidDate": "Ongülteg Enn Mount",
+          "words": "Wierder"
+        }
+      },
+      "sure": "Sécher",
+      "deletePhotoTitle": "Profilfoto läschen?",
+      "deletePhotoMessage": "Sidd Dir sécher, Dir wëllt dës Profilfoto läschen?",
+      "cancel": "Ofbriechen",
+      "delete": "Läschen"
+    },
+    "cropper": {
+      "chooseBackground": "Wielt Hannergrond",
+      "cropPhoto": "Crop Är Foto",
+      "useOriginal": "Original benotzen",
+      "backgroundPresets": "Hannergrond Presets",
+      "none": "Keen",
+      "uploadBackground": "Eroplueden Hannergrond",
+      "cancel": "Ofbriechen",
+      "savePhoto": "Foto späicheren",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotatioun & Schréiegt",
+      "resetRotation": "Zerécksetzen op 0 °",
+      "center": "Zentrum",
+      "rotateLeft": "-90° rotéieren",
+      "rotateRight": "+90° rotéieren",
+      "removeBackground": "Ewechzehuelen Hannergrond",
+      "processing": "Veraarbechtt Äert Bild, waart w.e.g. ..."
+    },
+    "cvPreview": {
+      "title": "CV Preview",
+      "downloadCv": "Download CV",
+      "download": "Download",
+      "wordCannotPreview": "Word Dokumenter (.doc/.docx) kënnen net natiirlech am Browser virgesi ginn. ",
+      "downloadFile": "Download CV Datei",
+      "back": "Zréck",
+      "mobileMessage": "Luet w.e.g. d'CV-Datei erof fir se ze kucken.",
+      "preview": "Virschau CV",
+      "wordPreviewTitle": "Word Dokument Virschau",
+      "wordPreviewMessage": "Word Dokumenter (.doc/.docx) kënnen net natiirlech am Browser virgesi ginn. Luet d'Datei erof fir se ze gesinn."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Schreift eng kuerz Beschreiwung iwwer Iech selwer, Interessen, a Karriärziler ..."
+    },
+    "skills": {
+      "placeholder": "Typ Fäegkeet Numm ...",
+      "add": "Addéieren",
+      "enterToAdd": "Dréckt Enter fir ze addéieren",
+      "noSkills": "Keng Kompetenzen dobäi nach."
+    },
+    "projects": {
+      "projectName": "Projet Numm",
+      "projectNamePlaceholder": "z.B. ",
+      "projectUrl": "Projet URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Dauer",
+      "startMonth": "Start Mount",
+      "startYear": "Start Joer",
+      "endMonth": "Enn Mount",
+      "endYear": "Enn Joer",
+      "currentlyWorking": "Am Moment schaffen op dëser",
+      "description": "Beschreiwung",
+      "descriptionPlaceholder": "Beschreift de Projet, Är Roll an d'Leeschtungen ...",
+      "technologies": "Technologien benotzt",
+      "addProject": "Projet dobäisetzen",
+      "image": "Projet Bild",
+      "removeImage": "Ewechzehuelen Bild",
+      "uploadImage": "Klickt fir d'Bild eropzelueden"
+    },
+    "work": {
+      "company": "Firma / Institutioun",
+      "companyPlaceholder": "Firma Numm ...",
+      "role": "Roll / Positioun",
+      "rolePlaceholder": "Är Positioun ...",
+      "jobType": "Aarbecht Typ",
+      "selectJobType": "Wielt Typ",
+      "fullTime": "Vollzäit",
+      "partTime": "Deelzäit",
+      "contract": "Kontrakt",
+      "internship": "Stage",
+      "freelance": "Fräiberuffler",
+      "location": "Location",
+      "locationPlaceholder": "z.B. ",
+      "duration": "Dauer",
+      "currentlyWorking": "Am Moment schaffen hei",
+      "description": "Aarbecht Beschreiwung",
+      "descriptionPlaceholder": "Beschreift Är Schlësselverantwortung a Leeschtungen ...",
+      "skills": "Spezifesch Fäegkeeten",
+      "addExperience": "Füügt Erfahrung"
+    },
+    "org": {
+      "organization": "Organisatioun Numm",
+      "organizationPlaceholder": "Organisatioun Numm ...",
+      "role": "Roll / Positioun",
+      "rolePlaceholder": "z.B. ",
+      "duration": "Dauer",
+      "periodFormat": "oder Free Format (z.B. 2020 - 2022)",
+      "periodPlaceholder": "z.B. ",
+      "currentlyActive": "Aktuell aktiv",
+      "description": "Aktivitéit Beschreiwung",
+      "descriptionPlaceholder": "Beschreift Är Aktivitéiten oder Bäiträg ...",
+      "addExperience": "Füügt Erfahrung"
+    },
+    "education": {
+      "institution": "Institutioun Numm",
+      "institutionPlaceholder": "Schoul oder Universitéit Numm ...",
+      "degree": "Grad / Niveau",
+      "degreePlaceholder": "z.B. ",
+      "major": "Major / Studieberäich",
+      "majorPlaceholder": "z.B. ",
+      "gpa": "GPA / Grad",
+      "gpaPlaceholder": "z.B. ",
+      "duration": "Ausbildung Dauer",
+      "periodFormat": "oder Free Format (zB 2018 - 2022)",
+      "periodPlaceholder": "z.B. ",
+      "currentlyStudying": "Am Moment studéiert hei",
+      "description": "Aktivitéiten / Éieren",
+      "descriptionPlaceholder": "Beschreift akademesch Aktivitéiten, Organisatiounen oder Éiere kritt ...",
+      "addEducation": "Add Education"
+    },
+    "cert": {
+      "name": "Zertifikatioun Numm",
+      "namePlaceholder": "z.B. ",
+      "issuer": "Emissioun Organisatioun",
+      "issuerPlaceholder": "z.B. ",
+      "issueDate": "Emissioun Datum",
+      "expiryDate": "Gülteg bis",
+      "noExpiry": "Dës Umeldungsinformatioun leeft net of",
+      "yearPlaceholder": "oder Joer (z.B. 2023)",
+      "credentialUrl": "Umeldungsinformatioun URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Zesummenhang Fäegkeeten",
+      "addCertification": "Zertifizéierung addéieren",
+      "image": "Bild / Logo",
+      "removeImage": "Ewechzehuelen Bild",
+      "uploadImage": "Klickt fir d'Bild eropzelueden"
+    },
+    "common": {
+      "months": {
+        "1": "Januar",
+        "2": "Februar",
+        "3": "Mäerz",
+        "4": "Abrëll",
+        "5": "Mee",
+        "6": "Juni",
+        "7": "Juli",
+        "8": "August",
+        "9": "September",
+        "10": "Oktober",
+        "11": "November",
+        "12": "Dezember"
+      },
+      "month": "Mount",
+      "year": "Joer",
+      "invalidDate": "Ongülteg Enn Mount",
+      "words": "Wierder"
+    }
+  },
+  "settings": {
+    "title": "Astellungen",
+    "subtitle": "Verwalten Äre Portfolioprofil a Virléiften",
+    "tabs": {
+      "profile": "Mäi Profil",
+      "security": "Sécherheet",
+      "personalization": "Personaliséierung"
+    },
+    "profile": {
+      "infoTitle": "Basis Informatiounen",
+      "photo": "Profil Foto",
+      "uploadPhoto": "Foto änneren",
+      "fullName": "Ganzen numm",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email Adress",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-Mail gëtt fir Login benotzt a gëtt net ëffentlech ugewisen.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Späicheren Profil",
+      "save": "Späicheren Profil",
+      "accountCreated": "Kont erstallt",
+      "lastLogin": "Last Login",
+      "oauthNotice": "Dëse Profil ass mat Ärem {{provider}} Kont verbonnen. Profil Ännerungen mussen duerch de Service Provider gemaach ginn."
+    },
+    "security": {
+      "changePassword": "Passwuert änneren",
+      "currentPassword": "Aktuell Passwuert",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Neit Passwuert",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Confirméieren Neit Passwuert",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Op d'mannst 8 Zeechen",
+        "uppercase": "Ee grousse Buschtaf (A-Z)",
+        "number": "Eng Zuel (0-9)",
+        "symbol": "Ee Symbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Passwuert",
+      "updatePassword": "Update Passwuert",
+      "additionalSecurity": "Zousätzlech Sécherheet",
+      "twoFactor": "Zwee-Faktor Authentifikatioun (2FA)",
+      "twoFactorDesc": "Séchert Äre Kont mat engem zousätzleche OTP Code.",
+      "activeSessions": "Aktiv Sessiounen",
+      "activeSessionsDesc": "Erlaabt ëmmer d'Iwwerwaachung vun ageloggten Apparater.",
+      "publicVisibility": "Ëffentlech Visibilitéit",
+      "hideFromSearch": "Verstoppt Portfolio vu Sichmotoren",
+      "hideFromSearchDesc": "Verhënnert datt Google Är ëffentlech Portfolio Säit indexéiert.",
+      "disable2fa": {
+        "title": "2FA auszeschalten",
+        "description": "Sidd Dir sécher datt Dir Zwee-Faktor Authentifikatioun auszeschalten wëllt?",
+        "confirmPasswordLabel": "Gitt Äert Passwuert fir ze bestätegen",
+        "currentPasswordPlaceholder": "Aktuell Passwuert",
+        "cancelButton": "Ofbriechen",
+        "confirmButton": "2FA auszeschalten",
+        "incorrectPassword": "Falsch Passwuert."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scannen QR Code",
+        "step1Desc": "Öffnen Är Authentifizéierer App a scannt de folgende QR Code:",
+        "unableToScan": "Kann ech net scannen? Benotzt Setup Schlëssel",
+        "step2Title": "2. Verifizéiert Code",
+        "step2Desc": "Gitt de 6-Zifferen Code generéiert vun Ärer App:",
+        "cancelButton": "Ofbriechen",
+        "enableButton": "Aktivéiert 2FA",
+        "invalidLength": "Gitt weg e 6-Zifferen Code.",
+        "invalidCode": "Ongülteg Verifikatiounscode. Probéiert w.e.g. nach eng Kéier."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Sprooch Kontrollen",
+      "appLanguage": "App Sprooch",
+      "layoutTitle": "Layout & Typographie",
+      "layoutStyle": "Layout Stil",
+      "layoutModern": "Modern Stil (Standard)",
+      "layoutClassic": "Klassesche Stil",
+      "layoutMinimalist": "Minimalistesche Stil",
+      "fontSize": "App Schrëftgréisst",
+      "fontSmall": "Kleng",
+      "fontNormal": "Normal (Mëttel)",
+      "fontLarge": "Grouss",
+      "searchLanguage": "Sich Sprooch ...",
+      "languageNotFound": "Sprooch net fonnt",
+      "layoutElegant": "Elegante Stil"
+    },
+    "saveChanges": "Ännerunge späicheren",
+    "cancel": "Ofbriechen",
+    "appSettings": "App Astellunge",
+    "logoutConfirmTitle": "Confirméieren Logout",
+    "logoutConfirmDesc": "Sidd Dir sécher datt Dir aus dem System ausloggen wëllt?",
+    "logoutConfirmYes": "Jo, ausloggen",
+    "generalError": "E Feeler ass geschitt. ",
+    "success": "Erfolleg",
+    "preferencesSaved": "App Virléiften erfollegräich gespäichert.",
+    "header": "Applikatioun Astellunge",
+    "logout": {
+      "title": "Logout Confirmatioun",
+      "message": "Sidd Dir sécher datt Dir aus dem System ausloggen wëllt?",
+      "confirm": "Jo, ausloggen"
+    },
+    "about": {
+      "title": "Iwwer Applikatioun",
+      "subtitle": "Portfolio Builder Plattform",
+      "version": "Versioun",
+      "description": "DevFolio ass eng modern Portfolio Builder Plattform entworf fir Entwéckler, Designer a professionelle Creatoren. ",
+      "license": "Lizenz & Copyright",
+      "copyright": "© 2026 DevFolio Inc. All Rechter reservéiert.",
+      "developer": "Entwéckler",
+      "developedBy": "Entwéckelt vum Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Kont permanent läschen",
+      "menuItem": "Kont läschen",
+      "successTitle": "Erfolleg",
+      "successMessage": "Eng Confirmatiouns-E-Mail vun der Läschung vum Kont gouf geschéckt.",
+      "errorTitle": "Ausgefall",
+      "errorMessage": "Ausgefall Confirmatiouns Email ze schécken.",
+      "confirmationMessage": "Sidd Dir sécher, datt Dir Äre Kont permanent läschen wëllt?",
+      "warningMessage1": "Dir kritt eng E-Mail fir d'Läsche vum Kont ze bestätegen.",
+      "warningMessage2": "Wann bestätegt, ginn all Donnéeën (Portfolio, Projeten, Statistiken) permanent geläscht a kënnen net erëmfonnt ginn.",
+      "cancel": "Annuléieren",
+      "confirm": "Bestätegung"
+    },
+    "toasts": {
+      "toastError": "Feeler",
+      "toastSuccess": "Erfolleg",
+      "toastSetup2FAFailed": "Ausgefall fir 2FA opzestellen. Probéiert w.e.g. nach eng Kéier.",
+      "toast2FAEnabled": "Zwee-Faktor Authentifikatioun ass aktivéiert.",
+      "toast2FADisabled": "Zwee-Faktor Authentifikatioun ass ausgeschalt ginn.",
+      "toastSessionEnabled": "Aktiv Sessioun Iwwerwachung gouf aktivéiert.",
+      "toastSessionDisabled": "Aktiv Sessioun Iwwerwachung gouf ausgeschalt.",
+      "toastSetupKeyCopied": "Setup Schlëssel op Clipboard kopéiert."
+    },
+    "privacy": {
+      "title": "Privatsphär Politik",
+      "updateDate": "Lescht aktualiséiert: Juli 15, 2026",
+      "intro": "Dës Dateschutzpolitik erkläert wéi DevFolio Är perséinlech Informatioun sammelt, benotzt a schützt wann Dir eis Servicer benotzt.",
+      "section1Title": "1. Informatiounen Mir sammelen",
+      "section1Content": "Mir sammelen Informatioun déi Dir direkt gitt wann Dir e Kont erstellt, e Portfolio opbaut an eis Ënnerstëtzung kontaktéiert. ",
+      "section2Title": "2. Benotzung vun Informatiounen",
+      "section2Content": "Är Informatioune gi benotzt fir d'Fonctiounen vun eise Servicer ze bedreiwen, z'erhalen an ze bidden, wéi och fir mat Iech iwwer Äre Kont oder Servicer ze kommunizéieren.",
+      "section3Title": "3. Date Sécherheet",
+      "section3Content": "Mir implementéieren raisonnabel Sécherheetsmoossname fir Är Informatioun virun onerlaabten Zougang, Verëffentlechung oder Zerstéierung ze schützen."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Bestätegung Token net fonnt.",
+    "defaultError": "Ausgefall Kont ze läschen. Den Token ass vläicht ofgelaf.",
+    "loadingTitle": "Kont läschen ...",
+    "loadingMessage": "Waart w.e.g., mir veraarbecht Är Ufro.",
+    "successTitle": "Kont erfollegräich geläscht",
+    "successMessage": "All Är Donnéeën goufen permanent geläscht. Dir wäert ëmgeleet ginn ...",
+    "errorTitle": "Ausgefall fir de Kont ze läschen",
+    "backToHome": "Zréck op Heem"
+  },
+  "forgotPassword": {
+    "minutes": "Minutten",
+    "seconds": "Sekonnen",
+    "success": "Erfolleg",
+    "otpSentToEmail": "En OTP Code gouf op Är E-Mail geschéckt.",
+    "failed": "Ausgefall",
+    "emailNotFound": "E-Mail net fonnt.",
+    "emailThirdParty": "Dës E-Mail ass duerch eng Drëtte registréiert.",
+    "genericError": "Et gëtt e Feeler. Probéiert w.e.g. nach eng Kéier.",
+    "otpVerified": "Den OTP Code gouf erfollegräich verifizéiert.",
+    "otpExpired": "Den OTP Code ass ofgelaf. Ufro w.e.g. en neie Code.",
+    "otpInvalid": "Invalid OTP Code.",
+    "otpResent": "En neien OTP Code gouf op Är E-Mail geschéckt.",
+    "otpResendFailed": "Konnt den OTP-Code net nei schécken. Probéiert w.e.g. nach eng Kéier.",
+    "passwordResetSuccess": "Passwuert erfollegräich zréckgesat. Mellt Iech w.e.g. mat Ärem neie Passwuert un.",
+    "passwordResetFailed": "Ausgefall Passwuert zréckgesat.",
+    "backToLogin": "Zréck op Login",
+    "back": "Zréck",
+    "title": "Passwuert vergiess",
+    "description": "Gitt d'E-Mailadress déi op Ärem Kont registréiert ass. Mir schécken en OTP Code fir d'Passwuert zréckzesetzen.",
+    "emailLabel": "E-Mail Adress",
+    "sending": "Senden...",
+    "sendOtp": "Schécken OTP Code",
+    "verifyOtpTitle": "Verifizéiert OTP Code",
+    "verifyOtpDesc": "Gitt de 6 Zifferen Code deen op Är E-Mail geschéckt gouf fir Är Identitéit ze bestätegen.",
+    "verifying": "Verifizéiert ...",
+    "verifyOtp": "Verifizéiert OTP",
+    "resending": "Nei verschéckt ...",
+    "resendOtp": "OTP Code nei schécken",
+    "resendCodeIn": "Schéckt de Code erëm an",
+    "newPasswordTitle": "Erstellt en neit Passwuert",
+    "newPasswordDesc": "Erstellt en neit, staarkt Passwuert fir Äre Kont ze sécheren.",
+    "newPasswordLabel": "Neit Passwuert",
+    "min8Chars": "Minimum 8 Zeechen",
+    "oneUpperCase": "1 grouss (A-Z)",
+    "oneNumber": "1 Zuel (0-9)",
+    "oneSymbol": "1 Symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirméieren Passwuert",
+    "passwordsDoNotMatch": "Passwierder passen net.",
+    "resettingPassword": "Passwuert zrécksetzen ...",
+    "resetPassword": "Reset Passwuert"
+  },
+  "verifyEmail": {
+    "resendError": "Konnt d'Verifikatiouns-E-Mail nei schécken. Probéiert w.e.g. nach eng Kéier.",
+    "checkingStatus": "Iwwerpréift de Verifizéierungsstatus...",
+    "title": "Kontrolléiert Är E-Mail",
+    "description": "Mir hunn eng Verifikatiouns-E-Mail op Är E-Mailadress geschéckt. Maacht w.e.g. d'E-Mail op a klickt op de <1>\"Confirmatioun Kont\"</1> Knäppchen fir Äre Kont ze aktivéieren.",
+    "stepsTitle": "Schrëtt",
+    "step1": "Öffnen Är E-Mail Uwendung (Gmail, Yahoo, etc)",
+    "step2": "Sicht eng E-Mail vum DevFolio mam Thema \"Kontaktivéierung\"",
+    "step3": "Klickt op de \"Confirm Account\" Knäppchen an der E-Mail",
+    "step4": "Dir wäert op d'Login Säit geleet ginn fir anzeginn",
+    "resendSuccess": "D'Verifikatiouns-E-Mail gouf nei geschéckt!",
+    "resending": "Nei verschéckt ...",
+    "resendButton": "Neischécken Verifikatiouns-E-Mail",
+    "backToLogin": "Zréck op d'Login Säit",
+    "footerNote": "Huet d'E-Mail net kritt? Kuckt den Dossier <1>Spam</1> oder <2>Junk</2> an Ärer E-Mail. De Verifizéierungslink ass valabel fir <3>24 Stonnen</3>."
+  }
+}

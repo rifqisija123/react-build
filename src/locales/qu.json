@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Kaqninkuna",
+    "templates": "Plantillas",
+    "pricing": "Preciokuna churay",
+    "login": "Yaykuy",
+    "getStarted": "Qallariy",
+    "title": "DevFolio nisqa"
+  },
+  "landing": {
+    "badge": "Paqarichiqkunapaq qhipa cartera ruwaq",
+    "title1": "Profesionalniykita hatarichiy",
+    "title2": "cartera nisqapi",
+    "titleHighlight": "segundos nisqapi.",
+    "subtitle": "Tukuy ima necesitasqaykita qawachinaykipaq, proyectoykikunata, experienciaykitapas. ",
+    "startBuilding": "Kunanmantapacha wasichayta qallariy",
+    "viewTemplates": "Plantillas nisqa qhaway",
+    "fastDeployment": "Utqaylla Despliegue",
+    "liveStatus": "username.dev kawsachkan!",
+    "featuresTitle": "Atiyniyuq Ruwaykuna",
+    "featuresSubtitle": "Tukuy yanapakuykunata quyku achka runakunamanta t’aqakunaykipaq chaymanta musquy llamk’ayniyki allpaman chayanaykipaq.",
+    "feature1Title": "Arrastrar & Drop Ruwaq",
+    "feature1Desc": "Facilmente t'aqaykikunata, proyectoykikunata, yachayniykikunata ima intuitivo rikuy editorniykuwan organizay.",
+    "feature2Title": "Temas Personalizados nisqakuna",
+    "feature2Desc": "Akllay profesional hina ruwasqa plantillakunamanta utaq kikiykipa sapalla rikchaynikita ruway.",
+    "feature3Title": "Chiqap pachamanta T'aqwiy",
+    "feature3Desc": "Watukuqniykikunata qatipay, mayqin proyectokuna aswanta qhawarisqa kanku, chaymanta aswanta qhaway."
+  },
+  "auth": {
+    "welcomeBack": "Allin hamuy Kutimuy",
+    "loginToContinue": "Yupayniykiman yaykuy hinalla ruwanaykipaq",
+    "createAccount": "Cuenta ruway",
+    "joinCommunity": "Waranqa waranqa huk ruwaqkunawan hukllanakuy",
+    "fullName": "Tukuy Suti",
+    "fullNamePlaceholder": "p.h. ",
+    "email": "Dirección de Correo Electrónico",
+    "emailPlaceholder": "qam@ejemplo.com",
+    "password": "Kichana",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Yuyariwaychik",
+    "forgotPassword": "¿Qunqarqankichu contraseña?",
+    "signIn": "Yaykuy",
+    "signingIn": "Yaykuy...",
+    "signUp": "Inscribikuy",
+    "signingUp": "Inscribikuy...",
+    "noAccount": "¿Manachu cuentayuq kanki?",
+    "hasAccount": "¿Ñam cuentayuqñachu kanki?",
+    "passwordRules": {
+      "title": "Yaykuna rimayqa kaykunatam hap'inan:",
+      "length": "8 qillqakunallapas",
+      "uppercase": "Huk hatun qillqa (A-Z) .",
+      "number": "Huk yupay (0-9) .",
+      "symbol": "Huk simbulu (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Cartera Ruraq",
+      "templates": "Plantillas & Temas",
+      "settings": "Ajustes nisqa",
+      "collapse": "T'uqyay Barra lateral",
+      "overview": "Tukuy qhawariy",
+      "profileSettings": "Perfilpa churayninkuna",
+      "customDomain": "Sapanchasqa Dominio",
+      "feedback": "Rimaykuna"
+    },
+    "header": {
+      "viewLive": "Kawsaq qhaway",
+      "welcome": "Allinlla chayaykamuy,",
+      "logout": "Lloqsiy",
+      "builder": "Wasi ruwaq",
+      "livePortfolio": "Kawsaq Cartera",
+      "live": "Kawsay"
+    },
+    "logoutModal": {
+      "title": "Lloqsiy",
+      "message": "¿Segurochu kanki yupayniykimanta lluqsiyta munasqaykimanta? ",
+      "cancel": "Sayachiy",
+      "confirm": "Arí, Lloqsiy"
+    },
+    "slugModal": {
+      "title": "URL Carteraykita akllay",
+      "message": "Kay URL sapalla t'inki kanqa carteraykiman. ",
+      "slugPlaceholder": "qanpa-sutiyki",
+      "availability": "Kawsay: 1.1.",
+      "available": "Hapirinalla",
+      "unavailable": "Mana tarikuq",
+      "checking": "Checking...",
+      "mustFormat": "Letrakuna, yupaykuna, chirukunalla (-) kanman.",
+      "cancel": "Sayachiy",
+      "save": "URL nisqa waqaychay",
+      "usernameUrl": "Ruraqpa sutin URL",
+      "helpText": "Huch’uy qillqakuna, yupaykuna, chirukuna ima. ",
+      "validation": {
+        "empty": "Slug mana ch’usaq kayta atinchu.",
+        "min3": "Aswan pisi 3 qillqakuna.",
+        "max30": "Aswan achka 30 qillqakuna.",
+        "format": "Huch’uy qillqakunalla, yupaykuna, chirukunalla (-). "
+      }
+    },
+    "loadingPortfolio": "Carteramanta willakuykunata kargachkanki...",
+    "overview": {
+      "greetings": {
+        "morning": "Allin p'unchaw",
+        "afternoon": "Allin Tarde",
+        "evening": "Allin Tarde",
+        "night": "Allin Tuta"
+      },
+      "welcome": {
+        "hi": "Allinllachu, .",
+        "creator": "Kamaq",
+        "desc1": "Allin hamusqayki DevFolio tabla de mando nisqaman. Carteraykiqa qhawasqañam",
+        "desc2": "runa. ¡Llamkayllapuni!",
+        "editPortfolio": "Cartera nisqapi llamk'apuy"
+      },
+      "stats": {
+        "totalVisitors": "Llapan Watukuqkuna",
+        "projectViews": "Qhawasqa (Proyecto) .",
+        "activeSessions": "Sesión Activa nisqa",
+        "totalLabel": "Llapan"
+      },
+      "setup": {
+        "title": "Configuración Progreso nisqa",
+        "completed": "¡Carteraykiqa hunt'asqañam kachkan! 🎉",
+        "inProgress": "Pasos a la cartera perfecta.",
+        "profile": {
+          "title": "Perfil hunt’asqa",
+          "desc": "Suti, bio hinaspa perfil fotota yapay."
+        },
+        "section": {
+          "title": "Secciones nisqakunata yapay",
+          "desc": "Carterapi 1 t’aqallapas llank’achiy."
+        },
+        "project": {
+          "title": "Proyecto yapay",
+          "desc": "1 allin proyectoykikunamantapas qillqay."
+        },
+        "publish": {
+          "title": "Cartera nisqamanta lluqsichiy",
+          "desc": "Sapanchasqa URL nisqa churay, llapa runa yaykuyta atinanpaq."
+        }
+      },
+      "topProjects": {
+        "title": "Proyectos Más Populares nisqa",
+        "desc": "Watukuqkunapa ñawinpi llamkaynikipa ruwaynin.",
+        "viewAll": "Tukuy rikuy",
+        "empty": "Manaraqmi proyectoykipaq qhaway willakuy kanchu."
+      }
+    },
+    "themes": {
+      "title": "Plantillas & Temas",
+      "subtitle": "Cartera pública nisqaykipa rikchayninta hinaspa imayna kayninta ruway.",
+      "reset": "Ñawpaqmanta churasqa kaqta kutichiy",
+      "save": "Waqaychay Tikray",
+      "saving": "Waqaychay...",
+      "chooseTemplate": "Akllay huk Plantilla",
+      "primaryColor": "Ñawpaq kaq llimp'i",
+      "typography": "Tipografía nisqamanta",
+      "appearance": "Rikchay",
+      "corners": "Esquinas & Fronteras",
+      "successTitle": "Éxito",
+      "successMessage": "Tema munasqakuna allinta musuqyachisqa",
+      "errorTitle": "Pantasqa",
+      "errorMessage": "Tema munasqakunata mana waqaychayta atirqanchu",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Diseño limpio y simple enfocando en contenido."
+        },
+        "developerDark": {
+          "name": "Paqarichiq Tuta",
+          "desc": "Tutayaq tema perfecto código chaymanta tech pilas rikuchinapaq."
+        },
+        "creative": {
+          "name": "Kamay",
+          "desc": "Diseñadores y creativos nisqapaq kawsaq hinaspa llimpiyuq churay."
+        },
+        "executive": {
+          "name": "Ejecutivo",
+          "desc": "Diseño profesional y formal nisqa profesional empresarialkunapaq."
+        },
+        "bentoGrid": {
+          "name": "Bento Rejilla",
+          "desc": "Kunan pacha Apple-hina rejilla churay mayqinchus hukniray yachaykunata allinta riqsichin."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalismo nisqa",
+          "desc": "Bordes atrevidos chaymanta alto contraste colores huk moda, mana disculpa mañakuq qhawaypaq."
+        },
+        "glassmorphism": {
+          "name": "Vidriomorfismo nisqa",
+          "desc": "Vidrio helado efectos colorido gradientes kaqpi huk sumaq moderno UI kaqpaq."
+        },
+        "linkInBio": {
+          "name": "Enlace en Bio",
+          "desc": "Compacto sayaq churay pantallakuna apaykachanapaq chaymanta social medios kaqpaq allinchasqa."
+        }
+      },
+      "appearances": {
+        "light": "K'anchay",
+        "dark": "Tutayaq",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Filoyuq",
+        "rounded": "Muyusqa",
+        "pill": "Píldora"
+      }
+    },
+    "feedback": {
+      "title": "Rimanakuykunata apachiy",
+      "subtitle": "Yanapawayku aswan allin kananpaq yuyaychaykunata, k'amiykunata utaq kay ruwanapi pantaykunata willaywan.",
+      "categoryLabel": "Retroalimentación Categoría",
+      "messageLabel": "Willakuymanta Willakuykuna",
+      "messagePlaceholder": "Willaway detalladamente chay retroalimentación willayta munasqaykimanta...",
+      "imageLabel": "Imahina K'askaq (Akllasqa)",
+      "imagePlaceholder": "Imahinata icha pantalla hap'iyta churanaykipaq ñit'iy",
+      "submitting": "Kachaspa...",
+      "submitBtn": "Rimanakuykunata apachiy",
+      "categories": {
+        "suggestion": "Yuyaychaykuna & Yuyaykuna",
+        "bug": "Pantasqa / Pantasqa Willakuy",
+        "criticism": "K'amiy",
+        "other": "Hukkuna"
+      },
+      "imageErrorTitle": "Pantasqa",
+      "imageErrorMessage": "Wakin willañiqikunaqa mana yanapasqa siq'i formatokuna (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Éxito",
+      "successMessage": "Gracias por tus retroalimentación! Willakuyqa apachisqañam.",
+      "submitErrorTitle": "Mana atisqachu",
+      "submitErrorMessage": "Huk pantaymi karqan yuyaykunata apachispa. Ama hina kaspa, hukmanta kallpachakuy."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ñoqamanta",
+      "skills": "Yachaykuna",
+      "projects": "Proyectos nisqakuna",
+      "workExperience": "Llamkay Experiencia",
+      "orgExperience": "Experiencia Organizacional nisqa",
+      "education": "Yachay",
+      "certifications": "Capacitación & Certificaciones nisqa",
+      "contact": "Contacto Ñuqawan"
+    },
+    "editor": {
+      "profileInfo": "Perfilmanta Willakuy",
+      "saving": "Waqaychay...",
+      "profilePhoto": "Perfil Foto",
+      "clickToUpload": "Chaypaqqa ñit'iy (JPG, PNG)",
+      "fullName": "Tukuy Suti",
+      "fullNamePlaceholder": "p.h. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Paqarichiq huk pasión kaqwan kunan pacha web ruwanakuna ruwanapaq...",
+      "location": "Tarikusqan",
+      "locationPlaceholder": "p.h. ",
+      "gender": "Ima kay",
+      "selectGender": "Qhari warmita akllay",
+      "male": "Qari",
+      "female": "Warmi",
+      "custom": "Chullachasqa",
+      "customPlaceholder": "Qillqay qampaq ruwasqa género...",
+      "uploadCv": "CV nisqata churay",
+      "cvFormat": "(DOC otaq PDF)",
+      "preview": "Ñawpaqta qhaway",
+      "remove": "Qichuy",
+      "clickToUploadCv": "PDF utaq DOC nisqapi churanaykipaq ñitiy",
+      "sections": "T’aqakuna",
+      "removeSelected": "Akllasqata hurquy",
+      "confirmRemove": "Confirmay Q’ipiy",
+      "addSection": "Yanapay T’aqa",
+      "addAllSections": "Llapan T’aqakunata Yapay",
+      "noSections": "Manaraqmi t’aqakuna kanchu",
+      "clickToAdd": "\"+ T'aqa yapay\" ñit'iy qallariypaq",
+      "selectAll": "Llapan akllay",
+      "selected": "Akllasqa",
+      "dragToReorder": "T’aqakunata wakmanta ordenanaykipaq aysay",
+      "livePreview": "Kawsaq Ñawpaq qhaway",
+      "addSectionsToBuild": "Carterayki ruwanaykipaq t’aqakunata yapay",
+      "now": "Kunan",
+      "current": "Kunan",
+      "noExpiry": "Mana Expiración nisqayuq",
+      "see": "Qaway",
+      "position": "Tarikuynin",
+      "degree": "Titulo",
+      "certification": "Certificación nisqa",
+      "sectionsForm": {
+        "about": {
+          "label": "Kikiykimanta willakuy",
+          "placeholder": "Willawayku qan kikiykimanta, ñawpaq kawsayniykimanta, ima munasqaykimanta, yachayniykikunamantapas..."
+        },
+        "skills": {
+          "addPlaceholder": "Yachayta qillqay chaymanta Enter ñit'iy..."
+        },
+        "projects": {
+          "title": "Proyectopa Suti",
+          "titlePlaceholder": "Proyectopa sutin...",
+          "url": "Proyecto URL nisqa",
+          "description": "Willay",
+          "descriptionPlaceholder": "Pisi willakuy proyectomanta...",
+          "uploadThumbnail": "Proyectopa Imahina",
+          "addProject": "Proyecto yapay",
+          "projectNum": "Ruwana #",
+          "currentProject": "Kayqa llamk’asqay proyectom"
+        },
+        "work": {
+          "company": "Empresa/Agencia nisqa",
+          "companyPlaceholder": "Empresapa sutin...",
+          "position": "Cargo/Título nisqa",
+          "positionPlaceholder": "Cargoykiqa...",
+          "employmentType": "Ima rikchaq llamkay",
+          "location": "Tarikusqan",
+          "locationPlaceholder": "Llaqta, Llaqta...",
+          "startDate": "Qallariy",
+          "endDate": "Tukusqa",
+          "currentWork": "Kunankamapas llamkachkaniraqmi",
+          "description": "Willay",
+          "descriptionPlaceholder": "Llamkaymanta willakuy hinaspa ruwaykuna...",
+          "skills": "Yachay",
+          "addExperience": "Llamkay Experienciata yapay",
+          "experienceNum": "Yachaykuna #",
+          "dateError": "Tukuynin p'unchawqa manam qallariy p'unchawmanta ñawpaq kanmanchu"
+        },
+        "org": {
+          "organization": "Organización Suti",
+          "orgPlaceholder": "BEM Hatun Yachay Suntur...",
+          "role": "Papel/Posición nisqa",
+          "rolePlaceholder": "Rakiy Umalliq...",
+          "addOrg": "Experiencia Organizacional nisqatapas yapay",
+          "orgNum": "Huñu #"
+        },
+        "edu": {
+          "institution": "Yachay Wasikuna",
+          "institutionPlaceholder": "Campus utaq yachaywasip sutin...",
+          "degree": "Suti",
+          "degreePlaceholder": "S1, hatun yachay wasi, hukkunapas...",
+          "major": "Departamento/Campo de Estudio nisqa",
+          "majorPlaceholder": "Ingeniería Informática...",
+          "gpa": "GPA (munasqa) .",
+          "currentStudy": "Kunankamapas kaypi yachakuchkani",
+          "descriptionPlaceholder": "Estudio kachkaptin ruwaykuna hinaspa haypaykuna...",
+          "addEdu": "Educacionta yapay",
+          "eduNum": "Yachay #"
+        },
+        "cert": {
+          "name": "Certificación / Capacitación nisqapa sutin",
+          "namePlaceholder": "Certificación suti...",
+          "issuer": "Willakuq",
+          "issuerPlaceholder": "Qillqa lluqsichiq wasi...",
+          "issueDate": "Qallariy (P'unchaw lluqsichiy) .",
+          "issueDatePlaceholder": "Qillqa lluqsinan p'unchawta akllay...",
+          "expiryDate": "Tukuchisqa (Periodo Valido) .",
+          "expiryDatePlaceholder": "Akllay tukukuy p'unchawta...",
+          "noExpiry": "Kay certificadoqa manam ima punchawpas tukukunanchu",
+          "url": "URL de credencial nisqa",
+          "uploadThumbnail": "Certificado / Yachachiy Imahina",
+          "uploadThumbnailLimit": "Certificado siq'ita kargay (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Certificación nisqatapas yapay",
+          "certNum": "Certificación # ."
+        },
+        "contact": {
+          "contactNum": "Tupaqmasi #",
+          "platform": "Plataforma",
+          "displayText": "Texto nisqa qhawarichiy",
+          "displayTextPlaceholder": "e.g., qam@email.com utaq @username",
+          "url": "T'inki (URL) .",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (mana 0 pusaq) .",
+          "urlPlaceholderEmail": "e.g., qam@correo electrónico.com nisqaman",
+          "urlPlaceholderWebsite": "p.h., https://...",
+          "urlPlaceholderDefault": "e.g., username nisqa",
+          "addContact": "Contacto nisqatapas yapay"
+        },
+        "common": {
+          "months": {
+            "1": "Enero killa",
+            "2": "Febrero killa",
+            "3": "Marzo killa",
+            "4": "Abril killa",
+            "5": "Mayu killapi",
+            "6": "Junio ​​killa",
+            "7": "Julio killa",
+            "8": "Agosto killa",
+            "9": "Setiembre killa",
+            "10": "Octubre killa",
+            "11": "Noviembre killa",
+            "12": "Diciembre killa"
+          },
+          "month": "Killa",
+          "year": "Wata",
+          "invalidDate": "Mana allin Tukuchiy Killa",
+          "words": "rimaykuna"
+        }
+      },
+      "sure": "Chiqaq",
+      "deletePhotoTitle": "¿Perfilpa fotonta chinkachiy?",
+      "deletePhotoMessage": "¿Segurochu kay perfil fotota chinkachiyta munanki?",
+      "cancel": "Sayachiy",
+      "delete": "Chinkachiy"
+    },
+    "cropper": {
+      "chooseBackground": "Akllay Fondo nisqapi",
+      "cropPhoto": "Fotoykita kuchuy",
+      "useOriginal": "Originalta llamk’achiy",
+      "backgroundPresets": "Ñawpaqmanta churasqakuna",
+      "none": "Mana mayqinpas",
+      "uploadBackground": "Carga Fondo nisqamanta",
+      "cancel": "Sayachiy",
+      "savePhoto": "Fotota waqaychay",
+      "zoom": "Zoom nisqa ruway",
+      "rotationTilt": "Muyuchiy & Inclinación",
+      "resetRotation": "0° nisqaman kutichiy",
+      "center": "Chawpichay",
+      "rotateLeft": "Muyuchiy -90°",
+      "rotateRight": "Muyuchiy +90°",
+      "removeBackground": "Fondo nisqamanta hurquy",
+      "processing": "Imahinaykita ruwaspa, ama hina kaspa suyay..."
+    },
+    "cvPreview": {
+      "title": "CV Ñawpaq qhaway",
+      "downloadCv": "CV nisqamanta hurquy",
+      "download": "Uraykachiy",
+      "wordCannotPreview": "Word qillqakuna (.doc/.docx) mana ñawpaq qhawayta atikunmanchu nativo kaqpi maskaqpi. ",
+      "downloadFile": "CV Archivota uraykachiy",
+      "back": "Qipaman",
+      "mobileMessage": "Ama hina kaspa, CV archivota uraykachiy ñawpaqmanta qhawanaykipaq.",
+      "preview": "Ñawpaqta qhaway CV",
+      "wordPreviewTitle": "Word Qillqa Ñawpaq qhaway",
+      "wordPreviewMessage": "Word qillqakuna (.doc/.docx) mana ñawpaq qhawayta atikunmanchu nativo kaqpi maskaqpi. Ama hina kaspa, chay willañiqita uraykachiy qhawanaykipaq."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Kikiykimanta, ima munasqaykimanta, llamkaynikimanta ima pisi rimayllapi qillqay..."
+    },
+    "skills": {
+      "placeholder": "Qillqay yachay suti...",
+      "add": "Yapay",
+      "enterToAdd": "Enter nisqapi ñit’iy yapanaykipaq",
+      "noSkills": "Manaraqmi yachaykuna yapasqachu."
+    },
+    "projects": {
+      "projectName": "Proyectopa Suti",
+      "projectNamePlaceholder": "p.h. ",
+      "projectUrl": "Proyecto URL nisqa",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Unayasqan",
+      "startMonth": "Killa qallariy",
+      "startYear": "Qallariy Wata",
+      "endMonth": "Tukuchiy Killa",
+      "endYear": "Tukuynin Wata",
+      "currentlyWorking": "Kunanqa kaypi llamk’achkan",
+      "description": "Willay",
+      "descriptionPlaceholder": "Proyectomanta, ruwasqaykimanta, imakuna ruwasqaykimanta ima willakuy...",
+      "technologies": "Tecnologías Utilizadas",
+      "addProject": "Proyecto yapay",
+      "image": "Proyectopa Imahina",
+      "removeImage": "Imahinata hurquy",
+      "uploadImage": "Imahinata churanaykipaq ñit’iy"
+    },
+    "work": {
+      "company": "Empresa/Institucin nisqa",
+      "companyPlaceholder": "Empresapa sutin...",
+      "role": "Papel/Posición nisqa",
+      "rolePlaceholder": "Cargoykiqa...",
+      "jobType": "Llamkaypa Tipo",
+      "selectJobType": "Tipo nisqa akllay",
+      "fullTime": "Tukuy punchaw",
+      "partTime": "Kuska pacha",
+      "contract": "Minkakuy",
+      "internship": "Yachay ruway",
+      "freelance": "Independiente nisqa",
+      "location": "Tarikusqan",
+      "locationPlaceholder": "p.h. ",
+      "duration": "Unayasqan",
+      "currentlyWorking": "Kunanqa kaypi llamk’achkan",
+      "description": "Llamkaymanta Willakuy",
+      "descriptionPlaceholder": "Willay llalliq ruwayniykikunata, ruwasqaykikunatapas...",
+      "skills": "Habilidades Específicas nisqa",
+      "addExperience": "Experienciata yapay"
+    },
+    "org": {
+      "organization": "Organización Suti",
+      "organizationPlaceholder": "Organización suti...",
+      "role": "Papel/Posición nisqa",
+      "rolePlaceholder": "p.h. ",
+      "duration": "Unayasqan",
+      "periodFormat": "icha Libre Formato (e.g. 2020 - 2022) .",
+      "periodPlaceholder": "p.h. ",
+      "currentlyActive": "Kunanqa llamk’achkan",
+      "description": "Ruraymanta Willakuy",
+      "descriptionPlaceholder": "Ruwasqaykimanta utaq yanapakuyniykimanta willakuy...",
+      "addExperience": "Experienciata yapay"
+    },
+    "education": {
+      "institution": "Institucionpa sutin",
+      "institutionPlaceholder": "Yachay wasi utaq hatun yachaywasi suti...",
+      "degree": "Grado/Nivel nisqa",
+      "degreePlaceholder": "p.h. ",
+      "major": "Mayor/Campo de Estudio",
+      "majorPlaceholder": "p.h. ",
+      "gpa": "GPA / Grado nisqa",
+      "gpaPlaceholder": "p.h. ",
+      "duration": "Yachay Unay pacha",
+      "periodFormat": "icha Libre Formato (e.g. 2018 - 2022) .",
+      "periodPlaceholder": "p.h. ",
+      "currentlyStudying": "Kunanqa kaypi yachakuchkan",
+      "description": "Ruwaykuna / Honores",
+      "descriptionPlaceholder": "Yachay ruwaykunamanta, organizacionkunamanta, utaq honorkuna chaskisqankumanta willakuy...",
+      "addEducation": "Educacionta yapay"
+    },
+    "cert": {
+      "name": "Certificación Suti",
+      "namePlaceholder": "p.h. ",
+      "issuer": "Organización Emisor nisqa",
+      "issuerPlaceholder": "p.h. ",
+      "issueDate": "Issue Punchaw",
+      "expiryDate": "Valido Hasta",
+      "noExpiry": "Kay credencialqa manan tukukunchu",
+      "yearPlaceholder": "otaq Wata (e.g. 2023) .",
+      "credentialUrl": "URL de credencial nisqa",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Chaywan tupaq Yachaykuna",
+      "addCertification": "Certificación nisqatapas yapay",
+      "image": "Imahina/Logotipo",
+      "removeImage": "Imahinata hurquy",
+      "uploadImage": "Imahinata churanaykipaq ñit’iy"
+    },
+    "common": {
+      "months": {
+        "1": "Enero killa",
+        "2": "Febrero killa",
+        "3": "Marzo killa",
+        "4": "Abril killa",
+        "5": "Mayu killapi",
+        "6": "Junio ​​killa",
+        "7": "Julio killa",
+        "8": "Agosto killa",
+        "9": "Setiembre killa",
+        "10": "Octubre killa",
+        "11": "Noviembre killa",
+        "12": "Diciembre killa"
+      },
+      "month": "Killa",
+      "year": "Wata",
+      "invalidDate": "Mana allin Tukuchiy Killa",
+      "words": "rimaykuna"
+    }
+  },
+  "settings": {
+    "title": "Ajustes nisqa",
+    "subtitle": "Perfil de carterayki chaymanta munasqaykikuna kamachiy",
+    "tabs": {
+      "profile": "Perfilniy",
+      "security": "Harkay",
+      "personalization": "Sapanchasqa ruway"
+    },
+    "profile": {
+      "infoTitle": "Sapaq Willakuykuna",
+      "photo": "Perfil Foto",
+      "uploadPhoto": "Fotota tikray",
+      "fullName": "Tukuy Suti",
+      "fullNamePlaceholder": "John Doe sutiyuq runa",
+      "email": "Dirección de Correo Electrónico",
+      "emailPlaceholder": "john@ejemplo.com nisqapi",
+      "emailHelp": "Correo electrónico yaykunapaqqa llamk'achkan, manataqmi llapa runap qayllanpichu rikuchikun.",
+      "portfolioUrl": "URL nisqa cartera nisqa",
+      "saveProfile": "Perfilta waqaychay",
+      "save": "Perfilta waqaychay",
+      "accountCreated": "Cuenta Ruwasqa",
+      "lastLogin": "Qhipa Yaykuna",
+      "oauthNotice": "Kay willakuyqa {{provider}} yupayniykiwan tinkisqa kachkan. Perfil tikraykunaqa ruwana tiyan servicio quqniqta."
+    },
+    "security": {
+      "changePassword": "Contraseñata tikray",
+      "currentPassword": "Kunan Contraseña",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Musuq Yaykuna rimay",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Musuq Yaykuna rimayta takyachiy",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "8 qillqakunallapas",
+        "uppercase": "Huk hatun qillqa (A-Z) .",
+        "number": "Huk yupay (0-9) .",
+        "symbol": "Huk simbulu (!@#$%^&*)"
+      },
+      "passwordTitle": "Kichana",
+      "updatePassword": "Contraseñata musuqyachiy",
+      "additionalSecurity": "Seguridad Adicional nisqa",
+      "twoFactor": "Iskay Factormanta Chiqaqchay (2FA) .",
+      "twoFactorDesc": "Yupayniykita waqaychay huk yapasqa OTP código kaqwan.",
+      "activeSessions": "Sesiones Activas nisqa",
+      "activeSessionsDesc": "Sapa kuti yaykusqa dispositivokuna qhawayta saqiy.",
+      "publicVisibility": "Llaqtapaq Rikuna",
+      "hideFromSearch": "Maskana Motorkunamanta Carterata pakay",
+      "hideFromSearchDesc": "Hark'ay Google llaqtapaq cartera p'anqayki indexananpaq.",
+      "disable2fa": {
+        "title": "2FA nisqa mana llamk'achiy",
+        "description": "¿Segurochu kanki iskay factor chiqaqchayta wañuchiyta munanki?",
+        "confirmPasswordLabel": "Yaykuna rimaykita qillqay chiqapchanaykipaq",
+        "currentPasswordPlaceholder": "Kunan yaykuna rimay",
+        "cancelButton": "Cancelar",
+        "confirmButton": "2FA nisqa mana llamk'achiy",
+        "incorrectPassword": "Mana allin yaykuna rimay."
+      },
+      "setup2fa": {
+        "step1Title": "1. Código QR nisqapi escanear",
+        "step1Desc": "Chiqaqchaq appnikita kichay chaymanta kay QR códigota escanear:",
+        "unableToScan": "¿Manachu escanear atiwaq? Llave de configuración nisqawan yanapachikuy",
+        "step2Title": "2. Código nisqa chiqapchay",
+        "step2Desc": "Appniykipa ruwasqan 6 yupayniyuq codigota qillqay:",
+        "cancelButton": "Sayachiy",
+        "enableButton": "2FA nisqa atichiy",
+        "invalidLength": "Ama hina kaspa, 6 yupayniyuq chikuta qillqay.",
+        "invalidCode": "Mana allin chiqapchay codigo. Ama hina kaspa, hukmanta kallpachakuy."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Simi kamachiy",
+      "appLanguage": "App Simi",
+      "layoutTitle": "Diseño & Tipografía",
+      "layoutStyle": "Estilo de Diseño",
+      "layoutModern": "Kunan pacha Estilo (Ñawpaqmanta) .",
+      "layoutClassic": "Estilo Clásico nisqa",
+      "layoutMinimalist": "Estilo Minimalista nisqa",
+      "fontSize": "App Fuentepa sayaynin",
+      "fontSmall": "Uchuy",
+      "fontNormal": "Normal (Chawpi) .",
+      "fontLarge": "Hatun",
+      "searchLanguage": "Maskay simi...",
+      "languageNotFound": "Simi mana tarisqachu",
+      "layoutElegant": "Estilo Elegante nisqa"
+    },
+    "saveChanges": "Waqaychay Tikraykunata",
+    "cancel": "Sayachiy",
+    "appSettings": "App nisqa Ajustes",
+    "logoutConfirmTitle": "Lloqsiymanta takyachiy",
+    "logoutConfirmDesc": "¿Segurochu kanki sistemamanta lluqsiyta munanki?",
+    "logoutConfirmYes": "Arí, Lloqsiy",
+    "generalError": "Huk pantaymi rikurirqa. ",
+    "success": "Allinmi",
+    "preferencesSaved": "App munasqakuna allinta waqaychasqa.",
+    "header": "Yanapakuypa Ajustesnin",
+    "logout": {
+      "title": "Lloqsiy Tayanchay",
+      "message": "¿Segurochu kanki sistemamanta lluqsiyta munanki?",
+      "confirm": "Arí, Lloqsiy"
+    },
+    "about": {
+      "title": "Aplicación nisqamanta",
+      "subtitle": "Plataforma de Constructor de Cartera nisqa",
+      "version": "Ima niraq",
+      "description": "DevFolio huk kunan pacha cartera ruwaq plataforma kan, ruwaqkunapaq, ruwaqkunapaq, chaymanta profesional kamaqkunapaq ruwasqa. ",
+      "license": "Licencia & Copyright nisqa",
+      "copyright": "© 2026 DevFolio Inc. Tukuy hayñikuna waqaychasqa.",
+      "developer": "Paqarichiq",
+      "developedBy": "Rifqi Naradata sutiyuq runap rurasqan"
+    },
+    "deleteAccount": {
+      "title": "Wiñaypaq yupayta qulluy",
+      "menuItem": "Cuenta chinkachiy",
+      "successTitle": "Éxito",
+      "successMessage": "Huk yupay qulluy takyachiy correo electrónico apachisqa.",
+      "errorTitle": "Mana atisqachu",
+      "errorMessage": "Mana atirqanichu takyachiy correo electrónico apachiyta.",
+      "confirmationMessage": "¿Segurochu kanki yupayniyki wiñaypaq qulluyta munasqaykimanta?",
+      "warningMessage1": "Huk correo electrónicota chaskinki yupay qulluyta takyachinaykipaq.",
+      "warningMessage2": "Chiqapchasqa kaptinqa, llapa willakuy (cartera, proyectokuna, estadística) wiñaypaq qullusqa kanqa, manataqmi kutichiyta atikunmanchu.",
+      "cancel": "Cancelar",
+      "confirm": "Confirmación nisqa"
+    },
+    "toasts": {
+      "toastError": "Pantay",
+      "toastSuccess": "Allinmi",
+      "toastSetup2FAFailed": "2FA nisqa mana churayta atirqanchu. Ama hina kaspa, hukmanta kallpachakuy.",
+      "toast2FAEnabled": "Iskay factor chiqaqchay atichisqa.",
+      "toast2FADisabled": "Iskay factor chiqaqchayqa mana llamk'achisqachu.",
+      "toastSessionEnabled": "Ruwasqa sesión qhawayqa atichisqañam.",
+      "toastSessionDisabled": "Active sesión qhawayqa mana llamk'achisqachu.",
+      "toastSetupKeyCopied": "Llave de configuración copiada portapapeles nisqaman."
+    },
+    "privacy": {
+      "title": "Sapanchasqa willakuy",
+      "updateDate": "Qhipa musuqchasqa: 15 ñiqin inti raymi killapi 2026 watapi",
+      "intro": "Kay Sapanchasqa Willayta sut'inchan imayna DevFolio sapalla willayniyki huñun, llamk'achin chaymanta waqaychan yanapakuyniyku llamk'achkaspa.",
+      "section1Title": "1. Huñusqanchik Willakuykuna",
+      "section1Content": "Huñuyku willayta chiqamanta qusqayki huk yupayta ruwachkanki, huk cartera ruwachkanki chaymanta yanapakuyniykuwan tinkinki. ",
+      "section2Title": "2. Willakuykunata apaykachana",
+      "section2Content": "Willayniyki llamk'achinapaq, waqaychaypaq chaymanta yanapakuyniyku ruwanakuna quypaq, chaymanta qamwan willanapaq yupayniyki utaq yanapakuyniykimanta.",
+      "section3Title": "3. Willakuypa Waqaychasqan",
+      "section3Content": "Willakuyniyki mana kamachisqa yaykuymanta, willakuymanta utaq chinkachiymanta harkanapaq allin harkasqa ruwaykunata ruwayku."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Confirmación token mana tarisqachu.",
+    "defaultError": "Mana yupayta qulluyta atirqanchu. Chay tokenqa yaqapaschá tukusqaña.",
+    "loadingTitle": "Cuenta Borrar...",
+    "loadingMessage": "Ama hina kaspa, suyay, mañakuyniykita ruwachkayku.",
+    "successTitle": "Cuenta Allinta Borrasqa",
+    "successMessage": "Llapan willakuyniyki wiñaypaq qullusqa. Huk ñanman kutichisqa kanki...",
+    "errorTitle": "Yupayta qulluyta mana atirqanchu",
+    "backToHome": "Wasiman kutiy"
+  },
+  "forgotPassword": {
+    "minutes": "minuto",
+    "seconds": "iskay ñiqi",
+    "success": "Aypasqa",
+    "otpSentToEmail": "Huk OTP código correo electrónicoykiman apachisqa.",
+    "failed": "Pantay",
+    "emailNotFound": "Correo electrónico mana tarisqachu.",
+    "emailThirdParty": "Kay correo electrónico huk kimsa kaq runawan qillqasqa kachkan.",
+    "genericError": "Huk pantaymi kan. Ama hina kaspa, hukmanta kallpachakuy.",
+    "otpVerified": "OTP codigoqa allintam chiqapchasqa kachkan.",
+    "otpExpired": "OTP codigoqa tukusqañam. Ama hina kaspa, musuq codigota mañakuy.",
+    "otpInvalid": "Mana allin OTP codigo.",
+    "otpResent": "Huk musuq OTP codigo correo electrónicoykiman apachisqa.",
+    "otpResendFailed": "OTP codigo kaqmanta mana apachiyta atirqanchu. Ama hina kaspa, hukmanta kallpachakuy.",
+    "passwordResetSuccess": "Contraseña allinta kutichiy. Ama hina kaspa, musuq yaykuna rimaykiwan yaykuy.",
+    "passwordResetFailed": "Yaykuna rimayta mana kutichiyta atirqanchu.",
+    "backToLogin": "Yaykuna nisqaman kutiy",
+    "back": "Kutichiy",
+    "title": "Yaykuna rimayta qunqarurqani",
+    "description": "Yupayniykipi registrasqa correo electrónico direccionta qillqay. Huk OTP codigota apachisaqku contraseñata musuqmanta churanapaq.",
+    "emailLabel": "Correo electrónico nisqapi tiyaq",
+    "sending": "Apachiy...",
+    "sendOtp": "Código OTP nisqa apachiy",
+    "verifyOtpTitle": "OTP Código nisqa chiqapchay",
+    "verifyOtpDesc": "6 yupayniyuq codigo correo electrónicoykiman apachisqa qillqay, pi kasqaykita takyachinaykipaq.",
+    "verifying": "Chiqaqchaspa...",
+    "verifyOtp": "OTP nisqa chiqapchay",
+    "resending": "Wakmanta apachiy...",
+    "resendOtp": "Código OTP kaqmanta apachiy",
+    "resendCodeIn": "Ukhupi kaq codigota wakmanta apachiy",
+    "newPasswordTitle": "Musuq Yaykuna rimayta ruway",
+    "newPasswordDesc": "Musuq, sinchi yaykuna rimayta ruway yupayniyki waqaychasqa kananpaq.",
+    "newPasswordLabel": "Musuq Yaykuna rimay",
+    "min8Chars": "Aswan pisi 8 qillqakuna",
+    "oneUpperCase": "1 hatun qillqa (A-Z) .",
+    "oneNumber": "1 yupay (0-9) .",
+    "oneSymbol": "1 simp'i (!@#$%^&*)",
+    "confirmPasswordLabel": "Contraseña nisqa takyachiy",
+    "passwordsDoNotMatch": "Yaykuna rimaykuna mana tupanchu.",
+    "resettingPassword": "Contraseñata musuqmanta churay...",
+    "resetPassword": "Contraseña kaqmanta churay"
+  },
+  "verifyEmail": {
+    "resendError": "Chiqaqchay correo electrónicota wakmanta apachiyta atirqanchu. Ama hina kaspa, hukmanta kallpachakuy.",
+    "checkingStatus": "Chiqapchaypa kayninta qawaspa...",
+    "title": "Correo electrónico nisqaykipi qhaway",
+    "description": "Huk chiqaqchay correo electrónicota correo electrónico direccionniykiman apachirqayku. Ama hina kaspa, correo electrónicota kichay hinaspa <1>\"Yupay takyachiy\"</1> ñit'iy yupayniykita llamk'achinaykipaq.",
+    "stepsTitle": "Pasokuna",
+    "step1": "Correo electrónico ruwanaykita kichay (Gmail, Yahoo, hukkunapas)",
+    "step2": "DevFoliomanta huk correo electrónicota maskay \"Cuenta Activación\"",
+    "step3": "\"Yupay takyachiy\" ñit'iy correo electrónico nisqapi",
+    "step4": "Yaykuna p'anqaman pusasqa kanki",
+    "resendSuccess": "nisqaman yaykunaykipaq ¡Chay chiqaqchay correo electrónicoqa wakmanta apachisqaña!",
+    "resending": "Wakmanta apachispa...",
+    "resendButton": "Chiqaqchay Correo electrónico kaqmanta apachiy",
+    "backToLogin": "Yaykuna P'anqaman kutiy",
+    "footerNote": "¿Manachu chay correo electrónicota chaskirqanki? Correo electrónicoykipi <1>Spam</1> utaq <2>Junk</2> qillqana mayt'uta qhaway. Chiqaqchay t'inkiqa <3>24 pacha</3>paqmi allin."
+  }
+}

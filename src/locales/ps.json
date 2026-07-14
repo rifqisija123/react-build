@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "ځانګړتیاوې",
+    "templates": "کينډۍ",
+    "pricing": "نرخونه",
+    "login": "ننوتل",
+    "getStarted": "پیل کړئ",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "د پراختیا کونکو لپاره حتمي پورټ فولیو جوړونکی",
+    "title1": "خپل مسلکي جوړ کړئ",
+    "title2": "پورټ فولیو کې",
+    "titleHighlight": "ثانیې",
+    "subtitle": "هرڅه چې تاسو ورته اړتیا لرئ خپل مهارتونه، پروژې، او تجربه ښکاره کړئ. ",
+    "startBuilding": "اوس ودانول پیل کړئ",
+    "viewTemplates": "کينډۍ وګورئ",
+    "fastDeployment": "چټک ځای پرځای کول",
+    "liveStatus": "username.dev ژوندی دی!",
+    "featuresTitle": "ځواکمن ځانګړتیاوې",
+    "featuresSubtitle": "موږ ټول هغه وسیلې چمتو کوو چې تاسو ورته اړتیا لرئ د خلکو څخه ودریږئ او ستاسو د خوب دنده ترسره کړئ.",
+    "feature1Title": "ډریګ او ډراپ بلډر",
+    "feature1Desc": "په اسانۍ سره خپلې برخې ، پروژې او مهارتونه زموږ د هوښیار لید مدیر سره تنظیم کړئ.",
+    "feature2Title": "دودیز موضوعات",
+    "feature2Desc": "د مسلکي ډیزاین شوي ټیمپلیټونو څخه غوره کړئ یا خپل ځانګړی لید رامینځته کړئ.",
+    "feature3Title": "د ریښتیني وخت تحلیلونه",
+    "feature3Desc": "خپل لیدونکي تعقیب کړئ، وګورئ چې کومې پروژې ډیره پاملرنه کوي، او نور."
+  },
+  "auth": {
+    "welcomeBack": "بیرته پخیر راغلې",
+    "loginToContinue": "د دوام لپاره خپل حساب ته ننوځئ",
+    "createAccount": "ګڼون جوړول",
+    "joinCommunity": "په زرګونو نورو پراختیا کونکو سره یوځای شئ",
+    "fullName": "بشپړ نوم",
+    "fullNamePlaceholder": "د مثال په توګه ",
+    "email": "بریښنا‌لیک",
+    "emailPlaceholder": "you@example.com",
+    "password": "رمز",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "ما په یاد ولره",
+    "forgotPassword": "پټنوم هیر شوی؟",
+    "signIn": "ننوتل",
+    "signingIn": "لاسلیک کول...",
+    "signUp": "ګډون کول",
+    "signingUp": "لاسلیک کول...",
+    "noAccount": "حساب نه لرئ؟",
+    "hasAccount": "ایا دمخه حساب لرئ؟",
+    "passwordRules": {
+      "title": "پاسورډ باید ولري:",
+      "length": "لږترلږه 8 حروف",
+      "uppercase": "یو لوی توری (A-Z)",
+      "number": "یوه شمیره (0-9)",
+      "symbol": "یو سمبول (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "د پورټ فولیو جوړونکی",
+      "templates": "کينډۍ او موضوعات",
+      "settings": "ترتیبات",
+      "collapse": "د غاړې پټه ټوټه کول",
+      "overview": "کتنه",
+      "profileSettings": "د پروفایل ترتیبات",
+      "customDomain": "دودیز ډومین",
+      "feedback": "فیډبیک"
+    },
+    "header": {
+      "viewLive": "په ژوندۍ بڼه وګورئ",
+      "welcome": "ښه راغلاست،",
+      "logout": "وتل",
+      "builder": "جوړونکی",
+      "livePortfolio": "ژوندی پورټ فولیو",
+      "live": "ژوندی"
+    },
+    "logoutModal": {
+      "title": "وتل",
+      "message": "ایا تاسو ډاډه یاست چې تاسو د خپل حساب څخه ننوتل غواړئ؟ ",
+      "cancel": "لغوه کړئ",
+      "confirm": "هو، ننوتل"
+    },
+    "slugModal": {
+      "title": "د خپل پورټ فولیو URL غوره کړئ",
+      "message": "دا URL به ستاسو د پورټ فولیو لپاره ځانګړی لینک وي. ",
+      "slugPlaceholder": "ستاسو نوم",
+      "availability": "شتون:",
+      "available": "شته",
+      "unavailable": "نه شته",
+      "checking": "چک کول...",
+      "mustFormat": "کیدای شي یوازې توري، شمیرې او ډشونه ولري (-)",
+      "cancel": "لغوه کړئ",
+      "save": "URL خوندي کړئ",
+      "usernameUrl": "د کارن نوم URL",
+      "helpText": "کوچني توري، شمېرې او ډشونه. ",
+      "validation": {
+        "empty": "سلګ خالي نشي.",
+        "min3": "لږترلږه 3 حروف.",
+        "max30": "اعظمي 30 حروف.",
+        "format": "یوازې کوچني توري، شمیرې او ډشونه (-). "
+      }
+    },
+    "loadingPortfolio": "د پورټ فولیو ډاټا بارول...",
+    "overview": {
+      "greetings": {
+        "morning": "سهار مو پخیر",
+        "afternoon": "مازدیګر مو پخیر",
+        "evening": "مازدیګر مو پخیر",
+        "night": "ښه شپه"
+      },
+      "welcome": {
+        "hi": "سلام",
+        "creator": "خالق",
+        "desc1": "د DevFolio ډشبورډ ته ښه راغلاست. ستاسو پورټ فولیو د دې لخوا لیدل شوی",
+        "desc2": "شخص کار ته دوام ورکړئ!",
+        "editPortfolio": "د پورټ فولیو ترمیم"
+      },
+      "stats": {
+        "totalVisitors": "ټول لیدونکي",
+        "projectViews": "لیدل شوی (پروژه)",
+        "activeSessions": "فعاله ناسته",
+        "totalLabel": "ټول"
+      },
+      "setup": {
+        "title": "د تنظیم پرمختګ",
+        "completed": "ستاسو پورټ فولیو بشپړ دی! 🎉",
+        "inProgress": "د کامل پورټ فولیو لپاره ګامونه.",
+        "profile": {
+          "title": "بشپړ پروفایل",
+          "desc": "نوم، بیو او پروفایل عکس اضافه کړئ."
+        },
+        "section": {
+          "title": "برخې اضافه کړئ",
+          "desc": "په پورټ فولیو کې لږترلږه 1 برخه فعال کړئ."
+        },
+        "project": {
+          "title": "پروژه اضافه کړئ",
+          "desc": "ستاسو لږترلږه 1 غوره پروژې دننه کړئ."
+        },
+        "publish": {
+          "title": "پورټ فولیو خپور کړئ",
+          "desc": "یو دودیز URL ترتیب کړئ ترڅو دا د خلکو لخوا لاسرسی ومومي."
+        }
+      },
+      "topProjects": {
+        "title": "ډیری مشهورې پروژې",
+        "desc": "ستاسو د کار فعالیت د لیدونکو په سترګو کې.",
+        "viewAll": "ټول وګورئ",
+        "empty": "تر اوسه ستاسو د پروژې لپاره د لیدو ډاټا نشته."
+      }
+    },
+    "themes": {
+      "title": "کينډۍ او موضوعات",
+      "subtitle": "د خپل عامه پورټ فولیو لید او احساس تنظیم کړئ.",
+      "reset": "ډیفالټ بیا تنظیم کړئ",
+      "save": "بدلونونه خوندي کړئ",
+      "saving": "خوندي کول...",
+      "chooseTemplate": "یوه کينډۍ غوره کړئ",
+      "primaryColor": "لومړني رنګ",
+      "typography": "ټایپوګرافي",
+      "appearance": "بڼه",
+      "corners": "کونجونه او سرحدونه",
+      "successTitle": "بریالیتوب",
+      "successMessage": "د موضوع غوره توبونه په بریالیتوب سره تازه شول",
+      "errorTitle": "تېروتنه",
+      "errorMessage": "د موضوع غوره توبونو خوندي کولو کې پاتې راغلی",
+      "templates": {
+        "minimalist": {
+          "name": "لږترلږه",
+          "desc": "پاک او ساده ډیزاین په محتوا تمرکز کوي."
+        },
+        "developerDark": {
+          "name": "پرمخ وړونکی تیاره",
+          "desc": "تیاره موضوع د کوډ او ټیک سټیکونو ښودلو لپاره مناسبه ده."
+        },
+        "creative": {
+          "name": "تخلیقی",
+          "desc": "د ډیزاینرانو او تخلیق کونکو لپاره متحرک او رنګین ترتیب."
+        },
+        "executive": {
+          "name": "اجراییه",
+          "desc": "د سوداګرۍ متخصصینو لپاره مسلکي او رسمي ترتیب."
+        },
+        "bentoGrid": {
+          "name": "بینټو گرډ",
+          "desc": "د اپل سټایل عصري گرډ ترتیب چې مختلف مهارتونه په مؤثره توګه روښانه کوي."
+        },
+        "neoBrutalism": {
+          "name": "نو وحشيزم",
+          "desc": "زړور سرحدونه او لوړ متضاد رنګونه د یو رجحان، غیرمعمولي لید لپاره."
+        },
+        "glassmorphism": {
+          "name": "ګلاسمورفیزم",
+          "desc": "د یخ شوي شیشې اغیزې د ښکلي عصري UI لپاره په رنګین ګریډینټ باندې."
+        },
+        "linkInBio": {
+          "name": "په بایو کې لینک",
+          "desc": "کمپیکٹ عمودی ترتیب د ګرځنده سکرینونو او ټولنیزو رسنیو لپاره غوره شوی."
+        }
+      },
+      "appearances": {
+        "light": "رڼا",
+        "dark": "تیاره",
+        "system": "سیسټم"
+      },
+      "cornersOptions": {
+        "sharp": "تیز",
+        "rounded": "ګردي",
+        "pill": "ګولۍ"
+      }
+    },
+    "feedback": {
+      "title": "نظر واستوئ",
+      "subtitle": "موږ سره مرسته وکړئ چې دا په دې اپلیکیشن کې د وړاندیزونو، نیوکې، یا راپور ورکولو بګونو چمتو کولو سره ښه کړو.",
+      "categoryLabel": "د فیډبیک کټګورۍ",
+      "messageLabel": "د پیغام تفصیلات",
+      "messagePlaceholder": "ما ته د هغه نظر په اړه په تفصیل سره ووایاست چې تاسو یې غواړئ ...",
+      "imageLabel": "د انځور ضمیمه (اختیاري)",
+      "imagePlaceholder": "د عکس یا سکرین شاټ پورته کولو لپاره کلیک وکړئ",
+      "submitting": "لېږل...",
+      "submitBtn": "نظر واستوئ",
+      "categories": {
+        "suggestion": "وړاندیزونه او نظریات",
+        "bug": "د تېروتنې راپور",
+        "criticism": "نیوکه",
+        "other": "نور"
+      },
+      "imageErrorTitle": "تېروتنه",
+      "imageErrorMessage": "ځینې ​​فایلونه رد شوي ځکه چې دوی د عکس فارمیټونو ملاتړ نه کوي (JPG, PNG, GIF, WEBP)",
+      "successTitle": "بریالیتوب",
+      "successMessage": "ستاسو د نظر څخه مننه! راپور استول شوی دی.",
+      "submitErrorTitle": "ناکامه",
+      "submitErrorMessage": "د فیډبیک لیږلو په وخت کې یوه تېروتنه رامنځته شوه. مهرباني وکړئ بیا هڅه وکړئ."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "زما په اړه",
+      "skills": "مهارتونه",
+      "projects": "پروژې",
+      "workExperience": "کاري تجربه",
+      "orgExperience": "سازماني تجربه",
+      "education": "زده کړه",
+      "certifications": "روزنه او تصدیقونه",
+      "contact": "ما سره اړیکه ونیسئ"
+    },
+    "editor": {
+      "profileInfo": "د پروفایل معلومات",
+      "saving": "خوندي کول...",
+      "profilePhoto": "د پروفایل عکس",
+      "clickToUpload": "د پورته کولو لپاره کلیک وکړئ (JPG، PNG)",
+      "fullName": "بشپړ نوم",
+      "fullNamePlaceholder": "د مثال په توګه ",
+      "bio": "بایو",
+      "bioPlaceholder": "د عصري ویب ایپسونو جوړولو لپاره د لیوالتیا سره د بشپړ سټیک پراختیا کونکی ...",
+      "location": "ځای",
+      "locationPlaceholder": "د مثال په توګه ",
+      "gender": "جندر",
+      "selectGender": "جنسیت غوره کړئ",
+      "male": "نارینه",
+      "female": "ښځینه",
+      "custom": "ګمرک",
+      "customPlaceholder": "خپل دودیز جنسیت ولیکئ ...",
+      "uploadCv": "CV پورته کړئ",
+      "cvFormat": "(DOC یا PDF)",
+      "preview": "مخکتنه",
+      "remove": "لرې کړئ",
+      "clickToUploadCv": "د PDF یا DOC اپلوډ کولو لپاره کلیک وکړئ",
+      "sections": "برخې",
+      "removeSelected": "غوره شوی لرې کړئ",
+      "confirmRemove": "لرې کول تایید کړئ",
+      "addSection": "برخه اضافه کړئ",
+      "addAllSections": "ټولې برخې اضافه کړئ",
+      "noSections": "تراوسه هیڅ برخه نشته",
+      "clickToAdd": "د پیل کولو لپاره \"+ برخه اضافه کړئ\" کلیک وکړئ",
+      "selectAll": "ټول وټاکئ",
+      "selected": "ټاکل شوی",
+      "dragToReorder": "د برخو بیا تنظیمولو لپاره کش کړئ",
+      "livePreview": "په ژوندۍ بڼه",
+      "addSectionsToBuild": "د خپل پورټ فولیو جوړولو لپاره برخې اضافه کړئ",
+      "now": "اوس",
+      "current": "اوسنۍ",
+      "noExpiry": "نه ختمېدل",
+      "see": "وګورئ",
+      "position": "موقف",
+      "degree": "درجې",
+      "certification": "تصدیق",
+      "sectionsForm": {
+        "about": {
+          "label": "د خپل ځان تفصیل",
+          "placeholder": "موږ ته د خپل ځان، شالید، ګټو او مهارتونو په اړه ووایاست ..."
+        },
+        "skills": {
+          "addPlaceholder": "مهارت ټایپ کړئ بیا Enter فشار ورکړئ ..."
+        },
+        "projects": {
+          "title": "د پروژې نوم",
+          "titlePlaceholder": "د پروژې نوم...",
+          "url": "د پروژې URL",
+          "description": "تفصیل",
+          "descriptionPlaceholder": "د پروژې لنډ تفصیل...",
+          "uploadThumbnail": "د پروژې انځور",
+          "addProject": "پروژه اضافه کړئ",
+          "projectNum": "پروژه #",
+          "currentProject": "دا یوه پروژه ده چې زه پرې کار کوم"
+        },
+        "work": {
+          "company": "شرکت/اداره",
+          "companyPlaceholder": "د شرکت نوم...",
+          "position": "مقام/سرلیک",
+          "positionPlaceholder": "ستاسو دریځ...",
+          "employmentType": "د کار ډول",
+          "location": "ځای",
+          "locationPlaceholder": "ښار، هیواد...",
+          "startDate": "پیل",
+          "endDate": "ختم شو",
+          "currentWork": "زه اوس هم کار کوم",
+          "description": "تفصیل",
+          "descriptionPlaceholder": "د دندې توضیحات او مسؤلیتونه ...",
+          "skills": "مهارت",
+          "addExperience": "کاري تجربه اضافه کړئ",
+          "experienceNum": "تجربه #",
+          "dateError": "د پای نیټه نشي کولی د پیل نیټې څخه مخکې وي"
+        },
+        "org": {
+          "organization": "د سازمان نوم",
+          "orgPlaceholder": "BEM پوهنتون...",
+          "role": "نقش/موقع",
+          "rolePlaceholder": "د څانګې مشر...",
+          "addOrg": "تنظیمي تجربه اضافه کړئ",
+          "orgNum": "سازمان #"
+        },
+        "edu": {
+          "institution": "تعلیمي ادارې",
+          "institutionPlaceholder": "د کیمپس یا ښوونځي نوم...",
+          "degree": "عنوان",
+          "degreePlaceholder": "S1، لیسه، او نور ...",
+          "major": "څانګه/د مطالعې ساحه",
+          "majorPlaceholder": "د معلوماتي انجینرۍ...",
+          "gpa": "GPA (اختیاري)",
+          "currentStudy": "زه لاهم دلته زده کوم",
+          "descriptionPlaceholder": "د مطالعې پر مهال فعالیتونه او لاسته راوړنې...",
+          "addEdu": "تعلیم اضافه کړئ",
+          "eduNum": "پوهنه #"
+        },
+        "cert": {
+          "name": "د تصدیق / روزنې نوم",
+          "namePlaceholder": "د تصدیق نوم...",
+          "issuer": "خپرونکی",
+          "issuerPlaceholder": "خپرندویه اداره...",
+          "issueDate": "پیل (د خپرولو نیټه)",
+          "issueDatePlaceholder": "د خپرولو نیټه وټاکئ...",
+          "expiryDate": "بشپړ شوی (د اعتبار موده)",
+          "expiryDatePlaceholder": "د ختمیدو نیټه وټاکئ...",
+          "noExpiry": "دا سند د ختمیدو نیټه نلري",
+          "url": "د اعتبار وړ URL",
+          "uploadThumbnail": "د سند / روزنې انځور",
+          "uploadThumbnailLimit": "د سند عکس پورته کړئ (JPG/PNG/WEBP، اعظمي 2MB)",
+          "addCert": "تصدیق اضافه کړئ",
+          "certNum": "تصدیق #"
+        },
+        "contact": {
+          "contactNum": "اړیکه #",
+          "platform": "پلیټ فارم",
+          "displayText": "د متن ښکاره کول",
+          "displayTextPlaceholder": "د مثال په توګه، you@email.com یا @username",
+          "url": "لینک (URL)",
+          "urlPlaceholderWhatsapp": "د مثال په توګه، 62812... (پرته 0 مخکښ)",
+          "urlPlaceholderEmail": "د مثال په توګه، you@email.com",
+          "urlPlaceholderWebsite": "د مثال په توګه، https://...",
+          "urlPlaceholderDefault": "د مثال په توګه، کارن نوم",
+          "addContact": "اړیکه اضافه کړئ"
+        },
+        "common": {
+          "months": {
+            "1": "جنوري",
+            "2": "فبروري",
+            "3": "مارچ",
+            "4": "اپریل",
+            "5": "می",
+            "6": "جون",
+            "7": "جولای",
+            "8": "اګست",
+            "9": "سپتمبر",
+            "10": "اکتوبر",
+            "11": "نومبر",
+            "12": "دسمبر"
+          },
+          "month": "میاشت",
+          "year": "کال",
+          "invalidDate": "ناباوره پای میاشت",
+          "words": "ټکي"
+        }
+      },
+      "sure": "ډاډمن",
+      "deletePhotoTitle": "د پروفایل عکس ړنګ کړئ؟",
+      "deletePhotoMessage": "ایا تاسو ډاډه یاست چې تاسو د دې پروفایل عکس حذف کول غواړئ؟",
+      "cancel": "لغوه کړئ",
+      "delete": "ړنګول"
+    },
+    "cropper": {
+      "chooseBackground": "پس منظر غوره کړئ",
+      "cropPhoto": "خپل عکس کرپ کړئ",
+      "useOriginal": "اصلي وکاروئ",
+      "backgroundPresets": "د شاليد presets",
+      "none": "هیڅ نه",
+      "uploadBackground": "د شاليد پورته کول",
+      "cancel": "لغوه کړئ",
+      "savePhoto": "عکس خوندي کړئ",
+      "zoom": "زوم",
+      "rotationTilt": "څرخ او ټيټ",
+      "resetRotation": "0 ° ته بیا تنظیم کړئ",
+      "center": "مرکز",
+      "rotateLeft": "وګرځوئ -90°",
+      "rotateRight": "+90° وګرځوئ",
+      "removeBackground": "پس منظر لرې کړئ",
+      "processing": "ستاسو عکس پروسس کول، مهرباني وکړئ انتظار وکړئ ..."
+    },
+    "cvPreview": {
+      "title": "د CV مخکتنه",
+      "downloadCv": "CV ډاونلوډ کړئ",
+      "download": "ډاونلوډ کړئ",
+      "wordCannotPreview": "د کلمې اسناد (.doc/.docx) په براوزر کې په اصلي ډول نه لیدل کیدی شي. ",
+      "downloadFile": "د CV فایل ډاونلوډ کړئ",
+      "back": "شاته",
+      "mobileMessage": "مهرباني وکړئ د دې د لیدو لپاره د CV فایل ډاونلوډ کړئ.",
+      "preview": "CV کتنه",
+      "wordPreviewTitle": "د کلمې سند مخکتنه",
+      "wordPreviewMessage": "د کلمې اسناد (.doc/.docx) په براوزر کې په اصلي ډول نه لیدل کیدی شي. مهرباني وکړئ د لیدلو لپاره فایل ډاونلوډ کړئ."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "د خپل ځان، ګټو، او مسلک اهدافو په اړه یو لنډ توضیحات ولیکئ ..."
+    },
+    "skills": {
+      "placeholder": "د مهارت نوم ولیکئ ...",
+      "add": "اضافه کړئ",
+      "enterToAdd": "د اضافه کولو لپاره Enter فشار ورکړئ",
+      "noSkills": "تراوسه هیڅ مهارتونه اضافه شوي ندي."
+    },
+    "projects": {
+      "projectName": "د پروژې نوم",
+      "projectNamePlaceholder": "د مثال په توګه ",
+      "projectUrl": "د پروژې URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "موده",
+      "startMonth": "پیل میاشت",
+      "startYear": "د پیل کال",
+      "endMonth": "د میاشتې پای",
+      "endYear": "د پای کال",
+      "currentlyWorking": "اوس مهال په دې کار کوي",
+      "description": "تفصیل",
+      "descriptionPlaceholder": "پروژه، ستاسو رول، او لاسته راوړنې تشریح کړئ ...",
+      "technologies": "کارول شوي ټیکنالوژي",
+      "addProject": "پروژه اضافه کړئ",
+      "image": "د پروژې انځور",
+      "removeImage": "انځور لرې کړئ",
+      "uploadImage": "د انځور پورته کولو لپاره کلیک وکړئ"
+    },
+    "work": {
+      "company": "شرکت/اداره",
+      "companyPlaceholder": "د شرکت نوم...",
+      "role": "نقش/موقع",
+      "rolePlaceholder": "ستاسو دریځ...",
+      "jobType": "د دندې ډول",
+      "selectJobType": "ډول وټاکئ",
+      "fullTime": "بشپړ وخت",
+      "partTime": "برخه وخت",
+      "contract": "قرارداد",
+      "internship": "انٹرنشپ",
+      "freelance": "آزاد",
+      "location": "ځای",
+      "locationPlaceholder": "د مثال په توګه ",
+      "duration": "موده",
+      "currentlyWorking": "اوس مهال دلته کار کوي",
+      "description": "د کار تفصیل",
+      "descriptionPlaceholder": "خپل مهم مسؤلیتونه او لاسته راوړنې بیان کړئ ...",
+      "skills": "ځانګړي مهارتونه",
+      "addExperience": "تجربه اضافه کړئ"
+    },
+    "org": {
+      "organization": "د سازمان نوم",
+      "organizationPlaceholder": "د سازمان نوم...",
+      "role": "نقش/موقع",
+      "rolePlaceholder": "د مثال په توګه ",
+      "duration": "موده",
+      "periodFormat": "یا وړیا بڼه (د مثال په توګه 2020 - 2022)",
+      "periodPlaceholder": "د مثال په توګه ",
+      "currentlyActive": "اوس مهال فعال دی",
+      "description": "د فعالیت تفصیل",
+      "descriptionPlaceholder": "خپل فعالیتونه یا مرستې بیان کړئ ...",
+      "addExperience": "تجربه اضافه کړئ"
+    },
+    "education": {
+      "institution": "د موسسې نوم",
+      "institutionPlaceholder": "د ښوونځي او پوهنتون نوم...",
+      "degree": "درجې/کچه",
+      "degreePlaceholder": "د مثال په توګه ",
+      "major": "د مطالعې لوی / ډګر",
+      "majorPlaceholder": "د مثال په توګه ",
+      "gpa": "GPA / درجه",
+      "gpaPlaceholder": "د مثال په توګه ",
+      "duration": "د زده کړې موده",
+      "periodFormat": "یا وړیا بڼه (د مثال په توګه 2018 - 2022)",
+      "periodPlaceholder": "د مثال په توګه ",
+      "currentlyStudying": "اوس مهال دلته زده کړه کوي",
+      "description": "فعالیتونه / ویاړونه",
+      "descriptionPlaceholder": "اکادمیک فعالیتونه، سازمانونه، یا ترلاسه شوي ویاړونه تشریح کړئ ...",
+      "addEducation": "تعلیم اضافه کړئ"
+    },
+    "cert": {
+      "name": "د تصدیق نوم",
+      "namePlaceholder": "د مثال په توګه ",
+      "issuer": "د خپریدو اداره",
+      "issuerPlaceholder": "د مثال په توګه ",
+      "issueDate": "د خپریدو نیټه",
+      "expiryDate": "تر هغه پورې اعتبار لري",
+      "noExpiry": "دا اعتبار پای ته نه رسیږي",
+      "yearPlaceholder": "یا کال (د مثال په توګه 2023)",
+      "credentialUrl": "د اعتبار وړ URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "اړوند مهارتونه",
+      "addCertification": "تصدیق اضافه کړئ",
+      "image": "انځور/لوګو",
+      "removeImage": "انځور لرې کړئ",
+      "uploadImage": "د انځور پورته کولو لپاره کلیک وکړئ"
+    },
+    "common": {
+      "months": {
+        "1": "جنوري",
+        "2": "فبروري",
+        "3": "مارچ",
+        "4": "اپریل",
+        "5": "می",
+        "6": "جون",
+        "7": "جولای",
+        "8": "اګست",
+        "9": "سپتمبر",
+        "10": "اکتوبر",
+        "11": "نومبر",
+        "12": "دسمبر"
+      },
+      "month": "میاشت",
+      "year": "کال",
+      "invalidDate": "ناباوره پای میاشت",
+      "words": "ټکي"
+    }
+  },
+  "settings": {
+    "title": "ترتیبات",
+    "subtitle": "خپل د پورټ فولیو پروفایل او غوره توبونه اداره کړئ",
+    "tabs": {
+      "profile": "زما پروفایل",
+      "security": "امنیت",
+      "personalization": "شخصي کول"
+    },
+    "profile": {
+      "infoTitle": "بنسټیز معلومات",
+      "photo": "د پروفایل عکس",
+      "uploadPhoto": "عکس بدل کړئ",
+      "fullName": "بشپړ نوم",
+      "fullNamePlaceholder": "جان دو",
+      "email": "بریښنا‌لیک",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "بریښنالیک د ننوتلو لپاره کارول کیږي او په عامه توګه نه ښودل کیږي.",
+      "portfolioUrl": "د پورټ فولیو URL",
+      "saveProfile": "پروفایل خوندي کړئ",
+      "save": "پروفایل خوندي کړئ",
+      "accountCreated": "حساب جوړ شو",
+      "lastLogin": "وروستی ننوتل",
+      "oauthNotice": "دا پروفایل ستاسو {{provider}} حساب سره تړلی دی. د پروفایل بدلونونه باید د خدمت چمتو کونکي له لارې ترسره شي."
+    },
+    "security": {
+      "changePassword": "پټ نوم بدل کړی",
+      "currentPassword": "اوسنی رمز",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "نوی پټنوم",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "نوی پټنوم تایید کړئ",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "لږترلږه 8 حروف",
+        "uppercase": "یو لوی توری (A-Z)",
+        "number": "یوه شمیره (0-9)",
+        "symbol": "یو سمبول (!@#$%^&*)"
+      },
+      "passwordTitle": "رمز",
+      "updatePassword": "پټنوم تازه کړئ",
+      "additionalSecurity": "اضافي امنیت",
+      "twoFactor": "دوه فکتور تصدیق (2FA)",
+      "twoFactorDesc": "د اضافي OTP کوډ په کارولو سره خپل حساب خوندي کړئ.",
+      "activeSessions": "فعالې ناستې",
+      "activeSessionsDesc": "تل د ننوتلو وسیلو څارنې ته اجازه ورکړئ.",
+      "publicVisibility": "عامه لید",
+      "hideFromSearch": "د لټون انجنونو څخه پورټ فولیو پټ کړئ",
+      "hideFromSearchDesc": "ګوګل ستاسو د عامه پورټ فولیو پا pageې له لیست کولو څخه منع کړئ.",
+      "disable2fa": {
+        "title": "2FA غیر فعال کړئ",
+        "description": "ایا تاسو ډاډه یاست چې تاسو غواړئ دوه فکتور تصدیق بند کړئ؟",
+        "confirmPasswordLabel": "د تایید لپاره خپل پټنوم دننه کړئ",
+        "currentPasswordPlaceholder": "اوسنی پټنوم",
+        "cancelButton": "لغوه کړئ",
+        "confirmButton": "2FA غیر فعال کړئ",
+        "incorrectPassword": "غلط پټنوم."
+      },
+      "setup2fa": {
+        "step1Title": "1. د QR کوډ سکین کړئ",
+        "step1Desc": "خپل د تصدیق کونکي ایپ خلاص کړئ او لاندې QR کوډ سکین کړئ:",
+        "unableToScan": "د سکین کولو توان نلري؟ د تنظیم کولو کیلي وکاروئ",
+        "step2Title": "2. کوډ تایید کړئ",
+        "step2Desc": "ستاسو د اپلیکیشن لخوا رامینځته شوی 6 عددي کوډ دننه کړئ:",
+        "cancelButton": "لغوه کړئ",
+        "enableButton": "2FA فعال کړئ",
+        "invalidLength": "مهرباني وکړئ د 6 عددي کوډ داخل کړئ.",
+        "invalidCode": "ناسم تایید کوډ. مهرباني وکړئ بیا هڅه وکړئ."
+      }
+    },
+    "personalization": {
+      "languageTitle": "د ژبې کنټرول",
+      "appLanguage": "د اپلیکیشن ژبه",
+      "layoutTitle": "ترتیب او ټایپوګرافي",
+      "layoutStyle": "د ترتیب سټایل",
+      "layoutModern": "عصري سټایل (ډیفالټ)",
+      "layoutClassic": "کلاسیک سټایل",
+      "layoutMinimalist": "لږترلږه سټایل",
+      "fontSize": "د اپلیکیشن فونټ اندازه",
+      "fontSmall": "کوچنی",
+      "fontNormal": "نورمال (منځنی)",
+      "fontLarge": "لوی",
+      "searchLanguage": "ژبه لټون...",
+      "languageNotFound": "ژبه ونه موندل شوه",
+      "layoutElegant": "په زړه پوری سټایل"
+    },
+    "saveChanges": "بدلونونه خوندي کړئ",
+    "cancel": "لغوه کړئ",
+    "appSettings": "د اپلیکیشن تنظیمات",
+    "logoutConfirmTitle": "د ننوتلو تصدیق وکړئ",
+    "logoutConfirmDesc": "ایا تاسو ډاډه یاست چې تاسو د سیسټم څخه وتل غواړئ؟",
+    "logoutConfirmYes": "هو، ننوتل",
+    "generalError": "یوه تېروتنه رامنځته شوه. ",
+    "success": "بریالیتوب",
+    "preferencesSaved": "د اپلیکیشن غوره توبونه په بریالیتوب سره خوندي شول.",
+    "header": "د غوښتنلیک ترتیبات",
+    "logout": {
+      "title": "د ننوتلو تصدیق",
+      "message": "ایا تاسو ډاډه یاست چې تاسو د سیسټم څخه وتل غواړئ؟",
+      "confirm": "هو، ننوتل"
+    },
+    "about": {
+      "title": "د غوښتنلیک په اړه",
+      "subtitle": "د پورټ فولیو جوړونکي پلیټ فارم",
+      "version": "نسخه",
+      "description": "DevFolio یو عصري پورټ فولیو جوړونکی پلیټ فارم دی چې د پراختیا کونکو ، ډیزاینرانو او مسلکي جوړونکو لپاره ډیزاین شوی. ",
+      "license": "جواز او د چاپ حق",
+      "copyright": "© 2026 DevFolio Inc. ټول حقونه خوندي دي.",
+      "developer": "پرمخ وړونکی",
+      "developedBy": "د رفقي نارادتا لخوا رامینځته شوی"
+    },
+    "deleteAccount": {
+      "title": "د تل لپاره حساب حذف کړئ",
+      "menuItem": "حساب حذف کړئ",
+      "successTitle": "بریالیتوب",
+      "successMessage": "د حساب حذف کولو تایید بریښنالیک لیږل شوی.",
+      "errorTitle": "ناکامه",
+      "errorMessage": "د تایید بریښنالیک لیږلو کې پاتې راغلی.",
+      "confirmationMessage": "ایا تاسو ډاډه یاست چې تاسو غواړئ خپل حساب د تل لپاره حذف کړئ؟",
+      "warningMessage1": "تاسو به د حساب حذف کولو تصدیق کولو لپاره بریښنالیک ترلاسه کړئ.",
+      "warningMessage2": "که تایید شي، ټول معلومات (پورټ فولیو، پروژې، احصایې) به د تل لپاره حذف شي او بیرته نشي اخیستل کیدی.",
+      "cancel": "لغوه کول",
+      "confirm": "تایید"
+    },
+    "toasts": {
+      "toastError": "تېروتنه",
+      "toastSuccess": "بریالیتوب",
+      "toastSetup2FAFailed": "د 2FA په ترتیب کولو کې پاتې راغلی. مهرباني وکړئ بیا هڅه وکړئ.",
+      "toast2FAEnabled": "دوه فکتور تصدیق فعال شوی.",
+      "toast2FADisabled": "دوه فکتور تصدیق غیر فعال شوی دی.",
+      "toastSessionEnabled": "د فعالې ناستې څارنه فعاله شوې ده.",
+      "toastSessionDisabled": "د فعال سیشن څارنه غیر فعاله شوې ده.",
+      "toastSetupKeyCopied": "د سیټ اپ کیلي کلپ بورډ ته کاپي شوې."
+    },
+    "privacy": {
+      "title": "د محرمیت پالیسي",
+      "updateDate": "وروستی تازه: د جولای 15، 2026",
+      "intro": "دا د محرمیت پالیسي تشریح کوي چې څنګه DevFolio زموږ د خدماتو کارولو په وخت کې ستاسو شخصي معلومات راټولوي، کاروي، او خوندي کوي.",
+      "section1Title": "1. هغه معلومات چې موږ راټولوو",
+      "section1Content": "موږ هغه معلومات راټولوو چې تاسو یې په مستقیم ډول د حساب جوړولو، پورټ فولیو جوړولو او زموږ د ملاتړ سره د تماس په وخت کې چمتو کوئ. ",
+      "section2Title": "2. د معلوماتو کارول",
+      "section2Content": "ستاسو معلومات زموږ د خدماتو د ځانګړتیاوو د چلولو، ساتلو، او چمتو کولو لپاره کارول کیږي، او همدارنګه ستاسو سره ستاسو د حساب یا خدماتو په اړه د خبرو اترو لپاره.",
+      "section3Title": "3. د معلوماتو امنیت",
+      "section3Content": "موږ ستاسو د معلوماتو د غیر مجاز لاسرسي، افشا کولو یا ویجاړولو څخه د ساتنې لپاره مناسب امنیتي تدابیر پلي کوو."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "د تایید نښه ونه موندل شوه.",
+    "defaultError": "د حساب حذف کولو کې پاتې راغلی. نښه ممکن پای ته رسیدلې وي.",
+    "loadingTitle": "حساب ړنګول...",
+    "loadingMessage": "مهرباني وکړئ انتظار وکړئ، موږ ستاسو غوښتنه پروسس کوو.",
+    "successTitle": "حساب په بریالیتوب سره ړنګ شو",
+    "successMessage": "ستاسو ټول معلومات د تل لپاره حذف شوي دي. تاسو به لیږل کیږئ ...",
+    "errorTitle": "د حساب په حذف کولو کې پاتې راغلی",
+    "backToHome": "کور ته راستون شو"
+  },
+  "forgotPassword": {
+    "minutes": "دقیقې",
+    "seconds": "ثانیې",
+    "success": "بریالیتوب",
+    "otpSentToEmail": "یو OTP کوډ ستاسو بریښنالیک ته لیږل شوی.",
+    "failed": "ناکامه",
+    "emailNotFound": "بریښنالیک ونه موندل شو.",
+    "emailThirdParty": "دا بریښنالیک د دریمې ډلې له لارې راجستر شوی.",
+    "genericError": "یوه تېروتنه ده. مهرباني وکړئ بیا هڅه وکړئ.",
+    "otpVerified": "د OTP کوډ په بریالیتوب سره تایید شو.",
+    "otpExpired": "د OTP کوډ پای ته رسیدلی. مهرباني وکړئ د نوي کوډ غوښتنه وکړئ.",
+    "otpInvalid": "ناسم OTP کوډ",
+    "otpResent": "یو نوی OTP کوډ ستاسو بریښنالیک ته لیږل شوی.",
+    "otpResendFailed": "د OTP کوډ بیا لیږلو کې پاتې راغلی. مهرباني وکړئ بیا هڅه وکړئ.",
+    "passwordResetSuccess": "پټنوم په بریالیتوب سره بیا تنظیم شو. مهرباني وکړئ د خپل نوي پټنوم سره ننوتل.",
+    "passwordResetFailed": "د پټنوم په بیا تنظیمولو کې پاتې راغلی.",
+    "backToLogin": "بیرته ننوتلو ته راستانه شئ",
+    "back": "شاته",
+    "title": "پټنوم هېر شوی",
+    "description": "په خپل حساب کې ثبت شوی بریښنالیک آدرس دننه کړئ. موږ به د پټنوم بیا تنظیمولو لپاره د OTP کوډ واستوو.",
+    "emailLabel": "د بریښنالیک پته",
+    "sending": "لېږل...",
+    "sendOtp": "د OTP کوډ واستوئ",
+    "verifyOtpTitle": "د OTP کوډ تایید کړئ",
+    "verifyOtpDesc": "د 6 عددي کوډ دننه کړئ چې ستاسو د هویت تصدیق کولو لپاره ستاسو بریښنالیک ته لیږل شوی.",
+    "verifying": "تایید کول...",
+    "verifyOtp": "OTP تایید کړئ",
+    "resending": "بیا لیږل...",
+    "resendOtp": "د OTP کوډ بیا واستوئ",
+    "resendCodeIn": "کوډ په",
+    "newPasswordTitle": "کې بیا واستوئ نوی پټنوم جوړ کړئ",
+    "newPasswordDesc": "د خپل حساب د خوندي کولو لپاره یو نوی، پیاوړی پاسورډ جوړ کړئ.",
+    "newPasswordLabel": "نوی پټنوم",
+    "min8Chars": "لږترلږه 8 حروف",
+    "oneUpperCase": "1 لوی توری (A-Z)",
+    "oneNumber": "1 شمیره (0-9)",
+    "oneSymbol": "1 سمبول (!@#$%^&*)",
+    "confirmPasswordLabel": "پاسورډ تایید کړئ",
+    "passwordsDoNotMatch": "پاسورډونه سمون نه خوري.",
+    "resettingPassword": "پټنوم بیا تنظیمول...",
+    "resetPassword": "پټنوم بیا تنظیم کړئ"
+  },
+  "verifyEmail": {
+    "resendError": "د تایید بریښنالیک بیا لیږلو کې پاتې راغلی. مهرباني وکړئ بیا هڅه وکړئ.",
+    "checkingStatus": "د تایید حالت چک کول...",
+    "title": "خپل بریښنالیک وګورئ",
+    "description": "موږ ستاسو بریښنالیک ته د تایید بریښنالیک لیږلی دی. مهرباني وکړئ بریښنالیک خلاص کړئ او د خپل حساب د فعالولو لپاره <1>\"اکاؤنټ تایید کړئ\"</1> تڼۍ کلیک وکړئ.",
+    "stepsTitle": "ګامونه",
+    "step1": "خپل د بریښنالیک غوښتنلیک خلاص کړئ (Gmail, Yahoo, etc)",
+    "step2": "د DevFolio څخه د \"حساب فعالولو\" موضوع سره د بریښنالیک لپاره وګورئ",
+    "step3": "په بریښنالیک کې د \"اکاؤنټ تایید\" تڼۍ کلیک وکړئ",
+    "step4": "تاسو به د ننوتلو لپاره د ننوتلو پاڼې ته لارښوونه وکړئ",
+    "resendSuccess": "د تایید بریښنالیک بیرته لیږل شوی!",
+    "resending": "بیا لیږل...",
+    "resendButton": "د تایید بریښنالیک بیا واستوئ",
+    "backToLogin": "بېرته د ننوت پاڼې ته",
+    "footerNote": "بریښنالیک مو نه دی ترلاسه کړی؟ په خپل بریښنالیک کې <1>سپیم</1> یا <2>جنک</2> فولډر وګورئ. د تایید لینک د <3>24 ساعتونو</3> لپاره اعتبار لري."
+  }
+}

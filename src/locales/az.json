@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Xüsusiyyətlər",
+    "templates": "Şablonlar",
+    "pricing": "Qiymətləndirmə",
+    "login": "Daxil ol",
+    "getStarted": "Başlayın",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Tərtibatçılar üçün son portfel qurucusu",
+    "title1": "Peşəkarınızı qurun",
+    "title2": "portfelində",
+    "titleHighlight": "saniyə.",
+    "subtitle": "Bacarıqlarınızı, layihələrinizi və təcrübənizi nümayiş etdirmək üçün lazım olan hər şey. ",
+    "startBuilding": "İndi Tikintiyə Başlayın",
+    "viewTemplates": "Şablonlara baxın",
+    "fastDeployment": "Sürətli Yerləşdirmə",
+    "liveStatus": "username.dev canlıdır!",
+    "featuresTitle": "Güclü Xüsusiyyətlər",
+    "featuresSubtitle": "Biz izdihamdan fərqlənmək və xəyal etdiyiniz işi yerinə yetirmək üçün sizə lazım olan bütün alətləri təqdim edirik.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "İntuitiv vizual redaktorumuzla bölmələrinizi, layihələrinizi və bacarıqlarınızı asanlıqla təşkil edin.",
+    "feature2Title": "Fərdi Mövzular",
+    "feature2Desc": "Peşəkar şəkildə hazırlanmış şablonlardan seçin və ya öz unikal görünüşünüzü yaradın.",
+    "feature3Title": "Real vaxt analitikası",
+    "feature3Desc": "Ziyarətçilərinizi izləyin, hansı layihələrin daha çox diqqət çəkdiyini görün və s."
+  },
+  "auth": {
+    "welcomeBack": "Xoş gəlmisiniz",
+    "loginToContinue": "Davam etmək üçün hesabınıza daxil olun",
+    "createAccount": "Hesab yaradın",
+    "joinCommunity": "Minlərlə digər tərtibatçıya qoşulun",
+    "fullName": "Tam adı",
+    "fullNamePlaceholder": "məs. ",
+    "email": "E-poçt ünvanı",
+    "emailPlaceholder": "you@example.com",
+    "password": "parol",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Məni xatırla",
+    "forgotPassword": "Şifrəni unutmusunuz?",
+    "signIn": "Daxil ol",
+    "signingIn": "Daxil olur...",
+    "signUp": "Qeydiyyatdan keçin",
+    "signingUp": "Qeydiyyatdan Keçilir...",
+    "noAccount": "Hesabınız yoxdur?",
+    "hasAccount": "Artıq hesabınız var?",
+    "passwordRules": {
+      "title": "Parolda olmalıdır:",
+      "length": "Ən azı 8 simvol",
+      "uppercase": "Bir böyük hərf (A-Z)",
+      "number": "Bir nömrə (0-9)",
+      "symbol": "Bir simvol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Şablonlar və Mövzular",
+      "settings": "Parametrlər",
+      "collapse": "Kenar panelini yığcamlaşdırın",
+      "overview": "Ümumi baxış",
+      "profileSettings": "Profil Parametrləri",
+      "customDomain": "Fərdi Domen",
+      "feedback": "Əlaqə"
+    },
+    "header": {
+      "viewLive": "Canlı Baxın",
+      "welcome": "Xoş gəldiniz,",
+      "logout": "Çıxın",
+      "builder": "İnşaatçı",
+      "livePortfolio": "Canlı Portfolio",
+      "live": "Canlı"
+    },
+    "logoutModal": {
+      "title": "Çıxın",
+      "message": "Hesabınızdan çıxmaq istədiyinizə əminsiniz? ",
+      "cancel": "Ləğv et",
+      "confirm": "Bəli, Çıxış"
+    },
+    "slugModal": {
+      "title": "Portfolio URL-nizi seçin",
+      "message": "Bu URL portfelinizə unikal keçid olacaq. ",
+      "slugPlaceholder": "sənin adın",
+      "availability": "Mövcudluq:",
+      "available": "Mövcuddur",
+      "unavailable": "Əlçatan deyil",
+      "checking": "Yoxlanır...",
+      "mustFormat": "Yalnız hərf, rəqəm və tire ola bilər (-)",
+      "cancel": "Ləğv et",
+      "save": "URL saxla",
+      "usernameUrl": "İstifadəçi adı URL",
+      "helpText": "Kiçik hərflər, rəqəmlər və tire. ",
+      "validation": {
+        "empty": "Slug boş ola bilməz.",
+        "min3": "Minimum 3 simvol.",
+        "max30": "Maksimum 30 simvol.",
+        "format": "Yalnız kiçik hərflər, rəqəmlər və tire (-). "
+      }
+    },
+    "loadingPortfolio": "Portfel datası yüklənir...",
+    "overview": {
+      "greetings": {
+        "morning": "Sabahiniz xeyir",
+        "afternoon": "Günortanız xeyir",
+        "evening": "Günortanız xeyir",
+        "night": "Gecəniz xeyrə"
+      },
+      "welcome": {
+        "hi": "salam,",
+        "creator": "Yaradan",
+        "desc1": "DevFolio idarə panelinə xoş gəlmisiniz. Portfolyonuz tərəfindən baxılıb",
+        "desc2": "şəxs. İşləməyə davam edin!",
+        "editPortfolio": "Portfolio redaktə edin"
+      },
+      "stats": {
+        "totalVisitors": "Ümumi Ziyarətçilər",
+        "projectViews": "Baxıldı (Layihə)",
+        "activeSessions": "Aktiv Sessiya",
+        "totalLabel": "Cəmi"
+      },
+      "setup": {
+        "title": "Quraşdırma İrəli",
+        "completed": "Portfeliniz tamamlandı! 🎉",
+        "inProgress": "Mükəmməl portfelə doğru addımlar.",
+        "profile": {
+          "title": "Profili tamamlayın",
+          "desc": "Ad, bio və profil şəkli əlavə edin."
+        },
+        "section": {
+          "title": "Bölmələr əlavə edin",
+          "desc": "Portfeldə ən azı 1 bölməni aktivləşdirin."
+        },
+        "project": {
+          "title": "Layihə əlavə edin",
+          "desc": "Ən yaxşı layihələrinizdən ən azı 1-ni daxil edin."
+        },
+        "publish": {
+          "title": "Portfolio dərc edin",
+          "desc": "Fərdi URL təyin edin ki, ona ictimaiyyət tərəfindən daxil olunsun."
+        }
+      },
+      "topProjects": {
+        "title": "Ən Populyar Layihələr",
+        "desc": "Ziyarətçilərin gözü qarşısında işinizin performansı.",
+        "viewAll": "Hamısına Bax",
+        "empty": "Layihəniz üçün hələ heç bir baxış datası yoxdur."
+      }
+    },
+    "themes": {
+      "title": "Şablonlar və Mövzular",
+      "subtitle": "İctimai portfelinizin görünüşünü və hissini fərdiləşdirin.",
+      "reset": "Sıfırla Defolt",
+      "save": "Dəyişiklikləri Saxla",
+      "saving": "Saxlanır...",
+      "chooseTemplate": "Şablon",
+      "primaryColor": "seçin Əsas Rəng",
+      "typography": "Tipoqrafiya",
+      "appearance": "Görünüş",
+      "corners": "Künclər və Sərhədlər",
+      "successTitle": "Uğur",
+      "successMessage": "Mövzu seçimləri uğurla yeniləndi",
+      "errorTitle": "Səhv",
+      "errorMessage": "Mövzu tərcihlərini saxlamaq alınmadı",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Məzmuna diqqət yetirən təmiz və sadə dizayn."
+        },
+        "developerDark": {
+          "name": "Tərtibatçı Dark",
+          "desc": "Qaranlıq mövzu kod və texnoloji yığınları nümayiş etdirmək üçün mükəmməldir."
+        },
+        "creative": {
+          "name": "Yaradıcı",
+          "desc": "Dizaynerlər və kreativlər üçün canlı və rəngarəng tərtibat."
+        },
+        "executive": {
+          "name": "İcraçı",
+          "desc": "Biznes mütəxəssisləri üçün peşəkar və rəsmi tərtibat."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Müxtəlif bacarıqları səmərəli şəkildə vurğulayan müasir Apple üslublu şəbəkə tərtibatı."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalizm",
+          "desc": "Cəsarətli haşiyələr və yüksək kontrastlı rənglər dəbli, qeyri-adi görünüş üçün."
+        },
+        "glassmorphism": {
+          "name": "Glassmorfizm",
+          "desc": "Parlaq müasir UI üçün rəngli gradientlər üzərində buzlu şüşə effektləri."
+        },
+        "linkInBio": {
+          "name": "Link Bioda",
+          "desc": "Mobil ekranlar və sosial media üçün optimallaşdırılmış kompakt şaquli düzülmə."
+        }
+      },
+      "appearances": {
+        "light": "İşıq",
+        "dark": "Tünd",
+        "system": "Sistem"
+      },
+      "cornersOptions": {
+        "sharp": "kəskin",
+        "rounded": "Dairəvi",
+        "pill": "həb"
+      }
+    },
+    "feedback": {
+      "title": "Əlaqə Göndər",
+      "subtitle": "Bu tətbiqdə təkliflər, tənqidlər və ya səhvlər haqqında məlumat verməklə onu daha da yaxşılaşdırmağa kömək edin.",
+      "categoryLabel": "Əlaqə Kateqoriya",
+      "messageLabel": "Mesaj Təfərrüatları",
+      "messagePlaceholder": "Mənə çatdırmaq istədiyiniz rəy haqqında ətraflı məlumat verin...",
+      "imageLabel": "Şəkil Qoşması (İstəyə görə)",
+      "imagePlaceholder": "Şəkil və ya ekran görüntüsünü yükləmək üçün klikləyin",
+      "submitting": "Göndərilir...",
+      "submitBtn": "Əlaqə Göndər",
+      "categories": {
+        "suggestion": "Təkliflər və İdeyalar",
+        "bug": "Səhv / Səhv Hesabatı",
+        "criticism": "Tənqid",
+        "other": "Digərləri"
+      },
+      "imageErrorTitle": "Səhv",
+      "imageErrorMessage": "Bəzi fayllar dəstəklənməyən şəkil formatları (JPG, PNG, GIF, WEBP) olmadığı üçün rədd edilir",
+      "successTitle": "Uğur",
+      "successMessage": "Rəyiniz üçün təşəkkür edirik! Hesabat göndərildi.",
+      "submitErrorTitle": "Uğursuz",
+      "submitErrorMessage": "Rəy göndərilərkən xəta baş verdi. Yenidən cəhd edin."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Haqqımda",
+      "skills": "Bacarıqlar",
+      "projects": "Layihələr",
+      "workExperience": "İş təcrübəsi",
+      "orgExperience": "Təşkilati təcrübə",
+      "education": "Təhsil",
+      "certifications": "Təlim və Sertifikatlar",
+      "contact": "Mənimlə əlaqə saxlayın"
+    },
+    "editor": {
+      "profileInfo": "Profil Məlumatı",
+      "saving": "Yadda saxlanılır...",
+      "profilePhoto": "Profil şəkli",
+      "clickToUpload": "Yükləmək üçün klikləyin (JPG, PNG)",
+      "fullName": "Tam adı",
+      "fullNamePlaceholder": "məs. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Müasir veb proqramlar yaratmaq həvəsi olan Fullstack Developer...",
+      "location": "Məkan",
+      "locationPlaceholder": "məs. ",
+      "gender": "Cins",
+      "selectGender": "Cins seçin",
+      "male": "Kişi",
+      "female": "Qadın",
+      "custom": "Xüsusi",
+      "customPlaceholder": "Fərdi cinsinizi yazın...",
+      "uploadCv": "CV yükləyin",
+      "cvFormat": "(DOC və ya PDF)",
+      "preview": "Önizləmə",
+      "remove": "Sil",
+      "clickToUploadCv": "PDF və ya DOC yükləmək üçün klikləyin",
+      "sections": "Bölmələr",
+      "removeSelected": "Seçilmişləri Sil",
+      "confirmRemove": "Silinməni təsdiqləyin",
+      "addSection": "Bölmə əlavə edin",
+      "addAllSections": "Bütün bölmələri əlavə edin",
+      "noSections": "Hələ bölmə yoxdur",
+      "clickToAdd": "Başlamaq üçün \"+ Bölmə əlavə et\" düyməsini basın",
+      "selectAll": "Hamısını seçin",
+      "selected": "Seçildi",
+      "dragToReorder": "Bölmələri yenidən sıralamaq üçün sürüşdürün",
+      "livePreview": "Canlı Önizləmə",
+      "addSectionsToBuild": "Portfelinizi yaratmaq üçün bölmələr əlavə edin",
+      "now": "İndi",
+      "current": "Cari",
+      "noExpiry": "İstifadə müddəti yoxdur",
+      "see": "Bax",
+      "position": "Vəzifə",
+      "degree": "Dərəcə",
+      "certification": "Sertifikatlaşdırma",
+      "sectionsForm": {
+        "about": {
+          "label": "Özünüzün təsviri",
+          "placeholder": "Özünüz, keçmişiniz, maraqlarınız və bacarıqlarınız haqqında bizə məlumat verin..."
+        },
+        "skills": {
+          "addPlaceholder": "Bacarığı yazın, sonra Enter düyməsini basın..."
+        },
+        "projects": {
+          "title": "Layihənin adı",
+          "titlePlaceholder": "Layihənin adı...",
+          "url": "Layihənin URL-i",
+          "description": "Təsvir",
+          "descriptionPlaceholder": "Layihənin qısa təsviri...",
+          "uploadThumbnail": "Layihə şəkli",
+          "addProject": "Layihə əlavə edin",
+          "projectNum": "Layihə #",
+          "currentProject": "Bu üzərində işlədiyim bir layihədir"
+        },
+        "work": {
+          "company": "Şirkət/Agentlik",
+          "companyPlaceholder": "Şirkətin adı...",
+          "position": "Vəzifə/Başlıq",
+          "positionPlaceholder": "Sizin mövqeyiniz...",
+          "employmentType": "İş növü",
+          "location": "Məkan",
+          "locationPlaceholder": "Şəhər, Ölkə...",
+          "startDate": "Başlayın",
+          "endDate": "Bitdi",
+          "currentWork": "Hazırda hələ də işləyirəm",
+          "description": "Təsvir",
+          "descriptionPlaceholder": "İş təsviri və vəzifələr...",
+          "skills": "Bacarıq",
+          "addExperience": "İş təcrübəsi əlavə edin",
+          "experienceNum": "Təcrübə #",
+          "dateError": "Bitmə tarixi başlanğıc tarixindən əvvəl ola bilməz"
+        },
+        "org": {
+          "organization": "Təşkilatın Adı",
+          "orgPlaceholder": "BEM Universiteti...",
+          "role": "Rol/Mövqe",
+          "rolePlaceholder": "Şöbə rəisi...",
+          "addOrg": "Təşkilati Təcrübə əlavə edin",
+          "orgNum": "Təşkilat #"
+        },
+        "edu": {
+          "institution": "Təhsil müəssisələri",
+          "institutionPlaceholder": "Kampusun və ya məktəbin adı...",
+          "degree": "Başlıq",
+          "degreePlaceholder": "S1, orta məktəb və s...",
+          "major": "Şöbə/Təhsil sahəsi",
+          "majorPlaceholder": "İnformatika mühəndisliyi...",
+          "gpa": "GPA (isteğe bağlı)",
+          "currentStudy": "Mən hələ də burada öyrənirəm",
+          "descriptionPlaceholder": "Təhsil zamanı fəaliyyətlər və nailiyyətlər...",
+          "addEdu": "Təhsil əlavə edin",
+          "eduNum": "Təhsil #"
+        },
+        "cert": {
+          "name": "Sertifikatlaşdırmanın / Təlimin Adı",
+          "namePlaceholder": "Sertifikat adı...",
+          "issuer": "Nəşriyyatçı",
+          "issuerPlaceholder": "Nəşriyyat qurumu...",
+          "issueDate": "Başlama (Yayım Tarixi)",
+          "issueDatePlaceholder": "Yayım tarixini seçin...",
+          "expiryDate": "Tamamlandı (Etibarlı Müddət)",
+          "expiryDatePlaceholder": "İstifadə müddətini seçin...",
+          "noExpiry": "Bu sertifikatın istifadə müddəti yoxdur",
+          "url": "Etibarnamə URL",
+          "uploadThumbnail": "Sertifikat / Təlim Şəkili",
+          "uploadThumbnailLimit": "Sertifikat şəklini yükləyin (JPG/PNG/WEBP, maksimum 2MB)",
+          "addCert": "Sertifikat əlavə edin",
+          "certNum": "Sertifikat #"
+        },
+        "contact": {
+          "contactNum": "Əlaqə #",
+          "platform": "Platforma",
+          "displayText": "Mətni göstərin",
+          "displayTextPlaceholder": "məsələn, you@email.com və ya @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "məsələn, 62812... (0-dan əvvəl olmadan)",
+          "urlPlaceholderEmail": "məsələn, you@email.com",
+          "urlPlaceholderWebsite": "məsələn, https://...",
+          "urlPlaceholderDefault": "məsələn, istifadəçi adı",
+          "addContact": "Əlaqə əlavə edin"
+        },
+        "common": {
+          "months": {
+            "1": "yanvar",
+            "2": "fevral",
+            "3": "mart",
+            "4": "aprel",
+            "5": "may",
+            "6": "iyun",
+            "7": "iyul",
+            "8": "avqust",
+            "9": "sentyabr",
+            "10": "oktyabr",
+            "11": "noyabr",
+            "12": "dekabr"
+          },
+          "month": "ay",
+          "year": "il",
+          "invalidDate": "Yanlış Son Ay",
+          "words": "sözlər"
+        }
+      },
+      "sure": "Əlbəttə",
+      "deletePhotoTitle": "Profil şəkli silinsin?",
+      "deletePhotoMessage": "Bu profil şəklini silmək istədiyinizə əminsiniz?",
+      "cancel": "Ləğv et",
+      "delete": "Sil"
+    },
+    "cropper": {
+      "chooseBackground": "Fon seçin",
+      "cropPhoto": "Şəkilinizi kəsin",
+      "useOriginal": "Orijinal istifadə edin",
+      "backgroundPresets": "Arxa Fon Hafızası",
+      "none": "Heç biri",
+      "uploadBackground": "Fon Yüklə",
+      "cancel": "Ləğv et",
+      "savePhoto": "Fotonu yadda saxla",
+      "zoom": "Zoom",
+      "rotationTilt": "Fırlanma və Tilt",
+      "resetRotation": "0°-yə sıfırlayın",
+      "center": "mərkəz",
+      "rotateLeft": "-90° fırladın",
+      "rotateRight": "+90° döndərin",
+      "removeBackground": "Fonu Sil",
+      "processing": "Şəkiliniz emal edilir, zəhmət olmasa gözləyin..."
+    },
+    "cvPreview": {
+      "title": "CV Preview",
+      "downloadCv": "CV yükləyin",
+      "download": "Yüklə",
+      "wordCannotPreview": "Word sənədləri (.doc/.docx) brauzerdə yerli olaraq nəzərdən keçirilə bilməz. ",
+      "downloadFile": "CV faylını yükləyin",
+      "back": "Geri",
+      "mobileMessage": "Lütfən, CV faylını önizləmək üçün yükləyin.",
+      "preview": "CV-yə bax",
+      "wordPreviewTitle": "Word sənədinə baxış",
+      "wordPreviewMessage": "Word sənədləri (.doc/.docx) brauzerdə yerli olaraq nəzərdən keçirilə bilməz. Baxmaq üçün faylı yükləyin."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Özünüz, maraqlarınız və karyera məqsədləriniz haqqında qısa məlumat yazın..."
+    },
+    "skills": {
+      "placeholder": "Bacarıq adını yazın...",
+      "add": "Əlavə et",
+      "enterToAdd": "Əlavə etmək üçün Enter düyməsini basın",
+      "noSkills": "Hələ heç bir bacarıq əlavə edilməyib."
+    },
+    "projects": {
+      "projectName": "Layihənin adı",
+      "projectNamePlaceholder": "məs. ",
+      "projectUrl": "Layihənin URL-i",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Müddət",
+      "startMonth": "Başlama ayı",
+      "startYear": "Başlanğıc ili",
+      "endMonth": "Son Ay",
+      "endYear": "İlin Sonu",
+      "currentlyWorking": "Hazırda bunun üzərində işləyir",
+      "description": "Təsvir",
+      "descriptionPlaceholder": "Layihəni, rolunuzu və nailiyyətlərinizi təsvir edin...",
+      "technologies": "İstifadə olunan Texnologiyalar",
+      "addProject": "Layihə əlavə edin",
+      "image": "Layihə şəkli",
+      "removeImage": "Şəkli silin",
+      "uploadImage": "Şəkli yükləmək üçün klikləyin"
+    },
+    "work": {
+      "company": "Şirkət/Təşkilat",
+      "companyPlaceholder": "Şirkətin adı...",
+      "role": "Rol/Mövqe",
+      "rolePlaceholder": "Sizin mövqeyiniz...",
+      "jobType": "İş növü",
+      "selectJobType": "Növü seçin",
+      "fullTime": "Tam iş vaxtı",
+      "partTime": "Part-time",
+      "contract": "Müqavilə",
+      "internship": "Təcrübə",
+      "freelance": "Sərbəst",
+      "location": "Məkan",
+      "locationPlaceholder": "məs. ",
+      "duration": "Müddət",
+      "currentlyWorking": "Hazırda burada işləyir",
+      "description": "İş təsviri",
+      "descriptionPlaceholder": "Əsas məsuliyyətlərinizi və nailiyyətlərinizi təsvir edin...",
+      "skills": "Xüsusi Bacarıqlar",
+      "addExperience": "Təcrübə əlavə edin"
+    },
+    "org": {
+      "organization": "Təşkilatın Adı",
+      "organizationPlaceholder": "Təşkilatın adı...",
+      "role": "Rol/Mövqe",
+      "rolePlaceholder": "məs. ",
+      "duration": "Müddət",
+      "periodFormat": "və ya Pulsuz Format (məsələn, 2020 - 2022)",
+      "periodPlaceholder": "məs. ",
+      "currentlyActive": "Hazırda aktivdir",
+      "description": "Fəaliyyət təsviri",
+      "descriptionPlaceholder": "Fəaliyyətlərinizi və ya töhfələrinizi təsvir edin...",
+      "addExperience": "Təcrübə əlavə edin"
+    },
+    "education": {
+      "institution": "Təşkilatın Adı",
+      "institutionPlaceholder": "Məktəb və ya universitet adı...",
+      "degree": "Dərəcə/Səviyyə",
+      "degreePlaceholder": "məs. ",
+      "major": "İxtisas/Təhsil sahəsi",
+      "majorPlaceholder": "məs. ",
+      "gpa": "GPA / Qiymət",
+      "gpaPlaceholder": "məs. ",
+      "duration": "Təhsil müddəti",
+      "periodFormat": "və ya Pulsuz Format (məsələn, 2018 - 2022)",
+      "periodPlaceholder": "məs. ",
+      "currentlyStudying": "Hazırda burada təhsil alır",
+      "description": "Fəaliyyətlər / Şərəflər",
+      "descriptionPlaceholder": "Akademik fəaliyyətləri, təşkilatları və ya alınan mükafatları təsvir edin...",
+      "addEducation": "Təhsil əlavə edin"
+    },
+    "cert": {
+      "name": "Sertifikat adı",
+      "namePlaceholder": "məs. ",
+      "issuer": "Emissiya edən təşkilat",
+      "issuerPlaceholder": "məs. ",
+      "issueDate": "Buraxılış tarixi",
+      "expiryDate": "Tarixə qədər etibarlıdır",
+      "noExpiry": "Bu etimadnamənin müddəti bitmir",
+      "yearPlaceholder": "və ya İl (məsələn, 2023)",
+      "credentialUrl": "Etibarnamə URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Əlaqədar Bacarıqlar",
+      "addCertification": "Sertifikat əlavə edin",
+      "image": "Şəkil/Loqo",
+      "removeImage": "Şəkli silin",
+      "uploadImage": "Şəkli yükləmək üçün klikləyin"
+    },
+    "common": {
+      "months": {
+        "1": "yanvar",
+        "2": "fevral",
+        "3": "mart",
+        "4": "aprel",
+        "5": "may",
+        "6": "iyun",
+        "7": "iyul",
+        "8": "avqust",
+        "9": "sentyabr",
+        "10": "oktyabr",
+        "11": "noyabr",
+        "12": "dekabr"
+      },
+      "month": "ay",
+      "year": "il",
+      "invalidDate": "Yanlış Son Ay",
+      "words": "sözlər"
+    }
+  },
+  "settings": {
+    "title": "Parametrlər",
+    "subtitle": "Portfel profilinizi və seçimlərinizi idarə edin",
+    "tabs": {
+      "profile": "Profilim",
+      "security": "Təhlükəsizlik",
+      "personalization": "Fərdiləşdirmə"
+    },
+    "profile": {
+      "infoTitle": "Əsas məlumat",
+      "photo": "Profil şəkli",
+      "uploadPhoto": "Fotonu dəyişdirin",
+      "fullName": "Tam adı",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-poçt ünvanı",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-poçt giriş üçün istifadə olunur və açıq şəkildə göstərilmir.",
+      "portfolioUrl": "Portfel URL-i",
+      "saveProfile": "Profili yadda saxla",
+      "save": "Profili yadda saxla",
+      "accountCreated": "Hesab Yaradıldı",
+      "lastLogin": "Son Giriş",
+      "oauthNotice": "Bu profil {{provider}} hesabınıza qoşulub. Profil dəyişiklikləri xidmət provayderi vasitəsilə edilməlidir."
+    },
+    "security": {
+      "changePassword": "Parolun dəyişdirilməsi",
+      "currentPassword": "Cari Parol",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Yeni Parol",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Yeni Şifrəni Təsdiqləyin",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Ən azı 8 simvol",
+        "uppercase": "Bir böyük hərf (A-Z)",
+        "number": "Bir nömrə (0-9)",
+        "symbol": "Bir simvol (!@#$%^&*)"
+      },
+      "passwordTitle": "parol",
+      "updatePassword": "Parolu yeniləyin",
+      "additionalSecurity": "Əlavə Təhlükəsizlik",
+      "twoFactor": "İki faktorlu autentifikasiya (2FA)",
+      "twoFactorDesc": "Əlavə bir OTP kodu istifadə edərək hesabınızı qoruyun.",
+      "activeSessions": "Aktiv Sessiyalar",
+      "activeSessionsDesc": "Daxil olmuş cihazların monitorinqinə həmişə icazə verin.",
+      "publicVisibility": "İctimai Görünüş",
+      "hideFromSearch": "Portfeli axtarış motorlarından gizlədin",
+      "hideFromSearchDesc": "Google-a ictimai portfel səhifənizi indeksləşdirməyin qarşısını alın.",
+      "disable2fa": {
+        "title": "2FA-nı söndürün",
+        "description": "İki faktorlu autentifikasiyanı söndürmək istədiyinizə əminsiniz?",
+        "confirmPasswordLabel": "Təsdiq etmək üçün parolunuzu daxil edin",
+        "currentPasswordPlaceholder": "Cari parol",
+        "cancelButton": "Ləğv et",
+        "confirmButton": "2FA-nı söndürün",
+        "incorrectPassword": "Yanlış parol."
+      },
+      "setup2fa": {
+        "step1Title": "1. QR kodunu skan edin",
+        "step1Desc": "Doğrulayıcı tətbiqinizi açın və aşağıdakı QR kodunu skan edin:",
+        "unableToScan": "Skan etmək mümkün deyil? Quraşdırma düyməsini istifadə edin",
+        "step2Title": "2. Kodu yoxlayın",
+        "step2Desc": "Tətbiqiniz tərəfindən yaradılan 6 rəqəmli kodu daxil edin:",
+        "cancelButton": "Ləğv et",
+        "enableButton": "2FA-nı aktivləşdirin",
+        "invalidLength": "Zəhmət olmasa 6 rəqəmli kodu daxil edin.",
+        "invalidCode": "Yanlış doğrulama kodu. Yenidən cəhd edin."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Dil Nəzarətləri",
+      "appLanguage": "Proqram dili",
+      "layoutTitle": "Layout və Tipoqrafiya",
+      "layoutStyle": "Layout Style",
+      "layoutModern": "Müasir Stil (Defolt)",
+      "layoutClassic": "Klassik Stil",
+      "layoutMinimalist": "Minimalist Stil",
+      "fontSize": "Proqram Şrift Ölçüsü",
+      "fontSmall": "Kiçik",
+      "fontNormal": "Normal (Orta)",
+      "fontLarge": "Böyük",
+      "searchLanguage": "Dil axtar...",
+      "languageNotFound": "Dil tapılmadı",
+      "layoutElegant": "Eleqant Stil"
+    },
+    "saveChanges": "Dəyişiklikləri Saxla",
+    "cancel": "Ləğv et",
+    "appSettings": "Tətbiq Parametrləri",
+    "logoutConfirmTitle": "Çıxışı təsdiqləyin",
+    "logoutConfirmDesc": "Sistemdən çıxmaq istədiyinizə əminsiniz?",
+    "logoutConfirmYes": "Bəli, Çıxış",
+    "generalError": "Xəta baş verdi. ",
+    "success": "Uğur",
+    "preferencesSaved": "Tətbiq tərcihləri uğurla yadda saxlanıldı.",
+    "header": "Tətbiq Parametrləri",
+    "logout": {
+      "title": "Çıxış Təsdiqi",
+      "message": "Sistemdən çıxmaq istədiyinizə əminsiniz?",
+      "confirm": "Bəli, Çıxış"
+    },
+    "about": {
+      "title": "Tətbiq haqqında",
+      "subtitle": "Portfolio Builder Platforması",
+      "version": "Versiya",
+      "description": "DevFolio tərtibatçılar, dizaynerlər və peşəkar yaradıcılar üçün nəzərdə tutulmuş müasir portfel qurucusu platformasıdır. ",
+      "license": "Lisenziya və Müəllif Hüququ",
+      "copyright": "© 2026 DevFolio Inc. Bütün hüquqlar qorunur.",
+      "developer": "Tərtibatçı",
+      "developedBy": "Rifqi Naradata tərəfindən hazırlanmışdır"
+    },
+    "deleteAccount": {
+      "title": "Hesabı Həmişə Sil",
+      "menuItem": "Hesabı Sil",
+      "successTitle": "Uğur",
+      "successMessage": "Hesabın silinməsi üçün təsdiq e-poçtu göndərildi.",
+      "errorTitle": "Uğursuz",
+      "errorMessage": "Təsdiq e-poçtunu göndərmək alınmadı.",
+      "confirmationMessage": "Hesabınızı həmişəlik silmək istədiyinizə əminsiniz?",
+      "warningMessage1": "Hesabın silinməsini təsdiqləmək üçün e-poçt alacaqsınız.",
+      "warningMessage2": "Təsdiq edildikdə, bütün məlumatlar (portfel, layihələr, statistika) həmişəlik silinəcək və bərpa edilə bilməz.",
+      "cancel": "Ləğv et",
+      "confirm": "Təsdiq"
+    },
+    "toasts": {
+      "toastError": "Xəta",
+      "toastSuccess": "Uğur",
+      "toastSetup2FAFailed": "2FA quraşdırmaq alınmadı. Yenidən cəhd edin.",
+      "toast2FAEnabled": "İki faktorlu autentifikasiya aktivləşdirilib.",
+      "toast2FADisabled": "İki faktorlu autentifikasiya deaktiv edilib.",
+      "toastSessionEnabled": "Aktiv sessiya monitorinqi aktivləşdirildi.",
+      "toastSessionDisabled": "Aktiv seans monitorinqi deaktiv edilib.",
+      "toastSetupKeyCopied": "Quraşdırma açarı buferə kopyalandı."
+    },
+    "privacy": {
+      "title": "Məxfilik Siyasəti",
+      "updateDate": "Son yeniləmə: 15 iyul 2026-cı il",
+      "intro": "Bu Məxfilik Siyasəti DevFolio-nun xidmətlərimizdən istifadə edərkən şəxsi məlumatlarınızı necə topladığını, istifadə etdiyini və qoruduğunu izah edir.",
+      "section1Title": "1. Topladığımız məlumat",
+      "section1Content": "Hesab yaratarkən, portfel qurarkən və dəstəyimizlə əlaqə saxlayanda birbaşa təqdim etdiyiniz məlumatları toplayırıq. ",
+      "section2Title": "2. Məlumatdan İstifadə",
+      "section2Content": "Məlumatlarınız xidmətlərimizin xüsusiyyətlərini idarə etmək, saxlamaq və təmin etmək, həmçinin hesabınız və ya xidmətlərinizlə bağlı sizinlə əlaqə saxlamaq üçün istifadə olunur.",
+      "section3Title": "3. Məlumat Təhlükəsizliyi",
+      "section3Content": "Biz məlumatlarınızı icazəsiz daxil olmaqdan, açıqlamadan və ya məhv olmaqdan qorumaq üçün ağlabatan təhlükəsizlik tədbirləri həyata keçiririk."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Təsdiq nişanı tapılmadı.",
+    "defaultError": "Hesabı silmək alınmadı. Tokenin vaxtı bitmiş ola bilər.",
+    "loadingTitle": "Hesab silinir...",
+    "loadingMessage": "Zəhmət olmasa gözləyin, sorğunuzu emal edirik.",
+    "successTitle": "Hesab Uğurla Silindi",
+    "successMessage": "Bütün məlumatlarınız həmişəlik silindi. Siz yönləndiriləcəksiniz...",
+    "errorTitle": "Hesabı silmək alınmadı",
+    "backToHome": "Evə qayıt"
+  },
+  "forgotPassword": {
+    "minutes": "dəqiqə",
+    "seconds": "saniyə",
+    "success": "Uğur",
+    "otpSentToEmail": "E-poçtunuza OTP kodu göndərildi.",
+    "failed": "Uğursuz",
+    "emailNotFound": "E-poçt tapılmadı.",
+    "emailThirdParty": "Bu e-poçt üçüncü tərəf vasitəsilə qeydə alınıb.",
+    "genericError": "Səhv var. Yenidən cəhd edin.",
+    "otpVerified": "OTP kodu uğurla təsdiqləndi.",
+    "otpExpired": "OTP kodunun vaxtı bitdi. Yeni kod tələb edin.",
+    "otpInvalid": "Yanlış OTP kodu.",
+    "otpResent": "E-poçtunuza yeni OTP kodu göndərildi.",
+    "otpResendFailed": "OTP kodunu yenidən göndərmək alınmadı. Yenidən cəhd edin.",
+    "passwordResetSuccess": "Parol uğurla sıfırlandı. Zəhmət olmasa yeni parolunuzla daxil olun.",
+    "passwordResetFailed": "Parolu sıfırlamaq alınmadı.",
+    "backToLogin": "Giriş",
+    "back": "səhifəsinə qayıt Geri",
+    "title": "Şifrəni unutdum",
+    "description": "Hesabınızda qeydiyyatdan keçmiş e-poçt ünvanını daxil edin. Parolun sıfırlanması üçün bir OTP kodu göndərəcəyik.",
+    "emailLabel": "E-poçt ünvanı",
+    "sending": "Göndərilir...",
+    "sendOtp": "OTP kodunu göndər",
+    "verifyOtpTitle": "OTP kodunu doğrulayın",
+    "verifyOtpDesc": "Şəxsiyyətinizi təsdiqləmək üçün e-poçtunuza göndərilmiş 6 rəqəmli kodu daxil edin.",
+    "verifying": "Doğrulanır...",
+    "verifyOtp": "OTP",
+    "resending": "doğrulayın Yenidən göndərilir...",
+    "resendOtp": "OTP kodunu yenidən göndər",
+    "resendCodeIn": "Kodu yenidən",
+    "newPasswordTitle": "ilə göndərin Yeni Parol Yaradın",
+    "newPasswordDesc": "Hesabınızı qorumaq üçün yeni, güclü parol yaradın.",
+    "newPasswordLabel": "Yeni Parol",
+    "min8Chars": "Minimum 8 simvol",
+    "oneUpperCase": "1 böyük hərf (A-Z)",
+    "oneNumber": "1 ədəd (0-9)",
+    "oneSymbol": "1 simvol (!@#$%^&*)",
+    "confirmPasswordLabel": "Şifrəni təsdiqləyin",
+    "passwordsDoNotMatch": "Parollar uyğun gəlmir.",
+    "resettingPassword": "Parol sıfırlanır...",
+    "resetPassword": "Şifrəni sıfırla"
+  },
+  "verifyEmail": {
+    "resendError": "Doğrulama e-poçtunu yenidən göndərmək alınmadı. Yenidən cəhd edin.",
+    "checkingStatus": "Doğrulama statusu yoxlanılır...",
+    "title": "E-poçtunuzu Yoxlayın",
+    "description": "E-poçt ünvanınıza doğrulama e-poçtu göndərdik. Zəhmət olmasa, e-poçtu açın və hesabınızı aktivləşdirmək üçün <1>\"Hesabı Təsdiq et\"</1> düyməsini klikləyin.",
+    "stepsTitle": "Addımlar",
+    "step1": "E-poçt proqramınızı açın (Gmail, Yahoo və s.)",
+    "step2": "DevFolio-dan \"Hesabın Aktivləşdirilməsi\"",
+    "step3": "mövzusunda e-məktub axtarın",
+    "step4": "e-poçtunda \"Hesabı təsdiq et\" düyməsini klikləyin Siz",
+    "resendSuccess": "daxil olmaq üçün giriş səhifəsinə yönləndiriləcəksiniz Doğrulama e-poçtu yenidən göndərildi!",
+    "resending": "Yenidən göndərilir...",
+    "resendButton": "Doğrulama E-poçtunu yenidən göndər",
+    "backToLogin": "Giriş səhifəsinə qayıt",
+    "footerNote": "E-poçtu almadınız? E-poçtunuzda <1>Spam</1> və ya <2>Lazımsız</2> qovluğunu yoxlayın. Doğrulama linki <3>24 saat</3> ərzində etibarlıdır."
+  }
+}

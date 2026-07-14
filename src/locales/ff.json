@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Tagle",
+    "templates": "Templaaji",
+    "pricing": "Coodguuli",
+    "login": "Naatde",
+    "getStarted": "Fuɗɗoo",
+    "title": "DevFoliyo"
+  },
+  "landing": {
+    "badge": "Mahoowo portfolio timmuɗo wonande ƴellitooɓe",
+    "title1": "Mahde karallaagal maa",
+    "title2": "portfolio e nder",
+    "titleHighlight": "leƴƴanɗe.",
+    "subtitle": "Kala ko pot-ɗaa hollirde karallaagal maa, eɓɓooji maa, e humpito maa. ",
+    "startBuilding": "Fuɗɗoo Mahde Jooni",
+    "viewTemplates": "Yiylo Templates",
+    "fastDeployment": "Jaawgol Jaɓɓugol",
+    "liveStatus": "innde kuutortooɗo.dev ina wuuri!",
+    "featuresTitle": "Sifaaaji doole",
+    "featuresSubtitle": "Min ndokka on kala kuutorɗe ɗe njiɗ-ɗon ngam seertude e jamaanu nguu e jippaade e golle ɗe njiɗ-ɗon.",
+    "feature1Title": "Mahoowo Drag & Drop",
+    "feature1Desc": "Ko weeɓi yuɓɓin taƴe maa, eɓɓooje maa, e karallaagal maa e bayyinoowo amen yiylotooɗo.",
+    "feature2Title": "Teemedde aadaaji",
+    "feature2Desc": "Suɓo e nder nate peewnaaɗe e karallaagal walla sos mbaydi maa keeriindi.",
+    "feature3Title": "Analytics e sahaa goonga",
+    "feature3Desc": "Rewru njilluuji maa, ƴeew hol eɓɓooje ɓurɗe heɓde hakkille, e ko nanndi heen."
+  },
+  "auth": {
+    "welcomeBack": "On njaaraama",
+    "loginToContinue": "Naat e konte maa ngam jokkude",
+    "createAccount": "Sos konte",
+    "joinCommunity": "Jokku ujunnaaje ujunnaaje ƴellitooɓe woɗɓe",
+    "fullName": "Innde timmunde",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Adres imeel",
+    "emailPlaceholder": "aan@yeru.com",
+    "password": "Siiri nastirde",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Siftor kam",
+    "forgotPassword": "Yejjitii konngol?",
+    "signIn": "Nastu",
+    "signingIn": "Naatde...",
+    "signUp": "Winndito",
+    "signingUp": "Winnditaade...",
+    "noAccount": "A alaa konte?",
+    "hasAccount": "Aɗa jogii konte tawo?",
+    "passwordRules": {
+      "title": "Konngol kuutorgol ngol ina foti jogaade:",
+      "length": "Ko famɗi fof 8 alkule",
+      "uppercase": "Harfeere wootere mawnde (A-Z)",
+      "number": "Limre wootere (0-9)",
+      "symbol": "Maande wootere (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Mahoowo portfolio",
+      "templates": "Templates & Teemaaji",
+      "settings": "Dottaaɗe",
+      "collapse": "Koolkisagol Barre bannge",
+      "overview": "Yiyngo",
+      "profileSettings": "Cuɓe Profaayiil",
+      "customDomain": "Domen keeriiɗo",
+      "feedback": "Ngewte"
+    },
+    "header": {
+      "viewLive": "Yiylo Live",
+      "welcome": "Jabbama,",
+      "logout": "Yaltu",
+      "builder": "Mahoowo",
+      "livePortfolio": "Portofolio nguurndam",
+      "live": "Wondugo"
+    },
+    "logoutModal": {
+      "title": "Yaltu",
+      "message": "Aɗa sikki aɗa yiɗi yaltude e konte maa? ",
+      "cancel": "Willugo",
+      "confirm": "Eey, yaltu"
+    },
+    "slugModal": {
+      "title": "Suɓo URL portfolio maa",
+      "message": "Oo URL maa won jokkorde keeriinde e portfolio maa. ",
+      "slugPlaceholder": "innde maa",
+      "availability": "Heɓde:",
+      "available": "Don",
+      "unavailable": "Heɓaaka",
+      "checking": "Ƴeewtaade...",
+      "mustFormat": "Waawaa jogaade tan ko alkule, limooje, e doggol (-)",
+      "cancel": "Willugo",
+      "save": "Hisnu URL",
+      "usernameUrl": "Innde kuutortooɗo URL",
+      "helpText": "Alkule tokoose, limooje, e limlebbi. ",
+      "validation": {
+        "empty": "Slug waawaa wonde meere.",
+        "min3": "Ko famɗi fof alkule 3.",
+        "max30": "Ko ɓuri heewde ko 30 alkulal.",
+        "format": "Ko alkule tokoose, limooje, e doggol (-) tan. "
+      }
+    },
+    "loadingPortfolio": "Lowde dokke portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Jam hiiri",
+        "afternoon": "Jam hiiri",
+        "evening": "Jam hiiri",
+        "night": "Jamma moƴƴo"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Tagɗo",
+        "desc1": "On njaaraama e tablo DevFolio. Portfolio maa yiytaama e...",
+        "desc2": "goddo. Jokku golle!",
+        "editPortfolio": "Waylu portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total njilluuji",
+        "projectViews": "Yiytaama (Eɓɓoore)",
+        "activeSessions": "Joɗnde gollornde",
+        "totalLabel": "Hakke"
+      },
+      "setup": {
+        "title": "Yahrugol yeeso",
+        "completed": "Portofolio maa ina timmi! 🎉",
+        "inProgress": "Ɗatal to portfolio timmuɗo.",
+        "profile": {
+          "title": "Profaayiil timmuɗo",
+          "desc": "Ɓeydu innde, bio e foto lowre."
+        },
+        "section": {
+          "title": "Ɓeydu Taƴe",
+          "desc": "Huutoro ko famɗi fof taƴre 1 e nder portfolio."
+        },
+        "project": {
+          "title": "Ɓeydu Eɓɓoore",
+          "desc": "Naat ko famɗi fof 1 e eɓɓooje maa ɓurɗe moƴƴude."
+        },
+        "publish": {
+          "title": "Bayyin portofolio",
+          "desc": "Seŋo URL keeriiɗo mbele jamaanu ina waawa heɓde ɗum."
+        }
+      },
+      "topProjects": {
+        "title": "Eɓɓooje ɓurɗe lollude",
+        "desc": "Golle golle mon e gite hoɓɓe.",
+        "viewAll": "Ƴeew Fof",
+        "empty": "Alaa dokke yiyngo ngam eɓɓoore maa tawo."
+      }
+    },
+    "themes": {
+      "title": "Templates & Teemaaji",
+      "subtitle": "Moƴƴin mbaydi portfolio maa renndo.",
+      "reset": "Resndo Ƴeewndo",
+      "save": "Hisnu Waylooji",
+      "saving": "Hisnude...",
+      "chooseTemplate": "Suɓo Template",
+      "primaryColor": "Koloor arano",
+      "typography": "Tappirde",
+      "appearance": "Feere",
+      "corners": "Koɗorɗe & Keeri",
+      "successTitle": "Nafoore",
+      "successMessage": "Cuɓagol tiitoonde hesɗitinaama no moƴƴi",
+      "errorTitle": "Juumre",
+      "errorMessage": "Waawaa hisnude cuɓagol tiitoonde",
+      "templates": {
+        "minimalist": {
+          "name": "Minimal",
+          "desc": "Design laaɓɗo e hoyre tiiɗnde e loowdi."
+        },
+        "developerDark": {
+          "name": "Developpeur Niwre",
+          "desc": "Tiitoonde niɓɓiire timmunde ngam hollirde kode e teknoloji stacks."
+        },
+        "creative": {
+          "name": "Tagɗo",
+          "desc": "Layout ɓuuɓɗo e colourful ngam diisneteeɓe e tafooɓe."
+        },
+        "executive": {
+          "name": "Kuutorgal",
+          "desc": "Layout professionnel e formal ngam annduɓe njulaagu."
+        },
+        "bentoGrid": {
+          "name": "Resde Bento",
+          "desc": "Laylaytol grid Apple-style jamaanu ngol teeŋtinoowo karallaagal ceertungal e no haanirta nii."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Keeri cuuɗiiɗi e kalaaji ceertuɗi toowɗi ngam ƴeewde mbaydi, unapologetic."
+        },
+        "glassmorphism": {
+          "name": "Gilaasmorfiis",
+          "desc": "Batte gilaas ɓuuɓɗo dow mbaydiiji kala ngam UI jamaanu ɓuuɓɗo."
+        },
+        "linkInBio": {
+          "name": "Jokkondiral e nder Bio",
+          "desc": "Layout vertical compact moƴƴinaama ngam ekkoraaji mobaayiil e laylayti renndo."
+        }
+      },
+      "appearances": {
+        "light": "Annoore",
+        "dark": "Niwre",
+        "system": "Siistem"
+      },
+      "cornersOptions": {
+        "sharp": "Jaagorgal",
+        "rounded": "Rondirde",
+        "pill": "Piil"
+      }
+    },
+    "feedback": {
+      "title": "Neldu Miijooji",
+      "subtitle": "Wallu min ngam moƴƴinde ɗum e rokkude miijooji, ñiŋooje, walla humpitaade ŋakkeende e ndee kuutorgal.",
+      "categoryLabel": "Kategori miijooji",
+      "messageLabel": "Detaayuuji mesaas",
+      "messagePlaceholder": "Haalan am e laaɓal ko fayti e miijooji ɗi njiɗɗaa yettinde...",
+      "imageLabel": "Natal Jokkorde (Ko cuɓaa)",
+      "imagePlaceholder": "Ɓoɗɗu ngam neldude natal walla nate ekran",
+      "submitting": "Neldude...",
+      "submitBtn": "Neldu Miijooji",
+      "categories": {
+        "suggestion": "Miijooji & Miijooji",
+        "bug": "Ciimtol Bug / Juumre",
+        "criticism": "Ñaawoore",
+        "other": "Woɗɓe"
+      },
+      "imageErrorTitle": "Juumre",
+      "imageErrorMessage": "Won e piille njaɓaaka sabu ɗe njaɓaani mbaydiiji nate (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Nafoore",
+      "successMessage": "On njaaraama e miijooji mon! Ciimtol ngol neldaama.",
+      "submitErrorTitle": "Faaɗaama",
+      "submitErrorMessage": "Juumre waɗii e neldude miijooji. Tiiɗno enndu kadi."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ko fayti e am",
+      "skills": "Aandal",
+      "projects": "Eɓɓooje",
+      "workExperience": "Ƴeewndo golle",
+      "orgExperience": "Ƴeewndo njuɓɓudi",
+      "education": "Jaangirde",
+      "certifications": "Heblo & Seedeeji",
+      "contact": "Jokkondir e am"
+    },
+    "editor": {
+      "profileInfo": "Kabaaru mbaydi",
+      "saving": "Hisnude...",
+      "profilePhoto": "Foto mbaydi",
+      "clickToUpload": "Ɓoɗɗu ngam neldude (JPG, PNG)",
+      "fullName": "Innde timmunde",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Sifaa Fullstack jogiiɗo yiɗde mahde appliiji web jamaanu...",
+      "location": "Wakere",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Baadal",
+      "selectGender": "Suɓo Jinnaaɗo",
+      "male": "Gorko",
+      "female": "Debbo",
+      "custom": "Asli",
+      "customPlaceholder": "Winndu jinnaaɗo maa...",
+      "uploadCv": "Neldu CV",
+      "cvFormat": "(DOC walla PDF)",
+      "preview": "Yiyngo",
+      "remove": "Ittugo",
+      "clickToUploadCv": "Ɓoɗɗu ngam neldude PDF walla DOC",
+      "sections": "Taƴe",
+      "removeSelected": "Ittu Cuɓaaɗo",
+      "confirmRemove": "Tabintin Ittu",
+      "addSection": "Ɓeydu Taƴre",
+      "addAllSections": "Ɓeydu Taƴe ɗee kala",
+      "noSections": "Alaa taƴe tawo",
+      "clickToAdd": "Ɓoɗɗu \"+ Ɓeydu Taƴre\" ngam fuɗɗaade",
+      "selectAll": "Suɓo Fof",
+      "selected": "Suɓaama",
+      "dragToReorder": "Drag ngam yuɓɓinde taƴe",
+      "livePreview": "Yiyngo nguurndam",
+      "addSectionsToBuild": "Ɓeydu taƴe ngam mahde portfolio maa",
+      "now": "Jonta",
+      "current": "Jonta",
+      "noExpiry": "Alaa Timmoode",
+      "see": "Larugo",
+      "position": "Wonde",
+      "degree": "Tobe",
+      "certification": "Seedantaagal",
+      "sectionsForm": {
+        "about": {
+          "label": "Sifaa hoore maa",
+          "placeholder": "Haalan min ko fayti e hoore maa, ko ngonɗaa koo, ko njiɗɗaa e karallaagal maa..."
+        },
+        "skills": {
+          "addPlaceholder": "Winndu karallaagal caggal ɗuum toɓɓu Enter..."
+        },
+        "projects": {
+          "title": "Innde eɓɓoore ndee",
+          "titlePlaceholder": "Innde eɓɓoore ndee...",
+          "url": "URL eɓɓoore ndee",
+          "description": "Limtol",
+          "descriptionPlaceholder": "Sifaa juutɗo eɓɓoore ndee...",
+          "uploadThumbnail": "Natal eɓɓoore",
+          "addProject": "Ɓeydu Eɓɓoore",
+          "projectNum": "Kugal #",
+          "currentProject": "Ko ɗum eɓɓoore nde ngollotoo-mi"
+        },
+        "work": {
+          "company": "Sosiyetee/Agence",
+          "companyPlaceholder": "Innde sosiyetee...",
+          "position": "Darnde/Tiitoonde",
+          "positionPlaceholder": "Darnde maa...",
+          "employmentType": "Nokku golle",
+          "location": "Wakere",
+          "locationPlaceholder": "Wuro, Leydi...",
+          "startDate": "Start",
+          "endDate": "Timmi",
+          "currentWork": "Miɗo golloo haa jooni e oo sahaa",
+          "description": "Limtol",
+          "descriptionPlaceholder": "Sifaa golle e golle...",
+          "skills": "Aandal",
+          "addExperience": "Ɓeydu heen humpito golle",
+          "experienceNum": "Aandal #",
+          "dateError": "Ñalngu joofnirde waawaa ɓurde ñalngu fuɗɗoode"
+        },
+        "org": {
+          "organization": "Innde Fedde nde",
+          "orgPlaceholder": "Duɗal jaaɓi haaɗtirde BEM...",
+          "role": "Darnde/Darnde",
+          "rolePlaceholder": "Hooreejo fedde...",
+          "addOrg": "Ɓeydu heen humpito njuɓɓudi",
+          "orgNum": "Taskaram #"
+        },
+        "edu": {
+          "institution": "Duɗe jaŋde",
+          "institutionPlaceholder": "Innde duɗal walla duɗal...",
+          "degree": "Hoore",
+          "degreePlaceholder": "S1, duɗal hakkundeewal, ekn...",
+          "major": "Departemaa/Faandaare Jaŋde",
+          "majorPlaceholder": "Innjiniyaaruuji humpitooji...",
+          "gpa": "GPA (ko cuɓaa)",
+          "currentStudy": "Miɗo jannga ɗoo haa jooni",
+          "descriptionPlaceholder": "Golle e baɗte e nder jaŋde...",
+          "addEdu": "Ɓeydu heen Jaŋde",
+          "eduNum": "Jaangirde #"
+        },
+        "cert": {
+          "name": "Innde Seedantaagal / Heblo",
+          "namePlaceholder": "Innde seedantaagal...",
+          "issuer": "Bayyinoowo",
+          "issuerPlaceholder": "Duɗal bayyinoowo...",
+          "issueDate": "Fuɗɗoode (ñalngu bayyinaango)",
+          "issueDatePlaceholder": "Suɓo ñalngu bayyinaango...",
+          "expiryDate": "Timminii (Duuɓi gonɗi)",
+          "expiryDatePlaceholder": "Suɓo ñalngu nguu...",
+          "noExpiry": "Ooɗoo seedantaagal alaa ñalngu nde joofata",
+          "url": "URL seedantaagal",
+          "uploadThumbnail": "Natal seedantaagal / heblo",
+          "uploadThumbnailLimit": "Neldu natal seedantaagal (JPG/PNG/WEBP, ko ɓuri heewde ko 2MB)",
+          "addCert": "Ɓeydu Seedantaagal",
+          "certNum": "Seedantaagal #"
+        },
+        "contact": {
+          "contactNum": "Footugo #",
+          "platform": "Daaldal",
+          "displayText": "Hollit Binndol",
+          "displayTextPlaceholder": "yeru, aan@imeel.com walla @innde kuutortooɗo",
+          "url": "Jokkorde (URL)",
+          "urlPlaceholderWhatsapp": "Yeru, 62812... (tawa 0 ardii)",
+          "urlPlaceholderEmail": "yeru, aan@imeel.com",
+          "urlPlaceholderWebsite": "yeru, http://...",
+          "urlPlaceholderDefault": "yeru, innde kuutortooɗo",
+          "addContact": "Ɓeydu Jokkondiral"
+        },
+        "common": {
+          "months": {
+            "1": "Zaanviye",
+            "2": "Feviiriye",
+            "3": "Maars",
+            "4": "Avirilaku",
+            "5": "Footi",
+            "6": "Zweng",
+            "7": "Zwiye",
+            "8": "Ut",
+            "9": "Septamber",
+            "10": "Oktober",
+            "11": "Novamber",
+            "12": "Desamber"
+          },
+          "month": "Lewru",
+          "year": "Hittande",
+          "invalidDate": "Lewru timmundu ndu moƴƴaani",
+          "words": "ngewte"
+        }
+      },
+      "sure": "Be gonga",
+      "deletePhotoTitle": "Mumtu foto maa?",
+      "deletePhotoMessage": "Aɗa sikki aɗa yiɗi momtude ndee foto lowre?",
+      "cancel": "Willugo",
+      "delete": "Wilugo"
+    },
+    "cropper": {
+      "chooseBackground": "Suɓo Fooyre",
+      "cropPhoto": "Taƴu Foto maa",
+      "useOriginal": "Huutoro asli",
+      "backgroundPresets": "Presets caggal",
+      "none": "Wala",
+      "uploadBackground": "Neldu caggal",
+      "cancel": "Willugo",
+      "savePhoto": "Hisnu Foto",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotaasiyoŋ & Tilde",
+      "resetRotation": "Resndo e 0°",
+      "center": "Cakka",
+      "rotateLeft": "Yirlo -90°",
+      "rotateRight": "Yirlo +90°",
+      "removeBackground": "Ittu Baɗte",
+      "processing": "E nder golloraade natal maa, ɗaɓɓu..."
+    },
+    "cvPreview": {
+      "title": "Yiyngo CV",
+      "downloadCv": "Sokkit CV",
+      "download": "Hoosugo do internaati",
+      "wordCannotPreview": "Dokimaaji Word (.doc/.docx) mbaawaa yiyteede e nder feerorde. ",
+      "downloadFile": "Sosde Fiilde CV",
+      "back": "Bawo",
+      "mobileMessage": "Tiiɗno, ƴettu fiilngo CV ngam yiytude ɗum.",
+      "preview": "Yiylo CV",
+      "wordPreviewTitle": "Yiyngo binndanɗe Word",
+      "wordPreviewMessage": "Dokimaaji Word (.doc/.docx) mbaawaa yiyteede e nder feerorde. Tiiɗno, ƴettu fiilde ndee ngam yiyde nde."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Winndu siftorde seeɗa ko fayti e hoore maa, nafooje maa, e paandaale golle maa..."
+    },
+    "skills": {
+      "placeholder": "Winndu innde karallaagal...",
+      "add": "Besdugo",
+      "enterToAdd": "Toɓɓu Enter ngam ɓeydude",
+      "noSkills": "Alaa karallaagal ɓeydaa tawo."
+    },
+    "projects": {
+      "projectName": "Innde eɓɓoore ndee",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL eɓɓoore ndee",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Wakati",
+      "startMonth": "Fuɗɗoode Lewru",
+      "startYear": "Fuɗɗoode Hitaande",
+      "endMonth": "Lewru joofnirde",
+      "endYear": "Hitaande joofnirde",
+      "currentlyWorking": "Jooni noon ina golloo e ɗuum",
+      "description": "Limtol",
+      "descriptionPlaceholder": "Siftor eɓɓoore ndee, darnde maa, e ko keɓ-ɗaa...",
+      "technologies": "Karallaagal kuutorteengal",
+      "addProject": "Ɓeydu Eɓɓoore",
+      "image": "Natal eɓɓoore",
+      "removeImage": "Ittu Natal ngal",
+      "uploadImage": "Ɓoɗɗu ngam neldude natal ngal"
+    },
+    "work": {
+      "company": "Sosiyetee/Njuɓɓudi",
+      "companyPlaceholder": "Innde sosiyetee...",
+      "role": "Darnde/Darnde",
+      "rolePlaceholder": "Darnde maa...",
+      "jobType": "Sifaa golle",
+      "selectJobType": "Suɓo sifaa",
+      "fullTime": "Wakkati timmuɗo",
+      "partTime": "Wakkati feccere",
+      "contract": "Narral",
+      "internship": "Kugal ɓendinugo jungo",
+      "freelance": "Koolaaɗo",
+      "location": "Wakere",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Wakati",
+      "currentlyWorking": "Jooni noon ina golloo ɗoo",
+      "description": "Sifaa golle",
+      "descriptionPlaceholder": "Siftor golle maa teeŋtuɗe e baɗte maa...",
+      "skills": "Karallaagal keeringal",
+      "addExperience": "Ɓeydu heen humpito"
+    },
+    "org": {
+      "organization": "Innde Fedde nde",
+      "organizationPlaceholder": "Innde fedde...",
+      "role": "Darnde/Darnde",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Wakati",
+      "periodFormat": "walla mbaydi mbelndi (yeru 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Jooni ina golloo",
+      "description": "Sifaa golle",
+      "descriptionPlaceholder": "Siftor golle maa walla darnde maa...",
+      "addExperience": "Ɓeydu heen humpito"
+    },
+    "education": {
+      "institution": "Innde Duɗal ngal",
+      "institutionPlaceholder": "Innde duɗal walla duɗal jaaɓi haaɗtirde...",
+      "degree": "Degere/Toɓɓere",
+      "degreePlaceholder": "e.g. ",
+      "major": "Mawɗo/Fannu Jaŋde",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Toɓɓere",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Duuɓi jaŋde",
+      "periodFormat": "walla mbaydi mbelndi (yeru 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Jooni noon ina jannga ɗoo",
+      "description": "Golle / Teddungal",
+      "descriptionPlaceholder": "Siftor golle janngirɗe, juɓɓule, walla teddungal keɓaangal...",
+      "addEducation": "Ɓeydu heen Jaŋde"
+    },
+    "cert": {
+      "name": "Innde seedantaagal",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Yuɓɓo yaltinoowo",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Ñalngu yaltugol",
+      "expiryDate": "Ina woodi Haa",
+      "noExpiry": "Ngalɗoo seedantaagal timmataa",
+      "yearPlaceholder": "walla Hitaande (yeru 2023)",
+      "credentialUrl": "URL seedantaagal",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Karallaagal jowitiingal e ɗuum",
+      "addCertification": "Ɓeydu Seedantaagal",
+      "image": "Natal/Logo",
+      "removeImage": "Ittu Natal ngal",
+      "uploadImage": "Ɓoɗɗu ngam neldude natal ngal"
+    },
+    "common": {
+      "months": {
+        "1": "Zaanviye",
+        "2": "Feviiriye",
+        "3": "Maars",
+        "4": "Avirilaku",
+        "5": "Footi",
+        "6": "Zweng",
+        "7": "Zwiye",
+        "8": "Ut",
+        "9": "Septamber",
+        "10": "Oktober",
+        "11": "Novamber",
+        "12": "Desamber"
+      },
+      "month": "Lewru",
+      "year": "Hittande",
+      "invalidDate": "Lewru timmundu ndu moƴƴaani",
+      "words": "ngewte"
+    }
+  },
+  "settings": {
+    "title": "Dottaaɗe",
+    "subtitle": "Njuɓɓudi nate portfolio maa e ɓure maa",
+    "tabs": {
+      "profile": "Profaayiil am",
+      "security": "Jam",
+      "personalization": "Neɗɗaagu"
+    },
+    "profile": {
+      "infoTitle": "Kabaaru teskinɗo",
+      "photo": "Foto mbaydi",
+      "uploadPhoto": "Waylu Foto",
+      "fullName": "Innde timmunde",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adres imeel",
+      "emailPlaceholder": "john@yeru.com",
+      "emailHelp": "Imeel huutortee ko ngam naatde, hollitaaka e yeeso yimɓe.",
+      "portfolioUrl": "URL portfolio",
+      "saveProfile": "Hisnu Profaayiil",
+      "save": "Hisnu Profaayiil",
+      "accountCreated": "Konte Sosaa",
+      "lastLogin": "Naatgol cakkitiingol",
+      "oauthNotice": "Ngalɗoo mbaylaandi jokkondirii e konte maa {{provider}}. Waylooji porofaayiil ina poti waɗeede e balloowo sarwiis oo."
+    },
+    "security": {
+      "changePassword": "Waylu Konngol",
+      "currentPassword": "Konngol jooni ngol",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Konngol kesol",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Tabintin Konngol Kesol",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "Ko famɗi fof 8 alkule",
+        "uppercase": "Harfeere wootere mawnde (A-Z)",
+        "number": "Limre wootere (0-9)",
+        "symbol": "Maande wootere (!@#$%^&*)"
+      },
+      "passwordTitle": "Siiri nastirde",
+      "updatePassword": "Hesɗitin konngol",
+      "additionalSecurity": "Ɓeydagol Kisal",
+      "twoFactor": "Hoolkiso geɗe ɗiɗi (2FA)",
+      "twoFactorDesc": "Reento konte maa e huutoraade kod OTP ɓeydaaɗo.",
+      "activeSessions": "Joɗndeeji gollotooɗi",
+      "activeSessionsDesc": "Waɗde sahaa kala accu ƴeewndo kaɓirɗe naatɗe.",
+      "publicVisibility": "Yiyngo jamaanu",
+      "hideFromSearch": "Suuɗde portfolio e nder njiylawu",
+      "hideFromSearchDesc": "Haɗ Google ƴeewtaade hello maa portfolio renndo.",
+      "disable2fa": {
+        "title": "Softin 2FA",
+        "description": "Aɗa sikki aɗa yiɗi momtude seedantaagal geɗe ɗiɗi?",
+        "confirmPasswordLabel": "Winndu konngol maa ngam tabitinde",
+        "currentPasswordPlaceholder": "Konngol jooni ngol",
+        "cancelButton": "Woppu",
+        "confirmButton": "Softin 2FA",
+        "incorrectPassword": "Konngol ngol sellaani."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skannde Kod QR",
+        "step1Desc": "Uddit app maa hoolkiso, ƴeewto kodde QR ɗee:",
+        "unableToScan": "Waawaa skannde? Huutoro jokkorgal setup",
+        "step2Title": "2. Hoolkiso Kod",
+        "step2Desc": "Winndu kod toɓɓe 6 mo app maa yaltini:",
+        "cancelButton": "Willugo",
+        "enableButton": "Softin 2FA",
+        "invalidLength": "Winndu kode 6-digit.",
+        "invalidCode": "Kod hoolkiso moƴƴaani. Tiiɗno enndu kadi."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Konngol ɗemɗe",
+      "appLanguage": "Ɗemngal App",
+      "layoutTitle": "Laylaytol e Tipogaraafi",
+      "layoutStyle": "Sifaa laylaytol",
+      "layoutModern": "Sifaa jamaanu (Ko adii)",
+      "layoutClassic": "Sifaa Kilaasiik",
+      "layoutMinimalist": "Sifaa minimalist",
+      "fontSize": "Njaajeendi binndi App",
+      "fontSmall": "Pamarron",
+      "fontNormal": "No woorunoo (hakkunde)",
+      "fontLarge": "Manga",
+      "searchLanguage": "Ɗemngal njiylawu...",
+      "languageNotFound": "Ɗemngal tawaaka",
+      "layoutElegant": "Sifaa Elegant"
+    },
+    "saveChanges": "Hisnu Waylooji",
+    "cancel": "Willugo",
+    "appSettings": "Cuɓe App",
+    "logoutConfirmTitle": "Tabintin yaltude",
+    "logoutConfirmDesc": "Aɗa sikki aɗa yiɗi yaltude e system o?",
+    "logoutConfirmYes": "Eey, yaltu",
+    "generalError": "Juumre waɗii. ",
+    "success": "Jallorgal",
+    "preferencesSaved": "Cuɓagol app hisnaama no moƴƴi.",
+    "header": "Cuɓe kuutorgal",
+    "logout": {
+      "title": "Tabitingol yaltude",
+      "message": "Aɗa sikki aɗa yiɗi yaltude e system o?",
+      "confirm": "Eey, yaltu"
+    },
+    "about": {
+      "title": "Ko fayti e Kuutoragol",
+      "subtitle": "Platform mahoowo portfolio",
+      "version": "Irin",
+      "description": "DevFolio ko lowre mahoowo portfolio jamaanu, peewniraande ngam ƴellitooɓe, diisneteeɓe, e tafooɓe karallaagal. ",
+      "license": "Lislaam & Hakkeeji copyright",
+      "copyright": "© 2026 DevFolio Inc. Hakkeeji ɗii fof ko ɗi resndaaɗi.",
+      "developer": "Ƴeewoowo",
+      "developedBy": "Ko Rifqi Naradaata ƴetti ɗum"
+    },
+    "deleteAccount": {
+      "title": "Mumtu konte haa abada",
+      "menuItem": "Mumtu konte",
+      "successTitle": "Nafoore",
+      "successMessage": "Imeel ngam tabitinde momtugol konte neldaama.",
+      "errorTitle": "Faaɗaama",
+      "errorMessage": "Waawaa neldude iimeel tabitinoowo.",
+      "confirmationMessage": "Aɗa sikki aɗa yiɗi momtude konte maa haa abada?",
+      "warningMessage1": "Maa a heɓ iimeel ngam tabitinde momtugol konte.",
+      "warningMessage2": "So ɗum tabitinaama, denndaangal dokke (portfolio, eɓɓaaɗe, limlebbi) maa momte haa abada, ɗe mbaawaa heɓtineede.",
+      "cancel": "Woppude",
+      "confirm": "Tabitingol"
+    },
+    "toasts": {
+      "toastError": "Harbol",
+      "toastSuccess": "Jallorgal",
+      "toastSetup2FAFailed": "Waawaa sosde 2FA. Tiiɗno enndu kadi.",
+      "toast2FAEnabled": "Hoolkiso geɗe ɗiɗi softinaama.",
+      "toast2FADisabled": "Hoolkiso geɗe ɗiɗi haɗaama.",
+      "toastSessionEnabled": "Moƴƴinde joɗnde gollorde ndee softinaama.",
+      "toastSessionDisabled": "Yiylaade joɗnde gollornde ndee haɗaama.",
+      "toastSetupKeyCopied": "Kuutorgal setup koppiraa ko e alluwal."
+    },
+    "privacy": {
+      "title": "Politik sirlu",
+      "updateDate": "Cakkitingol hesɗitineede: 15 sulyee 2026",
+      "intro": "Oo Kuulal Sirlu ina hollita no DevFolio mooftirta, huutortoo, e reenata kabaruuji maa keertiiɗi so a huutoriima sarwisaaji amen.",
+      "section1Title": "1. Kabaaru mo min mooftata",
+      "section1Content": "Min mooftata ko kabaruuji ɗi ndokku-ɗaa to bannge sosde konte, mahde portfolio, e jokkondirde e ballal amen. ",
+      "section2Title": "2. Huutoraade kabaruuji",
+      "section2Content": "Kabaaruuji maa kuutortee ko ngam golloraade, jogaade, e rokkude geɗe sarwisaaji amen, kam e jokkondirde e maa ko fayti e konte maa walla sarwisaaji maa.",
+      "section3Title": "3. Kisal Doggi",
+      "section3Content": "Min mbaɗata ko peeje kisal moƴƴe ngam reende kabaruuji maa e jokkondire ɗe ngalaa yamiroore, yaltinnde, walla halkude."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token tabitingol tawaaka.",
+    "defaultError": "Waawaa momtude konte. Ina gasa tawa token oo gasii.",
+    "loadingTitle": "Mumtugol konte...",
+    "loadingMessage": "Tiiɗno, min ngoni ko e ƴeewtaade ɗaɓɓaande maa.",
+    "successTitle": "Konte ɗee njuumtaama",
+    "successMessage": "Dowlaaji maa fof momtaama haa abada. Maa a rewtin...",
+    "errorTitle": "Waawaa momtude konte",
+    "backToHome": "Hoto ngartu e Galle"
+  },
+  "forgotPassword": {
+    "minutes": "hojomaaji",
+    "seconds": "leƴƴanɗe",
+    "success": "Nafoore",
+    "otpSentToEmail": "Kod OTP neldaama e iimeel maa.",
+    "failed": "Faaɗaama",
+    "emailNotFound": "Imeel yiytaaka.",
+    "emailThirdParty": "Oo iimeel winnditaama e laawol tataɓol.",
+    "genericError": "Juumre ina woodi. Tiiɗno enndu kadi.",
+    "otpVerified": "Kod OTP oo hoolkisaama no moƴƴi.",
+    "otpExpired": "Kod OTP oo gasii. Ɗaɓɓu kod keso.",
+    "otpInvalid": "Kod OTP mo moƴƴaani.",
+    "otpResent": "Kod OTP keso neldaama e iimeel maa.",
+    "otpResendFailed": "Waawaa neldude kode OTP. Tiiɗno enndu kadi.",
+    "passwordResetSuccess": "Password ina moƴƴi. Tiiɗno, naatnu e konngol maa kesol ngol.",
+    "passwordResetFailed": "Waawaa ustude konngol.",
+    "backToLogin": "Hoto ngartu e Naatgol",
+    "back": "Caggal",
+    "title": "Yejjiti konngol",
+    "description": "Winndu adres imeel winnditaa e konte maa. Maa min neldu kode OTP ngam ustude konngol ngol.",
+    "emailLabel": "Adres imeel",
+    "sending": "Neldude...",
+    "sendOtp": "Neldu Kod OTP",
+    "verifyOtpTitle": "Hoolkiso Kod OTP",
+    "verifyOtpDesc": "Winndu kodde 6 neldaaɗe e iimeel maa ngam tabitinde ko ngonɗaa koo.",
+    "verifying": "Hoolkisaade...",
+    "verifyOtp": "Hoolkiso OTP",
+    "resending": "Neldude kadi...",
+    "resendOtp": "Neldu Kod OTP",
+    "resendCodeIn": "Neldu kodde ɗee e",
+    "newPasswordTitle": "Sosde konngol kesol",
+    "newPasswordDesc": "Sos konngol kesol, tiiɗngol ngam hisnude konte maa.",
+    "newPasswordLabel": "Konngol kesol",
+    "min8Chars": "Ko famɗi fof alkule 8",
+    "oneUpperCase": "1 alkulal mawngal (A-Z)",
+    "oneNumber": "1 limre (0-9)",
+    "oneSymbol": "1 maande (!@#$%^&*)",
+    "confirmPasswordLabel": "Tabintin konngol",
+    "passwordsDoNotMatch": "Passwords njiidaani.",
+    "resettingPassword": "Resndo konngol...",
+    "resetPassword": "Resndo konngol"
+  },
+  "verifyEmail": {
+    "resendError": "Waawaa neldude imeel hoolkiso. Tiiɗno enndu kadi.",
+    "checkingStatus": "Ƴeewtaade ngonka hoolkiso...",
+    "title": "Ƴeewto Imeel maa",
+    "description": "Min neldii iimeel hoolkiso to adrees imeel maa. Tiiɗno, uddit imeel oo, ɓuɗɗu e butoŋ <1>\"Tabitin konte\"</1> ngam softinde konte maa.",
+    "stepsTitle": "Ɗatal",
+    "step1": "Uddit kuutorgal maa imeel (Gmail, Yahoo, ekn)",
+    "step2": "Yiylo iimeel ummoraade e DevFolio tawa ina waɗi tiitoonde \"Softinde konte\"",
+    "step3": "Ɓoɗɗu butoŋ \"Tabitin konte\" e nder iimeel",
+    "step4": "Maa a nawte to hello naatnugol ngam naatde",
+    "resendSuccess": "Imeel hoolkiso oo neldaama!",
+    "resending": "Neldude kadi...",
+    "resendButton": "Neldu Imeel Hoolkiso",
+    "backToLogin": "Hoto ngartu e Hello Naatgol",
+    "footerNote": "Mbele a heɓaani iimeel oo? Ƴeewto <1>Spam</1> walla <2>Junk</2> nder imeel maa. Jokkorde hoolkiso ndee ina golloo fotde <3>waktuuji 24</3>."
+  }
+}

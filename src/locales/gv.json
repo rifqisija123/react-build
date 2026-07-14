@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ghoaill",
+    "templates": "Templateyn",
+    "pricing": "Pricey",
+    "login": "Luggey stiagh",
+    "getStarted": "Gow toshiaght",
+    "title": "Folio Leshtal"
+  },
+  "landing": {
+    "badge": "Yn portfolio-toiggal s'jerree son ymmydeyryn",
+    "title1": "Toiggal dty proffeshonail",
+    "title2": "portfolio ayns",
+    "titleHighlight": "Secoondyn.",
+    "subtitle": "Gagh nhee ta feme ort da soilshaghey dty scansh, dty phrojektyn, as dty ghraih. ",
+    "startBuilding": "Toshiaght y Toggal Nish",
+    "viewTemplates": "Cur-my-ner templateyn",
+    "fastDeployment": "Cur-my-ner",
+    "liveStatus": "t'ennym.dev beo!",
+    "featuresTitle": "Features cummaltagh",
+    "featuresSubtitle": "Ta shin cur da ooilley ny h-instrumentyn ta feme ort dy seaghyn magh ass y sluight as dy land y job dream.",
+    "feature1Title": "Toiggal Drag & Drop",
+    "feature1Desc": "Reih dty rannagyn, dty phrojektyn, as dty skillaghyn dy h-easyl lesh y rheynn-smooinaght ain.",
+    "feature2Title": "Temeyn Custom",
+    "feature2Desc": "Taght jeh templateyn ry-hoi ry-hoi ny ry-hoi ry-hoi ry-hoi.",
+    "feature3Title": "Analysis ayns am-reiltagh",
+    "feature3Desc": "Track dty veearaghyn, cur-my-ner c'raad ta'n projectyn ta'n aght smoo ry-gheddyn, as ny smoo."
+  },
+  "auth": {
+    "welcomeBack": "Cur-my-ner",
+    "loginToContinue": "Loggey stiagh ayns dty chuntoil dy gholl er-soylley",
+    "createAccount": "Cree Cuntagh",
+    "joinCommunity": "Cur stiagh millioonyn dy h-earrooderyn elley",
+    "fullName": "Ennym Lane;",
+    "fullNamePlaceholder": "m.s. ",
+    "email": "Seoysey E-mail",
+    "emailPlaceholder": "uss@sampleyr.com",
+    "password": "Fockle yn arrey",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Cuimnee orrym",
+    "forgotPassword": "T'ou er n'yannoo ymmyd jeh'n fockle-hasht?",
+    "signIn": "Cur stiagh",
+    "signingIn": "Cur stiagh...",
+    "signUp": "Screeu seose",
+    "signingUp": "Cur stiagh...",
+    "noAccount": "Nagh vel coontey ayd?",
+    "hasAccount": "Ta cuntait ayd er-dy-henney?",
+    "passwordRules": {
+      "title": "Feme dy vel y fockle-hasht ayn:",
+      "length": "caracter er-y-fa shen",
+      "uppercase": "Un lieh-litrey mooar (A-Z)",
+      "number": "Un lieh (0-9)",
+      "symbol": "Un cowrey (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Toiggal Portfolio",
+      "templates": "Templateyn as Themeyn",
+      "settings": "Roishtyn",
+      "collapse": "Cur stiagh barr-taarnee",
+      "overview": "Ard-scrutaght",
+      "profileSettings": "Roishtyn Profiil",
+      "customDomain": "Domain Custom",
+      "feedback": "Aaveaghey"
+    },
+    "header": {
+      "viewLive": "Cur-my-ner beo",
+      "welcome": "Curmish,",
+      "logout": "Goll magh",
+      "builder": "Toiggal;",
+      "livePortfolio": "Portfolio Beo",
+      "live": "Baghey"
+    },
+    "logoutModal": {
+      "title": "Goll magh",
+      "message": "Vel oo shickyr dy vel oo er n'eiyrt magh ass dty chuntey? ",
+      "cancel": "cur ass",
+      "confirm": "Ta, Gow magh"
+    },
+    "slugModal": {
+      "title": "Taght URL dty phortfolio",
+      "message": "Ta'n URL shoh y linney un-ghooghyssagh gys dty phortfolio. ",
+      "slugPlaceholder": "dty-ennym;",
+      "availability": "Ta ry gheddyn:",
+      "available": "Ry-gheddyn",
+      "unavailable": "Cha nel eh ry gheddyn",
+      "checking": "Check...",
+      "mustFormat": "Cha nel eh ry-gheddyn agh litreeyn, uimhreyn as dash (-)",
+      "cancel": "cur ass",
+      "save": "Saghey URL",
+      "usernameUrl": "URL Ennym y Chleaysh",
+      "helpText": "Litreeyn beggey, uimhreyn, as dashes. ",
+      "validation": {
+        "empty": "Slug cha vod eh ve foshlit.",
+        "min3": "caracter y lhoob.",
+        "max30": "caracter erskyn towse.",
+        "format": "Cha nel agh litreeyn beggey, uimhreyn, as dash (-). "
+      }
+    },
+    "loadingPortfolio": "Lhiattee coontey portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Maghrey mie",
+        "afternoon": "Fastyr mie",
+        "evening": "Fastyr mie",
+        "night": "Oie vie."
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Cretoor;",
+        "desc1": "Ta shin cur booise da'n board DevFolio. Ta'n portfolio ayd er ny yeeaghyn liorish",
+        "desc2": "p'agh. Cum obbraghey!",
+        "editPortfolio": "Reih Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Towse ny h-Ellanyn",
+        "projectViews": "Er ny yeeaghyn (Projekt)",
+        "activeSessions": "Session glan",
+        "totalLabel": "Toittal;"
+      },
+      "setup": {
+        "title": "Ard-soilshaghey",
+        "completed": "Ta dty phortfolio cliaghtey! 🎉",
+        "inProgress": "Steepyn gys y phortfolio perfect.",
+        "profile": {
+          "title": "Profile iommey",
+          "desc": "Cur rish ennym, bio as pictur profile."
+        },
+        "section": {
+          "title": "Cur Roinnyn rish",
+          "desc": "Activate 1 rannagh er-y-fa shen 'sy portfolio."
+        },
+        "project": {
+          "title": "Cur Projekt rish",
+          "desc": "Cur stiagh 1 jeh ny projectyn share ayd."
+        },
+        "publish": {
+          "title": "Foillshaghey Portfolio",
+          "desc": "Set URL custom son dy vod y phobble y gheddyn."
+        }
+      },
+      "topProjects": {
+        "title": "Projectyn ny s'popular",
+        "desc": "Yn obbyr t’ou uss jannoo ayns sooillyn ny h-ashoonyn.",
+        "viewAll": "Cur-my-ner Ooilley",
+        "empty": "Cha nel data view erbee er dty phrojekt foast."
+      }
+    },
+    "themes": {
+      "title": "Templateyn as Themeyn",
+      "subtitle": "Cur stiagh y scansh as y scansh jeh dty portfolio pobble.",
+      "reset": "Reset y stayd",
+      "save": "Save Caghlaaghyn",
+      "saving": "Sarvaant...",
+      "chooseTemplate": "Taght Template",
+      "primaryColor": "Daah Bun-Troggalys",
+      "typography": "Taitnys",
+      "appearance": "Appear",
+      "corners": "Corneryn & Cryssyn",
+      "successTitle": "Success",
+      "successMessage": "Roshtyn theme er nyn ghlenney dy mie",
+      "errorTitle": "Fault",
+      "errorMessage": "Failt dy scansh roshtyn theme",
+      "templates": {
+        "minimalist": {
+          "name": "Minimal",
+          "desc": "Design glan as simply t'er ny h-earroo er y t'ayn."
+        },
+        "developerDark": {
+          "name": "Dooghys y Chroo",
+          "desc": "Theme dorragh perfect son taishbyney stackyn code as tech."
+        },
+        "creative": {
+          "name": "Creeney",
+          "desc": "Layout beo as colouragh son ymmydeyryn as creativeyn."
+        },
+        "executive": {
+          "name": "Reeoil",
+          "desc": "Layout proffeshonail as foshlit son proffeshonalyn ghnoo."
+        },
+        "bentoGrid": {
+          "name": "Grid Bento",
+          "desc": "Layout grid style Apple noa-emshyragh ta cur soilshey er skillaghyn difrinagh dy h-effrey."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Bruteelys",
+          "desc": "Borderyn bold as colouryn contrast ard son look trendy, nagh vel ymmyd jeh."
+        },
+        "glassmorphism": {
+          "name": "Morfism glass",
+          "desc": "Effeityn glass frosted er gradients liauyr son UI sleek y traa t'ayn."
+        },
+        "linkInBio": {
+          "name": "Ceaghlagh ayns Bio",
+          "desc": "Cooishyn verticaal co-chruinnaghey er ny yannoo mie son screenyn mobyl as median sooshal."
+        }
+      },
+      "appearances": {
+        "light": "Soilshey",
+        "dark": "Dooghyssagh",
+        "system": "Sisteem"
+      },
+      "cornersOptions": {
+        "sharp": "Sharroo",
+        "rounded": "Rounnit",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Cur feedback",
+      "subtitle": "Cur cooney dooin dy yannoo eh ny share liorish cur stiagh mraane, ymmyd, ny ymmyd jeh bugs 'sy 'application' shoh.",
+      "categoryLabel": "Category y ghraih",
+      "messageLabel": "Mion-ghooishyn Teaghlagh",
+      "messagePlaceholder": "Insh dou ayns mishaghey mychione y feedback ta shiu er chur magh...",
+      "imageLabel": "Tashtey Image (Roghnagh)",
+      "imagePlaceholder": "Click er y screenshot",
+      "submitting": "Cur...",
+      "submitBtn": "Cur feedback",
+      "categories": {
+        "suggestion": "Moltaghtyn & Smooinaghtyn",
+        "bug": "Rapport Bug / Failtys",
+        "criticism": "Critic",
+        "other": "Elley"
+      },
+      "imageErrorTitle": "Fault",
+      "imageErrorMessage": "Ta cuid jeh'n coadanyn currit er-chea er-yn-oyr nagh vel ad jannoo ymmyd jeh formyn jalloo (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Success",
+      "successMessage": "Gow booise son dty choyrle! Ta'n rapport er ny choyrt.",
+      "submitErrorTitle": "Failt",
+      "submitErrorMessage": "Ta fault er jeet tra v'eh cur feedback. Feayrish reesht, my yeearree."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Mychione mee;",
+      "skills": "Scilleyn",
+      "projects": "Projektyn",
+      "workExperience": "Taitnys Oobagh",
+      "orgExperience": "Taitnys Eaynlagh",
+      "education": "Colleish Ellan Vannin son",
+      "certifications": "Training & Testimony",
+      "contact": "Cur-my-ner"
+    },
+    "editor": {
+      "profileInfo": "Fioghrey Profile",
+      "saving": "Sparrey...",
+      "profilePhoto": "Talloo Profile",
+      "clickToUpload": "Crig son cur seose (JPG, PNG)",
+      "fullName": "Ennym Lane;",
+      "fullNamePlaceholder": "m.s. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Forshaghder Fullstack lesh ymmyd son toggal apps web y traa t'ayn...",
+      "location": "Jalloo",
+      "locationPlaceholder": "m.s. ",
+      "gender": "Keintys",
+      "selectGender": "Taght Gynney",
+      "male": "Fyrryn",
+      "female": "Ferret",
+      "custom": "Bible",
+      "customPlaceholder": "Taip dty ghraih custom...",
+      "uploadCv": "Lught-thie CV",
+      "cvFormat": "(DOC ny PDF)",
+      "preview": "Roish-akin",
+      "remove": "Arraghey",
+      "clickToUploadCv": "Click er son PDF ny DOC y chur seose",
+      "sections": "Roinnyn",
+      "removeSelected": "Cur magh Reiht",
+      "confirmRemove": "Dearbhagh dy chur magh",
+      "addSection": "Cur rish Roinn",
+      "addAllSections": "Cur rish ooilley ny rannyn",
+      "noSections": "Cha nel rannagyn erbee foast",
+      "clickToAdd": "Click er \"+ Cur rish Roinn\" dy thoshiaght",
+      "selectAll": "Taght Ooilley",
+      "selected": "Reiht",
+      "dragToReorder": "Tarroogh dy ath-ordagh rannagyn",
+      "livePreview": "Roish-akin beo",
+      "addSectionsToBuild": "Cur rannagyn rish dy yannoo dty phortfolio",
+      "now": "Chelleeragh",
+      "current": "Jehynçhiarn",
+      "noExpiry": "Gyn jerrey",
+      "see": "Cur-my-ner",
+      "position": "Boayl",
+      "degree": "Chied",
+      "certification": "Testimony",
+      "sectionsForm": {
+        "about": {
+          "label": "Tushtal jeed hene",
+          "placeholder": "Insh dooin mychione dty hrooid hene, dty hrooid, dty hrooid as dty sgillyn..."
+        },
+        "skills": {
+          "addPlaceholder": "Screeu skill as baghey Enter..."
+        },
+        "projects": {
+          "title": "Ennym y phrojekt",
+          "titlePlaceholder": "Ennym y phrojekt...",
+          "url": "URL y phrojekt",
+          "description": "Coontey",
+          "descriptionPlaceholder": "Tushtal goaill stiagh y phrojekt...",
+          "uploadThumbnail": "Taishbyney y phrojekt",
+          "addProject": "Cur Projekt rish",
+          "projectNum": "Deam #",
+          "currentProject": "Ta'n phrojekt shoh ta mee obbraghey er"
+        },
+        "work": {
+          "company": "Coombaney/Bunnys",
+          "companyPlaceholder": "Ennym y chompaney...",
+          "position": "Sthie/Title",
+          "positionPlaceholder": "Dty stayd...",
+          "employmentType": "Sheeloghe obbyr;",
+          "location": "Jalloo",
+          "locationPlaceholder": "Cashtal, Cheer...",
+          "startDate": "Tosh",
+          "endDate": "Firework",
+          "currentWork": "Ta mee foast gobbragh ec y traa t'ayn.",
+          "description": "Coontey",
+          "descriptionPlaceholder": "Tushtal y job as freggyrtyssyn...",
+          "skills": "Aght",
+          "addExperience": "Cur rish Eaghtyras Oik",
+          "experienceNum": "Ennaghtyn #",
+          "dateError": "Cha vod y date jerrinagh ve ny s'trimmey na'n date toshiaght"
+        },
+        "org": {
+          "organization": "Ainm y Chorpane",
+          "orgPlaceholder": "Ollooscoill BEM...",
+          "role": "Rol/Post",
+          "rolePlaceholder": "Ceannard Rank...",
+          "addOrg": "Cur rish Eaghtyras Eaynlagh",
+          "orgNum": "Commyn #"
+        },
+        "edu": {
+          "institution": "Institiudyn Oik",
+          "institutionPlaceholder": "Ainm y campus ny y skool...",
+          "degree": "Cummee",
+          "degreePlaceholder": "S1, ard-schooil, as myr shen...",
+          "major": "Roinn/Raad Studeyrys",
+          "majorPlaceholder": "Injeneyrys Fiosree...",
+          "gpa": "GPA (roghnagh)",
+          "currentStudy": "Ta mee foast gynsaghey shoh",
+          "descriptionPlaceholder": "Ghleidyn as obbraghyn rish y studeyrys...",
+          "addEdu": "Cur Oidey rish",
+          "eduNum": "Colleish Ellan Vannin son #"
+        },
+        "cert": {
+          "name": "Ainm y Testimony / Training",
+          "namePlaceholder": "Ainm testimony...",
+          "issuer": "Foillsheyder",
+          "issuerPlaceholder": "Institiud foillshaghey...",
+          "issueDate": "Toshiaght (Date Foillshaghey)",
+          "issueDatePlaceholder": "Taght yn laa foillseaghey...",
+          "expiryDate": "Currit seose (Traaid Taitnyssagh)",
+          "expiryDatePlaceholder": "Taght yn laa jerrinagh...",
+          "noExpiry": "Cha nel date ymmyrchagh ec y testimony shoh",
+          "url": "URL credjue",
+          "uploadThumbnail": "Testimony / Image Training",
+          "uploadThumbnailLimit": "Lught-thie y skeeal testimony (JPG/PNG/WEBP, 2MB erskyn)",
+          "addCert": "Cur Testimony rish",
+          "certNum": "Testimony #"
+        },
+        "contact": {
+          "contactNum": "Cur-lhiat #",
+          "platform": "Lhied",
+          "displayText": "Taishbyney Text",
+          "displayTextPlaceholder": "m.s., uss@e-posht.com ny @ennym-chleayshagh",
+          "url": "Ceangley (URL)",
+          "urlPlaceholderWhatsapp": "m.s., 62812... (gyn 0 er y chione)",
+          "urlPlaceholderEmail": "m.s., uss@posht.com",
+          "urlPlaceholderWebsite": "m.s., https://...",
+          "urlPlaceholderDefault": "m.s., ennym ymmydeyr",
+          "addContact": "Cur rish"
+        },
+        "common": {
+          "months": {
+            "1": "Jerrey Geuree",
+            "2": "Chied vee jeh'n Arragh",
+            "3": "Mart",
+            "4": "Averil",
+            "5": "Fod",
+            "6": "Mean Souree",
+            "7": "Jerrey Souree",
+            "8": "Chied vee jeh'n Ouyr",
+            "9": "Mean Fouyir",
+            "10": "Jerrey Fouyir",
+            "11": "Mee Houney",
+            "12": "Mee ny Nollick"
+          },
+          "month": "Mee",
+          "year": "Blein",
+          "invalidDate": "Mish Derrey Neu-ghooghyssagh",
+          "words": "fockleyn"
+        }
+      },
+      "sure": "Shickyr",
+      "deletePhotoTitle": "Smooinee er Phooar Profile?",
+      "deletePhotoMessage": "Vel oo shickyr dy vel oo er n'eiyrt y skeeal-profile shoh?",
+      "cancel": "cur ass",
+      "delete": "Dolley magh"
+    },
+    "cropper": {
+      "chooseBackground": "Taght y cho-chowrey",
+      "cropPhoto": "Crop dty skeeal",
+      "useOriginal": "Cleaysh y chied",
+      "backgroundPresets": "Presets 'sy cho-choshrey",
+      "none": "Veg",
+      "uploadBackground": "Cur-my-ner",
+      "cancel": "cur ass",
+      "savePhoto": "Save y skeeal",
+      "zoom": "Zoom",
+      "rotationTilt": "Rowaghey & Tilt",
+      "resetRotation": "Reset gys 0°",
+      "center": "Mean",
+      "rotateLeft": "Roie -90°",
+      "rotateRight": "Roie +90°",
+      "removeBackground": "Cur magh y cho-chowrey",
+      "processing": "Ta mee jannoo ymmyd jeh dty ymmyd, cur-my-ner..."
+    },
+    "cvPreview": {
+      "title": "Roish-akin CV",
+      "downloadCv": "Lurg da'n CV",
+      "download": "Íoslódáil",
+      "wordCannotPreview": "Cha nel scriptyryn Word (.doc/.docx) ry-akin ayns y bhraar. ",
+      "downloadFile": "Lurg da Fail CV",
+      "back": "Reesht",
+      "mobileMessage": "Lurg da'n file CV y ​​scarrey son y ro-earroo.",
+      "preview": "Roish-akin CV",
+      "wordPreviewTitle": "Roish-akin Document Word",
+      "wordPreviewMessage": "Cha nel scriptyryn Word (.doc/.docx) ry-akin ayns y bhraar. Lurg da'n coadan y scarrey son y veeit."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Screeu screeuyn goaill stiagh mychione dty hene, ny taitnyssyn ayd, as ny h-obbraghyn ayd..."
+    },
+    "skills": {
+      "placeholder": "Screeu yn ennym skill...",
+      "add": "Cur er",
+      "enterToAdd": "Bring Enter dy chur rish",
+      "noSkills": "Cha nel skills er ny chur rish foast."
+    },
+    "projects": {
+      "projectName": "Ennym y phrojekt",
+      "projectNamePlaceholder": "m.s. ",
+      "projectUrl": "URL y phrojekt",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Mayrnaght",
+      "startMonth": "Mie Toshiaght",
+      "startYear": "Bleein Toshiaght",
+      "endMonth": "Jerrey yn Mhee",
+      "endYear": "Jerrey Bleein",
+      "currentlyWorking": "Ta mee gobbraghey er shoh",
+      "description": "Coontey",
+      "descriptionPlaceholder": "Screeu yn phrojekt, dty rol, as ny t'ou er n'yannoo...",
+      "technologies": "Tecnologyn Cleaynit",
+      "addProject": "Cur Projekt rish",
+      "image": "Taishbyney y phrojekt",
+      "removeImage": "Cur magh y skeeal",
+      "uploadImage": "Click er y skeeal"
+    },
+    "work": {
+      "company": "Coompaney/Institiud",
+      "companyPlaceholder": "Ennym y chompaney...",
+      "role": "Rol/Post",
+      "rolePlaceholder": "Dty stayd...",
+      "jobType": "Sheeloghe obbyr",
+      "selectJobType": "Tagh yn seihll",
+      "fullTime": "Lane-am",
+      "partTime": "Part-am;",
+      "contract": "Shirk",
+      "internship": "Inturnéis",
+      "freelance": "Seyr-leigh",
+      "location": "Jalloo",
+      "locationPlaceholder": "m.s. ",
+      "duration": "Mayrnaght",
+      "currentlyWorking": "Ta mee obbraghey ec y traa t'ayn",
+      "description": "Tushtal Oik",
+      "descriptionPlaceholder": "Screeu dty phreeu-obbraghyn as dty obbraghyn...",
+      "skills": "Skillaghyn Arragh",
+      "addExperience": "Cur rish Eash"
+    },
+    "org": {
+      "organization": "Ainm y Chorpane",
+      "organizationPlaceholder": "Ainm y chorpane...",
+      "role": "Rol/Post",
+      "rolePlaceholder": "m.s. ",
+      "duration": "Mayrnaght",
+      "periodFormat": "ny Fockle Saor (m.s. 2020 - 2022)",
+      "periodPlaceholder": "m.s. ",
+      "currentlyActive": "Glan ec y traa t'ayn",
+      "description": "Tushtal Ghreeish",
+      "descriptionPlaceholder": "Screeu dty obbraghyn ny dty chur-my-ner...",
+      "addExperience": "Cur rish Eash"
+    },
+    "education": {
+      "institution": "Ennym yn Institiud",
+      "institutionPlaceholder": "Ainm skool ny ollooscoill...",
+      "degree": "Class/Level",
+      "degreePlaceholder": "m.s. ",
+      "major": "Phooar/Raad Study",
+      "majorPlaceholder": "m.s. ",
+      "gpa": "GPA / Raad",
+      "gpaPlaceholder": "m.s. ",
+      "duration": "Traa yn Oidey",
+      "periodFormat": "ny Fockle Saor (m.s. 2018 - 2022)",
+      "periodPlaceholder": "m.s. ",
+      "currentlyStudying": "Ta mee jannoo studeyrys ec y traa t'ayn",
+      "description": "Ghreeaghyn / Onnor",
+      "descriptionPlaceholder": "Taishbyney obbraghyn academicagh, cooidjagh, ny onnoraghyn ta'd er gheddyn...",
+      "addEducation": "Cur Oidey rish"
+    },
+    "cert": {
+      "name": "Ainm Testimony",
+      "namePlaceholder": "m.s. ",
+      "issuer": "Bunnys cur magh",
+      "issuerPlaceholder": "m.s. ",
+      "issueDate": "Date Eisht",
+      "expiryDate": "Taitnyssagh gys",
+      "noExpiry": "Cha nel y credential shoh goll er-dy-henney",
+      "yearPlaceholder": "ny Bleean (m.s. 2023)",
+      "credentialUrl": "URL credjue",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Skillaghyn Co-cheangailt",
+      "addCertification": "Cur Testimony rish",
+      "image": "Deilt/Logo",
+      "removeImage": "Cur magh y skeeal",
+      "uploadImage": "Click er y skeeal"
+    },
+    "common": {
+      "months": {
+        "1": "Jerrey Geuree",
+        "2": "Chied vee jeh'n Arragh",
+        "3": "Mart",
+        "4": "Averil",
+        "5": "Fod",
+        "6": "Mean Souree",
+        "7": "Jerrey Souree",
+        "8": "Chied vee jeh'n Ouyr",
+        "9": "Mean Fouyir",
+        "10": "Jerrey Fouyir",
+        "11": "Mee Houney",
+        "12": "Mee ny Nollick"
+      },
+      "month": "Mee",
+      "year": "Blein",
+      "invalidDate": "Mish Derrey Neu-ghooghyssagh",
+      "words": "fockleyn"
+    }
+  },
+  "settings": {
+    "title": "Roishtyn",
+    "subtitle": "Riaghlagh dty phortfolio as ny roshtyn",
+    "tabs": {
+      "profile": "My phrofiil",
+      "security": "Lhiettal loghtyn",
+      "personalization": "Persoonagh"
+    },
+    "profile": {
+      "infoTitle": "Fiosree Bun-Troggalys",
+      "photo": "Talloo Profile",
+      "uploadPhoto": "Caghlaa yn skeeal",
+      "fullName": "Ennym Lane;",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Seoysey E-mail",
+      "emailPlaceholder": "Jhn@eisht.com",
+      "emailHelp": "Ta'n e-mail ry-chlashtyn son login as cha nel eh er ny hoilshaghey pobble.",
+      "portfolioUrl": "URL Phortfolio",
+      "saveProfile": "Sàrve Profiil",
+      "save": "Sarve Profiil",
+      "accountCreated": "Cuntagh er ny chroo",
+      "lastLogin": "Login diuish",
+      "oauthNotice": "Ta'n prowrey shoh kianglt rish dty choontey {{soilsheyder}}. Feme dy row ymmyd jeant jeh ymmyd y profile trooid y stiureyder seirveish."
+    },
+    "security": {
+      "changePassword": "Caghlaa fockle-hasht",
+      "currentPassword": "Fockle-faarkey nish",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Fockle-faarkey noa",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Dearbhagh fockle-faarkey noa",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "caracter er-y-fa shen",
+        "uppercase": "Un lieh-litrey mooar (A-Z)",
+        "number": "Un lieh (0-9)",
+        "symbol": "Un cowrey (!@#$%^&*)"
+      },
+      "passwordTitle": "Fockle yn arrey",
+      "updatePassword": "Cur fockle-faarkey",
+      "additionalSecurity": "Slaynt Elley",
+      "twoFactor": "Arraghey Daa-Factor (2FA)",
+      "twoFactorDesc": "Secure dty account lesh code OTP ymmyrchagh.",
+      "activeSessions": "Sessionyn glan",
+      "activeSessionsDesc": "Lesh y traa t'er n'gholl shaghey, lhig da ymmyd y yannoo jeh ymmyd logged-in.",
+      "publicVisibility": "Feeishtys Pobblagh",
+      "hideFromSearch": "Foddee Portfolio veih Injinyn Clasht",
+      "hideFromSearchDesc": "Cur stiagh Google veih indexaghey dty duillag portfolio pobble.",
+      "disable2fa": {
+        "title": "Cur 2FA er-shaghryn",
+        "description": "Ta shiu shickyr dy vel shiu er n'yannoo ymmyd jeh'n 'authentication' daa-factor?",
+        "confirmPasswordLabel": "Cur stiagh dty fockle-hasht dy charrey",
+        "currentPasswordPlaceholder": "Fockle-hasht nish",
+        "cancelButton": "Cur-my-ner",
+        "confirmButton": "Cur 2FA er-shaghryn",
+        "incorrectPassword": "Faarkey neu-ghooghyssagh."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scannee Cood QR",
+        "step1Desc": "Obey yn app ymmyrchagh as scaan y code QR shoh:",
+        "unableToScan": "Cha nel oo able dy scaan? Cleays y key reiht",
+        "step2Title": "2. Verify Code",
+        "step2Desc": "Cur stiagh y code 6-siffrey t'er ny chruinnaghey liorish dty app:",
+        "cancelButton": "cur ass",
+        "enableButton": "Cur 2FA er",
+        "invalidLength": "Cur stiagh code 6-siffrey.",
+        "invalidCode": "Code verify neu-ghlen. Feayrish reesht, my yeearree."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Smaghtaghyn Çhengey",
+      "appLanguage": "Caghlaa App",
+      "layoutTitle": "Cur-my-ner as Typography",
+      "layoutStyle": "Style Cur-my-ner",
+      "layoutModern": "Style Modern (Cur-my-ner)",
+      "layoutClassic": "Style Classicagh",
+      "layoutMinimalist": "Style Minimalistagh",
+      "fontSize": "Mean Font App",
+      "fontSmall": "Beg",
+      "fontNormal": "Normal (Mean)",
+      "fontLarge": "Mooadagh",
+      "searchLanguage": "Caghlaa ynsagh...",
+      "languageNotFound": "Cha nel Çhengey er ny gheddyn",
+      "layoutElegant": "Stiyl Elegant"
+    },
+    "saveChanges": "Save Caghlaaghyn",
+    "cancel": "cur ass",
+    "appSettings": "Soitçhyn App",
+    "logoutConfirmTitle": "Dearbhagh goll magh",
+    "logoutConfirmDesc": "Vel oo shickyr dy vel oo er n'eiyrt magh ass y system?",
+    "logoutConfirmYes": "Ta, Gow magh",
+    "generalError": "Ta foill er jeet. ",
+    "success": "Aighar",
+    "preferencesSaved": "Roshtyn app s'cosoylagh.",
+    "header": "Soilshaghyn ymmyd",
+    "logout": {
+      "title": "Dearbhagh Logout",
+      "message": "Vel oo shickyr dy vel oo er n'eiyrt magh ass y system?",
+      "confirm": "Ta, Gow magh"
+    },
+    "about": {
+      "title": "Mychione Irree magh",
+      "subtitle": "Platform Toiggal Portfolio",
+      "version": "Lhiaggan",
+      "description": "Ta DevFolio ny ard-chleaysh portfolio ry-hoi ry-hoi ry-hoi ry-hoi ry-hoi ry-hoi ry-hoi ry-hoi ry-hoi ry-hoi ry-hoi ry-hoi. ",
+      "license": "License & Cooidjagh",
+      "copyright": "© 2026 DevFolio Inc. Ta ooilley ny cooishyn ry-gheddyn.",
+      "developer": "Formagheyder",
+      "developedBy": "V'eh er ny h-oardaghey liorish Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Smooinee er Cuntagh dy bragh",
+      "menuItem": "Smooinee er Cuntagh",
+      "successTitle": "Success",
+      "successMessage": "Ta e-mail dy ghra dy vel y cuntait er ny choyrt.",
+      "errorTitle": "Failt",
+      "errorMessage": "Failleil dy chur e-mail deartagh.",
+      "confirmationMessage": "Vel oo shickyr dy vel oo er n'eiyrt dty account dy bragh?",
+      "warningMessage1": "Ghow oo email dy ghra dy vel y cuntoirt er ny scughey.",
+      "warningMessage2": "As t'eh er ny chowraghey, bee ooilley ny cooishyn (portfolio, prôjektyn, statistickyn) er nyn stroie dy bragh as cha vod ad ve er nyn stroie.",
+      "cancel": "Cur stiagh",
+      "confirm": "Dearbhagh"
+    },
+    "toasts": {
+      "toastError": "Neuchiartys",
+      "toastSuccess": "Aighar",
+      "toastSetup2FAFailed": "Failt 2FA y hroggal. Feayrish reesht, my yeearree.",
+      "toast2FAEnabled": "Ta ard-chraueeaght daa-factor er ny choyrt.",
+      "toast2FADisabled": "Ta'n aght-obbraghey daa-factor er ny ghleiy.",
+      "toastSessionEnabled": "Ta'n monitoring session glan currit da.",
+      "toastSessionDisabled": "Ta'n monitoring session glan er ny ghleiy.",
+      "toastSetupKeyCopied": "Ta'n 'setup' key coppit 'sy clipboard."
+    },
+    "privacy": {
+      "title": "Polysee Privacy",
+      "updateDate": "Cur-my-ner: 15 Jerrey Souree 2026",
+      "intro": "Ta'n Polycys Privacy shoh mharkey myr ta DevFolio coardail, ymmyd, as coadey dty fys pearsanta tra t'ou uss uss ar seirbaghyn.",
+      "section1Title": "1. Fiosree ta shin jannoo",
+      "section1Content": "Ta shin jannoo coardail rish fys ta shiu cur stiagh dy jeeragh tra ta shiu jannoo cuntait, jannoo portfolio, as jannoo cowraghyn rish nyn cooney. ",
+      "section2Title": "2. Cleaysh Fiosree",
+      "section2Content": "Ta dty fys ry-chlashtyn son obbraghey, ymmyd, as cur stiagh ymmyd jeh ny seirbaghyn ain, as myrgeddin son co-chowraghey rhyt mychione dty account ny dty seirbaghyn.",
+      "section3Title": "3. Slaynt Data",
+      "section3Content": "Ta shin cur stiagh aghtyn shleiy resonable dy choadey dty fys veih ymmyd, ymmyd, ny sniessey gyn aght."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token cowraghey cha nel eh er ny gheddyn.",
+    "defaultError": "Failt dy scughey y cuntoirt. Faag y token er-dy-henney.",
+    "loadingTitle": "Cur stiagh Cuntaid...",
+    "loadingMessage": "Feaysley, ta shin jannoo ymmyd jeh dty irriney.",
+    "successTitle": "Account er ny scughey dy mie",
+    "successMessage": "Ta ooilley ny cooishyn ayd er nyn stroie dy bragh. T'ou er ny h-arrey...",
+    "errorTitle": "Failt dy scughey yn count",
+    "backToHome": "Arraght gys Thie"
+  },
+  "forgotPassword": {
+    "minutes": "ny minnidyn",
+    "seconds": "secondyn",
+    "success": "Success",
+    "otpSentToEmail": "Ta code OTP er ny choyrt gys dty e-mail.",
+    "failed": "Failt",
+    "emailNotFound": "Cha nel email er ny gheddyn.",
+    "emailThirdParty": "Ta'n e-mail shoh clàrait trooid treeoo phersoon.",
+    "genericError": "Ta foill ayn. Feayrish reesht, my yeearree.",
+    "otpVerified": "Ta'n code OTP er ny verify.",
+    "otpExpired": "Ta'n code OTP er n'gholl ersooyl. Irree magh code noa.",
+    "otpInvalid": "Cood OTP neu-ghlen.",
+    "otpResent": "Ta code OTP noa er ny choyrt gys dty e-mail.",
+    "otpResendFailed": "Cha nel code OTP er ny choyrt reesht. Feayrish reesht, my yeearree.",
+    "passwordResetSuccess": "Reset y fockle-hasht. Loggey stiagh lesh dty fockle-hasht noa.",
+    "passwordResetFailed": "Failt rish y fockle-faarkey.",
+    "backToLogin": "Return gys Login",
+    "back": "Arree",
+    "title": "Ta mee er n'yannoo ymmyd jeh'n Faarkey",
+    "description": "Cur stiagh y seihll-e-posht clàrait er dty chuntey. Cur-my-ner code OTP dy reset y fockle-pass.",
+    "emailLabel": "Seoysey E-mail",
+    "sending": "Cur...",
+    "sendOtp": "Cur Cood OTP",
+    "verifyOtpTitle": "Verify Cood OTP",
+    "verifyOtpDesc": "Cur stiagh y code 6 digit ta er ny choyrt gys dty email dy charrey dty identity.",
+    "verifying": "Verify...",
+    "verifyOtp": "Verify OTP",
+    "resending": "Reih...",
+    "resendOtp": "Reih Cood OTP",
+    "resendCodeIn": "Resend y code ayns",
+    "newPasswordTitle": "Cree Password Noa",
+    "newPasswordDesc": "Cree fastee jeh'n aght t'ou uss ry-gheddyn.",
+    "newPasswordLabel": "Faarkey noa",
+    "min8Chars": "caracteryn 'sy lhong",
+    "oneUpperCase": "1 lioar mooar (A-Z)",
+    "oneNumber": "1 lhommey (0-9)",
+    "oneSymbol": "1 cowrey (!@#$%^&*)",
+    "confirmPasswordLabel": "Dearbhagh y Faarkey",
+    "passwordsDoNotMatch": "Cha nel ny focklyn-pass co-chosney.",
+    "resettingPassword": "Reset y Faarkey...",
+    "resetPassword": "Reset fockle-hasht"
+  },
+  "verifyEmail": {
+    "resendError": "Faill eh y email verify y chur reesht. Feayrish reesht, my yeearree.",
+    "checkingStatus": "Check stayd y verify...",
+    "title": "Check dty E-mail",
+    "description": "Ta shin er chur e-mail ymmyrchagh gys dty seihll e-mail. Fosley yn e-mail as cliaghtey er y botoon <1>\"Dearree Cuntagh\"</1> dy ghleiyn dty chuntae.",
+    "stepsTitle": "Step",
+    "step1": "Foshlit dty 'application' e-mail (Gmail, Yahoo, as myr shen)",
+    "step2": "Cur-my-ner email veih DevFolio lesh y theay \"Cur-my-ner\"",
+    "step3": "Clickyr er y botoon \"Cur-my-ner\" 'sy email",
+    "step4": "T'ou er ny stiurey gys y duillag login dy gholl stiagh",
+    "resendSuccess": "Ta'n e-mail verify er ny choyrt reesht!",
+    "resending": "Reih...",
+    "resendButton": "Reih Email Verify",
+    "backToLogin": "Return gys y Duillag Login",
+    "footerNote": "Nagh row yn e-mail er gheddyn? Shegin dhyt y <1>Spam</1> ny <2>Junk</2> y chowraghey ayns dty e-mail. Ta'n linney verify ry-gheddyn son <3>24 oor</3>."
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Alama",
+    "templates": "Awo-a",
+    "pricing": "Tamar",
+    "login": "Login",
+    "getStarted": "Badiyatə",
+    "title": "Folio"
+  },
+  "landing": {
+    "badge": "Fotfoliwo gartəma dareye fuwutəwuro",
+    "title1": "Nzundunǝm garne",
+    "title2": "fotfoliwo suro",
+    "titleHighlight": "seconds.",
+    "subtitle": "Abiso do ne nzundunzə-a, cidanzə-a, ilmunzə-a fəletəro məradəzəna. ",
+    "startBuilding": "Kǝrma dǝro Gar Badine",
+    "viewTemplates": "Awowa ruyi",
+    "fastDeployment": "Duwaro gǝnatǝ",
+    "liveStatus": "su faidatǝmaye.dev dǝ kǝnǝngatǝyin!",
+    "featuresTitle": "Siffawa Dunowa",
+    "featuresSubtitle": "Karewa cidabe samma do nyiro məradəzəna dəga cinyen, nyiye suro jamayen gadetə-a cida nyiye kənashinzə-a sədin.",
+    "feature1Title": "Gartəma gərtə-a koltə-a",
+    "feature1Desc": "Futu kəskelan nashawanəm-a, cidawanəm-a, nzunduwanəm-a dawarnəmin editornde turinlan.",
+    "feature2Title": "Mauduwuwa adabe",
+    "feature2Desc": "Templates do ne gonyi lan tətandəna lan karne au look kəlanzəye gade-gade tandə.",
+    "feature3Title": "Fifiltə loktu-zahirye",
+    "feature3Desc": "Kusotowanəmga zamtə, cidawa ndaso hangal gənatəgə-a, kuru awoa gade-a."
+  },
+  "auth": {
+    "welcomeBack": "Waltǝm karǝgǝ kǝji",
+    "loginToContinue": "Akawuntnǝmro gagǝ gowom kowom",
+    "createAccount": "Akawunt kunkunne",
+    "joinCommunity": "Fuwutəwu gade duwu kadaro kəltəgəne",
+    "fullName": "Su Kamma",
+    "fullNamePlaceholder": "misallo ",
+    "email": "Adǝres Emailbe",
+    "emailPlaceholder": "nyi@misallo.com",
+    "password": "Kalima ashirye",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Wuga takne",
+    "forgotPassword": "Lamba passwordbe njesǝna?",
+    "signIn": "Gayin",
+    "signingIn": "Gawo...",
+    "signUp": "Ruwotə",
+    "signingUp": "Musko yiko...",
+    "noAccount": "Akawuntnǝm bawo?",
+    "hasAccount": "Akawunt mbeji?",
+    "passwordRules": {
+      "title": "Lamba kurtəyedə suronzən mbeji:",
+      "length": "Gananzə yayi harawwa 8",
+      "uppercase": "Arawu kura fal (A-Z)",
+      "number": "Lamba fal (0-9)",
+      "symbol": "Alama fal (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Fotfoliwo Gartəma",
+      "templates": "Jadawa-a Mauduwuwa-a",
+      "settings": "Setin",
+      "collapse": "Bar shitibe wurtə",
+      "overview": "Samno",
+      "profileSettings": "Fasaldo Profailbe",
+      "customDomain": "Korkor adabe",
+      "feedback": "Jaawu"
+    },
+    "header": {
+      "viewLive": "Live lan wune",
+      "welcome": "Wushe kənshero,",
+      "logout": "Luwo",
+      "builder": "Gartǝma",
+      "livePortfolio": "Fotfoliwo Kǝnǝngatǝ",
+      "live": "Kəndagə"
+    },
+    "logoutModal": {
+      "title": "Luwo",
+      "message": "Tawadəro accountnəmlan suluwumiya raamma wa? ",
+      "cancel": "Dawartə",
+      "confirm": "Tawadǝ, Luwo"
+    },
+    "slugModal": {
+      "title": "URL Fotfoliwonǝmbe karne",
+      "message": "URL adə shima link gade-gade fotfoliwonzəbewo. ",
+      "slugPlaceholder": "su-nǝm",
+      "availability": "Nǝm mbeji:",
+      "available": "Mbeji",
+      "unavailable": "Tǝbandǝnyi",
+      "checking": "Kulastǝ...",
+      "mustFormat": "Suronzan arawuwa-a, lambawa-a, kuru dashes-a (-) bas mbeji",
+      "cancel": "Dawartə",
+      "save": "URL gǝnane",
+      "usernameUrl": "Su faidatǝmaye URL",
+      "helpText": "Aruwuwa sənana-a, lambawa-a, kuru dashes-a. ",
+      "validation": {
+        "empty": "Slug də dero waljin ba.",
+        "min3": "Gananzə yayi harawwa 3.",
+        "max30": "Ngǝwunzǝ alamawa 30.",
+        "format": "Aruwuwa sənana-a, lambawa-a, kuru dashes-a (-) bas. "
+      }
+    },
+    "loadingPortfolio": "Bayanna fotfoliwobe yiko...",
+    "overview": {
+      "greetings": {
+        "morning": "Nǝmngǝla",
+        "afternoon": "Kawudo",
+        "evening": "Kawudo",
+        "night": "Bǝne Kǝji"
+      },
+      "welcome": {
+        "hi": "Wushe,",
+        "creator": "Alaktəma",
+        "desc1": "Dashboard DevFoliobe dəro njilartəgə. Fotfoliwonǝmdǝ am",
+        "desc2": "kam. Cidadǝga gowom kowom!",
+        "editPortfolio": "Fotfoliwo Sasərne"
+      },
+      "stats": {
+        "totalVisitors": "Jumla Kusotowabe",
+        "projectViews": "Wutəna (Cida)",
+        "activeSessions": "Loktu Cidajin",
+        "totalLabel": "Jimla"
+      },
+      "setup": {
+        "title": "Fugǝtǝ Setupbe",
+        "completed": "Fotfoliwonǝmdǝ tamotǝna! 🎉",
+        "inProgress": "Katabwa fotfoliwo kamilro letəye.",
+        "profile": {
+          "title": "Profail tamotǝ",
+          "desc": "Su-a, bio-a kuru foto-a yira."
+        },
+        "section": {
+          "title": "Sashi yira",
+          "desc": "Gananzə yayi nasha 1 suro fotfoliwodəyen cidazə."
+        },
+        "project": {
+          "title": "Cida yira",
+          "desc": "Gananzə yayi cidanzə ngəla 1 yike."
+        },
+        "publish": {
+          "title": "Fotfoliwo bakne",
+          "desc": "URL customizedbe dəga yita gattəyin futu amsoye sha fanzayinro."
+        }
+      },
+      "topProjects": {
+        "title": "Cidawa Nowata",
+        "desc": "Cidanzə diwodə shim am kusotoben.",
+        "viewAll": "Samma ruyi",
+        "empty": "Kuwamiyayi bayanna cidanzəye kurube bawo."
+      }
+    },
+    "themes": {
+      "title": "Jazawa & Mauduwuwa",
+      "subtitle": "Fotfoliwonǝm jama meube-a kuru fandonzǝ-a falne.",
+      "reset": "Waltǝm gǝnatǝ",
+      "save": "Faltəwa gənatə",
+      "saving": "Gənatə...",
+      "chooseTemplate": "Template kartǝ",
+      "primaryColor": "Launu Buraye",
+      "typography": "Ruwo ruwobe",
+      "appearance": "Zahirro",
+      "corners": "Kona & Kalangai",
+      "successTitle": "Kǝnasar",
+      "successMessage": "Mauduwu kərawobedə kənasarro bəlintəgəna",
+      "errorTitle": "Talla",
+      "errorMessage": "Theme rawowa gənatəro terəna",
+      "templates": {
+        "minimalist": {
+          "name": "Ganama",
+          "desc": "Zaye kadawu-a kəske-a awo surodən dagənaro hangal gənazəyin."
+        },
+        "developerDark": {
+          "name": "Fuwutəma Dark",
+          "desc": "Mauduwu sələmdə code-a nzundu-a fəletəro kalkal."
+        },
+        "creative": {
+          "name": "Kulashi",
+          "desc": "Fasal shawa-a launu-a kurtamaso-a nzunduwu-aro."
+        },
+        "executive": {
+          "name": "Kura",
+          "desc": "Fasal cidabe-a kuru cidabe-a maskuwa kasuwube nankaro."
+        },
+        "bentoGrid": {
+          "name": "Bento ye",
+          "desc": "Fasal grid Applebe zamanbe duwo nzunduwa gade-gade kalkalro fǝlejin."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Bǝlin",
+          "desc": "Kalangaiyya ngəla-a launuwa gade-gade-adə zamanne, awo kəji fantəbaro turin."
+        },
+        "glassmorphism": {
+          "name": "Morfism glassbe",
+          "desc": "Frosted glassdə kəla gradients launu kadaben UI zamanbe shawa."
+        },
+        "linkInBio": {
+          "name": "Link suro Bioben",
+          "desc": "Fasal daata gədi screen mobayilbe-a zanderam jamabe-aro ngalwotəgəna."
+        }
+      },
+      "appearances": {
+        "light": "Nur",
+        "dark": "Sǝlǝm",
+        "system": "Nizam"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Kuruwu",
+        "pill": "Kurunna"
+      }
+    },
+    "feedback": {
+      "title": "Jaawuwa Zutə",
+      "subtitle": "Banazə andega ngalwozəgə shawari-a, bastə-a, au kuliwa kəla manhaja adəben rifottə-a men.",
+      "categoryLabel": "Jaza Jazabe",
+      "messageLabel": "Bayanna Kawulibe",
+      "messagePlaceholder": "Bayan kəzəkkə kəla jaawuwa yitagattəgəyen...",
+      "imageLabel": "Sura Nzəkko (Karno)",
+      "imagePlaceholder": "Sura au screenshot upload diwo nankaro",
+      "submitting": "Zutə...",
+      "submitBtn": "Jaawuwa Zutə",
+      "categories": {
+        "suggestion": "Shawariwa & Raayiwa",
+        "bug": "Bug / Hawar Tallabe",
+        "criticism": "Bastə",
+        "other": "Gadeso"
+      },
+      "imageErrorTitle": "Talla",
+      "imageErrorMessage": "Fayilwa laadə sandiya təmowonyi dalil fotowa (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Kǝnasar",
+      "successMessage": "Askǝrǝna kǝla jaawuwanǝmben! Hawar tǝdǝna.",
+      "submitErrorTitle": "Failtəna",
+      "submitErrorMessage": "Taltǝ wagǝzǝna loktu jaawuwa zutǝyen. Martǝne waltǝ jarabne."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Kǝla wuben",
+      "skills": "Nzunduwa",
+      "projects": "Cidawa",
+      "workExperience": "Ilmu Cidabe",
+      "orgExperience": "Ilmu karafkabe",
+      "education": "Ilmu",
+      "certifications": "Allamtə-a Shada-a",
+      "contact": "Wuga notə"
+    },
+    "editor": {
+      "profileInfo": "Bayan kəla kamye",
+      "saving": "Gənatə...",
+      "profilePhoto": "Foto kǝlanzǝbe",
+      "clickToUpload": "Ratne (JPG, PNG)",
+      "fullName": "Su Kamma",
+      "fullNamePlaceholder": "misallo ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fuwutəma Fullstackbe shidoni shawa manhaja zamanbe gartəbe...",
+      "location": "Na",
+      "locationPlaceholder": "misallo ",
+      "gender": "Jinsu",
+      "selectGender": "Jinsi karne",
+      "male": "Konga",
+      "female": "Kamu",
+      "custom": "Ada",
+      "customPlaceholder": "Jinsinǝm adabe ruwone...",
+      "uploadCv": "CV yike",
+      "cvFormat": "(DOC au PDF)",
+      "preview": "Wutǝram",
+      "remove": "Gotə",
+      "clickToUploadCv": "PDF au DOC upload diwo nankaro ratne",
+      "sections": "Sashi",
+      "removeSelected": "Kartənadə tutuluwuna",
+      "confirmRemove": "Tawattəgə Tutuluwu",
+      "addSection": "Nasha yira",
+      "addAllSections": "Nasha samma yira",
+      "noSections": "Kuwa yayi dalami ba",
+      "clickToAdd": "\"+ Nasha Nzəra\" dəga ratne baditəro",
+      "selectAll": "Samma karne",
+      "selected": "Kartǝna",
+      "dragToReorder": "Sashi-a waltǝm tartiptǝro gǝrne",
+      "livePreview": "Dareram lan kuru",
+      "addSectionsToBuild": "Fotfoliwonəm gartəro dalami-a yira",
+      "now": "Kərma",
+      "current": "Kərma",
+      "noExpiry": "Datəgəram Ba",
+      "see": "Rui",
+      "position": "Daraja",
+      "degree": "Dəgəri",
+      "certification": "Shada",
+      "sectionsForm": {
+        "about": {
+          "label": "Bayan kǝlanǝmbe",
+          "placeholder": "Kǝlanǝmma andero gulle, ngawarnǝmma, awowa sǝragǝna-a kuru nzundunǝmma..."
+        },
+        "skills": {
+          "addPlaceholder": "Nzundu ruwotə daji Enter dəga ratne..."
+        },
+        "projects": {
+          "title": "Su Cidaye",
+          "titlePlaceholder": "Su cidabe...",
+          "url": "URL cidabe",
+          "description": "Bayentə",
+          "descriptionPlaceholder": "Bayan kasarrata kəla cidadəben...",
+          "uploadThumbnail": "Foto Cidaye",
+          "addProject": "Cida yira",
+          "projectNum": "Cida #",
+          "currentProject": "Adǝ cida duwo kǝlanzǝn cidayinma"
+        },
+        "work": {
+          "company": "Kamfani/Cidaram",
+          "companyPlaceholder": "Su kamfanibe...",
+          "position": "Daraja/Ka'ala",
+          "positionPlaceholder": "Nashanǝm...",
+          "employmentType": "Jili cidabe",
+          "location": "Na",
+          "locationPlaceholder": "Bərni, Lardə...",
+          "startDate": "Baditə",
+          "endDate": "Dazəna",
+          "currentWork": "Kuwa yayi cidayin",
+          "description": "Bayentə",
+          "descriptionPlaceholder": "Bayan cidabe-a hakkuwa-a...",
+          "skills": "Nzundu",
+          "addExperience": "Ilmu cidabe yira",
+          "experienceNum": "Notə #",
+          "dateError": "Tanggal selesai tidak boleh lebih awal dari tanggal mulai"
+        },
+        "org": {
+          "organization": "Su Karapkabe",
+          "orgPlaceholder": "Jamiya BEM...",
+          "role": "Faida/Nasha",
+          "rolePlaceholder": "Fuwuma yaktəbe...",
+          "addOrg": "Ilmu cidaramye yira",
+          "orgNum": "Jamiya #"
+        },
+        "edu": {
+          "institution": "Mowontiya Ilmube",
+          "institutionPlaceholder": "Su mowontibe au mowontibe...",
+          "degree": "Kaala",
+          "degreePlaceholder": "S1, mowonti kura, gadeso...",
+          "major": "Fasal/Fanno Kǝrabe",
+          "majorPlaceholder": "Ilmu nzundu hawarbe...",
+          "gpa": "GPA (karno)",
+          "currentStudy": "Kuwa yayi na allan kəlin",
+          "descriptionPlaceholder": "Cidawa-a kuru awowa təbandəna-a loktu kəraben...",
+          "addEdu": "Ilmu yira",
+          "eduNum": "Ilmu #"
+        },
+        "cert": {
+          "name": "Su Shadaye / Allamtəye",
+          "namePlaceholder": "Su shadabe...",
+          "issuer": "Baktəma",
+          "issuerPlaceholder": "Cidaram baktəye...",
+          "issueDate": "Badiyaram (Kawu Luktəye)",
+          "issueDatePlaceholder": "Loktu baktəye karne...",
+          "expiryDate": "Tamattǝna (Loktu Batti)",
+          "expiryDatePlaceholder": "Loktu datəye karne...",
+          "noExpiry": "Shada adə loktu datəgəramzə ba",
+          "url": "URL shaidabe",
+          "uploadThumbnail": "Shada / Sura Allamtəbe",
+          "uploadThumbnailLimit": "Foto kakkadǝ shadabe yike (JPG/PNG/WEBP, ngǝwunzǝ 2MB)",
+          "addCert": "Shada yira",
+          "certNum": "Shada #"
+        },
+        "contact": {
+          "contactNum": "Manatəgə #",
+          "platform": "Faraskəram",
+          "displayText": "Ruwo Fǝletǝ",
+          "displayTextPlaceholder": "misallo, nyi@email.com au @su faidatǝmaye",
+          "url": "Kǝltǝram (URL)",
+          "urlPlaceholderWhatsapp": "misallo, 62812... (fuwutə baro 0)",
+          "urlPlaceholderEmail": "misallo, nyi@email.com",
+          "urlPlaceholderWebsite": "misallo, https://...",
+          "urlPlaceholderDefault": "misallo, su faidatǝmaye",
+          "addContact": "Nǝmkam kǝltǝ"
+        },
+        "common": {
+          "months": {
+            "1": "Janairu",
+            "2": "Feburare",
+            "3": "Maris",
+            "4": "Afəril",
+            "5": "Waneye",
+            "6": "Yuni",
+            "7": "Yuli",
+            "8": "Agusta",
+            "9": "Septemba",
+            "10": "Oktoba",
+            "11": "Nobemba",
+            "12": "Disemba"
+          },
+          "month": "Kəntagə",
+          "year": "Saa",
+          "invalidDate": "Kǝntawu Dareram Batti",
+          "words": "kalimawa"
+        }
+      },
+      "sure": "Tawadə",
+      "deletePhotoTitle": "Foto Profailbe Cinne?",
+      "deletePhotoMessage": "Tawadəro foto adəga cintəro raamma wa?",
+      "cancel": "Dawartə",
+      "delete": "Cintə"
+    },
+    "cropper": {
+      "chooseBackground": "Ngaworam karne",
+      "cropPhoto": "Fotonǝm Kamne",
+      "useOriginal": "Asl faidatǝne",
+      "backgroundPresets": "Ngaworam Presets",
+      "none": "Ba",
+      "uploadBackground": "Ngaworam Uploadbe",
+      "cancel": "Dawartə",
+      "savePhoto": "Foto Gǝne",
+      "zoom": "Zoom",
+      "rotationTilt": "Kokortǝ-a kuru Tilt-a",
+      "resetRotation": "Waltəm 0° ro kalaktə",
+      "center": "Dawu",
+      "rotateLeft": "Kokortǝ -90°",
+      "rotateRight": "Kokortǝ +90°",
+      "removeBackground": "Ngaworam Tutuluwuna",
+      "processing": "Fotonǝmma sasərnǝmin, martǝne jene..."
+    },
+    "cvPreview": {
+      "title": "CV wutə",
+      "downloadCv": "CV Sagǝne",
+      "download": "Sawo",
+      "wordCannotPreview": "Kakkadiya kalmabe (.doc/.docx) də raktə suro browserben asutinba. ",
+      "downloadFile": "Fayil CVbe Sagǝne",
+      "back": "Ngawo",
+      "mobileMessage": "Martəgəne CV file dəga download diwo lan.",
+      "preview": "CV wutəye",
+      "wordPreviewTitle": "Kakkadǝ Wordbe",
+      "wordPreviewMessage": "Kakkadiya kalmabe (.doc/.docx) də raktə suro browserben turinba. Martəgəne faildəga sakə kururo."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Bayan ganalagǝ kǝla kǝlanǝmben ruwone, awo-a sǝragǝna-a, kuru awo-a cidaro nganzanǝma-a..."
+    },
+    "skills": {
+      "placeholder": "Su nzundube ruwotə...",
+      "add": "Saptə",
+      "enterToAdd": "Enter lan ratne yira nankaro",
+      "noSkills": "Kuwa yayi nzundu kəltənyi."
+    },
+    "projects": {
+      "projectName": "Su Cidaye",
+      "projectNamePlaceholder": "misallo ",
+      "projectUrl": "URL cidabe",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Zaman",
+      "startMonth": "Kǝntawu Badiyaram",
+      "startYear": "Saa Badiyaram",
+      "endMonth": "Kǝntawu Dareram",
+      "endYear": "Saa Dareram",
+      "currentlyWorking": "Kǝrmagǝro kǝla adǝben cidajin",
+      "description": "Bayentə",
+      "descriptionPlaceholder": "Cidadə-a, cidanəm-a, kuru kənasarnəm-a bayanne...",
+      "technologies": "Nzunduwa Faidatǝna",
+      "addProject": "Cida yira",
+      "image": "Foto Cidabe",
+      "removeImage": "Suradə tuluwuye",
+      "uploadImage": "Foto upload diwo nankaro ratne"
+    },
+    "work": {
+      "company": "Kamfani/Cidaram",
+      "companyPlaceholder": "Su kamfanibe...",
+      "role": "Faida/Nasha",
+      "rolePlaceholder": "Nashanǝm...",
+      "jobType": "Jili Cidabe",
+      "selectJobType": "Jili karne",
+      "fullTime": "Loktu-samma",
+      "partTime": "Loktu-gana",
+      "contract": "Gondu",
+      "internship": "Allamtə",
+      "freelance": "Cida kǝlanzǝn",
+      "location": "Na",
+      "locationPlaceholder": "misallo ",
+      "duration": "Zaman",
+      "currentlyWorking": "Kǝrma dǝro na allan cidajin",
+      "description": "Bayan cidabe",
+      "descriptionPlaceholder": "Cidawanǝm kura-a kuru kǝnasarnǝm-a bayanne...",
+      "skills": "Nzunduwa taganasbe",
+      "addExperience": "Ilmu yira"
+    },
+    "org": {
+      "organization": "Su Karapkabe",
+      "organizationPlaceholder": "Su karafkabe...",
+      "role": "Faida/Nasha",
+      "rolePlaceholder": "misallo ",
+      "duration": "Zaman",
+      "periodFormat": "au tartip kəlanzəlaro (misallo 2020 - 2022)",
+      "periodPlaceholder": "misallo ",
+      "currentlyActive": "Kǝrmagǝro cidajin",
+      "description": "Bayan cidabe",
+      "descriptionPlaceholder": "Cidawanǝmma au bananǝmma bayanne...",
+      "addExperience": "Ilmu yira"
+    },
+    "education": {
+      "institution": "Su cidaram",
+      "institutionPlaceholder": "Su mowontibe au jaamiyabe...",
+      "degree": "Digiri/Daraja",
+      "degreePlaceholder": "misallo ",
+      "major": "Fannu Kǝrabe Kura",
+      "majorPlaceholder": "misallo ",
+      "gpa": "GPA / Daraja",
+      "gpaPlaceholder": "misallo ",
+      "duration": "Loktu Ilmuye",
+      "periodFormat": "au tartip kəlanzəlaro (misallo 2018 - 2022)",
+      "periodPlaceholder": "misallo ",
+      "currentlyStudying": "Kǝrmagǝro nanka kǝrajin",
+      "description": "Cidawa / Daraja",
+      "descriptionPlaceholder": "Cidawa ilmube-a, karafkawa-a, au darajaa təbandəna-a bayantə...",
+      "addEducation": "Ilmu yira"
+    },
+    "cert": {
+      "name": "Su shadaye",
+      "namePlaceholder": "misallo ",
+      "issuer": "Karapka Issuing",
+      "issuerPlaceholder": "misallo ",
+      "issueDate": "Loktu Lamarrabe",
+      "expiryDate": "Sambisoro faidajin",
+      "noExpiry": "Shada adə dajinba",
+      "yearPlaceholder": "au Saa (misallo 2023)",
+      "credentialUrl": "URL shaidabe",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Nzunduwa samǝn",
+      "addCertification": "Shada yira",
+      "image": "Sura/Alama",
+      "removeImage": "Suradə tuluwuye",
+      "uploadImage": "Foto upload diwo nankaro ratne"
+    },
+    "common": {
+      "months": {
+        "1": "Janairu",
+        "2": "Feburare",
+        "3": "Maris",
+        "4": "Afəril",
+        "5": "Waneye",
+        "6": "Yuni",
+        "7": "Yuli",
+        "8": "Agusta",
+        "9": "Septemba",
+        "10": "Oktoba",
+        "11": "Nobemba",
+        "12": "Disemba"
+      },
+      "month": "Kəntagə",
+      "year": "Saa",
+      "invalidDate": "Kǝntawu Dareram Batti",
+      "words": "kalimawa"
+    }
+  },
+  "settings": {
+    "title": "Setin",
+    "subtitle": "Fasal fotfoliwonǝmbe-a kuru awo kǝragǝnǝmma-a cisǝgǝne",
+    "tabs": {
+      "profile": "Fasalnyi",
+      "security": "Nzəliwo",
+      "personalization": "Kammaro kalaktə"
+    },
+    "profile": {
+      "infoTitle": "Bayan Fǝrǝmtǝ",
+      "photo": "Foto kǝlanzǝbe",
+      "uploadPhoto": "Foto faltə",
+      "fullName": "Su Kamma",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adǝres Emailbe",
+      "emailPlaceholder": "John@misallo.com",
+      "emailHelp": "Email də faidatin login ro kuru jama mewu soro fəletin ba.",
+      "portfolioUrl": "Fotfoliwo URL",
+      "saveProfile": "Profail Gǝne",
+      "save": "Profail Gǝne",
+      "accountCreated": "Akawunt tǝtandǝna",
+      "lastLogin": "Login Dareye",
+      "oauthNotice": "Profail adə akawuntnəm {{provider}}'a kəllata. Profile faltədə mburo walzəna futu cidawudəyen tədin."
+    },
+    "security": {
+      "changePassword": "Lamba kurtəbe faltə",
+      "currentPassword": "Lamba kurtəbe kərmabe",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Lamba kurtəye bəlin",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Lamba kurtəye bəlin tawatkəgəne",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "Gananzə yayi harawwa 8",
+        "uppercase": "Arawu kura fal (A-Z)",
+        "number": "Lamba fal (0-9)",
+        "symbol": "Alama fal (!@#$%^&*)"
+      },
+      "passwordTitle": "Kalima ashirye",
+      "updatePassword": "Lamba passwordbe bǝlingǝne",
+      "additionalSecurity": "Nzəliwo Nzəra",
+      "twoFactor": "Dalil-Indi Tawattəgə (2FA)",
+      "twoFactorDesc": "Account nzəga ​​nzəliwo OTP code gade faidatəlan.",
+      "activeSessions": "Loktu Cidajin",
+      "activeSessionsDesc": "Sabisoro kolzə naurawa logged-inbedəga wutə.",
+      "publicVisibility": "Jamiye Turin",
+      "hideFromSearch": "Fotfoliwodə Injin Kulashiyen gərane",
+      "hideFromSearchDesc": "Googlega dapne warak fotfoliwonǝmbe jama mewubero fǝletagǝro.",
+      "disable2fa": {
+        "title": "2FA dəga dabtə",
+        "description": "Tawadəro tawattəgə dalilla indibedəga təmtəgə raamma wa?",
+        "confirmPasswordLabel": "Passwordnǝm yike tawattǝgǝro",
+        "currentPasswordPlaceholder": "Lamba kullebe kǝrmabe",
+        "cancelButton": "Daptə",
+        "confirmButton": "2FA dəga dabtə",
+        "incorrectPassword": "Password kalkal gǝnyi."
+      },
+      "setup2fa": {
+        "step1Title": "1. Lamba QRbe scanne",
+        "step1Desc": "Manhaja tawattǝgǝyedǝ kagǝne kuru lamba QRbe adǝga scanne:",
+        "unableToScan": "Raksǝ scan dimin ba? Suwuram setupbe faidatǝne",
+        "step2Title": "2. Lamba Tawattəgə",
+        "step2Desc": "Lamba arawu-6 appnəmye sətandənadə yike:",
+        "cancelButton": "Dawartə",
+        "enableButton": "2FA yitagattəgə",
+        "invalidLength": "Martəgəne lamba arawu-6 yike.",
+        "invalidCode": "Lamba tawattǝgǝbe batti. Martǝne waltǝ jarabne."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Təlamma Noto",
+      "appLanguage": "Təlam Appbe",
+      "layoutTitle": "Fasal-a Ruwo-a",
+      "layoutStyle": "Fasal Layoutbe",
+      "layoutModern": "Fasal Zamanbe (Ngǝlaro)",
+      "layoutClassic": "Fasal Kureye",
+      "layoutMinimalist": "Fasal ganama",
+      "fontSize": "Nǝmkura Font Appbe",
+      "fontSmall": "Gana",
+      "fontNormal": "Normal (Dawudawu)",
+      "fontLarge": "Kura",
+      "searchLanguage": "Təlam kulasne...",
+      "languageNotFound": "Təlam təbandənyi",
+      "layoutElegant": "Fasal Zaye"
+    },
+    "saveChanges": "Faltəwa gənane",
+    "cancel": "Dawartə",
+    "appSettings": "Setin Appbe",
+    "logoutConfirmTitle": "Luwo tawatkəgəne",
+    "logoutConfirmDesc": "Tawadəro suro systemben suluwinna?",
+    "logoutConfirmYes": "Tawadǝ, Luwo",
+    "generalError": "Taltǝ wagǝzǝna. ",
+    "success": "Kənasar",
+    "preferencesSaved": "App ragǝmadǝ kǝnasartǝnaro gǝnaata.",
+    "header": "Setinwa manhajabe",
+    "logout": {
+      "title": "Luwo Tawattəgə",
+      "message": "Tawadəro suro systemben suluwinna?",
+      "confirm": "Tawadǝ, Luwo"
+    },
+    "about": {
+      "title": "Kǝla Manhajaben",
+      "subtitle": "Fasal Fotfoliwo Gartəma",
+      "version": "Jilidə",
+      "description": "DevFoliodə faraskəram fotfoliwo gartəma zamanbe shiga am fuwutəwu-a, kurtamaso-a, kuru maskuwa tandomaso-aro dawarratə. ",
+      "license": "Lasin-a Hakku-a",
+      "copyright": "Hakku samma gənatəna.",
+      "developer": "Fuwutǝma",
+      "developedBy": "Rifqi Naradata shima fuwuzəgə"
+    },
+    "deleteAccount": {
+      "title": "Account dəga abadanro cin",
+      "menuItem": "Account dəga cin",
+      "successTitle": "Kǝnasar",
+      "successMessage": "Email account cintəye tawattəgəye zutəna.",
+      "errorTitle": "Failtəna",
+      "errorMessage": "Email tawattəgəye zutəro terəna.",
+      "confirmationMessage": "Tawadəro accountnəm dəga abadanro cintəro raamma wa?",
+      "warningMessage1": "Email fandimin account dəga cintəro tawattəgəro.",
+      "warningMessage2": "Tawattǝgǝro waljiya, bayanna sammaso (fotfoliwo, cidawa, isawu) abadanro cintǝyin kuru waltǝm tuwondinba.",
+      "cancel": "Daji",
+      "confirm": "Tawattəgə"
+    },
+    "toasts": {
+      "toastError": "Tare",
+      "toastSuccess": "Kənasar",
+      "toastSetup2FAFailed": "2FA setup diwolan teyero. Martǝne waltǝ jarabne.",
+      "toast2FAEnabled": "Tawattǝgǝ dalilla-indibe tǝdǝna.",
+      "toast2FADisabled": "Tawattəgə dalilla indiyedə lezənyi.",
+      "toastSessionEnabled": "Loktu cidabe kəla wutəyedə yitagattəgəna.",
+      "toastSessionDisabled": "Loktu cidabe kəlaro wutəyedə lezənyi.",
+      "toastSetupKeyCopied": "Suwuram setupbedə clipboardro kowotə."
+    },
+    "privacy": {
+      "title": "Letəgəram Sirribe",
+      "updateDate": "Dareramro bǝlingǝna: kǝntawu Yuliben kawunzǝ 15, sagǝ 2026",
+      "intro": "Shi Privacy Policy adəye futu DevFolio ye bayan kəlanzəye sabcin, faidatin, kuru nzəliwojin loktu cidawande faidatin lan.",
+      "section1Title": "1. Bayan do andeye mowonyiyen",
+      "section1Content": "Bayan nyiye da’ataro yiwoye mowoyen loktu account katəyen, fotfoliwo gartəyen, kuru banande’a kəltəyen. ",
+      "section2Title": "2. Hawar faidatǝ",
+      "section2Content": "Bayannəm faidatə cidawandeye cidatə-a, nzəliwo-a, kuru awowa cidawandeye yiwo-a, kuru nyiro accountnəm au cidawandeye fantəgəro.",
+      "section3Title": "3. Nzəliwo Bayannabe",
+      "section3Content": "Andeye kataffa nzəliwobe ngəla-ngəla-a faidatiye bayannanəmga hukumamen faidatə-a, bayanna-a, au banna-aro nzəliwo nankaro."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Alama tawattəgəbe təbandənyi.",
+    "defaultError": "Account dəga cintəro teyero. Token də waneye zamanzə dawono.",
+    "loadingTitle": "Account dəga cintə...",
+    "loadingMessage": "Martǝne jene, andeye awo nyiye mǝradǝnǝma dǝga sadǝnyiyen.",
+    "successTitle": "Account Zauro Kǝnasartǝna",
+    "successMessage": "Bayannanǝm sammaso abadanro cintǝgǝna. Shiga waltǝm gǝrzayin...",
+    "errorTitle": "Account dəga cintəro terəna",
+    "backToHome": "Fatoro waltǝ"
+  },
+  "forgotPassword": {
+    "minutes": "minitwa",
+    "seconds": "sekondi",
+    "success": "Kǝnasar",
+    "otpSentToEmail": "OTP code email lan zuwatəna.",
+    "failed": "Failtəna",
+    "emailNotFound": "Email tǝbandǝnyi.",
+    "emailThirdParty": "Email adə kam gademen rajista tədin.",
+    "genericError": "Taltǝ mbeji. Martǝne waltǝ jarabne.",
+    "otpVerified": "OTP code də kənasarro tawattəgəna.",
+    "otpExpired": "Lamba OTP ye də dawono. Martəgəne code bəlin matə.",
+    "otpInvalid": "Lamba OTPbe batti.",
+    "otpResent": "OTP code bəlin email nanzəro zutəna.",
+    "otpResendFailed": "OTP code waltəm zutəro terəna. Martǝne waltǝ jarabne.",
+    "passwordResetSuccess": "Passworddǝ waltǝm kǝnasartǝna. Martəgəne passwordnəm bəlinlan gayin.",
+    "passwordResetFailed": "Password waltəm yasaro teyero.",
+    "backToLogin": "Waltə Login ro",
+    "back": "Ngawo",
+    "title": "Password njesǝna",
+    "description": "Address emailbe do accountnǝmlan rajista tǝdǝnadǝ yike. Andeye OTP code zuzayin password dəga waltəm yasayin.",
+    "emailLabel": "Adǝres Emailbe",
+    "sending": "Zutə...",
+    "sendOtp": "Lamba OTP ye zutə",
+    "verifyOtpTitle": "Lamba OTPbe tawattəgə",
+    "verifyOtpDesc": "Lamba arawu 6 do email lan zutəna dəga yike asutəramnəm tawattəgəro.",
+    "verifying": "Tawattəgə...",
+    "verifyOtp": "OTP tawattəgə",
+    "resending": "Waltəm zutə...",
+    "resendOtp": "Lamba OTP ye waltə zutə",
+    "resendCodeIn": "Waltə code dəga suro",
+    "newPasswordTitle": "Password Bǝlin Tando",
+    "newPasswordDesc": "Password bəlin, duno'a tandə accountnəm nzəliwo nankaro.",
+    "newPasswordLabel": "Lamba Passbe Bǝlin",
+    "min8Chars": "Gananzə yayi harawwa 8",
+    "oneUpperCase": "1 arawu kura (A-Z)",
+    "oneNumber": "Lamba 1 (0-9)",
+    "oneSymbol": "Alama 1 (!@#$%^&*)",
+    "confirmPasswordLabel": "Lamba Passbe Tawattəgə",
+    "passwordsDoNotMatch": "Password so dǝ kalkal gǝnyi.",
+    "resettingPassword": "Lamba passwordbe waltəm yasayin...",
+    "resetPassword": "Lamba kurtəbe waltəm yasayin"
+  },
+  "verifyEmail": {
+    "resendError": "Email tawattəgəye waltəm zutəro tegəro. Martǝne waltǝ jarabne.",
+    "checkingStatus": "Kulastə kəndaram tawattəgəbe...",
+    "title": "Email Nǝm Ngǝla",
+    "description": "Andeye email tawattəgəbe address emailnəmro zuwuna. Email dəga kazə kuru <1>\"Account dəga tawattəgə\"</1> dəga ratne account dəga yita gattəgəro.",
+    "stepsTitle": "Kataffa",
+    "step1": "Kazəyiya emailbe (Gmail, Yahoo, gadeso)",
+    "step2": "Email DevFolio lan bayantəna kəla \"Account Cidatə\"",
+    "step3": "\"Account Tawattəgə\" dəga suro emailben",
+    "step4": "Shiye suro warak loginbe dǝro gǝrzǝyin",
+    "resendSuccess": "Email tawattəgəbedə waltə zutəna!",
+    "resending": "Waltəm zutə...",
+    "resendButton": "Email Tawattəgəbe Waltə Zutə",
+    "backToLogin": "Waltə warak Loginbero",
+    "footerNote": "Email dǝga sǝbandǝnyi? Kulasne <1>Spam</1> au <2>Junk</2> suro emailnǝmben. Link tawattəgəbedə awa <3>24</3>ro faidajin."
+  }
+}

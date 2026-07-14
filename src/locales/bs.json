@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Karakteristike",
+    "templates": "Predlošci",
+    "pricing": "Pricing",
+    "login": "Prijava",
+    "getStarted": "Započnite",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Vrhunski kreator portfelja za programere",
+    "title1": "Izgradite svoje profesionalce",
+    "title2": "portfolio u",
+    "titleHighlight": "sekundi.",
+    "subtitle": "Sve što vam je potrebno da pokažete svoje vještine, projekte i iskustvo. ",
+    "startBuilding": "Počnite graditi odmah",
+    "viewTemplates": "View Templates",
+    "fastDeployment": "Fast Deployment",
+    "liveStatus": "username.dev je uživo!",
+    "featuresTitle": "Moćne karakteristike",
+    "featuresSubtitle": "Pružamo sve alate koji su vam potrebni da se izdvojite iz gomile i dobijete posao iz snova.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Lako organizirajte svoje odjeljke, projekte i vještine pomoću našeg intuitivnog vizualnog uređivača.",
+    "feature2Title": "Prilagođene teme",
+    "feature2Desc": "Birajte između profesionalno dizajniranih šablona ili kreirajte svoj jedinstveni izgled.",
+    "feature3Title": "Analitika u realnom vremenu",
+    "feature3Desc": "Pratite svoje posjetitelje, pogledajte koji projekti privlače najviše pažnje i još mnogo toga."
+  },
+  "auth": {
+    "welcomeBack": "Dobrodošli nazad",
+    "loginToContinue": "Prijavite se na svoj račun da nastavite",
+    "createAccount": "Kreirajte nalog",
+    "joinCommunity": "Pridružite se hiljadama drugih programera",
+    "fullName": "Puno ime",
+    "fullNamePlaceholder": "npr. ",
+    "email": "Adresa e-pošte",
+    "emailPlaceholder": "vi@example.com",
+    "password": "Lozinka",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Zapamti me",
+    "forgotPassword": "Zaboravili ste lozinku?",
+    "signIn": "Prijavite se",
+    "signingIn": "Prijava...",
+    "signUp": "Prijavite se",
+    "signingUp": "Prijava...",
+    "noAccount": "Nemate račun?",
+    "hasAccount": "Već imate račun?",
+    "passwordRules": {
+      "title": "Lozinka mora sadržavati:",
+      "length": "Najmanje 8 znakova",
+      "uppercase": "Jedno veliko slovo (A-Z)",
+      "number": "Jedan broj (0-9)",
+      "symbol": "Jedan simbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Predlošci i teme",
+      "settings": "Postavke",
+      "collapse": "Sažmi bočnu traku",
+      "overview": "Pregled",
+      "profileSettings": "Postavke profila",
+      "customDomain": "Prilagođena domena",
+      "feedback": "Povratne informacije"
+    },
+    "header": {
+      "viewLive": "Pogledajte uživo",
+      "welcome": "Dobrodošli,",
+      "logout": "Odjava",
+      "builder": "Builder",
+      "livePortfolio": "Live Portfolio",
+      "live": "Uživo"
+    },
+    "logoutModal": {
+      "title": "Odjava",
+      "message": "Jeste li sigurni da se želite odjaviti sa svog naloga? ",
+      "cancel": "Otkaži",
+      "confirm": "Da, Odjava"
+    },
+    "slugModal": {
+      "title": "Odaberite URL svog portfelja",
+      "message": "Ovaj URL će biti jedinstvena veza do vašeg portfelja. ",
+      "slugPlaceholder": "Vaše ime",
+      "availability": "Dostupnost:",
+      "available": "Dostupan",
+      "unavailable": "Nedostupno",
+      "checking": "Provjeravam...",
+      "mustFormat": "Može sadržavati samo slova, brojeve i crtice (-)",
+      "cancel": "Otkaži",
+      "save": "Sačuvaj URL",
+      "usernameUrl": "Korisničko ime URL",
+      "helpText": "Mala slova, brojevi i crtice. ",
+      "validation": {
+        "empty": "Slug ne može biti prazan.",
+        "min3": "Najmanje 3 znaka.",
+        "max30": "Maksimalno 30 znakova.",
+        "format": "Samo mala slova, brojke i crtice (-). "
+      }
+    },
+    "loadingPortfolio": "Učitavanje podataka portfelja...",
+    "overview": {
+      "greetings": {
+        "morning": "Dobro jutro",
+        "afternoon": "Dobar dan",
+        "evening": "Dobar dan",
+        "night": "Laku noc"
+      },
+      "welcome": {
+        "hi": "zdravo",
+        "creator": "Kreator",
+        "desc1": "Dobrodošli na kontrolnu tablu DevFolio. Vaš portfolio je pregledao",
+        "desc2": "osoba. Nastavite sa radom!",
+        "editPortfolio": "Uredi portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Visitors",
+        "projectViews": "Pogledano (projekat)",
+        "activeSessions": "Aktivna sesija",
+        "totalLabel": "Ukupno"
+      },
+      "setup": {
+        "title": "Napredak podešavanja",
+        "completed": "Vaš portfolio je kompletan! 🎉",
+        "inProgress": "Koraci do savršenog portfelja.",
+        "profile": {
+          "title": "Kompletan profil",
+          "desc": "Dodajte ime, biografiju i profilnu sliku."
+        },
+        "section": {
+          "title": "Dodaj sekcije",
+          "desc": "Aktivirajte barem 1 odjeljak u portfelju."
+        },
+        "project": {
+          "title": "Dodaj projekat",
+          "desc": "Unesite barem 1 od svojih najboljih projekata."
+        },
+        "publish": {
+          "title": "Objavite portfolio",
+          "desc": "Postavite prilagođeni URL tako da mu može pristupiti javnost."
+        }
+      },
+      "topProjects": {
+        "title": "Najpopularniji projekti",
+        "desc": "Učinak vašeg rada u očima posjetitelja.",
+        "viewAll": "Vidi sve",
+        "empty": "Još nema podataka o pregledu za vaš projekat."
+      }
+    },
+    "themes": {
+      "title": "Predlošci i teme",
+      "subtitle": "Prilagodite izgled i dojam svog javnog portfelja.",
+      "reset": "Poništi zadano",
+      "save": "Sačuvaj promjene",
+      "saving": "Čuvanje...",
+      "chooseTemplate": "Odaberite predložak",
+      "primaryColor": "Primarna boja",
+      "typography": "Tipografija",
+      "appearance": "Izgled",
+      "corners": "Corners & Borders",
+      "successTitle": "Uspjeh",
+      "successMessage": "Postavke teme su uspješno ažurirane",
+      "errorTitle": "Greška",
+      "errorMessage": "Nije uspjelo spremanje postavki teme",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistički",
+          "desc": "Čist i jednostavan dizajn fokusiran na sadržaj."
+        },
+        "developerDark": {
+          "name": "Developer Dark",
+          "desc": "Tamna tema savršena za predstavljanje koda i tehnološke grupe."
+        },
+        "creative": {
+          "name": "Kreativno",
+          "desc": "Živopisan i šaren izgled za dizajnere i kreativce."
+        },
+        "executive": {
+          "name": "Izvršni",
+          "desc": "Profesionalni i formalni izgled za poslovne profesionalce."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Moderan raspored mreže u Apple stilu koji efikasno ističe različite vještine."
+        },
+        "neoBrutalism": {
+          "name": "Neo-brutalizam",
+          "desc": "Odvažne ivice i boje visokog kontrasta za moderan izgled bez izvinjenja."
+        },
+        "glassmorphism": {
+          "name": "Glassmorfizam",
+          "desc": "Efekti matiranog stakla preko šarenih preliva za elegantno moderno korisničko sučelje."
+        },
+        "linkInBio": {
+          "name": "Link u Bio",
+          "desc": "Kompaktan vertikalni raspored optimiziran za mobilne ekrane i društvene mreže."
+        }
+      },
+      "appearances": {
+        "light": "Svjetlo",
+        "dark": "Tamno",
+        "system": "Sistem"
+      },
+      "cornersOptions": {
+        "sharp": "Oštar",
+        "rounded": "Zaokruženo",
+        "pill": "Pilula"
+      }
+    },
+    "feedback": {
+      "title": "Pošalji povratne informacije",
+      "subtitle": "Pomozite nam da ga poboljšamo tako što ćete dati prijedloge, kritike ili prijaviti greške u ovoj aplikaciji.",
+      "categoryLabel": "Kategorija povratnih informacija",
+      "messageLabel": "Detalji poruke",
+      "messagePlaceholder": "Recite mi detaljno o povratnim informacijama koje želite prenijeti...",
+      "imageLabel": "Privitak slike (opciono)",
+      "imagePlaceholder": "Kliknite da prenesete sliku ili snimak ekrana",
+      "submitting": "Slanje...",
+      "submitBtn": "Pošalji povratne informacije",
+      "categories": {
+        "suggestion": "Prijedlozi i ideje",
+        "bug": "Izvještaj o grešci / grešci",
+        "criticism": "Kritika",
+        "other": "Ostali"
+      },
+      "imageErrorTitle": "Greška",
+      "imageErrorMessage": "Neki fajlovi su odbijeni jer nisu podržani formati slika (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Uspjeh",
+      "successMessage": "Hvala vam na povratnim informacijama! Izvještaj je poslan.",
+      "submitErrorTitle": "Nije uspjelo",
+      "submitErrorMessage": "Došlo je do greške prilikom slanja povratnih informacija. Molimo pokušajte ponovo."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "O meni",
+      "skills": "Vještine",
+      "projects": "Projekti",
+      "workExperience": "Radno iskustvo",
+      "orgExperience": "Organizaciono iskustvo",
+      "education": "Obrazovanje",
+      "certifications": "Obuka i certifikati",
+      "contact": "Kontaktirajte me"
+    },
+    "editor": {
+      "profileInfo": "Informacije o profilu",
+      "saving": "Spremanje...",
+      "profilePhoto": "Profilna fotografija",
+      "clickToUpload": "Kliknite za otpremanje (JPG, PNG)",
+      "fullName": "Puno ime",
+      "fullNamePlaceholder": "npr. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack programer sa strašću za izgradnju modernih web aplikacija...",
+      "location": "Lokacija",
+      "locationPlaceholder": "npr. ",
+      "gender": "Rod",
+      "selectGender": "Odaberite Spol",
+      "male": "Muško",
+      "female": "Žensko",
+      "custom": "Custom",
+      "customPlaceholder": "Upišite svoj prilagođeni spol...",
+      "uploadCv": "Upload CV",
+      "cvFormat": "(DOC ili PDF)",
+      "preview": "Pregled",
+      "remove": "Ukloni",
+      "clickToUploadCv": "Kliknite da prenesete PDF ili DOC",
+      "sections": "Sekcije",
+      "removeSelected": "Ukloni odabrano",
+      "confirmRemove": "Potvrdite Ukloni",
+      "addSection": "Dodaj odjeljak",
+      "addAllSections": "Dodaj sve sekcije",
+      "noSections": "Još nema sekcija",
+      "clickToAdd": "Kliknite na \"+ Dodaj odjeljak\" da započnete",
+      "selectAll": "Odaberite Sve",
+      "selected": "Odabrano",
+      "dragToReorder": "Prevucite da biste promijenili redoslijed odjeljaka",
+      "livePreview": "Pregled uživo",
+      "addSectionsToBuild": "Dodajte odjeljke da biste izgradili svoj portfolio",
+      "now": "Sada",
+      "current": "Current",
+      "noExpiry": "Bez isteka",
+      "see": "Vidi",
+      "position": "Pozicija",
+      "degree": "Stepen",
+      "certification": "Certifikacija",
+      "sectionsForm": {
+        "about": {
+          "label": "Opis sebe",
+          "placeholder": "Recite nam nešto o sebi, svom porijeklu, interesovanjima i vještinama..."
+        },
+        "skills": {
+          "addPlaceholder": "Unesite skill pa pritisnite Enter..."
+        },
+        "projects": {
+          "title": "Naziv projekta",
+          "titlePlaceholder": "Naziv projekta...",
+          "url": "URL projekta",
+          "description": "Opis",
+          "descriptionPlaceholder": "Kratak opis projekta...",
+          "uploadThumbnail": "Slika projekta",
+          "addProject": "Dodaj projekat",
+          "projectNum": "Projekat #",
+          "currentProject": "Ovo je projekat na kojem radim"
+        },
+        "work": {
+          "company": "Kompanija/Agencija",
+          "companyPlaceholder": "Naziv kompanije...",
+          "position": "Pozicija/naslov",
+          "positionPlaceholder": "Vaša pozicija...",
+          "employmentType": "Vrsta posla",
+          "location": "Lokacija",
+          "locationPlaceholder": "Grad, Država...",
+          "startDate": "Počni",
+          "endDate": "Završeno",
+          "currentWork": "Trenutno još uvijek radim",
+          "description": "Opis",
+          "descriptionPlaceholder": "Opis posla i odgovornosti...",
+          "skills": "Vještina",
+          "addExperience": "Dodajte radno iskustvo",
+          "experienceNum": "Iskustvo #",
+          "dateError": "Datum završetka ne može biti raniji od datuma početka"
+        },
+        "org": {
+          "organization": "Naziv organizacije",
+          "orgPlaceholder": "Univerzitet BEM...",
+          "role": "Uloga/Pozicija",
+          "rolePlaceholder": "Šef divizije...",
+          "addOrg": "Dodajte organizacijsko iskustvo",
+          "orgNum": "Organizacija #"
+        },
+        "edu": {
+          "institution": "obrazovne ustanove",
+          "institutionPlaceholder": "Naziv kampusa ili škole...",
+          "degree": "Naslov",
+          "degreePlaceholder": "S1, srednja škola itd...",
+          "major": "Odsjek/Oblast studija",
+          "majorPlaceholder": "Informatičko inženjerstvo...",
+          "gpa": "GPA (opcionalno)",
+          "currentStudy": "Još uvijek učim ovdje",
+          "descriptionPlaceholder": "Aktivnosti i postignuća tokom studija...",
+          "addEdu": "Dodaj obrazovanje",
+          "eduNum": "Obrazovanje #"
+        },
+        "cert": {
+          "name": "Naziv sertifikacije/obuke",
+          "namePlaceholder": "Naziv certifikata...",
+          "issuer": "Izdavač",
+          "issuerPlaceholder": "Izdavačka institucija...",
+          "issueDate": "Početak (datum objave)",
+          "issueDatePlaceholder": "Odaberite datum objavljivanja...",
+          "expiryDate": "Završeno (Važeći period)",
+          "expiryDatePlaceholder": "Odaberite datum isteka...",
+          "noExpiry": "Ovaj certifikat nema datum isteka",
+          "url": "URL vjerodajnice",
+          "uploadThumbnail": "Sertifikat / Slika za obuku",
+          "uploadThumbnailLimit": "Otpremite sliku certifikata (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Dodaj certifikat",
+          "certNum": "Certifikat #"
+        },
+        "contact": {
+          "contactNum": "Kontakt #",
+          "platform": "Platforma",
+          "displayText": "Prikaz teksta",
+          "displayTextPlaceholder": "npr. you@email.com ili @korisničko ime",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "npr. 62812... (bez vodećih 0)",
+          "urlPlaceholderEmail": "npr. you@email.com",
+          "urlPlaceholderWebsite": "npr. https://...",
+          "urlPlaceholderDefault": "npr. korisničko ime",
+          "addContact": "Dodaj kontakt"
+        },
+        "common": {
+          "months": {
+            "1": "januara",
+            "2": "februar",
+            "3": "mart",
+            "4": "april",
+            "5": "maja",
+            "6": "juna",
+            "7": "jula",
+            "8": "avgust",
+            "9": "septembra",
+            "10": "oktobar",
+            "11": "novembar",
+            "12": "decembar"
+          },
+          "month": "Mjesec",
+          "year": "Godina",
+          "invalidDate": "Nevažeći kraj mjeseca",
+          "words": "riječi"
+        }
+      },
+      "sure": "Naravno",
+      "deletePhotoTitle": "Izbrisati profilnu fotografiju?",
+      "deletePhotoMessage": "Jeste li sigurni da želite izbrisati ovu fotografiju profila?",
+      "cancel": "Otkaži",
+      "delete": "Izbriši"
+    },
+    "cropper": {
+      "chooseBackground": "Odaberite Pozadina",
+      "cropPhoto": "Izrežite svoju fotografiju",
+      "useOriginal": "Koristite original",
+      "backgroundPresets": "Pozadinske postavke",
+      "none": "Nema",
+      "uploadBackground": "Upload Background",
+      "cancel": "Otkaži",
+      "savePhoto": "Sačuvaj fotografiju",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotacija i nagib",
+      "resetRotation": "Resetujte na 0°",
+      "center": "Centar",
+      "rotateLeft": "Rotirati -90°",
+      "rotateRight": "Rotirajte +90°",
+      "removeBackground": "Ukloni pozadinu",
+      "processing": "Obrada vaše slike, sačekajte..."
+    },
+    "cvPreview": {
+      "title": "CV pregled",
+      "downloadCv": "Preuzmite CV",
+      "download": "Preuzmi",
+      "wordCannotPreview": "Word dokumenti (.doc/.docx) se ne mogu izvorno pregledati u pretraživaču. ",
+      "downloadFile": "Preuzmite CV fajl",
+      "back": "Nazad",
+      "mobileMessage": "Molimo preuzmite CV fajl da ga pregledate.",
+      "preview": "Pregled CV",
+      "wordPreviewTitle": "Pregled Word dokumenta",
+      "wordPreviewMessage": "Word dokumenti (.doc/.docx) se ne mogu izvorno pregledati u pretraživaču. Molimo preuzmite fajl da ga pogledate."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Napišite kratak opis sebe, interesovanja i ciljeva u karijeri..."
+    },
+    "skills": {
+      "placeholder": "Upišite naziv vještine...",
+      "add": "Dodaj",
+      "enterToAdd": "Pritisnite Enter da dodate",
+      "noSkills": "Još uvijek nema dodatih vještina."
+    },
+    "projects": {
+      "projectName": "Naziv projekta",
+      "projectNamePlaceholder": "npr. ",
+      "projectUrl": "URL projekta",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Trajanje",
+      "startMonth": "Početak mjeseca",
+      "startYear": "Godina početka",
+      "endMonth": "Kraj mjeseca",
+      "endYear": "Kraj godine",
+      "currentlyWorking": "Trenutno radim na ovome",
+      "description": "Opis",
+      "descriptionPlaceholder": "Opišite projekat, svoju ulogu i dostignuća...",
+      "technologies": "Korišćene tehnologije",
+      "addProject": "Dodaj projekat",
+      "image": "Slika projekta",
+      "removeImage": "Ukloni sliku",
+      "uploadImage": "Kliknite da otpremite sliku"
+    },
+    "work": {
+      "company": "Kompanija/Institucija",
+      "companyPlaceholder": "Naziv kompanije...",
+      "role": "Uloga/Pozicija",
+      "rolePlaceholder": "Vaša pozicija...",
+      "jobType": "Vrsta posla",
+      "selectJobType": "Odaberite vrstu",
+      "fullTime": "Puno radno vrijeme",
+      "partTime": "Na pola radnog vremena",
+      "contract": "Ugovor",
+      "internship": "Internship",
+      "freelance": "Freelance",
+      "location": "Lokacija",
+      "locationPlaceholder": "npr. ",
+      "duration": "Trajanje",
+      "currentlyWorking": "Trenutno radim ovdje",
+      "description": "Opis posla",
+      "descriptionPlaceholder": "Opišite svoje ključne odgovornosti i dostignuća...",
+      "skills": "Specific Skills",
+      "addExperience": "Dodajte iskustvo"
+    },
+    "org": {
+      "organization": "Naziv organizacije",
+      "organizationPlaceholder": "Naziv organizacije...",
+      "role": "Uloga/Pozicija",
+      "rolePlaceholder": "npr. ",
+      "duration": "Trajanje",
+      "periodFormat": "ili slobodnog formata (npr. 2020. - 2022.)",
+      "periodPlaceholder": "npr. ",
+      "currentlyActive": "Trenutno aktivan",
+      "description": "Opis aktivnosti",
+      "descriptionPlaceholder": "Opišite svoje aktivnosti ili doprinose...",
+      "addExperience": "Dodajte iskustvo"
+    },
+    "education": {
+      "institution": "Naziv institucije",
+      "institutionPlaceholder": "Naziv škole ili fakulteta...",
+      "degree": "Stepen/Nivo",
+      "degreePlaceholder": "npr. ",
+      "major": "smjer/područje studija",
+      "majorPlaceholder": "npr. ",
+      "gpa": "GPA / Ocjena",
+      "gpaPlaceholder": "npr. ",
+      "duration": "Trajanje obrazovanja",
+      "periodFormat": "ili slobodnog formata (npr. 2018. - 2022.)",
+      "periodPlaceholder": "npr. ",
+      "currentlyStudying": "Trenutno studiram ovdje",
+      "description": "Aktivnosti / Počasti",
+      "descriptionPlaceholder": "Opišite akademske aktivnosti, organizacije ili primljena priznanja...",
+      "addEducation": "Dodaj obrazovanje"
+    },
+    "cert": {
+      "name": "Naziv certifikata",
+      "namePlaceholder": "npr. ",
+      "issuer": "Organizacija izdavanja",
+      "issuerPlaceholder": "npr. ",
+      "issueDate": "Datum izdavanja",
+      "expiryDate": "Vrijedi do",
+      "noExpiry": "Ova vjerodajnica ne ističe",
+      "yearPlaceholder": "ili Godina (npr. 2023.)",
+      "credentialUrl": "URL vjerodajnice",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Povezane vještine",
+      "addCertification": "Dodaj certifikat",
+      "image": "Slika/Logo",
+      "removeImage": "Ukloni sliku",
+      "uploadImage": "Kliknite da otpremite sliku"
+    },
+    "common": {
+      "months": {
+        "1": "januara",
+        "2": "februar",
+        "3": "mart",
+        "4": "april",
+        "5": "maja",
+        "6": "juna",
+        "7": "jula",
+        "8": "avgust",
+        "9": "septembra",
+        "10": "oktobar",
+        "11": "novembar",
+        "12": "decembar"
+      },
+      "month": "Mjesec",
+      "year": "Godina",
+      "invalidDate": "Nevažeći kraj mjeseca",
+      "words": "riječi"
+    }
+  },
+  "settings": {
+    "title": "Postavke",
+    "subtitle": "Upravljajte svojim profilom portfelja i preferencijama",
+    "tabs": {
+      "profile": "Moj profil",
+      "security": "Sigurnost",
+      "personalization": "Personalizacija"
+    },
+    "profile": {
+      "infoTitle": "Osnovne informacije",
+      "photo": "Profilna fotografija",
+      "uploadPhoto": "Promijeni fotografiju",
+      "fullName": "Puno ime",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adresa e-pošte",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-pošta se koristi za prijavu i ne prikazuje se javno.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Sačuvaj profil",
+      "save": "Sačuvaj profil",
+      "accountCreated": "Račun kreiran",
+      "lastLogin": "Last Login",
+      "oauthNotice": "Ovaj profil je povezan sa vašim {{provider}} računom. Promjene profila moraju se izvršiti preko provajdera servisa."
+    },
+    "security": {
+      "changePassword": "Promijeni lozinku",
+      "currentPassword": "Trenutna lozinka",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nova lozinka",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Potvrdite novu lozinku",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Najmanje 8 znakova",
+        "uppercase": "Jedno veliko slovo (A-Z)",
+        "number": "Jedan broj (0-9)",
+        "symbol": "Jedan simbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Lozinka",
+      "updatePassword": "Ažurirajte lozinku",
+      "additionalSecurity": "Dodatna sigurnost",
+      "twoFactor": "Dvofaktorska autentifikacija (2FA)",
+      "twoFactorDesc": "Osigurajte svoj račun pomoću dodatnog OTP koda.",
+      "activeSessions": "Aktivne sesije",
+      "activeSessionsDesc": "Uvijek dozvolite praćenje prijavljenih uređaja.",
+      "publicVisibility": "Javna vidljivost",
+      "hideFromSearch": "Sakrij portfolio od pretraživača",
+      "hideFromSearchDesc": "Spriječite Google da indeksira vašu javnu stranicu portfelja.",
+      "disable2fa": {
+        "title": "Onemogućite 2FA",
+        "description": "Jeste li sigurni da želite isključiti dvofaktorsku autentifikaciju?",
+        "confirmPasswordLabel": "Unesite svoju lozinku za potvrdu",
+        "currentPasswordPlaceholder": "Trenutna lozinka",
+        "cancelButton": "Otkaži",
+        "confirmButton": "Onemogućite 2FA",
+        "incorrectPassword": "Neispravna lozinka."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skenirajte QR kod",
+        "step1Desc": "Otvorite svoju aplikaciju za autentifikaciju i skenirajte sljedeći QR kod:",
+        "unableToScan": "Ne možete skenirati? Koristite ključ za podešavanje",
+        "step2Title": "2. Potvrdite kod",
+        "step2Desc": "Unesite 6-cifreni kod koji je generirala vaša aplikacija:",
+        "cancelButton": "Otkaži",
+        "enableButton": "Omogući 2FA",
+        "invalidLength": "Unesite 6-cifreni kod.",
+        "invalidCode": "Nevažeći verifikacioni kod. Molimo pokušajte ponovo."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontrole jezika",
+      "appLanguage": "Jezik aplikacije",
+      "layoutTitle": "Izgled i tipografija",
+      "layoutStyle": "Layout Style",
+      "layoutModern": "moderan stil (zadano)",
+      "layoutClassic": "Classic Style",
+      "layoutMinimalist": "Minimalistički stil",
+      "fontSize": "Veličina fonta aplikacije",
+      "fontSmall": "Mala",
+      "fontNormal": "normalno (srednje)",
+      "fontLarge": "Veliki",
+      "searchLanguage": "Traži jezik...",
+      "languageNotFound": "Jezik nije pronađen",
+      "layoutElegant": "Elegantan stil"
+    },
+    "saveChanges": "Sačuvaj promjene",
+    "cancel": "Otkaži",
+    "appSettings": "Postavke aplikacije",
+    "logoutConfirmTitle": "Potvrdite odjavu",
+    "logoutConfirmDesc": "Jeste li sigurni da se želite odjaviti sa sistema?",
+    "logoutConfirmYes": "Da, Odjava",
+    "generalError": "Došlo je do greške. ",
+    "success": "Uspjeh",
+    "preferencesSaved": "Postavke aplikacije su uspješno sačuvane.",
+    "header": "Postavke aplikacije",
+    "logout": {
+      "title": "Potvrda odjave",
+      "message": "Jeste li sigurni da se želite odjaviti sa sistema?",
+      "confirm": "Da, Odjava"
+    },
+    "about": {
+      "title": "O aplikaciji",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "Verzija",
+      "description": "DevFolio je moderna platforma za kreiranje portfelja dizajnirana za programere, dizajnere i profesionalne kreatore. ",
+      "license": "Licenca i autorska prava",
+      "copyright": "© 2026 DevFolio Inc. Sva prava zadržana.",
+      "developer": "Developer",
+      "developedBy": "Razvio Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Trajno brisanje naloga",
+      "menuItem": "Izbriši račun",
+      "successTitle": "Uspjeh",
+      "successMessage": "Poslana je e-poruka za potvrdu brisanja računa.",
+      "errorTitle": "Nije uspjelo",
+      "errorMessage": "Slanje e-pošte za potvrdu nije uspjelo.",
+      "confirmationMessage": "Jeste li sigurni da želite trajno izbrisati svoj račun?",
+      "warningMessage1": "Primit ćete e-poruku za potvrdu brisanja računa.",
+      "warningMessage2": "Ako se potvrdi, svi podaci (portfolio, projekti, statistika) će biti trajno izbrisani i ne mogu se vratiti.",
+      "cancel": "Otkaži",
+      "confirm": "Potvrda"
+    },
+    "toasts": {
+      "toastError": "Greška",
+      "toastSuccess": "Uspjeh",
+      "toastSetup2FAFailed": "Postavljanje 2FA nije uspjelo. Molimo pokušajte ponovo.",
+      "toast2FAEnabled": "Omogućena je dvofaktorska autentifikacija.",
+      "toast2FADisabled": "Dvofaktorska autentifikacija je onemogućena.",
+      "toastSessionEnabled": "Aktivno praćenje sesije je omogućeno.",
+      "toastSessionDisabled": "Aktivno praćenje sesije je onemogućeno.",
+      "toastSetupKeyCopied": "Ključ za podešavanje je kopiran u međuspremnik."
+    },
+    "privacy": {
+      "title": "Politika privatnosti",
+      "updateDate": "Posljednje ažurirano: 15. jula 2026",
+      "intro": "Ova Politika privatnosti objašnjava kako DevFolio prikuplja, koristi i štiti vaše lične podatke kada koristite naše usluge.",
+      "section1Title": "1. Informacije koje prikupljamo",
+      "section1Content": "Prikupljamo informacije koje nam dajete direktno prilikom kreiranja naloga, izrade portfelja i kontaktiranja naše podrške. ",
+      "section2Title": "2. Upotreba informacija",
+      "section2Content": "Vaši podaci se koriste za rad, održavanje i pružanje funkcija naših usluga, kao i za komunikaciju s vama u vezi s vašim računom ili uslugama.",
+      "section3Title": "3. Sigurnost podataka",
+      "section3Content": "Sprovodimo razumne sigurnosne mjere kako bismo zaštitili vaše podatke od neovlaštenog pristupa, otkrivanja ili uništenja."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token potvrde nije pronađen.",
+    "defaultError": "Brisanje računa nije uspjelo. Token je možda istekao.",
+    "loadingTitle": "Brisanje naloga...",
+    "loadingMessage": "Molimo pričekajte, obrađujemo vaš zahtjev.",
+    "successTitle": "Račun uspješno izbrisan",
+    "successMessage": "Svi vaši podaci su trajno izbrisani. Bićete preusmjereni...",
+    "errorTitle": "Brisanje naloga nije uspjelo",
+    "backToHome": "Vratite se kući"
+  },
+  "forgotPassword": {
+    "minutes": "minuta",
+    "seconds": "sekundi",
+    "success": "Uspjeh",
+    "otpSentToEmail": "OTP kod je poslan na Vašu e-poštu.",
+    "failed": "Nije uspjelo",
+    "emailNotFound": "Email nije pronađen.",
+    "emailThirdParty": "Ovaj email je registrovan preko treće strane.",
+    "genericError": "Došlo je do greške. Molimo pokušajte ponovo.",
+    "otpVerified": "OTP kod je uspješno verifikovan.",
+    "otpExpired": "OTP kod je istekao. Zatražite novi kod.",
+    "otpInvalid": "Nevažeći OTP kod.",
+    "otpResent": "Novi OTP kod je poslan na Vašu e-poštu.",
+    "otpResendFailed": "Ponovno slanje OTP koda nije uspjelo. Molimo pokušajte ponovo.",
+    "passwordResetSuccess": "Lozinka je uspješno resetirana. Molimo prijavite se sa svojom novom lozinkom.",
+    "passwordResetFailed": "Poništavanje lozinke nije uspjelo.",
+    "backToLogin": "Povratak na Prijava",
+    "back": "Natrag",
+    "title": "Zaboravljena lozinka",
+    "description": "Unesite adresu e-pošte registriranu na vašem računu. Poslat ćemo OTP kod za resetiranje lozinke.",
+    "emailLabel": "Adresa e-pošte",
+    "sending": "Slanje...",
+    "sendOtp": "Pošalji OTP kod",
+    "verifyOtpTitle": "Provjeri OTP kod",
+    "verifyOtpDesc": "Unesite 6-cifreni kod koji je poslan na vašu e-poštu da potvrdite svoj identitet.",
+    "verifying": "Provjera...",
+    "verifyOtp": "Provjeri OTP",
+    "resending": "Ponovno slanje...",
+    "resendOtp": "Ponovo pošalji OTP kod",
+    "resendCodeIn": "Ponovo pošaljite kod u",
+    "newPasswordTitle": "Kreirajte novu lozinku",
+    "newPasswordDesc": "Kreirajte novu, jaku lozinku da zaštitite svoj račun.",
+    "newPasswordLabel": "Nova lozinka",
+    "min8Chars": "Najmanje 8 znakova",
+    "oneUpperCase": "1 velika slova (A-Z)",
+    "oneNumber": "1 broj (0-9)",
+    "oneSymbol": "1 simbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Potvrdite lozinku",
+    "passwordsDoNotMatch": "Lozinke se ne podudaraju.",
+    "resettingPassword": "Poništavanje lozinke...",
+    "resetPassword": "Poništi lozinku"
+  },
+  "verifyEmail": {
+    "resendError": "Ponovno slanje e-poruke za potvrdu nije uspjelo. Molimo pokušajte ponovo.",
+    "checkingStatus": "Provjera statusa verifikacije...",
+    "title": "Provjerite svoju e-poštu",
+    "description": "Poslali smo verifikacioni email na vašu adresu e-pošte. Molimo otvorite e-poštu i kliknite na dugme <1>\"Potvrdi račun\"</1> da aktivirate svoj račun.",
+    "stepsTitle": "Koraci",
+    "step1": "Otvorite svoju aplikaciju za e-poštu (Gmail, Yahoo, itd.)",
+    "step2": "Potražite e-poruku od DevFolio sa temom \"Aktivacija naloga\"",
+    "step3": "Kliknite na dugme \"Potvrdi nalog\" u e-poruci",
+    "step4": "Bićete preusmjereni na stranicu za prijavu da unesete",
+    "resendSuccess": "E-mail za potvrdu je ponovo poslan!",
+    "resending": "Ponovno slanje...",
+    "resendButton": "Ponovo pošalji e-poruku za potvrdu",
+    "backToLogin": "Povratak na stranicu za prijavu",
+    "footerNote": "Niste primili e-poštu? Provjerite folder <1>Spam</1> ili <2>Junk</2> u svojoj e-pošti. Link za potvrdu vrijedi <3>24 sata</3>."
+  }
+}

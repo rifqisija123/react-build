@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Caracteristici",
+    "templates": "Șabloane",
+    "pricing": "Prețuri",
+    "login": "Log in",
+    "getStarted": "Începeți",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Cel mai bun generator de portofoliu pentru dezvoltatori",
+    "title1": "Construiește-ți un profesionist",
+    "title2": "portofoliu în",
+    "titleHighlight": "secunde.",
+    "subtitle": "Tot ce aveți nevoie pentru a vă prezenta abilitățile, proiectele și experiența. ",
+    "startBuilding": "Începeți să construiți acum",
+    "viewTemplates": "Vizualizați șabloane",
+    "fastDeployment": "Implementare rapidă",
+    "liveStatus": "username.dev este live!",
+    "featuresTitle": "Caracteristici puternice",
+    "featuresSubtitle": "Vă oferim toate instrumentele de care aveți nevoie pentru a vă evidenția din mulțime și pentru a obține jobul visat.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Organizați-vă cu ușurință secțiunile, proiectele și abilitățile cu editorul nostru vizual intuitiv.",
+    "feature2Title": "Teme personalizate",
+    "feature2Desc": "Alegeți dintre șabloane proiectate profesional sau creați-vă propriul aspect unic.",
+    "feature3Title": "Analytics în timp real",
+    "feature3Desc": "Urmăriți-vă vizitatorii, vedeți care proiecte primesc cea mai mare atenție și multe altele."
+  },
+  "auth": {
+    "welcomeBack": "Bine ai revenit",
+    "loginToContinue": "Conectați-vă la contul dvs. pentru a continua",
+    "createAccount": "Creează cont",
+    "joinCommunity": "Alăturați-vă altor mii de dezvoltatori",
+    "fullName": "Numele complet",
+    "fullNamePlaceholder": "de ex. ",
+    "email": "Adresa de e-mail",
+    "emailPlaceholder": "tu@example.com",
+    "password": "Parolă",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Ține-mă minte",
+    "forgotPassword": "Aţi uitat parola?",
+    "signIn": "Conectare",
+    "signingIn": "Conectare...",
+    "signUp": "Înscrieți-vă",
+    "signingUp": "Înregistrare...",
+    "noAccount": "Nu ai un cont?",
+    "hasAccount": "Aveți deja un cont?",
+    "passwordRules": {
+      "title": "Parola trebuie să conțină:",
+      "length": "Cel puțin 8 caractere",
+      "uppercase": "O literă mare (A-Z)",
+      "number": "Un număr (0-9)",
+      "symbol": "Un simbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Creator de portofoliu",
+      "templates": "Șabloane și teme",
+      "settings": "Setări",
+      "collapse": "Restrângeți bara laterală",
+      "overview": "Prezentare generală",
+      "profileSettings": "Setări profil",
+      "customDomain": "Domeniu personalizat",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Vizualizați în direct",
+      "welcome": "Bun venit,",
+      "logout": "Deconectare",
+      "builder": "Constructor",
+      "livePortfolio": "Portofoliu live",
+      "live": "Trăi"
+    },
+    "logoutModal": {
+      "title": "Deconectare",
+      "message": "Sigur doriți să vă deconectați de la contul dvs.? ",
+      "cancel": "Anula",
+      "confirm": "Da, deconectare"
+    },
+    "slugModal": {
+      "title": "Alegeți adresa URL a portofoliului dvs",
+      "message": "Această adresă URL va fi linkul unic către portofoliul dvs. ",
+      "slugPlaceholder": "Numele dumneavoastră",
+      "availability": "Disponibilitate:",
+      "available": "Disponibil",
+      "unavailable": "Indisponibil",
+      "checking": "Control...",
+      "mustFormat": "Poate conține numai litere, cifre și liniuțe (-)",
+      "cancel": "Anula",
+      "save": "Salvați adresa URL",
+      "usernameUrl": "Adresa URL a numelui de utilizator",
+      "helpText": "Litere mici, cifre și liniuțe. ",
+      "validation": {
+        "empty": "Limacul nu poate fi gol.",
+        "min3": "Minim 3 caractere.",
+        "max30": "Maxim 30 de caractere.",
+        "format": "Doar litere mici, cifre și liniuțe (-). "
+      }
+    },
+    "loadingPortfolio": "Se încarcă datele din portofoliu...",
+    "overview": {
+      "greetings": {
+        "morning": "Bună dimineața",
+        "afternoon": "Bună după-amiaza",
+        "evening": "Bună după-amiaza",
+        "night": "Noapte bună"
+      },
+      "welcome": {
+        "hi": "Bună,",
+        "creator": "Creator",
+        "desc1": "Bun venit la tabloul de bord DevFolio. Portofoliul dvs. a fost vizualizat de",
+        "desc2": "persoană. Continuați să lucrați!",
+        "editPortfolio": "Editați portofoliul"
+      },
+      "stats": {
+        "totalVisitors": "Total vizitatori",
+        "projectViews": "Vizualizat (Proiect)",
+        "activeSessions": "Sesiune activă",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Progres de configurare",
+        "completed": "Portofoliul tău este complet! 🎉",
+        "inProgress": "Pași către portofoliul perfect.",
+        "profile": {
+          "title": "Profil complet",
+          "desc": "Adaugă numele, biografia și fotografia de profil."
+        },
+        "section": {
+          "title": "Adăugați secțiuni",
+          "desc": "Activați cel puțin 1 secțiune în portofoliu."
+        },
+        "project": {
+          "title": "Adăugați proiect",
+          "desc": "Introduceți cel puțin unul dintre cele mai bune proiecte ale dvs."
+        },
+        "publish": {
+          "title": "Publicați portofoliul",
+          "desc": "Setați o adresă URL personalizată, astfel încât să poată fi accesată de public."
+        }
+      },
+      "topProjects": {
+        "title": "Cele mai populare proiecte",
+        "desc": "Performanța muncii tale în ochii vizitatorilor.",
+        "viewAll": "Vezi toate",
+        "empty": "Nu există încă date de vizualizare pentru proiectul dvs."
+      }
+    },
+    "themes": {
+      "title": "Șabloane și teme",
+      "subtitle": "Personalizați aspectul portofoliului dvs. public.",
+      "reset": "Resetează implicit",
+      "save": "Salvați modificările",
+      "saving": "Se salvează...",
+      "chooseTemplate": "Alegeți un șablon",
+      "primaryColor": "Culoare primară",
+      "typography": "Tipografie",
+      "appearance": "Aspectul",
+      "corners": "Colțuri și chenare",
+      "successTitle": "Succes",
+      "successMessage": "Preferințele temei au fost actualizate cu succes",
+      "errorTitle": "Eroare",
+      "errorMessage": "Nu s-au salvat preferințele temei",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Design curat și simplu, concentrat pe conținut."
+        },
+        "developerDark": {
+          "name": "Dezvoltator Dark",
+          "desc": "Temă întunecată perfectă pentru prezentarea codurilor și stivelor de tehnologie."
+        },
+        "creative": {
+          "name": "Creativ",
+          "desc": "Aspect vibrant și colorat pentru designeri și creativi."
+        },
+        "executive": {
+          "name": "Executiv",
+          "desc": "Aspect profesional și formal pentru profesioniștii în afaceri."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Aspect de grilă modern în stil Apple, care evidențiază eficient diferite abilități."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Borduri îndrăznețe și culori contrastante pentru un aspect la modă, fără scuze."
+        },
+        "glassmorphism": {
+          "name": "Sticlomorfism",
+          "desc": "Efecte de sticlă mată peste degradeuri colorate pentru o interfață de utilizare modernă și elegantă."
+        },
+        "linkInBio": {
+          "name": "Link în Bio",
+          "desc": "Aspect vertical compact, optimizat pentru ecranele mobile și rețelele sociale."
+        }
+      },
+      "appearances": {
+        "light": "Lumină",
+        "dark": "Întunecat",
+        "system": "Sistem"
+      },
+      "cornersOptions": {
+        "sharp": "Ascuțit",
+        "rounded": "Rotunjit",
+        "pill": "pilula"
+      }
+    },
+    "feedback": {
+      "title": "Trimite feedback",
+      "subtitle": "Ajutați-ne să o îmbunătățim oferind sugestii, critici sau raportând erori pentru această aplicație.",
+      "categoryLabel": "Categoria de feedback",
+      "messageLabel": "Detalii mesaj",
+      "messagePlaceholder": "Spuneți-mi în detaliu despre feedback-ul pe care doriți să-l transmiteți...",
+      "imageLabel": "Atașare imagine (Opțional)",
+      "imagePlaceholder": "Faceți clic pentru a încărca o imagine sau o captură de ecran",
+      "submitting": "Se trimite...",
+      "submitBtn": "Trimite feedback",
+      "categories": {
+        "suggestion": "Sugestii & Idei",
+        "bug": "Raport de eroare / eroare",
+        "criticism": "Critica",
+        "other": "Altele"
+      },
+      "imageErrorTitle": "Eroare",
+      "imageErrorMessage": "Unele fișiere sunt respinse deoarece nu sunt formate de imagine acceptate (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Succes",
+      "successMessage": "Vă mulțumim pentru feedback! Raportul a fost trimis.",
+      "submitErrorTitle": "A eșuat",
+      "submitErrorMessage": "A apărut o eroare la trimiterea feedback-ului. Vă rugăm să încercați din nou."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Despre mine",
+      "skills": "Abilități",
+      "projects": "Proiecte",
+      "workExperience": "Experiență de muncă",
+      "orgExperience": "Experiență organizațională",
+      "education": "Educaţie",
+      "certifications": "Training & Certificari",
+      "contact": "Contactați-mă"
+    },
+    "editor": {
+      "profileInfo": "Informații de profil",
+      "saving": "Economisire...",
+      "profilePhoto": "Fotografie de profil",
+      "clickToUpload": "Faceți clic pentru a încărca (JPG, PNG)",
+      "fullName": "Numele complet",
+      "fullNamePlaceholder": "de ex. ",
+      "bio": "bio",
+      "bioPlaceholder": "Dezvoltator Fullstack cu pasiune pentru construirea de aplicații web moderne...",
+      "location": "Locaţie",
+      "locationPlaceholder": "de ex. ",
+      "gender": "Gen",
+      "selectGender": "Selectați Gen",
+      "male": "Bărbat",
+      "female": "Femeie",
+      "custom": "Personalizat",
+      "customPlaceholder": "Introduceți genul personalizat...",
+      "uploadCv": "Încarcă CV",
+      "cvFormat": "(DOC sau PDF)",
+      "preview": "Previzualizare",
+      "remove": "Elimina",
+      "clickToUploadCv": "Faceți clic pentru a încărca PDF sau DOC",
+      "sections": "Secțiuni",
+      "removeSelected": "Eliminați selectat",
+      "confirmRemove": "Confirmați Eliminare",
+      "addSection": "Adăugați o secțiune",
+      "addAllSections": "Adăugați toate secțiunile",
+      "noSections": "Încă nu există secțiuni",
+      "clickToAdd": "Faceți clic pe „+ Adăugați secțiune” pentru a începe",
+      "selectAll": "Selectați Toate",
+      "selected": "Selectat",
+      "dragToReorder": "Trageți pentru a reordona secțiunile",
+      "livePreview": "Previzualizare live",
+      "addSectionsToBuild": "Adăugați secțiuni pentru a vă construi portofoliul",
+      "now": "Acum",
+      "current": "Actual",
+      "noExpiry": "Fără expirare",
+      "see": "Vedea",
+      "position": "Poziţie",
+      "degree": "grad",
+      "certification": "Certificare",
+      "sectionsForm": {
+        "about": {
+          "label": "Descrierea ta",
+          "placeholder": "Povestește-ne despre tine, despre trecutul tău, despre interesele și abilitățile tale..."
+        },
+        "skills": {
+          "addPlaceholder": "Tastați abilitate, apoi apăsați Enter..."
+        },
+        "projects": {
+          "title": "Numele proiectului",
+          "titlePlaceholder": "Numele proiectului...",
+          "url": "Adresa URL a proiectului",
+          "description": "Descriere",
+          "descriptionPlaceholder": "Scurtă descriere a proiectului...",
+          "uploadThumbnail": "Imaginea Proiectului",
+          "addProject": "Adăugați proiect",
+          "projectNum": "Proiect #",
+          "currentProject": "Acesta este un proiect la care lucrez"
+        },
+        "work": {
+          "company": "Companie/Agenție",
+          "companyPlaceholder": "Numele companiei...",
+          "position": "Poziție/Titlu",
+          "positionPlaceholder": "Poziția ta...",
+          "employmentType": "Tipul muncii",
+          "location": "Locaţie",
+          "locationPlaceholder": "Oras, tara...",
+          "startDate": "Început",
+          "endDate": "Terminat",
+          "currentWork": "Încă lucrez momentan",
+          "description": "Descriere",
+          "descriptionPlaceholder": "Descrierea postului si responsabilitati...",
+          "skills": "Îndemânare",
+          "addExperience": "Adăugați experiență de lucru",
+          "experienceNum": "Experiența #",
+          "dateError": "Data de încheiere nu poate fi anterioară datei de început"
+        },
+        "org": {
+          "organization": "Numele organizației",
+          "orgPlaceholder": "Universitatea BEM...",
+          "role": "Rol/Poziție",
+          "rolePlaceholder": "Șeful diviziei...",
+          "addOrg": "Adăugați experiență organizațională",
+          "orgNum": "Organizație #"
+        },
+        "edu": {
+          "institution": "Instituţiile de învăţământ",
+          "institutionPlaceholder": "Numele campusului sau școlii...",
+          "degree": "Titlu",
+          "degreePlaceholder": "S1, liceu etc...",
+          "major": "Departamentul/Domeniul de studiu",
+          "majorPlaceholder": "Inginerie informatica...",
+          "gpa": "GPA (opțional)",
+          "currentStudy": "Încă învăț aici",
+          "descriptionPlaceholder": "Activități și realizări în timpul studiului...",
+          "addEdu": "Adăugați educație",
+          "eduNum": "Educație #"
+        },
+        "cert": {
+          "name": "Denumirea certificării/instruirii",
+          "namePlaceholder": "Numele certificării...",
+          "issuer": "Editor",
+          "issuerPlaceholder": "Instituția editorială...",
+          "issueDate": "Început (Data publicării)",
+          "issueDatePlaceholder": "Selectați data publicării...",
+          "expiryDate": "Finalizat (Perioada valabilă)",
+          "expiryDatePlaceholder": "Selectați data de expirare...",
+          "noExpiry": "Acest certificat nu are o dată de expirare",
+          "url": "Adresa URL a acreditării",
+          "uploadThumbnail": "Certificat/Imagine Training",
+          "uploadThumbnailLimit": "Încărcați imaginea certificatului (JPG/PNG/WEBP, max 2 MB)",
+          "addCert": "Adăugați certificare",
+          "certNum": "Certificare #"
+        },
+        "contact": {
+          "contactNum": "Contact #",
+          "platform": "Platformă",
+          "displayText": "Afișează text",
+          "displayTextPlaceholder": "de exemplu, tu@email.com sau @nume utilizator",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "de ex., 62812... (fără 0 înainte)",
+          "urlPlaceholderEmail": "de exemplu, tu@email.com",
+          "urlPlaceholderWebsite": "de ex., https://...",
+          "urlPlaceholderDefault": "de exemplu, numele de utilizator",
+          "addContact": "Adăugați contact"
+        },
+        "common": {
+          "months": {
+            "1": "ianuarie",
+            "2": "februarie",
+            "3": "martie",
+            "4": "aprilie",
+            "5": "mai",
+            "6": "iunie",
+            "7": "iulie",
+            "8": "august",
+            "9": "septembrie",
+            "10": "octombrie",
+            "11": "noiembrie",
+            "12": "decembrie"
+          },
+          "month": "Lună",
+          "year": "An",
+          "invalidDate": "Luna de sfârșit nevalidă",
+          "words": "cuvinte"
+        }
+      },
+      "sure": "Sigur",
+      "deletePhotoTitle": "Ștergeți fotografia de profil?",
+      "deletePhotoMessage": "Sigur vrei să ștergi această fotografie de profil?",
+      "cancel": "Anula",
+      "delete": "Şterge"
+    },
+    "cropper": {
+      "chooseBackground": "Alegeți Fundal",
+      "cropPhoto": "Decupați fotografia",
+      "useOriginal": "Utilizați original",
+      "backgroundPresets": "Presetări de fundal",
+      "none": "Nici unul",
+      "uploadBackground": "Încărcați fundal",
+      "cancel": "Anula",
+      "savePhoto": "Salvați fotografia",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotire și înclinare",
+      "resetRotation": "Resetați la 0°",
+      "center": "Centru",
+      "rotateLeft": "Rotiți -90°",
+      "rotateRight": "Rotiți +90°",
+      "removeBackground": "Eliminați fundalul",
+      "processing": "Se procesează imaginea dvs., vă rugăm să așteptați..."
+    },
+    "cvPreview": {
+      "title": "Previzualizare CV",
+      "downloadCv": "Descarca CV",
+      "download": "Descărcați",
+      "wordCannotPreview": "Documentele Word (.doc/.docx) nu pot fi previzualizate nativ în browser. ",
+      "downloadFile": "Descărcați fișierul CV",
+      "back": "Spate",
+      "mobileMessage": "Vă rugăm să descărcați fișierul CV pentru a-l previzualiza.",
+      "preview": "Previzualizare CV",
+      "wordPreviewTitle": "Previzualizarea documentului Word",
+      "wordPreviewMessage": "Documentele Word (.doc/.docx) nu pot fi previzualizate nativ în browser. Vă rugăm să descărcați fișierul pentru a-l vizualiza."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Scrie o scurtă descriere despre tine, interese și obiective în carieră..."
+    },
+    "skills": {
+      "placeholder": "Introduceți numele aptitudinii...",
+      "add": "Adăuga",
+      "enterToAdd": "Apăsați Enter pentru a adăuga",
+      "noSkills": "Nicio abilitate adăugată încă."
+    },
+    "projects": {
+      "projectName": "Numele proiectului",
+      "projectNamePlaceholder": "de ex. ",
+      "projectUrl": "Adresa URL a proiectului",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Durată",
+      "startMonth": "Începutul lunii",
+      "startYear": "Anul de început",
+      "endMonth": "Sfârșitul lunii",
+      "endYear": "Anul de sfârșit",
+      "currentlyWorking": "Momentan lucrează la asta",
+      "description": "Descriere",
+      "descriptionPlaceholder": "Descrie proiectul, rolul tău și realizările...",
+      "technologies": "Tehnologii utilizate",
+      "addProject": "Adăugați proiect",
+      "image": "Imaginea Proiectului",
+      "removeImage": "Eliminați imaginea",
+      "uploadImage": "Faceți clic pentru a încărca imaginea"
+    },
+    "work": {
+      "company": "Companie/Instituție",
+      "companyPlaceholder": "Numele companiei...",
+      "role": "Rol/Poziție",
+      "rolePlaceholder": "Poziția ta...",
+      "jobType": "Tip job",
+      "selectJobType": "Selectați tipul",
+      "fullTime": "Cu normă întreagă",
+      "partTime": "Cu jumătate de normă",
+      "contract": "Contracta",
+      "internship": "Stagiu",
+      "freelance": "Independent",
+      "location": "Locaţie",
+      "locationPlaceholder": "de ex. ",
+      "duration": "Durată",
+      "currentlyWorking": "Momentan lucrează aici",
+      "description": "Descrierea postului",
+      "descriptionPlaceholder": "Descrieți principalele responsabilități și realizări...",
+      "skills": "Abilități specifice",
+      "addExperience": "Adăugați experiență"
+    },
+    "org": {
+      "organization": "Numele organizației",
+      "organizationPlaceholder": "Numele organizației...",
+      "role": "Rol/Poziție",
+      "rolePlaceholder": "de ex. ",
+      "duration": "Durată",
+      "periodFormat": "sau format gratuit (de exemplu, 2020 - 2022)",
+      "periodPlaceholder": "de ex. ",
+      "currentlyActive": "Momentan activ",
+      "description": "Descrierea activității",
+      "descriptionPlaceholder": "Descrieți activitățile sau contribuțiile dvs....",
+      "addExperience": "Adăugați experiență"
+    },
+    "education": {
+      "institution": "Numele instituției",
+      "institutionPlaceholder": "Numele școlii sau universității...",
+      "degree": "Grad/Nivel",
+      "degreePlaceholder": "de ex. ",
+      "major": "Major/Domeniu de studiu",
+      "majorPlaceholder": "de ex. ",
+      "gpa": "GPA/Notă",
+      "gpaPlaceholder": "de ex. ",
+      "duration": "Durata educației",
+      "periodFormat": "sau format gratuit (de exemplu, 2018 - 2022)",
+      "periodPlaceholder": "de ex. ",
+      "currentlyStudying": "În prezent studiază aici",
+      "description": "Activități / Onoruri",
+      "descriptionPlaceholder": "Descrieți activitățile academice, organizațiile sau onorurile primite...",
+      "addEducation": "Adăugați educație"
+    },
+    "cert": {
+      "name": "Numele certificării",
+      "namePlaceholder": "de ex. ",
+      "issuer": "Organizația emitentă",
+      "issuerPlaceholder": "de ex. ",
+      "issueDate": "Data emiterii",
+      "expiryDate": "Valabil până la",
+      "noExpiry": "Această acreditare nu expiră",
+      "yearPlaceholder": "sau Anul (de ex. 2023)",
+      "credentialUrl": "Adresa URL a acreditării",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Abilități conexe",
+      "addCertification": "Adăugați certificare",
+      "image": "Imagine/Sigla",
+      "removeImage": "Eliminați imaginea",
+      "uploadImage": "Faceți clic pentru a încărca imaginea"
+    },
+    "common": {
+      "months": {
+        "1": "ianuarie",
+        "2": "februarie",
+        "3": "martie",
+        "4": "aprilie",
+        "5": "mai",
+        "6": "iunie",
+        "7": "iulie",
+        "8": "august",
+        "9": "septembrie",
+        "10": "octombrie",
+        "11": "noiembrie",
+        "12": "decembrie"
+      },
+      "month": "Lună",
+      "year": "An",
+      "invalidDate": "Luna de sfârșit nevalidă",
+      "words": "cuvinte"
+    }
+  },
+  "settings": {
+    "title": "Setări",
+    "subtitle": "Gestionați-vă profilul portofoliului și preferințele",
+    "tabs": {
+      "profile": "Profilul meu",
+      "security": "Securitate",
+      "personalization": "Personalizare"
+    },
+    "profile": {
+      "infoTitle": "Informații de bază",
+      "photo": "Fotografie de profil",
+      "uploadPhoto": "Schimbați fotografia",
+      "fullName": "Numele complet",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adresa de e-mail",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-mailul este folosit pentru autentificare și nu este afișat public.",
+      "portfolioUrl": "Adresa URL a portofoliului",
+      "saveProfile": "Salvați profilul",
+      "save": "Salvați profilul",
+      "accountCreated": "Cont creat",
+      "lastLogin": "Ultima conectare",
+      "oauthNotice": "Acest profil este conectat la contul dvs. {{provider}}. Modificările de profil trebuie făcute prin intermediul furnizorului de servicii."
+    },
+    "security": {
+      "changePassword": "Schimbaţi parola",
+      "currentPassword": "Parola actuală",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Parolă Nouă",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Confirmați parola nouă",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Cel puțin 8 caractere",
+        "uppercase": "O literă mare (A-Z)",
+        "number": "Un număr (0-9)",
+        "symbol": "Un simbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Parolă",
+      "updatePassword": "Actualizați parola",
+      "additionalSecurity": "Securitate suplimentară",
+      "twoFactor": "Autentificare în doi factori (2FA)",
+      "twoFactorDesc": "Securizează-ți contul folosind un cod OTP suplimentar.",
+      "activeSessions": "Sesiuni active",
+      "activeSessionsDesc": "Permiteți întotdeauna monitorizarea dispozitivelor conectate.",
+      "publicVisibility": "Vizibilitatea publică",
+      "hideFromSearch": "Ascunde portofoliul din motoarele de căutare",
+      "hideFromSearchDesc": "Împiedicați Google să indexeze pagina dvs. publică de portofoliu.",
+      "disable2fa": {
+        "title": "Dezactivați 2FA",
+        "description": "Sigur doriți să dezactivați autentificarea cu doi factori?",
+        "confirmPasswordLabel": "Introduceți parola pentru a confirma",
+        "currentPasswordPlaceholder": "Parola curentă",
+        "cancelButton": "Anulează",
+        "confirmButton": "Dezactivați 2FA",
+        "incorrectPassword": "Parolă incorectă."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scanați codul QR",
+        "step1Desc": "Deschideți aplicația de autentificare și scanați următorul cod QR:",
+        "unableToScan": "Nu se poate scana? Utilizați tasta de configurare",
+        "step2Title": "2. Verificați codul",
+        "step2Desc": "Introdu codul din 6 cifre generat de aplicația ta:",
+        "cancelButton": "Anula",
+        "enableButton": "Activați 2FA",
+        "invalidLength": "Vă rugăm să introduceți un cod din 6 cifre.",
+        "invalidCode": "Cod de verificare nevalid. Vă rugăm să încercați din nou."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Controale lingvistice",
+      "appLanguage": "Limba aplicației",
+      "layoutTitle": "Aspect și tipografie",
+      "layoutStyle": "Stil de aspect",
+      "layoutModern": "Stil modern (implicit)",
+      "layoutClassic": "Stil Clasic",
+      "layoutMinimalist": "Stil minimalist",
+      "fontSize": "Dimensiunea fontului aplicației",
+      "fontSmall": "Mic",
+      "fontNormal": "Normal (Mediu)",
+      "fontLarge": "Mare",
+      "searchLanguage": "Căutați limba...",
+      "languageNotFound": "Limba nu a fost găsită",
+      "layoutElegant": "Stil elegant"
+    },
+    "saveChanges": "Salvați modificările",
+    "cancel": "Anula",
+    "appSettings": "Setările aplicației",
+    "logoutConfirmTitle": "Confirmați deconectarea",
+    "logoutConfirmDesc": "Sigur doriți să vă deconectați din sistem?",
+    "logoutConfirmYes": "Da, deconectare",
+    "generalError": "A apărut o eroare. ",
+    "success": "Succes",
+    "preferencesSaved": "Preferințele aplicației au fost salvate cu succes.",
+    "header": "Setările aplicației",
+    "logout": {
+      "title": "Confirmare deconectare",
+      "message": "Sigur doriți să vă deconectați din sistem?",
+      "confirm": "Da, deconectare"
+    },
+    "about": {
+      "title": "Despre aplicație",
+      "subtitle": "Platforma de generare de portofoliu",
+      "version": "Versiune",
+      "description": "DevFolio este o platformă modernă de generare de portofoliu, concepută pentru dezvoltatori, designeri și creatori profesioniști. ",
+      "license": "Licență și drepturi de autor",
+      "copyright": "© 2026 DevFolio Inc. Toate drepturile rezervate.",
+      "developer": "Dezvoltator",
+      "developedBy": "Dezvoltat de echipa DevFolio"
+    },
+    "deleteAccount": {
+      "title": "Ștergeți permanent contul",
+      "menuItem": "Șterge contul",
+      "successTitle": "Succes",
+      "successMessage": "A fost trimis un e-mail de confirmare a ștergerii contului.",
+      "errorTitle": "A eșuat",
+      "errorMessage": "Trimiterea e-mailului de confirmare a eșuat.",
+      "confirmationMessage": "Sigur doriți să vă ștergeți contul definitiv?",
+      "warningMessage1": "Veți primi un e-mail pentru a confirma ștergerea contului.",
+      "warningMessage2": "Dacă sunt confirmate, toate datele (portofoliu, proiecte, statistici) vor fi șterse definitiv și nu pot fi recuperate.",
+      "cancel": "Anulează",
+      "confirm": "Confirmare"
+    },
+    "toasts": {
+      "toastError": "Eroare",
+      "toastSuccess": "Succes",
+      "toastSetup2FAFailed": "Nu s-a putut configura 2FA. Vă rugăm să încercați din nou.",
+      "toast2FAEnabled": "Autentificarea cu doi factori a fost activată.",
+      "toast2FADisabled": "Autentificarea cu doi factori a fost dezactivată.",
+      "toastSessionEnabled": "Monitorizarea activă a sesiunii a fost activată.",
+      "toastSessionDisabled": "Monitorizarea activă a sesiunii a fost dezactivată.",
+      "toastSetupKeyCopied": "Tasta de configurare a fost copiată în clipboard."
+    },
+    "privacy": {
+      "title": "Politica de confidențialitate",
+      "updateDate": "Ultima actualizare: 15 iulie 2026",
+      "intro": "Această politică de confidențialitate explică modul în care DevFolio colectează, utilizează și protejează informațiile dumneavoastră personale atunci când utilizați serviciile noastre.",
+      "section1Title": "1. Informațiile pe care le colectăm",
+      "section1Content": "Colectăm informațiile pe care le furnizați direct atunci când creați un cont, construim un portofoliu și contactați asistența noastră. ",
+      "section2Title": "2. Utilizarea informațiilor",
+      "section2Content": "Informațiile dvs. sunt folosite pentru a opera, întreține și furniza caracteristicile serviciilor noastre, precum și pentru a comunica cu dvs. cu privire la contul sau serviciile dvs.",
+      "section3Title": "3. Securitatea datelor",
+      "section3Content": "Implementăm măsuri de securitate rezonabile pentru a vă proteja informațiile împotriva accesului, dezvăluirii sau distrugerii neautorizate."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Indicatorul de confirmare nu a fost găsit.",
+    "defaultError": "Nu s-a șters contul. Este posibil ca tokenul să fi expirat.",
+    "loadingTitle": "Se șterge contul...",
+    "loadingMessage": "Vă rugăm să așteptați, procesăm solicitarea dvs.",
+    "successTitle": "Contul a fost șters",
+    "successMessage": "Toate datele dvs. au fost șterse definitiv. Veți fi redirecționat...",
+    "errorTitle": "Nu s-a șters contul",
+    "backToHome": "Întoarce-te la Acasă"
+  },
+  "forgotPassword": {
+    "minutes": "minute",
+    "seconds": "secunde",
+    "success": "Succes",
+    "otpSentToEmail": "Un cod OTP a fost trimis pe adresa ta de e-mail.",
+    "failed": "A eșuat",
+    "emailNotFound": "E-mail nu a fost găsit.",
+    "emailThirdParty": "Acest e-mail este înregistrat printr-o terță parte.",
+    "genericError": "Există o eroare. Vă rugăm să încercați din nou.",
+    "otpVerified": "Codul OTP a fost verificat cu succes.",
+    "otpExpired": "Codul OTP a expirat. Vă rugăm să solicitați un nou cod.",
+    "otpInvalid": "Cod OTP nevalid.",
+    "otpResent": "Un nou cod OTP a fost trimis pe adresa dvs. de e-mail.",
+    "otpResendFailed": "Nu s-a retrimis codul OTP. Vă rugăm să încercați din nou.",
+    "passwordResetSuccess": "Parola resetată cu succes. Vă rugăm să vă conectați cu noua parolă.",
+    "passwordResetFailed": "Nu s-a resetat parola.",
+    "backToLogin": "Reveniți la Conectare",
+    "back": "Înapoi",
+    "title": "Am uitat parola",
+    "description": "Introdu adresa de e-mail înregistrată în contul tău. Vom trimite un cod OTP pentru a reseta parola.",
+    "emailLabel": "Adresă de e-mail",
+    "sending": "Se trimite...",
+    "sendOtp": "Trimite codul OTP",
+    "verifyOtpTitle": "Verificați codul OTP",
+    "verifyOtpDesc": "Introdu codul din 6 cifre care a fost trimis pe e-mail pentru a-ți confirma identitatea.",
+    "verifying": "Se verifică...",
+    "verifyOtp": "Verificați OTP",
+    "resending": "Retrimitere...",
+    "resendOtp": "Retrimiteți codul OTP",
+    "resendCodeIn": "Retrimiteți codul în",
+    "newPasswordTitle": "Creați o nouă parolă",
+    "newPasswordDesc": "Creați o parolă nouă și puternică pentru a vă securiza contul.",
+    "newPasswordLabel": "Parolă nouă",
+    "min8Chars": "Minim 8 caractere",
+    "oneUpperCase": "1 majuscule (A-Z)",
+    "oneNumber": "1 număr (0-9)",
+    "oneSymbol": "1 simbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirmați parola",
+    "passwordsDoNotMatch": "Parolele nu se potrivesc.",
+    "resettingPassword": "Resetarea parolei...",
+    "resetPassword": "Resetează parola"
+  },
+  "verifyEmail": {
+    "resendError": "E-mailul de verificare a eșuat. Vă rugăm să încercați din nou.",
+    "checkingStatus": "Se verifică starea verificării...",
+    "title": "Verificați-vă e-mailul",
+    "description": "Am trimis un e-mail de verificare la adresa ta de e-mail. Deschideți e-mailul și faceți clic pe butonul <1>„Confirmați contul”</1> pentru a vă activa contul.",
+    "stepsTitle": "Pași",
+    "step1": "Deschideți aplicația de e-mail (Gmail, Yahoo, etc)",
+    "step2": "Căutați un e-mail de la DevFolio cu subiectul „Activarea contului”",
+    "step3": "Faceți clic pe butonul „Confirmați contul” din e-mail",
+    "step4": "Veți fi direcționat către pagina de conectare pentru a introduce",
+    "resendSuccess": "E-mailul de verificare a fost retrimis!",
+    "resending": "Retrimitere...",
+    "resendButton": "Retrimiteți e-mailul de verificare",
+    "backToLogin": "Reveniți la pagina de conectare",
+    "footerNote": "Nu ai primit e-mailul? Verificați folderul <1>Spam</1> sau <2>Nedorite</2> din e-mailul dvs. Linkul de verificare este valabil <3>24 de ore</3>."
+  }
+}

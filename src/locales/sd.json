@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "خاصيتون",
+    "templates": "ٽيمپليٽس",
+    "pricing": "قيمت ڏيڻ",
+    "login": "لاگ ان",
+    "getStarted": "شروع ڪريو",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "ڊولپرز لاءِ حتمي پورٽ فوليو بلڊر",
+    "title1": "پنهنجو پروفيشنل ٺاهيو",
+    "title2": "پورٽ فوليو ۾",
+    "titleHighlight": "سيڪنڊ",
+    "subtitle": "هر شي توهان کي توهان جي صلاحيتن، منصوبن، ۽ تجربو ڏيکارڻ جي ضرورت آهي. ",
+    "startBuilding": "ھاڻي تعمير شروع ڪريو",
+    "viewTemplates": "ٽيمپليٽ ڏسو",
+    "fastDeployment": "فاسٽ لڳائڻ",
+    "liveStatus": "username.dev لائيو آهي!",
+    "featuresTitle": "طاقتور خاصيتون",
+    "featuresSubtitle": "اسان اهي سڀئي اوزار فراهم ڪندا آهيون جيڪي توهان کي ميڙ مان نڪرڻ ۽ توهان جي خوابن جي نوڪري کي لينڊ ڪرڻ جي ضرورت آهي.",
+    "feature1Title": "ڊريگ اينڊ ڊروپ بلڊر",
+    "feature1Desc": "آساني سان منظم ڪريو پنھنجي سيڪشن، پروجيڪٽ ۽ صلاحيتن کي اسان جي وجداني بصري ايڊيٽر سان.",
+    "feature2Title": "حسب ضرورت موضوع",
+    "feature2Desc": "پيشه ورانه ٺهيل ٽيمپليٽس مان چونڊيو يا پنهنجو منفرد نظر ٺاهيو.",
+    "feature3Title": "حقيقي وقت تجزياتي",
+    "feature3Desc": "پنھنجي سياحن کي ٽريڪ ڪريو، ڏسو ڪھڙا منصوبا سڀ کان وڌيڪ ڌيان وٺن ٿا، ۽ وڌيڪ."
+  },
+  "auth": {
+    "welcomeBack": "واپس ڀلي ڪري آيا",
+    "loginToContinue": "جاري رکڻ لاءِ پنهنجي اڪائونٽ ۾ لاگ ان ٿيو",
+    "createAccount": "اڪائونٽ ٺاهيو",
+    "joinCommunity": "هزارين ٻين ڊولپرز ۾ شامل ٿيو",
+    "fullName": "پورو نالو",
+    "fullNamePlaceholder": "مثال ",
+    "email": "اي ميل پتو",
+    "emailPlaceholder": "you@example.com",
+    "password": "پاسورڊ",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "مونکي ياد ڪيو",
+    "forgotPassword": "پاسورڊ وساري ويٺا؟",
+    "signIn": "سائن ان ڪريو",
+    "signingIn": "سائن ان ٿي رهيو آهي...",
+    "signUp": "سائن اپ ڪريو",
+    "signingUp": "سائن اپ ٿي رهيو آهي...",
+    "noAccount": "اڪائونٽ نه آهي؟",
+    "hasAccount": "اڳ ۾ ئي هڪ اڪائونٽ آهي؟",
+    "passwordRules": {
+      "title": "پاسورڊ تي مشتمل هجڻ گهرجي:",
+      "length": "گهٽ ۾ گهٽ 8 اکر",
+      "uppercase": "ھڪڙو وڏو اکر (A-Z)",
+      "number": "ھڪڙو نمبر (0-9)",
+      "symbol": "هڪ علامت (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "پورٽ فوليو ٺاهيندڙ",
+      "templates": "سانچو ۽ موضوع",
+      "settings": "سيٽنگون",
+      "collapse": "سائڊبار کي کوليو",
+      "overview": "اوسر",
+      "profileSettings": "پروفائل سيٽنگون",
+      "customDomain": "ڪسٽم ڊومين",
+      "feedback": "راءِ"
+    },
+    "header": {
+      "viewLive": "لائيو ڏسو",
+      "welcome": "ڀلي ڪري آيا،",
+      "logout": "لاگ آئوٽ",
+      "builder": "تعمير ڪندڙ",
+      "livePortfolio": "لائيو پورٽ فوليو",
+      "live": "جيئڻ"
+    },
+    "logoutModal": {
+      "title": "لاگ آئوٽ",
+      "message": "ڇا توهان پڪ آهيو ته توهان پنهنجي اڪائونٽ مان لاگ آئوٽ ٿيڻ چاهيو ٿا؟ ",
+      "cancel": "منسوخ ڪريو",
+      "confirm": "ها، لاگ آئوٽ"
+    },
+    "slugModal": {
+      "title": "پنھنجو پورٽ فوليو URL چونڊيو",
+      "message": "هي URL توهان جي پورٽ فوليو جي منفرد لنڪ هوندو. ",
+      "slugPlaceholder": "توهان جو نالو",
+      "availability": "دستيابي:",
+      "available": "دستياب",
+      "unavailable": "غير موجود",
+      "checking": "چيڪ ڪري رهيو آهي...",
+      "mustFormat": "صرف اکر، انگ ۽ ڊيش تي مشتمل ٿي سگھي ٿو (-)",
+      "cancel": "منسوخ ڪريو",
+      "save": "URL محفوظ ڪريو",
+      "usernameUrl": "يوزر نالو URL",
+      "helpText": "ننڍا اکر، انگ، ۽ ڊيش. ",
+      "validation": {
+        "empty": "سلگ خالي نه ٿي سگھي.",
+        "min3": "گھٽ ۾ گھٽ 3 اکر.",
+        "max30": "وڌ ۾ وڌ 30 اکر.",
+        "format": "صرف ننڍا اکر، انگ، ۽ ڊيش (-). "
+      }
+    },
+    "loadingPortfolio": "پورٽ فوليو ڊيٽا لوڊ ڪري رهيو آهي...",
+    "overview": {
+      "greetings": {
+        "morning": "صبح جو سلام",
+        "afternoon": "منجھند جو سلام",
+        "evening": "منجھند جو سلام",
+        "night": "شب بخير"
+      },
+      "welcome": {
+        "hi": "هيلو،",
+        "creator": "پيدا ڪندڙ",
+        "desc1": "DevFolio ڊيش بورڊ ۾ ڀليڪار. توهان جي پورٽ فوليو طرفان ڏٺو ويو آهي",
+        "desc2": "ماڻهو. ڪم رکو!",
+        "editPortfolio": "پورٽ فوليو ۾ ترميم ڪريو"
+      },
+      "stats": {
+        "totalVisitors": "ڪل سياحن",
+        "projectViews": "ڏٺو ويو (پروجيڪٽ)",
+        "activeSessions": "فعال سيشن",
+        "totalLabel": "ڪُل"
+      },
+      "setup": {
+        "title": "سيٽ اپ جي ترقي",
+        "completed": "توهان جو پورٽ فوليو مڪمل آهي! 🎉",
+        "inProgress": "مڪمل پورٽ فوليو ڏانهن قدم.",
+        "profile": {
+          "title": "مڪمل پروفائل",
+          "desc": "نالو، بايو ۽ پروفائل فوٽو شامل ڪريو."
+        },
+        "section": {
+          "title": "سيڪشن شامل ڪريو",
+          "desc": "پورٽ فوليو ۾ گهٽ ۾ گهٽ 1 سيڪشن کي فعال ڪريو."
+        },
+        "project": {
+          "title": "پروجيڪٽ شامل ڪريو",
+          "desc": "داخل ڪريو گھٽ ۾ گھٽ 1 پنھنجي بھترين منصوبن مان."
+        },
+        "publish": {
+          "title": "پورٽ فوليو شايع ڪريو",
+          "desc": "ھڪڙو ڪسٽم URL سيٽ ڪريو ته جيئن اھو عوام تائين پھچائي سگھي."
+        }
+      },
+      "topProjects": {
+        "title": "سڀ کان وڌيڪ مشهور منصوبا",
+        "desc": "سنڌين جي نظر ۾ توهان جي ڪم جي ڪارڪردگي.",
+        "viewAll": "سڀ ڏسو",
+        "empty": "توھان جي پروجيڪٽ لاءِ اڃا تائين ڪو به ڊيٽا ڏسڻ وارو نه آھي."
+      }
+    },
+    "themes": {
+      "title": "سانچو ۽ موضوع",
+      "subtitle": "پنھنجي عوامي پورٽ فوليو جي شڪل ۽ احساس کي ترتيب ڏيو.",
+      "reset": "ڊفالٽ ري سيٽ ڪريو",
+      "save": "تبديليون محفوظ ڪريو",
+      "saving": "بچايو...",
+      "chooseTemplate": "هڪ ٽيمپليٽ چونڊيو",
+      "primaryColor": "پرائمري رنگ",
+      "typography": "ٽائپوگرافي",
+      "appearance": "ظاهر",
+      "corners": "ڪنارا ۽ سرحدون",
+      "successTitle": "ڪاميابي",
+      "successMessage": "موضوع جون ترجيحون ڪاميابيءَ سان اپڊيٽ ڪيون ويون",
+      "errorTitle": "غلطي",
+      "errorMessage": "موضوع جي ترجيحن کي محفوظ ڪرڻ ۾ ناڪام ٿيو",
+      "templates": {
+        "minimalist": {
+          "name": "گھٽ ۾ گھٽ",
+          "desc": "صاف ۽ سادي ڊيزائن مواد تي ڌيان ڏيڻ."
+        },
+        "developerDark": {
+          "name": "ڊولپر ڊارڪ",
+          "desc": "ڊارڪ موضوع ڪوڊ ۽ ٽيڪ اسٽيڪ ڏيکارڻ لاءِ ڀرپور."
+        },
+        "creative": {
+          "name": "تخليقي",
+          "desc": "ڊزائينرز ۽ تخليق ڪندڙن لاء متحرڪ ۽ رنگارنگ ترتيب."
+        },
+        "executive": {
+          "name": "ايگزيڪيوٽو",
+          "desc": "ڪاروباري ماهرن لاءِ پيشه ورانه ۽ رسمي ترتيب."
+        },
+        "bentoGrid": {
+          "name": "بينٽو گرڊ",
+          "desc": "جديد ايپل طرز جي گرڊ ترتيب جيڪا مختلف صلاحيتن کي نمايان ڪري ٿي."
+        },
+        "neoBrutalism": {
+          "name": "نو-برائيزم",
+          "desc": "بالڪل سرحدون ۽ اعلي برعڪس رنگ هڪ رجحان، غير معمولي نظر لاء."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "جديد UI لاءِ رنگ برنگي گريڊيئنٽس تي ڀريل شيشي جا اثر."
+        },
+        "linkInBio": {
+          "name": "بايو ۾ لنڪ",
+          "desc": "ڪمپيڪٽ عمودي ترتيب موبائل اسڪرين ۽ سوشل ميڊيا لاءِ بهتر ڪئي وئي."
+        }
+      },
+      "appearances": {
+        "light": "روشني",
+        "dark": "ڳاڙهو",
+        "system": "سسٽم"
+      },
+      "cornersOptions": {
+        "sharp": "تيز",
+        "rounded": "گول",
+        "pill": "گولي"
+      }
+    },
+    "feedback": {
+      "title": "موٽ موڪليو",
+      "subtitle": "هن ايپليڪيشن تي تجويزون، تنقيد، يا رپورٽنگ بگ جي ذريعي ان کي بهتر بنائڻ ۾ اسان جي مدد ڪريو.",
+      "categoryLabel": "راءِ جو درجو",
+      "messageLabel": "پيغام جا تفصيل",
+      "messagePlaceholder": "مون کي تفصيل سان ٻڌايو ته راء جي باري ۾ توهان کي پهچائڻ چاهيو ٿا ...",
+      "imageLabel": "تصويري منسلڪ (اختياري)",
+      "imagePlaceholder": "تصوير يا اسڪرين شاٽ اپلوڊ ڪرڻ لاءِ ڪلڪ ڪريو",
+      "submitting": "موڪلڻ...",
+      "submitBtn": "موٽ موڪليو",
+      "categories": {
+        "suggestion": "تجويزون ۽ خيالات",
+        "bug": "بگ / نقص رپورٽ",
+        "criticism": "تنقيد",
+        "other": "ٻيا"
+      },
+      "imageErrorTitle": "غلطي",
+      "imageErrorMessage": "ڪجهه فائلون رد ڪيون ويون آهن ڇاڪاڻ ته اهي سپورٽ ٿيل تصويري فارميٽ نه آهن (JPG, PNG, GIF, WEBP)",
+      "successTitle": "ڪاميابي",
+      "successMessage": "توهان جي راء لاء مهرباني! رپورٽ موڪلي وئي آهي.",
+      "submitErrorTitle": "ناڪام",
+      "submitErrorMessage": "راءِ موڪلڻ دوران هڪ نقص پيدا ٿيو. مهرباني ڪري ٻيهر ڪوشش ڪريو."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "مون بابت",
+      "skills": "مهارت",
+      "projects": "منصوبا",
+      "workExperience": "ڪم جو تجربو",
+      "orgExperience": "تنظيمي تجربو",
+      "education": "تعليم",
+      "certifications": "تربيت ۽ سرٽيفڪيشن",
+      "contact": "مون سان رابطو ڪريو"
+    },
+    "editor": {
+      "profileInfo": "پروفائل ڄاڻ",
+      "saving": "محفوظ ڪري رهيو آهي...",
+      "profilePhoto": "پروفائل فوٽو",
+      "clickToUpload": "اپلوڊ ڪرڻ لاءِ ڪلڪ ڪريو (JPG، PNG)",
+      "fullName": "پورو نالو",
+      "fullNamePlaceholder": "مثال ",
+      "bio": "بايو",
+      "bioPlaceholder": "جديد ويب ايپس ٺاهڻ جي شوق سان مڪمل اسٽيڪ ڊولپر...",
+      "location": "مقام",
+      "locationPlaceholder": "مثال ",
+      "gender": "جنس",
+      "selectGender": "منتخب ڪريو جنس",
+      "male": "نر",
+      "female": "عورت",
+      "custom": "حسب ضرورت",
+      "customPlaceholder": "پنھنجي مرضي مطابق جنس ٽائيپ ڪريو...",
+      "uploadCv": "سي وي اپ لوڊ ڪريو",
+      "cvFormat": "(DOC يا PDF)",
+      "preview": "ڏيکاءُ",
+      "remove": "هٽايو",
+      "clickToUploadCv": "PDF يا DOC اپلوڊ ڪرڻ لاءِ ڪلڪ ڪريو",
+      "sections": "سيڪشن",
+      "removeSelected": "منتخب ٿيل هٽايو",
+      "confirmRemove": "هٽائڻ جي تصديق ڪريو",
+      "addSection": "سيڪشن شامل ڪريو",
+      "addAllSections": "سڀ حصا شامل ڪريو",
+      "noSections": "اڃان تائين ڪوبه سيڪشن ناهي",
+      "clickToAdd": "شروع ڪرڻ لاءِ \"+ سيڪشن شامل ڪريو\" تي ڪلڪ ڪريو",
+      "selectAll": "سڀ چونڊيو",
+      "selected": "چونڊيل",
+      "dragToReorder": "سيڪشن کي ٻيهر ترتيب ڏيڻ لاءِ ڇڪيو",
+      "livePreview": "لائيو پريو",
+      "addSectionsToBuild": "پنھنجو پورٽ فوليو ٺاھڻ لاءِ حصا شامل ڪريو",
+      "now": "هاڻي",
+      "current": "موجوده",
+      "noExpiry": "نه ختم ٿيڻ",
+      "see": "ڏسو",
+      "position": "پوزيشن",
+      "degree": "ڊگري",
+      "certification": "سرٽيفڪيشن",
+      "sectionsForm": {
+        "about": {
+          "label": "پنهنجو پاڻ جي وضاحت",
+          "placeholder": "اسان کي پنهنجي باري ۾ ٻڌايو، پنهنجي پس منظر، دلچسپين ۽ صلاحيتن..."
+        },
+        "skills": {
+          "addPlaceholder": "مهارت ٽائيپ ڪريو پوءِ Enter کي دٻايو..."
+        },
+        "projects": {
+          "title": "پروجيڪٽ جو نالو",
+          "titlePlaceholder": "پروجيڪٽ جو نالو...",
+          "url": "پروجيڪٽ URL",
+          "description": "وضاحت",
+          "descriptionPlaceholder": "منصوبي جي مختصر وضاحت ...",
+          "uploadThumbnail": "پروجيڪٽ تصوير",
+          "addProject": "پروجيڪٽ شامل ڪريو",
+          "projectNum": "پروجيڪٽ #",
+          "currentProject": "هي هڪ منصوبو آهي جنهن تي آئون ڪم ڪري رهيو آهيان"
+        },
+        "work": {
+          "company": "ڪمپني / ايجنسي",
+          "companyPlaceholder": "ڪمپني جو نالو...",
+          "position": "مقام / عنوان",
+          "positionPlaceholder": "توهان جي پوزيشن ...",
+          "employmentType": "ڪم جو قسم",
+          "location": "مقام",
+          "locationPlaceholder": "شهر، ملڪ...",
+          "startDate": "شروع",
+          "endDate": "پورو ٿيو",
+          "currentWork": "مان هن وقت اڃا تائين ڪم ڪري رهيو آهيان",
+          "description": "وضاحت",
+          "descriptionPlaceholder": "نوڪري جي وضاحت ۽ ذميواريون ...",
+          "skills": "مهارت",
+          "addExperience": "ڪم جو تجربو شامل ڪريو",
+          "experienceNum": "تجربو #",
+          "dateError": "ختم ٿيڻ جي تاريخ شروعاتي تاريخ کان اڳ نه ٿي سگھي"
+        },
+        "org": {
+          "organization": "تنظيم جو نالو",
+          "orgPlaceholder": "بي ايم يونيورسٽي...",
+          "role": "ڪردار/ مقام",
+          "rolePlaceholder": "ڊويزن جي سربراهه...",
+          "addOrg": "تنظيمي تجربو شامل ڪريو",
+          "orgNum": "تنظيم #"
+        },
+        "edu": {
+          "institution": "تعليمي ادارا",
+          "institutionPlaceholder": "ڪيمپس يا اسڪول جو نالو...",
+          "degree": "عنوان",
+          "degreePlaceholder": "S1، هاء اسڪول، وغيره ...",
+          "major": "ڊپارٽمينٽ/ فيلڊ آف اسٽڊي",
+          "majorPlaceholder": "انفارميٽڪس انجنيئرنگ...",
+          "gpa": "GPA (اختياري)",
+          "currentStudy": "مان اڃا تائين هتي سکي رهيو آهيان",
+          "descriptionPlaceholder": "مطالعي دوران سرگرميون ۽ ڪاميابيون ...",
+          "addEdu": "تعليم شامل ڪريو",
+          "eduNum": "تعليم #"
+        },
+        "cert": {
+          "name": "سرٽيفڪيشن / ٽريننگ جو نالو",
+          "namePlaceholder": "سرٽيفڪيشن جو نالو...",
+          "issuer": "پبلشر",
+          "issuerPlaceholder": "اشاعتي ادارو...",
+          "issueDate": "شروع ڪريو (تاريخ جي اشاعت)",
+          "issueDatePlaceholder": "اشاعت جي تاريخ چونڊيو...",
+          "expiryDate": "مڪمل ٿيل (صحيح مدت)",
+          "expiryDatePlaceholder": "ختم ٿيڻ جي تاريخ چونڊيو...",
+          "noExpiry": "هن سند جي ختم ٿيڻ جي تاريخ ناهي",
+          "url": "سندي URL",
+          "uploadThumbnail": "سرٽيفڪيٽ / ٽريننگ تصوير",
+          "uploadThumbnailLimit": "اپ لوڊ سرٽيفڪيٽ تصوير (JPG/PNG/WEBP، وڌ ۾ وڌ 2MB)",
+          "addCert": "سرٽيفڪيشن شامل ڪريو",
+          "certNum": "سرٽيفڪيشن #"
+        },
+        "contact": {
+          "contactNum": "رابطو #",
+          "platform": "پليٽ فارم",
+          "displayText": "ڊسپلي ٽيڪسٽ",
+          "displayTextPlaceholder": "مثال طور، you@email.com يا @username",
+          "url": "لنڪ (URL)",
+          "urlPlaceholderWhatsapp": "مثال طور، 62812... (اڳوڻي 0 کان سواءِ)",
+          "urlPlaceholderEmail": "مثال طور، you@email.com",
+          "urlPlaceholderWebsite": "مثال طور، https://...",
+          "urlPlaceholderDefault": "مثال طور، يوزر نالو",
+          "addContact": "رابطو شامل ڪريو"
+        },
+        "common": {
+          "months": {
+            "1": "جنوري",
+            "2": "فيبروري",
+            "3": "مارچ",
+            "4": "اپريل",
+            "5": "مئي",
+            "6": "جون",
+            "7": "جولاءِ",
+            "8": "آگسٽ",
+            "9": "سيپٽمبر",
+            "10": "آڪٽوبر",
+            "11": "نومبر",
+            "12": "ڊسمبر"
+          },
+          "month": "مهينو",
+          "year": "سال",
+          "invalidDate": "غلط آخري مهينو",
+          "words": "لفظ"
+        }
+      },
+      "sure": "پڪ",
+      "deletePhotoTitle": "پروفائل فوٽو حذف ڪريو؟",
+      "deletePhotoMessage": "ڇا توهان واقعي هن پروفائل تصوير کي حذف ڪرڻ چاهيو ٿا؟",
+      "cancel": "منسوخ ڪريو",
+      "delete": "حذف ڪريو"
+    },
+    "cropper": {
+      "chooseBackground": "پس منظر چونڊيو",
+      "cropPhoto": "پنھنجي تصوير کي ڪرپ ڪريو",
+      "useOriginal": "اصل استعمال ڪريو",
+      "backgroundPresets": "پس منظر presets",
+      "none": "ڪو به",
+      "uploadBackground": "اپلوڊ پس منظر",
+      "cancel": "منسوخ ڪريو",
+      "savePhoto": "فوٽو محفوظ ڪريو",
+      "zoom": "زوم",
+      "rotationTilt": "گردش ۽ جھڪ",
+      "resetRotation": "0° تي ري سيٽ ڪريو",
+      "center": "مرڪز",
+      "rotateLeft": "گھمڻ -90 °",
+      "rotateRight": "گھمايو +90°",
+      "removeBackground": "پس منظر کي هٽايو",
+      "processing": "توهان جي تصوير تي عمل ٿي رهيو آهي، مهرباني ڪري انتظار ڪريو..."
+    },
+    "cvPreview": {
+      "title": "CV جو ڏيک",
+      "downloadCv": "ڊائون لوڊ CV",
+      "download": "ڊائون لوڊ ڪريو",
+      "wordCannotPreview": "لفظ دستاويز (.doc/.docx) برائوزر ۾ مقامي طور پريو نه ٿو ڪري سگھجي. ",
+      "downloadFile": "ڊائون لوڊ ڪريو CV فائل",
+      "back": "پوئتي",
+      "mobileMessage": "مھرباني ڪري ڊائون لوڊ ڪريو CV فائل ان کي ڏسڻ لاء.",
+      "preview": "CV جو ڏيک",
+      "wordPreviewTitle": "Word Document Preview",
+      "wordPreviewMessage": "لفظ دستاويز (.doc/.docx) برائوزر ۾ مقامي طور پريو نه ٿو ڪري سگھجي. مهرباني ڪري ان کي ڏسڻ لاءِ فائل ڊائون لوڊ ڪريو."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "پنهنجي باري ۾ مختصر وضاحت لکو، دلچسپيون، ۽ ڪيريئر جا مقصد..."
+    },
+    "skills": {
+      "placeholder": "مهارت جو نالو ٽائيپ ڪريو...",
+      "add": "شامل ڪريو",
+      "enterToAdd": "شامل ڪرڻ لاءِ Enter کي دٻايو",
+      "noSkills": "اڃان تائين ڪو به مهارت شامل نه ڪيو ويو آهي."
+    },
+    "projects": {
+      "projectName": "پروجيڪٽ جو نالو",
+      "projectNamePlaceholder": "مثال ",
+      "projectUrl": "پروجيڪٽ URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "عرصو",
+      "startMonth": "شروع مهينو",
+      "startYear": "شروعاتي سال",
+      "endMonth": "آخر مهينو",
+      "endYear": "آخر سال",
+      "currentlyWorking": "هن وقت ڪم ڪري رهيو آهي",
+      "description": "وضاحت",
+      "descriptionPlaceholder": "وضاحت ڪريو پروجيڪٽ، توهان جي ڪردار، ۽ ڪاميابين ...",
+      "technologies": "استعمال ٿيل ٽيڪنالاجيون",
+      "addProject": "پروجيڪٽ شامل ڪريو",
+      "image": "پروجيڪٽ تصوير",
+      "removeImage": "تصوير هٽايو",
+      "uploadImage": "تصوير اپلوڊ ڪرڻ لاءِ ڪلڪ ڪريو"
+    },
+    "work": {
+      "company": "ڪمپني / ادارو",
+      "companyPlaceholder": "ڪمپني جو نالو...",
+      "role": "ڪردار/ مقام",
+      "rolePlaceholder": "توهان جي پوزيشن ...",
+      "jobType": "نوڪري جو قسم",
+      "selectJobType": "قسم چونڊيو",
+      "fullTime": "پورو وقت",
+      "partTime": "بچيل وقت",
+      "contract": "معاهدو",
+      "internship": "انٽرنشپ",
+      "freelance": "فري لانس",
+      "location": "مقام",
+      "locationPlaceholder": "مثال ",
+      "duration": "عرصو",
+      "currentlyWorking": "في الحال هتي ڪم ڪري رهيو آهي",
+      "description": "نوڪري جي وضاحت",
+      "descriptionPlaceholder": "توهان جي اهم ذميواريون ۽ ڪاميابين جي وضاحت ڪريو ...",
+      "skills": "مخصوص صلاحيتن",
+      "addExperience": "تجربو شامل ڪريو"
+    },
+    "org": {
+      "organization": "تنظيم جو نالو",
+      "organizationPlaceholder": "تنظيم جو نالو...",
+      "role": "ڪردار/ مقام",
+      "rolePlaceholder": "مثال ",
+      "duration": "عرصو",
+      "periodFormat": "يا مفت فارميٽ (مثال طور 2020 - 2022)",
+      "periodPlaceholder": "مثال ",
+      "currentlyActive": "في الحال فعال",
+      "description": "سرگرمي جي وضاحت",
+      "descriptionPlaceholder": "توهان جي سرگرمين يا تعاون جي وضاحت ڪريو...",
+      "addExperience": "تجربو شامل ڪريو"
+    },
+    "education": {
+      "institution": "اداري جو نالو",
+      "institutionPlaceholder": "اسڪول يا يونيورسٽي جو نالو...",
+      "degree": "ڊگري / سطح",
+      "degreePlaceholder": "مثال ",
+      "major": "ميجر / مطالعي جو ميدان",
+      "majorPlaceholder": "مثال ",
+      "gpa": "GPA / گريڊ",
+      "gpaPlaceholder": "مثال ",
+      "duration": "تعليم جي مدت",
+      "periodFormat": "يا مفت فارميٽ (مثال طور 2018 - 2022)",
+      "periodPlaceholder": "مثال ",
+      "currentlyStudying": "هن وقت هتي پڙهائي رهيو آهي",
+      "description": "سرگرميون / اعزاز",
+      "descriptionPlaceholder": "بيان ڪريو تعليمي سرگرمين، تنظيمون، يا اعزاز حاصل ڪيل ...",
+      "addEducation": "تعليم شامل ڪريو"
+    },
+    "cert": {
+      "name": "سرٽيفڪيشن جو نالو",
+      "namePlaceholder": "مثال ",
+      "issuer": "جاري ڪندڙ تنظيم",
+      "issuerPlaceholder": "مثال ",
+      "issueDate": "جاري ٿيڻ جي تاريخ",
+      "expiryDate": "تائين صحيح",
+      "noExpiry": "هي سند ختم نه ٿيندي",
+      "yearPlaceholder": "يا سال (مثال طور 2023)",
+      "credentialUrl": "سندي URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "لاڳاپيل مهارتون",
+      "addCertification": "سرٽيفڪيشن شامل ڪريو",
+      "image": "تصوير/لوگو",
+      "removeImage": "تصوير هٽايو",
+      "uploadImage": "تصوير اپلوڊ ڪرڻ لاءِ ڪلڪ ڪريو"
+    },
+    "common": {
+      "months": {
+        "1": "جنوري",
+        "2": "فيبروري",
+        "3": "مارچ",
+        "4": "اپريل",
+        "5": "مئي",
+        "6": "جون",
+        "7": "جولاءِ",
+        "8": "آگسٽ",
+        "9": "سيپٽمبر",
+        "10": "آڪٽوبر",
+        "11": "نومبر",
+        "12": "ڊسمبر"
+      },
+      "month": "مهينو",
+      "year": "سال",
+      "invalidDate": "غلط آخري مهينو",
+      "words": "لفظ"
+    }
+  },
+  "settings": {
+    "title": "سيٽنگون",
+    "subtitle": "پنھنجي پورٽ فوليو پروفائل ۽ ترجيحن کي منظم ڪريو",
+    "tabs": {
+      "profile": "منهنجو پروفائل",
+      "security": "سيڪيورٽي",
+      "personalization": "ذاتي ڪرڻ"
+    },
+    "profile": {
+      "infoTitle": "بنيادي معلومات",
+      "photo": "پروفائل فوٽو",
+      "uploadPhoto": "تصوير تبديل ڪريو",
+      "fullName": "پورو نالو",
+      "fullNamePlaceholder": "جان دو",
+      "email": "اي ميل پتو",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "اي ميل لاگ ان لاءِ استعمال ٿئي ٿي ۽ عوامي طور تي ظاهر نه ڪئي وئي آهي.",
+      "portfolioUrl": "پورٽ فوليو URL",
+      "saveProfile": "پروفائل محفوظ ڪريو",
+      "save": "پروفائل محفوظ ڪريو",
+      "accountCreated": "اڪائونٽ ٺاهيو ويو",
+      "lastLogin": "آخري لاگ ان",
+      "oauthNotice": "هي پروفائل توهان جي {{provider}} اڪائونٽ سان ڳنڍيل آهي. پروفائل تبديلين کي سروس فراهم ڪندڙ ذريعي ڪيو وڃي."
+    },
+    "security": {
+      "changePassword": "پاسورڊ تبديل ڪريو",
+      "currentPassword": "موجوده پاس ورڊ",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "نئون پاسورڊ",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "نئين پاسورڊ جي تصديق ڪريو",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "گهٽ ۾ گهٽ 8 اکر",
+        "uppercase": "ھڪڙو وڏو اکر (A-Z)",
+        "number": "ھڪڙو نمبر (0-9)",
+        "symbol": "هڪ علامت (!@#$%^&*)"
+      },
+      "passwordTitle": "پاسورڊ",
+      "updatePassword": "تازه ڪاري پاسورڊ",
+      "additionalSecurity": "اضافي سيڪيورٽي",
+      "twoFactor": "ٻه فيڪٽر جي تصديق (2FA)",
+      "twoFactorDesc": "اضافي OTP ڪوڊ استعمال ڪندي پنهنجو اڪائونٽ محفوظ ڪريو.",
+      "activeSessions": "فعال سيشن",
+      "activeSessionsDesc": "هميشه لاگ ان ٿيل ڊوائيسز جي نگراني جي اجازت ڏيو.",
+      "publicVisibility": "عوامي نمائش",
+      "hideFromSearch": "سرچ انجڻ کان پورٽ فوليو لڪايو",
+      "hideFromSearchDesc": "گوگل کي توهان جي عوامي پورٽ فوليو صفحي کي ترتيب ڏيڻ کان روڪيو.",
+      "disable2fa": {
+        "title": "2FA کي بند ڪريو",
+        "description": "ڇا توھان پڪ آھي ته توھان بند ڪرڻ چاھيو ٿا ٻن عنصرن جي تصديق؟",
+        "confirmPasswordLabel": "تصديق ڪرڻ لاءِ پنهنجو پاسورڊ داخل ڪريو",
+        "currentPasswordPlaceholder": "موجوده پاسورڊ",
+        "cancelButton": "منسوخ ڪريو",
+        "confirmButton": "2FA کي بند ڪريو",
+        "incorrectPassword": "غلط پاسورڊ."
+      },
+      "setup2fa": {
+        "step1Title": "1. QR ڪوڊ اسڪين ڪريو",
+        "step1Desc": "پنھنجي تصديق ڪندڙ ايپ کوليو ۽ ھيٺ ڏنل QR ڪوڊ اسڪين ڪريو:",
+        "unableToScan": "اسڪين ڪرڻ جي قابل ناهي؟ سيٽ اپ چيڪ استعمال ڪريو",
+        "step2Title": "2. ڪوڊ جي تصديق ڪريو",
+        "step2Desc": "داخل ڪريو 6 عددي ڪوڊ جيڪو توھان جي ايپ پاران ٺاھيو ويو آھي:",
+        "cancelButton": "منسوخ ڪريو",
+        "enableButton": "2FA کي فعال ڪريو",
+        "invalidLength": "مھرباني ڪري 6 عددي ڪوڊ داخل ڪريو.",
+        "invalidCode": "غلط تصديقي ڪوڊ. مهرباني ڪري ٻيهر ڪوشش ڪريو."
+      }
+    },
+    "personalization": {
+      "languageTitle": "ٻولي ڪنٽرول",
+      "appLanguage": "ايپ جي ٻولي",
+      "layoutTitle": "لي آئوٽ ۽ ٽائپوگرافي",
+      "layoutStyle": "ترتيب جو انداز",
+      "layoutModern": "جديد انداز (ڊفالٽ)",
+      "layoutClassic": "کلاسي انداز",
+      "layoutMinimalist": "گھٽ ۾ گھٽ انداز",
+      "fontSize": "ايپ فونٽ سائيز",
+      "fontSmall": "ننڍو",
+      "fontNormal": "عام (وچولي)",
+      "fontLarge": "وڏو",
+      "searchLanguage": "ٻولي ڳولھيو...",
+      "languageNotFound": "ٻولي نه ملي",
+      "layoutElegant": "خوبصورت انداز"
+    },
+    "saveChanges": "تبديليون محفوظ ڪريو",
+    "cancel": "منسوخ ڪريو",
+    "appSettings": "ايپ سيٽنگون",
+    "logoutConfirmTitle": "لاگ آئوٽ جي تصديق ڪريو",
+    "logoutConfirmDesc": "ڇا توهان پڪ سان سسٽم مان لاگ آئوٽ ٿيڻ چاهيو ٿا؟",
+    "logoutConfirmYes": "ها، لاگ آئوٽ",
+    "generalError": "هڪ غلطي ٿي وئي. ",
+    "success": "ڪاميابي",
+    "preferencesSaved": "ايپ ترجيحات ڪاميابيءَ سان محفوظ ٿي ويون.",
+    "header": "ايپليڪيشن سيٽنگون",
+    "logout": {
+      "title": "لاگ آئوٽ جي تصديق",
+      "message": "ڇا توهان پڪ سان سسٽم مان لاگ آئوٽ ٿيڻ چاهيو ٿا؟",
+      "confirm": "ها، لاگ آئوٽ"
+    },
+    "about": {
+      "title": "ايپليڪيشن بابت",
+      "subtitle": "پورٽ فوليو بلڊر پليٽ فارم",
+      "version": "نسخو",
+      "description": "DevFolio هڪ جديد پورٽ فوليو بلڊر پليٽ فارم آهي جيڪو ڊولپرز، ڊيزائنرز ۽ پيشه ور تخليقڪارن لاءِ ٺهيل آهي. ",
+      "license": "لائسنس ۽ ڪاپي رائيٽ",
+      "copyright": "© 2026 DevFolio Inc. سڀ حق محفوظ آهن.",
+      "developer": "ڊولپر",
+      "developedBy": "رفقي نارادتا پاران ترقي ڪئي وئي"
+    },
+    "deleteAccount": {
+      "title": "کاتو مستقل طور ڊليٽ ڪريو",
+      "menuItem": "کاتو حذف ڪريو",
+      "successTitle": "ڪاميابي",
+      "successMessage": "اڪائونٽ ختم ڪرڻ جي تصديق واري اي ميل موڪلي وئي آهي.",
+      "errorTitle": "ناڪام",
+      "errorMessage": "تصديق واري اي ميل موڪلڻ ۾ ناڪام.",
+      "confirmationMessage": "ڇا توهان پڪ سان پنهنجو اڪائونٽ مستقل طور ختم ڪرڻ چاهيو ٿا؟",
+      "warningMessage1": "توهان اڪائونٽ کي ختم ڪرڻ جي تصديق ڪرڻ لاء هڪ اي ميل وصول ڪندا.",
+      "warningMessage2": "جيڪڏهن تصديق ڪئي وئي، سڀ ڊيٽا (پورٽ فوليو، منصوبا، انگ اکر) مستقل طور تي ختم ٿي ويندا ۽ واپس نه ٿي سگهندا.",
+      "cancel": "منسوخ ڪريو",
+      "confirm": "تصديق"
+    },
+    "toasts": {
+      "toastError": "نقص",
+      "toastSuccess": "ڪاميابي",
+      "toastSetup2FAFailed": "2FA سيٽ اپ ڪرڻ ۾ ناڪام. مهرباني ڪري ٻيهر ڪوشش ڪريو.",
+      "toast2FAEnabled": "ٻن عنصر جي تصديق کي فعال ڪيو ويو آهي.",
+      "toast2FADisabled": "ٻن عنصر جي تصديق کي بند ڪيو ويو آهي.",
+      "toastSessionEnabled": "فعال سيشن جي نگراني کي فعال ڪيو ويو آهي.",
+      "toastSessionDisabled": "فعال سيشن جي نگراني کي بند ڪيو ويو آهي.",
+      "toastSetupKeyCopied": "سيٽ اپ ڪيچي ڪلپ بورڊ تي ڪاپي ڪئي وئي."
+    },
+    "privacy": {
+      "title": "رازداري پاليسي",
+      "updateDate": "آخري دفعو اپڊيٽ ڪيو ويو: جولاءِ 15، 2026",
+      "intro": "هي رازداري پاليسي وضاحت ڪري ٿي ته ڪيئن DevFolio توهان جي ذاتي معلومات گڏ ڪري، استعمال ڪري ۽ محفوظ ڪري ٿو جڏهن اسان جون خدمتون استعمال ڪندي.",
+      "section1Title": "1. معلومات اسان گڏ ڪريون ٿا",
+      "section1Content": "اسان معلومات گڏ ڪريون ٿا جيڪو توهان سڌو سنئون مهيا ڪندا آهيو جڏهن اڪائونٽ ٺاهي، پورٽ فوليو ٺاهي، ۽ اسان جي مدد سان رابطو ڪريو. ",
+      "section2Title": "2. معلومات جو استعمال",
+      "section2Content": "توهان جي معلومات اسان جي خدمتن جي خاصيتن کي هلائڻ، برقرار رکڻ، ۽ مهيا ڪرڻ لاء استعمال ڪيو ويندو آهي، انهي سان گڏ توهان جي اڪائونٽ يا خدمتن جي حوالي سان توهان سان رابطو ڪرڻ لاء.",
+      "section3Title": "3. ڊيٽا سيڪيورٽي",
+      "section3Content": "اسان توهان جي معلومات کي غير مجاز رسائي، ظاهر ڪرڻ، يا تباهي کان بچائڻ لاء مناسب حفاظتي قدمن تي عمل ڪندا آهيون."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "تصديق جو نشان نه مليو.",
+    "defaultError": "اڪائونٽ ختم ڪرڻ ۾ ناڪام ٿيو. ٿي سگهي ٿو ٽوڪن ختم ٿي چڪو هجي.",
+    "loadingTitle": "کاتو ڊليٽ ڪيو پيو وڃي...",
+    "loadingMessage": "مهرباني ڪري انتظار ڪريو، اسان توهان جي درخواست تي عمل ڪري رهيا آهيون.",
+    "successTitle": "اڪائونٽ ڪاميابيءَ سان ڊهي ويو",
+    "successMessage": "توهان جي سڀني ڊيٽا کي مستقل طور ختم ڪيو ويو آهي. توهان کي هدايت ڪئي ويندي...",
+    "errorTitle": "اڪائونٽ ختم ڪرڻ ۾ ناڪامياب",
+    "backToHome": "گھر ڏانھن واپس وڃو"
+  },
+  "forgotPassword": {
+    "minutes": "منٽ",
+    "seconds": "سيڪنڊ",
+    "success": "ڪاميابي",
+    "otpSentToEmail": "توهان جي اي ميل تي هڪ OTP ڪوڊ موڪليو ويو آهي.",
+    "failed": "ناڪام",
+    "emailNotFound": "اي ميل نه مليو.",
+    "emailThirdParty": "هي اي ميل ٽئين پارٽي ذريعي رجسٽر ٿيل آهي.",
+    "genericError": "هڪ غلطي آهي. مهرباني ڪري ٻيهر ڪوشش ڪريو.",
+    "otpVerified": "OTP ڪوڊ ڪاميابي سان تصديق ڪئي وئي آهي.",
+    "otpExpired": "OTP ڪوڊ ختم ٿي چڪو آهي. مھرباني ڪري نئون ڪوڊ جي درخواست ڪريو.",
+    "otpInvalid": "غلط OTP ڪوڊ.",
+    "otpResent": "توهان جي اي ميل تي هڪ نئون OTP ڪوڊ موڪليو ويو آهي.",
+    "otpResendFailed": "OTP ڪوڊ ٻيهر موڪلڻ ۾ ناڪام ٿيو. مهرباني ڪري ٻيهر ڪوشش ڪريو.",
+    "passwordResetSuccess": "پاسورڊ ڪاميابي سان ري سيٽ ڪيو. مھرباني ڪري پنھنجي نئين پاسورڊ سان لاگ ان ٿيو.",
+    "passwordResetFailed": "پاسورڊ ري سيٽ ڪرڻ ۾ ناڪام ٿيو.",
+    "backToLogin": "لاگ ان ڏانھن واپس وڃو",
+    "back": "پوئتي",
+    "title": "پاسورڊ وساري ويٺا",
+    "description": "توهان جي اڪائونٽ تي رجسٽر ٿيل اي ميل پتو داخل ڪريو. اسان پاسورڊ ري سيٽ ڪرڻ لاءِ هڪ OTP ڪوڊ موڪلينداسين.",
+    "emailLabel": "اي ميل ايڊريس",
+    "sending": "موڪلڻ...",
+    "sendOtp": "OTP ڪوڊ موڪليو",
+    "verifyOtpTitle": "OTP ڪوڊ جي تصديق ڪريو",
+    "verifyOtpDesc": "داخل ڪريو 6 عددي ڪوڊ جيڪو توهان جي اي ميل تي موڪليو ويو آهي توهان جي سڃاڻپ جي تصديق ڪرڻ لاءِ.",
+    "verifying": "تصديق ڪندي...",
+    "verifyOtp": "OTP جي تصديق ڪريو",
+    "resending": "ٻيهر موڪلڻ...",
+    "resendOtp": "OTP ڪوڊ ٻيهر موڪليو",
+    "resendCodeIn": "۾ ڪوڊ ٻيهر موڪليو",
+    "newPasswordTitle": "نئون پاسورڊ ٺاهيو",
+    "newPasswordDesc": "پنهنجو اڪائونٽ محفوظ ڪرڻ لاءِ نئون، مضبوط پاسورڊ ٺاهيو.",
+    "newPasswordLabel": "نئون پاسورڊ",
+    "min8Chars": "گھٽ ۾ گھٽ 8 اکر",
+    "oneUpperCase": "1 وڏو اکر (A-Z)",
+    "oneNumber": "1 نمبر (0-9)",
+    "oneSymbol": "1 علامت (!@#$%^&*)",
+    "confirmPasswordLabel": "پاسورڊ جي تصديق ڪريو",
+    "passwordsDoNotMatch": "پاسورڊ ملن نه ٿا.",
+    "resettingPassword": "پاسورڊ ري سيٽ ڪيو پيو وڃي...",
+    "resetPassword": "پاسورڊ ري سيٽ ڪريو"
+  },
+  "verifyEmail": {
+    "resendError": "تصديق واري اي ميل ٻيهر موڪلڻ ۾ ناڪام ٿيو. مهرباني ڪري ٻيهر ڪوشش ڪريو.",
+    "checkingStatus": "تصديق جي حالت چيڪ ڪري رهيو آهي...",
+    "title": "پنھنجي اي ميل چيڪ ڪريو",
+    "description": "اسان توهان جي اي ميل پتي تي هڪ تصديق واري اي ميل موڪليو آهي. مھرباني ڪري اي ميل کوليو ۽ ڪلڪ ڪريو <1>\"اڪاؤنٽ جي تصديق ڪريو\"</1> بٽڻ تي پنھنجي اڪائونٽ کي چالو ڪرڻ لاء.",
+    "stepsTitle": "قدم",
+    "step1": "پنھنجي اي ميل ايپليڪيشن کوليو (Gmail، Yahoo، وغيره)",
+    "step2": "DevFolio مان هڪ اي ميل ڳوليو جنهن سان موضوع ”اڪائونٽ ايڪٽيويشن“",
+    "step3": "اي ميل ۾ \"اڪائونٽ جي تصديق ڪريو\" بٽڻ تي ڪلڪ ڪريو",
+    "step4": "توهان کي داخل ٿيڻ لاءِ لاگ ان صفحي ڏانهن هدايت ڪئي ويندي",
+    "resendSuccess": "تصديق واري اي ميل ٻيهر موڪلي وئي آهي!",
+    "resending": "ٻيهر موڪلڻ...",
+    "resendButton": "تصديق واري اي ميل ٻيهر موڪليو",
+    "backToLogin": "لاگ ان صفحي ڏانھن واپس وڃو",
+    "footerNote": "اي ميل حاصل نه ڪيو؟ چيڪ ڪريو <1>اسپام</1> يا <2>جنڪ</2> فولڊر پنهنجي اي ميل ۾. تصديق لنڪ <3>24 ڪلاڪن</3> لاءِ صحيح آهي."
+  }
+}

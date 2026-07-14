@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ezaugarriak",
+    "templates": "Txantiloiak",
+    "pricing": "Prezioak",
+    "login": "Saioa hasi",
+    "getStarted": "Hasi",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Garatzaileentzako azken zorroa eraikitzailea",
+    "title1": "Eraiki zure profesionala",
+    "title2": "zorroa barruan",
+    "titleHighlight": "segundoak.",
+    "subtitle": "Zure gaitasunak, proiektuak eta esperientzia erakusteko behar duzun guztia. ",
+    "startBuilding": "Hasi orain eraikitzen",
+    "viewTemplates": "Ikusi txantiloiak",
+    "fastDeployment": "Inplementazio azkarra",
+    "liveStatus": "username.dev zuzenean dago!",
+    "featuresTitle": "Ezaugarri indartsuak",
+    "featuresSubtitle": "Jendetzatik bereizteko eta zure ametsetako lana lortzeko behar dituzun tresna guztiak eskaintzen dizkizugu.",
+    "feature1Title": "Arrastatu eta Jaregin eraikitzailea",
+    "feature1Desc": "Antolatu erraz zure atalak, proiektuak eta trebetasunak gure ikus-entzunezko editore intuitiboarekin.",
+    "feature2Title": "Gai pertsonalizatuak",
+    "feature2Desc": "Aukeratu profesionalki diseinatutako txantiloietatik edo sortu zure itxura berezia.",
+    "feature3Title": "Denbora errealeko Analytics",
+    "feature3Desc": "Jarraitu zure bisitariei, ikusi zein proiektuk hartzen duten arreta gehien eta gehiago."
+  },
+  "auth": {
+    "welcomeBack": "Ongi etorri Itzuli",
+    "loginToContinue": "Hasi saioa zure kontuan jarraitzeko",
+    "createAccount": "Sortu kontua",
+    "joinCommunity": "Bat egin beste milaka garatzailerekin",
+    "fullName": "Izen osoa",
+    "fullNamePlaceholder": "adib. ",
+    "email": "Helbide elektronikoa",
+    "emailPlaceholder": "zu@adibidea.com",
+    "password": "Pasahitza",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Gogoratu nirekin",
+    "forgotPassword": "Pasahitza ahaztu duzu?",
+    "signIn": "Hasi saioa",
+    "signingIn": "Saioa hasten...",
+    "signUp": "Izena eman",
+    "signingUp": "Izena ematen...",
+    "noAccount": "Ez al duzu konturik?",
+    "hasAccount": "Dagoeneko kontu bat duzu?",
+    "passwordRules": {
+      "title": "Pasahitzak eduki behar du:",
+      "length": "Gutxienez 8 karaktere",
+      "uppercase": "Letra larriz bat (A-Z)",
+      "number": "Zenbaki bat (0-9)",
+      "symbol": "Ikur bat (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolioen eraikitzailea",
+      "templates": "Txantiloiak eta gaiak",
+      "settings": "Ezarpenak",
+      "collapse": "Tolestu alboko barra",
+      "overview": "Ikuspegi orokorra",
+      "profileSettings": "Profilaren ezarpenak",
+      "customDomain": "Domeinu pertsonalizatua",
+      "feedback": "Iritzia"
+    },
+    "header": {
+      "viewLive": "Ikusi Zuzenean",
+      "welcome": "Ongi etorri,",
+      "logout": "Amaitu saioa",
+      "builder": "Eraikitzailea",
+      "livePortfolio": "Zuzeneko Portfolioa",
+      "live": "Zuzenean"
+    },
+    "logoutModal": {
+      "title": "Amaitu saioa",
+      "message": "Ziur zure kontutik saioa amaitu nahi duzula? ",
+      "cancel": "Utzi",
+      "confirm": "Bai, saioa amaitu"
+    },
+    "slugModal": {
+      "title": "Aukeratu Zure Portfolioaren URLa",
+      "message": "URL hau zure zorrorako esteka bakarra izango da. ",
+      "slugPlaceholder": "zure-izena",
+      "availability": "Eskuragarritasuna:",
+      "available": "Eskuragarri",
+      "unavailable": "Ez dago erabilgarri",
+      "checking": "Egiaztatzen...",
+      "mustFormat": "Letrak, zenbakiak eta marratxoak soilik izan ditzake (-)",
+      "cancel": "Utzi",
+      "save": "Gorde URLa",
+      "usernameUrl": "Erabiltzaile izenaren URLa",
+      "helpText": "Letra minuskulak, zenbakiak eta marratxoak. ",
+      "validation": {
+        "empty": "Slug ezin da hutsik egon.",
+        "min3": "Gutxienez 3 karaktere.",
+        "max30": "Gehienez 30 karaktere.",
+        "format": "Letra minuskulak, zenbakiak eta marratxoak soilik (-). "
+      }
+    },
+    "loadingPortfolio": "Karteraren datuak kargatzen...",
+    "overview": {
+      "greetings": {
+        "morning": "Egun on",
+        "afternoon": "Arratsalde on",
+        "evening": "Arratsalde on",
+        "night": "Gau on"
+      },
+      "welcome": {
+        "hi": "Kaixo,",
+        "creator": "Sortzailea",
+        "desc1": "Ongi etorri DevFolio panelera. Zure zorroa ikusi du",
+        "desc2": "pertsona. Jarraitu lanean!",
+        "editPortfolio": "Editatu Portfolioa"
+      },
+      "stats": {
+        "totalVisitors": "Bisitariak guztira",
+        "projectViews": "Ikusita (Proiektua)",
+        "activeSessions": "Saio Aktiboa",
+        "totalLabel": "Guztira"
+      },
+      "setup": {
+        "title": "Konfigurazio-aurrerapena",
+        "completed": "Zure zorroa osatuta dago! 🎉",
+        "inProgress": "Portafolio perfekturako urratsak.",
+        "profile": {
+          "title": "Profil osoa",
+          "desc": "Gehitu izena, biografia eta profileko argazkia."
+        },
+        "section": {
+          "title": "Gehitu Atalak",
+          "desc": "Aktibatu gutxienez atal bat zorroan."
+        },
+        "project": {
+          "title": "Gehitu proiektua",
+          "desc": "Sartu gutxienez zure proiekturik onenetako bat."
+        },
+        "publish": {
+          "title": "Argitaratu Portfolioa",
+          "desc": "Ezarri URL pertsonalizatu bat, publikoak atzitu ahal izateko."
+        }
+      },
+      "topProjects": {
+        "title": "Proiektu ezagunenak",
+        "desc": "Zure lanaren antzezpena bisitarien begietan.",
+        "viewAll": "Ikusi guztiak",
+        "empty": "Oraindik ez dago zure proiektuaren ikuspegi-daturik."
+      }
+    },
+    "themes": {
+      "title": "Txantiloiak eta gaiak",
+      "subtitle": "Pertsonalizatu zure zorro publikoaren itxura.",
+      "reset": "Berrezarri lehenetsia",
+      "save": "Gorde aldaketak",
+      "saving": "Gordetzen...",
+      "chooseTemplate": "Aukeratu txantiloi bat",
+      "primaryColor": "Lehen kolorea",
+      "typography": "Tipografia",
+      "appearance": "Itxura",
+      "corners": "Txokoak eta Ertzak",
+      "successTitle": "Arrakasta",
+      "successMessage": "Gaiaren hobespenak behar bezala eguneratu dira",
+      "errorTitle": "Errorea",
+      "errorMessage": "Ezin izan dira gaiaren hobespenak gorde",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Diseinu garbia eta sinplea edukietan zentratua."
+        },
+        "developerDark": {
+          "name": "Garatzailea Dark",
+          "desc": "Gai iluna aproposa kodea eta teknologia-pilak erakusteko."
+        },
+        "creative": {
+          "name": "Sormen",
+          "desc": "Diseinu bizia eta koloretsua diseinatzaile eta sortzaileentzat."
+        },
+        "executive": {
+          "name": "Exekutiboa",
+          "desc": "Maketazio profesionala eta formala enpresa profesionalentzat."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Apple estiloko sareta diseinu modernoa, trebetasun desberdinak modu eraginkorrean nabarmentzen dituena."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutalismoa",
+          "desc": "Ertz ausartak eta kontraste handiko koloreak itxura modan eta barkamenik ez izateko."
+        },
+        "glassmorphism": {
+          "name": "Beiramorfismoa",
+          "desc": "Beira izoztuaren efektuak gradiente koloretsuen gainean UI moderno dotore baterako."
+        },
+        "linkInBio": {
+          "name": "Esteka bioan",
+          "desc": "Diseinu bertikal trinkoa mugikorretarako eta sare sozialetarako optimizatua."
+        }
+      },
+      "appearances": {
+        "light": "Argia",
+        "dark": "Iluna",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Zorrotza",
+        "rounded": "Biribildua",
+        "pill": "Pilula"
+      }
+    },
+    "feedback": {
+      "title": "Bidali Iritzia",
+      "subtitle": "Lagundu iezaguzu hobetzen aplikazio honetan iradokizunak, kritikak edo akatsen berri emanez.",
+      "categoryLabel": "Iritzi-kategoria",
+      "messageLabel": "Mezuaren xehetasunak",
+      "messagePlaceholder": "Esaidazu zehatz-mehatz helarazi nahi duzun iritzia...",
+      "imageLabel": "Irudi eranskina (aukerakoa)",
+      "imagePlaceholder": "Egin klik irudia edo pantaila-argazkia kargatzeko",
+      "submitting": "Bidaltzen...",
+      "submitBtn": "Bidali Iritzia",
+      "categories": {
+        "suggestion": "Iradokizunak eta ideiak",
+        "bug": "Akatsen / Akatsen txostena",
+        "criticism": "Kritika",
+        "other": "Beste batzuk"
+      },
+      "imageErrorTitle": "Errorea",
+      "imageErrorMessage": "Fitxategi batzuk baztertzen dira ez direlako onartzen irudi formatuak (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Arrakasta",
+      "successMessage": "Eskerrik asko zure iritziagatik! Txostena bidali da.",
+      "submitErrorTitle": "Huts egin du",
+      "submitErrorMessage": "Errore bat gertatu da iritzia bidaltzean. Mesedez, saiatu berriro."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Niri buruz",
+      "skills": "Trebetasunak",
+      "projects": "Proiektuak",
+      "workExperience": "Lan Esperientzia",
+      "orgExperience": "Antolakuntza Esperientzia",
+      "education": "Hezkuntza",
+      "certifications": "Prestakuntza eta Ziurtagiriak",
+      "contact": "Jarri nirekin harremanetan"
+    },
+    "editor": {
+      "profileInfo": "Profilaren informazioa",
+      "saving": "Gordetzen...",
+      "profilePhoto": "Profileko argazkia",
+      "clickToUpload": "Egin klik kargatzeko (JPG, PNG)",
+      "fullName": "Izen osoa",
+      "fullNamePlaceholder": "adib. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Web-aplikazio modernoak eraikitzeko grina duen Fullstack garatzailea...",
+      "location": "Kokapena",
+      "locationPlaceholder": "adib. ",
+      "gender": "Generoa",
+      "selectGender": "Hautatu Generoa",
+      "male": "Gizonezkoa",
+      "female": "Emakumezkoa",
+      "custom": "Pertsonalizatua",
+      "customPlaceholder": "Idatzi zure genero pertsonalizatua...",
+      "uploadCv": "Kargatu CV",
+      "cvFormat": "(DOC edo PDF)",
+      "preview": "Aurrebista",
+      "remove": "Kendu",
+      "clickToUploadCv": "Egin klik PDF edo DOC kargatzeko",
+      "sections": "Atalak",
+      "removeSelected": "Kendu Hautatuak",
+      "confirmRemove": "Berretsi Kendu",
+      "addSection": "Gehitu Atala",
+      "addAllSections": "Gehitu atal guztiak",
+      "noSections": "Oraindik ez dago atalik",
+      "clickToAdd": "Egin klik \"+ Gehitu atala\" hasteko",
+      "selectAll": "Hautatu Guztiak",
+      "selected": "Hautatuta",
+      "dragToReorder": "Arrastatu atalak berrantolatzeko",
+      "livePreview": "Zuzeneko aurrebista",
+      "addSectionsToBuild": "Gehitu atalak zure zorroa sortzeko",
+      "now": "Orain",
+      "current": "Oraingoa",
+      "noExpiry": "Iraungitzerik ez",
+      "see": "Ikusi",
+      "position": "Posizioa",
+      "degree": "Gradua",
+      "certification": "Ziurtagiria",
+      "sectionsForm": {
+        "about": {
+          "label": "Zure buruaren deskribapena",
+          "placeholder": "Konta iezaguzu zeure burua, zure jatorria, interesak eta trebetasunak..."
+        },
+        "skills": {
+          "addPlaceholder": "Idatzi trebetasuna eta sakatu Sartu..."
+        },
+        "projects": {
+          "title": "Proiektuaren izena",
+          "titlePlaceholder": "Proiektuaren izena...",
+          "url": "Proiektuaren URLa",
+          "description": "Deskribapena",
+          "descriptionPlaceholder": "Proiektuaren deskribapen laburra...",
+          "uploadThumbnail": "Proiektuaren Irudia",
+          "addProject": "Gehitu proiektua",
+          "projectNum": "# proiektua",
+          "currentProject": "Lantzen ari naizen proiektua da"
+        },
+        "work": {
+          "company": "Enpresa/Agentzia",
+          "companyPlaceholder": "Enpresaren izena...",
+          "position": "Kargua/Izenburua",
+          "positionPlaceholder": "Zure posizioa...",
+          "employmentType": "Lan mota",
+          "location": "Kokapena",
+          "locationPlaceholder": "Herria, Herria...",
+          "startDate": "Hasi",
+          "endDate": "Amaitu",
+          "currentWork": "Momentuz lanean nabil oraindik",
+          "description": "Deskribapena",
+          "descriptionPlaceholder": "Lanpostuaren deskribapena eta erantzukizunak...",
+          "skills": "Trebetasuna",
+          "addExperience": "Gehitu lan-esperientzia",
+          "experienceNum": "Esperientzia #",
+          "dateError": "Amaiera-data ezin da hasiera-data baino lehenagokoa izan"
+        },
+        "org": {
+          "organization": "Erakundearen izena",
+          "orgPlaceholder": "BEM Unibertsitatea...",
+          "role": "Rola/Posizioa",
+          "rolePlaceholder": "Dibisio burua...",
+          "addOrg": "Gehitu antolakuntza-esperientzia",
+          "orgNum": "Erakunde #"
+        },
+        "edu": {
+          "institution": "Hezkuntza Erakundeak",
+          "institutionPlaceholder": "Campus edo ikastetxearen izena...",
+          "degree": "Izenburua",
+          "degreePlaceholder": "S1, batxilergoa, etab...",
+          "major": "Saila/Ikasketa Arloa",
+          "majorPlaceholder": "Ingeniaritza Informatikoa...",
+          "gpa": "GPA (aukerakoa)",
+          "currentStudy": "Oraindik hemen ikasten ari naiz",
+          "descriptionPlaceholder": "Ikasketa garaiko jarduerak eta lorpenak...",
+          "addEdu": "Gehitu Hezkuntza",
+          "eduNum": "Hezkuntza #"
+        },
+        "cert": {
+          "name": "Ziurtagiriaren / Prestakuntzaren izena",
+          "namePlaceholder": "Ziurtagiriaren izena...",
+          "issuer": "Argitaletxea",
+          "issuerPlaceholder": "Argitalpen erakundea...",
+          "issueDate": "Hasiera (Argitaratze data)",
+          "issueDatePlaceholder": "Hautatu argitalpen data...",
+          "expiryDate": "Osatua (Baliozko epea)",
+          "expiryDatePlaceholder": "Hautatu iraungitze data...",
+          "noExpiry": "Ziurtagiri honek ez du iraungitze datarik",
+          "url": "Kredentzialaren URLa",
+          "uploadThumbnail": "Ziurtagiria / Prestakuntza Irudia",
+          "uploadThumbnailLimit": "Kargatu ziurtagiriaren irudia (JPG/PNG/WEBP, gehienez 2 MB)",
+          "addCert": "Gehitu Ziurtagiria",
+          "certNum": "# ziurtagiria"
+        },
+        "contact": {
+          "contactNum": "Harremanetarako #",
+          "platform": "Plataforma",
+          "displayText": "Bistaratu testua",
+          "displayTextPlaceholder": "adibidez, you@email.com edo @erabiltzaile izena",
+          "url": "Esteka (URL)",
+          "urlPlaceholderWhatsapp": "adibidez, 62812... (0 hasierarik gabe)",
+          "urlPlaceholderEmail": "adibidez, zu@email.com",
+          "urlPlaceholderWebsite": "adibidez, https://...",
+          "urlPlaceholderDefault": "adibidez, erabiltzaile-izena",
+          "addContact": "Gehitu kontaktua"
+        },
+        "common": {
+          "months": {
+            "1": "Urtarrila",
+            "2": "Otsaila",
+            "3": "Martxoa",
+            "4": "Apirila",
+            "5": "Maiatza",
+            "6": "ekaina",
+            "7": "uztaila",
+            "8": "Abuztua",
+            "9": "Iraila",
+            "10": "Urria",
+            "11": "Azaroa",
+            "12": "abendua"
+          },
+          "month": "Hilabetea",
+          "year": "Urtea",
+          "invalidDate": "Azken hilabetea baliogabea",
+          "words": "hitzak"
+        }
+      },
+      "sure": "Noski",
+      "deletePhotoTitle": "Profileko argazkia ezabatu nahi duzu?",
+      "deletePhotoMessage": "Ziur profileko argazki hau ezabatu nahi duzula?",
+      "cancel": "Utzi",
+      "delete": "Ezabatu"
+    },
+    "cropper": {
+      "chooseBackground": "Aukeratu Atzeko planoa",
+      "cropPhoto": "Moztu zure argazkia",
+      "useOriginal": "Erabili originala",
+      "backgroundPresets": "Atzeko planoko aurrezarpenak",
+      "none": "Bat ere ez",
+      "uploadBackground": "Kargatu atzeko planoa",
+      "cancel": "Utzi",
+      "savePhoto": "Gorde argazkia",
+      "zoom": "Zoomatu",
+      "rotationTilt": "Biraketa eta inklinazioa",
+      "resetRotation": "Berrezarri 0°-ra",
+      "center": "Zentroa",
+      "rotateLeft": "Biratu -90°",
+      "rotateRight": "Biratu +90°",
+      "removeBackground": "Kendu atzeko planoa",
+      "processing": "Zure irudia prozesatzen, itxaron mesedez..."
+    },
+    "cvPreview": {
+      "title": "CVaren aurrebista",
+      "downloadCv": "Deskargatu CV",
+      "download": "Deskargatu",
+      "wordCannotPreview": "Word dokumentuak (.doc/.docx) ezin dira jatorrizko arakatzailean aurrebista. ",
+      "downloadFile": "Deskargatu CV fitxategia",
+      "back": "Itzuli",
+      "mobileMessage": "Mesedez, deskargatu CV fitxategia aurreikusteko.",
+      "preview": "Aurreikusi CV",
+      "wordPreviewTitle": "Word dokumentuaren aurrebista",
+      "wordPreviewMessage": "Word dokumentuak (.doc/.docx) ezin dira jatorrizko arakatzailean aurrebista. Mesedez, deskargatu fitxategia ikusteko."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Idatzi zure buruari, interesei eta lanbide-helburuei buruzko deskribapen labur bat..."
+    },
+    "skills": {
+      "placeholder": "Idatzi trebetasunaren izena...",
+      "add": "Gehitu",
+      "enterToAdd": "Sakatu Sartu gehitzeko",
+      "noSkills": "Oraindik ez dago trebetasunik gehitu."
+    },
+    "projects": {
+      "projectName": "Proiektuaren izena",
+      "projectNamePlaceholder": "adib. ",
+      "projectUrl": "Proiektuaren URLa",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Iraupena",
+      "startMonth": "Hasierako hilabetea",
+      "startYear": "Hasi Urtea",
+      "endMonth": "Amaiera Hilabetea",
+      "endYear": "Amaiera Urtea",
+      "currentlyWorking": "Gaur egun horretan lanean",
+      "description": "Deskribapena",
+      "descriptionPlaceholder": "Deskribatu proiektua, zure rola eta lorpenak...",
+      "technologies": "Erabilitako teknologiak",
+      "addProject": "Gehitu proiektua",
+      "image": "Proiektuaren Irudia",
+      "removeImage": "Kendu irudia",
+      "uploadImage": "Egin klik irudia igotzeko"
+    },
+    "work": {
+      "company": "Enpresa/Erakundea",
+      "companyPlaceholder": "Enpresaren izena...",
+      "role": "Rola/Posizioa",
+      "rolePlaceholder": "Zure posizioa...",
+      "jobType": "Lanpostu Mota",
+      "selectJobType": "Hautatu mota",
+      "fullTime": "Lanaldi osoa",
+      "partTime": "Lanaldi partzialean",
+      "contract": "Kontratua",
+      "internship": "Praktikak",
+      "freelance": "Freelance",
+      "location": "Kokapena",
+      "locationPlaceholder": "adib. ",
+      "duration": "Iraupena",
+      "currentlyWorking": "Gaur egun hemen lanean",
+      "description": "Lanpostuaren Deskribapena",
+      "descriptionPlaceholder": "Describe your key responsibilities and achievements...",
+      "skills": "Trebetasun espezifikoak",
+      "addExperience": "Gehitu esperientzia"
+    },
+    "org": {
+      "organization": "Erakundearen izena",
+      "organizationPlaceholder": "Erakundearen izena...",
+      "role": "Rola/Posizioa",
+      "rolePlaceholder": "adib. ",
+      "duration": "Iraupena",
+      "periodFormat": "edo formatu librea (adibidez, 2020 - 2022)",
+      "periodPlaceholder": "adib. ",
+      "currentlyActive": "Momentuz aktibo",
+      "description": "Jardueraren deskribapena",
+      "descriptionPlaceholder": "Deskribatu zure jarduerak edo ekarpenak...",
+      "addExperience": "Gehitu esperientzia"
+    },
+    "education": {
+      "institution": "Erakundearen izena",
+      "institutionPlaceholder": "Ikastetxe edo unibertsitatearen izena...",
+      "degree": "Gradua/Maila",
+      "degreePlaceholder": "adib. ",
+      "major": "Nagusia/Ikasketa Arloa",
+      "majorPlaceholder": "adib. ",
+      "gpa": "GPA / Kalifikazioa",
+      "gpaPlaceholder": "adib. ",
+      "duration": "Hezkuntza Iraupena",
+      "periodFormat": "edo formatu librea (adibidez, 2018 - 2022)",
+      "periodPlaceholder": "adib. ",
+      "currentlyStudying": "Gaur egun hemen ikasten",
+      "description": "Jarduerak / Honors",
+      "descriptionPlaceholder": "Deskribatu jarduera akademikoak, erakundeak edo jasotako ohoreak...",
+      "addEducation": "Gehitu Hezkuntza"
+    },
+    "cert": {
+      "name": "Ziurtagiriaren izena",
+      "namePlaceholder": "adib. ",
+      "issuer": "Erakunde jaulkitzailea",
+      "issuerPlaceholder": "adib. ",
+      "issueDate": "Jaulkipen Data",
+      "expiryDate": "Baliozkoa arte",
+      "noExpiry": "Kredentzial hau ez da iraungiko",
+      "yearPlaceholder": "edo Urtea (adibidez, 2023)",
+      "credentialUrl": "Kredentzialaren URLa",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Lotutako Gaitasunak",
+      "addCertification": "Gehitu Ziurtagiria",
+      "image": "Irudia/Logoa",
+      "removeImage": "Kendu irudia",
+      "uploadImage": "Egin klik irudia igotzeko"
+    },
+    "common": {
+      "months": {
+        "1": "Urtarrila",
+        "2": "Otsaila",
+        "3": "Martxoa",
+        "4": "Apirila",
+        "5": "Maiatza",
+        "6": "ekaina",
+        "7": "uztaila",
+        "8": "Abuztua",
+        "9": "Iraila",
+        "10": "Urria",
+        "11": "Azaroa",
+        "12": "abendua"
+      },
+      "month": "Hilabetea",
+      "year": "Urtea",
+      "invalidDate": "Azken hilabetea baliogabea",
+      "words": "hitzak"
+    }
+  },
+  "settings": {
+    "title": "Ezarpenak",
+    "subtitle": "Kudeatu zure zorroaren profila eta hobespenak",
+    "tabs": {
+      "profile": "Nire profila",
+      "security": "Segurtasuna",
+      "personalization": "Pertsonalizazioa"
+    },
+    "profile": {
+      "infoTitle": "Oinarrizko informazioa",
+      "photo": "Profileko argazkia",
+      "uploadPhoto": "Aldatu argazkia",
+      "fullName": "Izen osoa",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Helbide elektronikoa",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Posta elektronikoa saioa hasteko erabiltzen da eta ez da publikoki bistaratzen.",
+      "portfolioUrl": "Portfolioaren URLa",
+      "saveProfile": "Gorde profila",
+      "save": "Gorde profila",
+      "accountCreated": "Kontua sortu da",
+      "lastLogin": "Azken saioa",
+      "oauthNotice": "Profil hau zure {{provider}} kontuarekin konektatuta dago. Profilaren aldaketak zerbitzu-hornitzailearen bidez egin behar dira."
+    },
+    "security": {
+      "changePassword": "Aldatu pasahitza",
+      "currentPassword": "Uneko pasahitza",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Pasahitz berria",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Berretsi Pasahitz Berria",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Gutxienez 8 karaktere",
+        "uppercase": "Letra larriz bat (A-Z)",
+        "number": "Zenbaki bat (0-9)",
+        "symbol": "Ikur bat (!@#$%^&*)"
+      },
+      "passwordTitle": "Pasahitza",
+      "updatePassword": "Eguneratu pasahitza",
+      "additionalSecurity": "Segurtasun Gehigarria",
+      "twoFactor": "Bi faktoreko autentifikazioa (2FA)",
+      "twoFactorDesc": "Babestu zure kontua OTP kode gehigarri bat erabiliz.",
+      "activeSessions": "Saio Aktiboak",
+      "activeSessionsDesc": "Baimendu beti saioa hasita dauden gailuen jarraipena.",
+      "publicVisibility": "Ikusgarritasuna publikoa",
+      "hideFromSearch": "Ezkutatu Portfolio bilatzaileetatik",
+      "hideFromSearchDesc": "Eragotzi Google-k zure zorro publikoaren orria indexatzea.",
+      "disable2fa": {
+        "title": "Desgaitu 2FA",
+        "description": "Ziur bi faktoreko autentifikazioa desaktibatu nahi duzula?",
+        "confirmPasswordLabel": "Sartu zure pasahitza berresteko",
+        "currentPasswordPlaceholder": "Uneko pasahitza",
+        "cancelButton": "Utzi",
+        "confirmButton": "Desgaitu 2FA",
+        "incorrectPassword": "Pasahitz okerra."
+      },
+      "setup2fa": {
+        "step1Title": "1. Eskaneatu QR kodea",
+        "step1Desc": "Ireki zure autentifikatzailea aplikazioa eta eskaneatu QR kodea:",
+        "unableToScan": "Ezin da eskaneatu? Erabili konfigurazio tekla",
+        "step2Title": "2. Egiaztatu kodea",
+        "step2Desc": "Sartu zure aplikazioak sortutako 6 digituko kodea:",
+        "cancelButton": "Utzi",
+        "enableButton": "Gaitu 2FA",
+        "invalidLength": "Mesedez, idatzi 6 digituko kodea.",
+        "invalidCode": "Egiaztapen-kode baliogabea. Mesedez, saiatu berriro."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Hizkuntza Kontrolak",
+      "appLanguage": "Aplikazioaren hizkuntza",
+      "layoutTitle": "Diseinua eta tipografia",
+      "layoutStyle": "Diseinu-estiloa",
+      "layoutModern": "Estilo modernoa (lehenetsia)",
+      "layoutClassic": "Estilo Klasikoa",
+      "layoutMinimalist": "Estilo minimalista",
+      "fontSize": "Aplikazioaren letra-tamaina",
+      "fontSmall": "Txikia",
+      "fontNormal": "Arrunta (ertaina)",
+      "fontLarge": "Handia",
+      "searchLanguage": "Bilatu hizkuntza...",
+      "languageNotFound": "Hizkuntza ez da aurkitu",
+      "layoutElegant": "Estilo dotorea"
+    },
+    "saveChanges": "Gorde aldaketak",
+    "cancel": "Utzi",
+    "appSettings": "Aplikazioaren ezarpenak",
+    "logoutConfirmTitle": "Berretsi saioa amaitzea",
+    "logoutConfirmDesc": "Ziur sistematik saioa amaitu nahi duzula?",
+    "logoutConfirmYes": "Bai, saioa amaitu",
+    "generalError": "Errore bat gertatu da. ",
+    "success": "Arrakasta",
+    "preferencesSaved": "Aplikazioaren hobespenak behar bezala gorde dira.",
+    "header": "Aplikazioaren ezarpenak",
+    "logout": {
+      "title": "Amaitzeko baieztapena",
+      "message": "Ziur sistematik saioa amaitu nahi duzula?",
+      "confirm": "Bai, saioa amaitu"
+    },
+    "about": {
+      "title": "Aplikazioari buruz",
+      "subtitle": "Portfolio Builder Plataforma",
+      "version": "Bertsioa",
+      "description": "DevFolio garatzaile, diseinatzaile eta sortzaile profesionalentzat diseinatutako zorroa eraikitzeko plataforma modernoa da. ",
+      "license": "Lizentzia eta Copyright",
+      "copyright": "© 2026 DevFolio Inc. Eskubide guztiak erreserbatuta.",
+      "developer": "Garatzailea",
+      "developedBy": "Rifqi Naradatak garatu du"
+    },
+    "deleteAccount": {
+      "title": "Betiko ezabatu kontua",
+      "menuItem": "Ezabatu kontua",
+      "successTitle": "Arrakasta",
+      "successMessage": "Kontua ezabatzeko berrespen-mezu elektroniko bat bidali da.",
+      "errorTitle": "Huts egin du",
+      "errorMessage": "Ezin izan da berrespen-mezu elektronikoa bidali.",
+      "confirmationMessage": "Ziur zure kontua betiko ezabatu nahi duzula?",
+      "warningMessage1": "Mezu elektroniko bat jasoko duzu kontua ezabatzea berresteko.",
+      "warningMessage2": "Baieztatzen bada, datu guztiak (zorroa, proiektuak, estatistikak) behin betiko ezabatuko dira eta ezin izango dira berreskuratu.",
+      "cancel": "Utzi",
+      "confirm": "Berrespena"
+    },
+    "toasts": {
+      "toastError": "Errorea",
+      "toastSuccess": "Arrakasta",
+      "toastSetup2FAFailed": "Ezin izan da 2FA konfiguratu. Mesedez, saiatu berriro.",
+      "toast2FAEnabled": "Bi faktoreko autentifikazioa gaitu da.",
+      "toast2FADisabled": "Bi faktoreko autentifikazioa desgaitu da.",
+      "toastSessionEnabled": "Saioen monitorizazio aktiboa gaitu da.",
+      "toastSessionDisabled": "Saioen jarraipena aktiboa desgaitu da.",
+      "toastSetupKeyCopied": "Konfigurazio-tekla arbelean kopiatu da."
+    },
+    "privacy": {
+      "title": "Pribatutasun-politika",
+      "updateDate": "Azken eguneratzea: 2026ko uztailaren 15a",
+      "intro": "Pribatutasun-politika honek DevFoliok zure informazio pertsonala nola biltzen, erabiltzen eta babesten duen azaltzen du gure zerbitzuak erabiltzean.",
+      "section1Title": "1. Biltzen dugun informazioa",
+      "section1Content": "Kontu bat sortzean, zorroa eraikitzean eta gure laguntzarekin harremanetan jartzean zuzenean ematen duzun informazioa biltzen dugu. ",
+      "section2Title": "2. Informazioaren erabilera",
+      "section2Content": "Zure informazioa gure zerbitzuen funtzioak funtzionatzeko, mantentzeko eta eskaintzeko erabiltzen da, baita zure kontu edo zerbitzuei buruz zurekin komunikatzeko ere.",
+      "section3Title": "3. Datuen Segurtasuna",
+      "section3Content": "Arrazoizko segurtasun-neurriak ezartzen ditugu zure informazioa baimenik gabeko sarbideetatik, zabalkundetik edo suntsipenetik babesteko."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ez da aurkitu berrespen-tokena.",
+    "defaultError": "Ezin izan da kontua ezabatu. Baliteke tokena iraungita egotea.",
+    "loadingTitle": "Kontua ezabatzen...",
+    "loadingMessage": "Mesedez, itxaron, zure eskaera prozesatzen ari gara.",
+    "successTitle": "Kontua behar bezala ezabatu da",
+    "successMessage": "Zure datu guztiak behin betiko ezabatu dira. Birbideratuko zaituzte...",
+    "errorTitle": "Ezin izan da kontua ezabatu",
+    "backToHome": "Itzuli etxera"
+  },
+  "forgotPassword": {
+    "minutes": "minutu",
+    "seconds": "segundo",
+    "success": "Arrakasta",
+    "otpSentToEmail": "OTP kodea bidali da zure posta elektronikora.",
+    "failed": "Huts egin du",
+    "emailNotFound": "Ez da aurkitu helbide elektronikoa.",
+    "emailThirdParty": "Mezu elektroniko hau hirugarren baten bidez erregistratzen da.",
+    "genericError": "Errore bat dago. Mesedez, saiatu berriro.",
+    "otpVerified": "OTP kodea behar bezala egiaztatu da.",
+    "otpExpired": "OTP kodea iraungi egin da. Mesedez, eskatu kode berri bat.",
+    "otpInvalid": "OTP kodea baliogabea.",
+    "otpResent": "OTP kode berri bat bidali da zure posta elektronikora.",
+    "otpResendFailed": "Ezin izan da OTP kodea birbidali. Mesedez, saiatu berriro.",
+    "passwordResetSuccess": "Pasahitza behar bezala berrezarri. Mesedez, hasi saioa zure pasahitz berriarekin.",
+    "passwordResetFailed": "Ezin izan da berrezarri pasahitza.",
+    "backToLogin": "Itzuli Sarrera",
+    "back": "Itzuli",
+    "title": "Pasahitza ahaztu zait",
+    "description": "Sartu zure kontuan erregistratutako helbide elektronikoa. OTP kodea bidaliko dugu pasahitza berrezartzeko.",
+    "emailLabel": "Helbide elektronikoa",
+    "sending": "Bidaltzen...",
+    "sendOtp": "Bidali OTP kodea",
+    "verifyOtpTitle": "Egiaztatu OTP kodea",
+    "verifyOtpDesc": "Sartu zure posta elektronikora bidalitako 6 digitu kodea zure identitatea berresteko.",
+    "verifying": "Egiaztatzen...",
+    "verifyOtp": "Egiaztatu OTP",
+    "resending": "Berriro bidaltzen...",
+    "resendOtp": "Bidali berriro OTP kodea",
+    "resendCodeIn": "Birbidali kodea",
+    "newPasswordTitle": "Sortu Pasahitz Berria",
+    "newPasswordDesc": "Sortu pasahitz sendo eta berri bat zure kontua babesteko.",
+    "newPasswordLabel": "Pasahitz berria",
+    "min8Chars": "Gutxienez 8 karaktere",
+    "oneUpperCase": "1 maiuskula (A-Z)",
+    "oneNumber": "1 zenbaki (0-9)",
+    "oneSymbol": "1 ikur (!@#$%^&*)",
+    "confirmPasswordLabel": "Berretsi pasahitza",
+    "passwordsDoNotMatch": "Pasahitzak ez datoz bat.",
+    "resettingPassword": "Pasahitza berrezartzen...",
+    "resetPassword": "Berrezarri pasahitza"
+  },
+  "verifyEmail": {
+    "resendError": "Ezin izan da berriro bidali egiaztapen-mezu elektronikoa. Mesedez, saiatu berriro.",
+    "checkingStatus": "Egiaztapen-egoera egiaztatzen...",
+    "title": "Egiaztatu zure posta elektronikoa",
+    "description": "Egiaztapen-mezu bat bidali dugu zure helbide elektronikora. Mesedez, ireki mezu elektronikoa eta egin klik <1>\"Berretsi kontua\"</1> botoian zure kontua aktibatzeko.",
+    "stepsTitle": "Urratsak",
+    "step1": "Ireki posta elektronikoko aplikazioa (Gmail, Yahoo, etab)",
+    "step2": "Bilatu DevFolio-ren mezu elektroniko bat \"Kontua aktibatzea\"",
+    "step3": "gaiarekin Egin klik mezu elektronikoko \"Berretsi kontua\" botoian",
+    "step4": "Saio-hasiera orrira zuzenduko zara",
+    "resendSuccess": "sartzeko Egiaztapen-mezua berriro bidali da!",
+    "resending": "Berriro bidaltzen...",
+    "resendButton": "Berriz bidali egiaztapen-mezu elektronikoa",
+    "backToLogin": "Itzuli Saioa hasteko orrira",
+    "footerNote": "Ez al duzu mezu elektronikoa jaso? Begiratu <1>Spam</1> edo <2>Zabor zabor</2> karpeta zure posta elektronikoan. Egiaztatzeko estekak <3>24 orduz</3> balio du."
+  }
+}

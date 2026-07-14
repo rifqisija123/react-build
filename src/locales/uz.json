@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Xususiyatlari",
+    "templates": "Shablonlar",
+    "pricing": "Narxlash",
+    "login": "Tizimga kirish",
+    "getStarted": "Boshlash",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ishlab chiquvchilar uchun so'nggi portfel yaratuvchisi",
+    "title1": "O'z mutaxassisingizni yarating",
+    "title2": "portfel ichida",
+    "titleHighlight": "soniya.",
+    "subtitle": "Ko'nikmalaringiz, loyihalaringiz va tajribangizni namoyish qilish uchun kerak bo'lgan hamma narsa. ",
+    "startBuilding": "Hozir qurishni boshlang",
+    "viewTemplates": "Shablonlarni ko'rish",
+    "fastDeployment": "Tez joylashtirish",
+    "liveStatus": "username.dev jonli efirda!",
+    "featuresTitle": "Kuchli xususiyatlar",
+    "featuresSubtitle": "Biz olomondan ajralib turishingiz va orzuingizdagi ishga kirishingiz uchun barcha kerakli vositalarni taqdim etamiz.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Intuitiv vizual muharririmiz yordamida bo'limlar, loyihalar va ko'nikmalaringizni osongina tartibga soling.",
+    "feature2Title": "Shaxsiy mavzular",
+    "feature2Desc": "Professional tarzda ishlab chiqilgan shablonlardan tanlang yoki o'zingizning noyob ko'rinishingizni yarating.",
+    "feature3Title": "Haqiqiy vaqt tahlili",
+    "feature3Desc": "Tashrif buyuruvchilarni kuzatib boring, qaysi loyihalarga ko'proq e'tibor qaratilayotganini ko'ring va boshqalar."
+  },
+  "auth": {
+    "welcomeBack": "Qaytib kelganingizdan xursandmiz",
+    "loginToContinue": "Davom etish uchun hisobingizga kiring",
+    "createAccount": "Hisob yaratish",
+    "joinCommunity": "Minglab boshqa ishlab chiquvchilarga qo'shiling",
+    "fullName": "To'liq ism",
+    "fullNamePlaceholder": "masalan ",
+    "email": "E-pochta manzili",
+    "emailPlaceholder": "you@example.com",
+    "password": "Parol",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Meni eslaysizmi",
+    "forgotPassword": "Parolni unutdingizmi?",
+    "signIn": "Tizimga kirish",
+    "signingIn": "Kirish...",
+    "signUp": "Ro'yxatdan o'tish",
+    "signingUp": "Roʻyxatdan oʻtilmoqda...",
+    "noAccount": "Hisobingiz yo'qmi?",
+    "hasAccount": "Hisobingiz bormi?",
+    "passwordRules": {
+      "title": "Parol quyidagilarni o'z ichiga olishi kerak:",
+      "length": "Kamida 8 ta belgi",
+      "uppercase": "Bitta bosh harf (A-Z)",
+      "number": "Bitta raqam (0-9)",
+      "symbol": "Bitta belgi (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfel quruvchi",
+      "templates": "Shablonlar va mavzular",
+      "settings": "Sozlamalar",
+      "collapse": "Yon panelni yig‘ish",
+      "overview": "Umumiy koʻrinish",
+      "profileSettings": "Profil sozlamalari",
+      "customDomain": "Maxsus domen",
+      "feedback": "Fikr-mulohaza"
+    },
+    "header": {
+      "viewLive": "Jonli koʻrish",
+      "welcome": "Xush kelibsiz,",
+      "logout": "Chiqish",
+      "builder": "Quruvchi",
+      "livePortfolio": "Jonli portfolio",
+      "live": "Jonli"
+    },
+    "logoutModal": {
+      "title": "Chiqish",
+      "message": "Haqiqatan ham hisobingizdan chiqmoqchimisiz? ",
+      "cancel": "Bekor qilish",
+      "confirm": "Ha, chiqish"
+    },
+    "slugModal": {
+      "title": "Portfelingizning URL manzilini tanlang",
+      "message": "Ushbu URL sizning portfelingizga noyob havola bo'ladi. ",
+      "slugPlaceholder": "sizning ismingiz",
+      "availability": "Mavjudligi:",
+      "available": "Mavjud",
+      "unavailable": "Mavjud emas",
+      "checking": "Tekshirilmoqda...",
+      "mustFormat": "Faqat harflar, raqamlar va chiziqlar bo'lishi mumkin (-)",
+      "cancel": "Bekor qilish",
+      "save": "URLni saqlang",
+      "usernameUrl": "Foydalanuvchi nomi URL",
+      "helpText": "Kichik harflar, raqamlar va chiziqlar. ",
+      "validation": {
+        "empty": "Slug bo'sh bo'lishi mumkin emas.",
+        "min3": "Kamida 3 ta belgi.",
+        "max30": "Maksimal 30 ta belgi.",
+        "format": "Faqat kichik harflar, raqamlar va chiziqlar (-). "
+      }
+    },
+    "loadingPortfolio": "Portfel maʼlumotlari yuklanmoqda...",
+    "overview": {
+      "greetings": {
+        "morning": "Xayrli tong",
+        "afternoon": "Xayrli kun",
+        "evening": "Xayrli kun",
+        "night": "Xayrli tun"
+      },
+      "welcome": {
+        "hi": "Salom,",
+        "creator": "Yaratuvchi",
+        "desc1": "DevFolio boshqaruv paneliga xush kelibsiz. Sizning portfelingiz tomonidan ko'rilgan",
+        "desc2": "odam. Ishda davom eting!",
+        "editPortfolio": "Portfelni tahrirlash"
+      },
+      "stats": {
+        "totalVisitors": "Jami tashrif buyuruvchilar",
+        "projectViews": "Koʻrildi (loyiha)",
+        "activeSessions": "Faol sessiya",
+        "totalLabel": "Jami"
+      },
+      "setup": {
+        "title": "Oʻrnatish jarayoni",
+        "completed": "Sizning portfelingiz tugallandi! 🎉",
+        "inProgress": "Mukammal portfelga qadamlar.",
+        "profile": {
+          "title": "To'liq profil",
+          "desc": "Ism, bio va profil rasmini qo'shing."
+        },
+        "section": {
+          "title": "Bo'limlarni qo'shish",
+          "desc": "Portfelda kamida 1 bo'limni faollashtiring."
+        },
+        "project": {
+          "title": "Loyiha qo'shish",
+          "desc": "Kamida 1 ta eng yaxshi loyihangizni kiriting."
+        },
+        "publish": {
+          "title": "Portfelni nashr qilish",
+          "desc": "Umumiy foydalanishi mumkin bo'lgan maxsus URL manzilini o'rnating."
+        }
+      },
+      "topProjects": {
+        "title": "Eng mashhur loyihalar",
+        "desc": "Mehmonlar nazarida sizning ishingizning ko'rsatkichi.",
+        "viewAll": "Hammasini koʻrish",
+        "empty": "Loyihangiz uchun hali koʻrish maʼlumotlari yoʻq."
+      }
+    },
+    "themes": {
+      "title": "Shablonlar va mavzular",
+      "subtitle": "Ommaviy portfelingizning ko'rinishi va hissiyotini moslashtiring.",
+      "reset": "Asl holatini tiklash",
+      "save": "O'zgarishlarni saqlash",
+      "saving": "Saqlanmoqda...",
+      "chooseTemplate": "Shablonni tanlang",
+      "primaryColor": "Asosiy rang",
+      "typography": "Tipografiya",
+      "appearance": "Tashqi ko'rinish",
+      "corners": "Burchaklar va chegaralar",
+      "successTitle": "Muvaffaqiyat",
+      "successMessage": "Mavzu sozlamalari muvaffaqiyatli yangilandi",
+      "errorTitle": "Xato",
+      "errorMessage": "Mavzu sozlamalarini saqlab boʻlmadi",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Tarkibga qaratilgan toza va sodda dizayn."
+        },
+        "developerDark": {
+          "name": "Dasturchi Dark",
+          "desc": "Tungi mavzu kod va texnologik steklarni namoyish qilish uchun juda mos keladi."
+        },
+        "creative": {
+          "name": "Ijodiy",
+          "desc": "Dizaynerlar va ijodkorlar uchun jonli va rang-barang tartib."
+        },
+        "executive": {
+          "name": "Ijrochi",
+          "desc": "Biznes mutaxassislari uchun professional va rasmiy tartib."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Turli ko'nikmalarni samarali ta'kidlaydigan zamonaviy Apple uslubidagi panjara tartibi."
+        },
+        "neoBrutalism": {
+          "name": "Neo-brutalizm",
+          "desc": "Qalin hoshiyalar va yuqori kontrastli ranglar zamonaviy, nopok ko'rinish uchun."
+        },
+        "glassmorphism": {
+          "name": "Glassmorfizm",
+          "desc": "Zamonaviy foydalanuvchi interfeysi uchun rangli gradientlar ustida muzli shisha effektlari."
+        },
+        "linkInBio": {
+          "name": "Havola Biodagi",
+          "desc": "Mobil ekranlar va ijtimoiy media uchun optimallashtirilgan ixcham vertikal tartib."
+        }
+      },
+      "appearances": {
+        "light": "Yengil",
+        "dark": "To'q",
+        "system": "Tizim"
+      },
+      "cornersOptions": {
+        "sharp": "O'tkir",
+        "rounded": "Dumaloq",
+        "pill": "Hap"
+      }
+    },
+    "feedback": {
+      "title": "Fikr-mulohaza yuborish",
+      "subtitle": "Ushbu ilovada takliflar, tanqidlar yoki xatolar haqida xabar berish orqali uni yaxshilashga yordam bering.",
+      "categoryLabel": "Fikr-mulohaza toifasi",
+      "messageLabel": "Xabar tafsilotlari",
+      "messagePlaceholder": "Etkazmoqchi bo'lgan fikr-mulohazalaringiz haqida batafsil aytib bering...",
+      "imageLabel": "Rasm ilovasi (ixtiyoriy)",
+      "imagePlaceholder": "Rasm yoki skrinshotni yuklash uchun bosing",
+      "submitting": "Yuborilmoqda...",
+      "submitBtn": "Fikr-mulohaza yuborish",
+      "categories": {
+        "suggestion": "Takliflar va g'oyalar",
+        "bug": "Xato / Xato haqida hisobot",
+        "criticism": "Tanqid",
+        "other": "Boshqalar"
+      },
+      "imageErrorTitle": "Xato",
+      "imageErrorMessage": "Ba'zi fayllar rad etilgan, chunki ular rasm formatlarini qo'llab-quvvatlamaydi (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Muvaffaqiyat",
+      "successMessage": "Fikr-mulohazangiz uchun rahmat! Hisobot yuborildi.",
+      "submitErrorTitle": "Muvaffaqiyatsiz",
+      "submitErrorMessage": "Fikr-mulohaza yuborishda xatolik yuz berdi. Iltimos, qayta urinib koʻring."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Men haqimda",
+      "skills": "Ko'nikmalar",
+      "projects": "Loyihalar",
+      "workExperience": "Ish tajribasi",
+      "orgExperience": "Tashkiliy tajriba",
+      "education": "Ta'lim",
+      "certifications": "Trening va sertifikatlar",
+      "contact": "Men bilan bog'laning"
+    },
+    "editor": {
+      "profileInfo": "Profil haqida ma'lumot",
+      "saving": "Saqlanmoqda...",
+      "profilePhoto": "Profil fotosurati",
+      "clickToUpload": "Yuklash uchun bosing (JPG, PNG)",
+      "fullName": "To'liq ism",
+      "fullNamePlaceholder": "masalan ",
+      "bio": "Bio",
+      "bioPlaceholder": "Zamonaviy veb-ilovalarni yaratish ishtiyoqi bilan Fullstack Developer...",
+      "location": "Joylashuv",
+      "locationPlaceholder": "masalan ",
+      "gender": "Jins",
+      "selectGender": "Jinsni tanlang",
+      "male": "Erkak",
+      "female": "Ayol",
+      "custom": "Maxsus",
+      "customPlaceholder": "Shaxsiy jinsingizni kiriting...",
+      "uploadCv": "CV yuklash",
+      "cvFormat": "(DOC yoki PDF)",
+      "preview": "Ko‘rib chiqish",
+      "remove": "O'chirish",
+      "clickToUploadCv": "PDF yoki DOC yuklash uchun bosing",
+      "sections": "Bo'limlar",
+      "removeSelected": "Tanlanganni olib tashlash",
+      "confirmRemove": "O'chirishni tasdiqlang",
+      "addSection": "Bo'lim qo'shish",
+      "addAllSections": "Barcha bo'limlarni qo'shing",
+      "noSections": "Hali bo'lim yo'q",
+      "clickToAdd": "Boshlash uchun \"+ Bo'lim qo'shish\" tugmasini bosing",
+      "selectAll": "Hammasini tanlang",
+      "selected": "Tanlangan",
+      "dragToReorder": "Bo'limlarni qayta tartiblash uchun torting",
+      "livePreview": "Jonli ko‘rish",
+      "addSectionsToBuild": "Portfelingizni yaratish uchun bo'limlarni qo'shing",
+      "now": "Hozir",
+      "current": "Hozirgi",
+      "noExpiry": "Muddati yo'q",
+      "see": "Qarang",
+      "position": "Lavozim",
+      "degree": "Daraja",
+      "certification": "Sertifikatlash",
+      "sectionsForm": {
+        "about": {
+          "label": "O'zingiz haqida tavsif",
+          "placeholder": "O'zingiz, o'z bilimlaringiz, qiziqishlaringiz va ko'nikmalaringiz haqida bizga xabar bering..."
+        },
+        "skills": {
+          "addPlaceholder": "Skanerni kiriting va Enter tugmasini bosing..."
+        },
+        "projects": {
+          "title": "Loyiha nomi",
+          "titlePlaceholder": "Loyiha nomi...",
+          "url": "Loyiha URL manzili",
+          "description": "Tavsif",
+          "descriptionPlaceholder": "Loyihaning qisqacha tavsifi ...",
+          "uploadThumbnail": "Loyiha tasviri",
+          "addProject": "Loyiha qo'shish",
+          "projectNum": "Loyiha #",
+          "currentProject": "Bu men ishlayotgan loyiha"
+        },
+        "work": {
+          "company": "Kompaniya/agentlik",
+          "companyPlaceholder": "Shirkat nomi...",
+          "position": "Lavozim/unvon",
+          "positionPlaceholder": "Sizning pozitsiyangiz ...",
+          "employmentType": "Ish turi",
+          "location": "Joylashuv",
+          "locationPlaceholder": "Shahar, mamlakat...",
+          "startDate": "Boshlash",
+          "endDate": "Tugallandi",
+          "currentWork": "Men hozir ham ishlayapman",
+          "description": "Tavsif",
+          "descriptionPlaceholder": "Ish tavsifi va majburiyatlari ...",
+          "skills": "Malaka",
+          "addExperience": "Ish tajribasini qo'shing",
+          "experienceNum": "Tajriba #",
+          "dateError": "Tugash sanasi boshlanish sanasidan oldinroq bo'lishi mumkin emas"
+        },
+        "org": {
+          "organization": "Tashkilot nomi",
+          "orgPlaceholder": "BEM universiteti...",
+          "role": "Rol/lavozim",
+          "rolePlaceholder": "Bo'lim boshlig'i...",
+          "addOrg": "Tashkiliy tajribani qo'shing",
+          "orgNum": "Tashkilot №"
+        },
+        "edu": {
+          "institution": "Ta'lim muassasalari",
+          "institutionPlaceholder": "Kampus yoki maktab nomi...",
+          "degree": "Sarlavha",
+          "degreePlaceholder": "S1, o'rta maktab va boshqalar ...",
+          "major": "Bo'lim/ta'lim sohasi",
+          "majorPlaceholder": "Informatika muhandisligi...",
+          "gpa": "GPA (ixtiyoriy)",
+          "currentStudy": "Men hali ham shu erda o'rganyapman",
+          "descriptionPlaceholder": "O'qish davridagi faoliyat va yutuqlar...",
+          "addEdu": "Ta'lim qo'shish",
+          "eduNum": "Taʼlim #"
+        },
+        "cert": {
+          "name": "Sertifikatlash/trening nomi",
+          "namePlaceholder": "Sertifikat nomi...",
+          "issuer": "Nashriyotchi",
+          "issuerPlaceholder": "Nashriyot muassasasi...",
+          "issueDate": "Boshlanish (nashr qilingan sana)",
+          "issueDatePlaceholder": "Nashr sanasini tanlang...",
+          "expiryDate": "Tugallangan (yaroqlilik muddati)",
+          "expiryDatePlaceholder": "Yaroqlilik muddatini tanlang...",
+          "noExpiry": "Ushbu sertifikatning amal qilish muddati yo'q",
+          "url": "Hisob maʼlumotlari URL",
+          "uploadThumbnail": "Sertifikat/trening tasviri",
+          "uploadThumbnailLimit": "Sertifikat rasmini yuklash (JPG/PNG/WEBP, maksimal 2MB)",
+          "addCert": "Sertifikatlash",
+          "certNum": "Sertifikat №"
+        },
+        "contact": {
+          "contactNum": "Kontakt №",
+          "platform": "Platforma",
+          "displayText": "Matnni ko'rsatish",
+          "displayTextPlaceholder": "masalan, you@email.com yoki @username",
+          "url": "Havola (URL)",
+          "urlPlaceholderWhatsapp": "masalan, 62812... (0 boshsiz)",
+          "urlPlaceholderEmail": "masalan, you@email.com",
+          "urlPlaceholderWebsite": "masalan, https://...",
+          "urlPlaceholderDefault": "masalan, foydalanuvchi nomi",
+          "addContact": "Kontakt qo'shish"
+        },
+        "common": {
+          "months": {
+            "1": "Yanvar",
+            "2": "Fevral",
+            "3": "mart",
+            "4": "aprel",
+            "5": "may",
+            "6": "iyun",
+            "7": "iyul",
+            "8": "avgust",
+            "9": "sentyabr",
+            "10": "oktyabr",
+            "11": "Noyabr",
+            "12": "dekabr"
+          },
+          "month": "Oy",
+          "year": "Yil",
+          "invalidDate": "Yaroqsiz tugash oyi",
+          "words": "so'zlar"
+        }
+      },
+      "sure": "Albatta",
+      "deletePhotoTitle": "Profil surati oʻchirilsinmi?",
+      "deletePhotoMessage": "Haqiqatan ham bu profil rasmini oʻchirib tashlamoqchimisiz?",
+      "cancel": "Bekor qilish",
+      "delete": "Oʻchirish"
+    },
+    "cropper": {
+      "chooseBackground": "Fonni tanlang",
+      "cropPhoto": "Suratingizni kesib oling",
+      "useOriginal": "Asl nusxadan foydalaning",
+      "backgroundPresets": "Orqa fon sozlamalari",
+      "none": "Yo'q",
+      "uploadBackground": "Orqa fonni yuklash",
+      "cancel": "Bekor qilish",
+      "savePhoto": "Suratni saqlash",
+      "zoom": "Kattalashtirish",
+      "rotationTilt": "Aylantirish va egilish",
+      "resetRotation": "0° ga qaytaring",
+      "center": "Markaz",
+      "rotateLeft": "-90° aylantiring",
+      "rotateRight": "+90° aylantiring",
+      "removeBackground": "Fonni olib tashlash",
+      "processing": "Rasmingiz qayta ishlanmoqda, kuting..."
+    },
+    "cvPreview": {
+      "title": "CV oldindan ko'rish",
+      "downloadCv": "CV yuklab olish",
+      "download": "Yuklab oling",
+      "wordCannotPreview": "Word hujjatlarini (.doc/.docx) brauzerda asl nusxada ko‘rib bo‘lmaydi. ",
+      "downloadFile": "CV faylni yuklab oling",
+      "back": "Orqaga",
+      "mobileMessage": "Iltimos, CV faylni oldindan ko'rish uchun yuklab oling.",
+      "preview": "CV-ni oldindan ko'rish",
+      "wordPreviewTitle": "Word hujjatlarini oldindan ko'rish",
+      "wordPreviewMessage": "Word hujjatlarini (.doc/.docx) brauzerda asl nusxada ko‘rib bo‘lmaydi. Iltimos, uni ko'rish uchun faylni yuklab oling."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "O'zingiz, qiziqishlaringiz va martaba maqsadlaringiz haqida qisqacha tavsif yozing..."
+    },
+    "skills": {
+      "placeholder": "Malaka nomini kiriting...",
+      "add": "Qo'shish",
+      "enterToAdd": "Qo'shish uchun Enter tugmasini bosing",
+      "noSkills": "Hali hech qanday mahorat qo'shilmagan."
+    },
+    "projects": {
+      "projectName": "Loyiha nomi",
+      "projectNamePlaceholder": "masalan ",
+      "projectUrl": "Loyiha URL manzili",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Davomiyligi",
+      "startMonth": "Boshlanish oyi",
+      "startYear": "Boshlanish yili",
+      "endMonth": "Yakuniy oy",
+      "endYear": "Yakuniy yil",
+      "currentlyWorking": "Hozirda bu borada ish olib borilmoqda",
+      "description": "Tavsif",
+      "descriptionPlaceholder": "Loyihani, rolingizni va yutuqlaringizni tasvirlab bering...",
+      "technologies": "Ishlatilgan texnologiyalar",
+      "addProject": "Loyiha qo'shish",
+      "image": "Loyiha tasviri",
+      "removeImage": "Rasmni o'chirish",
+      "uploadImage": "Rasmni yuklash uchun bosing"
+    },
+    "work": {
+      "company": "Kompaniya/tashkilot",
+      "companyPlaceholder": "Shirkat nomi...",
+      "role": "Rol/lavozim",
+      "rolePlaceholder": "Sizning pozitsiyangiz ...",
+      "jobType": "Ish turi",
+      "selectJobType": "Turni tanlang",
+      "fullTime": "To'liq stavka",
+      "partTime": "Vaqtincha; Yarim kun",
+      "contract": "Shartnoma",
+      "internship": "Amaliyot",
+      "freelance": "Freelance",
+      "location": "Joylashuv",
+      "locationPlaceholder": "masalan ",
+      "duration": "Davomiyligi",
+      "currentlyWorking": "Hozir shu yerda ishlamoqda",
+      "description": "Ish tavsifi",
+      "descriptionPlaceholder": "Asosiy vazifalaringiz va yutuqlaringizni tasvirlab bering...",
+      "skills": "Maxsus ko'nikmalar",
+      "addExperience": "Tajriba qo'shish"
+    },
+    "org": {
+      "organization": "Tashkilot nomi",
+      "organizationPlaceholder": "Tashkilot nomi...",
+      "role": "Rol/lavozim",
+      "rolePlaceholder": "masalan ",
+      "duration": "Davomiyligi",
+      "periodFormat": "yoki bepul format (masalan, 2020 - 2022)",
+      "periodPlaceholder": "masalan ",
+      "currentlyActive": "Hozirda faol",
+      "description": "Faoliyat tavsifi",
+      "descriptionPlaceholder": "Faoliyatingiz yoki hissalaringizni tasvirlab bering...",
+      "addExperience": "Tajriba qo'shish"
+    },
+    "education": {
+      "institution": "Tashkilot nomi",
+      "institutionPlaceholder": "Maktab yoki universitet nomi...",
+      "degree": "Daraja/daraja",
+      "degreePlaceholder": "masalan ",
+      "major": "Mutaxassislik/taʼlim yoʻnalishi",
+      "majorPlaceholder": "masalan ",
+      "gpa": "GPA / Baho",
+      "gpaPlaceholder": "masalan ",
+      "duration": "Ta'lim muddati",
+      "periodFormat": "yoki bepul format (masalan, 2018 - 2022)",
+      "periodPlaceholder": "masalan ",
+      "currentlyStudying": "Hozir shu yerda tahsil olmoqda",
+      "description": "Faoliyat / faxriy unvonlar",
+      "descriptionPlaceholder": "Ilmiy faoliyat, tashkilotlar yoki olingan mukofotlarni tavsiflang...",
+      "addEducation": "Ta'lim qo'shish"
+    },
+    "cert": {
+      "name": "Sertifikatlash nomi",
+      "namePlaceholder": "masalan ",
+      "issuer": "Emissiya tashkiloti",
+      "issuerPlaceholder": "masalan ",
+      "issueDate": "Berilgan sanasi",
+      "expiryDate": "Qachon amal qiladi",
+      "noExpiry": "Bu hisobga olish ma'lumotlari muddati tugamaydi",
+      "yearPlaceholder": "yoki Yil (masalan, 2023)",
+      "credentialUrl": "Hisob maʼlumotlari URL manzili",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Tegishli ko'nikmalar",
+      "addCertification": "Sertifikatlash qo'shing",
+      "image": "Rasm / logotip",
+      "removeImage": "Rasmni o'chirish",
+      "uploadImage": "Rasmni yuklash uchun bosing"
+    },
+    "common": {
+      "months": {
+        "1": "Yanvar",
+        "2": "Fevral",
+        "3": "Mart",
+        "4": "aprel",
+        "5": "may",
+        "6": "iyun",
+        "7": "iyul",
+        "8": "Avgust",
+        "9": "sentyabr",
+        "10": "oktyabr",
+        "11": "Noyabr",
+        "12": "dekabr"
+      },
+      "month": "Oy",
+      "year": "Yil",
+      "invalidDate": "Yaroqsiz tugash oyi",
+      "words": "so'zlar"
+    }
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "subtitle": "Portfel profilingiz va afzalliklaringizni boshqaring",
+    "tabs": {
+      "profile": "Mening profilim",
+      "security": "Xavfsizlik",
+      "personalization": "Shaxsiylashtirish"
+    },
+    "profile": {
+      "infoTitle": "Asosiy ma'lumotlar",
+      "photo": "Profil fotosurati",
+      "uploadPhoto": "Rasmni o'zgartirish",
+      "fullName": "To'liq ism",
+      "fullNamePlaceholder": "Jon Doe",
+      "email": "E-pochta manzili",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Elektron pochta login uchun ishlatiladi va ochiq ko'rsatilmaydi.",
+      "portfolioUrl": "Portfel URL manzili",
+      "saveProfile": "Profilni saqlash",
+      "save": "Profilni saqlash",
+      "accountCreated": "Hisob yaratildi",
+      "lastLogin": "Oxirgi kirish",
+      "oauthNotice": "Bu profil {{provider}} hisobingizga ulangan. Profilni o'zgartirish xizmat ko'rsatuvchi provayder orqali amalga oshirilishi kerak."
+    },
+    "security": {
+      "changePassword": "Parolni o'zgartirish",
+      "currentPassword": "Joriy parol",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Yangi parol",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Yangi parolni tasdiqlang",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Kamida 8 ta belgi",
+        "uppercase": "Bitta bosh harf (A-Z)",
+        "number": "Bitta raqam (0-9)",
+        "symbol": "Bitta belgi (!@#$%^&*)"
+      },
+      "passwordTitle": "Parol",
+      "updatePassword": "Parolni yangilash",
+      "additionalSecurity": "Qo'shimcha xavfsizlik",
+      "twoFactor": "Ikki faktorli autentifikatsiya (2FA)",
+      "twoFactorDesc": "Qo'shimcha OTP kod yordamida hisobingizni himoyalang.",
+      "activeSessions": "Faol sessiyalar",
+      "activeSessionsDesc": "Har doim tizimga kirgan qurilmalarni kuzatishga ruxsat bering.",
+      "publicVisibility": "Ommaviy ko'rinish",
+      "hideFromSearch": "Portfelni qidiruv tizimlaridan yashirish",
+      "hideFromSearchDesc": "Google sizning umumiy portfel sahifangizni indekslashini oldini oling.",
+      "disable2fa": {
+        "title": "2FA ni o'chirib qo'ying",
+        "description": "Ikki faktorli autentifikatsiyani oʻchirib qoʻymoqchimisiz?",
+        "confirmPasswordLabel": "Tasdiqlash uchun parolingizni kiriting",
+        "currentPasswordPlaceholder": "Joriy parol",
+        "cancelButton": "Bekor qilish",
+        "confirmButton": "2FA ni o'chirib qo'ying",
+        "incorrectPassword": "Noto'g'ri parol."
+      },
+      "setup2fa": {
+        "step1Title": "1. QR kodini skanerlang",
+        "step1Desc": "Autentifikatsiya ilovangizni oching va quyidagi QR kodni skanerlang:",
+        "unableToScan": "Skanerlab bo'lmadimi? Sozlash kalitidan foydalaning",
+        "step2Title": "2. Kodni tekshiring",
+        "step2Desc": "Ilovangiz tomonidan yaratilgan 6 xonali kodni kiriting:",
+        "cancelButton": "Bekor qilish",
+        "enableButton": "2FA ni yoqing",
+        "invalidLength": "6 xonali kodni kiriting.",
+        "invalidCode": "Tasdiqlash kodi yaroqsiz. Iltimos, qayta urinib koʻring."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Til boshqaruvlari",
+      "appLanguage": "Ilova tili",
+      "layoutTitle": "Tartib va ​​tipografiya",
+      "layoutStyle": "Tartib uslubi",
+      "layoutModern": "Zamonaviy uslub (standart)",
+      "layoutClassic": "Klassik uslub",
+      "layoutMinimalist": "Minimalist uslub",
+      "fontSize": "Ilova shrift hajmi",
+      "fontSmall": "Kichik",
+      "fontNormal": "Oddiy (Oʻrta)",
+      "fontLarge": "Katta",
+      "searchLanguage": "Til qidirish...",
+      "languageNotFound": "Til topilmadi",
+      "layoutElegant": "Elegant Uslub"
+    },
+    "saveChanges": "O'zgarishlarni saqlash",
+    "cancel": "Bekor qilish",
+    "appSettings": "Ilova sozlamalari",
+    "logoutConfirmTitle": "Chiqishni tasdiqlang",
+    "logoutConfirmDesc": "Haqiqatan ham tizimdan chiqmoqchimisiz?",
+    "logoutConfirmYes": "Ha, chiqish",
+    "generalError": "Xatolik yuz berdi. ",
+    "success": "Muvaffaqiyat",
+    "preferencesSaved": "Ilova sozlamalari muvaffaqiyatli saqlandi.",
+    "header": "Ilova sozlamalari",
+    "logout": {
+      "title": "Chiqishni tasdiqlash",
+      "message": "Haqiqatan ham tizimdan chiqmoqchimisiz?",
+      "confirm": "Ha, chiqish"
+    },
+    "about": {
+      "title": "Ilova haqida",
+      "subtitle": "Portfolio Builder platformasi",
+      "version": "Versiya",
+      "description": "DevFolio - bu ishlab chiquvchilar, dizaynerlar va professional ijodkorlar uchun mo'ljallangan zamonaviy portfel yaratuvchi platforma. ",
+      "license": "Litsenziya va mualliflik huquqi",
+      "copyright": "© 2026 DevFolio Inc. Barcha huquqlar himoyalangan.",
+      "developer": "Dasturchi",
+      "developedBy": "DevFolio jamoasi tomonidan ishlab chiqilgan"
+    },
+    "deleteAccount": {
+      "title": "Hisobni butunlay o'chirish",
+      "menuItem": "Hisobni o'chirish",
+      "successTitle": "Muvaffaqiyat",
+      "successMessage": "Hisobni oʻchirishni tasdiqlovchi xat yuborildi.",
+      "errorTitle": "Muvaffaqiyatsiz",
+      "errorMessage": "Tasdiqlash xati yuborilmadi.",
+      "confirmationMessage": "Haqiqatan ham hisobingizni butunlay oʻchirib tashlamoqchimisiz?",
+      "warningMessage1": "Hisobni o'chirishni tasdiqlash uchun sizga elektron pochta xabari keladi.",
+      "warningMessage2": "Agar tasdiqlansa, barcha ma'lumotlar (portfel, loyihalar, statistika) butunlay o'chiriladi va ularni qayta tiklab bo'lmaydi.",
+      "cancel": "Bekor qilish",
+      "confirm": "Tasdiqlash"
+    },
+    "toasts": {
+      "toastError": "Xato",
+      "toastSuccess": "Muvaffaqiyat",
+      "toastSetup2FAFailed": "2FA sozlanmadi. Iltimos, qayta urinib koʻring.",
+      "toast2FAEnabled": "Ikki faktorli autentifikatsiya yoqilgan.",
+      "toast2FADisabled": "Ikki faktorli autentifikatsiya o‘chirilgan.",
+      "toastSessionEnabled": "Faol seans monitoringi yoqilgan.",
+      "toastSessionDisabled": "Faol seans monitoringi o‘chirilgan.",
+      "toastSetupKeyCopied": "Sozlash kaliti vaqtinchalik xotiraga nusxalandi."
+    },
+    "privacy": {
+      "title": "Maxfiylik siyosati",
+      "updateDate": "Oxirgi yangilangan: 2026-yil 15-iyul",
+      "intro": "Ushbu Maxfiylik siyosatida DevFolio xizmatlarimizdan foydalanishda shaxsiy maʼlumotlaringizni qanday toʻplashi, ishlatishi va himoyalashi tushuntiriladi.",
+      "section1Title": "1. Biz to'playdigan ma'lumotlar",
+      "section1Content": "Hisob yaratish, portfel yaratish va qo‘llab-quvvatlash xizmatiga murojaat qilishda bevosita taqdim etgan ma’lumotlarni yig‘amiz. ",
+      "section2Title": "2. Axborotdan foydalanish",
+      "section2Content": "Sizning ma'lumotlaringiz xizmatlarimizning xususiyatlarini ishlatish, saqlash va taqdim etish, shuningdek, hisobingiz yoki xizmatlaringiz bo'yicha siz bilan bog'lanish uchun ishlatiladi.",
+      "section3Title": "3. Ma'lumotlar xavfsizligi",
+      "section3Content": "Biz sizning ma'lumotlaringizni ruxsatsiz kirish, oshkor qilish yoki yo'q qilishdan himoya qilish uchun oqilona xavfsizlik choralarini ko'ramiz."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Tasdiqlash belgisi topilmadi.",
+    "defaultError": "Hisobni o‘chirib bo‘lmadi. Token muddati tugagan boʻlishi mumkin.",
+    "loadingTitle": "Hisob o'chirilmoqda...",
+    "loadingMessage": "Iltimos, kuting, so‘rovingizni ko‘rib chiqyapmiz.",
+    "successTitle": "Hisob muvaffaqiyatli o'chirildi",
+    "successMessage": "Barcha maʼlumotlaringiz butunlay oʻchirib tashlandi. Siz qayta yo'naltirilasiz...",
+    "errorTitle": "Hisobni oʻchirib boʻlmadi",
+    "backToHome": "Uyga qaytish"
+  },
+  "forgotPassword": {
+    "minutes": "daqiqa",
+    "seconds": "soniya",
+    "success": "Muvaffaqiyat",
+    "otpSentToEmail": "Elektron pochtangizga OTP kodi yuborildi.",
+    "failed": "Muvaffaqiyatsiz",
+    "emailNotFound": "Email topilmadi.",
+    "emailThirdParty": "Ushbu elektron pochta uchinchi tomon orqali ro'yxatdan o'tgan.",
+    "genericError": "Xato bor. Iltimos, qayta urinib koʻring.",
+    "otpVerified": "OTP kodi muvaffaqiyatli tasdiqlandi.",
+    "otpExpired": "OTP kodi muddati tugagan. Iltimos, yangi kod so'rang.",
+    "otpInvalid": "Yaroqsiz OTP kodi.",
+    "otpResent": "Sizning elektron pochtangizga yangi OTP kodi yuborildi.",
+    "otpResendFailed": "OTP kodini qayta yuborib bo‘lmadi. Iltimos, qayta urinib koʻring.",
+    "passwordResetSuccess": "Parol muvaffaqiyatli tiklandi. Iltimos, yangi parolingiz bilan tizimga kiring.",
+    "passwordResetFailed": "Parolni qayta tiklab bo‘lmadi.",
+    "backToLogin": "Login",
+    "back": "sahifasiga qaytish Orqaga",
+    "title": "Parolni unutdingizmi",
+    "description": "Hisob qaydnomangizda ro'yxatdan o'tgan elektron pochta manzilini kiriting. Parolni tiklash uchun OTP kodini yuboramiz.",
+    "emailLabel": "Elektron pochta manzili",
+    "sending": "Yuborilmoqda...",
+    "sendOtp": "OTP kodini",
+    "verifyOtpTitle": "yuboring OTP kodini tasdiqlang",
+    "verifyOtpDesc": "Shaxsingizni tasdiqlash uchun elektron pochtangizga yuborilgan 6 xonali kodni kiriting.",
+    "verifying": "Tekshirilmoqda...",
+    "verifyOtp": "OTPni tasdiqlang",
+    "resending": "Qayta yuborilmoqda...",
+    "resendOtp": "OTP kodini qayta yuborish",
+    "resendCodeIn": "Kodni",
+    "newPasswordTitle": "da qayta yuboring Yangi parol yarat",
+    "newPasswordDesc": "Hisobingizni himoya qilish uchun yangi, kuchli parol yarating.",
+    "newPasswordLabel": "Yangi parol",
+    "min8Chars": "Kamida 8 ta belgi",
+    "oneUpperCase": "1 ta katta harf (A-Z)",
+    "oneNumber": "1 ta raqam (0-9)",
+    "oneSymbol": "1 ta belgi (!@#$%^&*)",
+    "confirmPasswordLabel": "Parolni tasdiqlang",
+    "passwordsDoNotMatch": "Parollar mos kelmaydi.",
+    "resettingPassword": "Parol qayta tiklanmoqda...",
+    "resetPassword": "Parolni tiklash"
+  },
+  "verifyEmail": {
+    "resendError": "Tasdiqlash xati qayta yuborilmadi. Iltimos, qayta urinib koʻring.",
+    "checkingStatus": "Tasdiqlash holati tekshirilmoqda...",
+    "title": "Elektron pochtangizni tekshiring",
+    "description": "Biz sizning elektron pochta manzilingizga tasdiqlash xatini yubordik. Iltimos, elektron pochtani oching va hisobingizni faollashtirish uchun <1>“Hisobni tasdiqlash”</1> tugmasini bosing.",
+    "stepsTitle": "Qadamlar",
+    "step1": "Elektron pochta ilovangizni oching (Gmail, Yahoo va boshqalar)",
+    "step2": "DevFolio'dan \"Hisobni faollashtirish\"",
+    "step3": "mavzusi bilan elektron pochta xabarini qidiring",
+    "step4": "elektron pochtasida \"Hisobni tasdiqlash\" tugmasini bosing Siz",
+    "resendSuccess": "ga kirish uchun kirish sahifasiga yo'naltirilasiz Tasdiqlash elektron pochtasi qayta yuborildi!",
+    "resending": "Qayta yuborilmoqda...",
+    "resendButton": "Tasdiqlash xatini qayta yuborish",
+    "backToLogin": "Kirish",
+    "footerNote": "sahifasiga qaytish Xatni olmadingizmi? Elektron pochtangizdagi <1>Spam</1> yoki <2>Junk</2> jildini tekshiring. Tasdiqlash havolasi <3>24 soat</3> davomida amal qiladi."
+  }
+}

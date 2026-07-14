@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Andlitsbragd",
+    "templates": "Sniðmyndir",
+    "pricing": "Prísur",
+    "login": "Rita inn",
+    "getStarted": "Kom í gongd",
+    "title": "Menningarblað"
+  },
+  "landing": {
+    "badge": "Tann ultimativi portfolio-byggjarin til mennarar",
+    "title1": "Bygg títt fakliga",
+    "title2": "portfolio &iacute;",
+    "titleHighlight": "sekund.",
+    "subtitle": "Alt tú skalt hava fyri at vísa tínar førleikar, verkætlanir og royndir. ",
+    "startBuilding": "Byrja at byggja nú",
+    "viewTemplates": "Vís fyrimyndir",
+    "fastDeployment": "Skjót útseting",
+    "liveStatus": "brúkaranavnið.dev er beinleiðis!",
+    "featuresTitle": "Kraftmiklir eginleikar",
+    "featuresSubtitle": "Vit veita øll amboðini, sum tú skalt hava fyri at standa seg úr fjøldini og fáa títt dreymastarv.",
+    "feature1Title": "Drag og slepp byggiharri",
+    "feature1Desc": "Skipa lættliga tínar partar, verkætlanir og førleikar við okkara intuitiva visuella ritstjóra.",
+    "feature2Title": "Sersniðgivin tema",
+    "feature2Desc": "Vel ímillum professionelt sniðgivnar fyrimyndir ella ger títt egna serstaka look.",
+    "feature3Title": "Greining í sanntíð",
+    "feature3Desc": "Fylg við tínum vitjandi, síggj hvørjar verkætlanir fáa mest uppmerksemi og annað."
+  },
+  "auth": {
+    "welcomeBack": "Vælkomin aftur",
+    "loginToContinue": "Rita inn á tína kontu fyri at halda fram .",
+    "createAccount": "Stovna kontu",
+    "joinCommunity": "Ver við í túsundtals øðrum forritarum",
+    "fullName": "Fulla navn",
+    "fullNamePlaceholder": "t.d. ",
+    "email": "Teldupostadressa",
+    "emailPlaceholder": "tú@dømi.com",
+    "password": "Loyniorð",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Minst til meg",
+    "forgotPassword": "Gloymt tú loyniorð?",
+    "signIn": "Rita inn",
+    "signingIn": "Rita inn...",
+    "signUp": "Melda teg til",
+    "signingUp": "Tilmelding...",
+    "noAccount": "Hevur tú ikki konto?",
+    "hasAccount": "Hevur tú longu eina kontu?",
+    "passwordRules": {
+      "title": "Loyniorðið skal innihalda:",
+      "length": "Í minsta lagi 8 stavir",
+      "uppercase": "Ein stórur bókstavur (A-Z)",
+      "number": "Eitt tal (0-9)",
+      "symbol": "Eitt tekn (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Mappubyggjari",
+      "templates": "Sniðmyndir og tema",
+      "settings": "Innstillingar",
+      "collapse": "Samla síðulinjuna",
+      "overview": "Yvirlit",
+      "profileSettings": "Vangamyndar innstillingar",
+      "customDomain": "Sersniðgivið øki",
+      "feedback": "Afturgerð"
+    },
+    "header": {
+      "viewLive": "Síggj beinleiðis",
+      "welcome": "Vælkomin,",
+      "logout": "Logga út",
+      "builder": "Byggiharri",
+      "livePortfolio": "Beinleiðis mappa",
+      "live": "Liva"
+    },
+    "logoutModal": {
+      "title": "Logga út",
+      "message": "Ert tú vísur í, at tú vilt logga út av tínari kontu? ",
+      "cancel": "strika",
+      "confirm": "Ja, rita út"
+    },
+    "slugModal": {
+      "title": "Vel tína portfolio slóð",
+      "message": "Hendan slóðin verður tann einstaka leinkjan til tína portfolio. ",
+      "slugPlaceholder": "títt-navn",
+      "availability": "Tilgongd:",
+      "available": "Tøkur",
+      "unavailable": "Ikki tøkt",
+      "checking": "Kanna...",
+      "mustFormat": "Kann bert innihalda bókstavir, tøl og strikur (-)",
+      "cancel": "strika",
+      "save": "Goym slóð",
+      "usernameUrl": "Brúkaranavn URL",
+      "helpText": "Smáir bókstavir, tøl og strikur. ",
+      "validation": {
+        "empty": "Snigla kann ikki vera tóm.",
+        "min3": "Í minsta lagi 3 stavir.",
+        "max30": "Í mesta lagi 30 stavir.",
+        "format": "Einans smáir bókstavir, tøl og strikur (-). "
+      }
+    },
+    "loadingPortfolio": "Heinta portfolio dátur...",
+    "overview": {
+      "greetings": {
+        "morning": "Góðan morgun",
+        "afternoon": "Góðan seinnapart",
+        "evening": "Góðan seinnapart",
+        "night": "Góða nátt"
+      },
+      "welcome": {
+        "hi": "Hey,",
+        "creator": "Skaparin",
+        "desc1": "Vælkomin á DevFolio stýriborðið. Tín mappa er sædd av",
+        "desc2": "persónur. Halt áfram at arbeiða!",
+        "editPortfolio": "Rætta mappu"
+      },
+      "stats": {
+        "totalVisitors": "Samlað vitjandi",
+        "projectViews": "Sæð (Verkætlan)",
+        "activeSessions": "Virk seta",
+        "totalLabel": "Tilsamans"
+      },
+      "setup": {
+        "title": "Uppsetingargongd",
+        "completed": "Tín mappa er liðug! 🎉",
+        "inProgress": "Stig til ta fullkomnu mappuna.",
+        "profile": {
+          "title": "Fullfíggjað vangamynd",
+          "desc": "Legg navn, bio og vangamynd til."
+        },
+        "section": {
+          "title": "Legg partar til",
+          "desc": "Virkja minst 1 part í mappuni."
+        },
+        "project": {
+          "title": "Legg verkætlan til",
+          "desc": "Skriva minst 1 av tínum bestu verkætlanum."
+        },
+        "publish": {
+          "title": "Útgeva mappu",
+          "desc": "Set eina sersniðgivna slóð, soleiðis at almenningurin kann fáa atgongd til hana."
+        }
+      },
+      "topProjects": {
+        "title": "Mest umtóktu verkætlanirnar",
+        "desc": "Framførslan av tínum arbeiði í eygunum á teimum vitjandi.",
+        "viewAll": "Sí alt",
+        "empty": "Tað eru ongar vísingardátur fyri tína verkætlan enn."
+      }
+    },
+    "themes": {
+      "title": "Sniðmyndir & Tema",
+      "subtitle": "Tillaga útsjóndina og kensluna av tínari almennu portfolio.",
+      "reset": "Nullstilla Forsett",
+      "save": "Goym broytingar",
+      "saving": "Spar...",
+      "chooseTemplate": "Vel eina fyrimynd",
+      "primaryColor": "Primærlitur",
+      "typography": "Typografi",
+      "appearance": "Útsjónd",
+      "corners": "Horn & Landamørk",
+      "successTitle": "Eydna",
+      "successMessage": "Temaval dagførd væleydnað",
+      "errorTitle": "Feilur",
+      "errorMessage": "Tað eydnaðist ikki at goyma temaval",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistiskur",
+          "desc": "Reint og einfalt snið við fokus á innihald."
+        },
+        "developerDark": {
+          "name": "Forritarin Myrkt",
+          "desc": "Myrkt tema perfekt til at vísa fram kodu og tøkni stakkar."
+        },
+        "creative": {
+          "name": "Skapandi",
+          "desc": "Livandi og litríkt uppseting til sniðgevar og kreativ."
+        },
+        "executive": {
+          "name": "Stjóri",
+          "desc": "Faklig og formlig uppseting til vinnulívsfólk."
+        },
+        "bentoGrid": {
+          "name": "Bento-net",
+          "desc": "Nútímans rist uppseting í Apple-stíli, sum varpar ljós á ymiskar førleikar effektivt."
+        },
+        "neoBrutalism": {
+          "name": "Nýharðskapur",
+          "desc": "Djarvar mark og høgir kontrastlitir fyri eitt trendy, óumberandi look."
+        },
+        "glassmorphism": {
+          "name": "Glasformisma",
+          "desc": "Frost glaseffektir yvir litríkum gradientum til eitt snøgt nútímans brúkaragjøgnumfør."
+        },
+        "linkInBio": {
+          "name": "Leinkja í Bio",
+          "desc": "Kompakt loddrætt uppseting optimerað til fartelefonskermar og sosialar miðlar."
+        }
+      },
+      "appearances": {
+        "light": "Ljós",
+        "dark": "Myrkt",
+        "system": "Skipan"
+      },
+      "cornersOptions": {
+        "sharp": "Hvass",
+        "rounded": "Avrundað",
+        "pill": "Pilla"
+      }
+    },
+    "feedback": {
+      "title": "Send afturmeldingar",
+      "subtitle": "Hjálp okkum at gera tað betri við at geva uppskot, kritikk ella melda feilir á hesum forritinum.",
+      "categoryLabel": "Afturmeldingarflokkur",
+      "messageLabel": "Boðsmálutir",
+      "messagePlaceholder": "Sig mær nærri um afturmeldingarnar, tú vilt bera fram...",
+      "imageLabel": "Myndaviðheft (Valfrítt)",
+      "imagePlaceholder": "Trýst fyri at leggja mynd ella skermmynd upp",
+      "submitting": "Sendi...",
+      "submitBtn": "Send afturmeldingar",
+      "categories": {
+        "suggestion": "Uppskot & hugskot",
+        "bug": "Feilur / Feilfráboðan",
+        "criticism": "Kritikkur",
+        "other": "Onnur"
+      },
+      "imageErrorTitle": "Feilur",
+      "imageErrorMessage": "Summar fílur verða vrakaðar, tí tær ikki stuðla myndasniðum (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Eydna",
+      "successMessage": "Takk fyri tykkara afturmeldingar! Frágreiðing er send.",
+      "submitErrorTitle": "Mistókst",
+      "submitErrorMessage": "Ein feilur hendi, meðan afturmelding varð send. Vinarliga royn aftur."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Um meg",
+      "skills": "Evni",
+      "projects": "Verkætlanir",
+      "workExperience": "Arbeiðsroyndir",
+      "orgExperience": "Royndir við skipan",
+      "education": "Útbúgving",
+      "certifications": "Útbúgving og prógv",
+      "contact": "Set teg í samband við meg"
+    },
+    "editor": {
+      "profileInfo": "Profilupplýsingar",
+      "saving": "Spar...",
+      "profilePhoto": "Vangamynd",
+      "clickToUpload": "Trýst fyri at leggja upp (JPG, PNG)",
+      "fullName": "Fulla navn",
+      "fullNamePlaceholder": "t.d. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack mennari við brennidepli fyri at byggja nútímans vevforrit...",
+      "location": "Staður",
+      "locationPlaceholder": "t.d. ",
+      "gender": "Kyn",
+      "selectGender": "Vel Kyn",
+      "male": "Maður",
+      "female": "Kvinna",
+      "custom": "Skikkur",
+      "customPlaceholder": "Skriva títt sersniðgivna kyn...",
+      "uploadCv": "Legg CV upp",
+      "cvFormat": "(DOC ella PDF)",
+      "preview": "Forskoðan",
+      "remove": "Taka burtur",
+      "clickToUploadCv": "Trýst fyri at leggja PDF ella DOC upp",
+      "sections": "Partar .",
+      "removeSelected": "Strika valt",
+      "confirmRemove": "Staðfest Strika",
+      "addSection": "Legg parti til",
+      "addAllSections": "Legg allar partar til",
+      "noSections": "Ongar partar enn",
+      "clickToAdd": "Trýst á \"+ Legg parti til\" fyri at byrja",
+      "selectAll": "Vel Alt",
+      "selected": "Valt",
+      "dragToReorder": "Drag fyri at umskipa partar",
+      "livePreview": "Beinleiðis forsýning",
+      "addSectionsToBuild": "Legg partar til fyri at byggja tína mappu upp.",
+      "now": "Nú",
+      "current": "Streymur",
+      "noExpiry": "Eingin gildistíð",
+      "see": "Síggja",
+      "position": "Støða",
+      "degree": "Stig",
+      "certification": "Prógv",
+      "sectionsForm": {
+        "about": {
+          "label": "Lýsing av tær sjálvum",
+          "placeholder": "Fortel okkum um teg sjálvan, tína bakgrund, áhugamálum og førleikum..."
+        },
+        "skills": {
+          "addPlaceholder": "Skriva førleika og trýst síðani á Enter..."
+        },
+        "projects": {
+          "title": "Verkætlanarnavn",
+          "titlePlaceholder": "Verkætlanarnavn...",
+          "url": "Slóð til verkætlanina",
+          "description": "Lýsing",
+          "descriptionPlaceholder": "Stutt lýsing av verkætlanini...",
+          "uploadThumbnail": "Verkætlanarmynd",
+          "addProject": "Legg verkætlan til",
+          "projectNum": "Verkætlan #",
+          "currentProject": "Hetta er ein verkætlan eg arbeiði við"
+        },
+        "work": {
+          "company": "Felag/stovnur",
+          "companyPlaceholder": "Fyritøkunavn...",
+          "position": "Starv/Heiti",
+          "positionPlaceholder": "Tín støða...",
+          "employmentType": "Slag av arbeiði",
+          "location": "Staður",
+          "locationPlaceholder": "Býur, land...",
+          "startDate": "Byrjan",
+          "endDate": "Liðugur",
+          "currentWork": "Eg arbeiði enn í løtuni",
+          "description": "Lýsing",
+          "descriptionPlaceholder": "Starvslýsing og ábyrgd...",
+          "skills": "Gávur",
+          "addExperience": "Legg arbeiðsroyndir til",
+          "experienceNum": "Roynd #",
+          "dateError": "Endadagurin kann ikki vera fyrr enn byrjanardagurin ."
+        },
+        "org": {
+          "organization": "Navn á fyritøku",
+          "orgPlaceholder": "BEM háskúlin...",
+          "role": "Leiklutur/Størva",
+          "rolePlaceholder": "Deildarleiðari...",
+          "addOrg": "Legg skipanarligar royndir til",
+          "orgNum": "Felag #"
+        },
+        "edu": {
+          "institution": "Útbúgvingarstovnar",
+          "institutionPlaceholder": "Navn á skúla ella skúla...",
+          "degree": "Heiti",
+          "degreePlaceholder": "S1, miðnámsskúli, osfr...",
+          "major": "Deild/Lestrarøki",
+          "majorPlaceholder": "Kunningarverkfrøði...",
+          "gpa": "GPA (valfrítt)",
+          "currentStudy": "Eg læri enn her",
+          "descriptionPlaceholder": "Virksemi og avrik undir lesnaðinum...",
+          "addEdu": "Legg útbúgving til",
+          "eduNum": "Útbúgving #"
+        },
+        "cert": {
+          "name": "Navn á prógv / útbúgving",
+          "namePlaceholder": "Prógvnavn...",
+          "issuer": "Útgevari",
+          "issuerPlaceholder": "Útgávustovnur...",
+          "issueDate": "Byrja (Útgávudagur)",
+          "issueDatePlaceholder": "Vel útgávudato...",
+          "expiryDate": "Liðugt (Gyldugt tíðarskeið)",
+          "expiryDatePlaceholder": "Vel gildistíð...",
+          "noExpiry": "Hetta prógvið hevur onga gildistíð.",
+          "url": "URL til prógv",
+          "uploadThumbnail": "Prógv / útbúgvingarmynd",
+          "uploadThumbnailLimit": "Lat váttanarmynd upp (JPG/PNG/WEBP, í mesta lagi 2MB)",
+          "addCert": "Legg váttan til",
+          "certNum": "Prógv #"
+        },
+        "contact": {
+          "contactNum": "Samband #",
+          "platform": "Pallgrund",
+          "displayText": "Vís tekst",
+          "displayTextPlaceholder": "t.d., tú@teldupost.com ella @brúkaranavnið",
+          "url": "Leinkja (URL)",
+          "urlPlaceholderWhatsapp": "t.d., 62812... (uttan at leiða 0)",
+          "urlPlaceholderEmail": "t.d., tú@teldupostur.com",
+          "urlPlaceholderWebsite": "t.d., https://...",
+          "urlPlaceholderDefault": "t.d. brúkaranavn",
+          "addContact": "Legg samband til"
+        },
+        "common": {
+          "months": {
+            "1": "januar",
+            "2": "Februar",
+            "3": "Hergonga",
+            "4": "Apríl",
+            "5": "Kunna",
+            "6": "Juni",
+            "7": "Juli",
+            "8": "August",
+            "9": "Septembur",
+            "10": "Oktobur",
+            "11": "Novembur",
+            "12": "Desembur"
+          },
+          "month": "Mánaði",
+          "year": "Ár",
+          "invalidDate": "Ógyldugur endamánaður",
+          "words": "orð"
+        }
+      },
+      "sure": "Vísur",
+      "deletePhotoTitle": "Strika vangamynd?",
+      "deletePhotoMessage": "Ert tú vísur í, at tú vilt strika hesa vangamyndina?",
+      "cancel": "strika",
+      "delete": "Strúka burtur"
+    },
+    "cropper": {
+      "chooseBackground": "Vel Bakgrund",
+      "cropPhoto": "Klipp tína mynd",
+      "useOriginal": "Brúka uppruna",
+      "backgroundPresets": "Bakgrundsforstillingar",
+      "none": "Eingin",
+      "uploadBackground": "Lat bakgrund upp",
+      "cancel": "strika",
+      "savePhoto": "Goym mynd",
+      "zoom": "Zoom",
+      "rotationTilt": "Snúningur og vippu",
+      "resetRotation": "Nullstilla til 0°",
+      "center": "Miðseta",
+      "rotateLeft": "Snú -90°",
+      "rotateRight": "Snú +90°",
+      "removeBackground": "Strika bakgrundina",
+      "processing": "Viðgerð tína mynd, vinarliga bíða..."
+    },
+    "cvPreview": {
+      "title": "CV Undansýning",
+      "downloadCv": "Heinta CV",
+      "download": "Niðurtøka",
+      "wordCannotPreview": "Word skjøl (.doc/.docx) kunnu ikki forskoðast innfødd í kaganum. ",
+      "downloadFile": "Heinta CV-fílu",
+      "back": "Aftur",
+      "mobileMessage": "Vinarliga heinta CV-fíluna fyri at síggja hana.",
+      "preview": "Forsýning av CV",
+      "wordPreviewTitle": "Word skjala Forskoðan",
+      "wordPreviewMessage": "Word skjøl (.doc/.docx) kunnu ikki forskoðast innfødd í kaganum. Vinarliga heinta fíluna fyri at síggja hana."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Skriva eina stutta lýsing um teg sjálvan, áhugamálini og yrkismálini..."
+    },
+    "skills": {
+      "placeholder": "Skriva førleikanavn...",
+      "add": "Leggja avtrat",
+      "enterToAdd": "Trýst á Enter fyri at leggja til",
+      "noSkills": "Eingir førleikar lagdir afturat enn."
+    },
+    "projects": {
+      "projectName": "Verkætlanarnavn",
+      "projectNamePlaceholder": "t.d. ",
+      "projectUrl": "Slóð til verkætlanina",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Tíðarbil",
+      "startMonth": "Byrja mánaður",
+      "startYear": "Byrjaár 2020",
+      "endMonth": "Endamánaður",
+      "endYear": "Endaár",
+      "currentlyWorking": "Arbeitt verður í løtuni við hesum",
+      "description": "Lýsing",
+      "descriptionPlaceholder": "Lýs verkætlanina, tín leiklut og tíni avrik...",
+      "technologies": "Tøkni, sum verður brúkt",
+      "addProject": "Legg verkætlan til",
+      "image": "Verkætlanarmynd",
+      "removeImage": "Strika mynd",
+      "uploadImage": "Trýst fyri at leggja mynd upp"
+    },
+    "work": {
+      "company": "Fyritøka/stovnur",
+      "companyPlaceholder": "Navn fyritøku...",
+      "role": "Leiklutur/Støða",
+      "rolePlaceholder": "Tín støða...",
+      "jobType": "Starvsslag",
+      "selectJobType": "Vel slag",
+      "fullTime": "Fulltíðarstarv",
+      "partTime": "Niðursetta tíð",
+      "contract": "Sáttmáli",
+      "internship": "Starvsvenjing",
+      "freelance": "Fríyrkisfólk",
+      "location": "Staður",
+      "locationPlaceholder": "t.d. ",
+      "duration": "Tíðarbil",
+      "currentlyWorking": "Arbeiði í løtuni her",
+      "description": "Starvslýsing",
+      "descriptionPlaceholder": "Lýs tína høvuðsábyrgd og avrik...",
+      "skills": "Serligir førleikar",
+      "addExperience": "Legg royndir til"
+    },
+    "org": {
+      "organization": "Navn á fyritøku",
+      "organizationPlaceholder": "Navn á fyritøku...",
+      "role": "Leiklutur/Støða",
+      "rolePlaceholder": "t.d. ",
+      "duration": "Tíðarbil",
+      "periodFormat": "ella Ókeypis snið (t.d. 2020 - 2022)",
+      "periodPlaceholder": "t.d. ",
+      "currentlyActive": "Virkin í løtuni",
+      "description": "Virksemislýsing",
+      "descriptionPlaceholder": "Lýs títt virksemi ella títt íkast...",
+      "addExperience": "Legg royndir til"
+    },
+    "education": {
+      "institution": "Stovnsnavn",
+      "institutionPlaceholder": "Skúla- ella universitetsnavn...",
+      "degree": "Útbúgving/Stig",
+      "degreePlaceholder": "t.d. ",
+      "major": "Høvuðsgrein/Lestrarøki",
+      "majorPlaceholder": "t.d. ",
+      "gpa": "GPA / Flokkur",
+      "gpaPlaceholder": "t.d. ",
+      "duration": "Útbúgvingartíð",
+      "periodFormat": "ella Ókeypis snið (t.d. 2018 - 2022)",
+      "periodPlaceholder": "t.d. ",
+      "currentlyStudying": "Lesi í løtuni her",
+      "description": "Virksemi / Heiðurslønir",
+      "descriptionPlaceholder": "Lýs námsfrøðiligt virksemi, stovnar ella heiðurslønir, sum tú hevur fingið...",
+      "addEducation": "Legg útbúgving til"
+    },
+    "cert": {
+      "name": "Prógvnavn",
+      "namePlaceholder": "t.d. ",
+      "issuer": "Útgávandi stovnur",
+      "issuerPlaceholder": "t.d. ",
+      "issueDate": "Útgávudagur",
+      "expiryDate": "Galdandi til og við 2020.",
+      "noExpiry": "Hetta prógvið gongur ikki út.",
+      "yearPlaceholder": "ella Ár (t.d. 2023)",
+      "credentialUrl": "URL til prógv",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Skyldir førleikar",
+      "addCertification": "Legg váttan til",
+      "image": "Mynd/Búmerki",
+      "removeImage": "Strika mynd",
+      "uploadImage": "Trýst fyri at leggja mynd upp"
+    },
+    "common": {
+      "months": {
+        "1": "januar",
+        "2": "Februar",
+        "3": "Hergonga",
+        "4": "Apríl",
+        "5": "Kunna",
+        "6": "Juni",
+        "7": "Juli",
+        "8": "August",
+        "9": "Septembur",
+        "10": "Oktobur",
+        "11": "Novembur",
+        "12": "Desembur"
+      },
+      "month": "Mánaði",
+      "year": "Ár",
+      "invalidDate": "Ógyldugur endamánaður",
+      "words": "orð"
+    }
+  },
+  "settings": {
+    "title": "Innstillingar",
+    "subtitle": "Umsitur tín portfolio-profil og uppsetingar",
+    "tabs": {
+      "profile": "Mín vangamynd",
+      "security": "Trygd",
+      "personalization": "Persónliggerð"
+    },
+    "profile": {
+      "infoTitle": "Grundleggjandi upplýsingar",
+      "photo": "Vangamynd",
+      "uploadPhoto": "Broyt mynd",
+      "fullName": "Fulla navn",
+      "fullNamePlaceholder": "Jóhannes Doe",
+      "email": "Teldupostadressa",
+      "emailPlaceholder": "Jóhannes@dømi.com",
+      "emailHelp": "Teldupostur verður brúktur til innritan og verður ikki vístur alment.",
+      "portfolioUrl": "Mappu slóð",
+      "saveProfile": "Goym vangamynd",
+      "save": "Goym vangamynd",
+      "accountCreated": "Konta er stovnað",
+      "lastLogin": "Seinast innritan",
+      "oauthNotice": "Hesin vangamyndin er knýttur at tínari {{veitara}} kontu. Profilbroytingar skulu gerast gjøgnum tænastuveitara."
+    },
+    "security": {
+      "changePassword": "Broyt loyniorð",
+      "currentPassword": "Núverandi loyniorð",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nýtt loyniorð",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Staðfest nýtt loyniorð",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Í minsta lagi 8 stavir",
+        "uppercase": "Ein stórur bókstavur (A-Z)",
+        "number": "Eitt tal (0-9)",
+        "symbol": "Eitt tekn (!@#$%^&*)"
+      },
+      "passwordTitle": "Loyniorð",
+      "updatePassword": "Dagfør loyniorð",
+      "additionalSecurity": "Eyka trygd",
+      "twoFactor": "Tvífaktor-góðkenning (2FA)",
+      "twoFactorDesc": "Tryggja tína kontu við at brúka eina eyka OTP-kotu.",
+      "activeSessions": "Virknar setur",
+      "activeSessionsDesc": "Loyva altíð eftirliti við innritaðum tólum.",
+      "publicVisibility": "Alment sjónleiki",
+      "hideFromSearch": "Fjal portfolio frá leitimaskinunum",
+      "hideFromSearchDesc": "Forða Google í at indeksera tína almennu portfoliosíðu.",
+      "disable2fa": {
+        "title": "Slá 2FA frá",
+        "description": "Ert tú vísur í, at tú vilt sløkkja tvífaktor-autentikatión?",
+        "confirmPasswordLabel": "Skriva títt loyniorð fyri at vátta",
+        "currentPasswordPlaceholder": "Núverandi loyniorð",
+        "cancelButton": "Avlýs",
+        "confirmButton": "Slá 2FA frá",
+        "incorrectPassword": "Skeivt loyniorð."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skanna QR-kotu",
+        "step1Desc": "Lat tína sannroyndarapp upp og skanna fylgjandi QR-kotu:",
+        "unableToScan": "Ikki ber til at skanna? Brúka uppsetingarlykilin",
+        "step2Title": "2. Staðfest kodu",
+        "step2Desc": "Skriva 6-siffraðu kotuna, sum tín app hevur gjørt:",
+        "cancelButton": "strika",
+        "enableButton": "Virkja 2FA",
+        "invalidLength": "Vinarliga skriva eina 6-siffraða kotu.",
+        "invalidCode": "Ógyldug váttanarkoda. Vinarliga royn aftur."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Málstýring",
+      "appLanguage": "App mál",
+      "layoutTitle": "Uppseting og typografi",
+      "layoutStyle": "Uppsetingarstílur",
+      "layoutModern": "Nútímans stílur (standard)",
+      "layoutClassic": "Klassiskur stílur",
+      "layoutMinimalist": "Minimalistiskur stílur",
+      "fontSize": "App skriftstødd",
+      "fontSmall": "Lítil",
+      "fontNormal": "Vanligt (Miðal)",
+      "fontLarge": "Stórur",
+      "searchLanguage": "Leita mál...",
+      "languageNotFound": "Mál ikki funnið",
+      "layoutElegant": "Elegantur stílur"
+    },
+    "saveChanges": "Goym broytingar",
+    "cancel": "strika",
+    "appSettings": "Appinnstillingar",
+    "logoutConfirmTitle": "Vátta útritan",
+    "logoutConfirmDesc": "Ert tú vísur í, at tú vilt logga út úr skipanini?",
+    "logoutConfirmYes": "Ja, rita út",
+    "generalError": "Ein feilur hendi. ",
+    "success": "Gott úrslit",
+    "preferencesSaved": "App-innstillingar eru goymdar væl.",
+    "header": "Forritainnstillingar",
+    "logout": {
+      "title": "Útritanarváttan",
+      "message": "Ert tú vísur í, at tú vilt logga út úr skipanini?",
+      "confirm": "Ja, rita út"
+    },
+    "about": {
+      "title": "Um Umsókn",
+      "subtitle": "Mappubyggjarapallur",
+      "version": "Útlegging",
+      "description": "DevFolio er ein nútímans portfolio-byggjarapallur, sum er gjørdur til forritarar, sniðgevar og professionellar skaparar. ",
+      "license": "Loyvi og upphavsrættur",
+      "copyright": "© 2026 DevFolio Inc. Øll rættindi tilskilað.",
+      "developer": "Mennari",
+      "developedBy": "Mennt av Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Strika kontu varandi",
+      "menuItem": "Strika kontu",
+      "successTitle": "Eydna",
+      "successMessage": "Ein teldupostur um váttan av striking av kontu er sendur.",
+      "errorTitle": "Mistókst",
+      "errorMessage": "Tað eydnaðist ikki at senda váttanar teldupost.",
+      "confirmationMessage": "Ert tú vísur í, at tú vilt strika tína kontu varandi?",
+      "warningMessage1": "Tú fært ein teldupost um at vátta striking av kontu.",
+      "warningMessage2": "Um staðfest verður, verða øll dáta (portfolio, verkætlanir, hagtøl) varandi strikað og kunnu ikki endurvinnast.",
+      "cancel": "Avlýs",
+      "confirm": "Staðfesting"
+    },
+    "toasts": {
+      "toastError": "Feilur",
+      "toastSuccess": "Gott úrslit",
+      "toastSetup2FAFailed": "Tað eydnaðist ikki at seta 2FA upp. Vinarliga royn aftur.",
+      "toast2FAEnabled": "Tvífaktor-góðkenning er virkin.",
+      "toast2FADisabled": "Tvífaktor-góðkenning er sløkt.",
+      "toastSessionEnabled": "Virkt setueftirlit er virkið.",
+      "toastSessionDisabled": "Virkt setueftirlit er sløkt.",
+      "toastSetupKeyCopied": "Uppsetingarlykilin avritaður til útklippiborð."
+    },
+    "privacy": {
+      "title": "Persónsverndarpolitikkur",
+      "updateDate": "Seinast dagført: 15. juli 2026",
+      "intro": "Hesin persónsverndarpolitikkurin greiðir frá, hvussu DevFolio savnar inn, brúkar og verjir tínar persónligu upplýsingar, tá tú brúkar okkara tænastur.",
+      "section1Title": "1. Upplýsingar, sum vit savna inn",
+      "section1Content": "Vit savna inn upplýsingar, sum tú gevur beinleiðis, tá tú stovnar eina kontu, byggir eina portfolio og setur teg í samband við okkara stuðul. ",
+      "section2Title": "2. Nýtsla av upplýsingum",
+      "section2Content": "Tínar upplýsingar verða nýttar til at reka, viðlíkahalda og veita funktiónirnar í okkara tænastum, umframt til at samskifta við teg viðvíkjandi tínari kontu ella tænastum.",
+      "section3Title": "3. Dátutrygd",
+      "section3Content": "Vit seta rímilig trygdartiltøk í verk fyri at verja tínar upplýsingar móti ólógligari atgongd, útflýggjan ella oyðilegging."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Staðfestingarmerki ikki funnið.",
+    "defaultError": "Tað eydnaðist ikki at strika kontu. Merkið kann vera útgingið.",
+    "loadingTitle": "Strika kontu...",
+    "loadingMessage": "Vinarliga bíða, vit avgreiða tína umbøn.",
+    "successTitle": "Kontan er strikað",
+    "successMessage": "Øll tíni dáta eru strikað varandi. Tú verður víðarileiðdur...",
+    "errorTitle": "Tað eydnaðist ikki at strika kontu",
+    "backToHome": "Heim aftur"
+  },
+  "forgotPassword": {
+    "minutes": "minuttir",
+    "seconds": "sekund",
+    "success": "Eydna",
+    "otpSentToEmail": "Ein OTP-koda er send til tín teldupost.",
+    "failed": "Mistókst",
+    "emailNotFound": "Teldupostur ikki funnin.",
+    "emailThirdParty": "Hesin telduposturin er skrásettur gjøgnum ein triðja part.",
+    "genericError": "Tað er ein feilur. Vinarliga royn aftur.",
+    "otpVerified": "OTP-kotan er væleydnað staðfest.",
+    "otpExpired": "OTP-kotan er útgingin. Vinarliga bið um eina nýggja kodu.",
+    "otpInvalid": "Ógyldug OTP-koda.",
+    "otpResent": "Ein nýggj OTP-koda er send til tín teldupost.",
+    "otpResendFailed": "Tað eydnaðist ikki at senda OTP-kotu aftur. Vinarliga royn aftur.",
+    "passwordResetSuccess": "Loyniorðið er nullstillað. Vinarliga rita inn við tínum nýggja loyniorði.",
+    "passwordResetFailed": "Tað eydnaðist ikki at nullstilla loyniorð.",
+    "backToLogin": "Aftur til Innritan",
+    "back": "Aftur",
+    "title": "Gloymdi loyniorð",
+    "description": "Skriva teldupostadressuna, sum er skrásett á tínari kontu. Vit senda eina OTP kotu til at nullstilla loyniorðið.",
+    "emailLabel": "Teldupostadressa",
+    "sending": "Sendi...",
+    "sendOtp": "Send OTP-kotu",
+    "verifyOtpTitle": "Staðfest OTP-kotu",
+    "verifyOtpDesc": "Skriva 6 siffraðu kotuna, sum er send til tín teldupost fyri at staðfesta tín samleika.",
+    "verifying": "Staðfesta...",
+    "verifyOtp": "Staðfest OTP",
+    "resending": "Endursenda...",
+    "resendOtp": "Send OTP-kotu aftur",
+    "resendCodeIn": "Send kodu aftur í",
+    "newPasswordTitle": "Stovna eitt nýtt loyniorð",
+    "newPasswordDesc": "Stovna eitt nýtt, sterkt loyniorð fyri at tryggja tína kontu.",
+    "newPasswordLabel": "Nýtt loyniorð",
+    "min8Chars": "Í minsta lagi 8 stavir",
+    "oneUpperCase": "1 stórstavur (A-Z)",
+    "oneNumber": "1 tal (0-9)",
+    "oneSymbol": "1 tákn (!@#$%^&*)",
+    "confirmPasswordLabel": "Staðfest loyniorð",
+    "passwordsDoNotMatch": "Loyniorð passa ikki saman.",
+    "resettingPassword": "Nullstilla loyniorð...",
+    "resetPassword": "Nullstilla loyniorð"
+  },
+  "verifyEmail": {
+    "resendError": "Tað eydnaðist ikki at senda váttanar teldupost aftur. Vinarliga royn aftur.",
+    "checkingStatus": "Kanna váttanarstøðuna...",
+    "title": "Kanna tín teldupost",
+    "description": "Vit hava sent ein váttanar teldupost til tína teldupostadressu. Vinarliga opna teldupostin og trýst á <1>\"Vátta kontu\"</1> knøttin fyri at virkja tína kontu.",
+    "stepsTitle": "Stig",
+    "step1": "Opna títt teldupostforrit (Gmail, Yahoo osfr.)",
+    "step2": "Leita eftir einum telduposti frá DevFolio við evninum \"Kontuvirkning\"",
+    "step3": "Trýst á knøttin \"Vátta kontu\" í teldupostinum",
+    "step4": "Tú verður vístur til innritanarsíðuna fyri at skriva",
+    "resendSuccess": "Staðfestingar telduposturin er sendur aftur!",
+    "resending": "Endursenda...",
+    "resendButton": "Send aftur váttanarteldupost",
+    "backToLogin": "Aftur til Innritanarsíðuna",
+    "footerNote": "Fekk ikki teldupostin? Kanna mappuna <1>Spam</1> ella <2>Skrott</2> í tínum telduposti. Staðfestingarleinkjan er galdandi í <3>24 tímar</3>."
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Característiques",
+    "templates": "Plantilles",
+    "pricing": "Preus",
+    "login": "Inicieu sessió",
+    "getStarted": "Comença",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "El millor creador de carteres per a desenvolupadors",
+    "title1": "Construeix el teu professional",
+    "title2": "cartera a",
+    "titleHighlight": "segons.",
+    "subtitle": "Tot el que necessites per mostrar les teves habilitats, projectes i experiència. ",
+    "startBuilding": "Comenceu a construir ara",
+    "viewTemplates": "Veure plantilles",
+    "fastDeployment": "Desplegament ràpid",
+    "liveStatus": "username.dev està en directe!",
+    "featuresTitle": "Característiques potents",
+    "featuresSubtitle": "Oferim totes les eines que necessiteu per destacar entre la multitud i aconseguir la feina dels vostres somnis.",
+    "feature1Title": "Creador d'arrossegar i deixar anar",
+    "feature1Desc": "Organitzeu fàcilment les vostres seccions, projectes i habilitats amb el nostre editor visual intuïtiu.",
+    "feature2Title": "Temes personalitzats",
+    "feature2Desc": "Trieu entre plantilles dissenyades professionalment o creeu el vostre propi aspecte únic.",
+    "feature3Title": "Analítica en temps real",
+    "feature3Desc": "Feu un seguiment dels vostres visitants, mireu quins projectes criden més atenció i molt més."
+  },
+  "auth": {
+    "welcomeBack": "Benvingut de nou",
+    "loginToContinue": "Inicieu sessió al vostre compte per continuar",
+    "createAccount": "Crea un compte",
+    "joinCommunity": "Uneix-te a milers d'altres desenvolupadors",
+    "fullName": "Nom complet",
+    "fullNamePlaceholder": "p. ex. ",
+    "email": "Adreça de correu electrònic",
+    "emailPlaceholder": "tu@exemple.com",
+    "password": "Contrasenya",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Recorda'm",
+    "forgotPassword": "Heu oblidat la contrasenya?",
+    "signIn": "Inicieu la sessió",
+    "signingIn": "S'està iniciant la sessió...",
+    "signUp": "Registra't",
+    "signingUp": "S'està registrant...",
+    "noAccount": "No tens un compte?",
+    "hasAccount": "Ja tens un compte?",
+    "passwordRules": {
+      "title": "La contrasenya ha de contenir:",
+      "length": "Com a mínim 8 caràcters",
+      "uppercase": "Una lletra majúscula (A-Z)",
+      "number": "Un número (0-9)",
+      "symbol": "Un símbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Creador de carteres",
+      "templates": "Plantilles i temes",
+      "settings": "Configuració",
+      "collapse": "Replega la barra lateral",
+      "overview": "Visió general",
+      "profileSettings": "Configuració del perfil",
+      "customDomain": "Domini personalitzat",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Veure en directe",
+      "welcome": "Benvingut,",
+      "logout": "Tanca la sessió",
+      "builder": "Constructor",
+      "livePortfolio": "Cartera en viu",
+      "live": "Viu"
+    },
+    "logoutModal": {
+      "title": "Tanca la sessió",
+      "message": "Esteu segur que voleu tancar la sessió del vostre compte? ",
+      "cancel": "Cancel·la",
+      "confirm": "Sí, tanca la sessió"
+    },
+    "slugModal": {
+      "title": "Trieu l'URL de la vostra cartera",
+      "message": "Aquest URL serà l'enllaç únic a la vostra cartera. ",
+      "slugPlaceholder": "el teu nom",
+      "availability": "Disponibilitat:",
+      "available": "Disponible",
+      "unavailable": "No disponible",
+      "checking": "S'està comprovant...",
+      "mustFormat": "Només pot contenir lletres, números i guions (-)",
+      "cancel": "Cancel·la",
+      "save": "Desa l'URL",
+      "usernameUrl": "URL del nom d'usuari",
+      "helpText": "Lletres minúscules, números i guions. ",
+      "validation": {
+        "empty": "El llimac no pot estar buit.",
+        "min3": "Mínim 3 caràcters.",
+        "max30": "Màxim 30 caràcters.",
+        "format": "Només lletres minúscules, números i guions (-). "
+      }
+    },
+    "loadingPortfolio": "S'estan carregant les dades de la cartera...",
+    "overview": {
+      "greetings": {
+        "morning": "Bon dia",
+        "afternoon": "Bona tarda",
+        "evening": "Bona tarda",
+        "night": "Bona nit"
+      },
+      "welcome": {
+        "hi": "Hola,",
+        "creator": "Creador",
+        "desc1": "Benvingut al tauler de control de DevFolio. La teva cartera ha estat vista per",
+        "desc2": "persona. Seguiu treballant!",
+        "editPortfolio": "Edita la cartera"
+      },
+      "stats": {
+        "totalVisitors": "Total de visitants",
+        "projectViews": "Visualitzat (projecte)",
+        "activeSessions": "Sessió activa",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Progrés de la configuració",
+        "completed": "La teva cartera està completa! 🎉",
+        "inProgress": "Passos cap a la cartera perfecta.",
+        "profile": {
+          "title": "Perfil complet",
+          "desc": "Afegeix el nom, la biografia i la foto de perfil."
+        },
+        "section": {
+          "title": "Afegeix seccions",
+          "desc": "Activa almenys 1 secció a la cartera."
+        },
+        "project": {
+          "title": "Afegeix projecte",
+          "desc": "Introduïu almenys 1 dels vostres millors projectes."
+        },
+        "publish": {
+          "title": "Publica la cartera",
+          "desc": "Establiu un URL personalitzat perquè el públic hi pugui accedir."
+        }
+      },
+      "topProjects": {
+        "title": "Projectes més populars",
+        "desc": "L'execució del vostre treball als ulls dels visitants.",
+        "viewAll": "Veure-ho tot",
+        "empty": "Encara no hi ha dades de visualització del vostre projecte."
+      }
+    },
+    "themes": {
+      "title": "Plantilles i temes",
+      "subtitle": "Personalitzeu l'aspecte de la vostra cartera pública.",
+      "reset": "Restableix el valor predeterminat",
+      "save": "Desa els canvis",
+      "saving": "S'està desant...",
+      "chooseTemplate": "Trieu una plantilla",
+      "primaryColor": "Color primari",
+      "typography": "Tipografia",
+      "appearance": "Aparença",
+      "corners": "Cantonades i vores",
+      "successTitle": "Èxit",
+      "successMessage": "Les preferències del tema s'han actualitzat correctament",
+      "errorTitle": "Error",
+      "errorMessage": "No s'han pogut desar les preferències del tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Disseny net i senzill centrat en el contingut."
+        },
+        "developerDark": {
+          "name": "Desenvolupador Dark",
+          "desc": "Tema fosc perfecte per mostrar codi i piles de tecnologia."
+        },
+        "creative": {
+          "name": "Creatiu",
+          "desc": "Disseny vibrant i colorit per a dissenyadors i creatius."
+        },
+        "executive": {
+          "name": "Executiu",
+          "desc": "Maquetació professional i formal per a professionals de l'empresa."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Disseny modern de quadrícula d'estil Apple que destaca diferents habilitats de manera eficient."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutalisme",
+          "desc": "Vores atrevides i colors d'alt contrast per a un aspecte modern i sense disculpes."
+        },
+        "glassmorphism": {
+          "name": "Glassmorfisme",
+          "desc": "Efectes de vidre esmerilat sobre degradats de colors per a una interfície d'usuari moderna i elegant."
+        },
+        "linkInBio": {
+          "name": "Enllaç a la bio",
+          "desc": "Disseny vertical compacte optimitzat per a pantalles mòbils i xarxes socials."
+        }
+      },
+      "appearances": {
+        "light": "Llum",
+        "dark": "Fosc",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Arrodonit",
+        "pill": "Píndola"
+      }
+    },
+    "feedback": {
+      "title": "Enviar comentaris",
+      "subtitle": "Ajudeu-nos a millorar-lo proporcionant suggeriments, crítiques o informant d'errors en aquesta aplicació.",
+      "categoryLabel": "Categoria de comentaris",
+      "messageLabel": "Detalls del missatge",
+      "messagePlaceholder": "Explica'm detalladament els comentaris que vols transmetre...",
+      "imageLabel": "Imatge adjunta (opcional)",
+      "imagePlaceholder": "Feu clic per carregar la imatge o la captura de pantalla",
+      "submitting": "S'està enviant...",
+      "submitBtn": "Enviar comentaris",
+      "categories": {
+        "suggestion": "Suggeriments i idees",
+        "bug": "Informe d'errors/errors",
+        "criticism": "Crítica",
+        "other": "Altres"
+      },
+      "imageErrorTitle": "Error",
+      "imageErrorMessage": "Alguns fitxers es rebutgen perquè no són compatibles amb formats d'imatge (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Èxit",
+      "successMessage": "Gràcies pels teus comentaris! S'ha enviat l'informe.",
+      "submitErrorTitle": "Ha fallat",
+      "submitErrorMessage": "S'ha produït un error en enviar comentaris. Si us plau, torna-ho a provar."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Sobre mi",
+      "skills": "Habilitats",
+      "projects": "Projectes",
+      "workExperience": "Experiència laboral",
+      "orgExperience": "Experiència organitzativa",
+      "education": "Educació",
+      "certifications": "Formació i Certificacions",
+      "contact": "Contacta amb mi"
+    },
+    "editor": {
+      "profileInfo": "Informació del perfil",
+      "saving": "S'està desant...",
+      "profilePhoto": "Foto de perfil",
+      "clickToUpload": "Feu clic per pujar (JPG, PNG)",
+      "fullName": "Nom complet",
+      "fullNamePlaceholder": "p. ex. ",
+      "bio": "bio",
+      "bioPlaceholder": "Desenvolupador Fullstack amb passió per crear aplicacions web modernes...",
+      "location": "Ubicació",
+      "locationPlaceholder": "p. ex. ",
+      "gender": "Gènere",
+      "selectGender": "Seleccioneu Sexe",
+      "male": "Mascle",
+      "female": "Dona",
+      "custom": "Personalitzat",
+      "customPlaceholder": "Escriu el teu gènere personalitzat...",
+      "uploadCv": "Carregar CV",
+      "cvFormat": "(DOC o PDF)",
+      "preview": "Vista prèvia",
+      "remove": "Eliminar",
+      "clickToUploadCv": "Feu clic per carregar PDF o DOC",
+      "sections": "Seccions",
+      "removeSelected": "Elimina els seleccionats",
+      "confirmRemove": "Confirma Eliminar",
+      "addSection": "Afegeix secció",
+      "addAllSections": "Afegeix totes les seccions",
+      "noSections": "Encara no hi ha cap secció",
+      "clickToAdd": "Feu clic a \"+ Afegeix una secció\" per començar",
+      "selectAll": "Seleccioneu Tot",
+      "selected": "Seleccionat",
+      "dragToReorder": "Arrossegueu per reordenar les seccions",
+      "livePreview": "Vista prèvia en directe",
+      "addSectionsToBuild": "Afegiu seccions per crear la vostra cartera",
+      "now": "Ara",
+      "current": "Actual",
+      "noExpiry": "Sense caducitat",
+      "see": "Vegeu",
+      "position": "Posició",
+      "degree": "Grau",
+      "certification": "Certificació",
+      "sectionsForm": {
+        "about": {
+          "label": "Descripció de tu mateix",
+          "placeholder": "Parla'ns de tu mateix, dels teus antecedents, interessos i habilitats..."
+        },
+        "skills": {
+          "addPlaceholder": "Escriviu habilitat i premeu Enter..."
+        },
+        "projects": {
+          "title": "Nom del projecte",
+          "titlePlaceholder": "Nom del projecte...",
+          "url": "URL del projecte",
+          "description": "Descripció",
+          "descriptionPlaceholder": "Breu descripció del projecte...",
+          "uploadThumbnail": "Imatge del projecte",
+          "addProject": "Afegeix projecte",
+          "projectNum": "Projecte #",
+          "currentProject": "Aquest és un projecte en el qual estic treballant"
+        },
+        "work": {
+          "company": "Empresa/Agència",
+          "companyPlaceholder": "Nom de l'empresa...",
+          "position": "Càrrec/Títol",
+          "positionPlaceholder": "La teva posició...",
+          "employmentType": "Tipus de treball",
+          "location": "Ubicació",
+          "locationPlaceholder": "Ciutat, País...",
+          "startDate": "Comença",
+          "endDate": "Acabat",
+          "currentWork": "De moment encara estic treballant",
+          "description": "Descripció",
+          "descriptionPlaceholder": "Descripció de la feina i responsabilitats...",
+          "skills": "Habilitat",
+          "addExperience": "Afegeix experiència laboral",
+          "experienceNum": "Experiència #",
+          "dateError": "La data de finalització no pot ser anterior a la data d'inici"
+        },
+        "org": {
+          "organization": "Nom de l'organització",
+          "orgPlaceholder": "Universitat BEM...",
+          "role": "Rol/Posició",
+          "rolePlaceholder": "Cap de divisió...",
+          "addOrg": "Afegeix experiència organitzativa",
+          "orgNum": "Organització #"
+        },
+        "edu": {
+          "institution": "Institucions educatives",
+          "institutionPlaceholder": "Nom del campus o escola...",
+          "degree": "Títol",
+          "degreePlaceholder": "S1, batxillerat, etc...",
+          "major": "Departament/Àmbit d'estudi",
+          "majorPlaceholder": "Enginyeria Informàtica...",
+          "gpa": "GPA (opcional)",
+          "currentStudy": "Encara estic aprenent aquí",
+          "descriptionPlaceholder": "Activitats i assoliments durant l'estudi...",
+          "addEdu": "Afegeix Educació",
+          "eduNum": "Educació #"
+        },
+        "cert": {
+          "name": "Nom de la Certificació/Formació",
+          "namePlaceholder": "Nom de la certificació...",
+          "issuer": "Editor",
+          "issuerPlaceholder": "Institució editorial...",
+          "issueDate": "Inici (data de publicació)",
+          "issueDatePlaceholder": "Seleccioneu la data de publicació...",
+          "expiryDate": "Completat (període vàlid)",
+          "expiryDatePlaceholder": "Seleccioneu la data de caducitat...",
+          "noExpiry": "Aquest certificat no té data de caducitat",
+          "url": "URL de la credencial",
+          "uploadThumbnail": "Certificat / Imatge de formació",
+          "uploadThumbnailLimit": "Penja la imatge del certificat (JPG/PNG/WEBP, màxim 2 MB)",
+          "addCert": "Afegeix la certificació",
+          "certNum": "Certificació #"
+        },
+        "contact": {
+          "contactNum": "Contacte #",
+          "platform": "Plataforma",
+          "displayText": "Mostra el text",
+          "displayTextPlaceholder": "p. ex., tu@email.com o @nom d'usuari",
+          "url": "Enllaç (URL)",
+          "urlPlaceholderWhatsapp": "p. ex., 62812... (sense 0 inicial)",
+          "urlPlaceholderEmail": "p. ex., tu@email.com",
+          "urlPlaceholderWebsite": "p. ex., https://...",
+          "urlPlaceholderDefault": "per exemple, nom d'usuari",
+          "addContact": "Afegeix un contacte"
+        },
+        "common": {
+          "months": {
+            "1": "gener",
+            "2": "febrer",
+            "3": "març",
+            "4": "Abril",
+            "5": "maig",
+            "6": "juny",
+            "7": "juliol",
+            "8": "Agost",
+            "9": "setembre",
+            "10": "Octubre",
+            "11": "novembre",
+            "12": "desembre"
+          },
+          "month": "Mes",
+          "year": "Any",
+          "invalidDate": "Mes final no vàlid",
+          "words": "paraules"
+        }
+      },
+      "sure": "Segur",
+      "deletePhotoTitle": "Vols suprimir la foto de perfil?",
+      "deletePhotoMessage": "Confirmes que vols suprimir aquesta foto de perfil?",
+      "cancel": "Cancel·la",
+      "delete": "Suprimeix"
+    },
+    "cropper": {
+      "chooseBackground": "Trieu Fons",
+      "cropPhoto": "Retalla la teva foto",
+      "useOriginal": "Utilitzeu l'original",
+      "backgroundPresets": "Preajustos de fons",
+      "none": "Cap",
+      "uploadBackground": "Carregueu fons",
+      "cancel": "Cancel·la",
+      "savePhoto": "Desa la foto",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotació i inclinació",
+      "resetRotation": "Restableix a 0°",
+      "center": "Centre",
+      "rotateLeft": "Gira -90°",
+      "rotateRight": "Gira +90°",
+      "removeBackground": "Elimina el fons",
+      "processing": "S'està processant la imatge, espereu..."
+    },
+    "cvPreview": {
+      "title": "Vista prèvia del CV",
+      "downloadCv": "Descarregar CV",
+      "download": "Descarregar",
+      "wordCannotPreview": "Els documents de Word (.doc/.docx) no es poden previsualitzar de manera nativa al navegador. ",
+      "downloadFile": "Descarregar el fitxer CV",
+      "back": "Enrere",
+      "mobileMessage": "Si us plau, descarregueu el fitxer CV per previsualitzar-lo.",
+      "preview": "Vista prèvia del CV",
+      "wordPreviewTitle": "Vista prèvia del document de Word",
+      "wordPreviewMessage": "Els documents de Word (.doc/.docx) no es poden previsualitzar de manera nativa al navegador. Si us plau, descarregueu el fitxer per veure'l."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Escriu una breu descripció sobre tu mateix, interessos i objectius professionals..."
+    },
+    "skills": {
+      "placeholder": "Escriu el nom de l'habilitat...",
+      "add": "Afegeix",
+      "enterToAdd": "Premeu Intro per afegir",
+      "noSkills": "Encara no s'ha afegit cap habilitat."
+    },
+    "projects": {
+      "projectName": "Nom del projecte",
+      "projectNamePlaceholder": "p. ex. ",
+      "projectUrl": "URL del projecte",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Durada",
+      "startMonth": "Mes d'inici",
+      "startYear": "Any d'inici",
+      "endMonth": "Final de mes",
+      "endYear": "Final d'Any",
+      "currentlyWorking": "Actualment treballant en això",
+      "description": "Descripció",
+      "descriptionPlaceholder": "Descriu el projecte, el teu paper i els assoliments...",
+      "technologies": "Tecnologies utilitzades",
+      "addProject": "Afegeix projecte",
+      "image": "Imatge del projecte",
+      "removeImage": "Elimina la imatge",
+      "uploadImage": "Feu clic per pujar la imatge"
+    },
+    "work": {
+      "company": "Empresa/Institució",
+      "companyPlaceholder": "Nom de l'empresa...",
+      "role": "Rol/Posició",
+      "rolePlaceholder": "La teva posició...",
+      "jobType": "Tipus de treball",
+      "selectJobType": "Seleccioneu el tipus",
+      "fullTime": "Jornada completa",
+      "partTime": "Jornada parcial",
+      "contract": "Contracte",
+      "internship": "Pràctiques",
+      "freelance": "Autònom",
+      "location": "Ubicació",
+      "locationPlaceholder": "p. ex. ",
+      "duration": "Durada",
+      "currentlyWorking": "Actualment treballant aquí",
+      "description": "Descripció del treball",
+      "descriptionPlaceholder": "Descriu les teves responsabilitats i èxits clau...",
+      "skills": "Competències específiques",
+      "addExperience": "Afegeix experiència"
+    },
+    "org": {
+      "organization": "Nom de l'organització",
+      "organizationPlaceholder": "Nom de l'organització...",
+      "role": "Rol/Posició",
+      "rolePlaceholder": "p. ex. ",
+      "duration": "Durada",
+      "periodFormat": "o format gratuït (p. ex., 2020-2022)",
+      "periodPlaceholder": "p. ex. ",
+      "currentlyActive": "Actualment actiu",
+      "description": "Descripció de l'activitat",
+      "descriptionPlaceholder": "Descriu les teves activitats o contribucions...",
+      "addExperience": "Afegeix experiència"
+    },
+    "education": {
+      "institution": "Nom de l'entitat",
+      "institutionPlaceholder": "Nom de l'escola o universitat...",
+      "degree": "Grau/Nivell",
+      "degreePlaceholder": "p. ex. ",
+      "major": "Major/Àmbit d'estudi",
+      "majorPlaceholder": "p. ex. ",
+      "gpa": "GPA / Grau",
+      "gpaPlaceholder": "p. ex. ",
+      "duration": "Durada de l'educació",
+      "periodFormat": "o format gratuït (p. ex., 2018-2022)",
+      "periodPlaceholder": "p. ex. ",
+      "currentlyStudying": "Actualment estudiant aquí",
+      "description": "Activitats/Honors",
+      "descriptionPlaceholder": "Descriu activitats acadèmiques, organitzacions o honors rebuts...",
+      "addEducation": "Afegeix Educació"
+    },
+    "cert": {
+      "name": "Nom de la certificació",
+      "namePlaceholder": "p. ex. ",
+      "issuer": "Organització emissora",
+      "issuerPlaceholder": "p. ex. ",
+      "issueDate": "Data d'emissió",
+      "expiryDate": "Vàlid fins a",
+      "noExpiry": "Aquesta credencial no caduca",
+      "yearPlaceholder": "o Any (p. ex. 2023)",
+      "credentialUrl": "URL de la credencial",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Habilitats relacionades",
+      "addCertification": "Afegeix la certificació",
+      "image": "Imatge/Logotip",
+      "removeImage": "Elimina la imatge",
+      "uploadImage": "Feu clic per pujar la imatge"
+    },
+    "common": {
+      "months": {
+        "1": "gener",
+        "2": "febrer",
+        "3": "març",
+        "4": "Abril",
+        "5": "maig",
+        "6": "juny",
+        "7": "juliol",
+        "8": "Agost",
+        "9": "setembre",
+        "10": "Octubre",
+        "11": "novembre",
+        "12": "desembre"
+      },
+      "month": "Mes",
+      "year": "Any",
+      "invalidDate": "Mes final no vàlid",
+      "words": "paraules"
+    }
+  },
+  "settings": {
+    "title": "Configuració",
+    "subtitle": "Gestioneu el vostre perfil i preferències de cartera",
+    "tabs": {
+      "profile": "El meu perfil",
+      "security": "Seguretat",
+      "personalization": "Personalització"
+    },
+    "profile": {
+      "infoTitle": "Informació bàsica",
+      "photo": "Foto de perfil",
+      "uploadPhoto": "Canvia foto",
+      "fullName": "Nom complet",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adreça de correu electrònic",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "El correu electrònic s'utilitza per iniciar sessió i no es mostra públicament.",
+      "portfolioUrl": "URL de la cartera",
+      "saveProfile": "Desa el perfil",
+      "save": "Desa el perfil",
+      "accountCreated": "Compte creat",
+      "lastLogin": "Últim inici de sessió",
+      "oauthNotice": "Aquest perfil està connectat al vostre compte de {{provider}}. Els canvis de perfil s'han de fer a través del proveïdor de serveis."
+    },
+    "security": {
+      "changePassword": "Canvia la contrasenya",
+      "currentPassword": "Contrasenya actual",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Contrasenya nova",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Confirmeu la nova contrasenya",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Com a mínim 8 caràcters",
+        "uppercase": "Una lletra majúscula (A-Z)",
+        "number": "Un número (0-9)",
+        "symbol": "Un símbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Contrasenya",
+      "updatePassword": "Actualitza la contrasenya",
+      "additionalSecurity": "Seguretat addicional",
+      "twoFactor": "Autenticació de dos factors (2FA)",
+      "twoFactorDesc": "Protegiu el vostre compte mitjançant un codi OTP addicional.",
+      "activeSessions": "Sessions actives",
+      "activeSessionsDesc": "Permet sempre la supervisió dels dispositius connectats.",
+      "publicVisibility": "Visibilitat pública",
+      "hideFromSearch": "Amaga la cartera dels motors de cerca",
+      "hideFromSearchDesc": "Eviteu que Google indexi la vostra pàgina de cartera pública.",
+      "disable2fa": {
+        "title": "Desactiva 2FA",
+        "description": "Esteu segur que voleu desactivar l'autenticació de dos factors?",
+        "confirmPasswordLabel": "Introduïu la vostra contrasenya per confirmar",
+        "currentPasswordPlaceholder": "Contrasenya actual",
+        "cancelButton": "Cancel·la",
+        "confirmButton": "Desactiva 2FA",
+        "incorrectPassword": "Contrasenya incorrecta."
+      },
+      "setup2fa": {
+        "step1Title": "1. Escaneja el codi QR",
+        "step1Desc": "Obriu la vostra aplicació d'autenticació i escaneja el següent codi QR:",
+        "unableToScan": "No es pot escanejar? Utilitzeu la clau de configuració",
+        "step2Title": "2. Verifiqueu el codi",
+        "step2Desc": "Introduïu el codi de 6 dígits generat per la vostra aplicació:",
+        "cancelButton": "Cancel·la",
+        "enableButton": "Activa 2FA",
+        "invalidLength": "Introduïu un codi de 6 dígits.",
+        "invalidCode": "Invalid verification code. Si us plau, torna-ho a provar."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Controls de llenguatge",
+      "appLanguage": "Idioma de l'aplicació",
+      "layoutTitle": "Maquetació i tipografia",
+      "layoutStyle": "Estil de disseny",
+      "layoutModern": "Estil modern (predeterminat)",
+      "layoutClassic": "Estil Clàssic",
+      "layoutMinimalist": "Estil minimalista",
+      "fontSize": "Mida del tipus de lletra de l'aplicació",
+      "fontSmall": "Petit",
+      "fontNormal": "Normal (mitjà)",
+      "fontLarge": "Gran",
+      "searchLanguage": "Cerca l'idioma...",
+      "languageNotFound": "Idioma no trobat",
+      "layoutElegant": "Estil elegant"
+    },
+    "saveChanges": "Desa els canvis",
+    "cancel": "Cancel·la",
+    "appSettings": "Configuració de l'aplicació",
+    "logoutConfirmTitle": "Confirmeu la sortida",
+    "logoutConfirmDesc": "Esteu segur que voleu tancar la sessió del sistema?",
+    "logoutConfirmYes": "Sí, tanca la sessió",
+    "generalError": "S'ha produït un error. ",
+    "success": "Èxit",
+    "preferencesSaved": "Les preferències de l'aplicació s'han desat correctament.",
+    "header": "Configuració de l'aplicació",
+    "logout": {
+      "title": "Confirmació de tancament de sessió",
+      "message": "Esteu segur que voleu tancar la sessió del sistema?",
+      "confirm": "Sí, tanca la sessió"
+    },
+    "about": {
+      "title": "Sobre l'aplicació",
+      "subtitle": "Plataforma de creació de carteres",
+      "version": "Versió",
+      "description": "DevFolio és una plataforma moderna de creació de carteres dissenyada per a desenvolupadors, dissenyadors i creadors professionals. ",
+      "license": "Llicència i Copyright",
+      "copyright": "© 2026 DevFolio Inc. Tots els drets reservats.",
+      "developer": "Desenvolupador",
+      "developedBy": "Desenvolupat per Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Suprimeix permanentment el compte",
+      "menuItem": "Suprimeix el compte",
+      "successTitle": "Èxit",
+      "successMessage": "S'ha enviat un correu electrònic de confirmació de la supressió del compte.",
+      "errorTitle": "Ha fallat",
+      "errorMessage": "No s'ha pogut enviar el correu electrònic de confirmació.",
+      "confirmationMessage": "Esteu segur que voleu suprimir el vostre compte de manera permanent?",
+      "warningMessage1": "Rebràs un correu electrònic per confirmar la supressió del compte.",
+      "warningMessage2": "Si es confirma, totes les dades (cartera, projectes, estadístiques) s'eliminaran permanentment i no es podran recuperar.",
+      "cancel": "Cancel·la",
+      "confirm": "Confirmació"
+    },
+    "toasts": {
+      "toastError": "Error",
+      "toastSuccess": "Èxit",
+      "toastSetup2FAFailed": "No s'ha pogut configurar 2FA. Si us plau, torna-ho a provar.",
+      "toast2FAEnabled": "S'ha activat l'autenticació de dos factors.",
+      "toast2FADisabled": "S'ha desactivat l'autenticació de dos factors.",
+      "toastSessionEnabled": "S'ha habilitat la supervisió activa de la sessió.",
+      "toastSessionDisabled": "La supervisió activa de la sessió s'ha desactivat.",
+      "toastSetupKeyCopied": "S'ha copiat la clau de configuració al porta-retalls."
+    },
+    "privacy": {
+      "title": "Política de privadesa",
+      "updateDate": "Última actualització: 15 de juliol de 2026",
+      "intro": "Aquesta Política de privadesa explica com DevFolio recopila, utilitza i protegeix la vostra informació personal quan utilitza els nostres serveis.",
+      "section1Title": "1. Informació que recollim",
+      "section1Content": "Recopilem la informació que proporcioneu directament en crear un compte, crear una cartera i contactar amb el nostre servei d'assistència. ",
+      "section2Title": "2. Ús de la informació",
+      "section2Content": "La seva informació s'utilitza per operar, mantenir i proporcionar les característiques dels nostres serveis, així com per comunicar-se amb vostè pel que fa al seu compte o serveis.",
+      "section3Title": "3. Seguretat de les dades",
+      "section3Content": "Implementem mesures de seguretat raonables per protegir la vostra informació de l'accés, la divulgació o la destrucció no autoritzats."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "No s'ha trobat el testimoni de confirmació.",
+    "defaultError": "No s'ha pogut suprimir el compte. És possible que el testimoni hagi caducat.",
+    "loadingTitle": "S'està suprimint el compte...",
+    "loadingMessage": "Espereu, estem processant la vostra sol·licitud.",
+    "successTitle": "El compte s'ha suprimit correctament",
+    "successMessage": "Totes les teves dades s'han suprimit permanentment. Seràs redirigit...",
+    "errorTitle": "No s'ha pogut suprimir el compte",
+    "backToHome": "Torna a casa"
+  },
+  "forgotPassword": {
+    "minutes": "minuts",
+    "seconds": "segons",
+    "success": "Èxit",
+    "otpSentToEmail": "S'ha enviat un codi OTP al vostre correu electrònic.",
+    "failed": "Ha fallat",
+    "emailNotFound": "No s'ha trobat el correu electrònic.",
+    "emailThirdParty": "Aquest correu electrònic està registrat a través d'un tercer.",
+    "genericError": "Hi ha un error. Si us plau, torna-ho a provar.",
+    "otpVerified": "El codi OTP s'ha verificat correctament.",
+    "otpExpired": "El codi OTP ha caducat. Sol·liciteu un codi nou.",
+    "otpInvalid": "Codi OTP no vàlid.",
+    "otpResent": "S'ha enviat un nou codi OTP al vostre correu electrònic.",
+    "otpResendFailed": "No s'ha pogut tornar a enviar el codi OTP. Si us plau, torna-ho a provar.",
+    "passwordResetSuccess": "La contrasenya s'ha restablert correctament. Inicieu sessió amb la vostra nova contrasenya.",
+    "passwordResetFailed": "No s'ha pogut restablir la contrasenya.",
+    "backToLogin": "Tornar a Inici de sessió",
+    "back": "Tornar",
+    "title": "He oblidat la contrasenya",
+    "description": "Introduïu l'adreça de correu electrònic registrada al vostre compte. Enviarem un codi OTP per restablir la contrasenya.",
+    "emailLabel": "Adreça de correu electrònic",
+    "sending": "S'està enviant...",
+    "sendOtp": "Envia el codi OTP",
+    "verifyOtpTitle": "Verifiqueu el codi OTP",
+    "verifyOtpDesc": "Introduïu el codi de 6 dígits que s'ha enviat al vostre correu electrònic per confirmar la vostra identitat.",
+    "verifying": "S'està verificant...",
+    "verifyOtp": "Verifiqueu OTP",
+    "resending": "S'està tornant a enviar...",
+    "resendOtp": "Torna a enviar el codi OTP",
+    "resendCodeIn": "Torna a enviar el codi a",
+    "newPasswordTitle": "Crea una contrasenya nova",
+    "newPasswordDesc": "Creeu una contrasenya nova i segura per protegir el vostre compte.",
+    "newPasswordLabel": "Nova contrasenya",
+    "min8Chars": "Mínim 8 caràcters",
+    "oneUpperCase": "1 majúscula (A-Z)",
+    "oneNumber": "1 número (0-9)",
+    "oneSymbol": "1 símbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirmeu la contrasenya",
+    "passwordsDoNotMatch": "Les contrasenyes no coincideixen.",
+    "resettingPassword": "S'està restablint la contrasenya...",
+    "resetPassword": "Restableix la contrasenya"
+  },
+  "verifyEmail": {
+    "resendError": "No s'ha pogut tornar a enviar el correu electrònic de verificació. Si us plau, torna-ho a provar.",
+    "checkingStatus": "S'està comprovant l'estat de verificació...",
+    "title": "Comproveu el vostre correu electrònic",
+    "description": "Hem enviat un correu electrònic de verificació a la vostra adreça electrònica. Obriu el correu electrònic i feu clic al botó <1>\"Confirmar compte\"</1> per activar el vostre compte.",
+    "stepsTitle": "Passos",
+    "step1": "Obriu la vostra aplicació de correu electrònic (Gmail, Yahoo, etc.)",
+    "step2": "Busqueu un correu electrònic de DevFolio amb l'assumpte \"Activació del compte\"",
+    "step3": "Feu clic al botó \"Confirmar compte\" al correu electrònic",
+    "step4": "Se us dirigirà a la pàgina d'inici de sessió per introduir",
+    "resendSuccess": "S'ha tornat a enviar el correu electrònic de verificació!",
+    "resending": "S'està tornant a enviar...",
+    "resendButton": "Torna a enviar el correu electrònic de verificació",
+    "backToLogin": "Torna a la pàgina d'inici de sessió",
+    "footerNote": "No has rebut el correu electrònic? Comproveu la carpeta <1>Correu brossa</1> o <2>Correu brossa</2> del vostre correu electrònic. L'enllaç de verificació és vàlid durant <3>24 hores</3>."
+  }
+}

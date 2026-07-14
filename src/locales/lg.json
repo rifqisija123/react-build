@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ebintu eby'enjawulo",
+    "templates": "Ebikozesebwa mu kukola ebifaananyi",
+    "pricing": "Emiwendo gy’ebintu",
+    "login": "Yingira mu",
+    "getStarted": "Tandika",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Omuzimbi wa portfolio asembayo eri abakola",
+    "title1": "Zimba omukugu wo",
+    "title2": "portfolio mu",
+    "titleHighlight": "sekondi.",
+    "subtitle": "Byonna by’olina okulaga obukugu bwo, pulojekiti, n’obumanyirivu bwo. ",
+    "startBuilding": "Tandika Okuzimba Kati",
+    "viewTemplates": "Laba Ebikozesebwa",
+    "fastDeployment": "Okuteeka mu nkola mu bwangu",
+    "liveStatus": "username.dev eri butereevu!",
+    "featuresTitle": "Ebintu eby’amaanyi",
+    "featuresSubtitle": "Tukuwa ebikozesebwa byonna by’olina okusobola okwawukana ku bantu n’okutuuka ku ttaka omulimu gw’ekirooto kyo.",
+    "feature1Title": "Omuzimbi wa Drag & Drop",
+    "feature1Desc": "Kyangu okusengeka ebitundu byo, pulojekiti, n'obukugu n'omuwandiisi waffe ow'ebifaananyi ategeerekeka.",
+    "feature2Title": "Emiramwa egy’ennono",
+    "feature2Desc": "Londa mu template ezikoleddwa mu ngeri ey’ekikugu oba tonda endabika yo ey’enjawulo.",
+    "feature3Title": "Okwekenenya mu kiseera ekituufu",
+    "feature3Desc": "Londoola abagenyi bo, laba pulojekiti ki ezisinga okufaayo, n’ebirala."
+  },
+  "auth": {
+    "welcomeBack": "Mwaniriziddwa Okudda",
+    "loginToContinue": "Yingira ku akawunti yo okugenda mu maaso",
+    "createAccount": "Tonda Akawunti",
+    "joinCommunity": "Weegatte ku nkumi n’enkumi z’abakugu abalala",
+    "fullName": "Amannya Mu bujjuvu",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Endagiriro ya Email",
+    "emailPlaceholder": "ggwe@ekyokulabirako.com",
+    "password": "Paasiwaadi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Nzijukira",
+    "forgotPassword": "Weerabidde password?",
+    "signIn": "Yingira mu",
+    "signingIn": "Okuyingira mu...",
+    "signUp": "Wewandiise",
+    "signingUp": "Okwewandiisa...",
+    "noAccount": "Tolina akawunti?",
+    "hasAccount": "Olina dda akawunti?",
+    "passwordRules": {
+      "title": "Password erina okubaamu:",
+      "length": "Waakiri ennukuta 8",
+      "uppercase": "Ennukuta emu ennene (A-Z) .",
+      "number": "Ennamba emu (0-9) .",
+      "symbol": "Akabonero kamu (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Omuzimbi wa Portfolio",
+      "templates": "Ebikozesebwa & Emiramwa",
+      "settings": "Ensengeka",
+      "collapse": "Okugwa ku Sidebar",
+      "overview": "Okulambika okutwaliza awamu",
+      "profileSettings": "Ensengeka za Profile",
+      "customDomain": "Domain eya Custom",
+      "feedback": "Endowooza"
+    },
+    "header": {
+      "viewLive": "Laba Live",
+      "welcome": "Kaale,",
+      "logout": "Okufuluma",
+      "builder": "Omuzimbi",
+      "livePortfolio": "Omukutu gwa Live",
+      "live": "Kubeera"
+    },
+    "logoutModal": {
+      "title": "Okufuluma",
+      "message": "Okakasa nti oyagala kuva ku akawunti yo? ",
+      "cancel": "okusazaamu",
+      "confirm": "Yee, Okufuluma"
+    },
+    "slugModal": {
+      "title": "Londa URL ya Portfolio Yo",
+      "message": "URL eno ejja kuba link ey’enjawulo eri portfolio yo. ",
+      "slugPlaceholder": "erinnya lyo",
+      "availability": "Okubeerawo:",
+      "available": "Wekiri",
+      "unavailable": "Tekiriwo",
+      "checking": "Okukebera...",
+      "mustFormat": "Asobola okubeeramu ennukuta, ennamba, n’ennukuta zokka (-) .",
+      "cancel": "okusazaamu",
+      "save": "Teeka URL",
+      "usernameUrl": "URL y'erinnya ly'omukozesa",
+      "helpText": "Ennukuta entono, ennamba, n’ennukuta ensirifu. ",
+      "validation": {
+        "empty": "Slug tesobola kuba njereere.",
+        "min3": "Ekitono ennyo ennukuta 3.",
+        "max30": "Ennukuta ezitassukka 30.",
+        "format": "Ennukuta entono zokka, ennamba, n’ennukuta ensirifu (-). "
+      }
+    },
+    "loadingPortfolio": "Okutikka data ya portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Amakya amalungi",
+        "afternoon": "Akawungeezi akalungi",
+        "evening": "Akawungeezi akalungi",
+        "night": "Ekiro ekirungi"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Omutonzi",
+        "desc1": "Mwaniriziddwa ku dashboard ya DevFolio. Portfolio yo ebadde etunuuliddwa",
+        "desc2": "omuntu. Sigala ng’okola!",
+        "editPortfolio": "Edit Ekiwandiiko ky’Ekitongole"
+      },
+      "stats": {
+        "totalVisitors": "Omugatte gw’Abagenyi",
+        "projectViews": "Etunuuliddwa (Pulojekiti) .",
+        "activeSessions": "Olukungana Olukola",
+        "totalLabel": "Omugatte gwonna"
+      },
+      "setup": {
+        "title": "Enkulaakulana mu kuteekawo",
+        "completed": "Ekifo kyo kiwedde! 🎉",
+        "inProgress": "Emitendera okutuuka ku portfolio etuukiridde.",
+        "profile": {
+          "title": "Profile Mujjuvu",
+          "desc": "Yongera erinnya, bio ne profile photo."
+        },
+        "section": {
+          "title": "Okwongerako Ebitundu",
+          "desc": "Kozesa waakiri ekitundu 1 mu portfolio."
+        },
+        "project": {
+          "title": "Yongera ku Pulojekiti",
+          "desc": "Yingiza waakiri pulojekiti 1 zo ezisinga obulungi."
+        },
+        "publish": {
+          "title": "Okufulumya Ekitabo ky’Ekitongole",
+          "desc": "Teeka URL eya bulijjo esobole okuyingizibwa abantu bonna."
+        }
+      },
+      "topProjects": {
+        "title": "Pulojekiti ezisinga okwettanirwa",
+        "desc": "Enkola y’emirimu gyo mu maaso g’abagenyi.",
+        "viewAll": "Laba Byonna",
+        "empty": "Tewali view data ya project yo yet."
+      }
+    },
+    "themes": {
+      "title": "Ebikozesebwa & Emiramwa",
+      "subtitle": "Teekateeka endabika n’engeri gy’owuliramu ekifo kyo eky’olukale.",
+      "reset": "Okuzzaawo Ekisookerwako",
+      "save": "Teeka Enkyukakyuka",
+      "saving": "Okutereka...",
+      "chooseTemplate": "Londa Ekipande",
+      "primaryColor": "Langi Esookerwako",
+      "typography": "Enkola y'okuwandiika",
+      "appearance": "Endabika",
+      "corners": "Ensonda & Ensalo",
+      "successTitle": "Obuwanguzi",
+      "successMessage": "Ebintu ebisinga okunyumira omulamwa bitereezeddwa bulungi",
+      "errorTitle": "Ensobi",
+      "errorMessage": "Eremereddwa okutereka eby'okulonda eby'omulamwa",
+      "templates": {
+        "minimalist": {
+          "name": "Ekitono ennyo",
+          "desc": "Dizayini ennyonjo era ennyangu ng’essira liteekeddwa ku birimu."
+        },
+        "developerDark": {
+          "name": "Omukugu mu kukola Dark",
+          "desc": "Omulamwa omuddugavu ogutuukiridde okulaga code ne tech stacks."
+        },
+        "creative": {
+          "name": "Obuyiiya",
+          "desc": "Ensengeka eyakaayakana era eya langi eri abakola dizayini n'abayiiya."
+        },
+        "executive": {
+          "name": "Omukulu",
+          "desc": "Enteekateeka ey’ekikugu n’entongole eri abakugu mu bizinensi."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Ensengeka ya grid ey’omulembe eya Apple-style eraga obukugu obw’enjawulo mu ngeri ennungi."
+        },
+        "neoBrutalism": {
+          "name": "Obukambwe obupya",
+          "desc": "Ensalo enzirugavu ne langi ez’enjawulo ennyo okusobola okulabika ng’oli ku mulembe, nga tolina kwetonda."
+        },
+        "glassmorphism": {
+          "name": "Enkula y’endabirwamu",
+          "desc": "Frosted glass effects ku langi gradients ku UI ey'omulembe omulungi."
+        },
+        "linkInBio": {
+          "name": "Link mu Bio",
+          "desc": "Ensengeka ennyimpi (compact vertical layout) erongooseddwa ku screen z’essimu n’emikutu gy’empuliziganya."
+        }
+      },
+      "appearances": {
+        "light": "Ekitangaala",
+        "dark": "Ekizikiza",
+        "system": "Enkola"
+      },
+      "cornersOptions": {
+        "sharp": "Ebisongovu",
+        "rounded": "Ekyetooloovu",
+        "pill": "Empeke"
+      }
+    },
+    "feedback": {
+      "title": "Weereza Ebiteeso",
+      "subtitle": "Tuyambe okukikola obulungi nga tuwa amagezi, okunenya, oba okuloopa obuzibu ku nkola eno.",
+      "categoryLabel": "Ekika ky'okuddamu",
+      "messageLabel": "Ebikwata ku Bubaka",
+      "messagePlaceholder": "Mbuulira mu bujjuvu ku feedback gyoyagala okutuusa...",
+      "imageLabel": "Ekifaananyi Ekigattibwako (Eky'okwesalirawo)",
+      "imagePlaceholder": "Nyiga okuteeka ekifaananyi oba ekifaananyi",
+      "submitting": "Okusindika...",
+      "submitBtn": "Weereza Ebiteeso",
+      "categories": {
+        "suggestion": "Ebiteeso & Ebirowoozo",
+        "bug": "Lipoota y'Ensobi / Ensobi",
+        "criticism": "Okunenya",
+        "other": "Abalala"
+      },
+      "imageErrorTitle": "Ensobi",
+      "imageErrorMessage": "Fayiro ezimu zigaanibwa kubanga teziwagirwa nkola za bifaananyi (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Obuwanguzi",
+      "successMessage": "Mwebale nnyo okutuwa endowooza yo! Alipoota eweerezeddwa.",
+      "submitErrorTitle": "Kilemereddwa",
+      "submitErrorMessage": "Ensobi ebaddewo nga tusindika ebiteeso. Nsaba oddemu ogezeeko."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ebikwata ku Nze",
+      "skills": "Eby'engalo",
+      "projects": "Pulojekiti ezikolebwa",
+      "workExperience": "Obumanyirivu mu mirimu",
+      "orgExperience": "Obumanyirivu mu kitongole",
+      "education": "Okusoma",
+      "certifications": "Okutendekebwa & Okuweebwa ebbaluwa",
+      "contact": "Ntuukirira"
+    },
+    "editor": {
+      "profileInfo": "Ebikwata ku Profile",
+      "saving": "Okutereka...",
+      "profilePhoto": "Ekifaananyi kya Profile",
+      "clickToUpload": "Nyiga okuteeka ku mukutu (JPG, PNG)",
+      "fullName": "Amannya Mu bujjuvu",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer ng'ayagala nnyo okuzimba web apps ez'omulembe...",
+      "location": "Ekifo",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Obutonde",
+      "selectGender": "Londa Ekikula ky’Omuntu",
+      "male": "Lume",
+      "female": "Kazi",
+      "custom": "Empisa",
+      "customPlaceholder": "Wandiika ekikula kyo eky'ennono...",
+      "uploadCv": "Teeka ku mukutu gwa CV",
+      "cvFormat": "(DOC oba PDF)",
+      "preview": "Okusooka okulaba",
+      "remove": "Okujjamu",
+      "clickToUploadCv": "Nyiga okuteeka PDF oba DOC",
+      "sections": "Ebitundu",
+      "removeSelected": "Ggyawo Ebirondeddwa",
+      "confirmRemove": "Kakasa Ggyawo",
+      "addSection": "Okwongerako Ekitundu",
+      "addAllSections": "Okwongerako Ebitundu Byonna",
+      "noSections": "Tewali bitundutundu n’okutuusa kati",
+      "clickToAdd": "Nywa ku \"+ Add Section\" okutandika",
+      "selectAll": "Londa Byonna",
+      "selected": "Ebirondeddwa",
+      "dragToReorder": "Senda okuddamu okusengeka ebitundu",
+      "livePreview": "Okusooka okulaba obutereevu",
+      "addSectionsToBuild": "Yongera ebitundu okuzimba portfolio yo",
+      "now": "Kaakati",
+      "current": "Mu buliwo",
+      "noExpiry": "Tewali Kuggwaako",
+      "see": "Okulaba",
+      "position": "Ekifo",
+      "degree": "Diguli",
+      "certification": "Okuweebwa ebbaluwa",
+      "sectionsForm": {
+        "about": {
+          "label": "Okunnyonnyola ku ggwe kennyini",
+          "placeholder": "Tubuulire ebikukwatako, embeera yo, by'oyagala n'obukugu..."
+        },
+        "skills": {
+          "addPlaceholder": "Wandiika skill olwo onyige Enter..."
+        },
+        "projects": {
+          "title": "Erinnya lya Pulojekiti",
+          "titlePlaceholder": "Erinnya lya pulojekiti...",
+          "url": "URL ya pulojekiti",
+          "description": "Okunnyonnyola",
+          "descriptionPlaceholder": "Okunnyonnyola mu bufunze pulojekiti eno...",
+          "uploadThumbnail": "Ekifaananyi kya Pulojekiti",
+          "addProject": "Yongera ku Pulojekiti",
+          "projectNum": "Pulojekiti #",
+          "currentProject": "Eno pulojekiti gye nkola"
+        },
+        "work": {
+          "company": "Kampuni/Ekitongole",
+          "companyPlaceholder": "Erinnya lya kkampuni...",
+          "position": "Ekifo/Ekitiibwa",
+          "positionPlaceholder": "Ekifo kyo...",
+          "employmentType": "Ekika ky’omulimu",
+          "location": "Ekifo",
+          "locationPlaceholder": "Ekibuga, Ensi...",
+          "startDate": "Okutandika",
+          "endDate": "Okumaliriza",
+          "currentWork": "Nkyakola mu kiseera kino",
+          "description": "Okunnyonnyola",
+          "descriptionPlaceholder": "Ennyonnyola y'emirimu n'obuvunaanyizibwa...",
+          "skills": "Eby'emikono",
+          "addExperience": "Okwongerako Obumanyirivu mu Mirimu",
+          "experienceNum": "Obumanyirivu #",
+          "dateError": "Olunaku lw’okuggwaako teruyinza kuba nga lukyali ku lunaku lw’okutandika"
+        },
+        "org": {
+          "organization": "Erinnya ly’Ekitongole",
+          "orgPlaceholder": "Yunivasite ya BEM...",
+          "role": "Omulimu/Ekifo",
+          "rolePlaceholder": "Akulira Divizoni...",
+          "addOrg": "Okwongerako Obumanyirivu mu Kitongole",
+          "orgNum": "Ekitongole #"
+        },
+        "edu": {
+          "institution": "Amatendekero g’ebyenjigiriza",
+          "institutionPlaceholder": "Erinnya lya kampusi oba essomero...",
+          "degree": "Omutwe",
+          "degreePlaceholder": "S1, siniya, n'ebirala...",
+          "major": "Ekitongole/Ekisaawe ky’Okusoma",
+          "majorPlaceholder": "Engineering mu by'amawulire...",
+          "gpa": "GPA (eky’okwesalirawo) .",
+          "currentStudy": "Nze nkyayiga wano",
+          "descriptionPlaceholder": "Ebikolebwa n'ebituukiddwaako mu kiseera ky'okusoma...",
+          "addEdu": "Okwongerako Ebyenjigiriza",
+          "eduNum": "Okusoma #"
+        },
+        "cert": {
+          "name": "Erinnya ly’Ebbaluwa / Okutendekebwa",
+          "namePlaceholder": "Erinnya ly'okukakasa...",
+          "issuer": "Omubuulizi",
+          "issuerPlaceholder": "Ekitongole ekifulumya ebitabo...",
+          "issueDate": "Tandika (Olunaku lw'okufulumya)",
+          "issueDatePlaceholder": "Londa olunaku lw'okufulumya...",
+          "expiryDate": "Emaliriziddwa (Ekiseera Ekituufu) .",
+          "expiryDatePlaceholder": "Londa olunaku lw'okuggwaako...",
+          "noExpiry": "Satifikeeti eno terina lunaku lw’eggwaako",
+          "url": "URL y'Ebbaluwa y'Ebbaluwa",
+          "uploadThumbnail": "Satifikeeti / Ekifaananyi ky'okutendekebwa",
+          "uploadThumbnailLimit": "Teeka ekifaananyi kya satifikeeti (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Yongera ku Satifikeeti",
+          "certNum": "Okukakasa # ."
+        },
+        "contact": {
+          "contactNum": "Okutuukirira #",
+          "platform": "Ekifo",
+          "displayText": "Laga Ebiwandiiko",
+          "displayTextPlaceholder": "e.g., you@email.com oba @erinnya ly'omukozesa",
+          "url": "Enkolagana (URL)",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (nga tewali kukulembera 0)",
+          "urlPlaceholderEmail": "e.g., ggwe@email.com",
+          "urlPlaceholderWebsite": "okugeza, https://...",
+          "urlPlaceholderDefault": "e.g., erinnya ly’omukozesa",
+          "addContact": "Yongera ku Contact"
+        },
+        "common": {
+          "months": {
+            "1": "Omweezi ogusooka",
+            "2": "Omweezi gw'okubiri",
+            "3": "Okukumba",
+            "4": "Ogw'okuna",
+            "5": "Omweezi ogw'okutaano",
+            "6": "Omweezi ogwomukaaga",
+            "7": "Omweezi ogwomusanvu",
+            "8": "Ogwomusanvu",
+            "9": "Omweezi ogw'omwenda",
+            "10": "Omweezi ogw'ekkumi",
+            "11": "Omweezi ogw'ekkumi n'olumu",
+            "12": "Omweezi gwa museenene"
+          },
+          "month": "Omwezi",
+          "year": "Omwaka",
+          "invalidDate": "Omwezi gw'enkomerero ogutali mutuufu",
+          "words": "ebigambo"
+        }
+      },
+      "sure": "Tewali kubuusabuusa",
+      "deletePhotoTitle": "Okusazaamu Ekifaananyi kya Profile?",
+      "deletePhotoMessage": "Okakasa nti oyagala kusazaamu kifaananyi kino ekya profile?",
+      "cancel": "okusazaamu",
+      "delete": "Okusiimuula"
+    },
+    "cropper": {
+      "chooseBackground": "Londa Ennyuma",
+      "cropPhoto": "Sala Ekifaananyi Kyo",
+      "useOriginal": "Kozesa original",
+      "backgroundPresets": "Ebiteekeddwateekeddwa mu Background",
+      "none": "Tewali",
+      "uploadBackground": "Upload Ebyafaayo",
+      "cancel": "okusazaamu",
+      "savePhoto": "Teeka Ekifaananyi",
+      "zoom": "Zoom",
+      "rotationTilt": "Okuzimbulukuka & Okulengejja",
+      "resetRotation": "Ddamu ku 0°",
+      "center": "Mu makati",
+      "rotateLeft": "Zingulula -90°",
+      "rotateRight": "Zingulula +90°",
+      "removeBackground": "Ggyawo Background",
+      "processing": "Okukola ku kifaananyi kyo, nsaba olinde..."
+    },
+    "cvPreview": {
+      "title": "CV Okusooka okulaba",
+      "downloadCv": "Download CV",
+      "download": "Okufuna",
+      "wordCannotPreview": "Ebiwandiiko by'ebigambo (.doc/.docx) tebisobola kulabibwa mu ngeri ya buzaale mu bbulawuzi. ",
+      "downloadFile": "Wano wefunire Fayiro ya CV",
+      "back": "Mabega",
+      "mobileMessage": "Nsaba owanule fayiro ya CV osobole okugiraba.",
+      "preview": "Okusooka okulaba CV",
+      "wordPreviewTitle": "Okusooka okulaba ekiwandiiko kya Word",
+      "wordPreviewMessage": "Ebiwandiiko by'ebigambo (.doc/.docx) tebisobola kulabibwa mu ngeri ya buzaale mu bbulawuzi. Nsaba owanule fayiro ogilabe."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Wandiika ennyonyola ennyimpimpi ku ggwe kennyini, by’oyagala, n’ebiruubirirwa by’omulimu..."
+    },
+    "skills": {
+      "placeholder": "Wandiika erinnya ly'obukugu...",
+      "add": "Okwongerako",
+      "enterToAdd": "Nywa Enter okugattako",
+      "noSkills": "Tewali bukugu bwongeddwaako n'okutuusa kati."
+    },
+    "projects": {
+      "projectName": "Erinnya lya Pulojekiti",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL ya pulojekiti",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Ebbanga",
+      "startMonth": "Omwezi ogutandise",
+      "startYear": "Omwaka gw'okutandika",
+      "endMonth": "Omwezi oguggwaako",
+      "endYear": "Omwaka ogusembayo",
+      "currentlyWorking": "Mu kiseera kino nga bakola ku nsonga eno",
+      "description": "Okunnyonnyola",
+      "descriptionPlaceholder": "Nnyonnyola pulojekiti, omulimu gwo, n'ebyo by'otuuseeko...",
+      "technologies": "Tekinologiya Akozesebwa",
+      "addProject": "Yongera ku Pulojekiti",
+      "image": "Ekifaananyi kya Pulojekiti",
+      "removeImage": "Ggyawo Ekifaananyi",
+      "uploadImage": "Nyiga okuteeka ekifaananyi ku mukutu"
+    },
+    "work": {
+      "company": "Kampuni/Ekitongole",
+      "companyPlaceholder": "Erinnya lya kkampuni...",
+      "role": "Omulimu/Ekifo",
+      "rolePlaceholder": "Ekifo kyo...",
+      "jobType": "Ekika ky’Omulimu",
+      "selectJobType": "Londa ekika",
+      "fullTime": "Omulimu ogw’ekiseera kyonna",
+      "partTime": "Ekitundu ky’ekiseera",
+      "contract": "Kontulakiti",
+      "internship": "Okugezesebwa",
+      "freelance": "Omukozi ow’eddembe",
+      "location": "Ekifo",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Ebbanga",
+      "currentlyWorking": "Mu kiseera kino akola wano",
+      "description": "Ennyonnyola y'Omulimu",
+      "descriptionPlaceholder": "Nnyonnyola obuvunaanyizibwa bwo obukulu n'ebyo by'otuuseeko...",
+      "skills": "Obukugu obw’enjawulo",
+      "addExperience": "Okwongerako Obumanyirivu"
+    },
+    "org": {
+      "organization": "Erinnya ly’Ekitongole",
+      "organizationPlaceholder": "Erinnya ly'ekitongole...",
+      "role": "Omulimu/Ekifo",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Ebbanga",
+      "periodFormat": "oba Enkola ey’obwereere (e.g. 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Mu kiseera kino akola",
+      "description": "Ennyonnyola y’emirimu",
+      "descriptionPlaceholder": "Nnyonnyola emirimu gyo oba by'owaddeyo...",
+      "addExperience": "Okwongerako Obumanyirivu"
+    },
+    "education": {
+      "institution": "Erinnya ly’Ekitongole",
+      "institutionPlaceholder": "Erinnya ly'essomero oba yunivasite...",
+      "degree": "Diguli/Eddaala",
+      "degreePlaceholder": "e.g. ",
+      "major": "Major/Ekisaawe ky’Okusoma",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Ekibiina",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Ebbanga ly’okusoma",
+      "periodFormat": "oba Enkola ey’obwereere (e.g. 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Mu kiseera kino asoma wano",
+      "description": "Emirimu / Ebitiibwa",
+      "descriptionPlaceholder": "Nnyonnyola emirimu gy'okusoma, ebibiina, oba ebitiibwa ebifunibwa...",
+      "addEducation": "Okwongerako Ebyenjigiriza"
+    },
+    "cert": {
+      "name": "Erinnya ly’okukakasa",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Ekitongole ekifulumya ebitabo",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Olunaku Lw'okufulumya",
+      "expiryDate": "Ekola Okutuusa",
+      "noExpiry": "Ekiwandiiko kino tekiggwaako",
+      "yearPlaceholder": "oba Omwaka (e.g. 2023) .",
+      "credentialUrl": "URL y'Ebbaluwa y'Ebbaluwa",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Obukugu obukwatagana nabyo",
+      "addCertification": "Yongera ku Satifikeeti",
+      "image": "Ekifaananyi/Logo",
+      "removeImage": "Ggyawo Ekifaananyi",
+      "uploadImage": "Nyiga okuteeka ekifaananyi ku mukutu"
+    },
+    "common": {
+      "months": {
+        "1": "Omweezi ogusooka",
+        "2": "Omweezi gw'okubiri",
+        "3": "Okukumba",
+        "4": "Ogw'okuna",
+        "5": "Omweezi ogw'okutaano",
+        "6": "Omweezi ogwomukaaga",
+        "7": "Omweezi ogwomusanvu",
+        "8": "Ogwomusanvu",
+        "9": "Omweezi ogw'omwenda",
+        "10": "Omweezi ogw'ekkumi",
+        "11": "Omweezi ogw'ekkumi n'olumu",
+        "12": "Omweezi gwa museenene"
+      },
+      "month": "Omwezi",
+      "year": "Omwaka",
+      "invalidDate": "Omwezi gw'enkomerero ogutali mutuufu",
+      "words": "ebigambo"
+    }
+  },
+  "settings": {
+    "title": "Ensengeka",
+    "subtitle": "Dukanya ebikwata ku portfolio yo n’ebyo by’oyagala",
+    "tabs": {
+      "profile": "Profile Yange",
+      "security": "Obukuumi",
+      "personalization": "Okwefuula omuntu"
+    },
+    "profile": {
+      "infoTitle": "Amawulire Amakulu",
+      "photo": "Ekifaananyi kya Profile",
+      "uploadPhoto": "Kyusa Ekifaananyi",
+      "fullName": "Amannya Mu bujjuvu",
+      "fullNamePlaceholder": "John Doe, omuwandiisi w’ebitabo",
+      "email": "Endagiriro ya Email",
+      "emailPlaceholder": "john@ekyokulabirako.com",
+      "emailHelp": "Email ekozesebwa okuyingira era telagibwa mu lujjudde.",
+      "portfolioUrl": "URL ya portfolio",
+      "saveProfile": "Teeka Profile",
+      "save": "Teeka Profile",
+      "accountCreated": "Akawunti Ekoleddwa",
+      "lastLogin": "Okuyingira Okusembayo",
+      "oauthNotice": "Profaayili eno eyungibwa ku akawunti yo eya {{provider}}. Enkyukakyuka mu profile zirina okukolebwa nga ziyita mu muwa empeereza."
+    },
+    "security": {
+      "changePassword": "Kyusa Password",
+      "currentPassword": "Password eriwo kati",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Password empya",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Kakasa Password Empya",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Waakiri ennukuta 8",
+        "uppercase": "Ennukuta emu ennene (A-Z) .",
+        "number": "Ennamba emu (0-9) .",
+        "symbol": "Akabonero kamu (!@#$%^&*)"
+      },
+      "passwordTitle": "Paasiwaadi",
+      "updatePassword": "Okulongoosa Password",
+      "additionalSecurity": "Obukuumi obw’enjawulo",
+      "twoFactor": "Okukakasa okw’ensonga bbiri (2FA) .",
+      "twoFactorDesc": "Kuuma akawunti yo ng'okozesa koodi ya OTP endala.",
+      "activeSessions": "Entuula ezikola",
+      "activeSessionsDesc": "Bulijjo kiriza okulondoola ebyuma ebiyingidde.",
+      "publicVisibility": "Okulabibwa mu Lujjudde",
+      "hideFromSearch": "Kweka Portfolio okuva mu Mikutu gy'Okunoonya",
+      "hideFromSearchDesc": "Lemesa Google okuwandiika omuko gwo ogwa portfolio ogw’olukale.",
+      "disable2fa": {
+        "title": "Lemaza 2FA",
+        "description": "Okakasa nti oyagala okuggyako okukakasa okw'ensonga bbiri?",
+        "confirmPasswordLabel": "Yingiza password yo okukakasa",
+        "currentPasswordPlaceholder": "Ekigambo ky'okuyingira ekiriwo kati",
+        "cancelButton": "Sazaamu",
+        "confirmButton": "Lemaza 2FA",
+        "incorrectPassword": "Ekigambo ky'okuyingira ekikyamu."
+      },
+      "setup2fa": {
+        "step1Title": "1. Sikaani Koodi ya QR",
+        "step1Desc": "Ggulawo app yo ey’okukakasa era osika QR code eno wammanga:",
+        "unableToScan": "Tesobola kusika? Kozesa ekisumuluzo ky’okuteekawo",
+        "step2Title": "2. Kakasa Koodi",
+        "step2Desc": "Yingiza koodi ya digito 6 ekoleddwa app yo:",
+        "cancelButton": "okusazaamu",
+        "enableButton": "Ssobozesa 2FA",
+        "invalidLength": "Nsaba oyingize koodi ya digito 6.",
+        "invalidCode": "Koodi y'okukakasa etali ntuufu. Nsaba oddemu ogezeeko."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Ebifuga Olulimi",
+      "appLanguage": "Olulimi lwa App",
+      "layoutTitle": "Ensengeka & Typography",
+      "layoutStyle": "Omusono gw’ensengeka",
+      "layoutModern": "Omusono ogw’omulembe (Default) .",
+      "layoutClassic": "Omusono gwa Classic",
+      "layoutMinimalist": "Omusono ogw’ekika kya Minimalist",
+      "fontSize": "Enkula y'Empandiika ya App",
+      "fontSmall": "Tono",
+      "fontNormal": "Ekyabulijjo (Eky’omu makkati) .",
+      "fontLarge": "Gazi",
+      "searchLanguage": "Olulimi lw'okunoonya...",
+      "languageNotFound": "Olulimi teruzuuliddwa",
+      "layoutElegant": "Omusono Omulungi"
+    },
+    "saveChanges": "Teeka Enkyukakyuka",
+    "cancel": "okusazaamu",
+    "appSettings": "Enteekateeka za App",
+    "logoutConfirmTitle": "Kakasa Okufuluma",
+    "logoutConfirmDesc": "Okakasa nti oyagala kuva mu nkola eno?",
+    "logoutConfirmYes": "Yee, Okufuluma",
+    "generalError": "Ensobi ebaddewo. ",
+    "success": "Okuyita",
+    "preferencesSaved": "App preferences ziterekeddwa bulungi.",
+    "header": "Ensengeka z’Enkola",
+    "logout": {
+      "title": "Okukakasa Okufuluma",
+      "message": "Okakasa nti oyagala kuva mu nkola eno?",
+      "confirm": "Yee, Okufuluma"
+    },
+    "about": {
+      "title": "Ebikwata ku Kusaba",
+      "subtitle": "Omukutu gw’Omuzimbi w’Ebifo",
+      "version": "Ekika",
+      "description": "DevFolio ye nkola ey’omulembe ey’okuzimba portfolio eyategekebwa abakola, abakola dizayini, n’abayiiya ab’ekikugu. ",
+      "license": "Layisinsi & Eddembe ly'okuwandiika",
+      "copyright": "© 2026 DevFolio Inc. Eddembe lyonna liri mu buyinza bwaffe.",
+      "developer": "Omukugu mu by’okukulaakulanya",
+      "developedBy": "Yakolebwa Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Sazaamu Akawunti Enkalakkalira",
+      "menuItem": "Ssaako Akawunti",
+      "successTitle": "Obuwanguzi",
+      "successMessage": "Email ekakasa okusazaamu akawunti eweerezeddwa.",
+      "errorTitle": "Kilemereddwa",
+      "errorMessage": "Eremereddwa okuweereza email ekakasa.",
+      "confirmationMessage": "Okakasa nti oyagala kusazaamu akawunti yo enkalakkalira?",
+      "warningMessage1": "Ojja kufuna email okukakasa okusazaamu akawunti.",
+      "warningMessage2": "Singa kikakasibwa, data yonna (portfolio, projects, statistics) ejja kusazibwamu enkalakkalira era tesobola kuddizibwa.",
+      "cancel": "Sazaamu",
+      "confirm": "Okukakasa"
+    },
+    "toasts": {
+      "toastError": "Ensobi",
+      "toastSuccess": "Okuyita",
+      "toastSetup2FAFailed": "Eremereddwa okuteekawo 2FA. Nsaba oddemu ogezeeko.",
+      "toast2FAEnabled": "Okukakasa ensonga bbiri kusobozeseddwa.",
+      "toast2FADisabled": "Okukakasa ensonga bbiri kulemeddwa.",
+      "toastSessionEnabled": "Okulondoola entuula okukola kusobozeseddwa.",
+      "toastSessionDisabled": "Okulondoola olutuula okukola kulemesebwa.",
+      "toastSetupKeyCopied": "Ekisumuluzo ky'okuteekawo kikoppoloddwa ku clipboard."
+    },
+    "privacy": {
+      "title": "Enkola y’Ebyama",
+      "updateDate": "Yasemba okutereezebwa: July 15, 2026",
+      "intro": "Enkola eno ey’Ebyama ennyonnyola engeri DevFolio gy’ekung’aanya, gy’ekozesaamu, n’okukuuma ebikwata ku bantu bo ng’okozesa empeereza zaffe.",
+      "section1Title": "1. Amawulire ge Tukung’aanya",
+      "section1Content": "Tukung’aanya amawulire g’owa butereevu ng’okola akawunti, ng’ozimba ekifo, era ng’otuukirira obuyambi bwaffe. ",
+      "section2Title": "2. Okukozesa Amawulire",
+      "section2Content": "Amawulire go gakozesebwa okukola, okulabirira, n’okuwa ebikozesebwa mu mpeereza zaffe, awamu n’okuwuliziganya naawe ku akawunti yo oba empeereza yo.",
+      "section3Title": "3. Obukuumi bwa Data",
+      "section3Content": "Tussa mu nkola enkola ezisaanidde ez’obukuumi okukuuma ebikwata ku bikwata ku bikwata ku bantu bo obutayingizibwa, okubifulumya, oba okusaanyaawo abantu abatalina lukusa."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Akabonero akakakasa tekazuuliddwa.",
+    "defaultError": "Eremereddwa okusazaamu akawunti. Akabonero kayinza okuba nga kaggwaako.",
+    "loadingTitle": "Okusazaamu Akawunti...",
+    "loadingMessage": "Nsaba olinde, tukola ku kusaba kwo.",
+    "successTitle": "Akawunti Esaziddwamu Bwangu",
+    "successMessage": "Data yo yonna esaziddwamu enkalakkalira. Ojja kukyusibwa...",
+    "errorTitle": "Eremereddwa Okusazaamu Akawunti",
+    "backToHome": "Ddayo Ewaabwe"
+  },
+  "forgotPassword": {
+    "minutes": "eddakiika",
+    "seconds": "sekondi",
+    "success": "Obuwanguzi",
+    "otpSentToEmail": "Koodi ya OTP esindikiddwa ku email yo.",
+    "failed": "Kilemereddwa",
+    "emailNotFound": "Email tezuuliddwa.",
+    "emailThirdParty": "Email eno ewandiisibwa ng’eyita mu muntu ow’okusatu.",
+    "genericError": "Waliwo ensobi. Nsaba oddemu ogezeeko.",
+    "otpVerified": "Koodi ya OTP ekakasiddwa bulungi.",
+    "otpExpired": "Koodi ya OTP eweddeko. Nsaba osabe koodi empya.",
+    "otpInvalid": "Koodi ya OTP etali ntuufu.",
+    "otpResent": "Koodi ya OTP empya esindikiddwa ku email yo.",
+    "otpResendFailed": "Eremereddwa okuddamu okuweereza koodi ya OTP. Nsaba oddemu ogezeeko.",
+    "passwordResetSuccess": "Password eddaamu bulungi. Nsaba oyingire n'ekigambo kyo ekipya eky'okuyingira.",
+    "passwordResetFailed": "Eremereddwa okuddamu okuteekawo ekigambo ky'okuyingira.",
+    "backToLogin": "Ddayo mu Kuyingira",
+    "back": "Emabega",
+    "title": "Yerabidde Password",
+    "description": "Yingiza endagiriro ya email ewandiisiddwa ku akawunti yo. Tujja kusindika code ya OTP okuddamu okuteekawo password.",
+    "emailLabel": "Endagiriro ya Email",
+    "sending": "Okusindika...",
+    "sendOtp": "Weereza Koodi ya OTP",
+    "verifyOtpTitle": "Kakasa Koodi ya OTP",
+    "verifyOtpDesc": "Yingiza koodi ya digito 6 eweerezeddwa ku email yo okukakasa omuntu wo.",
+    "verifying": "Okukakasa...",
+    "verifyOtp": "Kakasa OTP",
+    "resending": "Okuddamu okusindika...",
+    "resendOtp": "Ddamu okuweereza Koodi ya OTP",
+    "resendCodeIn": "Ddamu okuweereza koodi mu",
+    "newPasswordTitle": "Tonda Password Empya",
+    "newPasswordDesc": "Tonda password empya, ennywevu okukuuma akawunti yo.",
+    "newPasswordLabel": "Ekigambo ky'okuyingira ekipya",
+    "min8Chars": "Ekitono ennyo ennukuta 8",
+    "oneUpperCase": "1 ennukuta ennene (A-Z)",
+    "oneNumber": "1 ennamba (0-9)",
+    "oneSymbol": "1 akabonero (!@#$%^&*)",
+    "confirmPasswordLabel": "Kakasa Ekigambo ky'Okuyita",
+    "passwordsDoNotMatch": "Ebigambo by’okuyingira tebikwatagana.",
+    "resettingPassword": "Okuzzaawo Password...",
+    "resetPassword": "Okuzzaawo Password"
+  },
+  "verifyEmail": {
+    "resendError": "Eremereddwa okuddamu okuweereza email y'okukakasa. Nsaba oddemu ogezeeko.",
+    "checkingStatus": "Okukebera embeera y'okukakasa...",
+    "title": "Kebera Email Yo",
+    "description": "Tuweerezza email y'okukakasa ku email yo. Nsaba oggule email era onyige ku <1>\"Kakasa Akawunti\"</1> okutandikawo akawunti yo.",
+    "stepsTitle": "Emitendera",
+    "step1": "Ggulawo enkola yo eya email (Gmail, Yahoo, n'ebirala)",
+    "step2": "Noonya email okuva mu DevFolio ng'erina omutwe \"Okukola Akawunti\"",
+    "step3": "Nywa ku \"Confirm Account\" mu email",
+    "step4": "Ojja kulagirwa ku lupapula lw'okuyingira okuyingira",
+    "resendSuccess": "Email y'okukakasa ezzeemu okusindikibwa!",
+    "resending": "Okuddamu okusindika...",
+    "resendButton": "Ddamu okuweereza Email y'okukakasa",
+    "backToLogin": "Ddayo ku Muko gw'Okuyingira",
+    "footerNote": "Email togifunye? Kebera ekifo <1>Spam</1> oba <2>Junk</2> mu email yo. Enkolagana y'okukakasa ekola okumala <3>essaawa 24</3>."
+  }
+}

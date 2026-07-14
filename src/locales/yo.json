@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Awọn ẹya ara ẹrọ",
+    "templates": "Awọn awoṣe",
+    "pricing": "Ifowoleri",
+    "login": "Wo ile",
+    "getStarted": "Bẹrẹ",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Akole portfolio ti o ga julọ fun awọn olupilẹṣẹ",
+    "title1": "Kọ ọjọgbọn rẹ",
+    "title2": "portfolio ni",
+    "titleHighlight": "iṣẹju-aaya.",
+    "subtitle": "Ohun gbogbo ti o nilo lati ṣafihan awọn ọgbọn rẹ, awọn iṣẹ akanṣe, ati iriri. ",
+    "startBuilding": "Bẹrẹ Ilé Bayi",
+    "viewTemplates": "Wo Awọn awoṣe",
+    "fastDeployment": "Yara imuṣiṣẹ",
+    "liveStatus": "username.dev wa laaye!",
+    "featuresTitle": "Alagbara Awọn ẹya ara ẹrọ",
+    "featuresSubtitle": "A pese gbogbo awọn irinṣẹ ti o nilo lati jade kuro ninu ogunlọgọ ati gbe iṣẹ ala rẹ silẹ.",
+    "feature1Title": "Fa & Ju Akole",
+    "feature1Desc": "Ni irọrun ṣeto awọn apakan rẹ, awọn iṣẹ akanṣe, ati awọn ọgbọn pẹlu olootu wiwo inu inu wa.",
+    "feature2Title": "Aṣa Awọn akori",
+    "feature2Desc": "Yan lati awọn awoṣe ti a ṣe agbejoro tabi ṣẹda iwo alailẹgbẹ tirẹ.",
+    "feature3Title": "Awọn atupale gidi-akoko",
+    "feature3Desc": "Tọpinpin awọn alejo rẹ, wo iru awọn iṣẹ akanṣe ti o gba akiyesi julọ, ati diẹ sii."
+  },
+  "auth": {
+    "welcomeBack": "Ku aabọ pada",
+    "loginToContinue": "Wọle si akọọlẹ rẹ lati tẹsiwaju",
+    "createAccount": "Se akanti fun ra re",
+    "joinCommunity": "Darapọ mọ ẹgbẹẹgbẹrun awọn olupilẹṣẹ miiran",
+    "fullName": "Akokun Oruko",
+    "fullNamePlaceholder": "f.eks. ",
+    "email": "Adirẹsi imeeli",
+    "emailPlaceholder": "ìwọ@example.com",
+    "password": "Ọrọigbaniwọle",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Ranti mi",
+    "forgotPassword": "Gbagbe ọrọ aṣina bi?",
+    "signIn": "Wọle",
+    "signingIn": "Wọlé...",
+    "signUp": "Forukọsilẹ",
+    "signingUp": "Iforukọsilẹ...",
+    "noAccount": "Ṣe ko ni akọọlẹ kan?",
+    "hasAccount": "Ti ni iroyin tẹlẹ?",
+    "passwordRules": {
+      "title": "Ọrọigbaniwọle gbọdọ ni:",
+      "length": "O kere ju awọn ohun kikọ 8",
+      "uppercase": "Lẹta nla kan (A-Z)",
+      "number": "Nọmba kan (0-9)",
+      "symbol": "Aami kan (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Akole",
+      "templates": "Awọn awoṣe & Awọn akori",
+      "settings": "Eto",
+      "collapse": "Pa ẹgbẹẹgbẹ",
+      "overview": "Akopọ",
+      "profileSettings": "Eto profaili",
+      "customDomain": "Aṣa ase",
+      "feedback": "Esi"
+    },
+    "header": {
+      "viewLive": "Wo Live",
+      "welcome": "Kaabo,",
+      "logout": "Jade jade",
+      "builder": "Akole",
+      "livePortfolio": "Portfolio Live",
+      "live": "Gbe"
+    },
+    "logoutModal": {
+      "title": "Jade jade",
+      "message": "Ṣe o da ọ loju pe o fẹ jade kuro ni akọọlẹ rẹ? ",
+      "cancel": "Fagilee",
+      "confirm": "Bẹẹni, Jade"
+    },
+    "slugModal": {
+      "title": "Yan URL Portfolio rẹ",
+      "message": "URL yii yoo jẹ ọna asopọ alailẹgbẹ si portfolio rẹ. ",
+      "slugPlaceholder": "orukọ rẹ",
+      "availability": "Wiwa:",
+      "available": "Wa",
+      "unavailable": "Ko si",
+      "checking": "Ṣiṣayẹwo...",
+      "mustFormat": "Le nikan ni awọn lẹta, awọn nọmba, ati dashes (-)",
+      "cancel": "Fagilee",
+      "save": "Fi URL pamọ",
+      "usernameUrl": "URL orukọ olumulo",
+      "helpText": "Awọn lẹta kekere, awọn nọmba, ati dashes. ",
+      "validation": {
+        "empty": "Slug ko le jẹ ofo.",
+        "min3": "Kere 3 kikọ.",
+        "max30": "O pọju awọn ohun kikọ 30.",
+        "format": "Awọn lẹta kekere nikan, awọn nọmba, ati dashes (-). "
+      }
+    },
+    "loadingPortfolio": "Nkojọpọ data portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "E ku Owuro",
+        "afternoon": "O dara Friday",
+        "evening": "O dara Friday",
+        "night": "Ti o dara Night"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Eleda",
+        "desc1": "Kaabọ si Dasibodu DevFolio. portfolio rẹ ti jẹ wiwo nipasẹ",
+        "desc2": "eniyan. Tẹsiwaju ṣiṣẹ!",
+        "editPortfolio": "Portfolio Ṣatunkọ"
+      },
+      "stats": {
+        "totalVisitors": "Lapapọ Alejo",
+        "projectViews": "Ti wo (Ise agbese)",
+        "activeSessions": "Ikoni ti nṣiṣe lọwọ",
+        "totalLabel": "Lapapọ"
+      },
+      "setup": {
+        "title": "Ilọsiwaju iṣeto",
+        "completed": "Portfolio rẹ ti pari! 🎉",
+        "inProgress": "Awọn igbesẹ si portfolio pipe.",
+        "profile": {
+          "title": "Pipe Profaili",
+          "desc": "Fi orukọ kun, bio ati fọto profaili."
+        },
+        "section": {
+          "title": "Fi Awọn apakan kun",
+          "desc": "Muu ṣiṣẹ o kere ju apakan 1 ninu portfolio."
+        },
+        "project": {
+          "title": "Fi Project",
+          "desc": "Tẹ o kere ju 1 ti awọn iṣẹ akanṣe rẹ ti o dara julọ."
+        },
+        "publish": {
+          "title": "Ṣe atẹjade Portfolio",
+          "desc": "Ṣeto URL aṣa kan ki o le wọle si nipasẹ gbogbo eniyan."
+        }
+      },
+      "topProjects": {
+        "title": "Julọ Gbajumo ise agbese",
+        "desc": "Iṣe ti iṣẹ rẹ ni oju awọn alejo.",
+        "viewAll": "Wo Gbogbo",
+        "empty": "Ko si data wiwo fun iṣẹ akanṣe rẹ sibẹsibẹ."
+      }
+    },
+    "themes": {
+      "title": "Awọn awoṣe & Awọn akori",
+      "subtitle": "Customize the look and feel of your public portfolio.",
+      "reset": "Tun Aiyipada Tunto",
+      "save": "Fipamọ awọn iyipada",
+      "saving": "Nfipamọ...",
+      "chooseTemplate": "Yan Awoṣe",
+      "primaryColor": "Awọ akọkọ",
+      "typography": "Iwe kikọ",
+      "appearance": "Irisi",
+      "corners": "Awọn igun & Awọn aala",
+      "successTitle": "Aseyori",
+      "successMessage": "Awọn ayanfẹ akori ti ni imudojuiwọn ni aṣeyọri",
+      "errorTitle": "Aṣiṣe",
+      "errorMessage": "Kuna lati fipamọ awọn ayanfẹ akori",
+      "templates": {
+        "minimalist": {
+          "name": "Kekere",
+          "desc": "Mimọ ati apẹrẹ ti o rọrun ni idojukọ akoonu."
+        },
+        "developerDark": {
+          "name": "Olùgbéejáde Dudu",
+          "desc": "Dark theme perfect for showcasing code and tech stacks."
+        },
+        "creative": {
+          "name": "Ṣiṣẹda",
+          "desc": "Vibrant and colorful layout for designers and creatives."
+        },
+        "executive": {
+          "name": "Alase",
+          "desc": "Professional and formal layout for business professionals."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Modern Apple-style grid layout that highlights different skills efficiently."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Bold borders and high contrast colors for a trendy, unapologetic look."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Frosted glass effects over colorful gradients for a sleek modern UI."
+        },
+        "linkInBio": {
+          "name": "Ọna asopọ ni Bio",
+          "desc": "Compact vertical layout optimized for mobile screens and social media."
+        }
+      },
+      "appearances": {
+        "light": "Imọlẹ",
+        "dark": "Dudu",
+        "system": "Eto"
+      },
+      "cornersOptions": {
+        "sharp": "Dinku",
+        "rounded": "Yiyi",
+        "pill": "Ìşọmọbí"
+      }
+    },
+    "feedback": {
+      "title": "Firanṣẹ Esi",
+      "subtitle": "Ran wa lọwọ lati jẹ ki o dara julọ nipa fifun awọn imọran, ibawi, tabi ijabọ awọn idun lori ohun elo yii.",
+      "categoryLabel": "Ẹka esi",
+      "messageLabel": "Alaye Ifiranṣẹ",
+      "messagePlaceholder": "Sọ fun mi ni ẹkunrẹrẹ nipa esi ti o fẹ sọ...",
+      "imageLabel": "Asomọ Aworan (Aṣayan)",
+      "imagePlaceholder": "Tẹ lati gbe aworan tabi sikirinifoto",
+      "submitting": "Fifiranṣẹ...",
+      "submitBtn": "Firanṣẹ Esi",
+      "categories": {
+        "suggestion": "Awọn imọran & Awọn imọran",
+        "bug": "Ijabọ kokoro / aṣiṣe",
+        "criticism": "Àríwísí",
+        "other": "Awon miran"
+      },
+      "imageErrorTitle": "Aṣiṣe",
+      "imageErrorMessage": "Diẹ ninu awọn faili jẹ kọ nitori wọn ko ṣe atilẹyin ọna kika aworan (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Aseyori",
+      "successMessage": "O ṣeun fun esi rẹ! Iroyin ti firanṣẹ.",
+      "submitErrorTitle": "Ti kuna",
+      "submitErrorMessage": "Aṣiṣe waye lakoko fifiranṣẹ esi. Jọwọ gbiyanju lẹẹkansi."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Nipa mi",
+      "skills": "Awọn ogbon",
+      "projects": "Awọn iṣẹ akanṣe",
+      "workExperience": "Odun ti o ti nsise",
+      "orgExperience": "Iriri ti ajo",
+      "education": "Ẹkọ",
+      "certifications": "Ikẹkọ & Awọn iwe-ẹri",
+      "contact": "Kan si mi"
+    },
+    "editor": {
+      "profileInfo": "Alaye Profaili",
+      "saving": "Nfipamọ...",
+      "profilePhoto": "Fọto profaili",
+      "clickToUpload": "Tẹ lati gbejade (JPG, PNG)",
+      "fullName": "Akokun Oruko",
+      "fullNamePlaceholder": "f.eks. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Olùgbéejáde Fullstack pẹlu itara fun kikọ awọn ohun elo wẹẹbu ode oni…",
+      "location": "Ipo",
+      "locationPlaceholder": "f.eks. ",
+      "gender": "abo",
+      "selectGender": "Yan akọ-abo",
+      "male": "Okunrin",
+      "female": "Obirin",
+      "custom": "Aṣa",
+      "customPlaceholder": "Tẹ akọ-abo ti aṣa rẹ sii...",
+      "uploadCv": "Ṣe igbasilẹ CV",
+      "cvFormat": "(DOC tabi PDF)",
+      "preview": "Awotẹlẹ",
+      "remove": "Yọ kuro",
+      "clickToUploadCv": "Tẹ lati po si PDF tabi DOC",
+      "sections": "Awọn apakan",
+      "removeSelected": "Yọ Aṣayan kuro",
+      "confirmRemove": "Jẹrisi Yọ",
+      "addSection": "Fi Abala kun",
+      "addAllSections": "Fi Gbogbo Awọn apakan kun",
+      "noSections": "Ko si awọn apakan sibẹsibẹ",
+      "clickToAdd": "Tẹ \"+ Fi Apakan\" lati bẹrẹ",
+      "selectAll": "Yan Gbogbo",
+      "selected": "Ti yan",
+      "dragToReorder": "Fa lati tunto awọn apakan",
+      "livePreview": "Live Awotẹlẹ",
+      "addSectionsToBuild": "Ṣafikun awọn apakan lati kọ portfolio rẹ",
+      "now": "Bayi",
+      "current": "Lọwọlọwọ",
+      "noExpiry": "Ko si ipari",
+      "see": "Wo",
+      "position": "Ipo",
+      "degree": "Ìyí",
+      "certification": "Ijẹrisi",
+      "sectionsForm": {
+        "about": {
+          "label": "Apejuwe ti ara rẹ",
+          "placeholder": "Sọ fun wa nipa ararẹ, ipilẹṣẹ rẹ, awọn anfani ati awọn ọgbọn…"
+        },
+        "skills": {
+          "addPlaceholder": "Tẹ ogbon lẹhinna tẹ Tẹ sii ..."
+        },
+        "projects": {
+          "title": "Oruko ise agbese",
+          "titlePlaceholder": "Orukọ ise agbese...",
+          "url": "URL ise agbese",
+          "description": "Apejuwe",
+          "descriptionPlaceholder": "Apejuwe kukuru ti ise agbese na...",
+          "uploadThumbnail": "Aworan Project",
+          "addProject": "Fi Project",
+          "projectNum": "Ise agbese #",
+          "currentProject": "Eyi jẹ iṣẹ akanṣe ti Mo n ṣiṣẹ lori"
+        },
+        "work": {
+          "company": "Ile-iṣẹ / Ile-iṣẹ",
+          "companyPlaceholder": "Orukọ Ile-iṣẹ...",
+          "position": "Ipo/Tile",
+          "positionPlaceholder": "Ipo rẹ...",
+          "employmentType": "Iru iṣẹ",
+          "location": "Ipo",
+          "locationPlaceholder": "Ilu, Ilu...",
+          "startDate": "Bẹrẹ",
+          "endDate": "Ti pari",
+          "currentWork": "Mo tun n ṣiṣẹ ni akoko yii",
+          "description": "Apejuwe",
+          "descriptionPlaceholder": "Apejuwe iṣẹ ati awọn ojuse...",
+          "skills": "Ogbon",
+          "addExperience": "Fi Iriri Iṣẹ kun",
+          "experienceNum": "Iriri #",
+          "dateError": "Ọjọ ipari ko le jẹ iṣaaju ju ọjọ ibẹrẹ lọ"
+        },
+        "org": {
+          "organization": "Oruko Ajo",
+          "orgPlaceholder": "Ile-ẹkọ giga BEM…",
+          "role": "Ipa/Ipo",
+          "rolePlaceholder": "Olori pipin...",
+          "addOrg": "Ṣafikun Iriri Ajọ",
+          "orgNum": "Ajo #"
+        },
+        "edu": {
+          "institution": "Awọn ile-ẹkọ ẹkọ",
+          "institutionPlaceholder": "Orukọ ile-iwe tabi ile-iwe ...",
+          "degree": "Akọle",
+          "degreePlaceholder": "S1, ile-iwe giga, bbl",
+          "major": "Ẹka / aaye Ikẹkọ",
+          "majorPlaceholder": "Imọ-ẹrọ Informatics...",
+          "gpa": "GPA (aṣayan)",
+          "currentStudy": "Mo tun n kọ ẹkọ nibi",
+          "descriptionPlaceholder": "Awọn iṣẹ ṣiṣe ati awọn aṣeyọri lakoko ikẹkọ…",
+          "addEdu": "Fi Ẹkọ kun",
+          "eduNum": "Ẹkọ #"
+        },
+        "cert": {
+          "name": "Orukọ Iwe-ẹri / Ikẹkọ",
+          "namePlaceholder": "Orukọ ijẹrisi...",
+          "issuer": "Olutẹwe",
+          "issuerPlaceholder": "Ile-iṣẹ titẹjade...",
+          "issueDate": "Bẹrẹ (Ọjọ Titẹjade)",
+          "issueDatePlaceholder": "Yan ọjọ ti atẹjade...",
+          "expiryDate": "Ti pari (Akoko Wulo)",
+          "expiryDatePlaceholder": "Yan ọjọ ipari...",
+          "noExpiry": "Iwe-ẹri yii ko ni ọjọ ipari",
+          "url": "URL ijẹrisi",
+          "uploadThumbnail": "Iwe-ẹri / Aworan Ikẹkọ",
+          "uploadThumbnailLimit": "Ṣe ikojọpọ aworan ijẹrisi (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Fi Ijẹrisi kun",
+          "certNum": "Ijẹrisi #"
+        },
+        "contact": {
+          "contactNum": "Olubasọrọ #",
+          "platform": "Platform",
+          "displayText": "Ifihan Ọrọ",
+          "displayTextPlaceholder": "fun apẹẹrẹ, you@email.com tabi @orukọ olumulo",
+          "url": "Ọna asopọ (URL)",
+          "urlPlaceholderWhatsapp": "fun apẹẹrẹ, 62812... (laisi asiwaju 0)",
+          "urlPlaceholderEmail": "fun apẹẹrẹ, you@email.com",
+          "urlPlaceholderWebsite": "Fun apẹẹrẹ, https://...",
+          "urlPlaceholderDefault": "fun apẹẹrẹ, orukọ olumulo",
+          "addContact": "Fi Olubasọrọ kun"
+        },
+        "common": {
+          "months": {
+            "1": "Oṣu Kini",
+            "2": "Kínní",
+            "3": "Oṣu Kẹta",
+            "4": "Oṣu Kẹrin",
+            "5": "May",
+            "6": "Oṣu Kẹfa",
+            "7": "Oṣu Keje",
+            "8": "Oṣu Kẹjọ",
+            "9": "Oṣu Kẹsan",
+            "10": "Oṣu Kẹwa",
+            "11": "Oṣu kọkanla",
+            "12": "Oṣu kejila"
+          },
+          "month": "Osu",
+          "year": "Odun",
+          "invalidDate": "Osu Ipari ti ko wulo",
+          "words": "awọn ọrọ"
+        }
+      },
+      "sure": "Daju",
+      "deletePhotoTitle": "Pa Fọto Profaili rẹ bi?",
+      "deletePhotoMessage": "Ṣe o da ọ loju pe o fẹ pa fọto profaili yii rẹ bi?",
+      "cancel": "Fagilee",
+      "delete": "Paarẹ"
+    },
+    "cropper": {
+      "chooseBackground": "Yan abẹlẹ",
+      "cropPhoto": "Gbingbin Fọto rẹ",
+      "useOriginal": "Lo atilẹba",
+      "backgroundPresets": "Awọn tito abẹlẹ",
+      "none": "Ko si",
+      "uploadBackground": "Ikojọpọ abẹlẹ",
+      "cancel": "Fagilee",
+      "savePhoto": "Fi Fọto pamọ",
+      "zoom": "Sun-un",
+      "rotationTilt": "Yiyi & Titẹ",
+      "resetRotation": "Tunto si 0°",
+      "center": "Aarin",
+      "rotateLeft": "Yiyi -90°",
+      "rotateRight": "Yipada +90°",
+      "removeBackground": "Yọ abẹlẹ kuro",
+      "processing": "Ṣiṣẹda aworan rẹ, jọwọ duro..."
+    },
+    "cvPreview": {
+      "title": "CV Awotẹlẹ",
+      "downloadCv": "Ṣe igbasilẹ CV",
+      "download": "Gba lati ayelujara",
+      "wordCannotPreview": "Awọn iwe aṣẹ ọrọ (.doc/.docx) ko le ṣe awotẹlẹ ni abinibi ni ẹrọ aṣawakiri. ",
+      "downloadFile": "Ṣe igbasilẹ faili CV",
+      "back": "Pada",
+      "mobileMessage": "Jọwọ ṣe igbasilẹ faili CV lati ṣe awotẹlẹ rẹ.",
+      "preview": "CV awotẹlẹ",
+      "wordPreviewTitle": "Awotẹlẹ Iwe Ọrọ",
+      "wordPreviewMessage": "Awọn iwe aṣẹ ọrọ (.doc/.docx) ko le ṣe awotẹlẹ ni abinibi ni ẹrọ aṣawakiri. Jọwọ ṣe igbasilẹ faili naa lati wo."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Kọ apejuwe kukuru kan nipa ararẹ, awọn iwulo, ati awọn ibi-afẹde iṣẹ…"
+    },
+    "skills": {
+      "placeholder": "Tẹ orukọ ogbon...",
+      "add": "Fi kun",
+      "enterToAdd": "Tẹ Tẹ lati fikun",
+      "noSkills": "Ko si ogbon kun sibẹsibẹ."
+    },
+    "projects": {
+      "projectName": "Oruko ise agbese",
+      "projectNamePlaceholder": "f.eks. ",
+      "projectUrl": "URL ise agbese",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Iye akoko",
+      "startMonth": "Bẹrẹ Oṣu",
+      "startYear": "Bẹrẹ Odun",
+      "endMonth": "Osu Ipari",
+      "endYear": "Odun Ipari",
+      "currentlyWorking": "Lọwọlọwọ ṣiṣẹ lori eyi",
+      "description": "Apejuwe",
+      "descriptionPlaceholder": "Ṣe apejuwe iṣẹ akanṣe, ipa rẹ, ati awọn aṣeyọri…",
+      "technologies": "Awọn Imọ-ẹrọ Lo",
+      "addProject": "Fi Project",
+      "image": "Aworan Project",
+      "removeImage": "Yọ Aworan kuro",
+      "uploadImage": "Tẹ lati gbe aworan soke"
+    },
+    "work": {
+      "company": "Ile-iṣẹ / Ile-iṣẹ",
+      "companyPlaceholder": "Orukọ Ile-iṣẹ...",
+      "role": "Ipa/Ipo",
+      "rolePlaceholder": "Ipo rẹ...",
+      "jobType": "Iru iṣẹ",
+      "selectJobType": "Yan iru",
+      "fullTime": "Ni kikun-akoko",
+      "partTime": "Apakan-akoko",
+      "contract": "Adehun",
+      "internship": "Ikọṣẹ",
+      "freelance": "Ominira",
+      "location": "Ipo",
+      "locationPlaceholder": "f.eks. ",
+      "duration": "Iye akoko",
+      "currentlyWorking": "Lọwọlọwọ ṣiṣẹ nibi",
+      "description": "Iṣapejuwe iṣẹ",
+      "descriptionPlaceholder": "Ṣe apejuwe awọn ojuse pataki ati awọn aṣeyọri rẹ…",
+      "skills": "Awọn ọgbọn pato",
+      "addExperience": "Fi Iriri kun"
+    },
+    "org": {
+      "organization": "Oruko Ajo",
+      "organizationPlaceholder": "Orukọ ile-iṣẹ...",
+      "role": "Ipa/Ipo",
+      "rolePlaceholder": "f.eks. ",
+      "duration": "Iye akoko",
+      "periodFormat": "tabi Ọna kika Ọfẹ (fun apẹẹrẹ 2020 - 2022)",
+      "periodPlaceholder": "f.eks. ",
+      "currentlyActive": "Lọwọlọwọ lọwọ",
+      "description": "Apejuwe aṣayan iṣẹ-ṣiṣe",
+      "descriptionPlaceholder": "Ṣe apejuwe awọn iṣẹ rẹ tabi awọn idasi...",
+      "addExperience": "Fi Iriri kun"
+    },
+    "education": {
+      "institution": "Orukọ Ile-iṣẹ",
+      "institutionPlaceholder": "Orukọ ile-iwe tabi ile-ẹkọ giga ...",
+      "degree": "Ipele / Ipele",
+      "degreePlaceholder": "f.eks. ",
+      "major": "Major / Field ti Ìkẹkọọ",
+      "majorPlaceholder": "f.eks. ",
+      "gpa": "GPA / Iwọn",
+      "gpaPlaceholder": "f.eks. ",
+      "duration": "Iye akoko ẹkọ",
+      "periodFormat": "tabi Ọna kika Ọfẹ (fun apẹẹrẹ 2018 - 2022)",
+      "periodPlaceholder": "f.eks. ",
+      "currentlyStudying": "Lọwọlọwọ keko nibi",
+      "description": "Awọn iṣẹ-ṣiṣe / Ọlá",
+      "descriptionPlaceholder": "Ṣapejuwe awọn iṣẹ ṣiṣe ẹkọ, awọn ajọ, tabi awọn ọlá ti a gba…",
+      "addEducation": "Fi Ẹkọ kun"
+    },
+    "cert": {
+      "name": "Orukọ Iwe-ẹri",
+      "namePlaceholder": "f.eks. ",
+      "issuer": "Ajo Ipinfunni",
+      "issuerPlaceholder": "f.eks. ",
+      "issueDate": "Ọjọ itẹjade",
+      "expiryDate": "Wulo Titi",
+      "noExpiry": "Ijẹrisi yii ko pari",
+      "yearPlaceholder": "tabi Odun (fun apẹẹrẹ 2023)",
+      "credentialUrl": "URL ijẹrisi",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Jẹmọ ogbon",
+      "addCertification": "Fi Ijẹrisi kun",
+      "image": "Aworan/Logo",
+      "removeImage": "Yọ Aworan kuro",
+      "uploadImage": "Tẹ lati gbe aworan soke"
+    },
+    "common": {
+      "months": {
+        "1": "Oṣu Kini",
+        "2": "Kínní",
+        "3": "Oṣu Kẹta",
+        "4": "Oṣu Kẹrin",
+        "5": "May",
+        "6": "Oṣu Kẹfa",
+        "7": "Oṣu Keje",
+        "8": "Oṣu Kẹjọ",
+        "9": "Oṣu Kẹsan",
+        "10": "Oṣu Kẹwa",
+        "11": "Oṣu kọkanla",
+        "12": "Oṣu kejila"
+      },
+      "month": "Osu",
+      "year": "Odun",
+      "invalidDate": "Osu Ipari ti ko wulo",
+      "words": "awọn ọrọ"
+    }
+  },
+  "settings": {
+    "title": "Eto",
+    "subtitle": "Ṣakoso profaili portfolio rẹ ati awọn ayanfẹ",
+    "tabs": {
+      "profile": "Profaili Mi",
+      "security": "Aabo",
+      "personalization": "Ti ara ẹni"
+    },
+    "profile": {
+      "infoTitle": "Alaye ipilẹ",
+      "photo": "Fọto profaili",
+      "uploadPhoto": "Yi Fọto pada",
+      "fullName": "Akokun Oruko",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adirẹsi imeeli",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Imeeli ti wa ni lilo fun wiwọle ko si han ni gbangba.",
+      "portfolioUrl": "URL portfolio",
+      "saveProfile": "Fi Profaili pamọ",
+      "save": "Fi Profaili pamọ",
+      "accountCreated": "Account Ṣẹda",
+      "lastLogin": "Wiwọle ti o kẹhin",
+      "oauthNotice": "Profaili yii jẹ asopọ si akọọlẹ {{olupese}} rẹ. Awọn iyipada profaili gbọdọ ṣee nipasẹ olupese iṣẹ."
+    },
+    "security": {
+      "changePassword": "Tun oruko akowole re se",
+      "currentPassword": "Ọrọigbaniwọle lọwọlọwọ",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Ọrọ aṣina Tuntun",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Jẹrisi Ọrọigbaniwọle Tuntun",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "O kere ju awọn ohun kikọ 8",
+        "uppercase": "Lẹta nla kan (A-Z)",
+        "number": "Nọmba kan (0-9)",
+        "symbol": "Aami kan (!@#$%^&*)"
+      },
+      "passwordTitle": "Ọrọigbaniwọle",
+      "updatePassword": "Ṣe imudojuiwọn Ọrọigbaniwọle",
+      "additionalSecurity": "Afikun Aabo",
+      "twoFactor": "Ijeri Okunfa Meji (2FA)",
+      "twoFactorDesc": "Ṣe aabo akọọlẹ rẹ nipa lilo koodu OTP afikun.",
+      "activeSessions": "Awọn akoko ti nṣiṣe lọwọ",
+      "activeSessionsDesc": "Gba laaye nigbagbogbo ibojuwo ti awọn ẹrọ ti o wọle.",
+      "publicVisibility": "Hihan gbangba",
+      "hideFromSearch": "Tọju Portfolio lati Awọn ẹrọ Iwadi",
+      "hideFromSearchDesc": "Ṣe idiwọ fun Google lati ṣe atọkasi oju-iwe portfolio ti gbogbo eniyan.",
+      "disable2fa": {
+        "title": "Pa 2FA kuro",
+        "description": "Ṣe o da ọ loju pe o fẹ lati pa ijẹrisi ifosiwewe meji?",
+        "confirmPasswordLabel": "Tẹ ọrọ igbaniwọle rẹ sii lati jẹrisi",
+        "currentPasswordPlaceholder": "Ọrọigbaniwọle lọwọlọwọ",
+        "cancelButton": "Fagilee",
+        "confirmButton": "Pa 2FA kuro",
+        "incorrectPassword": "Ọrọigbaniwọle ti ko tọ."
+      },
+      "setup2fa": {
+        "step1Title": "1. Ṣayẹwo koodu QR",
+        "step1Desc": "Ṣii ohun elo ijẹrisi rẹ ki o ṣayẹwo koodu QR wọnyi:",
+        "unableToScan": "Ko le ṣe ọlọjẹ? Lo bọtini iṣeto",
+        "step2Title": "2. daju koodu",
+        "step2Desc": "Tẹ koodu oni-nọmba 6 ti ipilẹṣẹ nipasẹ ohun elo rẹ:",
+        "cancelButton": "Fagilee",
+        "enableButton": "Mu 2FA ṣiṣẹ",
+        "invalidLength": "Jọwọ tẹ koodu oni-nọmba 6 kan sii.",
+        "invalidCode": "Koodu ijerisi ti ko tọ. Jọwọ gbiyanju lẹẹkansi."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Awọn iṣakoso ede",
+      "appLanguage": "Ede App",
+      "layoutTitle": "Ìfilélẹ & Typography",
+      "layoutStyle": "Ìfilélẹ Style",
+      "layoutModern": "Ara Igbalode (Aiyipada)",
+      "layoutClassic": "Classic Style",
+      "layoutMinimalist": "Minimalist ara",
+      "fontSize": "App Font Iwon",
+      "fontSmall": "Kekere",
+      "fontNormal": "Deede (Alabọde)",
+      "fontLarge": "Tobi",
+      "searchLanguage": "Wa ede...",
+      "languageNotFound": "Ede ko ri",
+      "layoutElegant": "Yangan Style"
+    },
+    "saveChanges": "Fipamọ awọn iyipada",
+    "cancel": "Fagilee",
+    "appSettings": "App Eto",
+    "logoutConfirmTitle": "Jẹrisi Logout",
+    "logoutConfirmDesc": "Ṣe o da ọ loju pe o fẹ jade kuro ninu eto naa?",
+    "logoutConfirmYes": "Bẹẹni, Jade",
+    "generalError": "Aṣiṣe kan ṣẹlẹ. ",
+    "success": "Aseyori",
+    "preferencesSaved": "Awọn ayanfẹ app ti fipamọ ni aṣeyọri.",
+    "header": "Ohun elo Eto",
+    "logout": {
+      "title": "Ìmúdájú Logout",
+      "message": "Ṣe o da ọ loju pe o fẹ jade kuro ninu eto naa?",
+      "confirm": "Bẹẹni, Jade"
+    },
+    "about": {
+      "title": "Nipa Ohun elo",
+      "subtitle": "Portfolio Akole Platform",
+      "version": "Ẹya",
+      "description": "DevFolio jẹ ipilẹ ẹrọ agbeko portfolio ode oni ti a ṣe apẹrẹ fun awọn olupilẹṣẹ, awọn apẹẹrẹ, ati awọn olupilẹṣẹ alamọdaju. ",
+      "license": "Iwe-aṣẹ & Aṣẹ-lori-ara",
+      "copyright": "© 2026 DevFolio Inc. Gbogbo ẹtọ wa ni ipamọ.",
+      "developer": "Olùgbéejáde",
+      "developedBy": "Ni idagbasoke nipasẹ DevFolio Team"
+    },
+    "deleteAccount": {
+      "title": "Pa Account Paarẹ titilai",
+      "menuItem": "Pa Account",
+      "successTitle": "Aseyori",
+      "successMessage": "Imeeli ìmúdájú piparẹ akọọlẹ kan ti jẹ fifiranṣẹ.",
+      "errorTitle": "Ti kuna",
+      "errorMessage": "Kuna lati fi imeeli ijẹrisi ranṣẹ.",
+      "confirmationMessage": "Ṣe o da ọ loju pe o fẹ pa akọọlẹ rẹ rẹ patapata bi?",
+      "warningMessage1": "Iwọ yoo gba imeeli kan lati jẹrisi piparẹ akọọlẹ.",
+      "warningMessage2": "Ti o ba jẹrisi, gbogbo data (portfolio, awọn iṣẹ akanṣe, awọn iṣiro) yoo paarẹ patapata ati pe ko le gba pada.",
+      "cancel": "Fagilee",
+      "confirm": "Ìmúdájú"
+    },
+    "toasts": {
+      "toastError": "Asise",
+      "toastSuccess": "Aseyori",
+      "toastSetup2FAFailed": "O kuna lati ṣeto 2FA. Jọwọ gbiyanju lẹẹkansi.",
+      "toast2FAEnabled": "Ijeri-ifosiwewe meji ti ṣiṣẹ.",
+      "toast2FADisabled": "Ijeri ifosiwewe meji ti jẹ alaabo.",
+      "toastSessionEnabled": "Abojuto igba ti nṣiṣe lọwọ ti ṣiṣẹ.",
+      "toastSessionDisabled": "Abojuto igba ti nṣiṣe lọwọ ti jẹ alaabo.",
+      "toastSetupKeyCopied": "Bọtini atunto ti daakọ si agekuru agekuru."
+    },
+    "privacy": {
+      "title": "Asiri Afihan",
+      "updateDate": "Imudojuiwọn to kẹhin: Oṣu Keje 15, Ọdun 2026",
+      "intro": "Ilana Aṣiri yii ṣe alaye bi DevFolio ṣe n gba, nlo, ati aabo alaye ti ara ẹni rẹ nigba lilo awọn iṣẹ wa.",
+      "section1Title": "1. Alaye A Gba",
+      "section1Content": "A n gba alaye ti o pese taara nigba ṣiṣẹda akọọlẹ kan, kọ portfolio kan, ati kikan si atilẹyin wa. ",
+      "section2Title": "2. Lilo Alaye",
+      "section2Content": "A lo alaye rẹ lati ṣiṣẹ, ṣetọju, ati pese awọn ẹya ti awọn iṣẹ wa, bakannaa lati ba ọ sọrọ nipa akọọlẹ tabi awọn iṣẹ rẹ.",
+      "section3Title": "3. Data Aabo",
+      "section3Content": "A ṣe awọn igbese aabo to ni oye lati daabobo alaye rẹ lati iraye si laigba aṣẹ, sisọ, tabi iparun."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "A ko ri ami idaniloju.",
+    "defaultError": "Kuna lati pa akọọlẹ rẹ rẹ. Àmi le ti pari.",
+    "loadingTitle": "Akọọlẹ piparẹ...",
+    "loadingMessage": "Jọwọ duro, a n ṣiṣẹ ibeere rẹ.",
+    "successTitle": "Ti Parẹ Akọọlẹ Aṣeyọri",
+    "successMessage": "Gbogbo data rẹ ti parẹ patapata. O yoo wa ni darí...",
+    "errorTitle": "Kuna lati Pa Akọọlẹ rẹ Parẹ",
+    "backToHome": "Pada si Ile"
+  },
+  "forgotPassword": {
+    "minutes": "iseju",
+    "seconds": "iṣẹju-aaya",
+    "success": "Aseyori",
+    "otpSentToEmail": "Ti fi koodu OTP ranṣẹ si imeeli rẹ.",
+    "failed": "Ti kuna",
+    "emailNotFound": "Imeeli ko ri.",
+    "emailThirdParty": "Imeeli yii ti forukọsilẹ nipasẹ ẹgbẹ kẹta.",
+    "genericError": "Asise kan wa. Jọwọ gbiyanju lẹẹkansi.",
+    "otpVerified": "Awọn koodu OTP ti ni idaniloju ni aṣeyọri.",
+    "otpExpired": "Koodu OTP ti pari. Jọwọ beere koodu titun kan.",
+    "otpInvalid": "Koodu OTP ti ko tọ.",
+    "otpResent": "A ti fi koodu OTP titun ranṣẹ si imeeli rẹ.",
+    "otpResendFailed": "Kuna lati tun koodu OTP ranṣẹ. Jọwọ gbiyanju lẹẹkansi.",
+    "passwordResetSuccess": "Ọrọigbaniwọle ni aṣeyọri tunto. Jọwọ wọle pẹlu ọrọ igbaniwọle tuntun rẹ.",
+    "passwordResetFailed": "O kuna lati tun ọrọ igbaniwọle to.",
+    "backToLogin": "Pada si Wọle",
+    "back": "Pada",
+    "title": "Gbagbe Ọrọigbaniwọle",
+    "description": "Tẹ adirẹsi imeeli ti a forukọsilẹ sori akọọlẹ rẹ sii. A yoo fi koodu OTP ranṣẹ lati tun ọrọ igbaniwọle to.",
+    "emailLabel": "Adirẹsi imeeli",
+    "sending": "Fifiranṣẹ...",
+    "sendOtp": "Fi koodu OTP ranṣẹ",
+    "verifyOtpTitle": "Jẹrisi koodu OTP",
+    "verifyOtpDesc": "Tẹ koodu oni-nọmba 6 ti o ti firanṣẹ si imeeli rẹ lati jẹrisi idanimọ rẹ.",
+    "verifying": "Ijerisi...",
+    "verifyOtp": "Jẹrisi OTP",
+    "resending": "Atunse...",
+    "resendOtp": "Tun koodu OTP ranṣẹ",
+    "resendCodeIn": "Tun koodu naa ranṣẹ ni",
+    "newPasswordTitle": "Ṣẹda Ọrọigbaniwọle Tuntun",
+    "newPasswordDesc": "Ṣẹda titun kan, lagbara ọrọigbaniwọle lati oluso àkọọlẹ rẹ.",
+    "newPasswordLabel": "Ọrọigbaniwọle Tuntun",
+    "min8Chars": "O kere ju awọn onkọwe 8",
+    "oneUpperCase": "1 apere nla (A-Z)",
+    "oneNumber": "1 nọmba (0-9)",
+    "oneSymbol": "1 aami (!@#$%^&*)",
+    "confirmPasswordLabel": "Jẹrisi Ọrọigbaniwọle",
+    "passwordsDoNotMatch": "Awọn ọrọigbaniwọle ko baramu.",
+    "resettingPassword": "Atunto Ọrọigbaniwọle...",
+    "resetPassword": "Tun Ọrọigbaniwọle to"
+  },
+  "verifyEmail": {
+    "resendError": "Kuna lati tun fi imeeli ijẹrisi ranṣẹ. Jọwọ gbiyanju lẹẹkansi.",
+    "checkingStatus": "Ṣiṣayẹwo ipo ijẹrisi...",
+    "title": "Ṣayẹwo Imeeli Rẹ",
+    "description": "A ti fi imeeli ijẹrisi ranṣẹ si adirẹsi imeeli rẹ. Jọwọ ṣii imeeli naa ki o tẹ bọtini <1>“ Jẹrisi Account”</1> lati mu akọọlẹ rẹ ṣiṣẹ.",
+    "stepsTitle": "Igbesẹ",
+    "step1": "Ṣii ohun elo imeeli rẹ (Gmail, Yahoo, ati bẹbẹ lọ)",
+    "step2": "Wa imeeli lati ọdọ DevFolio pẹlu koko-ọrọ naa \"Imuṣiṣẹsiṣẹ iroyin\"",
+    "step3": "Tẹ bọtini \"Jẹrisi Account\" ninu imeeli",
+    "step4": "A yoo dari ọ si oju-iwe wiwọle lati tẹ",
+    "resendSuccess": "Imeeli ijerisi naa ti fi ranṣẹ!",
+    "resending": "Atunse...",
+    "resendButton": "Fi Imeeli Ijeri ranṣẹ",
+    "backToLogin": "Pada si Oju-iwe Wiwọle",
+    "footerNote": "Ṣe ko gba imeeli naa? Ṣayẹwo folda <1>Spam</1> tabi <2>Junk</2> ninu imeeli rẹ. Ọna asopọ ijẹrisi wulo fun <3>wakati 24</3>."
+  }
+}

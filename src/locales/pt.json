@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Características",
+    "templates": "Modelos",
+    "pricing": "Preços",
+    "login": "Conecte-se",
+    "getStarted": "Comece",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "O criador de portfólio definitivo para desenvolvedores",
+    "title1": "Construa seu profissional",
+    "title2": "portfólio em",
+    "titleHighlight": "segundos.",
+    "subtitle": "Tudo que você precisa para mostrar suas habilidades, projetos e experiência. ",
+    "startBuilding": "Comece a construir agora",
+    "viewTemplates": "Ver modelos",
+    "fastDeployment": "Implantação rápida",
+    "liveStatus": "nomedeusuário.dev está ativo!",
+    "featuresTitle": "Recursos poderosos",
+    "featuresSubtitle": "Fornecemos todas as ferramentas que você precisa para se destacar da multidão e conseguir o emprego dos seus sonhos.",
+    "feature1Title": "Construtor de arrastar e soltar",
+    "feature1Desc": "Organize facilmente suas seções, projetos e habilidades com nosso editor visual intuitivo.",
+    "feature2Title": "Temas personalizados",
+    "feature2Desc": "Escolha entre modelos projetados profissionalmente ou crie seu próprio visual exclusivo.",
+    "feature3Title": "Análise em tempo real",
+    "feature3Desc": "Acompanhe seus visitantes, veja quais projetos recebem mais atenção e muito mais."
+  },
+  "auth": {
+    "welcomeBack": "Bem vindo de volta",
+    "loginToContinue": "Faça login em sua conta para continuar",
+    "createAccount": "Criar uma conta",
+    "joinCommunity": "Junte-se a milhares de outros desenvolvedores",
+    "fullName": "Nome completo",
+    "fullNamePlaceholder": "por exemplo ",
+    "email": "Endereço de email",
+    "emailPlaceholder": "você@exemplo.com",
+    "password": "Senha",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Lembre de mim",
+    "forgotPassword": "Esqueceu sua senha?",
+    "signIn": "Entrar",
+    "signingIn": "Fazendo login...",
+    "signUp": "Inscrever-se",
+    "signingUp": "Inscrever-se...",
+    "noAccount": "Não tem uma conta?",
+    "hasAccount": "Já tem uma conta?",
+    "passwordRules": {
+      "title": "A senha deve conter:",
+      "length": "Pelo menos 8 caracteres",
+      "uppercase": "Uma letra maiúscula (A-Z)",
+      "number": "Um número (0-9)",
+      "symbol": "Um símbolo (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Construtor de portfólio",
+      "templates": "Modelos e temas",
+      "settings": "Configurações",
+      "collapse": "Recolher barra lateral",
+      "overview": "Visão geral",
+      "profileSettings": "Configurações de perfil",
+      "customDomain": "Domínio Personalizado",
+      "feedback": "Opinião"
+    },
+    "header": {
+      "viewLive": "Ver ao vivo",
+      "welcome": "Bem-vindo,",
+      "logout": "Sair",
+      "builder": "Construtor",
+      "livePortfolio": "Portfólio ao vivo",
+      "live": "Ao vivo"
+    },
+    "logoutModal": {
+      "title": "Sair",
+      "message": "Tem certeza de que deseja sair da sua conta? ",
+      "cancel": "Cancelar",
+      "confirm": "Sim, sair"
+    },
+    "slugModal": {
+      "title": "Escolha o URL do seu portfólio",
+      "message": "Este URL será o link exclusivo para o seu portfólio. ",
+      "slugPlaceholder": "seu-nome",
+      "availability": "Disponibilidade:",
+      "available": "Disponível",
+      "unavailable": "Indisponível",
+      "checking": "Verificando...",
+      "mustFormat": "Só pode conter letras, números e travessões (-)",
+      "cancel": "Cancelar",
+      "save": "Salvar URL",
+      "usernameUrl": "URL do nome de usuário",
+      "helpText": "Letras minúsculas, números e travessões. ",
+      "validation": {
+        "empty": "Slug não pode estar vazio.",
+        "min3": "Mínimo 3 caracteres.",
+        "max30": "Máximo 30 caracteres.",
+        "format": "Somente letras minúsculas, números e travessões (-). "
+      }
+    },
+    "loadingPortfolio": "Carregando dados do portfólio...",
+    "overview": {
+      "greetings": {
+        "morning": "Bom dia",
+        "afternoon": "Boa tarde",
+        "evening": "Boa tarde",
+        "night": "Boa noite"
+      },
+      "welcome": {
+        "hi": "Olá,",
+        "creator": "Criador",
+        "desc1": "Bem-vindo ao painel do DevFolio. Seu portfólio foi visualizado por",
+        "desc2": "pessoa. Continue trabalhando!",
+        "editPortfolio": "Editar portfólio"
+      },
+      "stats": {
+        "totalVisitors": "Total de visitantes",
+        "projectViews": "Visualizado (Projeto)",
+        "activeSessions": "Sessão Ativa",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Progresso da configuração",
+        "completed": "Seu portfólio está completo! 🎉",
+        "inProgress": "Passos para o portfólio perfeito.",
+        "profile": {
+          "title": "Perfil completo",
+          "desc": "Adicione nome, biografia e foto do perfil."
+        },
+        "section": {
+          "title": "Adicionar seções",
+          "desc": "Ative pelo menos 1 seção no portfólio."
+        },
+        "project": {
+          "title": "Adicionar projeto",
+          "desc": "Insira pelo menos um de seus melhores projetos."
+        },
+        "publish": {
+          "title": "Publicar portfólio",
+          "desc": "Defina um URL personalizado para que possa ser acessado pelo público."
+        }
+      },
+      "topProjects": {
+        "title": "Projetos mais populares",
+        "desc": "O desempenho do seu trabalho aos olhos dos visitantes.",
+        "viewAll": "Ver tudo",
+        "empty": "Ainda não há dados de visualização para o seu projeto."
+      }
+    },
+    "themes": {
+      "title": "Modelos e Temas",
+      "subtitle": "Personalize a aparência do seu portfólio público.",
+      "reset": "Redefinir padrão",
+      "save": "Salvar alterações",
+      "saving": "Salvando...",
+      "chooseTemplate": "Escolha um modelo",
+      "primaryColor": "Cor Primária",
+      "typography": "Tipografia",
+      "appearance": "Aparência",
+      "corners": "Cantos e Bordas",
+      "successTitle": "Sucesso",
+      "successMessage": "Preferências de tema atualizadas com sucesso",
+      "errorTitle": "Erro",
+      "errorMessage": "Falha ao salvar preferências de tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Design limpo e simples com foco no conteúdo."
+        },
+        "developerDark": {
+          "name": "Desenvolvedor Escuro",
+          "desc": "Tema escuro perfeito para mostrar pilhas de código e tecnologia."
+        },
+        "creative": {
+          "name": "Criativo",
+          "desc": "Layout vibrante e colorido para designers e criativos."
+        },
+        "executive": {
+          "name": "Executivo",
+          "desc": "Layout profissional e formal para profissionais de negócios."
+        },
+        "bentoGrid": {
+          "name": "Grade Bento",
+          "desc": "Layout de grade moderno no estilo Apple que destaca diferentes habilidades de forma eficiente."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalismo",
+          "desc": "Bordas ousadas e cores de alto contraste para um visual moderno e sem remorso."
+        },
+        "glassmorphism": {
+          "name": "Morfismo Vidro",
+          "desc": "Efeitos de vidro fosco sobre gradientes coloridos para uma interface de usuário moderna e elegante."
+        },
+        "linkInBio": {
+          "name": "Link na Bio",
+          "desc": "Layout vertical compacto otimizado para telas de dispositivos móveis e mídias sociais."
+        }
+      },
+      "appearances": {
+        "light": "Luz",
+        "dark": "Escuro",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Afiado",
+        "rounded": "Arredondado",
+        "pill": "Pílula"
+      }
+    },
+    "feedback": {
+      "title": "Enviar comentários",
+      "subtitle": "Ajude-nos a melhorar fornecendo sugestões, críticas ou relatando bugs neste aplicativo.",
+      "categoryLabel": "Categoria de comentários",
+      "messageLabel": "Detalhes da Mensagem",
+      "messagePlaceholder": "Conte-me detalhadamente sobre o feedback que você deseja transmitir...",
+      "imageLabel": "Anexo de imagem (opcional)",
+      "imagePlaceholder": "Clique para fazer upload da imagem ou captura de tela",
+      "submitting": "Enviando...",
+      "submitBtn": "Enviar comentários",
+      "categories": {
+        "suggestion": "Sugestões e Ideias",
+        "bug": "Relatório de bugs/erros",
+        "criticism": "Críticas",
+        "other": "Outros"
+      },
+      "imageErrorTitle": "Erro",
+      "imageErrorMessage": "Alguns arquivos são rejeitados porque não são formatos de imagem suportados (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Sucesso",
+      "successMessage": "Obrigado pelo seu feedback! O relatório foi enviado.",
+      "submitErrorTitle": "Falha",
+      "submitErrorMessage": "Ocorreu um erro ao enviar feedback. Por favor, tente novamente."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Sobre mim",
+      "skills": "Habilidades",
+      "projects": "Projetos",
+      "workExperience": "Experiência Profissional",
+      "orgExperience": "Experiência Organizacional",
+      "education": "Educação",
+      "certifications": "Treinamento e Certificações",
+      "contact": "Entre em contato comigo"
+    },
+    "editor": {
+      "profileInfo": "Informações do perfil",
+      "saving": "Salvando...",
+      "profilePhoto": "Foto do perfil",
+      "clickToUpload": "Clique para fazer upload (JPG, PNG)",
+      "fullName": "Nome completo",
+      "fullNamePlaceholder": "por exemplo ",
+      "bio": "Biografia",
+      "bioPlaceholder": "Desenvolvedor Fullstack apaixonado por criar aplicativos web modernos...",
+      "location": "Localização",
+      "locationPlaceholder": "por exemplo ",
+      "gender": "Gênero",
+      "selectGender": "Selecione o gênero",
+      "male": "Macho",
+      "female": "Fêmea",
+      "custom": "Personalizado",
+      "customPlaceholder": "Digite seu gênero personalizado...",
+      "uploadCv": "Carregar currículo",
+      "cvFormat": "(DOC ou PDF)",
+      "preview": "Visualização",
+      "remove": "Remover",
+      "clickToUploadCv": "Clique para fazer upload de PDF ou DOC",
+      "sections": "Seções",
+      "removeSelected": "Remover selecionado",
+      "confirmRemove": "Confirmar remoção",
+      "addSection": "Adicionar seção",
+      "addAllSections": "Adicionar todas as seções",
+      "noSections": "Nenhuma seção ainda",
+      "clickToAdd": "Clique em \"+ Adicionar seção\" para começar",
+      "selectAll": "Selecionar tudo",
+      "selected": "Selecionado",
+      "dragToReorder": "Arraste para reordenar as seções",
+      "livePreview": "Visualização ao vivo",
+      "addSectionsToBuild": "Adicione seções para construir seu portfólio",
+      "now": "Agora",
+      "current": "Atual",
+      "noExpiry": "Sem expiração",
+      "see": "Ver",
+      "position": "Posição",
+      "degree": "Grau",
+      "certification": "Certificação",
+      "sectionsForm": {
+        "about": {
+          "label": "Descrição de você mesmo",
+          "placeholder": "Conte-nos sobre você, sua experiência, interesses e habilidades..."
+        },
+        "skills": {
+          "addPlaceholder": "Digite habilidade e pressione Enter..."
+        },
+        "projects": {
+          "title": "Nome do Projeto",
+          "titlePlaceholder": "Nome do projeto...",
+          "url": "URL do projeto",
+          "description": "Descrição",
+          "descriptionPlaceholder": "Breve descrição do projeto...",
+          "uploadThumbnail": "Imagem do projeto",
+          "addProject": "Adicionar projeto",
+          "projectNum": "Projeto #",
+          "currentProject": "Este é um projeto em que estou trabalhando"
+        },
+        "work": {
+          "company": "Empresa/Agência",
+          "companyPlaceholder": "Nome da empresa...",
+          "position": "Posição/Título",
+          "positionPlaceholder": "Sua posição...",
+          "employmentType": "Tipo de trabalho",
+          "location": "Localização",
+          "locationPlaceholder": "Cidade, país...",
+          "startDate": "Começar",
+          "endDate": "Finalizado",
+          "currentWork": "Ainda estou trabalhando no momento",
+          "description": "Descrição",
+          "descriptionPlaceholder": "Descrição do trabalho e responsabilidades...",
+          "skills": "Habilidade",
+          "addExperience": "Adicionar experiência profissional",
+          "experienceNum": "Experiência #",
+          "dateError": "A data de término não pode ser anterior à data de início"
+        },
+        "org": {
+          "organization": "Nome da organização",
+          "orgPlaceholder": "Universidade BEM...",
+          "role": "Função/Posição",
+          "rolePlaceholder": "Chefe de divisão...",
+          "addOrg": "Adicionar experiência organizacional",
+          "orgNum": "Organização #"
+        },
+        "edu": {
+          "institution": "Instituições Educacionais",
+          "institutionPlaceholder": "Nome do campus ou escola...",
+          "degree": "Título",
+          "degreePlaceholder": "S1, ensino médio, etc...",
+          "major": "Departamento/Área de Estudo",
+          "majorPlaceholder": "Engenharia Informática...",
+          "gpa": "GPA (opcional)",
+          "currentStudy": "ainda estou aprendendo aqui",
+          "descriptionPlaceholder": "Atividades e conquistas durante o estudo...",
+          "addEdu": "Adicionar educação",
+          "eduNum": "Educação #"
+        },
+        "cert": {
+          "name": "Nome da Certificação/Treinamento",
+          "namePlaceholder": "Nome da certificação...",
+          "issuer": "Editor",
+          "issuerPlaceholder": "Instituição editora...",
+          "issueDate": "Início (data de publicação)",
+          "issueDatePlaceholder": "Selecione a data de publicação...",
+          "expiryDate": "Concluído (período válido)",
+          "expiryDatePlaceholder": "Selecione a data de validade...",
+          "noExpiry": "Este certificado não tem data de validade",
+          "url": "URL da credencial",
+          "uploadThumbnail": "Certificado/Imagem de Treinamento",
+          "uploadThumbnailLimit": "Carregar imagem do certificado (JPG/PNG/WEBP, máximo de 2 MB)",
+          "addCert": "Adicionar certificação",
+          "certNum": "Certificação #"
+        },
+        "contact": {
+          "contactNum": "Contato #",
+          "platform": "Plataforma",
+          "displayText": "Exibir texto",
+          "displayTextPlaceholder": "por exemplo, você@email.com ou @nomedeusuário",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "por exemplo, 62812... (sem 0 inicial)",
+          "urlPlaceholderEmail": "por exemplo, você@email.com",
+          "urlPlaceholderWebsite": "por exemplo, https://...",
+          "urlPlaceholderDefault": "por exemplo, nome de usuário",
+          "addContact": "Adicionar contato"
+        },
+        "common": {
+          "months": {
+            "1": "Janeiro",
+            "2": "Fevereiro",
+            "3": "Marchar",
+            "4": "abril",
+            "5": "Poderia",
+            "6": "Junho",
+            "7": "Julho",
+            "8": "Agosto",
+            "9": "Setembro",
+            "10": "outubro",
+            "11": "novembro",
+            "12": "dezembro"
+          },
+          "month": "Mês",
+          "year": "Ano",
+          "invalidDate": "Mês de término inválido",
+          "words": "palavras"
+        }
+      },
+      "sure": "Claro",
+      "deletePhotoTitle": "Excluir foto do perfil?",
+      "deletePhotoMessage": "Tem certeza de que deseja excluir esta foto do perfil?",
+      "cancel": "Cancelar",
+      "delete": "Excluir"
+    },
+    "cropper": {
+      "chooseBackground": "Escolha o plano de fundo",
+      "cropPhoto": "Corte sua foto",
+      "useOriginal": "Usar original",
+      "backgroundPresets": "Predefinições de fundo",
+      "none": "Nenhum",
+      "uploadBackground": "Carregar plano de fundo",
+      "cancel": "Cancelar",
+      "savePhoto": "Salvar foto",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotação e inclinação",
+      "resetRotation": "Redefinir para 0°",
+      "center": "Centro",
+      "rotateLeft": "Girar -90°",
+      "rotateRight": "Girar +90°",
+      "removeBackground": "Remover fundo",
+      "processing": "Processando sua imagem, aguarde..."
+    },
+    "cvPreview": {
+      "title": "Visualização do currículo",
+      "downloadCv": "Baixar currículo",
+      "download": "Download",
+      "wordCannotPreview": "Documentos do Word (.doc/.docx) não podem ser visualizados nativamente no navegador. ",
+      "downloadFile": "Baixar arquivo CV",
+      "back": "Voltar",
+      "mobileMessage": "Faça download do arquivo CV para visualizá-lo.",
+      "preview": "Visualizar currículo",
+      "wordPreviewTitle": "Visualização de documento do Word",
+      "wordPreviewMessage": "Documentos do Word (.doc/.docx) não podem ser visualizados nativamente no navegador. Faça download do arquivo para visualizá-lo."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Escreva uma breve descrição sobre você, interesses e objetivos de carreira..."
+    },
+    "skills": {
+      "placeholder": "Digite o nome da habilidade...",
+      "add": "Adicionar",
+      "enterToAdd": "Pressione Enter para adicionar",
+      "noSkills": "Nenhuma habilidade adicionada ainda."
+    },
+    "projects": {
+      "projectName": "Nome do Projeto",
+      "projectNamePlaceholder": "por exemplo ",
+      "projectUrl": "URL do projeto",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Duração",
+      "startMonth": "Mês de início",
+      "startYear": "Ano inicial",
+      "endMonth": "Fim do mês",
+      "endYear": "Fim do ano",
+      "currentlyWorking": "Atualmente trabalhando nisso",
+      "description": "Descrição",
+      "descriptionPlaceholder": "Descreva o projeto, sua função e realizações...",
+      "technologies": "Tecnologias Utilizadas",
+      "addProject": "Adicionar projeto",
+      "image": "Imagem do projeto",
+      "removeImage": "Remover imagem",
+      "uploadImage": "Clique para fazer upload da imagem"
+    },
+    "work": {
+      "company": "Empresa/Instituição",
+      "companyPlaceholder": "Nome da empresa...",
+      "role": "Função/Posição",
+      "rolePlaceholder": "Sua posição...",
+      "jobType": "Tipo de trabalho",
+      "selectJobType": "Selecione o tipo",
+      "fullTime": "Tempo total",
+      "partTime": "Tempo parcial",
+      "contract": "Contrato",
+      "internship": "Estágio",
+      "freelance": "Freelance",
+      "location": "Localização",
+      "locationPlaceholder": "por exemplo ",
+      "duration": "Duração",
+      "currentlyWorking": "Atualmente trabalhando aqui",
+      "description": "Descrição do trabalho",
+      "descriptionPlaceholder": "Descreva suas principais responsabilidades e realizações...",
+      "skills": "Habilidades Específicas",
+      "addExperience": "Adicionar experiência"
+    },
+    "org": {
+      "organization": "Nome da organização",
+      "organizationPlaceholder": "Nome da organização...",
+      "role": "Função/Posição",
+      "rolePlaceholder": "por exemplo ",
+      "duration": "Duração",
+      "periodFormat": "ou formato livre (por exemplo, 2020 - 2022)",
+      "periodPlaceholder": "por exemplo ",
+      "currentlyActive": "Atualmente ativo",
+      "description": "Descrição da atividade",
+      "descriptionPlaceholder": "Descreva suas atividades ou contribuições...",
+      "addExperience": "Adicionar experiência"
+    },
+    "education": {
+      "institution": "Nome da Instituição",
+      "institutionPlaceholder": "Nome da escola ou universidade...",
+      "degree": "Grau/Nível",
+      "degreePlaceholder": "por exemplo ",
+      "major": "Área Principal/Área de Estudo",
+      "majorPlaceholder": "por exemplo ",
+      "gpa": "GPA / Nota",
+      "gpaPlaceholder": "por exemplo ",
+      "duration": "Duração da educação",
+      "periodFormat": "ou formato livre (por exemplo, 2018 - 2022)",
+      "periodPlaceholder": "por exemplo ",
+      "currentlyStudying": "Atualmente estudando aqui",
+      "description": "Atividades / Honras",
+      "descriptionPlaceholder": "Descreva atividades acadêmicas, organizações ou homenagens recebidas...",
+      "addEducation": "Adicionar educação"
+    },
+    "cert": {
+      "name": "Nome da Certificação",
+      "namePlaceholder": "por exemplo ",
+      "issuer": "Organização emissora",
+      "issuerPlaceholder": "por exemplo ",
+      "issueDate": "Data de emissão",
+      "expiryDate": "Válido até",
+      "noExpiry": "Esta credencial não expira",
+      "yearPlaceholder": "ou ano (por exemplo, 2023)",
+      "credentialUrl": "URL da credencial",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Habilidades Relacionadas",
+      "addCertification": "Adicionar certificação",
+      "image": "Imagem/Logotipo",
+      "removeImage": "Remover imagem",
+      "uploadImage": "Clique para fazer upload da imagem"
+    },
+    "common": {
+      "months": {
+        "1": "Janeiro",
+        "2": "Fevereiro",
+        "3": "Marchar",
+        "4": "abril",
+        "5": "Poderia",
+        "6": "Junho",
+        "7": "Julho",
+        "8": "Agosto",
+        "9": "Setembro",
+        "10": "outubro",
+        "11": "novembro",
+        "12": "dezembro"
+      },
+      "month": "Mês",
+      "year": "Ano",
+      "invalidDate": "Mês de término inválido",
+      "words": "palavras"
+    }
+  },
+  "settings": {
+    "title": "Configurações",
+    "subtitle": "Gerencie o perfil e as preferências do seu portfólio",
+    "tabs": {
+      "profile": "Meu perfil",
+      "security": "Segurança",
+      "personalization": "Personalização"
+    },
+    "profile": {
+      "infoTitle": "Informações Básicas",
+      "photo": "Foto do perfil",
+      "uploadPhoto": "Alterar foto",
+      "fullName": "Nome completo",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Endereço de email",
+      "emailPlaceholder": "john@exemplo.com",
+      "emailHelp": "O e-mail é usado para login e não é exibido publicamente.",
+      "portfolioUrl": "URL do portfólio",
+      "saveProfile": "Salvar perfil",
+      "save": "Salvar perfil",
+      "accountCreated": "Conta criada",
+      "lastLogin": "Último login",
+      "oauthNotice": "Este perfil está conectado à sua conta do {{provider}}. As alterações de perfil devem ser feitas através do provedor de serviços."
+    },
+    "security": {
+      "changePassword": "Alterar a senha",
+      "currentPassword": "Senha atual",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nova Senha",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Confirme a nova senha",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Pelo menos 8 caracteres",
+        "uppercase": "Uma letra maiúscula (A-Z)",
+        "number": "Um número (0-9)",
+        "symbol": "Um símbolo (!@#$%^&*)"
+      },
+      "passwordTitle": "Senha",
+      "updatePassword": "Atualizar senha",
+      "additionalSecurity": "Segurança Adicional",
+      "twoFactor": "Autenticação de dois fatores (2FA)",
+      "twoFactorDesc": "Proteja sua conta usando um código OTP adicional.",
+      "activeSessions": "Sessões ativas",
+      "activeSessionsDesc": "Sempre permita o monitoramento de dispositivos logados.",
+      "publicVisibility": "Visibilidade Pública",
+      "hideFromSearch": "Ocultar portfólio dos motores de busca",
+      "hideFromSearchDesc": "Evite que o Google indexe a página do seu portfólio público.",
+      "disable2fa": {
+        "title": "Desativar 2FA",
+        "description": "Tem certeza de que deseja desativar a autenticação de dois fatores?",
+        "confirmPasswordLabel": "Digite sua senha para confirmar",
+        "currentPasswordPlaceholder": "Senha atual",
+        "cancelButton": "Cancelar",
+        "confirmButton": "Desativar 2FA",
+        "incorrectPassword": "Senha incorreta."
+      },
+      "setup2fa": {
+        "step1Title": "1. Digitalize o código QR",
+        "step1Desc": "Abra seu aplicativo autenticador e leia o seguinte código QR:",
+        "unableToScan": "Não é possível digitalizar? Usar chave de configuração",
+        "step2Title": "2. Verifique o código",
+        "step2Desc": "Insira o código de 6 dígitos gerado pelo seu aplicativo:",
+        "cancelButton": "Cancelar",
+        "enableButton": "Habilitar 2FA",
+        "invalidLength": "Por favor insira um código de 6 dígitos.",
+        "invalidCode": "Código de verificação inválido. Por favor, tente novamente."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Controles de idioma",
+      "appLanguage": "Idioma do aplicativo",
+      "layoutTitle": "Layout e tipografia",
+      "layoutStyle": "Estilo de layout",
+      "layoutModern": "Estilo moderno (padrão)",
+      "layoutClassic": "Estilo Clássico",
+      "layoutMinimalist": "Estilo minimalista",
+      "fontSize": "Tamanho da fonte do aplicativo",
+      "fontSmall": "Pequeno",
+      "fontNormal": "Normal (Médio)",
+      "fontLarge": "Grande",
+      "searchLanguage": "Idioma de pesquisa...",
+      "languageNotFound": "Idioma não encontrado",
+      "layoutElegant": "Estilo elegante"
+    },
+    "saveChanges": "Salvar alterações",
+    "cancel": "Cancelar",
+    "appSettings": "Configurações do aplicativo",
+    "logoutConfirmTitle": "Confirmar logout",
+    "logoutConfirmDesc": "Tem certeza de que deseja sair do sistema?",
+    "logoutConfirmYes": "Sim, sair",
+    "generalError": "Ocorreu um erro. ",
+    "success": "Sucesso",
+    "preferencesSaved": "Preferências do aplicativo salvas com sucesso.",
+    "header": "Configurações do aplicativo",
+    "logout": {
+      "title": "Confirmação de logout",
+      "message": "Tem certeza de que deseja sair do sistema?",
+      "confirm": "Sim, sair"
+    },
+    "about": {
+      "title": "Sobre o aplicativo",
+      "subtitle": "Plataforma de criação de portfólio",
+      "version": "Versão",
+      "description": "DevFolio é uma plataforma moderna de criação de portfólio projetada para desenvolvedores, designers e criadores profissionais. ",
+      "license": "Licença e Direitos Autorais",
+      "copyright": "© 2026 DevFolio Inc. Todos os direitos reservados.",
+      "developer": "Desenvolvedor",
+      "developedBy": "Desenvolvido por Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Excluir conta permanentemente",
+      "menuItem": "Excluir conta",
+      "successTitle": "Sucesso",
+      "successMessage": "Um e-mail de confirmação de exclusão de conta foi enviado.",
+      "errorTitle": "Falha",
+      "errorMessage": "Falha ao enviar e-mail de confirmação.",
+      "confirmationMessage": "Tem certeza de que deseja excluir sua conta permanentemente?",
+      "warningMessage1": "Você receberá um e-mail para confirmar a exclusão da conta.",
+      "warningMessage2": "Se confirmado, todos os dados (portfólio, projetos, estatísticas) serão excluídos permanentemente e não poderão ser recuperados.",
+      "cancel": "Cancelar",
+      "confirm": "Confirmação"
+    },
+    "toasts": {
+      "toastError": "Erro",
+      "toastSuccess": "Sucesso",
+      "toastSetup2FAFailed": "Falha ao configurar 2FA. Por favor, tente novamente.",
+      "toast2FAEnabled": "A autenticação de dois fatores foi habilitada.",
+      "toast2FADisabled": "A autenticação de dois fatores foi desativada.",
+      "toastSessionEnabled": "O monitoramento de sessão ativa foi habilitado.",
+      "toastSessionDisabled": "O monitoramento de sessão ativa foi desativado.",
+      "toastSetupKeyCopied": "Chave de configuração copiada para a área de transferência."
+    },
+    "privacy": {
+      "title": "política de Privacidade",
+      "updateDate": "Última atualização: 15 de julho de 2026",
+      "intro": "Esta Política de Privacidade explica como a DevFolio coleta, usa e protege suas informações pessoais ao usar nossos serviços.",
+      "section1Title": "1. Informações que coletamos",
+      "section1Content": "Coletamos informações que você fornece diretamente ao criar uma conta, construir um portfólio e entrar em contato com nosso suporte. ",
+      "section2Title": "2. Uso de informações",
+      "section2Content": "Suas informações são usadas para operar, manter e fornecer os recursos de nossos serviços, bem como para nos comunicarmos com você sobre sua conta ou serviços.",
+      "section3Title": "3. Segurança de dados",
+      "section3Content": "Implementamos medidas de segurança razoáveis ​​para proteger suas informações contra acesso, divulgação ou destruição não autorizada."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token de confirmação não encontrado.",
+    "defaultError": "Falha ao excluir conta. O token pode ter expirado.",
+    "loadingTitle": "Excluindo conta...",
+    "loadingMessage": "Aguarde, estamos processando sua solicitação.",
+    "successTitle": "Conta excluída com sucesso",
+    "successMessage": "Todos os seus dados foram excluídos permanentemente. Você será redirecionado...",
+    "errorTitle": "Falha ao excluir conta",
+    "backToHome": "Voltar para casa"
+  },
+  "forgotPassword": {
+    "minutes": "minutos",
+    "seconds": "segundos",
+    "success": "Sucesso",
+    "otpSentToEmail": "Um código OTP foi enviado para seu e-mail.",
+    "failed": "Falha",
+    "emailNotFound": "E-mail não encontrado.",
+    "emailThirdParty": "Este e-mail foi registrado por meio de terceiros.",
+    "genericError": "Há um erro. Por favor, tente novamente.",
+    "otpVerified": "O código OTP foi verificado com sucesso.",
+    "otpExpired": "O código OTP expirou. Solicite um novo código.",
+    "otpInvalid": "Código OTP inválido.",
+    "otpResent": "Um novo código OTP foi enviado para seu e-mail.",
+    "otpResendFailed": "Falha ao reenviar o código OTP. Por favor, tente novamente.",
+    "passwordResetSuccess": "Senha redefinida com sucesso. Faça login com sua nova senha.",
+    "passwordResetFailed": "Falha ao redefinir a senha.",
+    "backToLogin": "Retornar para Login",
+    "back": "Voltar",
+    "title": "Esqueci a senha",
+    "description": "Digite o endereço de e-mail cadastrado em sua conta. Enviaremos um código OTP para redefinir a senha.",
+    "emailLabel": "Endereço de e-mail",
+    "sending": "Enviando...",
+    "sendOtp": "Enviar código OTP",
+    "verifyOtpTitle": "Verifique o código OTP",
+    "verifyOtpDesc": "Digite o código de 6 dígitos que foi enviado para seu e-mail para confirmar sua identidade.",
+    "verifying": "Verificando...",
+    "verifyOtp": "Verifique OTP",
+    "resending": "Reenviando...",
+    "resendOtp": "Reenviar código OTP",
+    "resendCodeIn": "Reenvie o código em",
+    "newPasswordTitle": "Crie uma nova senha",
+    "newPasswordDesc": "Crie uma senha nova e forte para proteger sua conta.",
+    "newPasswordLabel": "Nova senha",
+    "min8Chars": "Mínimo 8 caracteres",
+    "oneUpperCase": "1 maiúscula (A-Z)",
+    "oneNumber": "1 número (0-9)",
+    "oneSymbol": "1 símbolo (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirmar senha",
+    "passwordsDoNotMatch": "As senhas não coincidem.",
+    "resettingPassword": "Redefinindo senha...",
+    "resetPassword": "Redefinir senha"
+  },
+  "verifyEmail": {
+    "resendError": "Falha ao reenviar o e-mail de verificação. Por favor, tente novamente.",
+    "checkingStatus": "Verificando o status da verificação...",
+    "title": "Verifique seu e-mail",
+    "description": "Enviamos um e-mail de verificação para o seu endereço de e-mail. Abra o e-mail e clique no botão <1>\"Confirmar conta\"</1> para ativar sua conta.",
+    "stepsTitle": "Passos",
+    "step1": "Abra seu aplicativo de e-mail (Gmail, Yahoo, etc)",
+    "step2": "Procure um email do DevFolio com o assunto \"Ativação de conta\"",
+    "step3": "Clique no botão \"Confirmar conta\" no e-mail",
+    "step4": "Você será direcionado para a página de login para entrar",
+    "resendSuccess": "O e-mail de verificação foi reenviado!",
+    "resending": "Reenviando...",
+    "resendButton": "Reenviar e-mail de verificação",
+    "backToLogin": "Retornar à página de login",
+    "footerNote": "Não recebeu o e-mail? Verifique a pasta <1>Spam</1> ou <2>Lixo eletrônico</2> do seu e-mail. O link de verificação é válido por <3>24 horas</3>."
+  }
+}

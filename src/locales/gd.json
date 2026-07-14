@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Feartan",
+    "templates": "Teamplaidean",
+    "pricing": "Prìsean",
+    "login": "Log a-steach",
+    "getStarted": "Tòisich",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "An neach-togail pasgan mu dheireadh airson luchd-leasachaidh",
+    "title1": "Tog do neach-proifeiseanta",
+    "title2": "portfolio a-steach",
+    "titleHighlight": "diog.",
+    "subtitle": "A h-uile dad a dh ’fheumas tu gus do sgilean, pròiseactan agus eòlas a thaisbeanadh. ",
+    "startBuilding": "Tòisich a’ togail a-nis",
+    "viewTemplates": "Seall templates",
+    "fastDeployment": "Cleachdadh luath",
+    "liveStatus": "tha username.dev beò!",
+    "featuresTitle": "Feartan cumhachdach",
+    "featuresSubtitle": "Bidh sinn a’ toirt seachad na h-innealan gu lèir a dh ’fheumas tu gus seasamh a-mach bhon t-sluagh agus an obair bruadar agad a thoirt gu crìch.",
+    "feature1Title": "Slaod & leig às neach-togail",
+    "feature1Desc": "Cuir air dòigh na h-earrannan, na pròiseactan agus na sgilean agad gu furasta leis an deasaiche lèirsinneach intuitive againn.",
+    "feature2Title": "Cuspairean gnàthaichte",
+    "feature2Desc": "Tagh bho theamplaidean air an dealbhadh gu proifeasanta no cruthaich do shealladh sònraichte fhèin.",
+    "feature3Title": "Analytics fìor-ùine",
+    "feature3Desc": "Cum sùil air an luchd-tadhail agad, faic dè na pròiseactan a gheibh an aire as motha, agus barrachd."
+  },
+  "auth": {
+    "welcomeBack": "Fàilte air ais",
+    "loginToContinue": "Log a-steach don chunntas agad gus leantainn air adhart",
+    "createAccount": "Cruthaich cunntas",
+    "joinCommunity": "Thig còmhla ri mìltean de luchd-leasachaidh eile",
+    "fullName": "Làn ainm",
+    "fullNamePlaceholder": "m.e. ",
+    "email": "Seòladh puist-d",
+    "emailPlaceholder": "thu@example.com",
+    "password": "Facal-faire",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Cuimhnich ormsa",
+    "forgotPassword": "An do dhìochuimhnich thu am facal-faire?",
+    "signIn": "Soidhnig a-steach",
+    "signingIn": "A' clàradh a-steach...",
+    "signUp": "Cuir d’ainm ris",
+    "signingUp": "A' clàradh...",
+    "noAccount": "Chan eil cunntas agad?",
+    "hasAccount": "A bheil cunntas agad mu thràth?",
+    "passwordRules": {
+      "title": "Feumaidh am facal-faire a bhith ann:",
+      "length": "Co-dhiù 8 caractaran",
+      "uppercase": "Aon litir mhòr (AZ)",
+      "number": "Aon àireamh (0-9)",
+      "symbol": "Aon samhla (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Neach-togail Portfolio",
+      "templates": "Teamplaidean & Cuspairean",
+      "settings": "Suidhichidhean",
+      "collapse": "Lùghdaich am bàr-taoibh",
+      "overview": "Ro-shealladh",
+      "profileSettings": "Roghainnean pròifil",
+      "customDomain": "Fearann ​​​​gnàthaichte",
+      "feedback": "Fios air ais"
+    },
+    "header": {
+      "viewLive": "Seall beò",
+      "welcome": "Fàilte,",
+      "logout": "Suaicheantas",
+      "builder": "Fear-togail",
+      "livePortfolio": "Portfolio beò",
+      "live": "Beò"
+    },
+    "logoutModal": {
+      "title": "Suaicheantas",
+      "message": "A bheil thu cinnteach gu bheil thu airson logadh a-mach às do chunntas? ",
+      "cancel": "Sguir dheth",
+      "confirm": "Seadh, Log a-mach"
+    },
+    "slugModal": {
+      "title": "Tagh URL do phasgan",
+      "message": "Bidh an URL seo na cheangal sònraichte don phasgan agad. ",
+      "slugPlaceholder": "d'ainm",
+      "availability": "Ri fhaotainn:",
+      "available": "Ri fhaighinn",
+      "unavailable": "Chan eil ri fhaighinn",
+      "checking": "A' sgrùdadh...",
+      "mustFormat": "Chan fhaod ach litrichean, àireamhan, agus sgrìoban a bhith ann (-)",
+      "cancel": "Sguir dheth",
+      "save": "Sàbhail URL",
+      "usernameUrl": "Ainm-cleachdaidh URL",
+      "helpText": "Litrichean beaga, àireamhan, agus sgrìoban. ",
+      "validation": {
+        "empty": "Chan urrainn dha slug a bhith falamh.",
+        "min3": "Co-dhiù 3 caractaran.",
+        "max30": "Caractaran 30 aig a’ char as àirde.",
+        "format": "Chan eil ann ach litrichean beaga, àireamhan, agus sgrìoban (-). "
+      }
+    },
+    "loadingPortfolio": "Luchdaich a-nuas an dàta fiosrachaidh airson portfolio. .",
+    "overview": {
+      "greetings": {
+        "morning": "Madainn mhath",
+        "afternoon": "Feasgar math",
+        "evening": "Feasgar math",
+        "night": "Oidhche mhath"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Cruthadair",
+        "desc1": "Fàilte gu deas-bhòrd DevFolio. Chaidh do chùram-roinne fhaicinn le",
+        "desc2": "duine. Cùm ag obair!",
+        "editPortfolio": "Deasaich Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Luchd-tadhail iomlan",
+        "projectViews": "Air fhaicinn (Pròiseact)",
+        "activeSessions": "Seisean Gnìomhach",
+        "totalLabel": "Iomlan"
+      },
+      "setup": {
+        "title": "Suidhich Adhartas",
+        "completed": "Tha am pasgan agad deiseil! 🎉",
+        "inProgress": "Ceumannan chun phasgan foirfe.",
+        "profile": {
+          "title": "Pròifil coileanta",
+          "desc": "Cuir ainm, bio agus dealbh pròifil ris."
+        },
+        "section": {
+          "title": "Cuir roinnean ris",
+          "desc": "Cuir an gnìomh co-dhiù 1 earrann sa phasgan."
+        },
+        "project": {
+          "title": "Cuir Pròiseact ris",
+          "desc": "Cuir a-steach co-dhiù 1 de na pròiseactan as fheàrr agad."
+        },
+        "publish": {
+          "title": "Foillsich pasgan",
+          "desc": "Suidhich URL àbhaisteach gus am faigh am poball cothrom air."
+        }
+      },
+      "topProjects": {
+        "title": "Na pròiseactan as mòr-chòrdte",
+        "desc": "Coileanadh na h-obrach agad ann an sùilean luchd-tadhail.",
+        "viewAll": "Faic na h-Uile",
+        "empty": "Chan eil dàta seallaidh ann airson do phròiseact fhathast."
+      }
+    },
+    "themes": {
+      "title": "Teamplaidean & Cuspairean",
+      "subtitle": "Gnàthaich coltas agus faireachdainn do phasgan poblach.",
+      "reset": "Ath-shuidhich an suidheachadh bunaiteach",
+      "save": "Sàbhail atharraichean",
+      "saving": "A' sàbhaladh...",
+      "chooseTemplate": "Tagh Teamplaid",
+      "primaryColor": "Bun-dath",
+      "typography": "Clò-sgrìobhaidh",
+      "appearance": "Coltas",
+      "corners": "Oiseanan & Crìochan",
+      "successTitle": "Soirbheachas",
+      "successMessage": "Roghainnean cuspair air ùrachadh gu soirbheachail",
+      "errorTitle": "Mearachd",
+      "errorMessage": "Dh'fhàillig leis na roghainnean cuspair a shàbhaladh",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Dealbhadh glan agus sìmplidh le fòcas air susbaint."
+        },
+        "developerDark": {
+          "name": "Leasaiche Dorcha",
+          "desc": "Cuspair dorcha foirfe airson còd agus cruachan teignigeach a thaisbeanadh."
+        },
+        "creative": {
+          "name": "Cruthachail",
+          "desc": "Cruth beothail agus dathach dha luchd-dealbhaidh agus luchd-cruthachaidh."
+        },
+        "executive": {
+          "name": "Ceannard",
+          "desc": "Cruth proifeasanta is foirmeil airson proifeiseantaich gnìomhachais."
+        },
+        "bentoGrid": {
+          "name": "Grid Bento",
+          "desc": "Cruth clèithe ùr-nodha ann an stoidhle Apple a sheallas diofar sgilean gu h-èifeachdach."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Bhrutalism",
+          "desc": "Crìochan trom agus dathan eadar-dhealaichte àrd airson sealladh fasanta, gun leisgeul."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Buaidhean glainne reothadh thairis air caiseadan dathach airson UI ùr-nodha caol."
+        },
+        "linkInBio": {
+          "name": "Ceangal ann am Bio",
+          "desc": "Cruth còmhnard dìreach air a bharrrachadh airson scrionaichean gluasadach agus meadhanan sòisealta."
+        }
+      },
+      "appearances": {
+        "light": "Solas",
+        "dark": "Dorcha",
+        "system": "Siostam"
+      },
+      "cornersOptions": {
+        "sharp": "geur",
+        "rounded": "Cruinn",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Cuir fios air ais",
+      "subtitle": "Cuidich sinn le bhith ga dhèanamh nas fheàrr le bhith a’ toirt seachad molaidhean, càineadh, no aithris air biastagan air an tagradh seo.",
+      "categoryLabel": "Roinn fios air ais",
+      "messageLabel": "Mion-fhiosrachadh brath",
+      "messagePlaceholder": "Inns dhomh gu mionaideach mun fhios air ais a tha thu airson a thoirt seachad...",
+      "imageLabel": "Ceangal ìomhaigh (roghainneil)",
+      "imagePlaceholder": "Cliog gus dealbh no dealbh-sgrìn a luchdachadh suas",
+      "submitting": "A' cur...",
+      "submitBtn": "Cuir fios air ais",
+      "categories": {
+        "suggestion": "Molaidhean & Beachdan",
+        "bug": "Aithris Bug/Mearachd",
+        "criticism": "càineadh",
+        "other": "Daoine eile"
+      },
+      "imageErrorTitle": "Mearachd",
+      "imageErrorMessage": "Tha cuid de na faidhlichean air an diùltadh leis nach eil iad a’ faighinn taic ann an cruthan ìomhaigh (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Soirbheachas",
+      "successMessage": "Tapadh leibh airson ur fios air ais! Tha an aithisg air a chuir.",
+      "submitErrorTitle": "Dh'fhàillig",
+      "submitErrorMessage": "Thachair mearachd fhad 's a bha sinn a' cur bheachdan air ais. Feuch ris a-rithist."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Mu mo dheidhinn",
+      "skills": "Sgilean",
+      "projects": "Pròiseactan",
+      "workExperience": "Eòlas obrach",
+      "orgExperience": "Eòlas eagrachaidh",
+      "education": "Foghlam",
+      "certifications": "Trèanadh & teisteanasan",
+      "contact": "Cuir fios thugam"
+    },
+    "editor": {
+      "profileInfo": "Fiosrachadh Pròifil",
+      "saving": "A' sàbhaladh...",
+      "profilePhoto": "Dealbh Pròifil",
+      "clickToUpload": "Cliog airson luchdachadh suas (JPG, PNG)",
+      "fullName": "Làn ainm",
+      "fullNamePlaceholder": "m.e. ",
+      "bio": "Bith",
+      "bioPlaceholder": "Leasaiche Fullstack le dìoghras airson aplacaidean lìn ùr-nodha a thogail ...",
+      "location": "Àite",
+      "locationPlaceholder": "m.e. ",
+      "gender": "Gnè",
+      "selectGender": "Tagh Gnè",
+      "male": "Fireann",
+      "female": "Boireann",
+      "custom": "Gnàthach",
+      "customPlaceholder": "Sgrìobh do ghnè àbhaisteach ...",
+      "uploadCv": "Luchdaich suas CV",
+      "cvFormat": "(DOC no PDF)",
+      "preview": "Ro-shealladh",
+      "remove": "Thoir air falbh",
+      "clickToUploadCv": "Cliog gus PDF no DOC a luchdachadh suas",
+      "sections": "Earrannan",
+      "removeSelected": "Thoir air falbh Taghte",
+      "confirmRemove": "Dearbhaich Thoir air falbh",
+      "addSection": "Cuir Earrann ris",
+      "addAllSections": "Cuir ris a h-uile roinn",
+      "noSections": "Chan eil earrannan ann fhathast",
+      "clickToAdd": "Briog air \"+ Cuir earrann\" gus tòiseachadh",
+      "selectAll": "Tagh Uile",
+      "selected": "Taghte",
+      "dragToReorder": "Slaod gus earrannan ath-òrdachadh",
+      "livePreview": "Ro-shealladh beò",
+      "addSectionsToBuild": "Cuir earrannan ris gus do phasgan a thogail",
+      "now": "Nise",
+      "current": "Gnàthach",
+      "noExpiry": "Gun chrìch",
+      "see": "Faic",
+      "position": "Dreuchd",
+      "degree": "Ceum",
+      "certification": "Teisteanas",
+      "sectionsForm": {
+        "about": {
+          "label": "Tuairisgeul ort fhèin",
+          "placeholder": "Inns dhuinn mu do dheidhinn fhèin, do chùl-raon, ùidhean agus sgilean..."
+        },
+        "skills": {
+          "addPlaceholder": "Taidhp sgil agus an uairsin brùth Enter ..."
+        },
+        "projects": {
+          "title": "Ainm a' phròiseict",
+          "titlePlaceholder": "Ainm a' phròiseict...",
+          "url": "URL a 'phròiseict",
+          "description": "Tuairisgeul",
+          "descriptionPlaceholder": "Tuairisgeul goirid air a’ phròiseact...",
+          "uploadThumbnail": "Dealbh pròiseact a",
+          "addProject": "Cuir Pròiseact ris",
+          "projectNum": "Pròiseact #",
+          "currentProject": "Seo pròiseact air a bheil mi ag obair"
+        },
+        "work": {
+          "company": "Perusahaan/Instansi",
+          "companyPlaceholder": "Ainm na companaidh...",
+          "position": "Dreuchd/Teideal",
+          "positionPlaceholder": "Do shuidheachadh ...",
+          "employmentType": "Seòrsa obair",
+          "location": "Àite",
+          "locationPlaceholder": "Cathair, Dùthaich...",
+          "startDate": "Tòisich",
+          "endDate": "Crìochnaichte",
+          "currentWork": "Tha mi fhathast ag obair an-dràsta",
+          "description": "Tuairisgeul",
+          "descriptionPlaceholder": "Tuairisgeul obrach agus dleastanasan a. .",
+          "skills": "Sgil",
+          "addExperience": "Cuir eòlas obrach ris",
+          "experienceNum": "Eòlas #",
+          "dateError": "Chan fhaod an ceann-latha crìochnachaidh a bhith nas tràithe na an ceann-latha tòiseachaidh"
+        },
+        "org": {
+          "organization": "Ainm na buidhne",
+          "orgPlaceholder": "Oilthigh BEM...",
+          "role": "Dreuchd/dreuchd",
+          "rolePlaceholder": "Ceannard Roinn...",
+          "addOrg": "Cuir eòlas eagrachaidh ris",
+          "orgNum": "Buidheann #"
+        },
+        "edu": {
+          "institution": "Institiudan Foghlaim",
+          "institutionPlaceholder": "Ainm an àrainn no an sgoil...",
+          "degree": "Tiotal",
+          "degreePlaceholder": "S1, àrd-sgoil, msaa...",
+          "major": "Roinn / Raon Sgrùdaidh",
+          "majorPlaceholder": "Innleadaireachd Informatics. .",
+          "gpa": "GPA (roghainneil)",
+          "currentStudy": "Tha mi ag ionnsachadh an seo fhathast",
+          "descriptionPlaceholder": "Gnìomhan agus euchdan rè an sgrùdaidh...",
+          "addEdu": "Cuir Foghlam ris",
+          "eduNum": "Foghlam #"
+        },
+        "cert": {
+          "name": "Ainm an Teisteanas / Trèanadh",
+          "namePlaceholder": "Ainm an teisteanais...",
+          "issuer": "Foillsichear",
+          "issuerPlaceholder": "Institiud foillseachaidh...",
+          "issueDate": "Tòisich (ceann-latha foillseachaidh)",
+          "issueDatePlaceholder": "Tagh ceann-latha foillseachaidh...",
+          "expiryDate": "Crìochnaichte (ùine dligheach)",
+          "expiryDatePlaceholder": "Tagh ceann-latha crìochnachaidh ...",
+          "noExpiry": "Chan eil ceann-latha crìochnachaidh aig an teisteanas seo",
+          "url": "URL teisteanais",
+          "uploadThumbnail": "Teisteanas / Ìomhaigh Trèanaidh",
+          "uploadThumbnailLimit": "Luchdaich suas dealbh teisteanais (JPG/PNG/WEBP, 2MB aig a’ char as àirde)",
+          "addCert": "Cuir Teisteanas ris",
+          "certNum": "Teisteanas #"
+        },
+        "contact": {
+          "contactNum": "Cuir fios gu #",
+          "platform": "Àrd-ùrlar",
+          "displayText": "Teacs taisbeanaidh",
+          "displayTextPlaceholder": "me, you@email.com no @username",
+          "url": "Ceangal (URL)",
+          "urlPlaceholderWhatsapp": "m.e., 62812... (gun stiùireadh 0)",
+          "urlPlaceholderEmail": "m.e. thu@email.com",
+          "urlPlaceholderWebsite": "m.e., https://...",
+          "urlPlaceholderDefault": "m.e., ainm neach-cleachdaidh",
+          "addContact": "Cuir Fios ris"
+        },
+        "common": {
+          "months": {
+            "1": "Am Faoilleach",
+            "2": "An Gearran",
+            "3": "Am Màrt",
+            "4": "A’ Ghiblean",
+            "5": "A’ Chèitean",
+            "6": "An t-Ògmhios",
+            "7": "An t-Iuchar",
+            "8": "An Lùnastal",
+            "9": "An t-Sultain",
+            "10": "An Dàmhair",
+            "11": "An t-Samhain",
+            "12": "An Dùbhlachd"
+          },
+          "month": "Mìos",
+          "year": "Bliadhna",
+          "invalidDate": "Mìos crìochnachaidh mì-dhligheach",
+          "words": "facail"
+        }
+      },
+      "sure": "Seadh",
+      "deletePhotoTitle": "Sguab às Dealbh Pròifil?",
+      "deletePhotoMessage": "A bheil thu cinnteach gu bheil thu airson an dealbh pròifil seo a sguabadh às?",
+      "cancel": "Sguir dheth",
+      "delete": "Sguab às"
+    },
+    "cropper": {
+      "chooseBackground": "Tagh Cùl-fhiosrachadh",
+      "cropPhoto": "Gearr an dealbh agad",
+      "useOriginal": "Cleachd tùsail",
+      "backgroundPresets": "Cùl-raointean",
+      "none": "Chan eil gin",
+      "uploadBackground": "Cùl-luchdadh suas",
+      "cancel": "Sguir dheth",
+      "savePhoto": "Sàbhail Dealbh",
+      "zoom": "Sùm",
+      "rotationTilt": "Cuairteachadh & Teilt",
+      "resetRotation": "Ath-shuidheachadh gu 0 °",
+      "center": "Ionad",
+      "rotateLeft": "Rothaich -90 °",
+      "rotateRight": "Rothaich +90 °",
+      "removeBackground": "Thoir air falbh Cùl-fhiosrachadh",
+      "processing": "A’ làimhseachadh an dealbh agad, fuirich ort ..."
+    },
+    "cvPreview": {
+      "title": "Ro-shealladh CV",
+      "downloadCv": "Luchdaich sìos CV",
+      "download": "Luchdaich sìos",
+      "wordCannotPreview": "Chan urrainnear ro-shealladh fhaighinn air sgrìobhainnean Word (.doc/.docx) gu dùthchasach sa bhrobhsair. ",
+      "downloadFile": "Luchdaich sìos CV File",
+      "back": "Air ais",
+      "mobileMessage": "Feuch an luchdaich thu sìos am faidhle CV gus ro-shealladh fhaighinn air.",
+      "preview": "Ro-shealladh CV",
+      "wordPreviewTitle": "Ro-shealladh sgrìobhainn Word",
+      "wordPreviewMessage": "Chan urrainnear ro-shealladh fhaighinn air sgrìobhainnean Word (.doc/.docx) gu dùthchasach sa bhrobhsair. Luchdaich a-nuas am faidhle airson coimhead air."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Sgrìobh tuairisgeul goirid mu do dheidhinn fhèin, ùidhean, agus amasan dreuchd."
+    },
+    "skills": {
+      "placeholder": "Cuir a-steach ainm sgil ...",
+      "add": "Cuir ris",
+      "enterToAdd": "Brùth Enter gus cuir ris",
+      "noSkills": "Chan eil sgilean air an cur ris fhathast."
+    },
+    "projects": {
+      "projectName": "Ainm a' phròiseict",
+      "projectNamePlaceholder": "m.e. ",
+      "projectUrl": "URL a 'phròiseict",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Fad",
+      "startMonth": "Mìos tòiseachaidh",
+      "startYear": "Bliadhna tòiseachaidh",
+      "endMonth": "Mìos Deireannach",
+      "endYear": "Deireadh Bliadhna",
+      "currentlyWorking": "Ag obair air seo an-dràsta",
+      "description": "Tuairisgeul",
+      "descriptionPlaceholder": "Thoir cunntas air a’ phròiseact, an dreuchd agad, agus na choilean thu...",
+      "technologies": "Teicneòlasan air an cleachdadh",
+      "addProject": "Cuir Pròiseact ris",
+      "image": "Dealbh pròiseact a",
+      "removeImage": "Thoir air falbh Ìomhaigh",
+      "uploadImage": "Cliog gus dealbh a luchdachadh suas"
+    },
+    "work": {
+      "company": "Companaidh/Institiud",
+      "companyPlaceholder": "Ainm na companaidh...",
+      "role": "Dreuchd/dreuchd",
+      "rolePlaceholder": "Do shuidheachadh ...",
+      "jobType": "Seòrsa Obrach",
+      "selectJobType": "Tagh seòrsa",
+      "fullTime": "Làn-thìde",
+      "partTime": "Pàirt ùine",
+      "contract": "Cùmhnant",
+      "internship": "Inntearnas",
+      "freelance": "Neo-eisimeileach",
+      "location": "Àite",
+      "locationPlaceholder": "m.e. ",
+      "duration": "Fad",
+      "currentlyWorking": "Ag obair an seo an-dràsta",
+      "description": "Tuairisgeul Obrach",
+      "descriptionPlaceholder": "Thoir cunntas air na prìomh dhleastanasan agus na coileanaidhean agad ...",
+      "skills": "Sgilean Sònraichte",
+      "addExperience": "Cuir eòlas ris"
+    },
+    "org": {
+      "organization": "Ainm na buidhne",
+      "organizationPlaceholder": "Ainm na buidhne...",
+      "role": "Dreuchd/dreuchd",
+      "rolePlaceholder": "m.e. ",
+      "duration": "Fad",
+      "periodFormat": "no cruth an-asgaidh (m.e. 2020 - 2022)",
+      "periodPlaceholder": "m.e. ",
+      "currentlyActive": "An-dràsta gnìomhach",
+      "description": "Tuairisgeul gnìomhachd",
+      "descriptionPlaceholder": "Thoir cunntas air na gnìomhan no na tabhartasan agad...",
+      "addExperience": "Cuir eòlas ris"
+    },
+    "education": {
+      "institution": "Ainm an Institiud",
+      "institutionPlaceholder": "Ainm sgoile no oilthigh...",
+      "degree": "Ìre/ìre",
+      "degreePlaceholder": "m.e. ",
+      "major": "Prìomh / Raon Sgrùdaidh",
+      "majorPlaceholder": "m.e. ",
+      "gpa": "GPA / Ìre",
+      "gpaPlaceholder": "m.e. ",
+      "duration": "Faid Foghlam",
+      "periodFormat": "no cruth an-asgaidh (m.e. 2018 - 2022)",
+      "periodPlaceholder": "m.e. ",
+      "currentlyStudying": "An-dràsta ag ionnsachadh an seo",
+      "description": "Gnìomhan / Urram",
+      "descriptionPlaceholder": "Thoir cunntas air gnìomhan acadaimigeach, buidhnean, no urraman a fhuaireadh...",
+      "addEducation": "Cuir Foghlam ris"
+    },
+    "cert": {
+      "name": "Ainm teisteanais",
+      "namePlaceholder": "m.e. ",
+      "issuer": "Buidheann Cur a-mach",
+      "issuerPlaceholder": "m.e. ",
+      "issueDate": "Ceann-latha foillseachaidh",
+      "expiryDate": "Dligheach gus",
+      "noExpiry": "Chan eil an teisteanas seo a’ tighinn gu crìch",
+      "yearPlaceholder": "no Bliadhna (m.e. 2023)",
+      "credentialUrl": "URL teisteanais",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Sgilean Co-cheangailte",
+      "addCertification": "Cuir Teisteanas ris",
+      "image": "Ìomhaigh / Suaicheantas",
+      "removeImage": "Thoir air falbh Ìomhaigh",
+      "uploadImage": "Cliog gus dealbh a luchdachadh suas"
+    },
+    "common": {
+      "months": {
+        "1": "Am Faoilleach",
+        "2": "An Gearran",
+        "3": "Am Màrt",
+        "4": "A’ Ghiblean",
+        "5": "A’ Chèitean",
+        "6": "An t-Ògmhios",
+        "7": "An t-Iuchar",
+        "8": "An Lùnastal",
+        "9": "An t-Sultain",
+        "10": "An Dàmhair",
+        "11": "An t-Samhain",
+        "12": "An Dùbhlachd"
+      },
+      "month": "Mìos",
+      "year": "Bliadhna",
+      "invalidDate": "Mìos crìochnachaidh mì-dhligheach",
+      "words": "facail"
+    }
+  },
+  "settings": {
+    "title": "Suidhichidhean",
+    "subtitle": "Stiùirich do phròifil cùram-roinne agus na roghainnean agad",
+    "tabs": {
+      "profile": "Mo Phròifil",
+      "security": "Tèarainteachd",
+      "personalization": "Pearsanachadh"
+    },
+    "profile": {
+      "infoTitle": "Fiosrachadh Bunaiteach",
+      "photo": "Dealbh Pròifil",
+      "uploadPhoto": "Atharraich an dealbh",
+      "fullName": "Làn ainm",
+      "fullNamePlaceholder": "Iain Doe",
+      "email": "Seòladh puist-d",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Tha post-d air a chleachdadh airson logadh a-steach agus chan eil e air a thaisbeanadh gu poblach.",
+      "portfolioUrl": "URL pasgan",
+      "saveProfile": "Sàbhail Pròifil",
+      "save": "Sàbhail Pròifil",
+      "accountCreated": "Cunntas air a chruthachadh",
+      "lastLogin": "Log a-steach mu dheireadh",
+      "oauthNotice": "Tha a' phròifil seo ceangailte ris a' chunntas {{provider}} agad. Feumar atharrachaidhean pròifil a dhèanamh tron ​​​​t-solaraiche seirbheis."
+    },
+    "security": {
+      "changePassword": "Atharraich Facal-faire",
+      "currentPassword": "Facal-faire gnàthaichte",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Facal-faire ùr",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Dearbhaich am facal-faire ùr",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "Co-dhiù 8 caractaran",
+        "uppercase": "Aon litir mhòr (AZ)",
+        "number": "Aon àireamh (0-9)",
+        "symbol": "Aon samhla (!@#$%^&*)"
+      },
+      "passwordTitle": "Facal-faire",
+      "updatePassword": "Luchdaich a-nuas am facal-faire",
+      "additionalSecurity": "Tèarainteachd a bharrachd",
+      "twoFactor": "Dearbhadh Dà-Factor (2FA)",
+      "twoFactorDesc": "Dèan tèarainte air do chunntas le bhith a’ cleachdadh còd OTP a bharrachd.",
+      "activeSessions": "Seiseanan Gnìomhach",
+      "activeSessionsDesc": "Ceadaich daonnan sùil a chumail air innealan logaichte a-steach.",
+      "publicVisibility": "Faicsinneachd Poblach",
+      "hideFromSearch": "Falaich Pasgan bho Innealan Rannsachaidh",
+      "hideFromSearchDesc": "Cuir casg air Google bho bhith a’ clàr-amais do dhuilleag cùram-roinne poblach.",
+      "disable2fa": {
+        "title": "Cuir à comas 2FA",
+        "description": "A bheil thu cinnteach gu bheil thu airson dearbhadh dà-fhactaraidh a chuir dheth?",
+        "confirmPasswordLabel": "Cuir a-steach am facal-faire agad gus a dhearbhadh",
+        "currentPasswordPlaceholder": "Facal-faire làithreach",
+        "cancelButton": "Sguir dheth",
+        "confirmButton": "Cuir à comas 2FA",
+        "incorrectPassword": "Facal-faire ceàrr."
+      },
+      "setup2fa": {
+        "step1Title": "1. Sgan QR Code",
+        "step1Desc": "Fosgail an aplacaid dearbhaidh agad agus scan an còd QR a leanas:",
+        "unableToScan": "Cha ghabh sganadh? Cleachd an iuchair rèiteachaidh",
+        "step2Title": "2. Dearbhaich Còd",
+        "step2Desc": "Cuir a-steach an còd 6-fhigearach a chruthaich an aplacaid agad:",
+        "cancelButton": "Sguir dheth",
+        "enableButton": "Dèan comas air 2FA",
+        "invalidLength": "Feuch an cuir thu a-steach còd 6-digit.",
+        "invalidCode": "Còd dearbhaidh mì-dhligheach. Feuch ris a-rithist."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Smachdan Cànain",
+      "appLanguage": "Cànan App",
+      "layoutTitle": "Cruth & Typography",
+      "layoutStyle": "Stoidhle Layout",
+      "layoutModern": "Nuadh-stoidhle (bunaiteach)",
+      "layoutClassic": "Stoidhle Clasaigeach",
+      "layoutMinimalist": "Stoidhle Minimalist",
+      "fontSize": "Meud cruth-clò app",
+      "fontSmall": "Beag",
+      "fontNormal": "Normal (Meadhanach)",
+      "fontLarge": "Mòr",
+      "searchLanguage": "Rannsachadh cànain...",
+      "languageNotFound": "Cha deach cànan a lorg",
+      "layoutElegant": "Stoidhle eireachdail"
+    },
+    "saveChanges": "Sàbhail Atharrachaidhean",
+    "cancel": "Sguir dheth",
+    "appSettings": "Roghainnean App",
+    "logoutConfirmTitle": "Dearbhaich Log a-mach",
+    "logoutConfirmDesc": "A bheil thu cinnteach gu bheil thu airson logadh a-mach às an t-siostam?",
+    "logoutConfirmYes": "Seadh, Log a-mach",
+    "generalError": "Thachair mearachd. ",
+    "success": "Soirbheachas",
+    "preferencesSaved": "Sàbhaladh roghainnean app gu soirbheachail.",
+    "header": "Roghainnean aplacaid",
+    "logout": {
+      "title": "Dearbhadh Logoout",
+      "message": "A bheil thu cinnteach gu bheil thu airson logadh a-mach às an t-siostam?",
+      "confirm": "Seadh, Log a-mach"
+    },
+    "about": {
+      "title": "Mu Iarrtas",
+      "subtitle": "Àrd-ùrlar neach-togail portfolio",
+      "version": "Tionndadh",
+      "description": "Tha DevFolio na àrd-ùrlar togail pasgan ùr-nodha air a dhealbhadh airson luchd-leasachaidh, luchd-dealbhaidh agus luchd-cruthachaidh proifeasanta. ",
+      "license": "Cead & Dlighe-sgrìobhaidh",
+      "copyright": "© 2026 DevFolio Inc. Gach còir glèidhte.",
+      "developer": "Leasaiche",
+      "developedBy": "Air a leasachadh le Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Cuir às do chunntas gu buan",
+      "menuItem": "Sguab às an cunntas",
+      "successTitle": "Soirbheachas",
+      "successMessage": "Chaidh post-d dearbhaidh sguabaidh às cunntas a chuir.",
+      "errorTitle": "Dh'fhàillig",
+      "errorMessage": "Cha b' urrainn dhuinn post-d dearbhaidh a chur.",
+      "confirmationMessage": "A bheil thu cinnteach gu bheil thu airson an cunntas agad a sguabadh às gu buan?",
+      "warningMessage1": "Gheibh thu post-d gus dearbhadh gun deach cunntas a dhubhadh às.",
+      "warningMessage2": "Ma thèid a dhearbhadh, thèid an dàta gu lèir (phasgan, pròiseactan, staitistig) a dhubhadh às gu buan agus chan fhaighear air ais e.",
+      "cancel": "Sguir dheth",
+      "confirm": "Dearbhadh"
+    },
+    "toasts": {
+      "toastError": "Mearachd",
+      "toastSuccess": "Soirbheachas",
+      "toastSetup2FAFailed": "Dh'fhàillig stèidheachadh 2FA. Feuch ris a-rithist.",
+      "toast2FAEnabled": "Chaidh dearbhadh dà-fhactaraidh a chomasachadh.",
+      "toast2FADisabled": "Chaidh dearbhadh dà-fhactaraidh a chur à comas.",
+      "toastSessionEnabled": "Chaidh sgrùdadh seisean gnìomhach a chomasachadh.",
+      "toastSessionDisabled": "Chaidh sgrùdadh seisean gnìomhach a chur à comas.",
+      "toastSetupKeyCopied": "Chaidh an iuchair rèiteachaidh a chopaigeadh chun a’ bhòrd bhidio."
+    },
+    "privacy": {
+      "title": "Poileasaidh Dìomhaireachd",
+      "updateDate": "Air ùrachadh mu dheireadh: 15 Iuchar, 2026",
+      "intro": "Tha am Poileasaidh Dìomhaireachd seo a’ mìneachadh mar a bhios DevFolio a’ cruinneachadh, a’ cleachdadh agus a’ dìon d’ fhiosrachadh pearsanta nuair a bhios tu a’ cleachdadh ar seirbheisean.",
+      "section1Title": "1. Fiosrachadh a chruinnicheas sinn",
+      "section1Content": "Bidh sinn a’ cruinneachadh fiosrachadh a bheir thu seachad gu dìreach nuair a bhios tu a’ cruthachadh cunntas, a’ togail pasgan, agus a’ cur fios chun neach-taic againn. ",
+      "section2Title": "2. Cleachdadh Fiosrachaidh",
+      "section2Content": "Tha am fiosrachadh agad air a chleachdadh gus feartan ar seirbheisean obrachadh, a chumail suas agus a sholarachadh, a bharrachd air conaltradh riut a thaobh do chunntas no seirbheisean.",
+      "section3Title": "3. Tèarainteachd Dàta",
+      "section3Content": "Bidh sinn a’ cur an gnìomh ceumannan tèarainteachd reusanta gus d’ fhiosrachadh a dhìon bho ruigsinneachd gun chead, fhoillseachadh no sgrios."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Cha deach tòcan dearbhaidh a lorg.",
+    "defaultError": "Dh'fhàillig an cunntas a sguabadh às. Is dòcha gu bheil an tòcan air tighinn gu crìch.",
+    "loadingTitle": "A' sguabadh às cunntas...",
+    "loadingMessage": "Feuch an fuirich thu, tha sinn a’ làimhseachadh d’ iarrtas.",
+    "successTitle": "Cunntas air a sguabadh às gu soirbheachail",
+    "successMessage": "Chaidh an dàta agad gu lèir a dhubhadh às gu buan. Thèid do ath-stiùireadh...",
+    "errorTitle": "Dh'fhàillig an cunntas a sguabadh às",
+    "backToHome": "Tilleadh don Dachaigh"
+  },
+  "forgotPassword": {
+    "minutes": "mionaidean",
+    "seconds": "diogan",
+    "success": "Soirbheachas",
+    "otpSentToEmail": "Chaidh còd OTP a chuir chun phost-d agad.",
+    "failed": "Dh'fhàillig",
+    "emailNotFound": "Post-d gun lorg.",
+    "emailThirdParty": "Tha am post-d seo clàraichte tro threas phàrtaidh.",
+    "genericError": "Tha mearachd ann. Feuch ris a-rithist.",
+    "otpVerified": "Chaidh an còd OTP a dhearbhadh gu soirbheachail.",
+    "otpExpired": "Tha an còd OTP air tighinn gu crìch. Feuch an iarr thu còd ùr.",
+    "otpInvalid": "Còd OTP mì-dhligheach.",
+    "otpResent": "Chaidh còd OTP ùr a chuir chun phost-d agad.",
+    "otpResendFailed": "Dh'fhàillig ath-sheòladh a' chòd OTP. Feuch ris a-rithist.",
+    "passwordResetSuccess": "Facal-faire ath-shuidheachadh gu soirbheachail. Feuch an log thu a-steach leis an fhacal-fhaire ùr agad.",
+    "passwordResetFailed": "Dh'fhàillig ath-shuidheachadh am facal-faire.",
+    "backToLogin": "Till gu Logadh a-steach",
+    "back": "Air ais",
+    "title": "Facal-faire air dearmad",
+    "description": "Cuir a-steach an seòladh puist-d clàraichte air do chunntas. Cuiridh sinn còd OTP gus am facal-faire ath-shuidheachadh.",
+    "emailLabel": "Seòladh puist-d",
+    "sending": "A' cur...",
+    "sendOtp": "Cuir Còd OTP",
+    "verifyOtpTitle": "Dearbhaich Còd OTP",
+    "verifyOtpDesc": "Cuir a-steach an còd 6 figear a chaidh a chuir chun phost-d agad gus d’ aithne a dhearbhadh.",
+    "verifying": "A' dearbhadh...",
+    "verifyOtp": "Dearbhaich OTP",
+    "resending": "A' tilleadh...",
+    "resendOtp": "Ath-chuir an còd OTP",
+    "resendCodeIn": "Ath-chuir an còd ann an",
+    "newPasswordTitle": "Cruthaich facal-faire ùr",
+    "newPasswordDesc": "Cruthaich facal-faire ùr, làidir gus do chunntas a dhèanamh tèarainte.",
+    "newPasswordLabel": "Facal-faire ùr",
+    "min8Chars": "8 caractaran as ìsle",
+    "oneUpperCase": "1 litrichean mòra (AZ)",
+    "oneNumber": "1 àireamh (0-9)",
+    "oneSymbol": "1 samhla (!@#$%^&*)",
+    "confirmPasswordLabel": "Dearbhaich Facal-faire",
+    "passwordsDoNotMatch": "Chan eil faclan-faire co-ionnan.",
+    "resettingPassword": "Ag ath-shuidheachadh facal-faire...",
+    "resetPassword": "Ath-shuidhich am facal-faire"
+  },
+  "verifyEmail": {
+    "resendError": "Dh'fhàillig ath-sheoladh post-d dearbhaidh. Feuch ris a-rithist.",
+    "checkingStatus": "A' sgrùdadh inbhe dearbhaidh...",
+    "title": "Thoir sùil air a' phost-d agad",
+    "description": "Tha sinn air post-d dearbhaidh a chuir chun t-seòladh post-d agad. Fosgail am post-d is briog air a' phutan <1>\"Dearbhaich Cunntas\"</1> gus an cunntas agad a chur an gnìomh.",
+    "stepsTitle": "Ceumannan",
+    "step1": "Fosgail an tagradh post-d agad (Gmail, Yahoo, msaa)",
+    "step2": "Coimhead airson post-d bho DevFolio leis a’ chuspair “Activation Account”",
+    "step3": "Briog air a' phutan \"Dearbhaich Cunntas\" sa phost-d",
+    "step4": "Thèid do stiùireadh chun duilleag logaidh a-steach gus a dhol a-steach",
+    "resendSuccess": "Chaidh am post-d dearbhaidh a chuir air ais!",
+    "resending": "A' tilleadh...",
+    "resendButton": "Ath-chuir post-d dearbhaidh",
+    "backToLogin": "Till dhan duilleag logadh a-steach",
+    "footerNote": "Nach d'fhuair thu am post-d? Thoir sùil air a’ phasgan <1>Spam</1> no <2>Junk</2> sa phost-d agad. Tha an ceangal dearbhaidh dligheach airson <3>24 uairean</3>."
+  }
+}

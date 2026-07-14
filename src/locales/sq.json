@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Veçoritë",
+    "templates": "Modelet",
+    "pricing": "Çmimet",
+    "login": "Identifikohu",
+    "getStarted": "Filloni",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ndërtuesi i fundit i portofolit për zhvilluesit",
+    "title1": "Ndërtoni profesionistin tuaj",
+    "title2": "portofol në",
+    "titleHighlight": "sekonda.",
+    "subtitle": "Gjithçka që ju nevojitet për të shfaqur aftësitë, projektet dhe përvojën tuaj. ",
+    "startBuilding": "Filloni të ndërtoni tani",
+    "viewTemplates": "Shikoni shabllonet",
+    "fastDeployment": "Vendosja e shpejtë",
+    "liveStatus": "username.dev është drejtpërdrejt!",
+    "featuresTitle": "Karakteristikat e fuqishme",
+    "featuresSubtitle": "Ne ofrojmë të gjitha mjetet që ju nevojiten për t'u dalluar nga turma dhe për të vendosur punën tuaj të ëndrrave.",
+    "feature1Title": "Zvarrit dhe lësho ndërtuesin",
+    "feature1Desc": "Organizoni me lehtësi seksionet, projektet dhe aftësitë tuaja me redaktorin tonë intuitiv vizual.",
+    "feature2Title": "Tema të personalizuara",
+    "feature2Desc": "Zgjidhni nga modelet e dizajnuara në mënyrë profesionale ose krijoni pamjen tuaj unike.",
+    "feature3Title": "Analiza në kohë reale",
+    "feature3Desc": "Ndiqni vizitorët tuaj, shikoni se cilat projekte marrin më shumë vëmendje dhe më shumë."
+  },
+  "auth": {
+    "welcomeBack": "Mirë se vini përsëri",
+    "loginToContinue": "Hyni në llogarinë tuaj për të vazhduar",
+    "createAccount": "Krijo llogari",
+    "joinCommunity": "Bashkohuni me mijëra zhvillues të tjerë",
+    "fullName": "Emri i plotë",
+    "fullNamePlaceholder": "p.sh. ",
+    "email": "Adresa e emailit",
+    "emailPlaceholder": "you@example.com",
+    "password": "Fjalëkalimi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Më kujto mua",
+    "forgotPassword": "Keni harruar fjalëkalimin?",
+    "signIn": "Hyni",
+    "signingIn": "Po identifikohesh...",
+    "signUp": "Regjistrohu",
+    "signingUp": "Regjistrimi...",
+    "noAccount": "Nuk keni një llogari?",
+    "hasAccount": "Keni tashmë një llogari?",
+    "passwordRules": {
+      "title": "Fjalëkalimi duhet të përmbajë:",
+      "length": "Të paktën 8 karaktere",
+      "uppercase": "Një shkronjë e madhe (A-Z)",
+      "number": "Një numër (0-9)",
+      "symbol": "Një simbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Ndërtues i portofolit",
+      "templates": "Modelet & Temat",
+      "settings": "Cilësimet",
+      "collapse": "Palos shiritin anësor",
+      "overview": "Vështrim i përgjithshëm",
+      "profileSettings": "Cilësimet e profilit",
+      "customDomain": "Domain i personalizuar",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Shiko drejtpërdrejt",
+      "welcome": "Mirë se vini,",
+      "logout": "Dilni",
+      "builder": "Ndërtues",
+      "livePortfolio": "Portofoli i drejtpërdrejtë",
+      "live": "Jetoni"
+    },
+    "logoutModal": {
+      "title": "Dilni",
+      "message": "Jeni i sigurt që dëshironi të dilni nga llogaria juaj? ",
+      "cancel": "Anulo",
+      "confirm": "Po, Dilni"
+    },
+    "slugModal": {
+      "title": "Zgjidhni URL-në e portofolit tuaj",
+      "message": "Kjo URL do të jetë lidhja unike për portofolin tuaj. ",
+      "slugPlaceholder": "emri juaj",
+      "availability": "Disponueshmëria:",
+      "available": "Në dispozicion",
+      "unavailable": "E padisponueshme",
+      "checking": "Po kontrollon...",
+      "mustFormat": "Mund të përmbajë vetëm shkronja, numra dhe viza (-)",
+      "cancel": "Anulo",
+      "save": "Ruaj URL-në",
+      "usernameUrl": "URL e emrit të përdoruesit",
+      "helpText": "Shkronjat e vogla, numrat dhe vizat. ",
+      "validation": {
+        "empty": "Slug nuk mund të jetë bosh.",
+        "min3": "Minimumi 3 karaktere.",
+        "max30": "Maksimumi 30 karaktere.",
+        "format": "Vetëm shkronja të vogla, numra dhe viza (-). "
+      }
+    },
+    "loadingPortfolio": "Po ngarkon të dhënat e portofolit...",
+    "overview": {
+      "greetings": {
+        "morning": "Mirëmëngjes",
+        "afternoon": "Mirëdita",
+        "evening": "Mirëdita",
+        "night": "Natën e mirë"
+      },
+      "welcome": {
+        "hi": "Përshëndetje,",
+        "creator": "Krijuesi",
+        "desc1": "Mirë se vini në pultin e DevFolio. Portofoli juaj është parë nga",
+        "desc2": "person. Vazhdoni të punoni!",
+        "editPortfolio": "Redakto portofolin"
+      },
+      "stats": {
+        "totalVisitors": "Totali i Vizitorëve",
+        "projectViews": "Shikuar (projekt)",
+        "activeSessions": "Sesion aktiv",
+        "totalLabel": "Gjithsej"
+      },
+      "setup": {
+        "title": "Përparimi i konfigurimit",
+        "completed": "Portofoli juaj është i plotë! 🎉",
+        "inProgress": "Hapat drejt portofolit perfekt.",
+        "profile": {
+          "title": "Profili i plotë",
+          "desc": "Shto emrin, biografinë dhe foton e profilit."
+        },
+        "section": {
+          "title": "Shto seksione",
+          "desc": "Aktivizoni të paktën 1 seksion në portofol."
+        },
+        "project": {
+          "title": "Shto projekt",
+          "desc": "Fut të paktën 1 nga projektet e tua më të mira."
+        },
+        "publish": {
+          "title": "Publikimi i portofolit",
+          "desc": "Vendosni një URL të personalizuar në mënyrë që të mund të aksesohet nga publiku."
+        }
+      },
+      "topProjects": {
+        "title": "Projektet më të njohura",
+        "desc": "Performanca e punës suaj në sytë e vizitorëve.",
+        "viewAll": "Shih të gjitha",
+        "empty": "Nuk ka ende të dhëna shikimi për projektin tuaj."
+      }
+    },
+    "themes": {
+      "title": "Modelet & Temat",
+      "subtitle": "Personalizojeni pamjen dhe ndjesinë e portofolit tuaj publik.",
+      "reset": "Rivendosja e parazgjedhur",
+      "save": "Ruaj ndryshimet",
+      "saving": "Ruajtja...",
+      "chooseTemplate": "Zgjidhni një shabllon",
+      "primaryColor": "Ngjyra primare",
+      "typography": "Tipografi",
+      "appearance": "Pamja e jashtme",
+      "corners": "Këndet & Kufijtë",
+      "successTitle": "Suksese",
+      "successMessage": "Preferencat e temës u përditësuan me sukses",
+      "errorTitle": "Gabim",
+      "errorMessage": "Ruajtja e preferencave të temës dështoi",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Dizajn i pastër dhe i thjeshtë duke u fokusuar në përmbajtje."
+        },
+        "developerDark": {
+          "name": "Zhvilluesi Dark",
+          "desc": "Tema e errët perfekte për të shfaqur kodin dhe grupet e teknologjisë."
+        },
+        "creative": {
+          "name": "Krijues",
+          "desc": "Paraqitje e gjallë dhe plot ngjyra për stilistë dhe krijues."
+        },
+        "executive": {
+          "name": "Ekzekutiv",
+          "desc": "Planifikim profesional dhe formal për profesionistët e biznesit."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Paraqitja moderne e rrjetit në stilin Apple që nxjerr në pah aftësi të ndryshme në mënyrë efikase."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalizëm",
+          "desc": "Kufij të guximshëm dhe ngjyra me kontrast të lartë për një pamje në modë dhe pa falje."
+        },
+        "glassmorphism": {
+          "name": "Glasmorfizmi",
+          "desc": "Efektet e xhamit të ngrirë mbi pjerrësi shumëngjyrëshe për një ndërfaqe moderne të hijshme."
+        },
+        "linkInBio": {
+          "name": "Link në Bio",
+          "desc": "Struktura kompakte vertikale e optimizuar për ekranet e celularëve dhe mediat sociale."
+        }
+      },
+      "appearances": {
+        "light": "Drita",
+        "dark": "E errët",
+        "system": "Sistemi"
+      },
+      "cornersOptions": {
+        "sharp": "E mprehtë",
+        "rounded": "Rrumbullakosur",
+        "pill": "Pilula"
+      }
+    },
+    "feedback": {
+      "title": "Dërgo koment",
+      "subtitle": "Na ndihmoni ta përmirësojmë duke ofruar sugjerime, kritika ose duke raportuar defekte në këtë aplikacion.",
+      "categoryLabel": "Kategoria e komenteve",
+      "messageLabel": "Detajet e mesazhit",
+      "messagePlaceholder": "Më tregoni në detaje për komentet që dëshironi të përcillni...",
+      "imageLabel": "Bashkëngjitja e imazhit (Opsionale)",
+      "imagePlaceholder": "Klikoni për të ngarkuar imazhin ose pamjen e ekranit",
+      "submitting": "Dërgimi...",
+      "submitBtn": "Dërgo koment",
+      "categories": {
+        "suggestion": "Sugjerime & Ide",
+        "bug": "Raporti i gabimeve / gabimeve",
+        "criticism": "Kritika",
+        "other": "Të tjera"
+      },
+      "imageErrorTitle": "Gabim",
+      "imageErrorMessage": "Disa skedarë refuzohen sepse nuk janë të mbështetur formate imazhi (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Suksese",
+      "successMessage": "Faleminderit për komentet tuaja! Raporti është dërguar.",
+      "submitErrorTitle": "Dështoi",
+      "submitErrorMessage": "Ndodhi një gabim gjatë dërgimit të komenteve. Ju lutemi provoni përsëri."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Rreth meje",
+      "skills": "Aftësitë",
+      "projects": "Projektet",
+      "workExperience": "Përvojë pune",
+      "orgExperience": "Përvoja organizative",
+      "education": "Arsimi",
+      "certifications": "Trajnime & Certifikime",
+      "contact": "Më kontaktoni"
+    },
+    "editor": {
+      "profileInfo": "Informacioni i profilit",
+      "saving": "Po ruan...",
+      "profilePhoto": "Foto e profilit",
+      "clickToUpload": "Kliko për të ngarkuar (JPG, PNG)",
+      "fullName": "Emri i plotë",
+      "fullNamePlaceholder": "p.sh. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Zhvillues Fullstack me një pasion për ndërtimin e aplikacioneve moderne në internet...",
+      "location": "Vendndodhja",
+      "locationPlaceholder": "p.sh. ",
+      "gender": "Gjinia",
+      "selectGender": "Zgjidhni Gjinia",
+      "male": "Mashkull",
+      "female": "Femër",
+      "custom": "Me porosi",
+      "customPlaceholder": "Shkruani gjininë tuaj të personalizuar...",
+      "uploadCv": "Ngarko CV",
+      "cvFormat": "(DOC ose PDF)",
+      "preview": "Parapamje",
+      "remove": "Hiq",
+      "clickToUploadCv": "Klikoni për të ngarkuar PDF ose DOC",
+      "sections": "Seksionet",
+      "removeSelected": "Hiq të zgjedhurit",
+      "confirmRemove": "Konfirmo Hiq",
+      "addSection": "Shto seksion",
+      "addAllSections": "Shtoni të gjitha seksionet",
+      "noSections": "Nuk ka ende seksione",
+      "clickToAdd": "Kliko \"+ Shto seksionin\" për të filluar",
+      "selectAll": "Zgjidhni Të gjitha",
+      "selected": "Zgjedhur",
+      "dragToReorder": "Zvarrit për të rirenditur seksionet",
+      "livePreview": "Pamje e drejtpërdrejtë",
+      "addSectionsToBuild": "Shtoni seksione për të ndërtuar portofolin tuaj",
+      "now": "Tani",
+      "current": "Aktuale",
+      "noExpiry": "Nuk ka skadim",
+      "see": "Shihni",
+      "position": "Pozicioni",
+      "degree": "Diplomë",
+      "certification": "Certifikimin",
+      "sectionsForm": {
+        "about": {
+          "label": "Përshkrimi i vetes",
+          "placeholder": "Na tregoni për veten tuaj, prejardhjen, interesat dhe aftësitë tuaja..."
+        },
+        "skills": {
+          "addPlaceholder": "Shkruani skill më pas shtypni Enter..."
+        },
+        "projects": {
+          "title": "Emri i projektit",
+          "titlePlaceholder": "Emri i projektit...",
+          "url": "URL e projektit",
+          "description": "Përshkrimi",
+          "descriptionPlaceholder": "Përshkrimi i shkurtër i projektit...",
+          "uploadThumbnail": "Imazhi i projektit",
+          "addProject": "Shto projekt",
+          "projectNum": "Projekti #",
+          "currentProject": "Ky është një projekt me të cilin jam duke punuar"
+        },
+        "work": {
+          "company": "Kompania/Agjencia",
+          "companyPlaceholder": "Emri i kompanisë...",
+          "position": "Pozicioni/Titulli",
+          "positionPlaceholder": "Pozicioni juaj...",
+          "employmentType": "Lloji i punës",
+          "location": "Vendndodhja",
+          "locationPlaceholder": "Qyteti, Vendi...",
+          "startDate": "Filloni",
+          "endDate": "Përfunduar",
+          "currentWork": "Unë jam ende duke punuar për momentin",
+          "description": "Përshkrimi",
+          "descriptionPlaceholder": "Përshkrimi i punës dhe përgjegjësitë...",
+          "skills": "Shkathtësi",
+          "addExperience": "Shto përvojë pune",
+          "experienceNum": "Përvoja #",
+          "dateError": "Data e përfundimit nuk mund të jetë më e hershme se data e fillimit"
+        },
+        "org": {
+          "organization": "Emri i organizatës",
+          "orgPlaceholder": "Universiteti BEM...",
+          "role": "Roli/Pozicioni",
+          "rolePlaceholder": "Shefi i divizionit...",
+          "addOrg": "Shtoni përvojën organizative",
+          "orgNum": "Organizata #"
+        },
+        "edu": {
+          "institution": "Institucionet arsimore",
+          "institutionPlaceholder": "Emri i kampusit ose shkollës...",
+          "degree": "Titulli",
+          "degreePlaceholder": "S1, shkolla e mesme etj...",
+          "major": "Departamenti/Fusha e Studimit",
+          "majorPlaceholder": "Inxhinieri Informatike...",
+          "gpa": "GPA (opsionale)",
+          "currentStudy": "Unë jam ende duke mësuar këtu",
+          "descriptionPlaceholder": "Aktivitetet dhe arritjet gjatë studimit...",
+          "addEdu": "Shto Arsimin",
+          "eduNum": "Arsimi #"
+        },
+        "cert": {
+          "name": "Emri i Certifikimit / Trajnimit",
+          "namePlaceholder": "Emri i certifikimit...",
+          "issuer": "Botues",
+          "issuerPlaceholder": "Institucioni botues...",
+          "issueDate": "Fillimi (Data e Publikimit)",
+          "issueDatePlaceholder": "Zgjidhni datën e publikimit...",
+          "expiryDate": "Përfunduar (Periudha e vlefshme)",
+          "expiryDatePlaceholder": "Zgjidhni datën e skadencës...",
+          "noExpiry": "Kjo certifikatë nuk ka datë skadence",
+          "url": "URL kredenciale",
+          "uploadThumbnail": "Certifikata / Imazhi i trajnimit",
+          "uploadThumbnailLimit": "Ngarko imazhin e certifikatës (JPG/PNG/WEBP, maksimumi 2 MB)",
+          "addCert": "Shto Certifikimin",
+          "certNum": "Certifikimi nr"
+        },
+        "contact": {
+          "contactNum": "Kontakti nr",
+          "platform": "Platforma",
+          "displayText": "Ekrani Teksti",
+          "displayTextPlaceholder": "p.sh., you@email.com ose @username",
+          "url": "Lidhja (URL)",
+          "urlPlaceholderWhatsapp": "p.sh., 62812... (pa 0 kryesor)",
+          "urlPlaceholderEmail": "p.sh., you@email.com",
+          "urlPlaceholderWebsite": "p.sh., https://...",
+          "urlPlaceholderDefault": "p.sh., emri i përdoruesit",
+          "addContact": "Shto Kontakt"
+        },
+        "common": {
+          "months": {
+            "1": "janar",
+            "2": "shkurt",
+            "3": "mars",
+            "4": "prill",
+            "5": "maj",
+            "6": "qershor",
+            "7": "korrik",
+            "8": "gusht",
+            "9": "shtator",
+            "10": "tetor",
+            "11": "Nëntor",
+            "12": "dhjetor"
+          },
+          "month": "muaj",
+          "year": "viti",
+          "invalidDate": "Muaji i fundit i pavlefshëm",
+          "words": "fjalët"
+        }
+      },
+      "sure": "Sigurisht",
+      "deletePhotoTitle": "Të fshihet fotografia e profilit?",
+      "deletePhotoMessage": "Jeni i sigurt që dëshironi të fshini këtë foto të profilit?",
+      "cancel": "Anulo",
+      "delete": "Fshije"
+    },
+    "cropper": {
+      "chooseBackground": "Zgjidhni Sfondin",
+      "cropPhoto": "Pritini foton tuaj",
+      "useOriginal": "Përdorni origjinalin",
+      "backgroundPresets": "Paracaktimet e sfondit",
+      "none": "Asnjë",
+      "uploadBackground": "Ngarko sfond",
+      "cancel": "Anulo",
+      "savePhoto": "Ruaj foton",
+      "zoom": "Zmadhoni",
+      "rotationTilt": "Rrotullimi dhe animi",
+      "resetRotation": "Rivendosni në 0°",
+      "center": "Qendra",
+      "rotateLeft": "Rrotulloni -90°",
+      "rotateRight": "Rrotulloni +90°",
+      "removeBackground": "Hiq sfondin",
+      "processing": "Po përpunohet imazhi juaj, ju lutemi prisni..."
+    },
+    "cvPreview": {
+      "title": "Parashikimi i CV-së",
+      "downloadCv": "Shkarkoni CV",
+      "download": "Shkarkoni",
+      "wordCannotPreview": "Dokumentet Word (.doc/.docx) nuk mund të shikohen në mënyrë origjinale në shfletues. ",
+      "downloadFile": "Shkarkoni skedarin CV",
+      "back": "Mbrapa",
+      "mobileMessage": "Ju lutemi shkarkoni skedarin e CV-së për ta parë atë.",
+      "preview": "Parashikimi i CV-së",
+      "wordPreviewTitle": "Pamje paraprake e dokumentit Word",
+      "wordPreviewMessage": "Dokumentet Word (.doc/.docx) nuk mund të shikohen në mënyrë origjinale në shfletues. Ju lutemi shkarkoni skedarin për ta parë atë."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Shkruani një përshkrim të shkurtër për veten, interesat dhe qëllimet e karrierës..."
+    },
+    "skills": {
+      "placeholder": "Shkruani emrin e aftësisë...",
+      "add": "Shto",
+      "enterToAdd": "Shtypni Enter për të shtuar",
+      "noSkills": "Asnjë aftësi e shtuar ende."
+    },
+    "projects": {
+      "projectName": "Emri i projektit",
+      "projectNamePlaceholder": "p.sh. ",
+      "projectUrl": "URL e projektit",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Kohëzgjatja",
+      "startMonth": "Muaji i fillimit",
+      "startYear": "Viti i fillimit",
+      "endMonth": "Muaji i Fundit",
+      "endYear": "Fund Viti",
+      "currentlyWorking": "Aktualisht po punohet për këtë",
+      "description": "Përshkrimi",
+      "descriptionPlaceholder": "Përshkruani projektin, rolin tuaj dhe arritjet...",
+      "technologies": "Teknologjitë e përdorura",
+      "addProject": "Shto projekt",
+      "image": "Imazhi i projektit",
+      "removeImage": "Hiq imazhin",
+      "uploadImage": "Klikoni për të ngarkuar imazhin"
+    },
+    "work": {
+      "company": "Kompania/Institucioni",
+      "companyPlaceholder": "Emri i kompanisë...",
+      "role": "Roli/Pozicioni",
+      "rolePlaceholder": "Pozicioni juaj...",
+      "jobType": "Lloji i punës",
+      "selectJobType": "Zgjidhni llojin",
+      "fullTime": "Me kohë të plotë",
+      "partTime": "Me kohë të pjesshme",
+      "contract": "Kontrata",
+      "internship": "Praktika",
+      "freelance": "Punonjës i pavarur",
+      "location": "Vendndodhja",
+      "locationPlaceholder": "p.sh. ",
+      "duration": "Kohëzgjatja",
+      "currentlyWorking": "Aktualisht punon këtu",
+      "description": "Përshkrimi i punës",
+      "descriptionPlaceholder": "Përshkruani përgjegjësitë dhe arritjet tuaja kryesore...",
+      "skills": "Aftësi të veçanta",
+      "addExperience": "Shto përvojë"
+    },
+    "org": {
+      "organization": "Emri i organizatës",
+      "organizationPlaceholder": "Emri i organizatës...",
+      "role": "Roli/Pozicioni",
+      "rolePlaceholder": "p.sh. ",
+      "duration": "Kohëzgjatja",
+      "periodFormat": "ose Formati Falas (p.sh. 2020 - 2022)",
+      "periodPlaceholder": "p.sh. ",
+      "currentlyActive": "Aktualisht aktiv",
+      "description": "Përshkrimi i aktivitetit",
+      "descriptionPlaceholder": "Përshkruani aktivitetet ose kontributet tuaja...",
+      "addExperience": "Shto përvojë"
+    },
+    "education": {
+      "institution": "Emri i institucionit",
+      "institutionPlaceholder": "Emri i shkollës apo universitetit...",
+      "degree": "Diplomë/niveli",
+      "degreePlaceholder": "p.sh. ",
+      "major": "Drejtimi/Fusha e Studimit",
+      "majorPlaceholder": "p.sh. ",
+      "gpa": "GPA / Nota",
+      "gpaPlaceholder": "p.sh. ",
+      "duration": "Kohëzgjatja e Arsimit",
+      "periodFormat": "ose Formati Falas (p.sh. 2018 - 2022)",
+      "periodPlaceholder": "p.sh. ",
+      "currentlyStudying": "Aktualisht studion këtu",
+      "description": "Aktivitete / Nderime",
+      "descriptionPlaceholder": "Përshkruani aktivitetet akademike, organizatat ose nderimet e marra...",
+      "addEducation": "Shto Arsimin"
+    },
+    "cert": {
+      "name": "Emri i certifikimit",
+      "namePlaceholder": "p.sh. ",
+      "issuer": "Organizata lëshuese",
+      "issuerPlaceholder": "p.sh. ",
+      "issueDate": "Data e lëshimit",
+      "expiryDate": "E vlefshme Deri",
+      "noExpiry": "Kjo kredenciale nuk skadon",
+      "yearPlaceholder": "ose Viti (p.sh. 2023)",
+      "credentialUrl": "URL kredenciale",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Aftësitë e Lidhura",
+      "addCertification": "Shto Certifikimin",
+      "image": "Imazhi/Logo",
+      "removeImage": "Hiq imazhin",
+      "uploadImage": "Klikoni për të ngarkuar imazhin"
+    },
+    "common": {
+      "months": {
+        "1": "janar",
+        "2": "shkurt",
+        "3": "mars",
+        "4": "prill",
+        "5": "maj",
+        "6": "qershor",
+        "7": "korrik",
+        "8": "gusht",
+        "9": "shtator",
+        "10": "tetor",
+        "11": "Nëntor",
+        "12": "dhjetor"
+      },
+      "month": "muaj",
+      "year": "viti",
+      "invalidDate": "Muaji i fundit i pavlefshëm",
+      "words": "fjalët"
+    }
+  },
+  "settings": {
+    "title": "Cilësimet",
+    "subtitle": "Menaxhoni profilin dhe preferencat tuaja të portofolit",
+    "tabs": {
+      "profile": "Profili im",
+      "security": "Siguria",
+      "personalization": "Personalizimi"
+    },
+    "profile": {
+      "infoTitle": "Informacioni bazë",
+      "photo": "Foto e profilit",
+      "uploadPhoto": "Ndrysho foton",
+      "fullName": "Emri i plotë",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adresa e emailit",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Email-i përdoret për hyrje dhe nuk shfaqet publikisht.",
+      "portfolioUrl": "URL e portofolit",
+      "saveProfile": "Ruaj profilin",
+      "save": "Ruaj profilin",
+      "accountCreated": "Llogaria e krijuar",
+      "lastLogin": "Hyrja e fundit",
+      "oauthNotice": "Ky profil është i lidhur me llogarinë tuaj të {{provider}}. Ndryshimet e profilit duhet të bëhen nëpërmjet ofruesit të shërbimit."
+    },
+    "security": {
+      "changePassword": "Ndrysho fjalëkalimin",
+      "currentPassword": "Fjalëkalimi aktual",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Fjalëkalim i ri",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Konfirmo fjalëkalimin e ri",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Të paktën 8 karaktere",
+        "uppercase": "Një shkronjë e madhe (A-Z)",
+        "number": "Një numër (0-9)",
+        "symbol": "Një simbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Fjalëkalimi",
+      "updatePassword": "Përditëso fjalëkalimin",
+      "additionalSecurity": "Siguri shtesë",
+      "twoFactor": "Autentifikimi me dy faktorë (2FA)",
+      "twoFactorDesc": "Siguroni llogarinë tuaj duke përdorur një kod shtesë OTP.",
+      "activeSessions": "Sesionet aktive",
+      "activeSessionsDesc": "Lejo gjithmonë monitorimin e pajisjeve të identifikuara.",
+      "publicVisibility": "Dukshmëria publike",
+      "hideFromSearch": "Fshih portofolin nga motorët e kërkimit",
+      "hideFromSearchDesc": "Parandaloni Google që të indeksojë faqen tuaj të portofolit publik.",
+      "disable2fa": {
+        "title": "Çaktivizo 2FA",
+        "description": "Jeni i sigurt që dëshironi të çaktivizoni vërtetimin me dy faktorë?",
+        "confirmPasswordLabel": "Futni fjalëkalimin tuaj për të konfirmuar",
+        "currentPasswordPlaceholder": "Fjalëkalimi aktual",
+        "cancelButton": "Anulo",
+        "confirmButton": "Çaktivizo 2FA",
+        "incorrectPassword": "Fjalëkalim i pasaktë."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skanoni kodin QR",
+        "step1Desc": "Hapni aplikacionin tuaj të vërtetuesit dhe skanoni kodin QR të mëposhtëm:",
+        "unableToScan": "Nuk mund të skanoni? Përdor çelësin e konfigurimit",
+        "step2Title": "2. Verifiko kodin",
+        "step2Desc": "Fut kodin 6-shifror të krijuar nga aplikacioni yt:",
+        "cancelButton": "Anulo",
+        "enableButton": "Aktivizo 2FA",
+        "invalidLength": "Fut një kod 6-shifror.",
+        "invalidCode": "Kodi i pavlefshëm verifikimi. Ju lutemi provoni përsëri."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontrollet e gjuhës",
+      "appLanguage": "Gjuha e aplikacionit",
+      "layoutTitle": "Layout & Tipografia",
+      "layoutStyle": "Stili i paraqitjes",
+      "layoutModern": "Stili modern (e parazgjedhur)",
+      "layoutClassic": "Stili Klasik",
+      "layoutMinimalist": "Stili Minimalist",
+      "fontSize": "Madhësia e shkronjave të aplikacionit",
+      "fontSmall": "I vogël",
+      "fontNormal": "Normal (mesatar)",
+      "fontLarge": "I madh",
+      "searchLanguage": "Kërko gjuhën...",
+      "languageNotFound": "Gjuha nuk u gjet",
+      "layoutElegant": "Stil Elegant"
+    },
+    "saveChanges": "Ruaj Ndryshimet",
+    "cancel": "Anulo",
+    "appSettings": "Cilësimet e aplikacionit",
+    "logoutConfirmTitle": "Konfirmo daljen",
+    "logoutConfirmDesc": "Jeni i sigurt që dëshironi të dilni nga sistemi?",
+    "logoutConfirmYes": "Po, Dilni",
+    "generalError": "Ndodhi një gabim. ",
+    "success": "Suksese",
+    "preferencesSaved": "Preferencat e aplikacionit u ruajtën me sukses.",
+    "header": "Cilësimet e aplikacionit",
+    "logout": {
+      "title": "Konfirmimi i daljes",
+      "message": "Jeni i sigurt që dëshironi të dilni nga sistemi?",
+      "confirm": "Po, Dilni"
+    },
+    "about": {
+      "title": "Rreth Aplikimit",
+      "subtitle": "Platforma e Ndërtuesit të Portofolit",
+      "version": "Versioni",
+      "description": "DevFolio është një platformë moderne e krijimit të portofolit, e krijuar për zhvilluesit, projektuesit dhe krijuesit profesionistë. ",
+      "license": "Licenca dhe e drejta e autorit",
+      "copyright": "© 2026 DevFolio Inc. Të gjitha të drejtat e rezervuara.",
+      "developer": "Zhvilluesi",
+      "developedBy": "Zhvilluar nga Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Fshi përgjithmonë llogarinë",
+      "menuItem": "Fshi llogarinë",
+      "successTitle": "Suksese",
+      "successMessage": "Është dërguar një email konfirmimi për fshirjen e llogarisë.",
+      "errorTitle": "Dështoi",
+      "errorMessage": "Dërgimi i emailit konfirmues dështoi.",
+      "confirmationMessage": "Jeni i sigurt që dëshironi të fshini përgjithmonë llogarinë tuaj?",
+      "warningMessage1": "Do të merrni një email për të konfirmuar fshirjen e llogarisë.",
+      "warningMessage2": "Nëse konfirmohet, të gjitha të dhënat (portofoli, projektet, statistikat) do të fshihen përgjithmonë dhe nuk mund të rikuperohen.",
+      "cancel": "Anulo",
+      "confirm": "Konfirmimi"
+    },
+    "toasts": {
+      "toastError": "Gabim",
+      "toastSuccess": "Suksese",
+      "toastSetup2FAFailed": "Dështoi në konfigurimin e 2FA. Ju lutemi provoni përsëri.",
+      "toast2FAEnabled": "Autentifikimi me dy faktorë është aktivizuar.",
+      "toast2FADisabled": "Vërtetimi me dy faktorë është çaktivizuar.",
+      "toastSessionEnabled": "Monitorimi aktiv i sesioneve është aktivizuar.",
+      "toastSessionDisabled": "Monitorimi aktiv i sesioneve është çaktivizuar.",
+      "toastSetupKeyCopied": "Tasti i konfigurimit u kopjua në kujtesën e fragmenteve."
+    },
+    "privacy": {
+      "title": "Politika e privatësisë",
+      "updateDate": "Përditësimi i fundit: 15 korrik 2026",
+      "intro": "Kjo politikë e privatësisë shpjegon se si DevFolio mbledh, përdor dhe mbron të dhënat tuaja personale kur përdorni shërbimet tona.",
+      "section1Title": "1. Informacioni që mbledhim",
+      "section1Content": "Ne mbledhim informacionin që ju jepni drejtpërdrejt kur krijoni një llogari, krijoni një portofol dhe kontaktoni mbështetjen tonë. ",
+      "section2Title": "2. Përdorimi i Informacionit",
+      "section2Content": "Informacioni juaj përdoret për të operuar, mirëmbajtur dhe ofruar veçoritë e shërbimeve tona, si dhe për të komunikuar me ju në lidhje me llogarinë ose shërbimet tuaja.",
+      "section3Title": "3. Siguria e të dhënave",
+      "section3Content": "Ne zbatojmë masa të arsyeshme sigurie për të mbrojtur informacionin tuaj nga aksesi, zbulimi ose shkatërrimi i paautorizuar."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Shenja e konfirmimit nuk u gjet.",
+    "defaultError": "Fshirja e llogarisë dështoi. Shenja mund të ketë skaduar.",
+    "loadingTitle": "Po fshihet llogaria...",
+    "loadingMessage": "Ju lutemi prisni, ne po përpunojmë kërkesën tuaj.",
+    "successTitle": "Llogaria u fshi me sukses",
+    "successMessage": "Të gjitha të dhënat tuaja janë fshirë përgjithmonë. Do të ridrejtoheni...",
+    "errorTitle": "Fshirja e llogarisë dështoi",
+    "backToHome": "Kthehu në shtëpi"
+  },
+  "forgotPassword": {
+    "minutes": "minuta",
+    "seconds": "sekonda",
+    "success": "Suksese",
+    "otpSentToEmail": "Një kod OTP është dërguar në emailin tuaj.",
+    "failed": "Dështoi",
+    "emailNotFound": "Email nuk u gjet.",
+    "emailThirdParty": "Ky email është regjistruar përmes një pale të tretë.",
+    "genericError": "Ka një gabim. Ju lutemi provoni përsëri.",
+    "otpVerified": "Kodi OTP është verifikuar me sukses.",
+    "otpExpired": "Kodi OTP ka skaduar. Kërkoni një kod të ri.",
+    "otpInvalid": "Kodi OTP i pavlefshëm.",
+    "otpResent": "Një kod i ri OTP është dërguar në emailin tuaj.",
+    "otpResendFailed": "Dështoi ridërgimi i kodit OTP. Ju lutemi provoni përsëri.",
+    "passwordResetSuccess": "Fjalëkalimi u rivendos me sukses. Ju lutemi identifikohuni me fjalëkalimin tuaj të ri.",
+    "passwordResetFailed": "Rivendosja e fjalëkalimit dështoi.",
+    "backToLogin": "Kthehu te Login",
+    "back": "Mbrapa",
+    "title": "Keni harruar fjalëkalimin",
+    "description": "Fusni adresën e emailit të regjistruar në llogarinë tuaj. Ne do të dërgojmë një kod OTP për të rivendosur fjalëkalimin.",
+    "emailLabel": "Adresa Email",
+    "sending": "Dërgimi...",
+    "sendOtp": "Dërgo kodin OTP",
+    "verifyOtpTitle": "Verifiko kodin OTP",
+    "verifyOtpDesc": "Futni kodin 6 shifror që është dërguar në emailin tuaj për të konfirmuar identitetin tuaj.",
+    "verifying": "Po verifikohet...",
+    "verifyOtp": "Verifiko OTP",
+    "resending": "Po ridërgohet...",
+    "resendOtp": "Ridërgo kodin OTP",
+    "resendCodeIn": "Ridërgo kodin në",
+    "newPasswordTitle": "Krijo një fjalëkalim të ri",
+    "newPasswordDesc": "Krijoni një fjalëkalim të ri, të fortë për të siguruar llogarinë tuaj.",
+    "newPasswordLabel": "Fjalëkalimi i ri",
+    "min8Chars": "Minimumi 8 karaktere",
+    "oneUpperCase": "1 shkronja të mëdha (A-Z)",
+    "oneNumber": "1 numër (0-9)",
+    "oneSymbol": "1 simbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Konfirmo fjalëkalimin",
+    "passwordsDoNotMatch": "Fjalëkalimet nuk përputhen.",
+    "resettingPassword": "Rivendosja e fjalëkalimit...",
+    "resetPassword": "Rivendos fjalëkalimin"
+  },
+  "verifyEmail": {
+    "resendError": "Ridërgimi i emailit të verifikimit dështoi. Ju lutemi provoni përsëri.",
+    "checkingStatus": "Po kontrollon statusin e verifikimit...",
+    "title": "Kontrolloni emailin tuaj",
+    "description": "Ne kemi dërguar një email verifikimi në adresën tuaj të emailit. Ju lutemi hapni emailin dhe klikoni butonin <1>\"Konfirmo llogarinë\"</1> për të aktivizuar llogarinë tuaj.",
+    "stepsTitle": "Hapat",
+    "step1": "Hapni aplikacionin tuaj të emailit (Gmail, Yahoo, etj.)",
+    "step2": "Kërkoni një email nga DevFolio me temën \"Aktivizimi i llogarisë\"",
+    "step3": "Klikoni butonin \"Konfirmo llogarinë\" në emailin",
+    "step4": "Do të drejtoheni në faqen e hyrjes për të futur",
+    "resendSuccess": "Email-i i verifikimit është ridërguar!",
+    "resending": "Po ridërgohet...",
+    "resendButton": "Ridërgo email verifikimi",
+    "backToLogin": "Kthehu në faqen e hyrjes",
+    "footerNote": "Nuk e morët emailin? Kontrolloni dosjen <1>Posat e padëshiruara</1> ose <2>Junk</2> në emailin tuaj. Lidhja e verifikimit është e vlefshme për <3>24 orë</3>."
+  }
+}

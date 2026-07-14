@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Mawonekedwe",
+    "templates": "Zithunzi",
+    "pricing": "Mitengo",
+    "login": "Lowani muakaunti",
+    "getStarted": "Yambanipo",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Mtheradi mbiri yomanga kwa Madivelopa",
+    "title1": "Mangani akatswiri anu",
+    "title2": "portfolio mu",
+    "titleHighlight": "masekondi.",
+    "subtitle": "Chilichonse chomwe mungafune kuti muwonetse luso lanu, mapulojekiti, ndi zomwe mwakumana nazo. ",
+    "startBuilding": "Yambani Kumanga Tsopano",
+    "viewTemplates": "Onani Ma templates",
+    "fastDeployment": "Kutumiza Mwachangu",
+    "liveStatus": "username.dev ilipo!",
+    "featuresTitle": "Zamphamvu Mbali",
+    "featuresSubtitle": "Timakupatsirani zida zonse zomwe mungafune kuti muwonekere pagulu ndikukwaniritsa maloto anu.",
+    "feature1Title": "Kokani & Drop Builder",
+    "feature1Desc": "Konzani magawo anu, mapulojekiti, ndi maluso anu mosavuta ndi mkonzi wathu wowoneka bwino.",
+    "feature2Title": "Mitu Yamakonda",
+    "feature2Desc": "Sankhani kuchokera pama tempulo opangidwa mwaukadaulo kapena pangani mawonekedwe anu apadera.",
+    "feature3Title": "Real-time Analytics",
+    "feature3Desc": "Tsatani alendo anu, onani mapulojekiti omwe amawakonda kwambiri, ndi zina zambiri."
+  },
+  "auth": {
+    "welcomeBack": "Takulandilaninso",
+    "loginToContinue": "Lowani muakaunti yanu kuti mupitilize",
+    "createAccount": "Pangani akaunti",
+    "joinCommunity": "Lowani nawo masauzande ena opanga",
+    "fullName": "Dzina lonse",
+    "fullNamePlaceholder": "mwachitsanzo ",
+    "email": "Imelo adilesi",
+    "emailPlaceholder": "inu@example.com",
+    "password": "Mawu achinsinsi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Ndikumbukireni",
+    "forgotPassword": "Mwayiwala mawu achinsinsi olowera?",
+    "signIn": "Lowani muakaunti",
+    "signingIn": "Kulowa...",
+    "signUp": "Lowani",
+    "signingUp": "Kulembetsa...",
+    "noAccount": "Mulibe akaunti?",
+    "hasAccount": "Kodi muli ndi akaunti kale?",
+    "passwordRules": {
+      "title": "Mawu achinsinsi ayenera kukhala:",
+      "length": "Pafupifupi zilembo 8",
+      "uppercase": "Chilembo chimodzi chachikulu (A-Z)",
+      "number": "Nambala imodzi (0-9)",
+      "symbol": "Chizindikiro chimodzi (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Ma templates & Mitu",
+      "settings": "Zokonda",
+      "collapse": "Gonjetsani Sidebar",
+      "overview": "Mwachidule",
+      "profileSettings": "Zokonda pa Mbiri",
+      "customDomain": "Custom Domain",
+      "feedback": "Ndemanga"
+    },
+    "header": {
+      "viewLive": "Onani Live",
+      "welcome": "Takulandilani,",
+      "logout": "Tulukani",
+      "builder": "Womanga",
+      "livePortfolio": "Live Portfolio",
+      "live": "Khalani ndi moyo"
+    },
+    "logoutModal": {
+      "title": "Tulukani",
+      "message": "Kodi mukutsimikiza kuti mukufuna kutuluka muakaunti yanu? ",
+      "cancel": "Letsani",
+      "confirm": "Inde, tulukani"
+    },
+    "slugModal": {
+      "title": "Sankhani Mbiri Yanu URL",
+      "message": "URL iyi ikhala ulalo wapadera wa mbiri yanu. ",
+      "slugPlaceholder": "dzina lanu",
+      "availability": "kupezeka:",
+      "available": "Likupezeka",
+      "unavailable": "Palibe",
+      "checking": "Kuyang'ana...",
+      "mustFormat": "Itha kukhala ndi zilembo, manambala, ndi mizere (-)",
+      "cancel": "Letsani",
+      "save": "Sungani URL",
+      "usernameUrl": "Ulalo wolowera",
+      "helpText": "Zilembo zing'onozing'ono, manambala, ndi mizere. ",
+      "validation": {
+        "empty": "Slug sangakhale wopanda kanthu.",
+        "min3": "zilembo zosachepera 3.",
+        "max30": "Zilembo zosapitirira 30.",
+        "format": "Zilembo zing'onozing'ono zokha, manambala, ndi mizere (-). "
+      }
+    },
+    "loadingPortfolio": "Tikutsegula zapotifolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Selamat Pagi",
+        "afternoon": "Selamat Siang",
+        "evening": "Selamat Sore",
+        "night": "Selamat Malam"
+      },
+      "welcome": {
+        "hi": "Hai,",
+        "creator": "Kreator",
+        "desc1": "Selamat datang di dashboard DevFolio. Portfolio Anda sudah dilihat oleh",
+        "desc2": "orang. Terus berkarya!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Pengunjung",
+        "projectViews": "Dilihat (Projek)",
+        "activeSessions": "Sesi Aktif",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Setup Progress",
+        "completed": "Portfolio Anda sudah lengkap! 🎉",
+        "inProgress": "Langkah menuju portfolio sempurna.",
+        "profile": {
+          "title": "Lengkapi Profil",
+          "desc": "Tambahkan nama, bio, dan foto profil."
+        },
+        "section": {
+          "title": "Tambah Section",
+          "desc": "Aktifkan minimal 1 section di portfolio."
+        },
+        "project": {
+          "title": "Tambah Projek",
+          "desc": "Masukkan minimal 1 projek terbaik Anda."
+        },
+        "publish": {
+          "title": "Publish Portfolio",
+          "desc": "Atur custom URL agar bisa diakses publik."
+        }
+      },
+      "topProjects": {
+        "title": "Projek Terpopuler",
+        "desc": "Performa karya Anda di mata pengunjung.",
+        "viewAll": "Lihat Semua",
+        "empty": "Belum ada data view untuk projek Anda."
+      }
+    },
+    "themes": {
+      "title": "Ma templates & Mitu",
+      "subtitle": "Sinthani makonda ndi mawonekedwe a mbiri yanu yapagulu.",
+      "reset": "Bwezeretsani Zofikira",
+      "save": "Sungani Zosintha",
+      "saving": "Kusunga...",
+      "chooseTemplate": "Sankhani Chinsinsi",
+      "primaryColor": "Mtundu Woyambirira",
+      "typography": "Kujambula",
+      "appearance": "Maonekedwe",
+      "corners": "Makona & Malire",
+      "successTitle": "Kupambana",
+      "successMessage": "Zokonda zamutu zasinthidwa bwino",
+      "errorTitle": "Cholakwika",
+      "errorMessage": "Zalephera kusunga zokonda zamutu",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Mapangidwe oyera komanso osavuta omwe amayang'ana zomwe zili."
+        },
+        "developerDark": {
+          "name": "Wopanga Mdima",
+          "desc": "Mutu wakuda ndi woyenera kuwonetsa ma code ndi masitaki aukadaulo."
+        },
+        "creative": {
+          "name": "Wopanga",
+          "desc": "Zowoneka bwino komanso zokongola za opanga ndi opanga."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Kapangidwe kaukadaulo komanso kokhazikika kwa akatswiri abizinesi."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Maonekedwe amakono a gridi ya Apple omwe amawunikira maluso osiyanasiyana bwino."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Malire olimba komanso mitundu yosiyana kwambiri ndi mawonekedwe amakono, osagwirizana."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Magalasi owazidwa ndi magalasi owoneka bwino amtundu wa UI wamakono."
+        },
+        "linkInBio": {
+          "name": "Link mu Bio",
+          "desc": "Mawonekedwe oyima owoneka bwino amakongoletsedwa ndi zowonera zam'manja ndi ma TV."
+        }
+      },
+      "appearances": {
+        "light": "Kuwala",
+        "dark": "Chakuda",
+        "system": "Dongosolo"
+      },
+      "cornersOptions": {
+        "sharp": "Chakuthwa",
+        "rounded": "Wozungulira",
+        "pill": "Piritsi"
+      }
+    },
+    "feedback": {
+      "title": "Tumizani Ndemanga",
+      "subtitle": "Tithandizeni kuti tichite bwino popereka malingaliro, kudzudzula, kapena kunena zolakwika pa pulogalamuyi.",
+      "categoryLabel": "Feedback Category",
+      "messageLabel": "Tsatanetsatane wa Mauthenga",
+      "messagePlaceholder": "Ndiuzeni mwatsatanetsatane za mayankho omwe mukufuna kupereka...",
+      "imageLabel": "Zomata Zithunzi (Mwasankha)",
+      "imagePlaceholder": "Dinani kuti mukweze chithunzi kapena chithunzi",
+      "submitting": "Kutumiza...",
+      "submitBtn": "Tumizani Ndemanga",
+      "categories": {
+        "suggestion": "Malingaliro & Malingaliro",
+        "bug": "Lipoti la Bug / Zolakwa",
+        "criticism": "Kutsutsa",
+        "other": "Ena"
+      },
+      "imageErrorTitle": "Zolakwika",
+      "imageErrorMessage": "Mafayilo ena amakanidwa chifukwa sagwirizana ndi mawonekedwe azithunzi (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Kupambana",
+      "successMessage": "Zikomo chifukwa cha ndemanga zanu! Lipoti latumizidwa.",
+      "submitErrorTitle": "Zalephera",
+      "submitErrorMessage": "Panali vuto potumiza ndemanga. Chonde yesaninso."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Za ine",
+      "skills": "Maluso",
+      "projects": "Ntchito",
+      "workExperience": "Kazoloweredwe kantchito",
+      "orgExperience": "Zochitika Pagulu",
+      "education": "Maphunziro",
+      "certifications": "Maphunziro & Certification",
+      "contact": "Ndiuzeni Ine"
+    },
+    "editor": {
+      "profileInfo": "Zambiri Zambiri",
+      "saving": "Kusunga...",
+      "profilePhoto": "Chithunzi Chojambula",
+      "clickToUpload": "Dinani kuti mukweze (JPG, PNG)",
+      "fullName": "Dzina lonse",
+      "fullNamePlaceholder": "mwachitsanzo ",
+      "bio": "Zamoyo",
+      "bioPlaceholder": "Fullstack Developer ndi chidwi chopanga mapulogalamu amakono apaintaneti...",
+      "location": "Malo",
+      "locationPlaceholder": "mwachitsanzo ",
+      "gender": "Jenda",
+      "selectGender": "Sankhani Gender",
+      "male": "Mwamuna",
+      "female": "Mkazi",
+      "custom": "Mwambo",
+      "customPlaceholder": "Lembani jenda lanu...",
+      "uploadCv": "Kwezani CV",
+      "cvFormat": "(DOC kapena PDF)",
+      "preview": "Kuwoneratu",
+      "remove": "Chotsani",
+      "clickToUploadCv": "Dinani kuti mukweze PDF kapena DOC",
+      "sections": "Magawo",
+      "removeSelected": "Chotsani Zosankhidwa",
+      "confirmRemove": "Tsimikizani Chotsani",
+      "addSection": "Onjezani Gawo",
+      "addAllSections": "Onjezani Magawo Onse",
+      "noSections": "Palibe magawo panobe",
+      "clickToAdd": "Dinani \"+ Add Gawo\" kuti tiyambe",
+      "selectAll": "Sankhani Zonse",
+      "selected": "Zosankhidwa",
+      "dragToReorder": "Kokani kuti mukonzenso magawo",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Onjezani magawo kuti mupange mbiri yanu",
+      "now": "Tsopano",
+      "current": "Panopa",
+      "noExpiry": "Palibe Kutha Ntchito",
+      "see": "Mwaona",
+      "position": "Udindo",
+      "degree": "Digiri",
+      "certification": "Chitsimikizo",
+      "sectionsForm": {
+        "about": {
+          "label": "Kufotokozera za inu nokha",
+          "placeholder": "Tiuzeni za inuyo, mbiri yanu, zokonda zanu ndi luso lanu..."
+        },
+        "skills": {
+          "addPlaceholder": "Lembani luso kenako dinani Enter..."
+        },
+        "projects": {
+          "title": "Dzina la Project",
+          "titlePlaceholder": "Dzina la polojekiti...",
+          "url": "Ulalo wa polojekiti",
+          "description": "Kufotokozera",
+          "descriptionPlaceholder": "Kufotokozera mwachidule za polojekiti...",
+          "uploadThumbnail": "Chithunzi cha Project",
+          "addProject": "Onjezani Project",
+          "projectNum": "Ntchito #",
+          "currentProject": "Iyi ndi pulojekiti yomwe ndikugwira"
+        },
+        "work": {
+          "company": "Kampani/Bungwe",
+          "companyPlaceholder": "Dzina Lakampani...",
+          "position": "Udindo/Mutu",
+          "positionPlaceholder": "Udindo wanu...",
+          "employmentType": "Mtundu wa ntchito",
+          "location": "Malo",
+          "locationPlaceholder": "City, Dziko...",
+          "startDate": "Yambani",
+          "endDate": "Zatha",
+          "currentWork": "Ndikugwirabe ntchito pakadali pano",
+          "description": "Kufotokozera",
+          "descriptionPlaceholder": "Mafotokozedwe a ntchito ndi maudindo...",
+          "skills": "Luso",
+          "addExperience": "Onjezani Zochitika Pantchito",
+          "experienceNum": "Zochitika #",
+          "dateError": "Tsiku lomaliza silingakhale loyambirira kuposa tsiku loyambira"
+        },
+        "org": {
+          "organization": "Dzina la bungwe",
+          "orgPlaceholder": "BEM University...",
+          "role": "Udindo/Maudindo",
+          "rolePlaceholder": "Division Head...",
+          "addOrg": "Onjezani Zochitika Pagulu",
+          "orgNum": "Bungwe #"
+        },
+        "edu": {
+          "institution": "Mabungwe a Maphunziro",
+          "institutionPlaceholder": "Dzina la sukulu kapena sukulu...",
+          "degree": "Mutu",
+          "degreePlaceholder": "S1, sekondale, etc ...",
+          "major": "Dipatimenti/Munda wa Maphunziro",
+          "majorPlaceholder": "Informatics Engineering...",
+          "gpa": "GPA (posankha)",
+          "currentStudy": "Ndikuphunzirabe pano",
+          "descriptionPlaceholder": "Zochita ndi zopambana pamaphunziro...",
+          "addEdu": "Onjezani Maphunziro",
+          "eduNum": "Maphunziro #"
+        },
+        "cert": {
+          "name": "Dzina la Certification / Maphunziro",
+          "namePlaceholder": "Dzina lachiphaso...",
+          "issuer": "Wofalitsa",
+          "issuerPlaceholder": "Malo osindikizira...",
+          "issueDate": "Kuyambira (Tsiku Losindikiza)",
+          "issueDatePlaceholder": "Sankhani tsiku lofalitsa...",
+          "expiryDate": "Zatha (Nthawi Yovomerezeka)",
+          "expiryDatePlaceholder": "Sankhani tsiku lotha ntchito...",
+          "noExpiry": "Satifiketiyi ilibe tsiku lotha ntchito",
+          "url": "Ulalo wotsimikizira",
+          "uploadThumbnail": "Chithunzi cha Satifiketi / Maphunziro",
+          "uploadThumbnailLimit": "Kwezani chithunzi cha satifiketi (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Onjezani Chitsimikizo",
+          "certNum": "Chitsimikizo #"
+        },
+        "contact": {
+          "contactNum": "Contact #",
+          "platform": "nsanja",
+          "displayText": "Onetsani Mawu",
+          "displayTextPlaceholder": "mwachitsanzo, you@email.com kapena @username",
+          "url": "Ulalo (URL)",
+          "urlPlaceholderWhatsapp": "mwachitsanzo, 62812... (popanda kutsogolera 0)",
+          "urlPlaceholderEmail": "mwachitsanzo, you@email.com",
+          "urlPlaceholderWebsite": "mwachitsanzo, https://...",
+          "urlPlaceholderDefault": "mwachitsanzo, dzina lolowera",
+          "addContact": "Onjezani Contact"
+        },
+        "common": {
+          "months": {
+            "1": "Januwale",
+            "2": "February",
+            "3": "March",
+            "4": "Epulo",
+            "5": "Mayi",
+            "6": "June",
+            "7": "July",
+            "8": "Ogasiti",
+            "9": "September",
+            "10": "October",
+            "11": "Novembala",
+            "12": "December"
+          },
+          "month": "Mwezi",
+          "year": "Chaka",
+          "invalidDate": "Mwezi Wotsiriza Wolakwika",
+          "words": "mawu"
+        }
+      },
+      "sure": "Zedi",
+      "deletePhotoTitle": "Chotsani Mbiri Yanu",
+      "deletePhotoMessage": "Mukutsimikiza kuchotsa chithunzi chambirichi?",
+      "cancel": "Letsani",
+      "delete": "Chotsani"
+    },
+    "cropper": {
+      "chooseBackground": "Sankhani Mbiri Yakale",
+      "cropPhoto": "Dulani Chithunzi Chanu",
+      "useOriginal": "Gwiritsani ntchito choyambirira",
+      "backgroundPresets": "Background Presets",
+      "none": "Palibe",
+      "uploadBackground": "Kwezani Mbiri",
+      "cancel": "Letsani",
+      "savePhoto": "Sungani Chithunzi",
+      "zoom": "Makulitsa",
+      "rotationTilt": "Kuzungulira & Kupendekeka",
+      "resetRotation": "Bwezerani ku 0°",
+      "center": "Pakati",
+      "rotateLeft": "kuzungulira -90 °",
+      "rotateRight": "Sinthani +90 °",
+      "removeBackground": "Chotsani Mbiri",
+      "processing": "Mukukonza chithunzi chanu, chonde dikirani..."
+    },
+    "cvPreview": {
+      "title": "Chiwonetsero cha CV",
+      "downloadCv": "Tsitsani CV",
+      "download": "Tsitsani",
+      "wordCannotPreview": "Zolemba za Mawu (.doc/.docx) sizingawunikiretu mumsakatuli. ",
+      "downloadFile": "Tsitsani Fayilo ya CV",
+      "back": "Kubwerera",
+      "mobileMessage": "Chonde tsitsani fayilo ya CV kuti muwoneretu.",
+      "preview": "Onani CV",
+      "wordPreviewTitle": "Mawu Document Preview",
+      "wordPreviewMessage": "Zolemba za Mawu (.doc/.docx) sizingawunikiretu mumsakatuli. Chonde tsitsani fayiloyi kuti muwone."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Lembani mwachidule za inu nokha, zokonda zanu, ndi zolinga za ntchito..."
+    },
+    "skills": {
+      "placeholder": "Lembani luso la dzina...",
+      "add": "Onjezani",
+      "enterToAdd": "Dinani Enter kuti muwonjezere",
+      "noSkills": "Palibe luso lomwe lawonjezeredwa panobe."
+    },
+    "projects": {
+      "projectName": "Dzina la Project",
+      "projectNamePlaceholder": "mwachitsanzo ",
+      "projectUrl": "Ulalo wa polojekiti",
+      "projectUrlPlaceholder": "https://..",
+      "duration": "Kutalika",
+      "startMonth": "Mwezi Woyambira",
+      "startYear": "Chaka Choyambira",
+      "endMonth": "Mwezi Womaliza",
+      "endYear": "Chaka Chomaliza",
+      "currentlyWorking": "Panopa akugwira ntchito pa izi",
+      "description": "Kufotokozera",
+      "descriptionPlaceholder": "Fotokozani ntchito, udindo wanu, ndi zomwe mwakwaniritsa...",
+      "technologies": "Tekinoloje Zogwiritsidwa Ntchito",
+      "addProject": "Onjezani Project",
+      "image": "Chithunzi cha Project",
+      "removeImage": "Chotsani Chithunzi",
+      "uploadImage": "Dinani kuti mukweze chithunzi"
+    },
+    "work": {
+      "company": "Kampani/Bungwe",
+      "companyPlaceholder": "Dzina Lakampani...",
+      "role": "Udindo/Maudindo",
+      "rolePlaceholder": "Udindo wanu...",
+      "jobType": "Mtundu wa Ntchito",
+      "selectJobType": "Sankhani mtundu",
+      "fullTime": "Nthawi yonse",
+      "partTime": "Mwakanthawi",
+      "contract": "Mgwirizano",
+      "internship": "Internship",
+      "freelance": "Waufulu",
+      "location": "Malo",
+      "locationPlaceholder": "mwachitsanzo ",
+      "duration": "Kutalika",
+      "currentlyWorking": "Pano ndikugwira ntchito pano",
+      "description": "Kutambasulira kwa ntchito",
+      "descriptionPlaceholder": "Fotokozani udindo wanu waukulu ndi zomwe mwakwaniritsa...",
+      "skills": "Maluso Enieni",
+      "addExperience": "Onjezani Zochitika"
+    },
+    "org": {
+      "organization": "Dzina la bungwe",
+      "organizationPlaceholder": "Dzina la bungwe...",
+      "role": "Udindo/Maudindo",
+      "rolePlaceholder": "mwachitsanzo ",
+      "duration": "Kutalika",
+      "periodFormat": "kapena Mtundu Waulere (monga 2020 - 2022)",
+      "periodPlaceholder": "mwachitsanzo ",
+      "currentlyActive": "Pakali pano",
+      "description": "Kufotokozera za Ntchito",
+      "descriptionPlaceholder": "Fotokozani zochita zanu kapena zopereka zanu...",
+      "addExperience": "Onjezani Zochitika"
+    },
+    "education": {
+      "institution": "Dzina la bungwe",
+      "institutionPlaceholder": "Dzina la sukulu kapena yunivesite...",
+      "degree": "Digiri / Level",
+      "degreePlaceholder": "mwachitsanzo ",
+      "major": "Yaikulu/Munda wa Maphunziro",
+      "majorPlaceholder": "mwachitsanzo ",
+      "gpa": "GPA / Gawo",
+      "gpaPlaceholder": "mwachitsanzo ",
+      "duration": "Kutalika kwa Maphunziro",
+      "periodFormat": "kapena Mtundu Waulere (monga 2018 - 2022)",
+      "periodPlaceholder": "mwachitsanzo ",
+      "currentlyStudying": "Panopa ndikuphunzira pano",
+      "description": "Zochita / Ulemu",
+      "descriptionPlaceholder": "Fotokozani zochitika zamaphunziro, mabungwe, kapena ulemu womwe walandilidwa...",
+      "addEducation": "Onjezani Maphunziro"
+    },
+    "cert": {
+      "name": "Dzina la Certification",
+      "namePlaceholder": "mwachitsanzo ",
+      "issuer": "Kutulutsa Bungwe",
+      "issuerPlaceholder": "mwachitsanzo ",
+      "issueDate": "Tsiku losindikiza",
+      "expiryDate": "Zovomerezeka Mpaka",
+      "noExpiry": "Chidziwitsochi sichimatha",
+      "yearPlaceholder": "kapena Chaka (monga 2023)",
+      "credentialUrl": "Ulalo wotsimikizira",
+      "credentialUrlPlaceholder": "https://..",
+      "skills": "Maluso Ogwirizana",
+      "addCertification": "Onjezani Chitsimikizo",
+      "image": "Chithunzi/Logo",
+      "removeImage": "Chotsani Chithunzi",
+      "uploadImage": "Dinani kuti mukweze chithunzi"
+    },
+    "common": {
+      "months": {
+        "1": "Januwale",
+        "2": "February",
+        "3": "March",
+        "4": "Epulo",
+        "5": "Mayi",
+        "6": "June",
+        "7": "July",
+        "8": "Ogasiti",
+        "9": "September",
+        "10": "October",
+        "11": "Novembala",
+        "12": "December"
+      },
+      "month": "Mwezi",
+      "year": "Chaka",
+      "invalidDate": "Mwezi Wotsiriza Wolakwika",
+      "words": "mawu"
+    }
+  },
+  "settings": {
+    "title": "Zokonda",
+    "subtitle": "Konzani mbiri yanu ya mbiri ndi zomwe mumakonda",
+    "tabs": {
+      "profile": "Mbiri yanga",
+      "security": "Chitetezo",
+      "personalization": "Kusintha makonda"
+    },
+    "profile": {
+      "infoTitle": "Zambiri Zoyambira",
+      "photo": "Chithunzi Chojambula",
+      "uploadPhoto": "Sinthani Chithunzi",
+      "fullName": "Dzina lonse",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Imelo adilesi",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Imelo imagwiritsidwa ntchito polowera ndipo simawonetsedwa poyera.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Sungani Mbiri",
+      "save": "Sungani Mbiri",
+      "accountCreated": "Akaunti Yapangidwa",
+      "lastLogin": "Kulowa Komaliza",
+      "oauthNotice": "Mbiriyi idalumikizidwa ndi akaunti yanu ya {{provider}}. Kusintha mbiri kuyenera kupangidwa kudzera mwa wothandizira."
+    },
+    "security": {
+      "changePassword": "Sinthani mawu achinsinsi",
+      "currentPassword": "Mawu Achinsinsi Apano",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Mawu Achinsinsi Atsopano",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Tsimikizirani Chinsinsi Chatsopano",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Pafupifupi zilembo 8",
+        "uppercase": "Chilembo chimodzi chachikulu (A-Z)",
+        "number": "Nambala imodzi (0-9)",
+        "symbol": "Chizindikiro chimodzi (!@#$%^&*)"
+      },
+      "passwordTitle": "Mawu achinsinsi",
+      "updatePassword": "Sinthani Achinsinsi",
+      "additionalSecurity": "Chitetezo chowonjezera",
+      "twoFactor": "Kutsimikizika kwazinthu ziwiri (2FA)",
+      "twoFactorDesc": "Tetezani akaunti yanu pogwiritsa ntchito khodi yowonjezera ya OTP.",
+      "activeSessions": "Magawo Ogwira Ntchito",
+      "activeSessionsDesc": "Lolani nthawi zonse kuyang'anira zida zomwe zalowetsedwa.",
+      "publicVisibility": "Kuwonekera Pagulu",
+      "hideFromSearch": "Bisani Portfolio kuchokera ku Search Engines",
+      "hideFromSearchDesc": "Letsani Google kuti isalondole tsamba lanu lambiri.",
+      "disable2fa": {
+        "title": "Letsani 2FA",
+        "description": "Kodi mukutsimikiza kuti mukufuna kuzimitsa kutsimikizika kwazinthu ziwiri?",
+        "confirmPasswordLabel": "Lowetsani mawu achinsinsi anu kuti mutsimikizire",
+        "currentPasswordPlaceholder": "Mawu achinsinsi apano",
+        "cancelButton": "Letsani",
+        "confirmButton": "Letsani 2FA",
+        "incorrectPassword": "Mawu achinsinsi olakwika."
+      },
+      "setup2fa": {
+        "step1Title": "1. Jambulani Khodi ya QR",
+        "step1Desc": "Tsegulani pulogalamu yanu yotsimikizira ndikusanthula nambala ya QR iyi:",
+        "unableToScan": "Simungathe kusanthula? Gwiritsani ntchito kiyi yokhazikitsa",
+        "step2Title": "2. Tsimikizani Khodi",
+        "step2Desc": "Lowetsani manambala 6 opangidwa ndi pulogalamu yanu:",
+        "cancelButton": "Letsani",
+        "enableButton": "Thandizani 2FA",
+        "invalidLength": "Chonde lowetsani manambala 6.",
+        "invalidCode": "Khodi yotsimikizira yolakwika. Chonde yesaninso."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kuwongolera Zinenero",
+      "appLanguage": "Chiyankhulo cha App",
+      "layoutTitle": "Kamangidwe & Kalembedwe",
+      "layoutStyle": "Kapangidwe Kapangidwe",
+      "layoutModern": "Masitayilo Amakono (Zofikira)",
+      "layoutClassic": "Classic Style",
+      "layoutMinimalist": "Mtundu wa Minimalist",
+      "fontSize": "Kukula Kwa Font ya App",
+      "fontSmall": "Wamng'ono",
+      "fontNormal": "Wamba (Zapakatikati)",
+      "fontLarge": "Chachikulu",
+      "searchLanguage": "Sakani chilankhulo...",
+      "languageNotFound": "Chinenero sichinapezeke",
+      "layoutElegant": "Kalembedwe Kakale"
+    },
+    "saveChanges": "Sungani Zosintha",
+    "cancel": "Letsani",
+    "appSettings": "Zokonda pa App",
+    "logoutConfirmTitle": "Tsimikizirani Kutuluka",
+    "logoutConfirmDesc": "Kodi mukutsimikiza kuti mukufuna kutuluka mudongosolo?",
+    "logoutConfirmYes": "Inde, tulukani",
+    "generalError": "An error occurred. ",
+    "success": "Kupambana",
+    "preferencesSaved": "Zokonda pa pulogalamu zasungidwa bwino.",
+    "header": "Zokonda pa Ntchito",
+    "logout": {
+      "title": "Chitsimikizo Chotuluka",
+      "message": "Kodi mukutsimikiza kuti mukufuna kutuluka mudongosolo?",
+      "confirm": "Inde, tulukani"
+    },
+    "about": {
+      "title": "Za Ntchito",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "Baibulo",
+      "description": "DevFolio ndi nsanja yamakono yopangira zida zopangidwira opanga, opanga, ndi akatswiri opanga. ",
+      "license": "License & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Ufulu wonse ndi wotetezedwa.",
+      "developer": "Wopanga Mapulogalamu",
+      "developedBy": "Yopangidwa ndi Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Chotsani Akaunti Yonse",
+      "menuItem": "Chotsani Akaunti",
+      "successTitle": "Kupambana",
+      "successMessage": "Imelo yotsimikizira kufufutidwa kwa akaunti yatumizidwa.",
+      "errorTitle": "Zalephera",
+      "errorMessage": "Zalephera kutumiza imelo yotsimikizira.",
+      "confirmationMessage": "Kodi mukutsimikiza kuti mukufuna kufufuta akaunti yanu mpaka kalekale?",
+      "warningMessage1": "Mudzalandira imelo yotsimikizira kufufutidwa kwa akaunti.",
+      "warningMessage2": "Ngati zitsimikiziridwa, deta yonse (mbiri, mapulojekiti, ziwerengero) zidzachotsedwa kwamuyaya ndipo sizingabwezedwe.",
+      "cancel": "Letsani",
+      "confirm": "Chitsimikizo"
+    },
+    "toasts": {
+      "toastError": "Cholakwika",
+      "toastSuccess": "Kupambana",
+      "toastSetup2FAFailed": "Zalephera kukhazikitsa 2FA. Chonde yesaninso.",
+      "toast2FAEnabled": "Kutsimikizika kwazinthu ziwiri kwayatsidwa.",
+      "toast2FADisabled": "Kutsimikizika kwazinthu ziwiri kwayimitsidwa.",
+      "toastSessionEnabled": "Kuyang'anira gawo kwayatsidwa.",
+      "toastSessionDisabled": "Kuyang'anira gawo kwayimitsidwa.",
+      "toastSetupKeyCopied": "Kiyi yokhazikitsira idakopereredwa ku bolodi."
+    },
+    "privacy": {
+      "title": "mfundo zazinsinsi",
+      "updateDate": "Kusinthidwa Komaliza: Julayi 15, 2026",
+      "intro": "Mfundo Zazinsinsi izi zikufotokozera momwe DevFolio imasonkhanitsira, kugwiritsa ntchito, ndi kuteteza zambiri zanu mukamagwiritsa ntchito ntchito zathu.",
+      "section1Title": "1. Zomwe Timasonkhanitsa",
+      "section1Content": "Timasonkhanitsa zambiri zomwe mumapereka mwachindunji mukamapanga akaunti, kupanga mbiri, komanso kulumikizana ndi thandizo lathu. ",
+      "section2Title": "2. Kugwiritsa Ntchito Chidziwitso",
+      "section2Content": "Zomwe mumadziwa zimagwiritsidwa ntchito, kukonza, ndi kupereka mawonekedwe azinthu zathu, komanso kulumikizana nanu zokhudzana ndi akaunti yanu kapena ntchito zanu.",
+      "section3Title": "3. Data Security",
+      "section3Content": "Timakhazikitsa njira zodzitetezera kuti titeteze zambiri zanu kuti zisapezeke, kuziwululidwa, kapena kuwonongeka."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Chizindikiro chotsimikizira sichinapezeke.",
+    "defaultError": "Zalephera kufufuta akaunti. Chizindikirocho chikhoza kutha.",
+    "loadingTitle": "Kuchotsa Akaunti...",
+    "loadingMessage": "Chonde dikirani, tikukonza pempho lanu.",
+    "successTitle": "Akaunti Yachotsedwa",
+    "successMessage": "Zonse zanu zachotsedwa kwamuyaya. Mudzatumizidwa kwina...",
+    "errorTitle": "Zalephera Kuchotsa Akaunti",
+    "backToHome": "Bwererani Kunyumba"
+  },
+  "forgotPassword": {
+    "minutes": "mphindi",
+    "seconds": "mphindi",
+    "success": "Kupambana",
+    "otpSentToEmail": "Khodi ya OTP yatumizidwa ku imelo yanu.",
+    "failed": "Zalephera",
+    "emailNotFound": "Imelo sinapezeke.",
+    "emailThirdParty": "Imelo iyi idalembetsedwa kudzera mwa munthu wina.",
+    "genericError": "Pali cholakwika. Chonde yesaninso.",
+    "otpVerified": "Khodi ya OTP yatsimikiziridwa bwino.",
+    "otpExpired": "Khodi ya OTP yatha. Chonde funsani khodi yatsopano.",
+    "otpInvalid": "Khodi ya OTP yolakwika.",
+    "otpResent": "Khodi yatsopano ya OTP yatumizidwa ku imelo yanu.",
+    "otpResendFailed": "Zalephera kutumizanso khodi ya OTP. Chonde yesaninso.",
+    "passwordResetSuccess": "Kukhazikitsanso mawu achinsinsi. Chonde lowani ndi mawu anu achinsinsi atsopano.",
+    "passwordResetFailed": "Zalephera kukhazikitsanso mawu achinsinsi.",
+    "backToLogin": "Bwererani ku Lowani",
+    "back": "Kumbuyo",
+    "title": "Mwayiwala Mawu Achinsinsi",
+    "description": "Lowetsani imelo adilesi yolembetsedwa pa akaunti yanu. Titumiza nambala ya OTP kuti tikhazikitsenso mawu achinsinsi.",
+    "emailLabel": "Imelo Adilesi",
+    "sending": "Kutumiza...",
+    "sendOtp": "Tumizani Khodi ya OTP",
+    "verifyOtpTitle": "Tsimikizirani Khodi ya OTP",
+    "verifyOtpDesc": "Lowetsani manambala 6 omwe atumizidwa ku imelo yanu kuti mutsimikizire kuti ndinu ndani.",
+    "verifying": "Kutsimikizira...",
+    "verifyOtp": "Tsimikizirani OTP",
+    "resending": "Kutumizanso...",
+    "resendOtp": "Tumizaninso OTP Khodi",
+    "resendCodeIn": "Tumizaninso khodi ku",
+    "newPasswordTitle": "Pangani Mawu Achinsinsi",
+    "newPasswordDesc": "Pangani mawu achinsinsi atsopano, amphamvu kuti muteteze akaunti yanu.",
+    "newPasswordLabel": "Mawu Achinsinsi Atsopano",
+    "min8Chars": "Ochepera zilembo 8",
+    "oneUpperCase": "1 zilembo zazikulu (A-Z)",
+    "oneNumber": "1 nambala (0-9)",
+    "oneSymbol": "1 chizindikiro (!@#$%^&*)",
+    "confirmPasswordLabel": "Tsimikizirani Achinsinsi",
+    "passwordsDoNotMatch": "Mawu achinsinsi sakufanana.",
+    "resettingPassword": "Kukhazikitsanso Achinsinsi...",
+    "resetPassword": "Bwezerani Achinsinsi"
+  },
+  "verifyEmail": {
+    "resendError": "Zalephera kutumizanso imelo yotsimikizira. Chonde yesaninso.",
+    "checkingStatus": "Tikuwona mawonekedwe otsimikizira...",
+    "title": "Yang'anani Imelo Yanu",
+    "description": "Takutumizirani imelo yotsimikizira ku adilesi yanu ya imelo. Chonde tsegulani imeloyo ndikudina batani la <1>\"Tsimikizira Akaunti\"</1> kuti mutsegule akaunti yanu.",
+    "stepsTitle": "Masitepe",
+    "step1": "Tsegulani imelo yanu (Gmail, Yahoo, ndi zina)",
+    "step2": "Yang'anani imelo yochokera ku DevFolio yokhala ndi mutu wakuti \"Account Activation\"",
+    "step3": "Dinani batani la \"Tsimikizirani Akaunti\" mu imelo",
+    "step4": "Mudzatumizidwa ku tsamba lolowera kuti mulowe",
+    "resendSuccess": "Imelo yotsimikizira yatumizidwanso!",
+    "resending": "Kutumizanso...",
+    "resendButton": "Tumizaninso Imelo Yotsimikizira",
+    "backToLogin": "Bwererani Kutsamba Lolowera",
+    "footerNote": "Simunalandire imelo? Yang'anani chikwatu cha <1>Spam</1> kapena <2>Junk</2> mu imelo yanu. Ulalo wotsimikizira ndi wovomerezeka <3>maola 24</3>."
+  }
+}

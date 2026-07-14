@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Perzhioù",
+    "templates": "Patromoù",
+    "pricing": "Prizioù",
+    "login": "Kevreañ",
+    "getStarted": "Kregiñ",
+    "title": "Dev Folio"
+  },
+  "landing": {
+    "badge": "Ar sevel portfoliooù diwezhañ evit an diorroerien",
+    "title1": "Sevel ho micherel",
+    "title2": "portfolio e",
+    "titleHighlight": "eilenn.",
+    "subtitle": "Pep tra a rankit evit diskouez ho barregezhioù, ho raktresoù hag ho skiant-prenet. ",
+    "startBuilding": "Kregiñ da sevel bremañ",
+    "viewTemplates": "Gwelet ar patromoù",
+    "fastDeployment": "Diorren buan",
+    "liveStatus": "username.dev a zo war-eeun !",
+    "featuresTitle": "Elfennoù galloudus",
+    "featuresSubtitle": "Kinnig a reomp deoc'h an holl ostilhoù a rankit evit bezañ disheñvel diouzh ar re all ha tapout ho labour hunvre.",
+    "feature1Title": "Saver riklañ ha leuskel",
+    "feature1Desc": "Aozañ aes ho rannoù, ho raktresoù hag ho skiant-prenet gant hor c'heflusker gwelus reizh.",
+    "feature2Title": "Temoù personelaet",
+    "feature2Desc": "Dibabit e-touez patromoù savet gant tud a vicher pe krouit ho neuz dibar deoc'h-c'hwi.",
+    "feature3Title": "Anavezadennoù e-pad an amzer gwirion",
+    "feature3Desc": "Heuliañ ho gweladennerien, gwelet peseurt raktresoù a dap ar muiañ a evezh, ha traoù all c'hoazh."
+  },
+  "auth": {
+    "welcomeBack": "Degemer mat en-dro",
+    "loginToContinue": "En em lugañ ouzh ho kont evit kenderc'hel",
+    "createAccount": "Krouiñ ur gont",
+    "joinCommunity": "Kemer perzh e miliadoù a ziorroerien all",
+    "fullName": "Anv-pluenn",
+    "fullNamePlaceholder": "da sk. ",
+    "email": "Chomlec'h postel",
+    "emailPlaceholder": "you@example.com",
+    "password": "Ger-tremen",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Soñjit ac'hanon",
+    "forgotPassword": "Ankounac'haet ho ker-tremen ?",
+    "signIn": "Kevreañ",
+    "signingIn": "En em lugañ...",
+    "signUp": "En em enskrivañ",
+    "signingUp": "En em enskrivañ...",
+    "noAccount": "N'hoc'h eus ket ur gont ?",
+    "hasAccount": "Ur gont hoc'h eus dija ?",
+    "passwordRules": {
+      "title": "Ret eo d'ar ger-tremen kaout :",
+      "length": "8 arouezenn da nebeutañ",
+      "uppercase": "Ul lizherenn vras ​​(A-Z)",
+      "number": "Un niver (0-9)",
+      "symbol": "Un arouez (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Saver portfolio",
+      "templates": "Patromoù ha temoù",
+      "settings": "Arventennoù",
+      "collapse": "Distrujañ ar varrenn gostez",
+      "overview": "Gwel dre vras",
+      "profileSettings": "Arventennoù ar profil",
+      "customDomain": "Domani personelaet",
+      "feedback": "Distro"
+    },
+    "header": {
+      "viewLive": "Gwelet war-eeun",
+      "welcome": "Degemer mat,",
+      "logout": "Digeriñ",
+      "builder": "Saver",
+      "livePortfolio": "Portfolio bev",
+      "live": "Bevañ"
+    },
+    "logoutModal": {
+      "title": "Digeriñ",
+      "message": "Ha sur oc'h e fell deoc'h mont kuit eus ho kont ? ",
+      "cancel": "Nullañ",
+      "confirm": "Ya, Digeriñ"
+    },
+    "slugModal": {
+      "title": "Dibabit chomlec'h ho portfolio",
+      "message": "An URL-mañ a vo al liamm dibar d'ho portfolio. ",
+      "slugPlaceholder": "hoc'h anv",
+      "availability": "Hegerz :",
+      "available": "Hegerz",
+      "unavailable": "N'eo ket hegerz",
+      "checking": "O gwiriañ...",
+      "mustFormat": "Ne c'hell kaout nemet lizherennoù, sifroù ha strinkennoù (-)",
+      "cancel": "Nullañ",
+      "save": "Enrollañ an URL",
+      "usernameUrl": "URL anv implijer",
+      "helpText": "Lizherennoù bihan, sifroù ha strinkennoù. ",
+      "validation": {
+        "empty": "Slug ne c'hell ket bezañ goullo.",
+        "min3": "3 arouezenn d'an nebeutañ.",
+        "max30": "30 arouezenn d'ar muiañ.",
+        "format": "Lizherennoù bihan, sifroù ha strinkennoù (-) hepken. "
+      }
+    },
+    "loadingPortfolio": "O kargañ roadennoù ar portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Demat mat",
+        "afternoon": "Goude merenn vat",
+        "evening": "Goude merenn vat",
+        "night": "Nozvezh vat"
+      },
+      "welcome": {
+        "hi": "Salud,",
+        "creator": "Krouer",
+        "desc1": "Degemer mat war ar penel DevFolio. Gwelet eo bet ho portfolio gant",
+        "desc2": "den. Derc'hel da labourat !",
+        "editPortfolio": "Kemmañ ar portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Holl ar weladennerien",
+        "projectViews": "Gwelet (Raktres)",
+        "activeSessions": "Emvod oberiant",
+        "totalLabel": "En holl"
+      },
+      "setup": {
+        "title": "Mont war-raok an arventennoù",
+        "completed": "Echu eo ho portfolio ! 🎉",
+        "inProgress": "Pazennoù evit ar portfolio parfet.",
+        "profile": {
+          "title": "Profil klok",
+          "desc": "Ouzhpennit ho anv, ho buhez hag ho luc'hskeudenn profil."
+        },
+        "section": {
+          "title": "Ouzhpennañ rannoù",
+          "desc": "Gweredekaat 1 rann eus ar portfolio da nebeutañ."
+        },
+        "project": {
+          "title": "Ouzhpennañ ur raktres",
+          "desc": "Lakait unan eus ho raktresoù gwellañ da nebeutañ."
+        },
+        "publish": {
+          "title": "Embann ar portfolio",
+          "desc": "Lakaat un URL personelaet evit ma c'hallfe an holl mont warni."
+        }
+      },
+      "topProjects": {
+        "title": "Raktresoù brudetañ",
+        "desc": "Perzhded ho labour dirak daoulagad ar weladennerien.",
+        "viewAll": "Gwelet an holl",
+        "empty": "N'eus roadennoù gwelet ebet evit ho raktres c'hoazh."
+      }
+    },
+    "themes": {
+      "title": "Patromoù ha temoù",
+      "subtitle": "Personelait neuz ha neuz ho portfolio foran.",
+      "reset": "Adderaouekaat dre ziouer",
+      "save": "Enrollañ ar c'hemmoù",
+      "saving": "Enrollañ...",
+      "chooseTemplate": "Dibab ur patrom",
+      "primaryColor": "Liv pennañ",
+      "typography": "Tipografiezh",
+      "appearance": "Diskouezadeg",
+      "corners": "Kornioù & Harzoù",
+      "successTitle": "Berzh",
+      "successMessage": "Hizivaet eo bet ar penndibaboù tem gant berzh",
+      "errorTitle": "Fazi",
+      "errorMessage": "C'hwitadenn war enrollañ dibarzhioù an tem",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Tresadenn glan ha simpl o lakaat ar gaoz war an endalc'hadoù."
+        },
+        "developerDark": {
+          "name": "Diorroer Teñval",
+          "desc": "Tem teñval mat-tre evit diskouez ar bernoù kod ha teknologiezh."
+        },
+        "creative": {
+          "name": "Krouiñ",
+          "desc": "Treuzfurmadur bev ha livus evit an treserien hag ar c'hrouerien."
+        },
+        "executive": {
+          "name": "Embregerezh",
+          "desc": "Lakaat micherel ha furmel evit micherourien an embregerezhioù."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Treuzfurmadur rouedad modern e doare Apple a laka war wel barregezhioù disheñvel en un doare efedus."
+        },
+        "neoBrutalism": {
+          "name": "Neo-brutalouriezh",
+          "desc": "Harzoù tev ha livioù keñveriet uhel evit ur sell a-feson ha dic'houest da vezañ digarezet."
+        },
+        "glassmorphism": {
+          "name": "Glassmorfiezh",
+          "desc": "Efedoù gwer skornet war livioù livioù evit un implijer modern eeun."
+        },
+        "linkInBio": {
+          "name": "Liamm e Bio",
+          "desc": "Treuzfurmadur a-serzh bihan, gwellaet evit ar skrammoù hezoug hag ar mediaoù sokial."
+        }
+      },
+      "appearances": {
+        "light": "Gouloù",
+        "dark": "Teñval",
+        "system": "Reizhiad"
+      },
+      "cornersOptions": {
+        "sharp": "Lemm",
+        "rounded": "Ront",
+        "pill": "Pilulenn"
+      }
+    },
+    "feedback": {
+      "title": "Kas evezhiadennoù",
+      "subtitle": "Sikourit ac'hanomp da wellaat anezhañ en ur ginnig alioù, burutelladennoù pe kelaouiñ fazioù war an arload-mañ.",
+      "categoryLabel": "Rummad evezhiadennoù",
+      "messageLabel": "Titouroù ar gemennadenn",
+      "messagePlaceholder": "Kontit din dre ar munud diwar-benn an evezhiadennoù a fell deoc'h treuzkas...",
+      "imageLabel": "Skeudenn stagañ (dibar)",
+      "imagePlaceholder": "Klikit evit pellgargañ ur skeudenn pe ur skramm",
+      "submitting": "O kas...",
+      "submitBtn": "Kas evezhiadennoù",
+      "categories": {
+        "suggestion": "Kinnigoù & Mennozhioù",
+        "bug": "Danevell fazi / fazi",
+        "criticism": "Burutelladennoù",
+        "other": "Ar re all"
+      },
+      "imageErrorTitle": "Fazi",
+      "imageErrorMessage": "Nac'het e vez restroù zo peogwir n'int ket skoret gant furmadoù skeudennoù (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Berzh",
+      "successMessage": "Trugarez evit ho evezhiadennoù ! Kaset eo bet an danevell.",
+      "submitErrorTitle": "C'hwitet",
+      "submitErrorMessage": "Degouezhet ez eus bet ur fazi e-pad ma oa o kas evezhiadennoù. Klaskit en-dro mar plij."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Diwar va fenn",
+      "skills": "Barregezhioù",
+      "projects": "Raktresoù",
+      "workExperience": "Barregezh war al labour",
+      "orgExperience": "Barregezh war an aozadur",
+      "education": "Desaverezh",
+      "certifications": "Stummadur ha testenioù",
+      "contact": "Kit e darempred ganin"
+    },
+    "editor": {
+      "profileInfo": "Titouroù ar profil",
+      "saving": "Enrollañ...",
+      "profilePhoto": "Skeudenn ar profil",
+      "clickToUpload": "Klikañ evit pellgargañ (JPG, PNG)",
+      "fullName": "Anv-pluenn",
+      "fullNamePlaceholder": "da sk. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Diorroer Fullstack gant ur c'hoant bras da sevel arloadoù web modern...",
+      "location": "Lec'h",
+      "locationPlaceholder": "da sk. ",
+      "gender": "Jener",
+      "selectGender": "Dibab ar reizh",
+      "male": "Par",
+      "female": "Parez",
+      "custom": "Diouzh muzul",
+      "customPlaceholder": "Skrivit ho reizh personelaet...",
+      "uploadCv": "Pellgargañ CV",
+      "cvFormat": "(DOC pe PDF)",
+      "preview": "Rakwelet",
+      "remove": "Lemel kuit",
+      "clickToUploadCv": "Klikit evit pellgargañ PDF pe DOC",
+      "sections": "Rannoù",
+      "removeSelected": "Dilemel an dibab",
+      "confirmRemove": "Kadarnaat Dilemel",
+      "addSection": "Ouzhpennañ ur rann",
+      "addAllSections": "Ouzhpennañ an holl rannoù",
+      "noSections": "Rann ebet c'hoazh",
+      "clickToAdd": "Klikit war \"+ Ouzhpennañ ur rann\" evit kregiñ",
+      "selectAll": "Dibab an holl",
+      "selected": "Dibabet",
+      "dragToReorder": "Riklañ evit adrenkañ ar rannoù",
+      "livePreview": "Rakwelet war-eeun",
+      "addSectionsToBuild": "Ouzhpennit rannoù evit sevel ho portfolio",
+      "now": "Bremañ",
+      "current": "A vremañ",
+      "noExpiry": "Dibenn ebet",
+      "see": "Gwelet",
+      "position": "Dalc'h",
+      "degree": "Derez",
+      "certification": "Testeni",
+      "sectionsForm": {
+        "about": {
+          "label": "Deskrivadur ac'hanoc'h hoc'h-unan",
+          "placeholder": "Komzit deomp diwar ho penn, ho buhez, ho dedennoù hag ho barregezhioù..."
+        },
+        "skills": {
+          "addPlaceholder": "Skrivit skill ha pouezit war Enter..."
+        },
+        "projects": {
+          "title": "Anv ar raktres",
+          "titlePlaceholder": "Anv ar raktres...",
+          "url": "URL ar raktres",
+          "description": "Deskrivadur",
+          "descriptionPlaceholder": "Deskrivadur berr eus ar raktres...",
+          "uploadThumbnail": "Skeudenn ar raktres",
+          "addProject": "Ouzhpennañ ur raktres",
+          "projectNum": "Raktresañ #",
+          "currentProject": "Ur raktres emaon o labourat warnañ eo hemañ"
+        },
+        "work": {
+          "company": "Embregerezh/Ajañs",
+          "companyPlaceholder": "Anv an embregerezh...",
+          "position": "Karg/Titl",
+          "positionPlaceholder": "Ho savboent...",
+          "employmentType": "Seurt labour |",
+          "location": "Lec'h",
+          "locationPlaceholder": "Kêr, Bro...",
+          "startDate": "Loc'hañ",
+          "endDate": "Echuet",
+          "currentWork": "Labourat a ran c'hoazh er mare-mañ",
+          "description": "Deskrivadur",
+          "descriptionPlaceholder": "Deskrivadur ar post ha kefridioù...",
+          "skills": "Barregezh",
+          "addExperience": "Ouzhpennañ barregezh war al labour",
+          "experienceNum": "Skiant-prenañ #",
+          "dateError": "Ne c'hall ket an deiziad echuiñ bezañ abredoc'h eget an deiziad loc'hañ"
+        },
+        "org": {
+          "organization": "Anv an aozadur",
+          "orgPlaceholder": "Skol-veur BEM...",
+          "role": "Roll/Post",
+          "rolePlaceholder": "Penn ar rann...",
+          "addOrg": "Ouzhpennañ barregezh war an aozadur",
+          "orgNum": "Aozadur #"
+        },
+        "edu": {
+          "institution": "Ensavadurioù deskadurezh",
+          "institutionPlaceholder": "Anv ar c'hampus pe ar skol...",
+          "degree": "Titl",
+          "degreePlaceholder": "S1, lise, hag all...",
+          "major": "Departamant/Tachenn ar studioù",
+          "majorPlaceholder": "Ijinouriezh an danvezioù...",
+          "gpa": "GPA (dibar)",
+          "currentStudy": "Emaon o teskiñ amañ c'hoazh",
+          "descriptionPlaceholder": "Obererezhioù ha berzh e-pad ar studioù...",
+          "addEdu": "Ouzhpennañ Deskadurezh",
+          "eduNum": "Desaverezh #"
+        },
+        "cert": {
+          "name": "Anv an testeni / ar stummadur",
+          "namePlaceholder": "Anv an testeni...",
+          "issuer": "Embanner",
+          "issuerPlaceholder": "Ensavadur embann...",
+          "issueDate": "Kregiñ (Deiziad embann)",
+          "issueDatePlaceholder": "Dibabit an deiziad embann...",
+          "expiryDate": "Echu (amzer reizh)",
+          "expiryDatePlaceholder": "Dibabit an deiziad dibenn...",
+          "noExpiry": "N'eus deiziad termen ebet d'an testeni-mañ",
+          "url": "URL ar c'hredennoù",
+          "uploadThumbnail": "Testeni / Skeudenn stummañ",
+          "uploadThumbnailLimit": "Pellgargañ skeudenn an testeni (JPG/PNG/WEBP, 2MB d'ar muiañ)",
+          "addCert": "Ouzhpennañ un testeni",
+          "certNum": "# Testeni"
+        },
+        "contact": {
+          "contactNum": "Darempred #",
+          "platform": "Savenn",
+          "displayText": "Diskouez an destenn",
+          "displayTextPlaceholder": "da sk., you@mail.com pe @username",
+          "url": "Liamm (URL)",
+          "urlPlaceholderWhatsapp": "da sk., 62812... (hep 0)",
+          "urlPlaceholderEmail": "da sk., c'hwi@postel.com",
+          "urlPlaceholderWebsite": "da sk., https://...",
+          "urlPlaceholderDefault": "da sk., anv implijer",
+          "addContact": "Ouzhpennañ un darempred"
+        },
+        "common": {
+          "months": {
+            "1": "Genver",
+            "2": "C'hwevrer",
+            "3": "Meurzh",
+            "4": "Ebrel",
+            "5": "Gallout",
+            "6": "Mezheven",
+            "7": "Gouere",
+            "8": "Eost",
+            "9": "Gwengolo",
+            "10": "Here",
+            "11": "Du",
+            "12": "Kerzu"
+          },
+          "month": "Miz",
+          "year": "Bloaz",
+          "invalidDate": "Dibenn miz direizh",
+          "words": "gerioù"
+        }
+      },
+      "sure": "Sur",
+      "deletePhotoTitle": "Dilemel luc'hskeudenn ar profil ?",
+      "deletePhotoMessage": "Ha sur oc'h e fell deoc'h dilemel al luc'hskeudenn profil-mañ ?",
+      "cancel": "Nullañ",
+      "delete": "Dilemel"
+    },
+    "cropper": {
+      "chooseBackground": "Dibab an drekleur",
+      "cropPhoto": "Troc'hit ho luc'hskeudenn",
+      "useOriginal": "Implijout orin",
+      "backgroundPresets": "Raktreset an drekleur",
+      "none": "Hini ebet",
+      "uploadBackground": "Kargañ an drekleur",
+      "cancel": "Nullañ",
+      "savePhoto": "Enrollañ al luc'hskeudenn",
+      "zoom": "Zoom",
+      "rotationTilt": "Troiadur ha stouiñ",
+      "resetRotation": "Adderaouekaat da 0°",
+      "center": "Kreiz",
+      "rotateLeft": "Treiñ -90°",
+      "rotateRight": "Treiñ +90°",
+      "removeBackground": "Dilemel an drekleur",
+      "processing": "O treiñ ho skeudenn, gortozit mar plij..."
+    },
+    "cvPreview": {
+      "title": "Rakwelet ar CV",
+      "downloadCv": "Pellgargañ ar CV",
+      "download": "Pellgargañ",
+      "wordCannotPreview": "N'haller ket rakwelet an teulioù Word (.doc/.docx) en un doare orin er merdeer. ",
+      "downloadFile": "Pellgargañ ar restr CV",
+      "back": "Kein",
+      "mobileMessage": "Pellgargit ar restr CV evit he gwelet en a-raok.",
+      "preview": "Rakwelet ar CV",
+      "wordPreviewTitle": "Rakwelet an teulioù Word",
+      "wordPreviewMessage": "N'haller ket rakwelet an teulioù Word (.doc/.docx) en un doare orin er merdeer. Mar plij, pellgargit ar restr evit e welet."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Skrivit un deskrivadur berr diwar ho penn, hoc'h interestoù hag ho palioù micherel..."
+    },
+    "skills": {
+      "placeholder": "Skrivit anv ar varregezh...",
+      "add": "Ouzhpennañ",
+      "enterToAdd": "Pouezit war Enter evit ouzhpennañ",
+      "noSkills": "Barregezh ebet ouzhpennet c'hoazh."
+    },
+    "projects": {
+      "projectName": "Anv ar raktres",
+      "projectNamePlaceholder": "da sk. ",
+      "projectUrl": "URL ar raktres",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Pad",
+      "startMonth": "Miz Kregiñ",
+      "startYear": "Bloavezh kregiñ",
+      "endMonth": "Echu ar miz",
+      "endYear": "Fin ar bloaz",
+      "currentlyWorking": "Emaon o labourat war an dra-se",
+      "description": "Deskrivadur",
+      "descriptionPlaceholder": "Deskrivit ar raktres, ho perzh hag ho taolioù-arnod...",
+      "technologies": "Teknologiezhioù implijet",
+      "addProject": "Ouzhpennañ ur raktres",
+      "image": "Skeudenn ar raktres",
+      "removeImage": "Dilemel ar skeudenn",
+      "uploadImage": "Klikit evit pellgargañ ar skeudenn"
+    },
+    "work": {
+      "company": "Embregerezh/Ensavadur",
+      "companyPlaceholder": "Anv an embregerezh...",
+      "role": "Roll/Post",
+      "rolePlaceholder": "Ho savboent...",
+      "jobType": "Doare labour",
+      "selectJobType": "Dibab ar seurt",
+      "fullTime": "Amzer-da-zont",
+      "partTime": "Amzer-da-zont",
+      "contract": "Kevrat",
+      "internship": "Staj",
+      "freelance": "Emren",
+      "location": "Lec'h",
+      "locationPlaceholder": "da sk. ",
+      "duration": "Pad",
+      "currentlyWorking": "O labourat amañ bremañ",
+      "description": "Deskrivadur ar post",
+      "descriptionPlaceholder": "Deskrivit ho kefridioù pennañ hag ho berzh...",
+      "skills": "Barregezhioù resis",
+      "addExperience": "Ouzhpennañ barregezh"
+    },
+    "org": {
+      "organization": "Anv an aozadur",
+      "organizationPlaceholder": "Anv an aozadur...",
+      "role": "Roll/Post",
+      "rolePlaceholder": "da sk. ",
+      "duration": "Pad",
+      "periodFormat": "pe stumm frank (da sk. 2020 - 2022)",
+      "periodPlaceholder": "da sk. ",
+      "currentlyActive": "Oberiant bremañ",
+      "description": "Deskrivadur an obererezh",
+      "descriptionPlaceholder": "Deskrivit ho obererezhioù pe ho skoazelloù...",
+      "addExperience": "Ouzhpennañ barregezh"
+    },
+    "education": {
+      "institution": "Anv an ensavadur",
+      "institutionPlaceholder": "Anv ar skol pe ar skol-veur...",
+      "degree": "Diplom/Live",
+      "degreePlaceholder": "da sk. ",
+      "major": "Stummadur/Tachenn studi",
+      "majorPlaceholder": "da sk. ",
+      "gpa": "GPA / Notenn",
+      "gpaPlaceholder": "da sk. ",
+      "duration": "Padelezh ar c'helenn",
+      "periodFormat": "pe stumm frank (da sk. 2018 - 2022)",
+      "periodPlaceholder": "da sk. ",
+      "currentlyStudying": "O studiañ amañ bremañ",
+      "description": "Obererezhioù / Enorioù",
+      "descriptionPlaceholder": "Deskrivit obererezhioù akademek, aozadurioù pe enorioù resevet...",
+      "addEducation": "Ouzhpennañ Deskadurezh"
+    },
+    "cert": {
+      "name": "Anv an testeni",
+      "namePlaceholder": "da sk. ",
+      "issuer": "Aozadur embann",
+      "issuerPlaceholder": "da sk. ",
+      "issueDate": "Deiziad embann",
+      "expiryDate": "Talvoudus betek",
+      "noExpiry": "N'eo ket echuet an testeni-mañ",
+      "yearPlaceholder": "pe Bloavezh (da sk. 2023)",
+      "credentialUrl": "URL ar c'hredennoù",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Barregezhioù liammet",
+      "addCertification": "Ouzhpennañ un testeni",
+      "image": "Skeudenn/Logo",
+      "removeImage": "Dilemel ar skeudenn",
+      "uploadImage": "Klikit evit pellgargañ ar skeudenn"
+    },
+    "common": {
+      "months": {
+        "1": "Genver",
+        "2": "C'hwevrer",
+        "3": "Meurzh",
+        "4": "Ebrel",
+        "5": "Gallout",
+        "6": "Mezheven",
+        "7": "Gouere",
+        "8": "Eost",
+        "9": "Gwengolo",
+        "10": "Here",
+        "11": "Du",
+        "12": "Kerzu"
+      },
+      "month": "Miz",
+      "year": "Bloaz",
+      "invalidDate": "Dibenn miz direizh",
+      "words": "gerioù"
+    }
+  },
+  "settings": {
+    "title": "Arventennoù",
+    "subtitle": "Merañ ho profil hag ho penndibaboù portfolio",
+    "tabs": {
+      "profile": "Ma profil",
+      "security": "Surentez",
+      "personalization": "Personelaat"
+    },
+    "profile": {
+      "infoTitle": "Titouroù diazez",
+      "photo": "Skeudenn ar profil",
+      "uploadPhoto": "Cheñch al luc'hskeudenn",
+      "fullName": "Anv-pluenn",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Chomlec'h postel",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Implijet e vez ar postel evit kevreañ ha ne vez ket diskouezet foran.",
+      "portfolioUrl": "URL ar portfolio",
+      "saveProfile": "Enrollañ ar profil",
+      "save": "Enrollañ ar profil",
+      "accountCreated": "Krouet eo bet ar gont",
+      "lastLogin": "Kennaskañ diwezhañ",
+      "oauthNotice": "Kevreet eo ar profil-mañ ouzh ho kont {{provider}}. Ret eo kemmañ ar profil dre ar pourvezer servijoù."
+    },
+    "security": {
+      "changePassword": "Cheñch ar ger-tremen",
+      "currentPassword": "Ger-tremen bremanel",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Ger-tremen nevez",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Kadarnaat ar ger-tremen nevez",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "8 arouezenn da nebeutañ",
+        "uppercase": "Ul lizherenn vras ​​(A-Z)",
+        "number": "Un niver (0-9)",
+        "symbol": "Un arouez (!@#$%^&*)"
+      },
+      "passwordTitle": "Ger-tremen",
+      "updatePassword": "Hizivaat ar ger-tremen",
+      "additionalSecurity": "Diogelroez ouzhpenn",
+      "twoFactor": "Gwiriekaat div faktor (2FA)",
+      "twoFactorDesc": "Gwarezit ho kont en ur implijout ur c'hod OTP ouzhpenn.",
+      "activeSessions": "Emvodoù oberiant",
+      "activeSessionsDesc": "Aotreit atav evezhiañ an dafariadoù kevreet.",
+      "publicVisibility": "Gwelet foran",
+      "hideFromSearch": "Kuzhat ar portfolio dirak al luskerien enklask",
+      "hideFromSearchDesc": "Mirout ouzh Google da indeksañ ho pajenn portfolio foran.",
+      "disable2fa": {
+        "title": "Diweredekaat 2FA",
+        "description": "Ha sur oc'h e fell deoc'h diweredekaat an gwiriekaat div faktor ?",
+        "confirmPasswordLabel": "Lakait ho ker-tremen evit kadarnaat",
+        "currentPasswordPlaceholder": "Ger-tremen bremanel",
+        "cancelButton": "Nullañ",
+        "confirmButton": "Diweredekaat 2FA",
+        "incorrectPassword": "Ger-tremen direizh."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skannañ ar c'hod QR",
+        "step1Desc": "Digeriñ ho arload gwiriekaat ha skannañ ar c'hod QR da-heul :",
+        "unableToScan": "N'haller ket skaniñ ? Implijout an alc'hwez arventennañ",
+        "step2Title": "2. Gwiriañ ar c'hod",
+        "step2Desc": "Lakait ar c'hod 6 sifr krouet gant hoc'h arload :",
+        "cancelButton": "Nullañ",
+        "enableButton": "Gweredekaat 2FA",
+        "invalidLength": "Lakait ur c'hod 6 sifr mar plij.",
+        "invalidCode": "Kod gwiriekaat direizh. Klaskit en-dro mar plij."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontrolloù yezh",
+      "appLanguage": "Yezh an arload",
+      "layoutTitle": "Treuzfurmadur ha doareoù-skrivañ",
+      "layoutStyle": "Doare tresañ",
+      "layoutModern": "Doare modern (dre ziouer)",
+      "layoutClassic": "Doare klasel",
+      "layoutMinimalist": "Doare minimalist",
+      "fontSize": "Ment nodrezh an arload",
+      "fontSmall": "Bihan",
+      "fontNormal": "Normal (Kreiz)",
+      "fontLarge": "Ledan",
+      "searchLanguage": "Klask yezh...",
+      "languageNotFound": "Yezh n'eo ket bet kavet",
+      "layoutElegant": "Doare kaer"
+    },
+    "saveChanges": "Enrollañ ar c'hemmoù",
+    "cancel": "Nullañ",
+    "appSettings": "Arventennoù an arload",
+    "logoutConfirmTitle": "Kadarnaat an digevreañ",
+    "logoutConfirmDesc": "Ha sur oc'h e fell deoc'h mont kuit eus ar reizhiad ?",
+    "logoutConfirmYes": "Ya, Digeriñ",
+    "generalError": "Degouezhet ez eus bet ur fazi. ",
+    "success": "Berzh",
+    "preferencesSaved": "Enrollet eo bet penndibaboù an arload gant berzh.",
+    "header": "Arventennoù an arload",
+    "logout": {
+      "title": "Kadarnaat an digevreañ",
+      "message": "Ha sur oc'h e fell deoc'h mont kuit eus ar reizhiad ?",
+      "confirm": "Ya, Digeriñ"
+    },
+    "about": {
+      "title": "Diwar-benn an arload",
+      "subtitle": "Leurenn sevel portfolioù",
+      "version": "Doare",
+      "description": "DevFolio zo ur bladenn sevel portfolioù modern savet evit an diorroerien, an treserien hag ar c'hrouerien micherel. ",
+      "license": "Aotre & Gwirioù Eilañ",
+      "copyright": "© 2026 DevFolio Inc. An holl wirioù miret.",
+      "developer": "Diorroer",
+      "developedBy": "Savet gant Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Dilemel ar gont da viken",
+      "menuItem": "Dilemel ar gont",
+      "successTitle": "Berzh",
+      "successMessage": "Kaset ez eus bet ur postel kadarnaat dilemel ar gont.",
+      "errorTitle": "C'hwitet",
+      "errorMessage": "C'hwitet en deus kaset ur postel kadarnaat.",
+      "confirmationMessage": "Ha sur oc'h e fell deoc'h dilemel ho kont da viken ?",
+      "warningMessage1": "Resev a reot ur postel evit kadarnaat dilemel ho kont.",
+      "warningMessage2": "Mar bez kadarnaet e vo dilamet da viken an holl roadennoù (portfolio, raktresoù, stadegoù) ha ne c'hallont ket bezañ adtapout.",
+      "cancel": "Nullañ",
+      "confirm": "Kadarnaat"
+    },
+    "toasts": {
+      "toastError": "Fazi",
+      "toastSuccess": "Berzh",
+      "toastSetup2FAFailed": "C'hwitet war arventennañ 2FA. Klaskit en-dro mar plij.",
+      "toast2FAEnabled": "Gweredekaet eo bet an gwiriekaat daou faktor.",
+      "toast2FADisabled": "Diweredekaet eo bet an gwiriekaat daou faktor.",
+      "toastSessionEnabled": "Gweredekaet eo bet ar surentez oberiant eus an emvodoù.",
+      "toastSessionDisabled": "Diweredekaet eo bet ar evezhiadennoù oberiant eus an dalc'h.",
+      "toastSetupKeyCopied": "Alc'hwez arventennoù kopiet war ar c'hlipboard."
+    },
+    "privacy": {
+      "title": "Politikerezh prevezded",
+      "updateDate": "Hizivaet d'ar 15 a viz Kerzu 2026",
+      "intro": "Displegañ a ra ar Politikerezh Prevezded-mañ penaos e vez dastumet, implijet ha gwarezet ho titouroù personel gant DevFolio pa vez implijet hor servijoù.",
+      "section1Title": "1. Titouroù a zastumomp",
+      "section1Content": "Dastum a reomp titouroù a ginnigit war-eeun pa grouit ur gont, sevel ur portfolio ha pa vezit e darempred gant hor skoazell. ",
+      "section2Title": "2. Implij an titouroù",
+      "section2Content": "Implijet e vez ho titouroù evit merañ, mirout ha kinnig perzhioù hor servijoù, hag ivez evit kemennañ ganeoc'h diwar-benn ho kont pe ho servijoù.",
+      "section3Title": "3. Diogelroez ar roadennoù",
+      "section3Content": "Lakaat a reomp e pleustr meziantoù surentez dereat evit gwareziñ ho titouroù diouzh an tremen, an dizoloadenn pe an distruj hep aotre."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "N'eo ket bet kavet arouezenn kadarnaat.",
+    "defaultError": "C'hwitet eo bet dilemel ar gont. Marteze eo aet da get an token.",
+    "loadingTitle": "Dilemel ar gont...",
+    "loadingMessage": "Gortozit mar plij, emaomp o plediñ gant ho koulenn.",
+    "successTitle": "Diverket eo bet ar gont gant berzh",
+    "successMessage": "Dilamet eo bet ho roadennoù da viken. Adkaset e viot...",
+    "errorTitle": "C'hwitet war dilemel ar gont",
+    "backToHome": "Distreiñ d'ar gêr"
+  },
+  "forgotPassword": {
+    "minutes": "munutennoù",
+    "seconds": "eilennoù",
+    "success": "Berzh",
+    "otpSentToEmail": "Ur c'hod OTP zo bet kaset d'ho postel.",
+    "failed": "C'hwitet",
+    "emailNotFound": "N'eo ket bet kavet ur postel.",
+    "emailThirdParty": "Enrollet eo ar postel-mañ gant un tredeog.",
+    "genericError": "Ur fazi zo. Klaskit en-dro mar plij.",
+    "otpVerified": "Gwiriekaet eo bet ar c'hod OTP gant berzh.",
+    "otpExpired": "Diamzeret eo ar c'hod OTP. Goulennit ur c'hod nevez mar plij.",
+    "otpInvalid": "Kod OTP direizh.",
+    "otpResent": "Ur c'hod OTP nevez zo bet kaset d'ho postel.",
+    "otpResendFailed": "C'hwitet eo bet adkas ar c'hod OTP. Klaskit en-dro mar plij.",
+    "passwordResetSuccess": "Adderaouekaet eo bet ar ger-tremen gant berzh. En em lugañ gant ho ker-tremen nevez mar plij.",
+    "passwordResetFailed": "C'hwitet eo bet adderaouekaat ar ger-tremen.",
+    "backToLogin": "Distreiñ d'ar c'hennask",
+    "back": "En-dro",
+    "title": "Ankounac'haet ar ger-tremen",
+    "description": "Lakait ar chomlec'h postel enrollet war ho kont. Kas a raimp ur c'hod OTP evit adderaouekaat ar ger-tremen.",
+    "emailLabel": "Chomlec'h postel",
+    "sending": "O kas...",
+    "sendOtp": "Kas ur c'hod OTP",
+    "verifyOtpTitle": "Gwiriañ ar c'hod OTP",
+    "verifyOtpDesc": "Lakait ar c'hod 6 sifr a zo bet kaset d'ho postel evit kadarnaat ho identelezh.",
+    "verifying": "O gwiriañ...",
+    "verifyOtp": "Gwiriañ OTP",
+    "resending": "O adkas...",
+    "resendOtp": "Adkas ar c'hod OTP",
+    "resendCodeIn": "Adkas ar c'hod e",
+    "newPasswordTitle": "Krouiñ ur ger-tremen nevez",
+    "newPasswordDesc": "Krouit ur ger-tremen nevez ha kreñv evit gwareziñ ho kont.",
+    "newPasswordLabel": "Ger-tremen nevez",
+    "min8Chars": "8 arouezenn d'an nebeutañ",
+    "oneUpperCase": "1 lizherenn vras ​​(A-Z)",
+    "oneNumber": "1 niver (0-9)",
+    "oneSymbol": "1 arouez (!@#$%^&*)",
+    "confirmPasswordLabel": "Kadarnaat ar ger-tremen",
+    "passwordsDoNotMatch": "Ne glot ket ar gerioù-tremen.",
+    "resettingPassword": "Adderaouekaat ar ger-tremen...",
+    "resetPassword": "Adderaouekaat ar ger-tremen"
+  },
+  "verifyEmail": {
+    "resendError": "C'hwitet eo bet adkas ur postel gwiriekaat. Klaskit en-dro mar plij.",
+    "checkingStatus": "O gwiriañ stad ar gwiriekaat...",
+    "title": "Gwiriañ ho posteloù",
+    "description": "Kaset hon eus ur postel kadarnaat d'ho chomlec'h postel. Digeriñ ar postel ha klikañ war ar bouton <1>\"Kadarnaat ar gont\"</1> evit gweredekaat ho kont.",
+    "stepsTitle": "Pazennoù",
+    "step1": "Digeriñ ho arload postel (Gmail, Yahoo, h.a.)",
+    "step2": "Klask ur postel digant DevFolio gant an danvez \"Gweredekaat ar gont\"",
+    "step3": "Klikit war ar bouton \"Kadarnaat ar gont\" er postel",
+    "step4": "Kaset e viot d'ar bajenn kennaskañ evit mont e-barzh",
+    "resendSuccess": "Adkaset eo bet ar postel kadarnaat !",
+    "resending": "O adkas...",
+    "resendButton": "Adkas ur postel gwiriekaat",
+    "backToLogin": "Distreiñ d'ar bajenn kennaskañ",
+    "footerNote": "N'hoc'h eus ket resevet ar postel ? Gwiriit an teuliad <1>Spam</1> pe <2>Lastez</2> en ho postel. Talvoudus eo al liamm gwiriekaat e-pad <3>24 eurvezh</3>."
+  }
+}

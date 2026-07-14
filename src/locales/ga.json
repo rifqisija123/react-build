@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Gnéithe",
+    "templates": "Teimpléid",
+    "pricing": "Praghsáil",
+    "login": "Logáil isteach",
+    "getStarted": "Faigh Tosaigh",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "An tógálaí punainne deiridh d'fhorbróirí",
+    "title1": "Tóg do gairmiúla",
+    "title2": "punann i",
+    "titleHighlight": "soicind.",
+    "subtitle": "Gach rud a theastaíonn uait chun do scileanna, tionscadail agus taithí a thaispeáint. ",
+    "startBuilding": "Tosaigh ag Tógáil Anois",
+    "viewTemplates": "Féach ar Teimpléid",
+    "fastDeployment": "Imscaradh Fast",
+    "liveStatus": "Tá ainm úsáideora.dev beo!",
+    "featuresTitle": "Gnéithe cumhachtacha",
+    "featuresSubtitle": "Cuirimid na huirlisí go léir a theastaíonn uait chun seasamh amach ón slua agus chun do phost aisling a thabhairt i dtír.",
+    "feature1Title": "Tarraing & Buail Tógálaí",
+    "feature1Desc": "Eagraigh do chuid rannóga, tionscadail agus scileanna go héasca lenár n-eagarthóir amhairc iomasach.",
+    "feature2Title": "Téamaí Saincheaptha",
+    "feature2Desc": "Roghnaigh ó theimpléid atá deartha go gairmiúil nó cruthaigh do chuma uathúil féin.",
+    "feature3Title": "Anailísíocht fíor-ama",
+    "feature3Desc": "Rianaigh do chuairteoirí, féach cé na tionscadail a gheobhaidh an aird is mó, agus tuilleadh."
+  },
+  "auth": {
+    "welcomeBack": "Fáilte Ar Ais",
+    "loginToContinue": "Logáil isteach i do chuntas chun leanúint ar aghaidh",
+    "createAccount": "Cruthaigh Cuntas",
+    "joinCommunity": "Bí ar na mílte forbróirí eile",
+    "fullName": "Ainm Iomlán",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Seoladh Ríomhphoist",
+    "emailPlaceholder": "tusa@sampla.com",
+    "password": "Pasfhocal",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Cuimhnigh orm",
+    "forgotPassword": "Focal faire dearmadta?",
+    "signIn": "Sínigh Isteach",
+    "signingIn": "Ag síniú Isteach...",
+    "signUp": "Cláraigh",
+    "signingUp": "Ag síniú...",
+    "noAccount": "Nach bhfuil cuntas agat?",
+    "hasAccount": "An bhfuil cuntas agat cheana féin?",
+    "passwordRules": {
+      "title": "Caithfidh:",
+      "length": "8 gcarachtar ar a laghad",
+      "uppercase": "Litir chás uachtair amháin (AZ)",
+      "number": "Uimhir a haon (0-9)",
+      "symbol": "Siombail amháin (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Tógálaí Punainne",
+      "templates": "Teimpléid & Téamaí",
+      "settings": "Socruithe",
+      "collapse": "Laghdaigh Sidebar",
+      "overview": "Forbhreathnú",
+      "profileSettings": "Socruithe Próifíl",
+      "customDomain": "Fearann ​​​​an Chustaim",
+      "feedback": "Aiseolas"
+    },
+    "header": {
+      "viewLive": "Féach Beo",
+      "welcome": "Fáilte,",
+      "logout": "Lógó amach",
+      "builder": "Tógálaí",
+      "livePortfolio": "Punann Beo",
+      "live": "Beo"
+    },
+    "logoutModal": {
+      "title": "Lógó amach",
+      "message": "An bhfuil tú cinnte gur mhaith leat logáil amach as do chuntas? ",
+      "cancel": "Cealaigh",
+      "confirm": "Sea, Logoout"
+    },
+    "slugModal": {
+      "title": "Roghnaigh URL do phunann",
+      "message": "Beidh an URL seo mar nasc uathúil le do phunann. ",
+      "slugPlaceholder": "d'ainm",
+      "availability": "Infhaighteacht:",
+      "available": "Ar fáil",
+      "unavailable": "Níl fáil air",
+      "checking": "Ag seiceáil...",
+      "mustFormat": "Ní féidir ach litreacha, uimhreacha agus daiseanna a bheith ann (-)",
+      "cancel": "Cealaigh",
+      "save": "Sábháil URL",
+      "usernameUrl": "Ainm úsáideora URL",
+      "helpText": "Litreacha beaga, uimhreacha agus daiseanna. ",
+      "validation": {
+        "empty": "Ní féidir seilide a bheith folamh.",
+        "min3": "3 carachtair ar a laghad.",
+        "max30": "30 carachtar ar a mhéad.",
+        "format": "Níl ach litreacha beaga, uimhreacha agus daiseanna (-). "
+      }
+    },
+    "loadingPortfolio": "Sonraí punainne á lódáil...",
+    "overview": {
+      "greetings": {
+        "morning": "Maidin mhaith",
+        "afternoon": "Tráthnóna maith",
+        "evening": "Tráthnóna maith",
+        "night": "Oíche mhaith"
+      },
+      "welcome": {
+        "hi": "Dia duit,",
+        "creator": "Cruthaitheoir",
+        "desc1": "Fáilte go dtí an painéal DevFolio. Tá do phunann feicthe ag",
+        "desc2": "duine. Coinnigh ag obair!",
+        "editPortfolio": "Cuir Punann in Eagar"
+      },
+      "stats": {
+        "totalVisitors": "Cuairteoirí Iomlána",
+        "projectViews": "Féachadh (Tionscadal)",
+        "activeSessions": "Seisiún Gníomhach",
+        "totalLabel": "Iomlán"
+      },
+      "setup": {
+        "title": "Socrú Dul Chun Cinn",
+        "completed": "Tá do phunann críochnaithe! 🎉",
+        "inProgress": "Céimeanna chuig an bpunann foirfe.",
+        "profile": {
+          "title": "Próifíl Críochnaithe",
+          "desc": "Cuir ainm, beathaisnéis agus grianghraf próifíle leis."
+        },
+        "section": {
+          "title": "Cuir Ailt leis",
+          "desc": "Gníomhachtaigh alt 1 ar a laghad sa phunann."
+        },
+        "project": {
+          "title": "Cuir Tionscadal leis",
+          "desc": "Cuir isteach ar a laghad ceann amháin de do thionscadail is fearr."
+        },
+        "publish": {
+          "title": "Punann a fhoilsiú",
+          "desc": "Socraigh URL saincheaptha ionas gur féidir leis an bpobal rochtain a fháil air."
+        }
+      },
+      "topProjects": {
+        "title": "Tionscadail is Coitianta",
+        "desc": "Feidhmíocht do chuid oibre i súile na gcuairteoirí.",
+        "viewAll": "Féach Uile",
+        "empty": "Níl aon sonraí amhairc do do thionscadal fós."
+      }
+    },
+    "themes": {
+      "title": "Teimpléid & Téamaí",
+      "subtitle": "Saincheap cuma agus mothú do phunann poiblí.",
+      "reset": "Athshocraigh Réamhshocrú",
+      "save": "Sábháil Athruithe",
+      "saving": "Ag sábháil...",
+      "chooseTemplate": "Roghnaigh Teimpléad",
+      "primaryColor": "Dath Príomhúil",
+      "typography": "Clóghrafaíocht",
+      "appearance": "Dealramh",
+      "corners": "Cúinní & Teorainneacha",
+      "successTitle": "Rath",
+      "successMessage": "D'éirigh le sainroghanna téamaí a nuashonrú",
+      "errorTitle": "Earráid",
+      "errorMessage": "Theip ar shábháil sainroghanna téama",
+      "templates": {
+        "minimalist": {
+          "name": "Íosta",
+          "desc": "Dearadh glan agus simplí ag díriú ar ábhar."
+        },
+        "developerDark": {
+          "name": "Forbróir Dorcha",
+          "desc": "Téama dorcha foirfe chun cód agus stoic theicneolaíochta a thaispeáint."
+        },
+        "creative": {
+          "name": "Cruthaitheach",
+          "desc": "Leagan amach bríomhar agus ildaite do dhearthóirí agus do dhaoine cruthaitheacha."
+        },
+        "executive": {
+          "name": "Feidhmeannach",
+          "desc": "Leagan amach gairmiúil agus foirmiúil do ghairmithe gnó."
+        },
+        "bentoGrid": {
+          "name": "Eangach Bento",
+          "desc": "Leagan amach greille nua-aimseartha Apple-stíl a leagann béim ar scileanna éagsúla go héifeachtach."
+        },
+        "neoBrutalism": {
+          "name": "Nua-Bhrútachas",
+          "desc": "Teorainneacha trom agus dathanna ardchodarsnachta le haghaidh cuma trendy, gan leithscéal."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Éifeachtaí gloine frosted thar grádáin ildaite le haghaidh Chomhéadain Nua-aimseartha caol."
+        },
+        "linkInBio": {
+          "name": "Nasc sa Bhitheolaíocht",
+          "desc": "Leagan amach dlúth ingearach optamaithe le haghaidh scáileáin soghluaiste agus meáin shóisialta."
+        }
+      },
+      "appearances": {
+        "light": "Solas",
+        "dark": "Dorcha",
+        "system": "Córas"
+      },
+      "cornersOptions": {
+        "sharp": "Géar",
+        "rounded": "Slánaithe",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Seol Aiseolas",
+      "subtitle": "Cabhraigh linn é a fheabhsú trí mholtaí, trí cháineadh nó trí fhabhtanna a thuairisciú ar an bhfeidhmchlár seo.",
+      "categoryLabel": "Catagóir Aiseolais",
+      "messageLabel": "Sonraí na Teachtaireachta",
+      "messagePlaceholder": "Inis dom go mion faoin aiseolas atá tú ag iarraidh a chur in iúl...",
+      "imageLabel": "Ceangaltán Íomhá (Roghnach)",
+      "imagePlaceholder": "Cliceáil chun íomhá nó gabháil scáileáin a uaslódáil",
+      "submitting": "Á sheoladh...",
+      "submitBtn": "Seol Aiseolas",
+      "categories": {
+        "suggestion": "Moltaí & Smaointe",
+        "bug": "Tuairisc ar Fhabht / Earráid",
+        "criticism": "Cáineadh",
+        "other": "Daoine eile"
+      },
+      "imageErrorTitle": "Earráid",
+      "imageErrorMessage": "Diúltaítear do roinnt comhad toisc nach bhfuil formáidí íomhá tacaithe acu (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Rath",
+      "successMessage": "Go raibh maith agat as do chuid aiseolais! Tá an tuairisc seolta.",
+      "submitErrorTitle": "Theip",
+      "submitErrorMessage": "Tharla earráid agus aiseolas á sheoladh. Bain triail eile as."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Maidir liomsa",
+      "skills": "Scileanna",
+      "projects": "Tionscadail",
+      "workExperience": "Taithí Oibre",
+      "orgExperience": "Taithí Eagrúcháin",
+      "education": "Oideachas",
+      "certifications": "Oiliúint & Deimhnithe",
+      "contact": "Déan Teagmháil liom"
+    },
+    "editor": {
+      "profileInfo": "Eolas Próifíl",
+      "saving": "Ag sábháil...",
+      "profilePhoto": "Grianghraf Próifíl",
+      "clickToUpload": "Cliceáil chun uaslódáil (JPG, PNG)",
+      "fullName": "Ainm Iomlán",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bith",
+      "bioPlaceholder": "Forbróir Fullstack a bhfuil paisean aige aipeanna gréasáin nua-aimseartha a thógáil...",
+      "location": "Suíomh",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Inscne",
+      "selectGender": "Roghnaigh Inscne",
+      "male": "Fireann",
+      "female": "Mná",
+      "custom": "Saincheaptha",
+      "customPlaceholder": "Clóscríobh d'inscne saincheaptha...",
+      "uploadCv": "Uaslódáil CV",
+      "cvFormat": "(DOC nó PDF)",
+      "preview": "Réamhamharc",
+      "remove": "Bain",
+      "clickToUploadCv": "Cliceáil chun PDF nó DOC a uaslódáil",
+      "sections": "Ailt",
+      "removeSelected": "Bain Roghnaithe",
+      "confirmRemove": "Deimhnigh Bain",
+      "addSection": "Cuir Alt leis",
+      "addAllSections": "Cuir Gach Roinn leis",
+      "noSections": "Níl aon rannóg fós",
+      "clickToAdd": "Cliceáil \"+ Cuir Alt leis\" chun tús a chur leis",
+      "selectAll": "Roghnaigh Uile",
+      "selected": "Roghnaithe",
+      "dragToReorder": "Tarraing chun codanna a athordú",
+      "livePreview": "Réamhamharc Beo",
+      "addSectionsToBuild": "Cuir rannáin leis chun do phunann a thógáil",
+      "now": "Anois",
+      "current": "Reatha",
+      "noExpiry": "Gan dul in éag",
+      "see": "Féach",
+      "position": "Seasamh",
+      "degree": "Céim",
+      "certification": "Deimhniú",
+      "sectionsForm": {
+        "about": {
+          "label": "Cur síos ort féin",
+          "placeholder": "Inis dúinn fút féin, do chúlra, do spéiseanna agus do scileanna..."
+        },
+        "skills": {
+          "addPlaceholder": "Clóscríobh scil ansin brúigh Iontráil..."
+        },
+        "projects": {
+          "title": "Ainm an Tionscadail",
+          "titlePlaceholder": "Ainm an tionscadail...",
+          "url": "URL an tionscadail",
+          "description": "Cur síos",
+          "descriptionPlaceholder": "Cur síos gairid ar an tionscadal...",
+          "uploadThumbnail": "Íomhá Tionscadal",
+          "addProject": "Cuir Tionscadal leis",
+          "projectNum": "Tionscadal #",
+          "currentProject": "Seo tionscadal a bhfuilim ag obair air"
+        },
+        "work": {
+          "company": "Cuideachta/Gníomhaireacht",
+          "companyPlaceholder": "Ainm cuideachta...",
+          "position": "Post/Teideal",
+          "positionPlaceholder": "Do sheasamh...",
+          "employmentType": "Cineál oibre",
+          "location": "Suíomh",
+          "locationPlaceholder": "Cathair, Tír...",
+          "startDate": "Tosaigh",
+          "endDate": "Críochnaithe",
+          "currentWork": "Tá mé fós ag obair i láthair na huaire",
+          "description": "Cur síos",
+          "descriptionPlaceholder": "Cur síos ar an bpost agus freagrachtaí...",
+          "skills": "Scil",
+          "addExperience": "Cuir Taithí Oibre leis",
+          "experienceNum": "Taithí #",
+          "dateError": "Ní féidir leis an dáta deiridh a bheith níos luaithe ná an dáta tosaithe"
+        },
+        "org": {
+          "organization": "Ainm Eagraíochta",
+          "orgPlaceholder": "Ollscoil BEM...",
+          "role": "Ról/Seasamh",
+          "rolePlaceholder": "Ceann Roinne...",
+          "addOrg": "Cuir Taithí Eagrúcháin leis",
+          "orgNum": "Eagraíocht #"
+        },
+        "edu": {
+          "institution": "Forais Oideachais",
+          "institutionPlaceholder": "Ainm an champais nó na scoile...",
+          "degree": "Teideal",
+          "degreePlaceholder": "S1, scoil ard, srl...",
+          "major": "Roinn/Réimse Staidéir",
+          "majorPlaceholder": "Innealtóireacht Faisnéisíochta...",
+          "gpa": "GPA (roghnach)",
+          "currentStudy": "Tá mé fós ag foghlaim anseo",
+          "descriptionPlaceholder": "Gníomhaíochtaí agus éachtaí le linn staidéir...",
+          "addEdu": "Cuir Oideachas leis",
+          "eduNum": "Oideachas #"
+        },
+        "cert": {
+          "name": "Ainm an Deimhnithe / Oiliúna",
+          "namePlaceholder": "Ainm an deimhnithe...",
+          "issuer": "Foilsitheoir",
+          "issuerPlaceholder": "Institiúid foilsitheoireachta...",
+          "issueDate": "Tosaigh (Dáta Foilsithe)",
+          "issueDatePlaceholder": "Roghnaigh dáta foilsithe...",
+          "expiryDate": "Críochnaithe (Tréimhse Bhailí)",
+          "expiryDatePlaceholder": "Roghnaigh dáta éaga...",
+          "noExpiry": "Níl aon dáta éaga ag an teastas seo",
+          "url": "URL inchreidte",
+          "uploadThumbnail": "Teastas / Íomhá Oiliúna",
+          "uploadThumbnailLimit": "Uaslódáil íomhá an teastais (JPG/PNG/WEBP, 2MB ar a mhéad)",
+          "addCert": "Cuir Deimhniú leis",
+          "certNum": "Deimhniú #"
+        },
+        "contact": {
+          "contactNum": "Teagmháil #",
+          "platform": "Ardán",
+          "displayText": "Taispeáin Téacs",
+          "displayTextPlaceholder": "m.sh., you@email.com nó @username",
+          "url": "Nasc (URL)",
+          "urlPlaceholderWhatsapp": "m.sh., 62812... (gan tosaigh 0)",
+          "urlPlaceholderEmail": "m.sh. tú@email.com",
+          "urlPlaceholderWebsite": "m.sh., https://...",
+          "urlPlaceholderDefault": "m.sh., ainm úsáideora",
+          "addContact": "Cuir Teagmháil leis"
+        },
+        "common": {
+          "months": {
+            "1": "Eanáir",
+            "2": "Feabhra",
+            "3": "Márta",
+            "4": "Aibreán",
+            "5": "Bealtaine",
+            "6": "Meitheamh",
+            "7": "Iúil",
+            "8": "Lúnasa",
+            "9": "Meán Fómhair",
+            "10": "Deireadh Fómhair",
+            "11": "Samhain",
+            "12": "Nollaig"
+          },
+          "month": "Mí",
+          "year": "Bliain",
+          "invalidDate": "Mí Deiridh Neamhbhailí",
+          "words": "focail"
+        }
+      },
+      "sure": "Cinnte",
+      "deletePhotoTitle": "Scrios Grianghraf Próifíl?",
+      "deletePhotoMessage": "An bhfuil tú cinnte gur mhaith leat an grianghraf próifíle seo a scriosadh?",
+      "cancel": "Cealaigh",
+      "delete": "Scrios"
+    },
+    "cropper": {
+      "chooseBackground": "Roghnaigh Cúlra",
+      "cropPhoto": "Bearr Do Ghrianghraf",
+      "useOriginal": "Úsáid bunaidh",
+      "backgroundPresets": "Réamhshocruithe Cúlra",
+      "none": "Dada",
+      "uploadBackground": "Uaslódáil Cúlra",
+      "cancel": "Cealaigh",
+      "savePhoto": "Sábháil Grianghraf",
+      "zoom": "Súmáil",
+      "rotationTilt": "Rothlú & Tilt",
+      "resetRotation": "Athshocraigh go 0°",
+      "center": "Ionad",
+      "rotateLeft": "Rothlaigh -90°",
+      "rotateRight": "Rothlaigh +90°",
+      "removeBackground": "Bain Cúlra",
+      "processing": "D'íomhá á phróiseáil, fan go fóill..."
+    },
+    "cvPreview": {
+      "title": "Réamhamharc CV",
+      "downloadCv": "Íosluchtaigh CV i focal",
+      "download": "Íosluchtaigh",
+      "wordCannotPreview": "Ní féidir réamhamharc a dhéanamh ar dhoiciméid Word (.doc/.docx) ó dhúchas sa bhrabhsálaí. ",
+      "downloadFile": "Íosluchtaigh CV i focal",
+      "back": "Ar ais",
+      "mobileMessage": "Íoslódáil an CV le do thoil chun é a fheiceáil.",
+      "preview": "CV Réamhamhairc",
+      "wordPreviewTitle": "Réamhamharc ar Dhoiciméad Word",
+      "wordPreviewMessage": "Ní féidir réamhamharc a dhéanamh ar dhoiciméid Word (.doc/.docx) ó dhúchas sa bhrabhsálaí. Íoslódáil an comhad chun féachaint ar."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Scríobh cur síos gairid fút féin, faoi spéiseanna agus spriocanna gairme..."
+    },
+    "skills": {
+      "placeholder": "Clóscríobh ainm scile...",
+      "add": "Cuir",
+      "enterToAdd": "Brúigh Enter chun cur leis",
+      "noSkills": "Níor cuireadh aon scileanna leis fós."
+    },
+    "projects": {
+      "projectName": "Ainm an Tionscadail",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL an tionscadail",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Fad",
+      "startMonth": "Tosaigh Mí",
+      "startYear": "Bliain Tosaigh",
+      "endMonth": "Deireadh na Míosa",
+      "endYear": "Deireadh Bliana",
+      "currentlyWorking": "Faoi láthair ag obair ar seo",
+      "description": "Cur síos",
+      "descriptionPlaceholder": "Déan cur síos ar an tionscadal, ar do ról, agus ar éachtaí...",
+      "technologies": "Teicneolaíochtaí a Úsáideadh",
+      "addProject": "Cuir Tionscadal leis",
+      "image": "Íomhá Tionscadal",
+      "removeImage": "Bain Íomhá",
+      "uploadImage": "Cliceáil chun íomhá a uaslódáil"
+    },
+    "work": {
+      "company": "Cuideachta/Institiúid",
+      "companyPlaceholder": "Ainm cuideachta...",
+      "role": "Ról/Seasamh",
+      "rolePlaceholder": "Do sheasamh...",
+      "jobType": "Cineál Poist",
+      "selectJobType": "Roghnaigh cineál",
+      "fullTime": "Lánaimseartha",
+      "partTime": "Páirtaimseartha",
+      "contract": "Conradh",
+      "internship": "Intéirneacht",
+      "freelance": "Neamhspleách",
+      "location": "Suíomh",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Fad",
+      "currentlyWorking": "Ag obair anseo faoi láthair",
+      "description": "Cur síos ar an bPost",
+      "descriptionPlaceholder": "Déan cur síos ar na príomhchúraimí agus ar na héachtaí atá agat...",
+      "skills": "Scileanna Sonracha",
+      "addExperience": "Cuir Taithí leis"
+    },
+    "org": {
+      "organization": "Ainm Eagraíochta",
+      "organizationPlaceholder": "Ainm eagraíochta...",
+      "role": "Ról/Seasamh",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Fad",
+      "periodFormat": "nó Formáid In Aisce (m.sh. 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Gníomhach faoi láthair",
+      "description": "Cur síos ar an nGníomhaíocht",
+      "descriptionPlaceholder": "Déan cur síos ar do ghníomhaíochtaí nó ar do chuid oibre...",
+      "addExperience": "Cuir Taithí leis"
+    },
+    "education": {
+      "institution": "Ainm na hInstitiúide",
+      "institutionPlaceholder": "Ainm scoile nó ollscoile...",
+      "degree": "Céim/Leibhéal",
+      "degreePlaceholder": "e.g. ",
+      "major": "Mór-Réimse Staidéir",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Grád",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Fad Oideachais",
+      "periodFormat": "nó Formáid In Aisce (m.sh. 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Faoi láthair ag staidéar anseo",
+      "description": "Gníomhaíochtaí / Onóracha",
+      "descriptionPlaceholder": "Déan cur síos ar ghníomhaíochtaí acadúla, eagraíochtaí, nó onóracha a fuarthas...",
+      "addEducation": "Cuir Oideachas leis"
+    },
+    "cert": {
+      "name": "Ainm an Deimhnithe",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Eagraíocht Eisiúint",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Dáta Eisiúna",
+      "expiryDate": "Bailí Go dtí",
+      "noExpiry": "Ní théann an dintiúir seo in éag",
+      "yearPlaceholder": "nó Bliain (m.sh. 2023)",
+      "credentialUrl": "URL inchreidte",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Scileanna Gaolmhara",
+      "addCertification": "Cuir Deimhniú leis",
+      "image": "Íomhá/Lógó",
+      "removeImage": "Bain Íomhá",
+      "uploadImage": "Cliceáil chun íomhá a uaslódáil"
+    },
+    "common": {
+      "months": {
+        "1": "Eanáir",
+        "2": "Feabhra",
+        "3": "Márta",
+        "4": "Aibreán",
+        "5": "Bealtaine",
+        "6": "Meitheamh",
+        "7": "Iúil",
+        "8": "Lúnasa",
+        "9": "Meán Fómhair",
+        "10": "Deireadh Fómhair",
+        "11": "Samhain",
+        "12": "Nollaig"
+      },
+      "month": "Mí",
+      "year": "Bliain",
+      "invalidDate": "Mí Deiridh Neamhbhailí",
+      "words": "focail"
+    }
+  },
+  "settings": {
+    "title": "Socruithe",
+    "subtitle": "Bainistigh do phróifíl phunann agus sainroghanna",
+    "tabs": {
+      "profile": "Mo Phróifíl",
+      "security": "Slándáil",
+      "personalization": "Pearsanú"
+    },
+    "profile": {
+      "infoTitle": "Eolas Bunúsach",
+      "photo": "Grianghraf Próifíl",
+      "uploadPhoto": "Athraigh Grianghraf",
+      "fullName": "Ainm Iomlán",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Seoladh Ríomhphoist",
+      "emailPlaceholder": "john@sampla.com",
+      "emailHelp": "Úsáidtear ríomhphost le haghaidh logáil isteach agus ní thaispeántar go poiblí é.",
+      "portfolioUrl": "URL punainne",
+      "saveProfile": "Sábháil Próifíl",
+      "save": "Sábháil Próifíl",
+      "accountCreated": "Cruthaíodh Cuntas",
+      "lastLogin": "Logáil Isteach Last",
+      "oauthNotice": "Tá an phróifíl seo nasctha le do chuntas {{provider}}. Ní mór athruithe próifíle a dhéanamh tríd an soláthraí seirbhíse."
+    },
+    "security": {
+      "changePassword": "Athraigh Pasfhocal",
+      "currentPassword": "Pasfhocal Reatha",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Pasfhocal Nua",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Deimhnigh Pasfhocal Nua",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "8 gcarachtar ar a laghad",
+        "uppercase": "Litir chás uachtair amháin (AZ)",
+        "number": "Uimhir a haon (0-9)",
+        "symbol": "Siombail amháin (!@#$%^&*)"
+      },
+      "passwordTitle": "Pasfhocal",
+      "updatePassword": "Nuashonraigh Pasfhocal",
+      "additionalSecurity": "Slándáil Breise",
+      "twoFactor": "Fíordheimhniú Dhá-Fachtóir (2FA)",
+      "twoFactorDesc": "Déan do chuntas slán le cód OTP breise.",
+      "activeSessions": "Seisiúin Ghníomhach",
+      "activeSessionsDesc": "Ceadaigh i gcónaí monatóireacht a dhéanamh ar ghléasanna logáilte isteach.",
+      "publicVisibility": "Infheictheacht Phoiblí",
+      "hideFromSearch": "Folaigh Punann ó Innill Chuardaigh",
+      "hideFromSearchDesc": "Cuir cosc ​​ar Google do leathanach punainne poiblí a innéacsú.",
+      "disable2fa": {
+        "title": "Díchumasaigh 2FA",
+        "description": "An bhfuil tú cinnte gur mhaith leat fíordheimhniú dhá fhachtóir a mhúchadh?",
+        "confirmPasswordLabel": "Cuir isteach do phasfhocal le deimhniú",
+        "currentPasswordPlaceholder": "Focal faire reatha",
+        "cancelButton": "Cealaigh",
+        "confirmButton": "Díchumasaigh 2FA",
+        "incorrectPassword": "Focal faire mícheart."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan Cód QR",
+        "step1Desc": "Oscail d’aip fíordheimhnitheora agus scanadh an cód QR seo a leanas:",
+        "unableToScan": "Ní féidir scanadh? Bain úsáid as eochair shocraithe",
+        "step2Title": "2. Fíoraigh Cód",
+        "step2Desc": "Cuir isteach an cód 6-dhigit ginte ag d'aip:",
+        "cancelButton": "Cealaigh",
+        "enableButton": "Cumasaigh 2FA",
+        "invalidLength": "Cuir isteach cód 6 dhigit.",
+        "invalidCode": "Cód fíoraithe neamhbhailí. Bain triail eile as."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Rialuithe Teanga",
+      "appLanguage": "Teanga App",
+      "layoutTitle": "Leagan Amach & Clóghrafaíocht",
+      "layoutStyle": "Stíl Leagan Amach",
+      "layoutModern": "Stíl Nua-Aimseartha (Réamhshocrú)",
+      "layoutClassic": "Stíl Clasaiceach",
+      "layoutMinimalist": "Stíl Minimalist",
+      "fontSize": "Méid Cló na hAipe",
+      "fontSmall": "Beaga",
+      "fontNormal": "Gnáth (Meánach)",
+      "fontLarge": "Mór",
+      "searchLanguage": "Teanga chuardaigh...",
+      "languageNotFound": "Teanga gan aimsiú",
+      "layoutElegant": "Stíl Galánta"
+    },
+    "saveChanges": "Sábháil Athruithe",
+    "cancel": "Cealaigh",
+    "appSettings": "Socruithe App",
+    "logoutConfirmTitle": "Deimhnigh Logáil Amach",
+    "logoutConfirmDesc": "An bhfuil tú cinnte gur mhaith leat logáil amach as an gcóras?",
+    "logoutConfirmYes": "Sea, Logoout",
+    "generalError": "Tharla earráid. ",
+    "success": "Rath",
+    "preferencesSaved": "Sábháladh sainroghanna aipe.",
+    "header": "Socruithe Feidhmchláir",
+    "logout": {
+      "title": "Deimhniú Lógó Amach",
+      "message": "An bhfuil tú cinnte gur mhaith leat logáil amach as an gcóras?",
+      "confirm": "Sea, Logoout"
+    },
+    "about": {
+      "title": "Maidir le Feidhmchlár",
+      "subtitle": "Ardán Tógálaí Punainne",
+      "version": "Leagan",
+      "description": "Is ardán tógálaí punainne nua-aimseartha é DevFolio atá deartha le haghaidh forbróirí, dearthóirí agus cruthaitheoirí gairmiúla. ",
+      "license": "Ceadúnas & Cóipcheart",
+      "copyright": "© 2026 DevFolio Inc. Gach ceart ar cosaint.",
+      "developer": "Forbróir",
+      "developedBy": "Arna fhorbairt ag Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Scrios Buan Cuntas",
+      "menuItem": "Scrios Cuntas",
+      "successTitle": "Rath",
+      "successMessage": "Tá ríomhphost deimhnithe um scriosadh cuntais seolta.",
+      "errorTitle": "Theip",
+      "errorMessage": "Theip ar sheoladh ríomhphoist deimhnithe.",
+      "confirmationMessage": "An bhfuil tú cinnte gur mhaith leat do chuntas a scriosadh go buan?",
+      "warningMessage1": "Gheobhaidh tú ríomhphost chun scriosadh an chuntais a dhearbhú.",
+      "warningMessage2": "Má dheimhnítear iad, scriosfar na sonraí go léir (punann, tionscadail, staitisticí) go buan agus ní féidir iad a aisghabháil.",
+      "cancel": "Cealaigh",
+      "confirm": "Daingniú"
+    },
+    "toasts": {
+      "toastError": "Earráid",
+      "toastSuccess": "Rath",
+      "toastSetup2FAFailed": "Theip ar shocrú 2FA. Bain triail eile as.",
+      "toast2FAEnabled": "Tá fíordheimhniú dhá fhachtóir cumasaithe.",
+      "toast2FADisabled": "Díchumasaíodh fíordheimhniú dhá-fhachtóir.",
+      "toastSessionEnabled": "Cumasaíodh monatóireacht ghníomhach seisiúin.",
+      "toastSessionDisabled": "Díchumasaíodh monatóireacht ghníomhach seisiúin.",
+      "toastSetupKeyCopied": "Cóipeáladh an eochair shocruithe chuig an ngearrthaisce."
+    },
+    "privacy": {
+      "title": "Beartas Príobháideachta",
+      "updateDate": "Nuashonrú Deiridh: 15 Iúil, 2026",
+      "intro": "Míníonn an Beartas Príobháideachta seo conas a bhailíonn, a úsáideann agus a chosnaíonn DevFolio do chuid faisnéise pearsanta agus ár seirbhísí á n-úsáid.",
+      "section1Title": "1. Faisnéis a Bhailimid",
+      "section1Content": "Bailímid faisnéis a sholáthraíonn tú go díreach agus tú ag cruthú cuntais, ag tógáil punainne, agus ag dul i dteagmháil lenár dtacaíocht. ",
+      "section2Title": "2. Úsáid Faisnéise",
+      "section2Content": "Úsáidtear d’fhaisnéis chun gnéithe ár seirbhísí a oibriú, a chothabháil agus a sholáthar, chomh maith le cumarsáid a dhéanamh leat maidir le do chuntas nó seirbhísí.",
+      "section3Title": "3. Slándáil Sonraí",
+      "section3Content": "Cuirimid bearta slándála réasúnta i bhfeidhm chun do chuid faisnéise a chosaint ó rochtain neamhúdaraithe, nochtadh nó scrios."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Níor aimsíodh comhartha deimhnithe.",
+    "defaultError": "Theip ar scriosadh an chuntais. Seans go bhfuil an comhartha imithe in éag.",
+    "loadingTitle": "Cuntas á scriosadh…",
+    "loadingMessage": "Fan go fóill, táimid ag próiseáil d'iarratas.",
+    "successTitle": "D'éirigh leis an gCuntas a scriosadh",
+    "successMessage": "Scriosadh do shonraí go léir go buan. Déanfar tú a atreorú...",
+    "errorTitle": "Theip ar Scrios Cuntas",
+    "backToHome": "Fill ar Bhaile"
+  },
+  "forgotPassword": {
+    "minutes": "nóiméad",
+    "seconds": "dara",
+    "success": "éirigh",
+    "otpSentToEmail": "Tá cód OTP seolta chuig do ríomhphost.",
+    "failed": "Teip",
+    "emailNotFound": "Ríomhphost gan aimsiú.",
+    "emailThirdParty": "Tá an ríomhphost seo cláraithe trí thríú páirtí.",
+    "genericError": "Tá earráid ann. Bain triail eile as.",
+    "otpVerified": "Tá an cód OTP fíoraithe go rathúil.",
+    "otpExpired": "Tá an cód OTP imithe in éag. Iarr cód nua le do thoil.",
+    "otpInvalid": "Cód OTP neamhbhailí.",
+    "otpResent": "Tá cód OTP nua seolta chuig do ríomhphost.",
+    "otpResendFailed": "Theip ar an gcód OTP a athsheoladh. Bain triail eile as.",
+    "passwordResetSuccess": "D'éirigh le hathshocrú pasfhocal. Logáil isteach le do phasfhocal nua.",
+    "passwordResetFailed": "Theip ar athshocrú pasfhocal.",
+    "backToLogin": "Fill ar Logáil Isteach",
+    "back": "Fill ar ais",
+    "title": "Dearmad ar an bhfocal faire",
+    "description": "Cuir isteach an seoladh ríomhphoist atá cláraithe ar do chuntas. Seolfaimid cód OTP chun an focal faire a athshocrú.",
+    "emailLabel": "Seoladh ríomhphoist",
+    "sending": "Seol...",
+    "sendOtp": "Seol Cód OTP",
+    "verifyOtpTitle": "Fíoraigh Cód OTP",
+    "verifyOtpDesc": "Cuir isteach an cód 6 dhigit atá seolta chuig do ríomhphost chun d’aitheantas a dhearbhú.",
+    "verifying": "Á fhíorú...",
+    "verifyOtp": "Fíorú OTP",
+    "resending": "Seol arís...",
+    "resendOtp": "Seol an Cód OTP ar ais",
+    "resendCodeIn": "Seol an cód istigh arís",
+    "newPasswordTitle": "Cruthaigh Pasfhocal Nua",
+    "newPasswordDesc": "Cruthaigh pasfhocal láidir nua chun do chuntas a dhéanamh slán.",
+    "newPasswordLabel": "Pasfhocal Nua",
+    "min8Chars": "8 gcarachtar ar a laghad",
+    "oneUpperCase": "1 litir chás uachtair (AZ)",
+    "oneNumber": "1 uimhir (0-9)",
+    "oneSymbol": "1 siombail (!@#$%^&*)",
+    "confirmPasswordLabel": "Deimhnigh Pasfhocal",
+    "passwordsDoNotMatch": "Ní hionann pasfhocail.",
+    "resettingPassword": "Pasfhocal á athshocrú...",
+    "resetPassword": "Athshocraigh Pasfhocal"
+  },
+  "verifyEmail": {
+    "resendError": "Theip ar an ríomhphost fíorúcháin a athsheoladh. Bain triail eile as.",
+    "checkingStatus": "Stádas fíoraithe á sheiceáil...",
+    "title": "Seiceáil do Ríomhphost",
+    "description": "Tá ríomhphost fíorúcháin seolta againn chuig do sheoladh ríomhphoist. Oscail an ríomhphost le do thoil agus cliceáil ar an gcnaipe <1>\"Deimhnigh Cuntas\"</1> chun do chuntas a ghníomhachtú.",
+    "stepsTitle": "Céimeanna",
+    "step1": "Oscail d'iarratas ríomhphoist (Gmail, Yahoo, srl)",
+    "step2": "Cuardaigh ríomhphost ó DevFolio leis an ábhar \"Gníomhachtú Cuntais\"",
+    "step3": "Cliceáil ar an gcnaipe \"Deimhnigh Cuntas\" sa ríomhphost",
+    "step4": "Treorófar tú chuig an leathanach logála isteach chun dul isteach",
+    "resendSuccess": "Cuireadh athsheoladh ar an ríomhphost fíorúcháin!",
+    "resending": "Ag athsheoladh...",
+    "resendButton": "Seol Ríomhphost Fíoraithe arís",
+    "backToLogin": "Fill ar an Leathanach Logáil Isteach",
+    "footerNote": "Nach bhfuair tú an ríomhphost? Seiceáil an fillteán <1>Turscar</1> nó <2>Dramhaíl</2> i do ríomhphost. Tá an nasc fíorúcháin bailí ar feadh <3>24 uair</3>."
+  }
+}

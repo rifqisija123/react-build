@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Caractéristiques",
+    "templates": "Modèles",
+    "pricing": "Tarifs",
+    "login": "Se connecter",
+    "getStarted": "Commencer",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Le créateur de portefeuille ultime pour les développeurs",
+    "title1": "Construisez votre professionnel",
+    "title2": "portefeuille en",
+    "titleHighlight": "secondes.",
+    "subtitle": "Tout ce dont vous avez besoin pour mettre en valeur vos compétences, vos projets et votre expérience. ",
+    "startBuilding": "Commencez à construire maintenant",
+    "viewTemplates": "Afficher les modèles",
+    "fastDeployment": "Déploiement rapide",
+    "liveStatus": "username.dev est en ligne !",
+    "featuresTitle": "Fonctionnalités puissantes",
+    "featuresSubtitle": "Nous fournissons tous les outils dont vous avez besoin pour vous démarquer et décrocher l’emploi de vos rêves.",
+    "feature1Title": "Générateur de glisser-déposer",
+    "feature1Desc": "Organisez facilement vos sections, projets et compétences avec notre éditeur visuel intuitif.",
+    "feature2Title": "Thèmes personnalisés",
+    "feature2Desc": "Choisissez parmi des modèles conçus par des professionnels ou créez votre propre look unique.",
+    "feature3Title": "Analyse en temps réel",
+    "feature3Desc": "Suivez vos visiteurs, voyez quels projets retiennent le plus l'attention, et bien plus encore."
+  },
+  "auth": {
+    "welcomeBack": "Content de te revoir",
+    "loginToContinue": "Connectez-vous à votre compte pour continuer",
+    "createAccount": "Créer un compte",
+    "joinCommunity": "Rejoignez des milliers d'autres développeurs",
+    "fullName": "Nom et prénom",
+    "fullNamePlaceholder": "par ex. ",
+    "email": "Adresse email",
+    "emailPlaceholder": "vous@exemple.com",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Souviens-toi de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "signIn": "Se connecter",
+    "signingIn": "Connexion...",
+    "signUp": "S'inscrire",
+    "signingUp": "Signature...",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "hasAccount": "Vous avez déjà un compte ?",
+    "passwordRules": {
+      "title": "Le mot de passe doit contenir :",
+      "length": "Au moins 8 caractères",
+      "uppercase": "Une lettre majuscule (A-Z)",
+      "number": "Un chiffre (0-9)",
+      "symbol": "Un symbole ($!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Générateur de portefeuille",
+      "templates": "Modèles et thèmes",
+      "settings": "Paramètres",
+      "collapse": "Réduire la barre latérale",
+      "overview": "Aperçu",
+      "profileSettings": "Paramètres du profil",
+      "customDomain": "Domaine personnalisé",
+      "feedback": "Retour"
+    },
+    "header": {
+      "viewLive": "Voir en direct",
+      "welcome": "Accueillir,",
+      "logout": "Déconnexion",
+      "builder": "Constructeur",
+      "livePortfolio": "Portefeuille en direct",
+      "live": "En direct"
+    },
+    "logoutModal": {
+      "title": "Déconnexion",
+      "message": "Êtes-vous sûr de vouloir vous déconnecter de votre compte ? ",
+      "cancel": "Annuler",
+      "confirm": "Oui, déconnexion"
+    },
+    "slugModal": {
+      "title": "Choisissez l'URL de votre portefeuille",
+      "message": "Cette URL sera le lien unique vers votre portfolio. ",
+      "slugPlaceholder": "votre-nom",
+      "availability": "Disponibilité:",
+      "available": "Disponible",
+      "unavailable": "Indisponible",
+      "checking": "Vérification...",
+      "mustFormat": "Ne peut contenir que des lettres, des chiffres et des tirets (-)",
+      "cancel": "Annuler",
+      "save": "Enregistrer l'URL",
+      "usernameUrl": "URL du nom d'utilisateur",
+      "helpText": "Lettres minuscules, chiffres et tirets. ",
+      "validation": {
+        "empty": "Slug ne peut pas être vide.",
+        "min3": "Minimum 3 caractères.",
+        "max30": "Maximum 30 caractères.",
+        "format": "Uniquement les lettres minuscules, les chiffres et les tirets (-). "
+      }
+    },
+    "loadingPortfolio": "Chargement des données du portefeuille...",
+    "overview": {
+      "greetings": {
+        "morning": "Bonjour",
+        "afternoon": "Bon après-midi",
+        "evening": "Bon après-midi",
+        "night": "Bonne nuit"
+      },
+      "welcome": {
+        "hi": "Salut,",
+        "creator": "Créateur",
+        "desc1": "Bienvenue sur le tableau de bord DevFolio. Votre portfolio a été consulté par",
+        "desc2": "personne. Continuez à travailler !",
+        "editPortfolio": "Modifier le portefeuille"
+      },
+      "stats": {
+        "totalVisitors": "Nombre total de visiteurs",
+        "projectViews": "Vu (Projet)",
+        "activeSessions": "Séance active",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Progression de la configuration",
+        "completed": "Votre portfolio est complet ! 🎉",
+        "inProgress": "Étapes vers le portefeuille parfait.",
+        "profile": {
+          "title": "Profil complet",
+          "desc": "Ajoutez un nom, une biographie et une photo de profil."
+        },
+        "section": {
+          "title": "Ajouter des sections",
+          "desc": "Activez au moins 1 section dans le portfolio."
+        },
+        "project": {
+          "title": "Ajouter un projet",
+          "desc": "Inscrivez au moins 1 de vos meilleurs projets."
+        },
+        "publish": {
+          "title": "Publier le portefeuille",
+          "desc": "Définissez une URL personnalisée afin qu’elle soit accessible au public."
+        }
+      },
+      "topProjects": {
+        "title": "Projets les plus populaires",
+        "desc": "La performance de votre travail aux yeux des visiteurs.",
+        "viewAll": "Tout voir",
+        "empty": "Il n'y a pas encore de données d'affichage pour votre projet."
+      }
+    },
+    "themes": {
+      "title": "Modèles et thèmes",
+      "subtitle": "Personnalisez l'apparence et la convivialité de votre portefeuille public.",
+      "reset": "Réinitialiser les valeurs par défaut",
+      "save": "Enregistrer les modifications",
+      "saving": "Sauvegarde...",
+      "chooseTemplate": "Choisissez un modèle",
+      "primaryColor": "Couleur primaire",
+      "typography": "Typographie",
+      "appearance": "Apparence",
+      "corners": "Coins et bordures",
+      "successTitle": "Succès",
+      "successMessage": "Les préférences de thème ont été mises à jour avec succès",
+      "errorTitle": "Erreur",
+      "errorMessage": "Échec de l'enregistrement des préférences de thème",
+      "templates": {
+        "minimalist": {
+          "name": "Minimaliste",
+          "desc": "Conception épurée et simple axée sur le contenu."
+        },
+        "developerDark": {
+          "name": "Développeur Dark",
+          "desc": "Thème sombre parfait pour présenter des piles de code et de technologie."
+        },
+        "creative": {
+          "name": "Créatif",
+          "desc": "Mise en page vibrante et colorée pour les designers et les créatifs."
+        },
+        "executive": {
+          "name": "Exécutif",
+          "desc": "Disposition professionnelle et formelle pour les professionnels."
+        },
+        "bentoGrid": {
+          "name": "Grille à bento",
+          "desc": "Disposition de grille moderne de style Apple qui met en évidence efficacement différentes compétences."
+        },
+        "neoBrutalism": {
+          "name": "Néo-Brutalisme",
+          "desc": "Bordures audacieuses et couleurs contrastées pour un look tendance et sans vergogne."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphisme",
+          "desc": "Effets de verre dépoli sur des dégradés colorés pour une interface utilisateur moderne et élégante."
+        },
+        "linkInBio": {
+          "name": "Lien dans la bio",
+          "desc": "Disposition verticale compacte optimisée pour les écrans mobiles et les médias sociaux."
+        }
+      },
+      "appearances": {
+        "light": "Lumière",
+        "dark": "Sombre",
+        "system": "Système"
+      },
+      "cornersOptions": {
+        "sharp": "Tranchant",
+        "rounded": "Arrondi",
+        "pill": "Pilule"
+      }
+    },
+    "feedback": {
+      "title": "Envoyer des commentaires",
+      "subtitle": "Aidez-nous à l'améliorer en fournissant des suggestions, des critiques ou en signalant des bugs sur cette application.",
+      "categoryLabel": "Catégorie de commentaires",
+      "messageLabel": "Détails du message",
+      "messagePlaceholder": "Parlez-moi en détail des commentaires que vous souhaitez transmettre...",
+      "imageLabel": "Image jointe (facultatif)",
+      "imagePlaceholder": "Cliquez pour télécharger une image ou une capture d'écran",
+      "submitting": "Envoi en cours...",
+      "submitBtn": "Envoyer des commentaires",
+      "categories": {
+        "suggestion": "Suggestions et idées",
+        "bug": "Rapport de bugs/erreurs",
+        "criticism": "Critique",
+        "other": "Autres"
+      },
+      "imageErrorTitle": "Erreur",
+      "imageErrorMessage": "Certains fichiers sont rejetés car ils ne sont pas des formats d'image pris en charge (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Succès",
+      "successMessage": "Merci pour votre retour ! Le rapport a été envoyé.",
+      "submitErrorTitle": "Échec",
+      "submitErrorMessage": "Une erreur s'est produite lors de l'envoi des commentaires. Veuillez réessayer."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Sur moi",
+      "skills": "Compétences",
+      "projects": "Projets",
+      "workExperience": "Expérience professionnelle",
+      "orgExperience": "Expérience organisationnelle",
+      "education": "Éducation",
+      "certifications": "Formations et certifications",
+      "contact": "Contactez-moi"
+    },
+    "editor": {
+      "profileInfo": "Informations sur le profil",
+      "saving": "Économie...",
+      "profilePhoto": "Photo de profil",
+      "clickToUpload": "Cliquez pour télécharger (JPG, PNG)",
+      "fullName": "Nom et prénom",
+      "fullNamePlaceholder": "par ex. ",
+      "bio": "Biographie",
+      "bioPlaceholder": "Développeur Fullstack passionné par la création d'applications Web modernes...",
+      "location": "Emplacement",
+      "locationPlaceholder": "par ex. ",
+      "gender": "Genre",
+      "selectGender": "Sélectionnez le sexe",
+      "male": "Mâle",
+      "female": "Femelle",
+      "custom": "Coutume",
+      "customPlaceholder": "Tapez votre sexe personnalisé...",
+      "uploadCv": "Télécharger un CV",
+      "cvFormat": "(DOC ou PDF)",
+      "preview": "Aperçu",
+      "remove": "Retirer",
+      "clickToUploadCv": "Cliquez pour télécharger un PDF ou un DOC",
+      "sections": "Sections",
+      "removeSelected": "Supprimer la sélection",
+      "confirmRemove": "Confirmer la suppression",
+      "addSection": "Ajouter une section",
+      "addAllSections": "Ajouter toutes les sections",
+      "noSections": "Aucune section pour l'instant",
+      "clickToAdd": "Cliquez sur \"+ Ajouter une section\" pour commencer",
+      "selectAll": "Sélectionner tout",
+      "selected": "Choisi",
+      "dragToReorder": "Faites glisser pour réorganiser les sections",
+      "livePreview": "Aperçu en direct",
+      "addSectionsToBuild": "Ajoutez des sections pour construire votre portfolio",
+      "now": "Maintenant",
+      "current": "Actuel",
+      "noExpiry": "Aucune expiration",
+      "see": "Voir",
+      "position": "Position",
+      "degree": "Degré",
+      "certification": "Attestation",
+      "sectionsForm": {
+        "about": {
+          "label": "Description de vous-même",
+          "placeholder": "Parlez-nous de vous, de votre parcours, de vos intérêts et de vos compétences..."
+        },
+        "skills": {
+          "addPlaceholder": "Tapez compétence puis appuyez sur Entrée..."
+        },
+        "projects": {
+          "title": "Nom du projet",
+          "titlePlaceholder": "Nom du projet...",
+          "url": "URL du projet",
+          "description": "Description",
+          "descriptionPlaceholder": "Brève description du projet...",
+          "uploadThumbnail": "Image du projet",
+          "addProject": "Ajouter un projet",
+          "projectNum": "Projet #",
+          "currentProject": "C'est un projet sur lequel je travaille"
+        },
+        "work": {
+          "company": "Entreprise/Agence",
+          "companyPlaceholder": "Nom de l'entreprise...",
+          "position": "Poste/Titre",
+          "positionPlaceholder": "Votre poste...",
+          "employmentType": "Type de travail",
+          "location": "Emplacement",
+          "locationPlaceholder": "Ville, Campagne...",
+          "startDate": "Commencer",
+          "endDate": "Fini",
+          "currentWork": "je travaille toujours en ce moment",
+          "description": "Description",
+          "descriptionPlaceholder": "Description du poste et responsabilités...",
+          "skills": "Compétence",
+          "addExperience": "Ajouter une expérience de travail",
+          "experienceNum": "Expérience #",
+          "dateError": "La date de fin ne peut pas être antérieure à la date de début"
+        },
+        "org": {
+          "organization": "Nom de l'organisation",
+          "orgPlaceholder": "Université BEM...",
+          "role": "Rôle/Position",
+          "rolePlaceholder": "Chef de division...",
+          "addOrg": "Ajouter une expérience organisationnelle",
+          "orgNum": "Organisation #"
+        },
+        "edu": {
+          "institution": "Établissements d'enseignement",
+          "institutionPlaceholder": "Nom du campus ou de l'école...",
+          "degree": "Titre",
+          "degreePlaceholder": "S1, lycée, etc...",
+          "major": "Département/domaine d'études",
+          "majorPlaceholder": "Génie Informatique...",
+          "gpa": "GPA (facultatif)",
+          "currentStudy": "J'apprends encore ici",
+          "descriptionPlaceholder": "Activités et réalisations pendant les études...",
+          "addEdu": "Ajouter une formation",
+          "eduNum": "Éducation #"
+        },
+        "cert": {
+          "name": "Nom de la certification/formation",
+          "namePlaceholder": "Nom du certificat...",
+          "issuer": "Éditeur",
+          "issuerPlaceholder": "Établissement d'édition...",
+          "issueDate": "Début (Date de publication)",
+          "issueDatePlaceholder": "Sélectionnez la date de publication...",
+          "expiryDate": "Terminé (Période de validité)",
+          "expiryDatePlaceholder": "Sélectionnez la date d'expiration...",
+          "noExpiry": "Ce certificat n'a pas de date d'expiration",
+          "url": "URL des informations d'identification",
+          "uploadThumbnail": "Image de certificat/formation",
+          "uploadThumbnailLimit": "Télécharger l'image du certificat (JPG/PNG/WEBP, max 2 Mo)",
+          "addCert": "Ajouter une certification",
+          "certNum": "Numéro d'attestation"
+        },
+        "contact": {
+          "contactNum": "Contact #",
+          "platform": "Plate-forme",
+          "displayText": "Afficher le texte",
+          "displayTextPlaceholder": "par exemple, vous@email.com ou @username",
+          "url": "Lien (URL)",
+          "urlPlaceholderWhatsapp": "par exemple, 62812... (sans commencer par 0)",
+          "urlPlaceholderEmail": "par exemple, vous@email.com",
+          "urlPlaceholderWebsite": "par exemple, https://...",
+          "urlPlaceholderDefault": "par exemple, nom d'utilisateur",
+          "addContact": "Ajouter un contact"
+        },
+        "common": {
+          "months": {
+            "1": "Janvier",
+            "2": "Février",
+            "3": "Mars",
+            "4": "Avril",
+            "5": "Peut",
+            "6": "Juin",
+            "7": "Juillet",
+            "8": "Août",
+            "9": "Septembre",
+            "10": "Octobre",
+            "11": "Novembre",
+            "12": "Décembre"
+          },
+          "month": "Mois",
+          "year": "Année",
+          "invalidDate": "Mois de fin invalide",
+          "words": "mots"
+        }
+      },
+      "sure": "Bien sûr",
+      "deletePhotoTitle": "Supprimer la photo de profil ?",
+      "deletePhotoMessage": "Êtes-vous sûr de vouloir supprimer cette photo de profil ?",
+      "cancel": "Annuler",
+      "delete": "Supprimer"
+    },
+    "cropper": {
+      "chooseBackground": "Choisir l'arrière-plan",
+      "cropPhoto": "Recadrez votre photo",
+      "useOriginal": "Utiliser l'original",
+      "backgroundPresets": "Préréglages d'arrière-plan",
+      "none": "Aucun",
+      "uploadBackground": "Télécharger l'arrière-plan",
+      "cancel": "Annuler",
+      "savePhoto": "Enregistrer la photo",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation et inclinaison",
+      "resetRotation": "Remise à 0°",
+      "center": "Centre",
+      "rotateLeft": "Rotation -90°",
+      "rotateRight": "Rotation +90°",
+      "removeBackground": "Supprimer l'arrière-plan",
+      "processing": "Traitement de votre image, veuillez patienter..."
+    },
+    "cvPreview": {
+      "title": "Aperçu du CV",
+      "downloadCv": "Télécharger CV",
+      "download": "Télécharger",
+      "wordCannotPreview": "Les documents Word (.doc/.docx) ne peuvent pas être prévisualisés de manière native dans le navigateur. ",
+      "downloadFile": "Télécharger le fichier CV",
+      "back": "Dos",
+      "mobileMessage": "Veuillez télécharger le fichier CV pour le prévisualiser.",
+      "preview": "Aperçu du CV",
+      "wordPreviewTitle": "Aperçu du document Word",
+      "wordPreviewMessage": "Les documents Word (.doc/.docx) ne peuvent pas être prévisualisés de manière native dans le navigateur. Veuillez télécharger le fichier pour le visualiser."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Rédigez une brève description de vous-même, de vos intérêts et de vos objectifs de carrière..."
+    },
+    "skills": {
+      "placeholder": "Tapez le nom de la compétence...",
+      "add": "Ajouter",
+      "enterToAdd": "Appuyez sur Entrée pour ajouter",
+      "noSkills": "Aucune compétence ajoutée pour l'instant."
+    },
+    "projects": {
+      "projectName": "Nom du projet",
+      "projectNamePlaceholder": "par ex. ",
+      "projectUrl": "URL du projet",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Durée",
+      "startMonth": "Mois de début",
+      "startYear": "Année de début",
+      "endMonth": "Mois de fin",
+      "endYear": "Fin d'année",
+      "currentlyWorking": "Je travaille actuellement sur ce sujet",
+      "description": "Description",
+      "descriptionPlaceholder": "Décrivez le projet, votre rôle et vos réalisations...",
+      "technologies": "Technologies utilisées",
+      "addProject": "Ajouter un projet",
+      "image": "Image du projet",
+      "removeImage": "Supprimer l'image",
+      "uploadImage": "Cliquez pour télécharger l'image"
+    },
+    "work": {
+      "company": "Entreprise/Institution",
+      "companyPlaceholder": "Nom de l'entreprise...",
+      "role": "Rôle/Position",
+      "rolePlaceholder": "Votre poste...",
+      "jobType": "Type d'emploi",
+      "selectJobType": "Sélectionnez le type",
+      "fullTime": "À temps plein",
+      "partTime": "À temps partiel",
+      "contract": "Contracter",
+      "internship": "Stage",
+      "freelance": "Free-lance",
+      "location": "Emplacement",
+      "locationPlaceholder": "par ex. ",
+      "duration": "Durée",
+      "currentlyWorking": "Je travaille actuellement ici",
+      "description": "Description de l'emploi",
+      "descriptionPlaceholder": "Décrivez vos principales responsabilités et réalisations...",
+      "skills": "Compétences spécifiques",
+      "addExperience": "Ajouter de l'expérience"
+    },
+    "org": {
+      "organization": "Nom de l'organisation",
+      "organizationPlaceholder": "Nom de l'organisation...",
+      "role": "Rôle/Position",
+      "rolePlaceholder": "par ex. ",
+      "duration": "Durée",
+      "periodFormat": "ou Format Libre (par exemple 2020 - 2022)",
+      "periodPlaceholder": "par ex. ",
+      "currentlyActive": "Actuellement actif",
+      "description": "Description de l'activité",
+      "descriptionPlaceholder": "Décrivez vos activités ou contributions...",
+      "addExperience": "Ajouter de l'expérience"
+    },
+    "education": {
+      "institution": "Nom de l'établissement",
+      "institutionPlaceholder": "Nom de l'école ou de l'université...",
+      "degree": "Diplôme/niveau",
+      "degreePlaceholder": "par ex. ",
+      "major": "Majeure/domaine d'études",
+      "majorPlaceholder": "par ex. ",
+      "gpa": "GPA / Note",
+      "gpaPlaceholder": "par ex. ",
+      "duration": "Durée de l'éducation",
+      "periodFormat": "ou Format Libre (par exemple 2018 - 2022)",
+      "periodPlaceholder": "par ex. ",
+      "currentlyStudying": "J'étudie actuellement ici",
+      "description": "Activités / Honneurs",
+      "descriptionPlaceholder": "Décrivez les activités académiques, les organisations ou les distinctions reçues...",
+      "addEducation": "Ajouter une formation"
+    },
+    "cert": {
+      "name": "Nom du certificat",
+      "namePlaceholder": "par ex. ",
+      "issuer": "Organisation émettrice",
+      "issuerPlaceholder": "par ex. ",
+      "issueDate": "Date d'émission",
+      "expiryDate": "Valable jusqu'au",
+      "noExpiry": "Cet identifiant n'expire pas",
+      "yearPlaceholder": "ou Année (par exemple 2023)",
+      "credentialUrl": "URL des informations d'identification",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Compétences connexes",
+      "addCertification": "Ajouter une certification",
+      "image": "Image/Logo",
+      "removeImage": "Supprimer l'image",
+      "uploadImage": "Cliquez pour télécharger l'image"
+    },
+    "common": {
+      "months": {
+        "1": "Janvier",
+        "2": "Février",
+        "3": "Mars",
+        "4": "Avril",
+        "5": "Peut",
+        "6": "Juin",
+        "7": "Juillet",
+        "8": "Août",
+        "9": "Septembre",
+        "10": "Octobre",
+        "11": "Novembre",
+        "12": "Décembre"
+      },
+      "month": "Mois",
+      "year": "Année",
+      "invalidDate": "Mois de fin invalide",
+      "words": "mots"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Gérez votre profil et vos préférences de portefeuille",
+    "tabs": {
+      "profile": "Mon profil",
+      "security": "Sécurité",
+      "personalization": "Personnalisation"
+    },
+    "profile": {
+      "infoTitle": "Informations de base",
+      "photo": "Photo de profil",
+      "uploadPhoto": "Changer de photo",
+      "fullName": "Nom et prénom",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adresse email",
+      "emailPlaceholder": "john@exemple.com",
+      "emailHelp": "L'e-mail est utilisé pour la connexion et n'est pas affiché publiquement.",
+      "portfolioUrl": "URL du portefeuille",
+      "saveProfile": "Enregistrer le profil",
+      "save": "Enregistrer le profil",
+      "accountCreated": "Compte créé",
+      "lastLogin": "Dernière connexion",
+      "oauthNotice": "Ce profil est connecté à votre compte {{provider}}. Les modifications de profil doivent être effectuées via le fournisseur de services."
+    },
+    "security": {
+      "changePassword": "Changer le mot de passe",
+      "currentPassword": "Mot de passe actuel",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nouveau mot de passe",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Confirmer le nouveau mot de passe",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Au moins 8 caractères",
+        "uppercase": "Une lettre majuscule (A-Z)",
+        "number": "Un chiffre (0-9)",
+        "symbol": "Un symbole ($!@#$%^&*)"
+      },
+      "passwordTitle": "Mot de passe",
+      "updatePassword": "Mettre à jour le mot de passe",
+      "additionalSecurity": "Sécurité supplémentaire",
+      "twoFactor": "Authentification à deux facteurs (2FA)",
+      "twoFactorDesc": "Sécurisez votre compte à l'aide d'un code OTP supplémentaire.",
+      "activeSessions": "Séances actives",
+      "activeSessionsDesc": "Autorisez toujours la surveillance des appareils connectés.",
+      "publicVisibility": "Visibilité publique",
+      "hideFromSearch": "Masquer le portefeuille des moteurs de recherche",
+      "hideFromSearchDesc": "Empêchez Google d'indexer votre page de portefeuille public.",
+      "disable2fa": {
+        "title": "Désactiver 2FA",
+        "description": "Êtes-vous sûr de vouloir désactiver l'authentification à deux facteurs ?",
+        "confirmPasswordLabel": "Entrez votre mot de passe pour confirmer",
+        "currentPasswordPlaceholder": "Mot de passe actuel",
+        "cancelButton": "Annuler",
+        "confirmButton": "Désactiver 2FA",
+        "incorrectPassword": "Mot de passe incorrect."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scannez le code QR",
+        "step1Desc": "Ouvrez votre application d'authentification et scannez le code QR suivant :",
+        "unableToScan": "Impossible de numériser ? Utiliser la clé de configuration",
+        "step2Title": "2. Vérifiez le code",
+        "step2Desc": "Saisissez le code à 6 chiffres généré par votre application :",
+        "cancelButton": "Annuler",
+        "enableButton": "Activer 2FA",
+        "invalidLength": "Veuillez saisir un code à 6 chiffres.",
+        "invalidCode": "Code de vérification invalide. Veuillez réessayer."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Contrôles linguistiques",
+      "appLanguage": "Langue de l'application",
+      "layoutTitle": "Mise en page et typographie",
+      "layoutStyle": "Style de mise en page",
+      "layoutModern": "Style moderne (par défaut)",
+      "layoutClassic": "Style classique",
+      "layoutMinimalist": "Style minimaliste",
+      "fontSize": "Taille de la police de l'application",
+      "fontSmall": "Petit",
+      "fontNormal": "Normale (moyenne)",
+      "fontLarge": "Grand",
+      "searchLanguage": "Langue de recherche...",
+      "languageNotFound": "Langue introuvable",
+      "layoutElegant": "Style élégant"
+    },
+    "saveChanges": "Enregistrer les modifications",
+    "cancel": "Annuler",
+    "appSettings": "Paramètres de l'application",
+    "logoutConfirmTitle": "Confirmer la déconnexion",
+    "logoutConfirmDesc": "Êtes-vous sûr de vouloir vous déconnecter du système ?",
+    "logoutConfirmYes": "Oui, déconnexion",
+    "generalError": "Une erreur s'est produite. ",
+    "success": "Succès",
+    "preferencesSaved": "Les préférences de l'application ont été enregistrées avec succès.",
+    "header": "Paramètres des applications",
+    "logout": {
+      "title": "Confirmation de déconnexion",
+      "message": "Êtes-vous sûr de vouloir vous déconnecter du système ?",
+      "confirm": "Oui, déconnexion"
+    },
+    "about": {
+      "title": "À propos de la candidature",
+      "subtitle": "Plateforme de création de portefeuille",
+      "version": "Version",
+      "description": "DevFolio est une plateforme de création de portefeuille moderne conçue pour les développeurs, les concepteurs et les créateurs professionnels. ",
+      "license": "Licence et droit d'auteur",
+      "copyright": "© 2026 DevFolio Inc. Tous droits réservés.",
+      "developer": "Promoteur",
+      "developedBy": "Développé par Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Supprimer définitivement le compte",
+      "menuItem": "Supprimer le compte",
+      "successTitle": "Succès",
+      "successMessage": "Un email de confirmation de suppression de compte a été envoyé.",
+      "errorTitle": "Échec",
+      "errorMessage": "Échec de l'envoi de l'e-mail de confirmation.",
+      "confirmationMessage": "Etes-vous sûr de vouloir supprimer définitivement votre compte ?",
+      "warningMessage1": "Vous recevrez un e-mail pour confirmer la suppression du compte.",
+      "warningMessage2": "Si confirmé, toutes les données (portefeuille, projets, statistiques) seront définitivement supprimées et ne pourront pas être récupérées.",
+      "cancel": "Annuler",
+      "confirm": "Confirmation"
+    },
+    "toasts": {
+      "toastError": "Erreur",
+      "toastSuccess": "Succès",
+      "toastSetup2FAFailed": "Échec de la configuration de 2FA. Veuillez réessayer.",
+      "toast2FAEnabled": "L'authentification à deux facteurs a été activée.",
+      "toast2FADisabled": "L'authentification à deux facteurs a été désactivée.",
+      "toastSessionEnabled": "La surveillance active des sessions a été activée.",
+      "toastSessionDisabled": "La surveillance active des sessions a été désactivée.",
+      "toastSetupKeyCopied": "Clé de configuration copiée dans le presse-papiers."
+    },
+    "privacy": {
+      "title": "politique de confidentialité",
+      "updateDate": "Dernière mise à jour : 15 juillet 2026",
+      "intro": "Cette politique de confidentialité explique comment DevFolio collecte, utilise et protège vos informations personnelles lors de l'utilisation de nos services.",
+      "section1Title": "1. Informations que nous collectons",
+      "section1Content": "Nous collectons les informations que vous fournissez directement lorsque vous créez un compte, construisez un portefeuille et contactez notre support. ",
+      "section2Title": "2. Utilisation des informations",
+      "section2Content": "Vos informations sont utilisées pour exploiter, maintenir et fournir les fonctionnalités de nos services, ainsi que pour communiquer avec vous concernant votre compte ou vos services.",
+      "section3Title": "3. Sécurité des données",
+      "section3Content": "Nous mettons en œuvre des mesures de sécurité raisonnables pour protéger vos informations contre tout accès, divulgation ou destruction non autorisés."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Jeton de confirmation introuvable.",
+    "defaultError": "Échec de la suppression du compte. Le jeton a peut-être expiré.",
+    "loadingTitle": "Suppression du compte...",
+    "loadingMessage": "Veuillez patienter, nous traitons votre demande.",
+    "successTitle": "Compte supprimé avec succès",
+    "successMessage": "Toutes vos données ont été définitivement supprimées. Vous serez redirigé...",
+    "errorTitle": "Échec de la suppression du compte",
+    "backToHome": "Retour à la maison"
+  },
+  "forgotPassword": {
+    "minutes": "minutes",
+    "seconds": "secondes",
+    "success": "Succès",
+    "otpSentToEmail": "Un code OTP a été envoyé à votre adresse e-mail.",
+    "failed": "Échec",
+    "emailNotFound": "E-mail introuvable.",
+    "emailThirdParty": "Cet e-mail est enregistré via un tiers.",
+    "genericError": "Il y a une erreur. Veuillez réessayer.",
+    "otpVerified": "Le code OTP a été vérifié avec succès.",
+    "otpExpired": "Le code OTP a expiré. Veuillez demander un nouveau code.",
+    "otpInvalid": "Code OTP invalide.",
+    "otpResent": "Un nouveau code OTP a été envoyé à votre adresse e-mail.",
+    "otpResendFailed": "Échec du renvoi du code OTP. Veuillez réessayer.",
+    "passwordResetSuccess": "Le mot de passe a été réinitialisé avec succès. Veuillez vous connecter avec votre nouveau mot de passe.",
+    "passwordResetFailed": "Échec de la réinitialisation du mot de passe.",
+    "backToLogin": "Revenir à la connexion",
+    "back": "Retour",
+    "title": "Mot de passe oublié",
+    "description": "Saisissez l'adresse email enregistrée sur votre compte. Nous enverrons un code OTP pour réinitialiser le mot de passe.",
+    "emailLabel": "Adresse e-mail",
+    "sending": "Envoi en cours...",
+    "sendOtp": "Envoyer le code OTP",
+    "verifyOtpTitle": "Vérifier le code OTP",
+    "verifyOtpDesc": "Entrez le code à 6 chiffres qui a été envoyé à votre adresse e-mail pour confirmer votre identité.",
+    "verifying": "Vérification...",
+    "verifyOtp": "Vérifier OTP",
+    "resending": "Renvoi...",
+    "resendOtp": "Renvoyer le code OTP",
+    "resendCodeIn": "Renvoyez le code dans",
+    "newPasswordTitle": "Créer un nouveau mot de passe",
+    "newPasswordDesc": "Créez un nouveau mot de passe fort pour sécuriser votre compte.",
+    "newPasswordLabel": "Nouveau mot de passe",
+    "min8Chars": "Minimum 8 caractères",
+    "oneUpperCase": "1 majuscule (A-Z)",
+    "oneNumber": "1 chiffre (0-9)",
+    "oneSymbol": "1 symbole (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirmer le mot de passe",
+    "passwordsDoNotMatch": "Les mots de passe ne correspondent pas.",
+    "resettingPassword": "Réinitialisation du mot de passe...",
+    "resetPassword": "Réinitialiser le mot de passe"
+  },
+  "verifyEmail": {
+    "resendError": "Échec du renvoi de l'e-mail de vérification. Veuillez réessayer.",
+    "checkingStatus": "Vérification de l'état de vérification...",
+    "title": "Vérifiez votre courrier électronique",
+    "description": "Nous avons envoyé un e-mail de vérification à votre adresse e-mail. Veuillez ouvrir l'e-mail et cliquer sur le bouton <1>\"Confirmer le compte\"</1> pour activer votre compte.",
+    "stepsTitle": "Étapes",
+    "step1": "Ouvrez votre application de messagerie (Gmail, Yahoo, etc.)",
+    "step2": "Recherchez un e-mail de DevFolio avec le sujet « Activation du compte »",
+    "step3": "Cliquez sur le bouton \"Confirmer le compte\" dans l'e-mail",
+    "step4": "Vous serez dirigé vers la page de connexion pour saisir",
+    "resendSuccess": "L'e-mail de vérification a été renvoyé !",
+    "resending": "Renvoi...",
+    "resendButton": "Renvoyer l'e-mail de vérification",
+    "backToLogin": "Revenir à la page de connexion",
+    "footerNote": "Vous n'avez pas reçu l'e-mail ? Vérifiez le dossier <1>Spam</1> ou <2>Indésirable</2> dans votre courrier électronique. Le lien de vérification est valide pendant <3>24 heures</3>."
+  }
+}

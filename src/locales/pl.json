@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Cechy",
+    "templates": "Szablony",
+    "pricing": "Wycena",
+    "login": "Login",
+    "getStarted": "Rozpocznij",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Najlepszy kreator portfolio dla programistów",
+    "title1": "Zbuduj swojego profesjonalistę",
+    "title2": "portfel w",
+    "titleHighlight": "towary drugiej jakości.",
+    "subtitle": "Wszystko, czego potrzebujesz, aby zaprezentować swoje umiejętności, projekty i doświadczenie. ",
+    "startBuilding": "Zacznij budować już teraz",
+    "viewTemplates": "Zobacz szablony",
+    "fastDeployment": "Szybkie wdrożenie",
+    "liveStatus": "nazwa_użytkownika.dev jest już dostępna!",
+    "featuresTitle": "Potężne funkcje",
+    "featuresSubtitle": "Zapewniamy wszystkie narzędzia, których potrzebujesz, aby wyróżnić się z tłumu i zdobyć wymarzoną pracę.",
+    "feature1Title": "Kreator przeciągnij i upuść",
+    "feature1Desc": "Z łatwością organizuj sekcje, projekty i umiejętności za pomocą naszego intuicyjnego edytora wizualnego.",
+    "feature2Title": "Motywy niestandardowe",
+    "feature2Desc": "Wybieraj spośród profesjonalnie zaprojektowanych szablonów lub stwórz własny, niepowtarzalny wygląd.",
+    "feature3Title": "Analityka w czasie rzeczywistym",
+    "feature3Desc": "Śledź odwiedzających, zobacz, które projekty cieszą się największym zainteresowaniem i nie tylko."
+  },
+  "auth": {
+    "welcomeBack": "Witamy z powrotem",
+    "loginToContinue": "Zaloguj się na swoje konto, aby kontynuować",
+    "createAccount": "Utwórz konto",
+    "joinCommunity": "Dołącz do tysięcy innych programistów",
+    "fullName": "Pełne imię i nazwisko",
+    "fullNamePlaceholder": "np. ",
+    "email": "Adres e-mail",
+    "emailPlaceholder": "ty@example.com",
+    "password": "Hasło",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Pamiętaj mnie",
+    "forgotPassword": "Zapomniałeś hasła?",
+    "signIn": "Zalogować się",
+    "signingIn": "Logowanie...",
+    "signUp": "Zapisać się",
+    "signingUp": "Rejestracja...",
+    "noAccount": "Nie masz konta?",
+    "hasAccount": "Masz już konto?",
+    "passwordRules": {
+      "title": "Hasło musi zawierać:",
+      "length": "Co najmniej 8 znaków",
+      "uppercase": "Jedna wielka litera (A-Z)",
+      "number": "Jedna liczba (0-9)",
+      "symbol": "Jeden symbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Kreator portfela",
+      "templates": "Szablony i motywy",
+      "settings": "Ustawienia",
+      "collapse": "Zwiń pasek boczny",
+      "overview": "Przegląd",
+      "profileSettings": "Ustawienia profilu",
+      "customDomain": "Domena niestandardowa",
+      "feedback": "Informacja zwrotna"
+    },
+    "header": {
+      "viewLive": "Zobacz na żywo",
+      "welcome": "Powitanie,",
+      "logout": "Wyloguj się",
+      "builder": "Budowniczy",
+      "livePortfolio": "Portfolio na żywo",
+      "live": "Na żywo"
+    },
+    "logoutModal": {
+      "title": "Wyloguj się",
+      "message": "Czy na pewno chcesz się wylogować ze swojego konta? ",
+      "cancel": "Anulować",
+      "confirm": "Tak, wyloguj się"
+    },
+    "slugModal": {
+      "title": "Wybierz adres URL swojego portfolio",
+      "message": "Ten adres URL będzie unikalnym linkiem do Twojego portfolio. ",
+      "slugPlaceholder": "twoje imię",
+      "availability": "Dostępność:",
+      "available": "Dostępny",
+      "unavailable": "Nie płynny",
+      "checking": "Kontrola...",
+      "mustFormat": "Może zawierać tylko litery, cyfry i myślniki (-)",
+      "cancel": "Anulować",
+      "save": "Zapisz adres URL",
+      "usernameUrl": "Adres URL nazwy użytkownika",
+      "helpText": "Małe litery, cyfry i myślniki. ",
+      "validation": {
+        "empty": "Ślimak nie może być pusty.",
+        "min3": "Minimum 3 znaki.",
+        "max30": "Maksymalnie 30 znaków.",
+        "format": "Tylko małe litery, cyfry i myślniki (-). "
+      }
+    },
+    "loadingPortfolio": "Ładowanie danych portfela...",
+    "overview": {
+      "greetings": {
+        "morning": "Dzień dobry",
+        "afternoon": "Dzień dobry",
+        "evening": "Dzień dobry",
+        "night": "Dobranoc"
+      },
+      "welcome": {
+        "hi": "Cześć,",
+        "creator": "Twórca",
+        "desc1": "Witamy w panelu DevFolio. Twoje portfolio obejrzało:",
+        "desc2": "osoba. Pracuj dalej!",
+        "editPortfolio": "Edytuj portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Całkowita liczba odwiedzających",
+        "projectViews": "Obejrzane (projekt)",
+        "activeSessions": "Aktywna sesja",
+        "totalLabel": "Razem"
+      },
+      "setup": {
+        "title": "Postęp konfiguracji",
+        "completed": "Twoje portfolio jest kompletne! 🎉",
+        "inProgress": "Kroki do idealnego portfolio.",
+        "profile": {
+          "title": "Kompletny profil",
+          "desc": "Dodaj imię i nazwisko, biografię i zdjęcie profilowe."
+        },
+        "section": {
+          "title": "Dodaj sekcje",
+          "desc": "Aktywuj przynajmniej 1 sekcję w portfolio."
+        },
+        "project": {
+          "title": "Dodaj projekt",
+          "desc": "Wpisz co najmniej 1 ze swoich najlepszych projektów."
+        },
+        "publish": {
+          "title": "Publikuj portfolio",
+          "desc": "Ustaw niestandardowy adres URL, aby był dostępny publicznie."
+        }
+      },
+      "topProjects": {
+        "title": "Najpopularniejsze projekty",
+        "desc": "Wydajność Twojej pracy w oczach odwiedzających.",
+        "viewAll": "Zobacz wszystko",
+        "empty": "Nie ma jeszcze danych widoku dla Twojego projektu."
+      }
+    },
+    "themes": {
+      "title": "Szablony i motywy",
+      "subtitle": "Dostosuj wygląd i sposób działania swojego portfolio publicznego.",
+      "reset": "Przywróć domyślne",
+      "save": "Zapisz zmiany",
+      "saving": "Zapisywanie...",
+      "chooseTemplate": "Wybierz szablon",
+      "primaryColor": "Kolor podstawowy",
+      "typography": "Typografia",
+      "appearance": "Wygląd",
+      "corners": "Narożniki i krawędzie",
+      "successTitle": "Sukces",
+      "successMessage": "Ustawienia motywu zostały pomyślnie zaktualizowane",
+      "errorTitle": "Błąd",
+      "errorMessage": "Nie udało się zapisać preferencji motywu",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistyczny",
+          "desc": "Czysty i prosty projekt skupiający się na treści."
+        },
+        "developerDark": {
+          "name": "Deweloper Dark",
+          "desc": "Ciemny motyw idealny do prezentowania kodu i stosów technologii."
+        },
+        "creative": {
+          "name": "Twórczy",
+          "desc": "Żywy i kolorowy układ dla projektantów i twórców."
+        },
+        "executive": {
+          "name": "Dyrektor wykonawczy",
+          "desc": "Profesjonalny i formalny układ dla profesjonalistów biznesowych."
+        },
+        "bentoGrid": {
+          "name": "Siatka Bento",
+          "desc": "Nowoczesny układ siatki w stylu Apple, który skutecznie podkreśla różne umiejętności."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutalizm",
+          "desc": "Odważne krawędzie i kolory o wysokim kontraście zapewniają modny, bezkompromisowy wygląd."
+        },
+        "glassmorphism": {
+          "name": "Glassmorfizm",
+          "desc": "Efekty matowego szkła na kolorowych gradientach zapewniają elegancki, nowoczesny interfejs użytkownika."
+        },
+        "linkInBio": {
+          "name": "Link w Bio",
+          "desc": "Kompaktowy układ pionowy zoptymalizowany pod kątem ekranów mobilnych i mediów społecznościowych."
+        }
+      },
+      "appearances": {
+        "light": "Światło",
+        "dark": "Ciemno",
+        "system": "Systemie"
+      },
+      "cornersOptions": {
+        "sharp": "Ostry",
+        "rounded": "Zaokrąglone",
+        "pill": "Pigułka"
+      }
+    },
+    "feedback": {
+      "title": "Wyślij opinię",
+      "subtitle": "Pomóż nam ulepszyć tę aplikację, przesyłając sugestie, krytykę lub zgłaszając błędy w tej aplikacji.",
+      "categoryLabel": "Kategoria opinii",
+      "messageLabel": "Szczegóły wiadomości",
+      "messagePlaceholder": "Opowiedz mi szczegółowo o tym, co chcesz przekazać...",
+      "imageLabel": "Załącznik obrazu (opcjonalnie)",
+      "imagePlaceholder": "Kliknij, aby przesłać obraz lub zrzut ekranu",
+      "submitting": "Wysyłam...",
+      "submitBtn": "Wyślij opinię",
+      "categories": {
+        "suggestion": "Sugestie i pomysły",
+        "bug": "Raport o błędach",
+        "criticism": "Krytyka",
+        "other": "Inni"
+      },
+      "imageErrorTitle": "Błąd",
+      "imageErrorMessage": "Niektóre pliki są odrzucane, ponieważ nie są obsługiwanymi formatami obrazów (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Sukces",
+      "successMessage": "Dziękujemy za Twoją opinię! Raport został wysłany.",
+      "submitErrorTitle": "Nie udało się",
+      "submitErrorMessage": "Wystąpił błąd podczas wysyłania opinii. Spróbuj ponownie."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "O mnie",
+      "skills": "Umiejętności",
+      "projects": "Projektowanie",
+      "workExperience": "Doświadczenie zawodowe",
+      "orgExperience": "Doświadczenie organizacyjne",
+      "education": "Edukacja",
+      "certifications": "Szkolenia i certyfikaty",
+      "contact": "Skontaktuj się ze mną"
+    },
+    "editor": {
+      "profileInfo": "Informacje o profilu",
+      "saving": "Oszczędność...",
+      "profilePhoto": "Zdjęcie profilowe",
+      "clickToUpload": "Kliknij, aby przesłać (JPG, PNG)",
+      "fullName": "Pełne imię i nazwisko",
+      "fullNamePlaceholder": "np. ",
+      "bio": "Życiorys",
+      "bioPlaceholder": "Fullstack Developer z pasją do tworzenia nowoczesnych aplikacji internetowych...",
+      "location": "Lokalizacja",
+      "locationPlaceholder": "np. ",
+      "gender": "Płeć",
+      "selectGender": "Wybierz Płeć",
+      "male": "Mężczyzna",
+      "female": "Kobieta",
+      "custom": "Zwyczaj",
+      "customPlaceholder": "Wpisz swoją niestandardową płeć...",
+      "uploadCv": "Prześlij CV",
+      "cvFormat": "(DOC lub PDF)",
+      "preview": "Zapowiedź",
+      "remove": "Usunąć",
+      "clickToUploadCv": "Kliknij, aby przesłać plik PDF lub DOC",
+      "sections": "Sekcje",
+      "removeSelected": "Usuń wybrane",
+      "confirmRemove": "Potwierdź Usuń",
+      "addSection": "Dodaj sekcję",
+      "addAllSections": "Dodaj wszystkie sekcje",
+      "noSections": "Nie ma jeszcze sekcji",
+      "clickToAdd": "Aby rozpocząć, kliknij „+ Dodaj sekcję”.",
+      "selectAll": "Wybierz wszystko",
+      "selected": "Wybrany",
+      "dragToReorder": "Przeciągnij, aby zmienić kolejność sekcji",
+      "livePreview": "Podgląd na żywo",
+      "addSectionsToBuild": "Dodaj sekcje, aby zbudować swoje portfolio",
+      "now": "Teraz",
+      "current": "Aktualny",
+      "noExpiry": "Brak ważności",
+      "see": "Widzieć",
+      "position": "Pozycja",
+      "degree": "Stopień",
+      "certification": "Orzecznictwo",
+      "sectionsForm": {
+        "about": {
+          "label": "Opis siebie",
+          "placeholder": "Opowiedz nam o sobie, swoim pochodzeniu, zainteresowaniach i umiejętnościach..."
+        },
+        "skills": {
+          "addPlaceholder": "Wpisz umiejętność i naciśnij Enter..."
+        },
+        "projects": {
+          "title": "Nazwa projektu",
+          "titlePlaceholder": "Nazwa projektu...",
+          "url": "Adres URL projektu",
+          "description": "Opis",
+          "descriptionPlaceholder": "Krótki opis projektu...",
+          "uploadThumbnail": "Obraz projektu",
+          "addProject": "Dodaj projekt",
+          "projectNum": "Projekt #",
+          "currentProject": "To jest projekt, nad którym pracuję"
+        },
+        "work": {
+          "company": "Firma/agencja",
+          "companyPlaceholder": "Nazwa firmy...",
+          "position": "Stanowisko/tytuł",
+          "positionPlaceholder": "Twoje stanowisko...",
+          "employmentType": "Rodzaj pracy",
+          "location": "Lokalizacja",
+          "locationPlaceholder": "Miasto, kraj...",
+          "startDate": "Start",
+          "endDate": "Gotowy",
+          "currentWork": "W tej chwili nadal pracuję",
+          "description": "Opis",
+          "descriptionPlaceholder": "Opis stanowiska i zakres obowiązków...",
+          "skills": "Umiejętność",
+          "addExperience": "Dodaj doświadczenie zawodowe",
+          "experienceNum": "Doświadczenie #",
+          "dateError": "Data zakończenia nie może być wcześniejsza niż data rozpoczęcia"
+        },
+        "org": {
+          "organization": "Nazwa organizacji",
+          "orgPlaceholder": "Uniwersytet BEM...",
+          "role": "Rola/stanowisko",
+          "rolePlaceholder": "Szef Oddziału...",
+          "addOrg": "Dodaj doświadczenie organizacyjne",
+          "orgNum": "Organizacja nr"
+        },
+        "edu": {
+          "institution": "Instytucje edukacyjne",
+          "institutionPlaceholder": "Nazwa kampusu lub szkoły...",
+          "degree": "Tytuł",
+          "degreePlaceholder": "S1, liceum itp.",
+          "major": "Wydział/kierunek studiów",
+          "majorPlaceholder": "Inżynieria Informatyczna...",
+          "gpa": "GPA (opcjonalnie)",
+          "currentStudy": "Wciąż się tutaj uczę",
+          "descriptionPlaceholder": "Aktywność i osiągnięcia w trakcie studiów...",
+          "addEdu": "Dodaj edukację",
+          "eduNum": "Edukacja #"
+        },
+        "cert": {
+          "name": "Nazwa certyfikatu/szkolenia",
+          "namePlaceholder": "Nazwa certyfikatu...",
+          "issuer": "Wydawca",
+          "issuerPlaceholder": "Instytucja wydawnicza...",
+          "issueDate": "Początek (data publikacji)",
+          "issueDatePlaceholder": "Wybierz datę publikacji...",
+          "expiryDate": "Ukończono (okres ważny)",
+          "expiryDatePlaceholder": "Wybierz datę ważności...",
+          "noExpiry": "Certyfikat ten nie ma daty ważności",
+          "url": "Adres URL danych uwierzytelniających",
+          "uploadThumbnail": "Certyfikat / obraz szkolenia",
+          "uploadThumbnailLimit": "Prześlij obraz certyfikatu (JPG/PNG/WEBP, maks. 2MB)",
+          "addCert": "Dodaj certyfikat",
+          "certNum": "Certyfikat #"
+        },
+        "contact": {
+          "contactNum": "Numer kontaktowy",
+          "platform": "Platforma",
+          "displayText": "Wyświetl tekst",
+          "displayTextPlaceholder": "np. ty@email.com lub @nazwa użytkownika",
+          "url": "Link (adres URL)",
+          "urlPlaceholderWhatsapp": "np. 62812... (bez początkowego 0)",
+          "urlPlaceholderEmail": "np. ty@email.com",
+          "urlPlaceholderWebsite": "np. https://...",
+          "urlPlaceholderDefault": "np. nazwa użytkownika",
+          "addContact": "Dodaj kontakt"
+        },
+        "common": {
+          "months": {
+            "1": "Styczeń",
+            "2": "Luty",
+            "3": "marzec",
+            "4": "Kwiecień",
+            "5": "Móc",
+            "6": "Czerwiec",
+            "7": "Lipiec",
+            "8": "Sierpień",
+            "9": "Wrzesień",
+            "10": "Październik",
+            "11": "Listopad",
+            "12": "Grudzień"
+          },
+          "month": "Miesiąc",
+          "year": "Rok",
+          "invalidDate": "Nieprawidłowy miesiąc końcowy",
+          "words": "słowa"
+        }
+      },
+      "sure": "Jasne",
+      "deletePhotoTitle": "Usunąć zdjęcie profilowe?",
+      "deletePhotoMessage": "Czy na pewno chcesz usunąć to zdjęcie profilowe?",
+      "cancel": "Anulować",
+      "delete": "Usuwać"
+    },
+    "cropper": {
+      "chooseBackground": "Wybierz Tło",
+      "cropPhoto": "Przytnij swoje zdjęcie",
+      "useOriginal": "Użyj oryginału",
+      "backgroundPresets": "Ustawienia wstępne tła",
+      "none": "Nic",
+      "uploadBackground": "Prześlij tło",
+      "cancel": "Anulować",
+      "savePhoto": "Zapisz zdjęcie",
+      "zoom": "Brzęczenie",
+      "rotationTilt": "Obrót i pochylenie",
+      "resetRotation": "Zresetuj do 0°",
+      "center": "Centrum",
+      "rotateLeft": "Obróć -90°",
+      "rotateRight": "Obróć o +90°",
+      "removeBackground": "Usuń tło",
+      "processing": "Przetwarzam Twój obraz, proszę czekać..."
+    },
+    "cvPreview": {
+      "title": "Podgląd CV",
+      "downloadCv": "Pobierz CV",
+      "download": "Pobierać",
+      "wordCannotPreview": "Dokumentów Word (.doc/.docx) nie można przeglądać natywnie w przeglądarce. ",
+      "downloadFile": "Pobierz plik CV",
+      "back": "Z powrotem",
+      "mobileMessage": "Aby zobaczyć podgląd, pobierz plik CV.",
+      "preview": "Podgląd CV",
+      "wordPreviewTitle": "Podgląd dokumentu programu Word",
+      "wordPreviewMessage": "Dokumentów Word (.doc/.docx) nie można przeglądać natywnie w przeglądarce. Aby go obejrzeć, pobierz plik."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Napisz krótki opis siebie, zainteresowań i celów zawodowych..."
+    },
+    "skills": {
+      "placeholder": "Wpisz nazwę umiejętności...",
+      "add": "Dodać",
+      "enterToAdd": "Naciśnij Enter, aby dodać",
+      "noSkills": "Nie dodano jeszcze żadnych umiejętności."
+    },
+    "projects": {
+      "projectName": "Nazwa projektu",
+      "projectNamePlaceholder": "np. ",
+      "projectUrl": "Adres URL projektu",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Czas trwania",
+      "startMonth": "Rozpocznij miesiąc",
+      "startYear": "Rozpocznij rok",
+      "endMonth": "Miesiąc zakończenia",
+      "endYear": "Koniec roku",
+      "currentlyWorking": "Obecnie nad tym pracuję",
+      "description": "Opis",
+      "descriptionPlaceholder": "Opisz projekt, swoją rolę i osiągnięcia...",
+      "technologies": "Wykorzystane technologie",
+      "addProject": "Dodaj projekt",
+      "image": "Obraz projektu",
+      "removeImage": "Usuń obraz",
+      "uploadImage": "Kliknij, aby przesłać obraz"
+    },
+    "work": {
+      "company": "Firma/Instytucja",
+      "companyPlaceholder": "Nazwa firmy...",
+      "role": "Rola/stanowisko",
+      "rolePlaceholder": "Twoje stanowisko...",
+      "jobType": "Typ pracy",
+      "selectJobType": "Wybierz typ",
+      "fullTime": "Pełny etat",
+      "partTime": "W niepełnym wymiarze godzin",
+      "contract": "Umowa",
+      "internship": "Staż",
+      "freelance": "Pracownik nieetatowy",
+      "location": "Lokalizacja",
+      "locationPlaceholder": "np. ",
+      "duration": "Czas trwania",
+      "currentlyWorking": "Obecnie tu pracuję",
+      "description": "Opis stanowiska",
+      "descriptionPlaceholder": "Opisz swoje najważniejsze obowiązki i osiągnięcia...",
+      "skills": "Konkretne umiejętności",
+      "addExperience": "Dodaj doświadczenie"
+    },
+    "org": {
+      "organization": "Nazwa organizacji",
+      "organizationPlaceholder": "Nazwa organizacji...",
+      "role": "Rola/stanowisko",
+      "rolePlaceholder": "np. ",
+      "duration": "Czas trwania",
+      "periodFormat": "lub dowolny format (np. 2020 - 2022)",
+      "periodPlaceholder": "np. ",
+      "currentlyActive": "Obecnie aktywny",
+      "description": "Opis działania",
+      "descriptionPlaceholder": "Opisz swoje działania lub wkład...",
+      "addExperience": "Dodaj doświadczenie"
+    },
+    "education": {
+      "institution": "Nazwa instytucji",
+      "institutionPlaceholder": "Nazwa szkoły lub uczelni...",
+      "degree": "Stopień/poziom",
+      "degreePlaceholder": "np. ",
+      "major": "Kierunek/kierunek studiów",
+      "majorPlaceholder": "np. ",
+      "gpa": "GPA / ocena",
+      "gpaPlaceholder": "np. ",
+      "duration": "Czas trwania edukacji",
+      "periodFormat": "lub dowolny format (np. 2018 - 2022)",
+      "periodPlaceholder": "np. ",
+      "currentlyStudying": "Obecnie studiuję tutaj",
+      "description": "Działalność/wyróżnienia",
+      "descriptionPlaceholder": "Opisz działalność akademicką, organizacje lub otrzymane wyróżnienia...",
+      "addEducation": "Dodaj edukację"
+    },
+    "cert": {
+      "name": "Nazwa certyfikatu",
+      "namePlaceholder": "np. ",
+      "issuer": "Organizacja wydająca",
+      "issuerPlaceholder": "np. ",
+      "issueDate": "Data wydania",
+      "expiryDate": "Ważne do",
+      "noExpiry": "To poświadczenie nie wygasa",
+      "yearPlaceholder": "lub Rok (np. 2023)",
+      "credentialUrl": "Adres URL danych uwierzytelniających",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Powiązane umiejętności",
+      "addCertification": "Dodaj certyfikat",
+      "image": "Obraz/Logo",
+      "removeImage": "Usuń obraz",
+      "uploadImage": "Kliknij, aby przesłać obraz"
+    },
+    "common": {
+      "months": {
+        "1": "Styczeń",
+        "2": "Luty",
+        "3": "marzec",
+        "4": "Kwiecień",
+        "5": "Móc",
+        "6": "Czerwiec",
+        "7": "Lipiec",
+        "8": "Sierpień",
+        "9": "Wrzesień",
+        "10": "Październik",
+        "11": "Listopad",
+        "12": "Grudzień"
+      },
+      "month": "Miesiąc",
+      "year": "Rok",
+      "invalidDate": "Nieprawidłowy miesiąc końcowy",
+      "words": "słowa"
+    }
+  },
+  "settings": {
+    "title": "Ustawienia",
+    "subtitle": "Zarządzaj profilem i preferencjami swojego portfolio",
+    "tabs": {
+      "profile": "Mój profil",
+      "security": "Bezpieczeństwo",
+      "personalization": "Personalizacja"
+    },
+    "profile": {
+      "infoTitle": "Podstawowe informacje",
+      "photo": "Zdjęcie profilowe",
+      "uploadPhoto": "Zmień zdjęcie",
+      "fullName": "Pełne imię i nazwisko",
+      "fullNamePlaceholder": "nieznany z nazwiska",
+      "email": "Adres e-mail",
+      "emailPlaceholder": "jan@example.com",
+      "emailHelp": "Adres e-mail służy do logowania i nie jest wyświetlany publicznie.",
+      "portfolioUrl": "Adres URL portfela",
+      "saveProfile": "Zapisz profil",
+      "save": "Zapisz profil",
+      "accountCreated": "Konto utworzone",
+      "lastLogin": "Ostatnie logowanie",
+      "oauthNotice": "Ten profil jest połączony z Twoim kontem {{provider}}. Zmiany w profilu należy dokonać za pośrednictwem usługodawcy."
+    },
+    "security": {
+      "changePassword": "Zmień hasło",
+      "currentPassword": "Aktualne hasło",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nowe hasło",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Potwierdź nowe hasło",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Co najmniej 8 znaków",
+        "uppercase": "Jedna wielka litera (A-Z)",
+        "number": "Jedna liczba (0-9)",
+        "symbol": "Jeden symbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Hasło",
+      "updatePassword": "Zaktualizuj hasło",
+      "additionalSecurity": "Dodatkowe bezpieczeństwo",
+      "twoFactor": "Uwierzytelnianie dwuskładnikowe (2FA)",
+      "twoFactorDesc": "Zabezpiecz swoje konto dodatkowym kodem OTP.",
+      "activeSessions": "Aktywne sesje",
+      "activeSessionsDesc": "Zawsze zezwalaj na monitorowanie zalogowanych urządzeń.",
+      "publicVisibility": "Widoczność publiczna",
+      "hideFromSearch": "Ukryj portfolio przed wyszukiwarkami",
+      "hideFromSearchDesc": "Uniemożliwiaj Google indeksowanie Twojej publicznej strony portfolio.",
+      "disable2fa": {
+        "title": "Wyłącz 2FA",
+        "description": "Czy na pewno chcesz wyłączyć uwierzytelnianie dwuskładnikowe?",
+        "confirmPasswordLabel": "Wpisz swoje hasło, aby potwierdzić",
+        "currentPasswordPlaceholder": "Aktualne hasło",
+        "cancelButton": "Anuluj",
+        "confirmButton": "Wyłącz 2FA",
+        "incorrectPassword": "Nieprawidłowe hasło."
+      },
+      "setup2fa": {
+        "step1Title": "1. Zeskanuj kod QR",
+        "step1Desc": "Otwórz aplikację uwierzytelniającą i zeskanuj następujący kod QR:",
+        "unableToScan": "Nie możesz skanować? Użyj klucza konfiguracyjnego",
+        "step2Title": "2. Zweryfikuj kod",
+        "step2Desc": "Wpisz 6-cyfrowy kod wygenerowany przez Twoją aplikację:",
+        "cancelButton": "Anulować",
+        "enableButton": "Włącz 2FA",
+        "invalidLength": "Proszę wprowadzić 6-cyfrowy kod.",
+        "invalidCode": "Nieprawidłowy kod weryfikacyjny. Spróbuj ponownie."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Sterowanie językiem",
+      "appLanguage": "Język aplikacji",
+      "layoutTitle": "Układ i typografia",
+      "layoutStyle": "Styl układu",
+      "layoutModern": "Styl nowoczesny (domyślny)",
+      "layoutClassic": "Klasyczny styl",
+      "layoutMinimalist": "Minimalistyczny styl",
+      "fontSize": "Rozmiar czcionki aplikacji",
+      "fontSmall": "Mały",
+      "fontNormal": "Normalny (Średni)",
+      "fontLarge": "Duży",
+      "searchLanguage": "Wyszukaj język...",
+      "languageNotFound": "Nie znaleziono języka",
+      "layoutElegant": "Elegancki styl"
+    },
+    "saveChanges": "Zapisz zmiany",
+    "cancel": "Anulować",
+    "appSettings": "Ustawienia aplikacji",
+    "logoutConfirmTitle": "Potwierdź wylogowanie",
+    "logoutConfirmDesc": "Czy na pewno chcesz się wylogować z systemu?",
+    "logoutConfirmYes": "Tak, wyloguj się",
+    "generalError": "Wystąpił błąd. ",
+    "success": "Sukces",
+    "preferencesSaved": "Preferencje aplikacji zostały zapisane pomyślnie.",
+    "header": "Ustawienia aplikacji",
+    "logout": {
+      "title": "Potwierdzenie wylogowania",
+      "message": "Czy na pewno chcesz się wylogować z systemu?",
+      "confirm": "Tak, wyloguj się"
+    },
+    "about": {
+      "title": "O aplikacji",
+      "subtitle": "Platforma do tworzenia portfeli",
+      "version": "Wersja",
+      "description": "DevFolio to nowoczesna platforma do tworzenia portfolio przeznaczona dla programistów, projektantów i profesjonalnych twórców. ",
+      "license": "Licencja i prawa autorskie",
+      "copyright": "© 2026 DevFolio Inc. Wszelkie prawa zastrzeżone.",
+      "developer": "Wywoływacz",
+      "developedBy": "Opracowany przez zespół DevFolio"
+    },
+    "deleteAccount": {
+      "title": "Trwale usuń konto",
+      "menuItem": "Usuń konto",
+      "successTitle": "Sukces",
+      "successMessage": "E-mail z potwierdzeniem usunięcia konta został wysłany.",
+      "errorTitle": "Nie udało się",
+      "errorMessage": "Nie udało się wysłać e-maila z potwierdzeniem.",
+      "confirmationMessage": "Czy na pewno chcesz trwale usunąć swoje konto?",
+      "warningMessage1": "Otrzymasz wiadomość e-mail z potwierdzeniem usunięcia konta.",
+      "warningMessage2": "Jeśli zostanie to potwierdzone, wszystkie dane (portfolio, projekty, statystyki) zostaną trwale usunięte i nie będzie można ich odzyskać.",
+      "cancel": "Anuluj",
+      "confirm": "Potwierdzenie"
+    },
+    "toasts": {
+      "toastError": "Błąd",
+      "toastSuccess": "Sukces",
+      "toastSetup2FAFailed": "Nie udało się skonfigurować 2FA. Spróbuj ponownie.",
+      "toast2FAEnabled": "Włączono uwierzytelnianie dwuskładnikowe.",
+      "toast2FADisabled": "Uwierzytelnianie dwuskładnikowe zostało wyłączone.",
+      "toastSessionEnabled": "Włączono monitorowanie aktywnej sesji.",
+      "toastSessionDisabled": "Monitorowanie aktywnej sesji zostało wyłączone.",
+      "toastSetupKeyCopied": "Klucz instalacyjny skopiowany do schowka."
+    },
+    "privacy": {
+      "title": "Polityka prywatności",
+      "updateDate": "Ostatnia aktualizacja: 15 lipca 2026 r",
+      "intro": "Niniejsza Polityka prywatności wyjaśnia, w jaki sposób DevFolio gromadzi, wykorzystuje i chroni Twoje dane osobowe podczas korzystania z naszych usług.",
+      "section1Title": "1. Informacje, które zbieramy",
+      "section1Content": "Zbieramy informacje, które podajesz bezpośrednio podczas tworzenia konta, budowania portfolio i kontaktowania się z naszym wsparciem. ",
+      "section2Title": "2. Wykorzystanie informacji",
+      "section2Content": "Twoje dane są wykorzystywane do obsługi, utrzymywania i zapewniania funkcji naszych usług, a także do komunikowania się z Tobą w sprawie Twojego konta lub usług.",
+      "section3Title": "3. Bezpieczeństwo danych",
+      "section3Content": "Wdrażamy uzasadnione środki bezpieczeństwa, aby chronić Twoje dane przed nieuprawnionym dostępem, ujawnieniem lub zniszczeniem."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Nie znaleziono tokenu potwierdzenia.",
+    "defaultError": "Nie udało się usunąć konta. Token mógł wygasnąć.",
+    "loadingTitle": "Usuwanie konta...",
+    "loadingMessage": "Proszę czekać, przetwarzamy Twoją prośbę.",
+    "successTitle": "Konto pomyślnie usunięte",
+    "successMessage": "Wszystkie Twoje dane zostały trwale usunięte. Zostaniesz przekierowany...",
+    "errorTitle": "Nie udało się usunąć konta",
+    "backToHome": "Wróć do domu"
+  },
+  "forgotPassword": {
+    "minutes": "minuty",
+    "seconds": "sekundy",
+    "success": "Sukces",
+    "otpSentToEmail": "Kod OTP został wysłany na Twój adres e-mail.",
+    "failed": "Nie udało się",
+    "emailNotFound": "Nie znaleziono adresu e-mail.",
+    "emailThirdParty": "Ten adres e-mail jest zarejestrowany przez stronę trzecią.",
+    "genericError": "Wystąpił błąd. Spróbuj ponownie.",
+    "otpVerified": "Kod OTP został pomyślnie zweryfikowany.",
+    "otpExpired": "Kod OTP wygasł. Poproś o nowy kod.",
+    "otpInvalid": "Nieprawidłowy kod jednorazowy.",
+    "otpResent": "Nowy kod OTP został wysłany na Twój adres e-mail.",
+    "otpResendFailed": "Nie udało się ponownie wysłać kodu jednorazowego. Spróbuj ponownie.",
+    "passwordResetSuccess": "Hasło zostało pomyślnie zresetowane. Proszę zalogować się przy użyciu nowego hasła.",
+    "passwordResetFailed": "Nie udało się zresetować hasła.",
+    "backToLogin": "Wróć do logowania",
+    "back": "Powrót",
+    "title": "Zapomniałem hasła",
+    "description": "Wpisz adres e-mail zarejestrowany na Twoim koncie. Wyślemy kod OTP w celu zresetowania hasła.",
+    "emailLabel": "Adres e-mail",
+    "sending": "Wysyłam...",
+    "sendOtp": "Wyślij kod OTP",
+    "verifyOtpTitle": "Zweryfikuj kod OTP",
+    "verifyOtpDesc": "Wpisz 6-cyfrowy kod, który został wysłany na Twój adres e-mail, aby potwierdzić swoją tożsamość.",
+    "verifying": "Sprawdzam...",
+    "verifyOtp": "Zweryfikuj hasło jednorazowe",
+    "resending": "Wysyłam ponownie...",
+    "resendOtp": "Wyślij ponownie kod OTP",
+    "resendCodeIn": "Wyślij ponownie kod w",
+    "newPasswordTitle": "Utwórz nowe hasło",
+    "newPasswordDesc": "Utwórz nowe, silne hasło, aby zabezpieczyć swoje konto.",
+    "newPasswordLabel": "Nowe hasło",
+    "min8Chars": "Minimum 8 znaków",
+    "oneUpperCase": "1 wielka litera (A-Z)",
+    "oneNumber": "1 liczba (0-9)",
+    "oneSymbol": "1 symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Potwierdź hasło",
+    "passwordsDoNotMatch": "Hasła nie pasują.",
+    "resettingPassword": "Resetowanie hasła...",
+    "resetPassword": "Zresetuj hasło"
+  },
+  "verifyEmail": {
+    "resendError": "Nie udało się ponownie wysłać e-maila weryfikacyjnego. Spróbuj ponownie.",
+    "checkingStatus": "Sprawdzam status weryfikacji...",
+    "title": "Sprawdź swój e-mail",
+    "description": "Wysłaliśmy wiadomość weryfikacyjną na Twój adres e-mail. Otwórz wiadomość e-mail i kliknij przycisk <1>„Potwierdź konto”</1>, aby aktywować konto.",
+    "stepsTitle": "Kroki",
+    "step1": "Otwórz aplikację e-mail (Gmail, Yahoo itp.)",
+    "step2": "Poszukaj e-maila od DevFolio o temacie „Aktywacja konta”",
+    "step3": "Kliknij przycisk „Potwierdź konto” w wiadomości e-mail",
+    "step4": "Zostaniesz przekierowany na stronę logowania, gdzie możesz wpisać",
+    "resendSuccess": "E-mail weryfikacyjny został wysłany ponownie!",
+    "resending": "Wysyłam ponownie...",
+    "resendButton": "Wyślij ponownie e-mail weryfikacyjny",
+    "backToLogin": "Wróć do strony logowania",
+    "footerNote": "Nie otrzymałeś e-maila? Sprawdź folder <1>Spam</1> lub <2>Śmieci</2> w swojej poczcie e-mail. Link weryfikacyjny jest ważny przez <3>24 godziny</3>."
+  }
+}

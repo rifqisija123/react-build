@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "خصوصیات",
+    "templates": "ٹیمپلیٹس",
+    "pricing": "قیمتوں کا تعین",
+    "login": "لاگ ان",
+    "getStarted": "شروع کریں",
+    "title": "ڈیو فولیو"
+  },
+  "landing": {
+    "badge": "ڈویلپرز کے لیے حتمی پورٹ فولیو بلڈر",
+    "title1": "اپنا پیشہ ور بنائیں",
+    "title2": "میں پورٹ فولیو",
+    "titleHighlight": "سیکنڈ",
+    "subtitle": "ہر وہ چیز جس کی آپ کو اپنی مہارتوں، منصوبوں اور تجربے کو ظاہر کرنے کی ضرورت ہے۔ ",
+    "startBuilding": "ابھی تعمیر شروع کریں۔",
+    "viewTemplates": "ٹیمپلیٹس دیکھیں",
+    "fastDeployment": "تیز تعیناتی۔",
+    "liveStatus": "username.dev لائیو ہے!",
+    "featuresTitle": "طاقتور خصوصیات",
+    "featuresSubtitle": "ہم وہ تمام ٹولز فراہم کرتے ہیں جن کی آپ کو ہجوم سے الگ ہونے اور اپنے خوابوں کی نوکری کرنے کے لیے درکار ہے۔",
+    "feature1Title": "ڈریگ اینڈ ڈراپ بلڈر",
+    "feature1Desc": "ہمارے بدیہی بصری ایڈیٹر کے ساتھ آسانی سے اپنے سیکشنز، پروجیکٹس اور ہنر کو منظم کریں۔",
+    "feature2Title": "حسب ضرورت تھیمز",
+    "feature2Desc": "پیشہ ورانہ طور پر ڈیزائن کردہ ٹیمپلیٹس میں سے انتخاب کریں یا اپنی منفرد شکل بنائیں۔",
+    "feature3Title": "ریئل ٹائم تجزیات",
+    "feature3Desc": "اپنے زائرین کو ٹریک کریں، دیکھیں کہ کون سے پروجیکٹ سب سے زیادہ توجہ حاصل کرتے ہیں، اور مزید۔"
+  },
+  "auth": {
+    "welcomeBack": "دوبارہ خوش آمدید",
+    "loginToContinue": "جاری رکھنے کے لیے اپنے اکاؤنٹ میں لاگ ان کریں۔",
+    "createAccount": "اکاؤنٹ بنائیں",
+    "joinCommunity": "ہزاروں دوسرے ڈویلپرز میں شامل ہوں۔",
+    "fullName": "پورا نام",
+    "fullNamePlaceholder": "جیسے ",
+    "email": "ای میل ایڈریس",
+    "emailPlaceholder": "you@example.com",
+    "password": "پاس ورڈ",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "مجھے یاد رکھنا",
+    "forgotPassword": "پاس ورڈ بھول گئے؟",
+    "signIn": "سائن ان کریں۔",
+    "signingIn": "سائن ان ہو رہا ہے...",
+    "signUp": "سائن اپ کریں۔",
+    "signingUp": "سائن اپ ہو رہا ہے...",
+    "noAccount": "اکاؤنٹ نہیں ہے؟",
+    "hasAccount": "پہلے سے ہی اکاؤنٹ ہے؟",
+    "passwordRules": {
+      "title": "پاس ورڈ پر مشتمل ہونا چاہیے:",
+      "length": "کم از کم 8 حروف",
+      "uppercase": "ایک بڑے حروف (A-Z)",
+      "number": "ایک نمبر (0-9)",
+      "symbol": "ایک علامت (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "پورٹ فولیو بلڈر",
+      "templates": "ٹیمپلیٹس اور تھیمز",
+      "settings": "ترتیبات",
+      "collapse": "سائڈبار کو سکیڑیں۔",
+      "overview": "جائزہ",
+      "profileSettings": "پروفائل کی ترتیبات",
+      "customDomain": "حسب ضرورت ڈومین",
+      "feedback": "تاثرات"
+    },
+    "header": {
+      "viewLive": "لائیو دیکھیں",
+      "welcome": "خوش آمدید،",
+      "logout": "لاگ آؤٹ",
+      "builder": "بلڈر",
+      "livePortfolio": "لائیو پورٹ فولیو",
+      "live": "جیو"
+    },
+    "logoutModal": {
+      "title": "لاگ آؤٹ",
+      "message": "کیا آپ واقعی اپنے اکاؤنٹ سے لاگ آؤٹ کرنا چاہتے ہیں؟ ",
+      "cancel": "منسوخ کریں۔",
+      "confirm": "ہاں، لاگ آؤٹ"
+    },
+    "slugModal": {
+      "title": "اپنا پورٹ فولیو URL منتخب کریں۔",
+      "message": "یہ URL آپ کے پورٹ فولیو کا منفرد لنک ہوگا۔ ",
+      "slugPlaceholder": "آپ کا نام",
+      "availability": "دستیابی:",
+      "available": "دستیاب ہے۔",
+      "unavailable": "دستیاب نہیں",
+      "checking": "چیک کر رہا ہے...",
+      "mustFormat": "صرف حروف، نمبر اور ڈیش پر مشتمل ہو سکتا ہے (-)",
+      "cancel": "منسوخ کریں۔",
+      "save": "یو آر ایل کو محفوظ کریں۔",
+      "usernameUrl": "صارف نام کا URL",
+      "helpText": "چھوٹے حروف، نمبر، اور ڈیش۔ ",
+      "validation": {
+        "empty": "سلگ خالی نہیں ہو سکتا۔",
+        "min3": "کم از کم 3 حروف۔",
+        "max30": "زیادہ سے زیادہ 30 حروف۔",
+        "format": "صرف چھوٹے حروف، نمبر، اور ڈیشز (-)۔ "
+      }
+    },
+    "loadingPortfolio": "پورٹ فولیو ڈیٹا لوڈ ہو رہا ہے...",
+    "overview": {
+      "greetings": {
+        "morning": "صبح بخیر",
+        "afternoon": "گڈ دوپہر",
+        "evening": "گڈ دوپہر",
+        "night": "شب بخیر"
+      },
+      "welcome": {
+        "hi": "ہیلو،",
+        "creator": "خالق",
+        "desc1": "DevFolio ڈیش بورڈ میں خوش آمدید۔ آپ کے پورٹ فولیو کو دیکھا گیا ہے۔",
+        "desc2": "شخص کام کرتے رہیں!",
+        "editPortfolio": "پورٹ فولیو میں ترمیم کریں۔"
+      },
+      "stats": {
+        "totalVisitors": "کل زائرین",
+        "projectViews": "دیکھا گیا (پروجیکٹ)",
+        "activeSessions": "ایکٹو سیشن",
+        "totalLabel": "کل"
+      },
+      "setup": {
+        "title": "سیٹ اپ کی پیشرفت",
+        "completed": "آپ کا پورٹ فولیو مکمل ہو گیا ہے! 🎉",
+        "inProgress": "کامل پورٹ فولیو کے لیے اقدامات۔",
+        "profile": {
+          "title": "مکمل پروفائل",
+          "desc": "نام، بائیو اور پروفائل فوٹو شامل کریں۔"
+        },
+        "section": {
+          "title": "حصے شامل کریں۔",
+          "desc": "پورٹ فولیو میں کم از کم 1 سیکشن کو فعال کریں۔"
+        },
+        "project": {
+          "title": "پروجیکٹ شامل کریں۔",
+          "desc": "اپنے بہترین پروجیکٹس میں سے کم از کم 1 درج کریں۔"
+        },
+        "publish": {
+          "title": "پورٹ فولیو شائع کریں۔",
+          "desc": "ایک حسب ضرورت URL سیٹ کریں تاکہ عوام اس تک رسائی حاصل کر سکے۔"
+        }
+      },
+      "topProjects": {
+        "title": "سب سے زیادہ مقبول پروجیکٹس",
+        "desc": "زائرین کی نظر میں آپ کے کام کی کارکردگی۔",
+        "viewAll": "سب دیکھیں",
+        "empty": "ابھی تک آپ کے پروجیکٹ کا کوئی ویو ڈیٹا نہیں ہے۔"
+      }
+    },
+    "themes": {
+      "title": "ٹیمپلیٹس اور تھیمز",
+      "subtitle": "اپنے عوامی پورٹ فولیو کی شکل و صورت کو حسب ضرورت بنائیں۔",
+      "reset": "ری سیٹ ڈیفالٹ",
+      "save": "تبدیلیاں محفوظ کریں",
+      "saving": "محفوظ کر رہا ہے...",
+      "chooseTemplate": "ایک سانچہ منتخب کریں",
+      "primaryColor": "بنیادی رنگ",
+      "typography": "نوع ٹائپ",
+      "appearance": "ظاہری شکل",
+      "corners": "کونے اور سرحدیں",
+      "successTitle": "کامیابی",
+      "successMessage": "تھیم کی ترجیحات کو کامیابی سے اپ ڈیٹ کر دیا گیا",
+      "errorTitle": "خرابی",
+      "errorMessage": "تھیم کی ترجیحات کو محفوظ کرنے میں ناکام",
+      "templates": {
+        "minimalist": {
+          "name": "مرصع",
+          "desc": "مواد پر توجہ مرکوز کرنے والا صاف اور سادہ ڈیزائن۔"
+        },
+        "developerDark": {
+          "name": "ڈویلپر ڈارک",
+          "desc": "کوڈ اور ٹیک اسٹیکس کی نمائش کے لیے بہترین گہرا تھیم۔"
+        },
+        "creative": {
+          "name": "تخلیقی",
+          "desc": "ڈیزائنرز اور تخلیق کاروں کے لیے متحرک اور رنگین ترتیب۔"
+        },
+        "executive": {
+          "name": "ایگزیکٹو",
+          "desc": "کاروباری پیشہ ور افراد کے لیے پیشہ ورانہ اور رسمی ترتیب۔"
+        },
+        "bentoGrid": {
+          "name": "بینٹو گرڈ",
+          "desc": "جدید ایپل طرز کا گرڈ لے آؤٹ جو مختلف مہارتوں کو مؤثر طریقے سے اجاگر کرتا ہے۔"
+        },
+        "neoBrutalism": {
+          "name": "نو بربریت",
+          "desc": "ایک جدید، غیرمعمولی شکل کے لیے بولڈ بارڈرز اور ہائی کنٹراسٹ رنگ۔"
+        },
+        "glassmorphism": {
+          "name": "شیشے کی شکل",
+          "desc": "ایک چیکنا جدید UI کے لیے رنگین گریڈینٹ پر فراسٹڈ شیشے کے اثرات۔"
+        },
+        "linkInBio": {
+          "name": "Bio میں لنک",
+          "desc": "کمپیکٹ عمودی ترتیب موبائل اسکرینوں اور سوشل میڈیا کے لیے موزوں ہے۔"
+        }
+      },
+      "appearances": {
+        "light": "روشنی",
+        "dark": "گہرا",
+        "system": "سسٹم"
+      },
+      "cornersOptions": {
+        "sharp": "تیز",
+        "rounded": "گول",
+        "pill": "گولی"
+      }
+    },
+    "feedback": {
+      "title": "رائے بھیجیں",
+      "subtitle": "اس ایپلیکیشن پر تجاویز، تنقید، یا کیڑے کی اطلاع دے کر اسے بہتر بنانے میں ہماری مدد کریں۔",
+      "categoryLabel": "فیڈ بیک کیٹیگری",
+      "messageLabel": "پیغام کی تفصیلات",
+      "messagePlaceholder": "آپ جو تاثرات دینا چاہتے ہیں اس کے بارے میں مجھے تفصیل سے بتائیں...",
+      "imageLabel": "تصویری منسلکہ (اختیاری)",
+      "imagePlaceholder": "تصویر یا اسکرین شاٹ اپ لوڈ کرنے کے لیے کلک کریں",
+      "submitting": "بھیج رہا ہے...",
+      "submitBtn": "رائے بھیجیں",
+      "categories": {
+        "suggestion": "تجاویز اور خیالات",
+        "bug": "بگ / ایرر رپورٹ",
+        "criticism": "تنقید",
+        "other": "دوسرے"
+      },
+      "imageErrorTitle": "خرابی",
+      "imageErrorMessage": "کچھ فائلوں کو مسترد کر دیا جاتا ہے کیونکہ وہ امیج فارمیٹس (JPG, PNG, GIF, WEBP) کی حمایت نہیں کرتی ہیں",
+      "successTitle": "کامیابی",
+      "successMessage": "آپ کے تاثرات کا شکریہ! رپورٹ بھیج دی گئی ہے۔",
+      "submitErrorTitle": "ناکام",
+      "submitErrorMessage": "تاثرات بھیجتے وقت ایک خرابی پیش آگئی۔ براہ کرم دوبارہ کوشش کریں۔"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "میرے بارے میں",
+      "skills": "ہنر",
+      "projects": "پروجیکٹس",
+      "workExperience": "کام کا تجربہ",
+      "orgExperience": "تنظیمی تجربہ",
+      "education": "تعلیم",
+      "certifications": "تربیت اور سرٹیفیکیشن",
+      "contact": "مجھ سے رابطہ کریں۔"
+    },
+    "editor": {
+      "profileInfo": "پروفائل کی معلومات",
+      "saving": "محفوظ کر رہا ہے...",
+      "profilePhoto": "پروفائل فوٹو",
+      "clickToUpload": "اپ لوڈ کرنے کے لیے کلک کریں (JPG، PNG)",
+      "fullName": "پورا نام",
+      "fullNamePlaceholder": "جیسے ",
+      "bio": "بایو",
+      "bioPlaceholder": "جدید ویب ایپس بنانے کے شوق کے ساتھ فل اسٹیک ڈیولپر...",
+      "location": "مقام",
+      "locationPlaceholder": "جیسے ",
+      "gender": "جنس",
+      "selectGender": "صنف منتخب کریں۔",
+      "male": "مرد",
+      "female": "خاتون",
+      "custom": "حسب ضرورت",
+      "customPlaceholder": "اپنی حسب ضرورت جنس ٹائپ کریں...",
+      "uploadCv": "سی وی اپ لوڈ کریں۔",
+      "cvFormat": "(DOC یا PDF)",
+      "preview": "پیش نظارہ",
+      "remove": "ہٹا دیں۔",
+      "clickToUploadCv": "PDF یا DOC اپ لوڈ کرنے کے لیے کلک کریں۔",
+      "sections": "سیکشنز",
+      "removeSelected": "منتخب کردہ کو ہٹا دیں۔",
+      "confirmRemove": "ہٹانے کی تصدیق کریں۔",
+      "addSection": "سیکشن شامل کریں۔",
+      "addAllSections": "تمام حصے شامل کریں۔",
+      "noSections": "ابھی تک کوئی سیکشن نہیں ہے۔",
+      "clickToAdd": "شروع کرنے کے لیے \"+ سیکشن شامل کریں\" پر کلک کریں۔",
+      "selectAll": "سبھی کو منتخب کریں۔",
+      "selected": "منتخب",
+      "dragToReorder": "سیکشنز کو دوبارہ ترتیب دینے کے لیے گھسیٹیں۔",
+      "livePreview": "لائیو پیش نظارہ",
+      "addSectionsToBuild": "اپنا پورٹ فولیو بنانے کے لیے حصے شامل کریں۔",
+      "now": "اب",
+      "current": "کرنٹ",
+      "noExpiry": "کوئی میعاد ختم نہیں ہوئی۔",
+      "see": "دیکھیں",
+      "position": "پوزیشن",
+      "degree": "ڈگری",
+      "certification": "سرٹیفیکیشن",
+      "sectionsForm": {
+        "about": {
+          "label": "اپنی ذات کی تفصیل",
+          "placeholder": "ہمیں اپنے بارے میں، اپنے پس منظر، دلچسپیوں اور مہارتوں کے بارے میں بتائیں..."
+        },
+        "skills": {
+          "addPlaceholder": "مہارت ٹائپ کریں پھر Enter دبائیں..."
+        },
+        "projects": {
+          "title": "پروجیکٹ کا نام",
+          "titlePlaceholder": "پروجیکٹ کا نام...",
+          "url": "پروجیکٹ URL",
+          "description": "تفصیل",
+          "descriptionPlaceholder": "منصوبے کی مختصر تفصیل...",
+          "uploadThumbnail": "پروجیکٹ کی تصویر",
+          "addProject": "پروجیکٹ شامل کریں۔",
+          "projectNum": "پروجیکٹ #",
+          "currentProject": "یہ ایک پروجیکٹ ہے جس پر میں کام کر رہا ہوں۔"
+        },
+        "work": {
+          "company": "کمپنی/ایجنسی۔",
+          "companyPlaceholder": "کمپنی کا نام...",
+          "position": "عہدہ/عنوان",
+          "positionPlaceholder": "آپ کی پوزیشن...",
+          "employmentType": "کام کی قسم",
+          "location": "مقام",
+          "locationPlaceholder": "شہر، ملک...",
+          "startDate": "شروع کریں۔",
+          "endDate": "ختم",
+          "currentWork": "میں اس وقت بھی کام کر رہا ہوں۔",
+          "description": "تفصیل",
+          "descriptionPlaceholder": "ملازمت کی تفصیل اور ذمہ داریاں...",
+          "skills": "ہنر",
+          "addExperience": "کام کا تجربہ شامل کریں۔",
+          "experienceNum": "تجربہ #",
+          "dateError": "اختتامی تاریخ آغاز کی تاریخ سے پہلے نہیں ہو سکتی"
+        },
+        "org": {
+          "organization": "تنظیم کا نام",
+          "orgPlaceholder": "بی ای ایم یونیورسٹی...",
+          "role": "کردار/مقام",
+          "rolePlaceholder": "ڈویژن کے سربراہ...",
+          "addOrg": "تنظیمی تجربہ شامل کریں۔",
+          "orgNum": "تنظیم #"
+        },
+        "edu": {
+          "institution": "تعلیمی ادارے",
+          "institutionPlaceholder": "کیمپس یا اسکول کا نام...",
+          "degree": "عنوان",
+          "degreePlaceholder": "S1، ہائی اسکول، وغیرہ...",
+          "major": "شعبہ/مطالعہ کا میدان",
+          "majorPlaceholder": "انفارمیٹکس انجینئرنگ...",
+          "gpa": "GPA (اختیاری)",
+          "currentStudy": "میں اب بھی یہاں سیکھ رہا ہوں۔",
+          "descriptionPlaceholder": "مطالعہ کے دوران سرگرمیاں اور کامیابیاں...",
+          "addEdu": "تعلیم شامل کریں۔",
+          "eduNum": "تعلیم #"
+        },
+        "cert": {
+          "name": "سرٹیفیکیشن/ٹریننگ کا نام",
+          "namePlaceholder": "سرٹیفیکیشن کا نام...",
+          "issuer": "پبلشر",
+          "issuerPlaceholder": "اشاعتی ادارہ...",
+          "issueDate": "آغاز (تاریخ اشاعت)",
+          "issueDatePlaceholder": "اشاعت کی تاریخ منتخب کریں...",
+          "expiryDate": "مکمل ہوا (درست مدت)",
+          "expiryDatePlaceholder": "میعاد ختم ہونے کی تاریخ منتخب کریں...",
+          "noExpiry": "اس سرٹیفکیٹ کی کوئی میعاد ختم ہونے کی تاریخ نہیں ہے۔",
+          "url": "اسناد کا URL",
+          "uploadThumbnail": "سرٹیفکیٹ/ٹریننگ امیج",
+          "uploadThumbnailLimit": "سرٹیفکیٹ کی تصویر اپ لوڈ کریں (JPG/PNG/WEBP، زیادہ سے زیادہ 2MB)",
+          "addCert": "سرٹیفیکیشن شامل کریں۔",
+          "certNum": "سرٹیفیکیشن #"
+        },
+        "contact": {
+          "contactNum": "رابطہ #",
+          "platform": "پلیٹ فارم",
+          "displayText": "ڈسپلے ٹیکسٹ",
+          "displayTextPlaceholder": "مثال کے طور پر، you@email.com یا @username",
+          "url": "لنک (URL)",
+          "urlPlaceholderWhatsapp": "مثال کے طور پر، 62812... (بغیر 0 کے)",
+          "urlPlaceholderEmail": "مثال کے طور پر، you@email.com",
+          "urlPlaceholderWebsite": "مثال کے طور پر، https://...",
+          "urlPlaceholderDefault": "مثال کے طور پر، صارف کا نام",
+          "addContact": "رابطہ شامل کریں۔"
+        },
+        "common": {
+          "months": {
+            "1": "جنوری",
+            "2": "فروری",
+            "3": "مارچ",
+            "4": "اپریل",
+            "5": "مئی",
+            "6": "جون",
+            "7": "جولائی",
+            "8": "اگست",
+            "9": "ستمبر",
+            "10": "اکتوبر",
+            "11": "نومبر",
+            "12": "دسمبر"
+          },
+          "month": "مہینہ",
+          "year": "سال",
+          "invalidDate": "غلط اختتامی مہینہ",
+          "words": "الفاظ"
+        }
+      },
+      "sure": "ضرور",
+      "deletePhotoTitle": "پروفائل تصویر حذف کریں؟",
+      "deletePhotoMessage": "کیا آپ واقعی اس پروفائل تصویر کو حذف کرنا چاہتے ہیں؟",
+      "cancel": "منسوخ کریں۔",
+      "delete": "حذف کریں۔"
+    },
+    "cropper": {
+      "chooseBackground": "پس منظر کا انتخاب کریں۔",
+      "cropPhoto": "اپنی تصویر کو تراشیں۔",
+      "useOriginal": "اصل استعمال کریں۔",
+      "backgroundPresets": "پس منظر کے پیش سیٹ",
+      "none": "کوئی نہیں۔",
+      "uploadBackground": "پس منظر اپ لوڈ کریں۔",
+      "cancel": "منسوخ کریں۔",
+      "savePhoto": "تصویر محفوظ کریں۔",
+      "zoom": "زوم",
+      "rotationTilt": "گردش اور جھکاؤ",
+      "resetRotation": "0° پر ری سیٹ کریں۔",
+      "center": "مرکز",
+      "rotateLeft": "گھمائیں -90°",
+      "rotateRight": "+90° گھمائیں۔",
+      "removeBackground": "پس منظر کو ہٹا دیں۔",
+      "processing": "آپ کی تصویر پر کارروائی ہو رہی ہے، براہ کرم انتظار کریں..."
+    },
+    "cvPreview": {
+      "title": "CV کا پیش نظارہ",
+      "downloadCv": "سی وی ڈاؤن لوڈ کریں۔",
+      "download": "ڈاؤن لوڈ کریں۔",
+      "wordCannotPreview": "ورڈ دستاویزات (.doc/.docx) کا براؤزر میں مقامی طور پر پیش نظارہ نہیں کیا جا سکتا۔ ",
+      "downloadFile": "سی وی فائل ڈاؤن لوڈ کریں۔",
+      "back": "پیچھے",
+      "mobileMessage": "براہ کرم اس کا پیش نظارہ کرنے کے لیے CV فائل ڈاؤن لوڈ کریں۔",
+      "preview": "سی وی کا پیش نظارہ کریں۔",
+      "wordPreviewTitle": "ورڈ دستاویز کا پیش نظارہ",
+      "wordPreviewMessage": "ورڈ دستاویزات (.doc/.docx) کا براؤزر میں مقامی طور پر پیش نظارہ نہیں کیا جا سکتا۔ براہ کرم اسے دیکھنے کے لیے فائل ڈاؤن لوڈ کریں۔"
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "اپنے بارے میں، دلچسپیوں، اور کیریئر کے اہداف کے بارے میں ایک مختصر تفصیل لکھیں..."
+    },
+    "skills": {
+      "placeholder": "مہارت کا نام ٹائپ کریں...",
+      "add": "شامل کریں۔",
+      "enterToAdd": "شامل کرنے کے لیے Enter دبائیں۔",
+      "noSkills": "ابھی تک کوئی مہارت شامل نہیں کی گئی ہے۔"
+    },
+    "projects": {
+      "projectName": "پروجیکٹ کا نام",
+      "projectNamePlaceholder": "جیسے ",
+      "projectUrl": "پروجیکٹ URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "دورانیہ",
+      "startMonth": "شروع مہینہ",
+      "startYear": "سال شروع کریں۔",
+      "endMonth": "اختتامی مہینہ",
+      "endYear": "آخر سال",
+      "currentlyWorking": "فی الحال اس پر کام کر رہے ہیں۔",
+      "description": "تفصیل",
+      "descriptionPlaceholder": "پروجیکٹ، اپنے کردار اور کامیابیوں کی وضاحت کریں...",
+      "technologies": "استعمال شدہ ٹیکنالوجیز",
+      "addProject": "پروجیکٹ شامل کریں۔",
+      "image": "پروجیکٹ کی تصویر",
+      "removeImage": "تصویر کو ہٹا دیں۔",
+      "uploadImage": "تصویر اپ لوڈ کرنے کے لیے کلک کریں۔"
+    },
+    "work": {
+      "company": "کمپنی/انسٹی ٹیوشن",
+      "companyPlaceholder": "کمپنی کا نام...",
+      "role": "کردار/مقام",
+      "rolePlaceholder": "آپ کی پوزیشن...",
+      "jobType": "ملازمت کی قسم",
+      "selectJobType": "قسم منتخب کریں۔",
+      "fullTime": "کل وقتی",
+      "partTime": "پارٹ ٹائم",
+      "contract": "معاہدہ",
+      "internship": "انٹرن شپ",
+      "freelance": "فری لانس",
+      "location": "مقام",
+      "locationPlaceholder": "جیسے ",
+      "duration": "دورانیہ",
+      "currentlyWorking": "فی الحال یہاں کام کر رہے ہیں۔",
+      "description": "ملازمت کی تفصیل",
+      "descriptionPlaceholder": "اپنی اہم ذمہ داریوں اور کامیابیوں کو بیان کریں...",
+      "skills": "مخصوص ہنر",
+      "addExperience": "تجربہ شامل کریں۔"
+    },
+    "org": {
+      "organization": "تنظیم کا نام",
+      "organizationPlaceholder": "تنظیم کا نام...",
+      "role": "کردار/مقام",
+      "rolePlaceholder": "جیسے ",
+      "duration": "دورانیہ",
+      "periodFormat": "یا مفت فارمیٹ (مثلاً 2020 - 2022)",
+      "periodPlaceholder": "جیسے ",
+      "currentlyActive": "فی الحال فعال",
+      "description": "سرگرمی کی تفصیل",
+      "descriptionPlaceholder": "اپنی سرگرمیوں یا تعاون کی وضاحت کریں...",
+      "addExperience": "تجربہ شامل کریں۔"
+    },
+    "education": {
+      "institution": "ادارے کا نام",
+      "institutionPlaceholder": "سکول یا یونیورسٹی کا نام...",
+      "degree": "ڈگری/سطح",
+      "degreePlaceholder": "جیسے ",
+      "major": "میجر/مطالعہ کا میدان",
+      "majorPlaceholder": "جیسے ",
+      "gpa": "GPA/گریڈ",
+      "gpaPlaceholder": "جیسے ",
+      "duration": "تعلیم کا دورانیہ",
+      "periodFormat": "یا مفت فارمیٹ (جیسے 2018 - 2022)",
+      "periodPlaceholder": "جیسے ",
+      "currentlyStudying": "فی الحال یہاں پڑھ رہے ہیں۔",
+      "description": "سرگرمیاں / اعزاز",
+      "descriptionPlaceholder": "تعلیمی سرگرمیوں، تنظیموں، یا ملنے والے اعزازات کی وضاحت کریں...",
+      "addEducation": "تعلیم شامل کریں۔"
+    },
+    "cert": {
+      "name": "سرٹیفیکیشن کا نام",
+      "namePlaceholder": "جیسے ",
+      "issuer": "جاری کرنے والی تنظیم",
+      "issuerPlaceholder": "جیسے ",
+      "issueDate": "جاری ہونے کی تاریخ",
+      "expiryDate": "تک درست ہے۔",
+      "noExpiry": "اس سند کی میعاد ختم نہیں ہوتی",
+      "yearPlaceholder": "یا سال (مثلاً 2023)",
+      "credentialUrl": "اسناد کا URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "متعلقہ ہنر",
+      "addCertification": "سرٹیفیکیشن شامل کریں۔",
+      "image": "تصویر/لوگو",
+      "removeImage": "تصویر کو ہٹا دیں۔",
+      "uploadImage": "تصویر اپ لوڈ کرنے کے لیے کلک کریں۔"
+    },
+    "common": {
+      "months": {
+        "1": "جنوری",
+        "2": "فروری",
+        "3": "مارچ",
+        "4": "اپریل",
+        "5": "مئی",
+        "6": "جون",
+        "7": "جولائی",
+        "8": "اگست",
+        "9": "ستمبر",
+        "10": "اکتوبر",
+        "11": "نومبر",
+        "12": "دسمبر"
+      },
+      "month": "مہینہ",
+      "year": "سال",
+      "invalidDate": "غلط اختتامی مہینہ",
+      "words": "الفاظ"
+    }
+  },
+  "settings": {
+    "title": "ترتیبات",
+    "subtitle": "اپنے پورٹ فولیو پروفائل اور ترجیحات کا نظم کریں۔",
+    "tabs": {
+      "profile": "میرا پروفائل",
+      "security": "سیکورٹی",
+      "personalization": "پرسنلائزیشن"
+    },
+    "profile": {
+      "infoTitle": "بنیادی معلومات",
+      "photo": "پروفائل فوٹو",
+      "uploadPhoto": "تصویر تبدیل کریں۔",
+      "fullName": "پورا نام",
+      "fullNamePlaceholder": "جان ڈو",
+      "email": "ای میل ایڈریس",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "ای میل لاگ ان کے لیے استعمال ہوتی ہے اور اسے عوامی طور پر ظاہر نہیں کیا جاتا ہے۔",
+      "portfolioUrl": "پورٹ فولیو URL",
+      "saveProfile": "پروفائل محفوظ کریں۔",
+      "save": "پروفائل محفوظ کریں۔",
+      "accountCreated": "اکاؤنٹ بنایا گیا۔",
+      "lastLogin": "آخری لاگ ان",
+      "oauthNotice": "یہ پروفائل آپ کے {{provider}} اکاؤنٹ سے منسلک ہے۔ پروفائل میں تبدیلیاں سروس فراہم کنندہ کے ذریعے کی جانی چاہئیں۔"
+    },
+    "security": {
+      "changePassword": "پاس ورڈ تبدیل کریں۔",
+      "currentPassword": "موجودہ پاس ورڈ",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "نیا پاس ورڈ",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "نئے پاس ورڈ کی تصدیق کریں۔",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "کم از کم 8 حروف",
+        "uppercase": "ایک بڑے حروف (A-Z)",
+        "number": "ایک نمبر (0-9)",
+        "symbol": "ایک علامت (!@#$%^&*)"
+      },
+      "passwordTitle": "پاس ورڈ",
+      "updatePassword": "پاس ورڈ اپ ڈیٹ کریں۔",
+      "additionalSecurity": "اضافی سیکیورٹی",
+      "twoFactor": "دو عنصر کی توثیق (2FA)",
+      "twoFactorDesc": "ایک اضافی OTP کوڈ استعمال کرکے اپنے اکاؤنٹ کو محفوظ کریں۔",
+      "activeSessions": "ایکٹو سیشنز",
+      "activeSessionsDesc": "ہمیشہ لاگ ان آلات کی نگرانی کی اجازت دیں۔",
+      "publicVisibility": "عوامی مرئیت",
+      "hideFromSearch": "سرچ انجنوں سے پورٹ فولیو چھپائیں۔",
+      "hideFromSearchDesc": "گوگل کو اپنے عوامی پورٹ فولیو کے صفحے کو انڈیکس کرنے سے روکیں۔",
+      "disable2fa": {
+        "title": "2FA کو غیر فعال کریں۔",
+        "description": "کیا آپ واقعی دو عنصر کی توثیق کو بند کرنا چاہتے ہیں؟",
+        "confirmPasswordLabel": "تصدیق کے لیے اپنا پاس ورڈ درج کریں۔",
+        "currentPasswordPlaceholder": "موجودہ پاس ورڈ",
+        "cancelButton": "منسوخ کریں۔",
+        "confirmButton": "2FA کو غیر فعال کریں۔",
+        "incorrectPassword": "غلط پاس ورڈ۔"
+      },
+      "setup2fa": {
+        "step1Title": "1. QR کوڈ اسکین کریں۔",
+        "step1Desc": "اپنا مستند ایپ کھولیں اور درج ذیل QR کوڈ کو اسکین کریں:",
+        "unableToScan": "اسکین کرنے سے قاصر ہے؟ سیٹ اپ کلید استعمال کریں۔",
+        "step2Title": "2. کوڈ کی تصدیق کریں۔",
+        "step2Desc": "اپنی ایپ کے ذریعہ تیار کردہ 6 ہندسوں کا کوڈ درج کریں:",
+        "cancelButton": "منسوخ کریں۔",
+        "enableButton": "2FA کو فعال کریں۔",
+        "invalidLength": "براہ کرم 6 ہندسوں کا کوڈ درج کریں۔",
+        "invalidCode": "غلط توثیقی کوڈ۔ براہ کرم دوبارہ کوشش کریں۔"
+      }
+    },
+    "personalization": {
+      "languageTitle": "زبان کے کنٹرولز",
+      "appLanguage": "ایپ کی زبان",
+      "layoutTitle": "لے آؤٹ اور نوع ٹائپ",
+      "layoutStyle": "لے آؤٹ اسٹائل",
+      "layoutModern": "جدید انداز (پہلے سے طے شدہ)",
+      "layoutClassic": "کلاسیکی انداز",
+      "layoutMinimalist": "مرصع انداز",
+      "fontSize": "ایپ فونٹ سائز",
+      "fontSmall": "چھوٹا",
+      "fontNormal": "عمومی (درمیانی)",
+      "fontLarge": "بڑا",
+      "searchLanguage": "زبان تلاش کریں...",
+      "languageNotFound": "زبان نہیں ملی",
+      "layoutElegant": "خوبصورت انداز"
+    },
+    "saveChanges": "تبدیلیاں محفوظ کریں۔",
+    "cancel": "منسوخ کریں۔",
+    "appSettings": "ایپ کی ترتیبات",
+    "logoutConfirmTitle": "لاگ آؤٹ کی تصدیق کریں۔",
+    "logoutConfirmDesc": "کیا آپ واقعی سسٹم سے لاگ آؤٹ کرنا چاہتے ہیں؟",
+    "logoutConfirmYes": "ہاں، لاگ آؤٹ",
+    "generalError": "ایک خرابی پیش آ گئی۔ ",
+    "success": "کامیابی",
+    "preferencesSaved": "ایپ کی ترجیحات کامیابی کے ساتھ محفوظ ہو گئیں۔",
+    "header": "درخواست کی ترتیبات",
+    "logout": {
+      "title": "لاگ آؤٹ کی تصدیق",
+      "message": "کیا آپ واقعی سسٹم سے لاگ آؤٹ کرنا چاہتے ہیں؟",
+      "confirm": "ہاں، لاگ آؤٹ"
+    },
+    "about": {
+      "title": "درخواست کے بارے میں",
+      "subtitle": "پورٹ فولیو بلڈر پلیٹ فارم",
+      "version": "ورژن",
+      "description": "DevFolio ایک جدید پورٹ فولیو بلڈر پلیٹ فارم ہے جو ڈویلپرز، ڈیزائنرز اور پیشہ ور تخلیق کاروں کے لیے ڈیزائن کیا گیا ہے۔ ",
+      "license": "لائسنس اور کاپی رائٹ",
+      "copyright": "© 2026 DevFolio Inc. جملہ حقوق محفوظ ہیں۔",
+      "developer": "ڈویلپر",
+      "developedBy": "رفقی نارادتا نے تیار کیا۔"
+    },
+    "deleteAccount": {
+      "title": "اکاؤنٹ کو مستقل طور پر حذف کریں",
+      "menuItem": "اکاؤنٹ حذف کریں",
+      "successTitle": "کامیابی",
+      "successMessage": "اکاؤنٹ حذف کرنے کی تصدیقی ای میل بھیجی گئی ہے۔",
+      "errorTitle": "ناکام",
+      "errorMessage": "تصدیقی ای میل بھیجنے میں ناکام۔",
+      "confirmationMessage": "کیا آپ واقعی اپنا اکاؤنٹ مستقل طور پر حذف کرنا چاہتے ہیں؟",
+      "warningMessage1": "آپ کو اکاؤنٹ حذف کرنے کی تصدیق کے لیے ایک ای میل موصول ہوگی۔",
+      "warningMessage2": "اگر تصدیق ہو جاتی ہے تو، تمام ڈیٹا (پورٹ فولیو، پروجیکٹس، اعداد و شمار) کو مستقل طور پر حذف کر دیا جائے گا اور اسے بازیافت نہیں کیا جا سکتا۔",
+      "cancel": "منسوخ کریں",
+      "confirm": "تصدیق"
+    },
+    "toasts": {
+      "toastError": "خرابی",
+      "toastSuccess": "کامیابی",
+      "toastSetup2FAFailed": "2FA سیٹ اپ کرنے میں ناکام۔ براہ کرم دوبارہ کوشش کریں۔",
+      "toast2FAEnabled": "دو عنصر کی توثیق کو فعال کر دیا گیا ہے۔",
+      "toast2FADisabled": "دو عنصر کی توثیق کو غیر فعال کر دیا گیا ہے۔",
+      "toastSessionEnabled": "فعال سیشن کی نگرانی کو فعال کر دیا گیا ہے۔",
+      "toastSessionDisabled": "فعال سیشن کی نگرانی کو غیر فعال کر دیا گیا ہے۔",
+      "toastSetupKeyCopied": "سیٹ اپ کلید کلپ بورڈ پر کاپی ہو گئی۔"
+    },
+    "privacy": {
+      "title": "رازداری کی پالیسی",
+      "updateDate": "آخری تازہ کاری: 15 جولائی 2026",
+      "intro": "رازداری کی یہ پالیسی بتاتی ہے کہ کس طرح DevFolio ہماری سروسز استعمال کرتے وقت آپ کی ذاتی معلومات کو اکٹھا، استعمال اور حفاظت کرتا ہے۔",
+      "section1Title": "1. معلومات ہم جمع کرتے ہیں۔",
+      "section1Content": "ہم وہ معلومات اکٹھا کرتے ہیں جو آپ اکاؤنٹ بناتے وقت، پورٹ فولیو بناتے وقت اور ہماری مدد سے رابطہ کرتے وقت فراہم کرتے ہیں۔ ",
+      "section2Title": "2. معلومات کا استعمال",
+      "section2Content": "آپ کی معلومات کا استعمال ہماری خدمات کی خصوصیات کو چلانے، برقرار رکھنے اور فراہم کرنے کے ساتھ ساتھ آپ کے اکاؤنٹ یا خدمات کے حوالے سے آپ سے بات چیت کرنے کے لیے کیا جاتا ہے۔",
+      "section3Title": "3. ڈیٹا سیکیورٹی",
+      "section3Content": "ہم آپ کی معلومات کو غیر مجاز رسائی، انکشاف، یا تباہی سے بچانے کے لیے مناسب حفاظتی اقدامات نافذ کرتے ہیں۔"
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "تصدیقی ٹوکن نہیں ملا۔",
+    "defaultError": "اکاؤنٹ حذف کرنے میں ناکام۔ ٹوکن کی میعاد ختم ہو سکتی ہے۔",
+    "loadingTitle": "اکاؤنٹ حذف کیا جا رہا ہے...",
+    "loadingMessage": "براہ کرم انتظار کریں، ہم آپ کی درخواست پر کارروائی کر رہے ہیں۔",
+    "successTitle": "اکاؤنٹ کامیابی سے حذف کر دیا گیا",
+    "successMessage": "آپ کا تمام ڈیٹا مستقل طور پر حذف کر دیا گیا ہے۔ آپ کو ری ڈائریکٹ کیا جائے گا...",
+    "errorTitle": "اکاؤنٹ کو حذف کرنے میں ناکام",
+    "backToHome": "گھر پر واپس جائیں۔"
+  },
+  "forgotPassword": {
+    "minutes": "منٹ",
+    "seconds": "سیکنڈز",
+    "success": "کامیابی",
+    "otpSentToEmail": "آپ کے ای میل پر ایک OTP کوڈ بھیجا گیا ہے۔",
+    "failed": "ناکام",
+    "emailNotFound": "ای میل نہیں ملا۔",
+    "emailThirdParty": "یہ ای میل تیسرے فریق کے ذریعے رجسٹرڈ ہے۔",
+    "genericError": "ایک خرابی ہے۔ براہ کرم دوبارہ کوشش کریں۔",
+    "otpVerified": "OTP کوڈ کی کامیابی سے تصدیق ہو گئی ہے۔",
+    "otpExpired": "OTP کوڈ کی میعاد ختم ہو گئی ہے۔ براہ کرم ایک نئے کوڈ کی درخواست کریں۔",
+    "otpInvalid": "غلط OTP کوڈ۔",
+    "otpResent": "آپ کے ای میل پر ایک نیا OTP کوڈ بھیجا گیا ہے۔",
+    "otpResendFailed": "OTP کوڈ دوبارہ بھیجنے میں ناکام۔ براہ کرم دوبارہ کوشش کریں۔",
+    "passwordResetSuccess": "پاس ورڈ کامیابی سے ری سیٹ ہو گیا۔ براہ کرم اپنے نئے پاس ورڈ کے ساتھ لاگ ان کریں۔",
+    "passwordResetFailed": "پاس ورڈ دوبارہ ترتیب دینے میں ناکام۔",
+    "backToLogin": "لاگ ان پر واپس جائیں",
+    "back": "واپس",
+    "title": "پاس ورڈ بھول گئے",
+    "description": "اپنے اکاؤنٹ پر رجسٹرڈ ای میل ایڈریس درج کریں۔ ہم پاس ورڈ کو دوبارہ ترتیب دینے کے لیے ایک OTP کوڈ بھیجیں گے۔",
+    "emailLabel": "ای میل ایڈریس",
+    "sending": "بھیج رہا ہے...",
+    "sendOtp": "OTP کوڈ بھیجیں",
+    "verifyOtpTitle": "OTP کوڈ کی تصدیق کریں",
+    "verifyOtpDesc": "آپ کی شناخت کی تصدیق کے لیے 6 ہندسوں کا کوڈ درج کریں جو آپ کے ای میل پر بھیجا گیا ہے۔",
+    "verifying": "تصدیق ہو رہی ہے...",
+    "verifyOtp": "OTP کی تصدیق کریں",
+    "resending": "دوبارہ بھیج رہا ہے...",
+    "resendOtp": "OTP کوڈ دوبارہ بھیجیں",
+    "resendCodeIn": "کوڈ کو دوبارہ",
+    "newPasswordTitle": "میں بھیجیں۔ نیا پاس ورڈ بنائیں",
+    "newPasswordDesc": "اپنے اکاؤنٹ کو محفوظ بنانے کے لیے ایک نیا، مضبوط پاس ورڈ بنائیں۔",
+    "newPasswordLabel": "نیا پاس ورڈ",
+    "min8Chars": "کم از کم 8 حروف",
+    "oneUpperCase": "1 بڑا (A-Z)",
+    "oneNumber": "1 نمبر (0-9)",
+    "oneSymbol": "1 علامت (!@#$%^&*)",
+    "confirmPasswordLabel": "پاس ورڈ کی تصدیق کریں",
+    "passwordsDoNotMatch": "پاس ورڈز مماثل نہیں ہیں۔",
+    "resettingPassword": "پاس ورڈ دوبارہ ترتیب دیا جا رہا ہے...",
+    "resetPassword": "پاس ورڈ ری سیٹ کریں۔"
+  },
+  "verifyEmail": {
+    "resendError": "توثیقی ای میل دوبارہ بھیجنے میں ناکام۔ براہ کرم دوبارہ کوشش کریں۔",
+    "checkingStatus": "توثیقی صورتحال کی جانچ ہو رہی ہے...",
+    "title": "اپنا ای میل چیک کریں۔",
+    "description": "ہم نے آپ کے ای میل پتے پر ایک تصدیقی ای میل بھیجی ہے۔ براہ کرم ای میل کھولیں اور اپنے اکاؤنٹ کو چالو کرنے کے لیے <1>\"اکاؤنٹ کی تصدیق کریں\"</1> بٹن پر کلک کریں۔",
+    "stepsTitle": "قدم",
+    "step1": "اپنی ای میل ایپلیکیشن کھولیں (Gmail، Yahoo، وغیرہ)",
+    "step2": "\"اکاؤنٹ ایکٹیویشن\" کے موضوع کے ساتھ DevFolio سے ای میل تلاش کریں۔",
+    "step3": "ای میل میں \"اکاؤنٹ کی تصدیق کریں\" کے بٹن پر کلک کریں۔",
+    "step4": "لاگ ان کرنے کے لیے آپ کو لاگ ان پیج پر بھیج دیا جائے گا۔",
+    "resendSuccess": "توثیقی ای میل دوبارہ بھیج دیا گیا ہے!",
+    "resending": "دوبارہ بھیجیں...",
+    "resendButton": "توثیقی ای میل دوبارہ بھیجیں۔",
+    "backToLogin": "لاگ ان پیج پر واپس جائیں۔",
+    "footerNote": "ای میل موصول نہیں ہوا؟ اپنے ای میل میں <1>سپیم</1> یا <2>جنک</2> فولڈر چیک کریں۔ تصدیقی لنک <3>24 گھنٹے</3> کے لیے درست ہے۔"
+  }
+}

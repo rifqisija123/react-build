@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Atortui",
+    "templates": "Qalipaatit",
+    "pricing": "Akimi",
+    "login": "Iserneq",
+    "getStarted": "Aallartitsigit",
+    "title": "Ineriartortitsineq"
+  },
+  "landing": {
+    "badge": "Ineriartortitsisartunut portfoliomik sanasoq kingulleq",
+    "title1": "Suliamik ilinniarsimasumik sanaartorneq",
+    "title2": "portfolio-mi in",
+    "titleHighlight": "sekundinik.",
+    "subtitle": "Pisinnaassutsitit, suliniutit, misilittakkallu takutinniarlugit pisariaqartinneqartut tamarmik. ",
+    "startBuilding": "Maanna Sanaartorneq Aallartiguk",
+    "viewTemplates": "Skabelonit takukkit",
+    "fastDeployment": "Sukkanerujussuarmik Atortitsineq",
+    "liveStatus": "atuisoq.dev live-iuvoq!",
+    "featuresTitle": "Pisinnaatitaaffiit",
+    "featuresSubtitle": "Atortut tamarmik pisariaqartinneqartut neqeroorutigisarpagut, inuit akornanni immikkuullarissunngortinniarlugu aammalu unioqqutitsilluni suliffissaq nunanngortinniarlugu.",
+    "feature1Title": "Drag & Drop-imik sanasoq",
+    "feature1Desc": "Immikkoortut, suliniutit, aamma piginnaasat ajornanngitsumik aaqqissuutikkit takusinnaasumik aaqqissuussinerput atorlugu.",
+    "feature2Title": "Temat naleqqussagaasut",
+    "feature2Desc": "Skabelonit ammasumik sananeqarsimasunit toqqakkit imaluunniit nammineq immikkuullarissumik isikkoqarlutit.",
+    "feature3Title": "Piffissaq eqqortoq atorlugu misissuineq",
+    "feature3Desc": "Pulaartut malinnaavigiuk, suliniutit sorliit eqqumaffigineqarnerpaanersut takuuk, allallu."
+  },
+  "auth": {
+    "welcomeBack": "Tilluaqqusaavutit",
+    "loginToContinue": "Ingerlaqqinniaruit kontomut iserit",
+    "createAccount": "Kontomik pilersitsineq",
+    "joinCommunity": "Ineriartortitsisut allat tusindilikkaat ilaagit",
+    "fullName": "Tamakkiisumik Aqqa",
+    "fullNamePlaceholder": "s.i. ",
+    "email": "Email-imik allaffissaq",
+    "emailPlaceholder": "illit@assersuut.com",
+    "password": "Isertaammut kode",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Eqqaamajuk uannut",
+    "forgotPassword": "Isissummik puigorpit?",
+    "signIn": "Allatsigit",
+    "signingIn": "Allatsinneq...",
+    "signUp": "Allatsigit",
+    "signingUp": "Allatsinneq...",
+    "noAccount": "Kontoqanngilatit?",
+    "hasAccount": "Kontoqareerpit?",
+    "passwordRules": {
+      "title": "Isissummik imaqartariaqarpoq:",
+      "length": "Minnerpaamik 8-nik karakterinik",
+      "uppercase": "Allakkat annerit ataaseq (A-Z)",
+      "number": "Nummeri ataaseq (0-9)",
+      "symbol": "Ataaseq ilisarnaat (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Porteføljemik sanasoq",
+      "templates": "Skabelonit & Temat",
+      "settings": "Inniminniinerit",
+      "collapse": "Kollaps Sidebar",
+      "overview": "Oversigt",
+      "profileSettings": "Profilimut inissititernerit",
+      "customDomain": "Domæne naleqqussagaasoq",
+      "feedback": "Utertitsiviginninneq"
+    },
+    "header": {
+      "viewLive": "Live-mik takuuk",
+      "welcome": "Tikilluarit,",
+      "logout": "Anigit",
+      "builder": "Sanaartortoq",
+      "livePortfolio": "Uummaarissumik portfolio",
+      "live": "Toqqaannartumik"
+    },
+    "logoutModal": {
+      "title": "Anigit",
+      "message": "Qularnanngilaq kontomit anisoqarnissaa? ",
+      "cancel": "taamaatippaa",
+      "confirm": "Aap, Aallarit"
+    },
+    "slugModal": {
+      "title": "Portefolio-p URL-ia toqqaruk",
+      "message": "URL-i taanna portfolio-mut immikkut ittumik link-iussaaq. ",
+      "slugPlaceholder": "illit-aqqit",
+      "availability": "Atorneqarsinnaaneq:",
+      "available": "Pisinnaavoq",
+      "unavailable": "Atorneqarsinnaanngilaq",
+      "checking": "Misissuineq...",
+      "mustFormat": "Allakkanik, kisitsisinik, aamma streg-inik (-) kisimik imaqarsinnaavoq",
+      "cancel": "taamaatippaa",
+      "save": "URL-imik allattukkit",
+      "usernameUrl": "Atuisup aqqa URL",
+      "helpText": "Allakkat mikisut, kisitsisit, aamma streg. ",
+      "validation": {
+        "empty": "Slug imaqarsinnaanngilaq.",
+        "min3": "Minnerpaamik 3 karakterit.",
+        "max30": "Annerpaamik 30-nik karakterinik.",
+        "format": "Allakkat mikisut, kisitsisit, aammalu stregi (-) kisimik. "
+      }
+    },
+    "loadingPortfolio": "Portefolio-data-t ikkussorneqarput...",
+    "overview": {
+      "greetings": {
+        "morning": "Ullaakkut",
+        "afternoon": "Ulloq nuannersoq",
+        "evening": "Ulloq nuannersoq",
+        "night": "Unnuk nuannersoq"
+      },
+      "welcome": {
+        "hi": "Ilassi,",
+        "creator": "Pinngortitsisoq",
+        "desc1": "DevFolio-p dashboard-ianut tikilluaqqusaagut. Portfolio-t takuneqarsimavoq",
+        "desc2": "inuk. Sulineq ingerlateqqiguk!",
+        "editPortfolio": "Portfolio allanngortiguk"
+      },
+      "stats": {
+        "totalVisitors": "Katillugit Pulaartut",
+        "projectViews": "Takuneqartoq (Projekt)",
+        "activeSessions": "Aktiv Session",
+        "totalLabel": "Katillugit"
+      },
+      "setup": {
+        "title": "Setup Ineriartorneq",
+        "completed": "Portfolio-t naammassivoq! 🎉",
+        "inProgress": "Portfoliomut perfektimut iliuuseqarneq.",
+        "profile": {
+          "title": "Profili tamakkerlugu",
+          "desc": "Aqqa, bio aamma profilassi ilanngukkit."
+        },
+        "section": {
+          "title": "Immikkoortut ilanngukkit",
+          "desc": "Portfolio-mi immikkoortoq minnerpaamik 1 aktivererlugu."
+        },
+        "project": {
+          "title": "Projekti ilanngukkit",
+          "desc": "Suliniutit pitsaanerpaat minnerpaamik 1-it allattukkit."
+        },
+        "publish": {
+          "title": "Saqqummersitsineq Portfolio",
+          "desc": "URL-imik naleqqussagaasumik inissitsigit, tamanut ammasumik atuarneqarsinnaaqqullugu."
+        }
+      },
+      "topProjects": {
+        "title": "Projektit nuannarineqarnerpaat",
+        "desc": "Suliassavit pulaartut isigalugit suliarineqarnerat.",
+        "viewAll": "Tamaasa takukkit",
+        "empty": "Suliniummut suli view data-nik peqanngilaq."
+      }
+    },
+    "themes": {
+      "title": "Skabelonit & Temat",
+      "subtitle": "Offentlig portfolio-vit isikkoq misigissuserlu naleqqussarlugu.",
+      "reset": "Nutarterineq Standard",
+      "save": "Allanngortitat annaakkit",
+      "saving": "Sipaarneq...",
+      "chooseTemplate": "Toqqaruk Qalipaat",
+      "primaryColor": "Primærfarve",
+      "typography": "Typografi",
+      "appearance": "Isikkoq",
+      "corners": "Hjørne & Killeqarfiit",
+      "successTitle": "IIuatsitsineq",
+      "successMessage": "Temamik piumasaqaatit iluatsilluartumik nutarterneqarput",
+      "errorTitle": "Ajutoorneq",
+      "errorMessage": "Tema-mik piumasaqaatinik annaasaqarneq iluatsinngilaq",
+      "templates": {
+        "minimalist": {
+          "name": "Minimaliusoq",
+          "desc": "Imarisassaq qitiutillugu ilusilersuineq pitsaasoq aammalu ajornanngitsoq."
+        },
+        "developerDark": {
+          "name": "Ineriartortitsisoq Dark",
+          "desc": "Dark theme kode-mik aamma teknikkimik stack-inik takutitsinermut pitsaasuuvoq."
+        },
+        "creative": {
+          "name": "Isumassarsiullaqqissoq",
+          "desc": "Niuertarfinnut aammalu piujuartitsisunut layout-imik inuuneqarluartumik aammalu qalipaatigissumik."
+        },
+        "executive": {
+          "name": "Naammassisitsisoq",
+          "desc": "Suliffeqarfinni suliamik ilinniarsimasunut ammasumik aamma pisortatigoortumik ilusilersuineq."
+        },
+        "bentoGrid": {
+          "name": "Bento Net",
+          "desc": "Ullumikkut Apple-tut ittumik grid-imik ilusilersuineq piginnaasat assigiinngitsut pitsaasumik ersersitsisoq."
+        },
+        "neoBrutalism": {
+          "name": "Neo-brutalisme",
+          "desc": "Killeqarfiit qaqutigoortut aamma qalipaatit kontrasteqarluartut, trendymik, utoqqatserniarfiunngitsumik isikkoqarnissamut."
+        },
+        "glassmorphism": {
+          "name": "Igalaamik morfisme",
+          "desc": "Frostet glas-effektit qalipaatigissunik gradientinik atorlugit UI-mut nutaaliaasumut."
+        },
+        "linkInBio": {
+          "name": "Link Bio-mi",
+          "desc": "Mobilinut skærminut aamma sociale mediernut pitsanngorsarneqarsimasoq vertikalimik ilusilersugaavoq."
+        }
+      },
+      "appearances": {
+        "light": "Qaamasoq",
+        "dark": "Taartoq",
+        "system": "Ingerlatseriaaseq"
+      },
+      "cornersOptions": {
+        "sharp": "Ipittoq",
+        "rounded": "Rundeq",
+        "pill": "Pil"
+      }
+    },
+    "feedback": {
+      "title": "Utimut nassiuk",
+      "subtitle": "Pitsaanerulernissaanut ikiuuk siunnersuuteqarnikkut, isornartorsiuinikkut, imaluunniit applikationimi matumani kukkunernik nalunaaruteqarnikkut.",
+      "categoryLabel": "Utimut tunngasut Kategori",
+      "messageLabel": "Paasissutissat pillugit paasissutissat",
+      "messagePlaceholder": "Utimut tunngasut pillugit sukumiisumik oqaluttuaruk...",
+      "imageLabel": "Assilisaq ilanngussaq (Pisinnaavoq)",
+      "imagePlaceholder": "Assilisaq imaluunniit skærmbillede upload-erniarlugu tooruk",
+      "submitting": "Nassiussineq...",
+      "submitBtn": "Utimut nassiuk",
+      "categories": {
+        "suggestion": "Siunnersuutit & Isumassarsiat",
+        "bug": "Bug / Kukkunermik nalunaaruteqarneq",
+        "criticism": "Isornartorsiuinerit",
+        "other": "Allat"
+      },
+      "imageErrorTitle": "Kukkuneq",
+      "imageErrorMessage": "Filet ilaat itigartinneqarput, pissutigalugu assit qanoq ittuunerat (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Angusaqarluarneq",
+      "successMessage": "Qujanaq isummersimanerannut! Nalunaarusiaq nassiunneqarpoq.",
+      "submitErrorTitle": "Kukkuneqarpoq",
+      "submitErrorMessage": "Utimut nassiussinermi kukkusoqarpoq. Misilittariaqarpat."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Uanga pillugu",
+      "skills": "Piginnaasat",
+      "projects": "Suliniutit",
+      "workExperience": "Sulinermik misilittagaqarneq",
+      "orgExperience": "Aaqqissuussaanermik misilittagaqarneq",
+      "education": "Ilinniagaq",
+      "certifications": "Ilinniartitsineq & uppernarsaatinik",
+      "contact": "Uanga attaveqarfigiuk"
+    },
+    "editor": {
+      "profileInfo": "Profilimut paasissutissat",
+      "saving": "Sipaarneq...",
+      "profilePhoto": "Profilimik assi",
+      "clickToUpload": "Ikkussinnaajumallugu tooruk (JPG, PNG)",
+      "fullName": "Tamakkiisumik Aqqa",
+      "fullNamePlaceholder": "s.i. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Ineriartortitsisoq ullumikkut nittartakkanut appinik sanaartornissamik piumassuseqartoq...",
+      "location": "Sumiiffia",
+      "locationPlaceholder": "s.i. ",
+      "gender": "Suiaassuseq",
+      "selectGender": "Toqqaruk Gender",
+      "male": "Angut",
+      "female": "Arnaq",
+      "custom": "Sullitaq",
+      "customPlaceholder": "Allaguk arnaq angut imaluunniit angut...",
+      "uploadCv": "CV-mik ikkukkit",
+      "cvFormat": "(DOC imaluunniit PDF)",
+      "preview": "Siulittaasoq",
+      "remove": "Peerpaa",
+      "clickToUploadCv": "PDF-imik imaluunniit DOC-mik ikkussinissamut tooruk",
+      "sections": "Immikkoortut",
+      "removeSelected": "Toqqakkat peerlugit",
+      "confirmRemove": "Uppernarsaruk Peerlugu",
+      "addSection": "Immikkoortoq ilanngukkit",
+      "addAllSections": "Immikkoortut tamarmik ilanngukkit",
+      "noSections": "Suli immikkoortortaqanngilaq",
+      "clickToAdd": "\"+ Immikkoortoq ilanngukkit\" tooruk aallartissaguit",
+      "selectAll": "Tamarmik toqqaruk",
+      "selected": "Toqqakkat",
+      "dragToReorder": "Immikkoortut aaqqissuuteqqinniarlugit toorlugu",
+      "livePreview": "Live-mik siullermeerneq",
+      "addSectionsToBuild": "Portfolio-mik sanaartornissamut immikkoortut ilanngukkit",
+      "now": "Massakkut",
+      "current": "Maannakkuungallartoq",
+      "noExpiry": "Atorfissaqanngilaq",
+      "see": "Takuuk",
+      "position": "Inissisimaffik",
+      "degree": "Qaffasissusaa",
+      "certification": "Uppernarsaat",
+      "sectionsForm": {
+        "about": {
+          "label": "Imminut nassuiaaneq",
+          "placeholder": "Imminut, tunuliaqutatit, soqutigisatit piginnaasatillu pillugit oqaluttuarit..."
+        },
+        "skills": {
+          "addPlaceholder": "Pisinnaassuseq allaguk taava Enter tooruk..."
+        },
+        "projects": {
+          "title": "Suliniummi Aqqa",
+          "titlePlaceholder": "Suliniummi aqqa...",
+          "url": "Suliniummut URL",
+          "description": "Nassuiaat",
+          "descriptionPlaceholder": "Suliniummik nassuiaat sivikitsumik...",
+          "uploadThumbnail": "Projektip Assilisaa",
+          "addProject": "Projekti ilanngukkit",
+          "projectNum": "Iluarsartuullugu pilersaarusiaq #",
+          "currentProject": "Tamanna suliassaavoq suliarisara"
+        },
+        "work": {
+          "company": "Suliffeqarfik/Agentur",
+          "companyPlaceholder": "Suliffeqarfiup aqqa...",
+          "position": "Atorfik/Titel",
+          "positionPlaceholder": "Illit inissisimaffiit...",
+          "employmentType": "Suliap suussusaa",
+          "location": "Sumiiffia",
+          "locationPlaceholder": "Illoqarfik, Nuna...",
+          "startDate": "Aallartinneq",
+          "endDate": "Naammassivoq",
+          "currentWork": "Ullumikkut suli sulivunga",
+          "description": "Nassuiaat",
+          "descriptionPlaceholder": "Atorfiup nassuiaataa aamma akisussaaffiit...",
+          "skills": "Piginnaasaq",
+          "addExperience": "Sulinermik misilittagaqarneq ilanngukkit",
+          "experienceNum": "Misilittakkat #",
+          "dateError": "Ulloq naggatissaq ulloq aallartiffissaq siusinnerusinnaanngilaq"
+        },
+        "org": {
+          "organization": "Peqatigiiffiup Aqqa",
+          "orgPlaceholder": "BEM-imi ilinniarnertuunngorniarfik...",
+          "role": "Rolle/Atorfik",
+          "rolePlaceholder": "Immikkoortortaqarfimmi pisortaq...",
+          "addOrg": "Aaqqissuussaanermik misilittagaqarneq ilanngukkit",
+          "orgNum": "Immikkoortortaqarfik #"
+        },
+        "edu": {
+          "institution": "Ilinniartitaanermut Ilinniarfiit",
+          "institutionPlaceholder": "Campusip atuarfiulluunniit aqqa...",
+          "degree": "Qulequtaq",
+          "degreePlaceholder": "S1, gymnasiami il.il...",
+          "major": "Immikkoortortaqarfik/Ilinniagassaq",
+          "majorPlaceholder": "Informatikkimik ingeniøri...",
+          "gpa": "GPA (toqqarneqarsinnaavoq)",
+          "currentStudy": "Maani suli ilinniarpunga",
+          "descriptionPlaceholder": "Ilinniarnerup nalaani suliassat angusallu...",
+          "addEdu": "Ilinniartitaaneq ilanngullugu",
+          "eduNum": "Ilinniagaq #"
+        },
+        "cert": {
+          "name": "Akuersissummik / Ilinniartitaanermik aqqa",
+          "namePlaceholder": "Uppernarsaatip aqqa...",
+          "issuer": "Saqqummersitsisoq",
+          "issuerPlaceholder": "Saqqummersitsisarfik...",
+          "issueDate": "Aallartitsineq (Ulloq saqqummersitsineq)",
+          "issueDatePlaceholder": "Ulloq saqqummersitsiffissaq toqqaruk...",
+          "expiryDate": "Naammassineqarpoq (Piffissaq atuuttoq)",
+          "expiryDatePlaceholder": "Ulloq atorunnaarfissaq toqqaruk...",
+          "noExpiry": "Uppernarsaat taanna ulloq atorunnaarfissaqanngilaq",
+          "url": "Uppernarsaat URL",
+          "uploadThumbnail": "Certifikat / Ilinniartitsineq Assilisaq",
+          "uploadThumbnailLimit": "Uppernarsaatinik assi ikkukkit (JPG/PNG/WEBP, annerpaamik 2MB)",
+          "addCert": "Akuersissut ilanngukkit",
+          "certNum": "Uppernarsaat # ."
+        },
+        "contact": {
+          "contactNum": "Atassuteqaat #",
+          "platform": "Platformi",
+          "displayText": "Takutitsineq Tekst",
+          "displayTextPlaceholder": "assersuutigalugu, illit@email.com imaluunniit @atuisoq",
+          "url": "Innersuussineq (URL)",
+          "urlPlaceholderWhatsapp": "assersuutigalugu, 62812... (0-mik siullersaalluni)",
+          "urlPlaceholderEmail": "assersuutigalugu, illit@email.com",
+          "urlPlaceholderWebsite": "soorlu, https://...",
+          "urlPlaceholderDefault": "assersuutigalugu atuisutut aqqit",
+          "addContact": "Attaveqarfik ilanngukkit"
+        },
+        "common": {
+          "months": {
+            "1": "januari",
+            "2": "Februari",
+            "3": "Martsi",
+            "4": "Aprili",
+            "5": "Ilimanaq",
+            "6": "Juuni",
+            "7": "Juuli",
+            "8": "Aggusti",
+            "9": "Septembari",
+            "10": "Oktoberi",
+            "11": "Anovembari",
+            "12": "Decembari"
+          },
+          "month": "Qaammat",
+          "year": "Ukioq",
+          "invalidDate": "Invalid End Månd",
+          "words": "oqaatsit"
+        }
+      },
+      "sure": "Taamaassooq",
+      "deletePhotoTitle": "Profilimi assi piiaruk?",
+      "deletePhotoMessage": "Qularnanngilaq profilimi assi una piiarniarlugu?",
+      "cancel": "taamaatippaa",
+      "delete": "Nunguterpaa"
+    },
+    "cropper": {
+      "chooseBackground": "Toqqaruk tunuliaqutaq",
+      "cropPhoto": "Assilisat ikkukkit",
+      "useOriginal": "Aallaqqaasiut atoruk",
+      "backgroundPresets": "Tungavilersuutit Preset-it",
+      "none": "Soqanngilaq",
+      "uploadBackground": "Upload-imik tunuliaqutaq",
+      "cancel": "taamaatippaa",
+      "savePhoto": "Assilisaq annaakkit",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation & Tilt",
+      "resetRotation": "0°-mut nutarterlugu",
+      "center": "Qeqqa",
+      "rotateLeft": "-90°-mik ikkukkit",
+      "rotateRight": "+90°-mik ikkukkit",
+      "removeBackground": "Tunuaniittoq peerlugu",
+      "processing": "Assit suliarineqarpat, utaqqigit..."
+    },
+    "cvPreview": {
+      "title": "CV-mik siullermeerneq",
+      "downloadCv": "CV-mik aaneqarsinnaavoq",
+      "download": "Aavaa",
+      "wordCannotPreview": "Word-imi allakkiat (.doc/.docx) browserermi native-mik takuneqarsinnaanngillat. ",
+      "downloadFile": "CV-fil-imik download-erlugu",
+      "back": "Kingumut",
+      "mobileMessage": "CV-fil-i download-erlugu takusinnaavat.",
+      "preview": "CV-mik siullermeerneq",
+      "wordPreviewTitle": "Word-imi allakkiaq siullermeerlugu",
+      "wordPreviewMessage": "Word-imi allakkiat (.doc/.docx) browserermi native-mik takuneqarsinnaanngillat. Fileq takuniarlugu download-erlugu."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Imminut, soqutigisatit, aamma atorfeqarnissamut anguniakkatit pillugit nassuiaat sivikitsumik allaguk..."
+    },
+    "skills": {
+      "placeholder": "Pisinnaassutsip aqqa allaguk...",
+      "add": "Ikkuppaa",
+      "enterToAdd": "Enter tooruk ilanngunniarlugu",
+      "noSkills": "Suli piginnaasat ilanngunneqanngillat."
+    },
+    "projects": {
+      "projectName": "Suliniummi Aqqa",
+      "projectNamePlaceholder": "s.i. ",
+      "projectUrl": "Suliniummut URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Takissusaa",
+      "startMonth": "Aallartitsineq Qaammat",
+      "startYear": "Ukioq Aallartitsivik",
+      "endMonth": "Qaammat End",
+      "endYear": "Ukiup naanerani",
+      "currentlyWorking": "Ullumikkut tamanna sulissutigineqarpoq",
+      "description": "Nassuiaat",
+      "descriptionPlaceholder": "Suliniut, atuuffiit, angusallu nassuiarlugit...",
+      "technologies": "Teknologiit atorneqartut",
+      "addProject": "Projekti ilanngukkit",
+      "image": "Projektip Assilisaa",
+      "removeImage": "Assilisaq peerlugu",
+      "uploadImage": "Assilisaq upload-erniarlugu tooruk"
+    },
+    "work": {
+      "company": "Suliffeqarfik/Ingerlatsivik",
+      "companyPlaceholder": "Suliffeqarfiup aqqa...",
+      "role": "Rolle/Atorfik",
+      "rolePlaceholder": "Illit inissisimaffiit...",
+      "jobType": "Suliffiup suussusaa",
+      "selectJobType": "Type toqqarlugu",
+      "fullTime": "Piffissaq tamakkerlugu",
+      "partTime": "Piffissap ilaani",
+      "contract": "Isumaqatigiissut",
+      "internship": "Praktikki",
+      "freelance": "Namminersorluni sulisoq",
+      "location": "Sumiiffia",
+      "locationPlaceholder": "s.i. ",
+      "duration": "Takissusaa",
+      "currentlyWorking": "Ullumikkut maani sulivoq",
+      "description": "Suliffiup nassuiaataa",
+      "descriptionPlaceholder": "Akisussaaffiit pingaarnerit angusallu nassuiarlugit...",
+      "skills": "Immikkut Pisinnaassutsit",
+      "addExperience": "Misilittagaqarneq ilanngukkit"
+    },
+    "org": {
+      "organization": "Peqatigiiffiup Aqqa",
+      "organizationPlaceholder": "Peqatigiiffiup aqqa...",
+      "role": "Rolle/Atorfik",
+      "rolePlaceholder": "s.i. ",
+      "duration": "Takissusaa",
+      "periodFormat": "imaluunniit Akeqanngitsoq (assersuutigalugu 2020 - 2022)",
+      "periodPlaceholder": "s.i. ",
+      "currentlyActive": "Ullumikkut atuuppoq",
+      "description": "Suliassaq Nassuiaat",
+      "descriptionPlaceholder": "Suliassatit imaluunniit aningaasaliissutit nassuiaruk...",
+      "addExperience": "Misilittagaqarneq ilanngukkit"
+    },
+    "education": {
+      "institution": "Institutionip Aqqa",
+      "institutionPlaceholder": "Atuarfiup imaluunniit ilinniarnertuunngorniarfiup aqqa...",
+      "degree": "Ilinniarsimasoq/Niveau",
+      "degreePlaceholder": "s.i. ",
+      "major": "Major/Ilinniagassaq",
+      "majorPlaceholder": "s.i. ",
+      "gpa": "GPA / Karakteeri",
+      "gpaPlaceholder": "s.i. ",
+      "duration": "Ilinniarneq Sivisussusaa",
+      "periodFormat": "imaluunniit Akeqanngitsoq (assersuutigalugu 2018 - 2022)",
+      "periodPlaceholder": "s.i. ",
+      "currentlyStudying": "Ullumikkut maani ilinniartoq",
+      "description": "Suliassat / Ataqqinaatit",
+      "descriptionPlaceholder": "Ilinniartitaanermik suliassat, kattuffiit, imaluunniit nersornaatit pissarsiarineqarsimasut nassuiarlugit...",
+      "addEducation": "Ilinniartitaaneq ilanngullugu"
+    },
+    "cert": {
+      "name": "Uppernarsaat Aqqa",
+      "namePlaceholder": "s.i. ",
+      "issuer": "Aaqqissuussineq saqqummiussisoq",
+      "issuerPlaceholder": "s.i. ",
+      "issueDate": "Ulloq saqqummersitsineq",
+      "expiryDate": "Atuuttoq tikillugu",
+      "noExpiry": "Uppernarsaat taanna atuunneqanngilaq",
+      "yearPlaceholder": "imaluunniit Ukioq (assersuutigalugu 2023)",
+      "credentialUrl": "Uppernarsaat URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Pisinnaassutsit attuumassuteqartut",
+      "addCertification": "Akuersissut ilanngukkit",
+      "image": "Assilisaq/Logo",
+      "removeImage": "Assilisaq peerlugu",
+      "uploadImage": "Assilisaq upload-erniarlugu tooruk"
+    },
+    "common": {
+      "months": {
+        "1": "januari",
+        "2": "Februari",
+        "3": "Martsi",
+        "4": "Aprili",
+        "5": "Ilimanaq",
+        "6": "Juuni",
+        "7": "Juuli",
+        "8": "Aggusti",
+        "9": "Septembari",
+        "10": "Oktoberi",
+        "11": "Anovembari",
+        "12": "Decembari"
+      },
+      "month": "Qaammat",
+      "year": "Ukioq",
+      "invalidDate": "Invalid End Månd",
+      "words": "oqaatsit"
+    }
+  },
+  "settings": {
+    "title": "Inniminniinerit",
+    "subtitle": "Portfolio-mi profilit aamma piumasaqaatit aqukkit",
+    "tabs": {
+      "profile": "Uanga Profili",
+      "security": "Isumannaallisaaneq",
+      "personalization": "Personlighed"
+    },
+    "profile": {
+      "infoTitle": "Paasissutissat tunngaviusut",
+      "photo": "Profilimik assi",
+      "uploadPhoto": "Assilisaq allanngortiguk",
+      "fullName": "Tamakkiisumik Aqqa",
+      "fullNamePlaceholder": "Johannes Doe",
+      "email": "Email-imik allaffissaq",
+      "emailPlaceholder": "john@assersuut.com",
+      "emailHelp": "Email login-imut atorneqarpoq aammalu tamanut takutinneqarneq ajortoq.",
+      "portfolioUrl": "Portfolio-p URL-ia",
+      "saveProfile": "Profili annaakkit",
+      "save": "Profili annaakkit",
+      "accountCreated": "Konto pilersinneqarpoq",
+      "lastLogin": "Kingullermik Iserneq",
+      "oauthNotice": "Profili una {{pilersuisoq}} kontomut atavoq. Profilimik allanngortitsineq sullissisoq aqqutigalugu pissaaq."
+    },
+    "security": {
+      "changePassword": "Isissummik allanngortitsineq",
+      "currentPassword": "Ullumikkut Isissummik",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Isissummik nutaamik",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Isissummik nutaamik uppernarsaat",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "Minnerpaamik 8-nik karakterinik",
+        "uppercase": "Allakkat annerit ataaseq (A-Z)",
+        "number": "Nummeri ataaseq (0-9)",
+        "symbol": "Ataaseq ilisarnaat (!@#$%^&*)"
+      },
+      "passwordTitle": "Isertaammut kode",
+      "updatePassword": "Isissummik nutarterineq",
+      "additionalSecurity": "Isumannaallisaaneq ilaatigut",
+      "twoFactor": "Marlunnik pissuteqarluni uppernarsaasiineq (2FA)",
+      "twoFactorDesc": "OTP-kode alla atorlugu konto-t qulakkeerlugu.",
+      "activeSessions": "Sessionit aktiiviusut",
+      "activeSessionsDesc": "Atortut isersimasunik nakkutilliineq salliutiinnaruk.",
+      "publicVisibility": "Tamanut takuneqarsinnaaneq",
+      "hideFromSearch": "Portfolio ujaasisartunit toqqorsiuk",
+      "hideFromSearchDesc": "Google-ip portfolio-p quppernera tamanut ammasoq indeksersinnaanera inerteqqutigiuk.",
+      "disable2fa": {
+        "title": "2FA-mik qamitsineq",
+        "description": "Qularnanngilaq marlunnik tunngaveqartumik uppernarsaasiineq qaminniarlugu?",
+        "confirmPasswordLabel": "Uppernarsarniarlugu isissummik allaguk",
+        "currentPasswordPlaceholder": "Ullumikkut isissummik",
+        "cancelButton": "Unitsigit",
+        "confirmButton": "2FA-mik qamitsineq",
+        "incorrectPassword": "Isissummik eqqunngitsumik."
+      },
+      "setup2fa": {
+        "step1Title": "1. QR-kode-mik scannerneq",
+        "step1Desc": "Autentifikator-app-it ammaruk QR-kode-lu una scannerlugu:",
+        "unableToScan": "Scan-ersinnaanngilatit? Setup-tast atorlugu",
+        "step2Title": "2. Kode uppernarsarlugu",
+        "step2Desc": "Kode 6-sifreqartoq app-imit pilersinneqartoq allaguk:",
+        "cancelButton": "taamaatippaa",
+        "enableButton": "2FA atulersiguk",
+        "invalidLength": "Kode 6-sifrilik allaguk.",
+        "invalidCode": "Uppernarsaasiinermi kode atuunneq ajortoq. Misilittariaqarpat."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Oqaatsinik aqutsineq",
+      "appLanguage": "App Oqaatsit",
+      "layoutTitle": "Layout & Typografi",
+      "layoutStyle": "Layout-imik stili",
+      "layoutModern": "Moderne stil (Standard)",
+      "layoutClassic": "Klassiskimik Stil",
+      "layoutMinimalist": "Minimalistisk stil",
+      "fontSize": "App-imi allagartap annertussusaa",
+      "fontSmall": "Mikisoq",
+      "fontNormal": "Nalinginnaasoq (Agguaqatigiissillugu)",
+      "fontLarge": "Angisooq",
+      "searchLanguage": "Oqaatsit ujarlugit...",
+      "languageNotFound": "Oqaatsit nassaarineqanngillat",
+      "layoutElegant": "Elegant Stil"
+    },
+    "saveChanges": "Allanngortitat annaakkit",
+    "cancel": "taamaatippaa",
+    "appSettings": "App-ip inissititerneqarnera",
+    "logoutConfirmTitle": "Logout uppernarsaruk",
+    "logoutConfirmDesc": "Qularnanngilaq systemimiit anisoqarnissaa?",
+    "logoutConfirmYes": "Aap, Aallarit",
+    "generalError": "Kukkusoqarpoq. ",
+    "success": "IIuatsitsineq",
+    "preferencesSaved": "App-imi piumasaqaatit iluatsilluartumik toqqoqqapput.",
+    "header": "Applikationip inissititerneqarnera",
+    "logout": {
+      "title": "Logout-imik uppernarsaat",
+      "message": "Qularnanngilaq systemimiit anisoqarnissaa?",
+      "confirm": "Aap, Aallarit"
+    },
+    "about": {
+      "title": "Qinnuteqaat pillugu",
+      "subtitle": "Portfolio-mik sanasartoq platformi",
+      "version": "Versioni",
+      "description": "DevFolio tassaavoq ullumikkut portfolio-mik sanaartortarfik ineriartortitsisartunut, ilusilersuisunut, aammalu pilersitsisartunut suliamik ilinniarsimasunut tunngasoq. ",
+      "license": "Akuersissut & Pisinnaatitaaffik",
+      "copyright": "© 2026 DevFolio Inc. Pisinnaatitaaffiit tamarmik pigineqarput.",
+      "developer": "Ineriartortitsisoq",
+      "developedBy": "Rifqi Naradatamit ineriartortinneqarpoq"
+    },
+    "deleteAccount": {
+      "title": "Konto permanent-imik piiaruk",
+      "menuItem": "Konto-mik piiaaneq",
+      "successTitle": "Angusaqarluarneq",
+      "successMessage": "Kontop piiarneqarneranik uppernarsaatitut emailik nassiunneqarpoq.",
+      "errorTitle": "Kukkuneqarpoq",
+      "errorMessage": "Uppernarsaatitut emailik nassiunneqanngilaq.",
+      "confirmationMessage": "Qularnanngilaq konto-t piujuartumik piiarniarlugu?",
+      "warningMessage1": "Kontop piiarneqarnera uppernarsarlugu emailerfigineqassaatit.",
+      "warningMessage2": "Uppernarsarneqarpat paasissutissat tamarmik (portfolio, projektit, kisitsisit) piujuartumik piiarneqassapput, taarserneqarsinnaanatillu.",
+      "cancel": "Annaasaqarneq",
+      "confirm": "Uppernarsaaneq"
+    },
+    "toasts": {
+      "toastError": "Ajutoorneq",
+      "toastSuccess": "IIuatsitsineq",
+      "toastSetup2FAFailed": "2FA-mik inissiisarneq iluatsinngilaq. Misilittariaqarpat.",
+      "toast2FAEnabled": "Marlunnik pissuteqarluni uppernarsaasiineq atuutilersinneqarpoq.",
+      "toast2FADisabled": "Marlunnik pissuteqartumik uppernarsaasiineq unitsinneqarpoq.",
+      "toastSessionEnabled": "Aktiv session-imik nakkutilliineq atuutilersinneqarpoq.",
+      "toastSessionDisabled": "Aktiv session-imik nakkutilliineq qaminneqarpoq.",
+      "toastSetupKeyCopied": "Setup-tast-i clipboard-imut kopierneqarpoq."
+    },
+    "privacy": {
+      "title": "Personvernpolitikki",
+      "updateDate": "Kingullermik nutarterneqartoq: 15. juli 2026",
+      "intro": "Personlige oplysninger pillugit politikkimi matumani nassuiarneqarpoq DevFolio qanoq ililluni paasissutissaatitit katersortarpai, atortarpai aamma illersortarpai sullissinerput atorlugu.",
+      "section1Title": "1. Paasissutissat Katersortarpagut",
+      "section1Content": "Kontomik pilersitsinermi, portfoliomik sananermi, aamma tapersersuinermut saaffiginninnermi paasissutissat toqqaannartumik tunniussavit katersortarpagut. ",
+      "section2Title": "2. Paasissutissanik atuineq",
+      "section2Content": "Paasissutissat atorneqartarput sullissinerput ingerlatsinermut, pitsanngorsaanermut aammalu atortunik neqerooruteqarnissamut, kiisalu kontomut imaluunniit sullissinernut tunngatillugu ilinnut attaveqarnissamut.",
+      "section3Title": "3. Data-nik isumannaallisaaneq",
+      "section3Content": "Paasissutissat akuersissutigineqanngitsumik iserfigineqarnissaannut, saqqummiunneqarnissaannut, imaluunniit aserorterneqarnissaannut illersorniarlugit isumannaallisaanermut isumannaatsumik suliniutinik atuisarpugut."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Uppernarsaatitut token nassaarineqanngilaq.",
+    "defaultError": "Konto piiarniarlugu iluatsinngilaq. Token-i atuuttussaavoq.",
+    "loadingTitle": "Konto-mik piiaaneq...",
+    "loadingMessage": "Utaqqigit, qinnuteqaatit suliarivarput.",
+    "successTitle": "Konto iluatsilluartumik piiarneqarpoq",
+    "successMessage": "Paasissutissat tamarmik piujuartumik piiarneqarput. Illit allamut ingerlatinneqassaatit...",
+    "errorTitle": "Konto-mik piiaaneq iluatsinngilaq",
+    "backToHome": "Angerlarsimaffimmut uterneq"
+  },
+  "forgotPassword": {
+    "minutes": "minutsi",
+    "seconds": "aappaa",
+    "success": "Iluatsippoq",
+    "otpSentToEmail": "OTP-kode emailimut nassiunneqarpoq.",
+    "failed": "Ajutoorpoq",
+    "emailNotFound": "Email nassaarineqanngilaq.",
+    "emailThirdParty": "Email una pingajuusumik nalunaarsorneqarpoq.",
+    "genericError": "Kukkusoqarpoq. Misilittariaqarpat.",
+    "otpVerified": "OTP-kode-i iluatsilluartumik uppernarsarneqarpoq.",
+    "otpExpired": "OTP-kode atuuppoq. Nutaamik kodemik piumasaqarit.",
+    "otpInvalid": "OTP-kode atuunneq ajortoq.",
+    "otpResent": "OTP-kode nutaaq emailinnut nassiunneqarpoq.",
+    "otpResendFailed": "OTP-kode-mik nassiussinissaq iluatsinngilaq. Misilittariaqarpat.",
+    "passwordResetSuccess": "Isissummik iluatsilluartumik nutarterneqarpoq. Isissutissaq nutaaq atorlugu iserit.",
+    "passwordResetFailed": "Isissummik nutarterineq iluatsinngilaq.",
+    "backToLogin": "Login-imut uteqqigit",
+    "back": "Uterpoq",
+    "title": "Isissummik puigorpara",
+    "description": "Konto-mi emailikkut nalunaarsorneqarsimasoq allaguk. Isissutissaq nutarterniarlugu OTP-kode nassiussavarput.",
+    "emailLabel": "Email-imik allaffissaq",
+    "sending": "Nassiuppoq...",
+    "sendOtp": "OTP-kode nassiuk",
+    "verifyOtpTitle": "OTP-kode uppernarsaruk",
+    "verifyOtpDesc": "Kinaassutsit uppernarsarniarlugu 6-cifrimik kode emailimut nassiunneqarsimasoq allaguk.",
+    "verifying": "Uppernarsaaneq...",
+    "verifyOtp": "OTP-mik uppernarsaaneq",
+    "resending": "Nassiussigit...",
+    "resendOtp": "OTP-kode-mik nassiussineq",
+    "resendCodeIn": "Innermik anitsisartoq nassiullugu",
+    "newPasswordTitle": "Isissummik nutaamik pilersitsineq",
+    "newPasswordDesc": "Konto-t qulakkeerniarlugu isissummik nutaamik, nukittuumik pilersitsigit.",
+    "newPasswordLabel": "Isissummik nutaamik",
+    "min8Chars": "Minnerpaamik 8-nik karakterinik",
+    "oneUpperCase": "1 allakkat annertuut (A-Z)",
+    "oneNumber": "1 amerlassuseq (0-9)",
+    "oneSymbol": "1 ilisarnaat (!@#$%^&*)",
+    "confirmPasswordLabel": "Isissummik uppernarsaat",
+    "passwordsDoNotMatch": "Isissutissat naleqqutinngillat.",
+    "resettingPassword": "Isissummik nutarterineq...",
+    "resetPassword": "Isissummik nutarterineq"
+  },
+  "verifyEmail": {
+    "resendError": "Uppernarsaammik emailik nassiunneqarnissaa iluatsinngilaq. Misilittariaqarpat.",
+    "checkingStatus": "Uppernarsaanerup inissisimanera misissorlugu...",
+    "title": "Email-it misissoruk",
+    "description": "Email-imut uppernarsaatinik emailerpugut. Email-i ammaruk aammalu <1>\"Konto uppernarsaruk\"</1> toorlugu konto-t atuutilersinniarlugu.",
+    "stepsTitle": "Trinsit",
+    "step1": "Email-imut qinnuteqaat ammaruk (Gmail, Yahoo il.il.)",
+    "step2": "DevFolio-mit emailik ujarlugu qulequtalik \"Konto-mik atuineq\".",
+    "step3": "Emailimi \"Konto uppernarsarlugu\" toortagaq tooruk",
+    "step4": "Illit isernissamut quppernermut ingerlatinneqassaatit",
+    "resendSuccess": "Uppernarsaatitut emailik nassiunneqarpoq!",
+    "resending": "Nassiussigit...",
+    "resendButton": "Uppernarsaasiinermi emailik nassiussanngortiguk",
+    "backToLogin": "Uteqqigit Login-quppernermut",
+    "footerNote": "Email-imik tigusinngilatit? Email-imi mappi <1>Spam</1> imaluunniit <2>Junk</2> misissoruk. Uppernarsaasiinermut linki <3>24 timer</3>-imi atuuppoq."
+  }
+}

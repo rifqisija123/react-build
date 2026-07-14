@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Traches",
+    "templates": "Modèls",
+    "pricing": "Tarifacion",
+    "login": "Connexion",
+    "getStarted": "Començatz",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Lo constructor de portfolio final pels desvolopaires",
+    "title1": "Bastissètz vòstre professional",
+    "title2": "cartèla dins",
+    "titleHighlight": "segondas.",
+    "subtitle": "Tot çò que vos cal per mostrar vòstras competéncias, projèctes e experiéncia. ",
+    "startBuilding": "Començatz de bastir ara",
+    "viewTemplates": "Veire los modèls",
+    "fastDeployment": "Desplegament rapid",
+    "liveStatus": "nom d'utilizaire.dev es en dirècte!",
+    "featuresTitle": "Foncionalitats poderosas",
+    "featuresSubtitle": "Vos provesissèm totas las aisinas que vos cal per vos destacar de la fola e trobar vòstre trabalh de sòmi.",
+    "feature1Title": "Constructor d'arrossegar e depausar",
+    "feature1Desc": "Organizatz aisidament vòstras seccions, projèctes e competéncias amb nòstre editor visual intuitiu.",
+    "feature2Title": "Tèmas personalizats",
+    "feature2Desc": "Causissètz entre de modèls concebuts professionalament o creatz vòstre pròpri aspècte unic.",
+    "feature3Title": "Analisi en temps real",
+    "feature3Desc": "Seguissètz vòstres visitors, veire quines projèctes recebon lo mai d'atencion, e mai."
+  },
+  "auth": {
+    "welcomeBack": "Benvenguda de retorn",
+    "loginToContinue": "Connectatz-vos a vòstre compte per contunhar",
+    "createAccount": "Crear un compte",
+    "joinCommunity": "Rejonhètz de milièrs d'autres desvolopaires",
+    "fullName": "Nom complet",
+    "fullNamePlaceholder": "p.ex. ",
+    "email": "Adreça de corrièl",
+    "emailPlaceholder": "tu@exemple.com",
+    "password": "Senhal",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Remembratz-vos de ieu",
+    "forgotPassword": "Avètz oblidat lo senhal?",
+    "signIn": "Connectatz-vos",
+    "signingIn": "Connexion...",
+    "signUp": "S'inscriure",
+    "signingUp": "S'inscriure...",
+    "noAccount": "Avètz pas de compte?",
+    "hasAccount": "Avètz ja un compte?",
+    "passwordRules": {
+      "title": "Lo senhal deu conténer :",
+      "length": "Al mens 8 caractèrs",
+      "uppercase": "Una letra majuscula (A-Z)",
+      "number": "Un nombre (0-9)",
+      "symbol": "Un simbòl (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Constructor de portfolio",
+      "templates": "Modèls e tèmas",
+      "settings": "Paramètres",
+      "collapse": "Barra lateral de reduccion",
+      "overview": "Apercebut",
+      "profileSettings": "Paramètres de perfil",
+      "customDomain": "Domeni personalizat",
+      "feedback": "Retorn"
+    },
+    "header": {
+      "viewLive": "Veire en dirècte",
+      "welcome": "Benvengut,",
+      "logout": "Desconnexion",
+      "builder": "Constructor",
+      "livePortfolio": "Portfolio en dirècte",
+      "live": "Viure"
+    },
+    "logoutModal": {
+      "title": "Desconnexion",
+      "message": "Sètz segur que volètz vos desconnectar de vòstre compte ? ",
+      "cancel": "Anullar",
+      "confirm": "Òc, Desconnexion"
+    },
+    "slugModal": {
+      "title": "Causissètz l'URL de vòstre portfolio",
+      "message": "Aquesta URL serà lo ligam unic cap a vòstre portfolio. ",
+      "slugPlaceholder": "ton-nom",
+      "availability": "Disponibilitat:",
+      "available": "Disponible",
+      "unavailable": "Indisponible",
+      "checking": "En verificant...",
+      "mustFormat": "Pòt pas que conténer de letras, de chifras e de tirets (-)",
+      "cancel": "Anullar",
+      "save": "Enregistrar l'URL",
+      "usernameUrl": "URL de nom d'utilizaire",
+      "helpText": "Letras minusculas, chifras, e tirets. ",
+      "validation": {
+        "empty": "Slug pòt pas èsser vuèg.",
+        "min3": "Un minimum de 3 caractèrs.",
+        "max30": "Un maximum de 30 caractèrs.",
+        "format": "Solament de letras minusculas, de nombres e de tirets (-). "
+      }
+    },
+    "loadingPortfolio": "En cargament de donadas de portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Bonjorn",
+        "afternoon": "Bona Tarda",
+        "evening": "Bona Tarda",
+        "night": "Bona Nuèch"
+      },
+      "welcome": {
+        "hi": "Adieu,",
+        "creator": "Creator",
+        "desc1": "Benvenguda sul tablèu de bòrd DevFolio. Vòstre portfolio es estat visualizat per",
+        "desc2": "persona. Contunhatz de trabalhar!",
+        "editPortfolio": "Modificar lo portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total de visitors",
+        "projectViews": "Vist (Projècte)",
+        "activeSessions": "Sesilha activa",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Progrès de configuracion",
+        "completed": "Vòstre portfolio es complet! 🎉",
+        "inProgress": "Passes cap al portfolio perfièch.",
+        "profile": {
+          "title": "Perfil complet",
+          "desc": "Ajustar nom, biografia e fòto de perfil."
+        },
+        "section": {
+          "title": "Apondre de seccions",
+          "desc": "Activatz al mens 1 seccion dins lo portfolio."
+        },
+        "project": {
+          "title": "Apondre un projècte",
+          "desc": "Picatz al mens 1 de vòstres melhors projèctes."
+        },
+        "publish": {
+          "title": "Publicar lo portfolio",
+          "desc": "Definissètz una URL personalizada per que lo public pòsca èsser accessibla."
+        }
+      },
+      "topProjects": {
+        "title": "Los projèctes mai populars",
+        "desc": "La performància de vòstre trabalh als uèlhs dels visitors.",
+        "viewAll": "Veire tot",
+        "empty": "I a pas encara de donadas de visualizacion per vòstre projècte."
+      }
+    },
+    "themes": {
+      "title": "Modèls e tèmas",
+      "subtitle": "Personalizatz l'aspècte e la sensacion de vòstre portfolio public.",
+      "reset": "Reïnicializar per defaut",
+      "save": "Enregistrar las modificacions",
+      "saving": "Estalviant...",
+      "chooseTemplate": "Causissètz un modèl",
+      "primaryColor": "Color Principal",
+      "typography": "Tipografia",
+      "appearance": "Aparéncia",
+      "corners": "Esquinas & Fronteras",
+      "successTitle": "Succès",
+      "successMessage": "Las preferéncias del tèma mesas a jorn amb succès",
+      "errorTitle": "Error",
+      "errorMessage": "Fracàs al moment de l'enregistrament de las preferéncias del tèma",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Dessenh net e simple centrat sul contengut."
+        },
+        "developerDark": {
+          "name": "Desvolopaire Escur",
+          "desc": "Tèma escur perfièch per mostrar de pilas de còde e de tecnologia."
+        },
+        "creative": {
+          "name": "Creativa",
+          "desc": "Disposicion vibranta e colorida pels dessenhaires e creatius."
+        },
+        "executive": {
+          "name": "Executiu",
+          "desc": "Disposicion professionala e formala pels professionals dels negòcis."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Disposicion de grasilha modèrna d'estil Apple que met en evidéncia eficaçament diferentas competéncias."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalisme",
+          "desc": "De frontièras audaciosas e de colors de naut contraste per un agach de mòda e sens excusas."
+        },
+        "glassmorphism": {
+          "name": "Morfisme de veire",
+          "desc": "Efièches de veire glaçat sus de degradats colorats per una interfàcia d'utilizaire modèrna eleganta."
+        },
+        "linkInBio": {
+          "name": "Enlace en Bio",
+          "desc": "Disposicion verticala compacta optimizada pels ecrans mobils e los mèdias socials."
+        }
+      },
+      "appearances": {
+        "light": "Lutz",
+        "dark": "Escur",
+        "system": "Sistèma"
+      },
+      "cornersOptions": {
+        "sharp": "Agut",
+        "rounded": "Arrodonit",
+        "pill": "Pilula"
+      }
+    },
+    "feedback": {
+      "title": "Enviar de comentaris",
+      "subtitle": "Ajudatz-nos a melhorar en provesissent de suggestions, de criticas, o en raportant de bugs sus aquesta aplicacion.",
+      "categoryLabel": "Categoria de retroaccion",
+      "messageLabel": "Detalhs del messatge",
+      "messagePlaceholder": "Digatz-me en detalh sus la retroaccion que volètz transmetre...",
+      "imageLabel": "Adjunt d'imatge (Facultatiu)",
+      "imagePlaceholder": "Clicatz per mandar l'imatge o la captura d'ecran",
+      "submitting": "Enviant...",
+      "submitBtn": "Enviar de comentaris",
+      "categories": {
+        "suggestion": "Sugerencias & Ideas",
+        "bug": "Rapòrt d'error / error",
+        "criticism": "Critica",
+        "other": "D'autres"
+      },
+      "imageErrorTitle": "Error",
+      "imageErrorMessage": "Qualques fichièrs son refusats perque son pas de formats d'imatge suportats (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Succès",
+      "successMessage": "Mercés per vòstre comentari! Lo rapòrt es estat mandat.",
+      "submitErrorTitle": "Fracassat",
+      "submitErrorMessage": "Una error s'es producha al moment del mandadís de comentaris. Ensajatz tornarmai."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "A prepaus de ieu",
+      "skills": "Competéncias",
+      "projects": "Projèctes",
+      "workExperience": "Experiéncia de trabalh",
+      "orgExperience": "Experiéncia organizacionala",
+      "education": "Educacion",
+      "certifications": "Formacion e Certificacions",
+      "contact": "Contactatz-me"
+    },
+    "editor": {
+      "profileInfo": "Informacion del perfil",
+      "saving": "En salvant...",
+      "profilePhoto": "Fòto de perfil",
+      "clickToUpload": "Clicatz per mandar (JPG, PNG)",
+      "fullName": "Nom complet",
+      "fullNamePlaceholder": "p.ex. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Desvolopaire Fullstack amb una passion per la construccion d'aplicacions web modèrnas...",
+      "location": "Endrech",
+      "locationPlaceholder": "p.ex. ",
+      "gender": "Sexe",
+      "selectGender": "Seleccionar lo genre",
+      "male": "Mascle",
+      "female": "Femna",
+      "custom": "Costuma",
+      "customPlaceholder": "Picatz vòstre genre personalizat...",
+      "uploadCv": "Enviar CV",
+      "cvFormat": "(DOC o PDF)",
+      "preview": "Apercebut",
+      "remove": "Levar",
+      "clickToUploadCv": "Clicatz per mandar PDF o DOC",
+      "sections": "Seccions",
+      "removeSelected": "Suprimir seleccionat",
+      "confirmRemove": "Confirmar Suprimir",
+      "addSection": "Apondre una seccion",
+      "addAllSections": "Apondre totas las seccions",
+      "noSections": "Cap de seccion encara",
+      "clickToAdd": "Clicatz sus \"+ Apondre una seccion\" per començar",
+      "selectAll": "Seleccionar tot",
+      "selected": "Seleccionat",
+      "dragToReorder": "Arrossegatz per tornar ordenar las seccions",
+      "livePreview": "Apercebut en dirècte",
+      "addSectionsToBuild": "Apondètz de seccions per bastir vòstre portfolio",
+      "now": "Ara",
+      "current": "Actual",
+      "noExpiry": "Pas d'expiracion",
+      "see": "Veire",
+      "position": "Posicion",
+      "degree": "Gra",
+      "certification": "Certificacion",
+      "sectionsForm": {
+        "about": {
+          "label": "Descripcion de tu",
+          "placeholder": "Parla-nos de tu, de ton origina, d'interèsses e de competéncias..."
+        },
+        "skills": {
+          "addPlaceholder": "Picatz competéncia puèi quichatz Entrada..."
+        },
+        "projects": {
+          "title": "Nom del projècte",
+          "titlePlaceholder": "Nom del projècte...",
+          "url": "URL del projècte",
+          "description": "Descripcion",
+          "descriptionPlaceholder": "Descripcion brèva del projècte...",
+          "uploadThumbnail": "Imatge del projècte",
+          "addProject": "Apondre un projècte",
+          "projectNum": "Projècte #",
+          "currentProject": "Aquò's un projècte que trabalhi"
+        },
+        "work": {
+          "company": "Entrepresa/Agéncia",
+          "companyPlaceholder": "Nom de l'entrepresa...",
+          "position": "Pòste/Títol",
+          "positionPlaceholder": "Vòstra posicion...",
+          "employmentType": "Tipe de trabalh",
+          "location": "Endrech",
+          "locationPlaceholder": "Vila, País...",
+          "startDate": "Començar",
+          "endDate": "Acabat",
+          "currentWork": "Trabalhi encara pel moment",
+          "description": "Descripcion",
+          "descriptionPlaceholder": "Descripcion del pòste e responsabilitats...",
+          "skills": "Competéncia",
+          "addExperience": "Apondre d'experiéncia de trabalh",
+          "experienceNum": "Experiéncia #",
+          "dateError": "La data de fin pòt pas èsser mai anciana que la data de començament"
+        },
+        "org": {
+          "organization": "Nom de l'organizacion",
+          "orgPlaceholder": "Universitat BEM...",
+          "role": "Ròtle/Posicion",
+          "rolePlaceholder": "Cap de division...",
+          "addOrg": "Ajustar d'experiéncia organizacionala",
+          "orgNum": "Organizacion #"
+        },
+        "edu": {
+          "institution": "Institucions Educativas",
+          "institutionPlaceholder": "Nom del campus o de l'escòla...",
+          "degree": "Títol",
+          "degreePlaceholder": "S1, licèu, etc...",
+          "major": "Departament/Camp d'Estudi",
+          "majorPlaceholder": "Engenharia Informatica...",
+          "gpa": "GPA (facultatiu)",
+          "currentStudy": "Apreni encara aicí",
+          "descriptionPlaceholder": "Activitats e realizacions pendent l'estudi...",
+          "addEdu": "Ajustar l'educacion",
+          "eduNum": "Educacion #"
+        },
+        "cert": {
+          "name": "Nom de Certificacion / Formacion",
+          "namePlaceholder": "Nom de certificacion...",
+          "issuer": "Editor",
+          "issuerPlaceholder": "Institucion editoriala...",
+          "issueDate": "Començament (Data de publicacion)",
+          "issueDatePlaceholder": "Seleccionatz la data de publicacion...",
+          "expiryDate": "Completat (Periòde valid)",
+          "expiryDatePlaceholder": "Seleccionatz la data d'expiracion...",
+          "noExpiry": "Aqueste certificat a pas cap de data d'expiracion",
+          "url": "URL de credencials",
+          "uploadThumbnail": "Certificat / Imatge de formacion",
+          "uploadThumbnailLimit": "Enviar l'imatge de certificat (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Ajustar la certificacion",
+          "certNum": "Certificacion #"
+        },
+        "contact": {
+          "contactNum": "Contacte #",
+          "platform": "Plataforma",
+          "displayText": "Afichar lo tèxte",
+          "displayTextPlaceholder": "p. ex., you@email.com o @username",
+          "url": "Ligam (URL)",
+          "urlPlaceholderWhatsapp": "p. ex., 62812... (sens 0)",
+          "urlPlaceholderEmail": "p. ex., you@email.com",
+          "urlPlaceholderWebsite": "p. ex., https://...",
+          "urlPlaceholderDefault": "p. ex., nom d'utilizaire",
+          "addContact": "Apondre un contacte"
+        },
+        "common": {
+          "months": {
+            "1": "genièr",
+            "2": "Febrièr",
+            "3": "Marcha",
+            "4": "Abril",
+            "5": "Se pòt",
+            "6": "Junh",
+            "7": "Julh",
+            "8": "August",
+            "9": "Setembre",
+            "10": "Octobre",
+            "11": "Novembre",
+            "12": "Decembre"
+          },
+          "month": "Mes",
+          "year": "Annada",
+          "invalidDate": "Mes de fin invalid",
+          "words": "disputa"
+        }
+      },
+      "sure": "Segur",
+      "deletePhotoTitle": "Suprimir la fòto de perfil?",
+      "deletePhotoMessage": "Sètz segur que volètz suprimir aquesta fòto de perfil ?",
+      "cancel": "Anullar",
+      "delete": "Escafar"
+    },
+    "cropper": {
+      "chooseBackground": "Causissètz rèireplan",
+      "cropPhoto": "Retalhar vòstra fòto",
+      "useOriginal": "Utilizar l'original",
+      "backgroundPresets": "Presets de rèireplan",
+      "none": "Cap",
+      "uploadBackground": "Reireplan de mandadís",
+      "cancel": "Anullar",
+      "savePhoto": "Enregistrar la fòto",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotacion e inclinason",
+      "resetRotation": "Reïnicializar a 0°",
+      "center": "Centre",
+      "rotateLeft": "Virar -90°",
+      "rotateRight": "Virar +90°",
+      "removeBackground": "Suprimir lo fons",
+      "processing": "En tractant vòstra imatge, esperatz..."
+    },
+    "cvPreview": {
+      "title": "Apercebut del CV",
+      "downloadCv": "Telecargar CV",
+      "download": "Descargar",
+      "wordCannotPreview": "Los documents Word (.doc/.docx) pòdon pas èsser previsualizats de manièra nativa dins lo navigador. ",
+      "downloadFile": "Telecargar lo fichièr CV",
+      "back": "Arrièr",
+      "mobileMessage": "Telecargatz lo fichièr CV per l'apercebre.",
+      "preview": "CV d'apercebut",
+      "wordPreviewTitle": "Apercebut del document Word",
+      "wordPreviewMessage": "Los documents Word (.doc/.docx) pòdon pas èsser previsualizats de manièra nativa dins lo navigador. Telecargatz lo fichièr per lo visualizar."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Escrivètz una brèva descripcion sus vos meteis, vòstres interèsses e vòstres objectius professionals..."
+    },
+    "skills": {
+      "placeholder": "Picatz lo nom de l'abiletat...",
+      "add": "Apondre",
+      "enterToAdd": "Quichatz Entrada per apondre",
+      "noSkills": "Cap de competéncia pas encara aponduda."
+    },
+    "projects": {
+      "projectName": "Nom del projècte",
+      "projectNamePlaceholder": "p.ex. ",
+      "projectUrl": "URL del projècte",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Durada",
+      "startMonth": "Mes de començament",
+      "startYear": "Començament de l'annada",
+      "endMonth": "Fin del mes",
+      "endYear": "Fin d'annada",
+      "currentlyWorking": "Trabalhant actualament sus aquò",
+      "description": "Descripcion",
+      "descriptionPlaceholder": "Descrivètz lo projècte, vòstre ròtle e vòstras realizacions...",
+      "technologies": "Tecnologias utilizadas",
+      "addProject": "Apondre un projècte",
+      "image": "Imatge del projècte",
+      "removeImage": "Suprimir l'imatge",
+      "uploadImage": "Clicatz per mandar l'imatge"
+    },
+    "work": {
+      "company": "Empresa/Institucion",
+      "companyPlaceholder": "Nom de l'entrepresa...",
+      "role": "Ròtle/Posicion",
+      "rolePlaceholder": "Vòstra posicion...",
+      "jobType": "Tipe de trabalh",
+      "selectJobType": "Seleccionar lo tipe",
+      "fullTime": "A temps plen",
+      "partTime": "A temps parcial",
+      "contract": "Contracte",
+      "internship": "Estagi",
+      "freelance": "Autonòm",
+      "location": "Endrech",
+      "locationPlaceholder": "p.ex. ",
+      "duration": "Durada",
+      "currentlyWorking": "Trabalhi actualament aicí",
+      "description": "Descripcion del pòste",
+      "descriptionPlaceholder": "Descrivètz vòstras responsabilitats e realizacions claus...",
+      "skills": "Competéncias especificas",
+      "addExperience": "Apondre d'experiéncia"
+    },
+    "org": {
+      "organization": "Nom de l'organizacion",
+      "organizationPlaceholder": "Nom de l'organizacion...",
+      "role": "Ròtle/Posicion",
+      "rolePlaceholder": "p.ex. ",
+      "duration": "Durada",
+      "periodFormat": "o format liure (p. ex. 2020 - 2022)",
+      "periodPlaceholder": "p.ex. ",
+      "currentlyActive": "Actuaument actiu",
+      "description": "Descripcion de l'activitat",
+      "descriptionPlaceholder": "Descrivètz vòstras activitats o contribucions...",
+      "addExperience": "Apondre d'experiéncia"
+    },
+    "education": {
+      "institution": "Nom de l'institucion",
+      "institutionPlaceholder": "Nom de l'escòla o de l'universitat...",
+      "degree": "Grau/Nivèl",
+      "degreePlaceholder": "p.ex. ",
+      "major": "Major/Camp d'Estudi",
+      "majorPlaceholder": "p.ex. ",
+      "gpa": "GPA / Grada",
+      "gpaPlaceholder": "p.ex. ",
+      "duration": "Durada de l'educacion",
+      "periodFormat": "o Format Liure (p. ex. 2018 - 2022)",
+      "periodPlaceholder": "p.ex. ",
+      "currentlyStudying": "Estudi actualament aicí",
+      "description": "Activitats / Onors",
+      "descriptionPlaceholder": "Descrivètz las activitats, organizacions o onors academics recebuts...",
+      "addEducation": "Ajustar l'educacion"
+    },
+    "cert": {
+      "name": "Nom de certificacion",
+      "namePlaceholder": "p.ex. ",
+      "issuer": "Organizacion d'emission",
+      "issuerPlaceholder": "p.ex. ",
+      "issueDate": "Data d'emission",
+      "expiryDate": "Valid fins a",
+      "noExpiry": "Aquesta credenciala expira pas",
+      "yearPlaceholder": "o An (p. ex. 2023)",
+      "credentialUrl": "URL de credencials",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Competéncias ligadas",
+      "addCertification": "Ajustar la certificacion",
+      "image": "Imatge/Lògo",
+      "removeImage": "Suprimir l'imatge",
+      "uploadImage": "Clicatz per mandar l'imatge"
+    },
+    "common": {
+      "months": {
+        "1": "genièr",
+        "2": "Febrièr",
+        "3": "Marcha",
+        "4": "Abril",
+        "5": "Se pòt",
+        "6": "Junh",
+        "7": "Julh",
+        "8": "August",
+        "9": "Setembre",
+        "10": "Octobre",
+        "11": "Novembre",
+        "12": "Decembre"
+      },
+      "month": "Mes",
+      "year": "Annada",
+      "invalidDate": "Mes de fin invalid",
+      "words": "disputa"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Gerir vòstre perfil de portfolio e vòstras preferéncias",
+    "tabs": {
+      "profile": "Mon perfil",
+      "security": "Seguretat",
+      "personalization": "Personalizacion"
+    },
+    "profile": {
+      "infoTitle": "Informacion de basa",
+      "photo": "Fòto de perfil",
+      "uploadPhoto": "Cambiar la fòto",
+      "fullName": "Nom complet",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adreça de corrièl",
+      "emailPlaceholder": "john@exemple.com",
+      "emailHelp": "Lo corrièl es utilizat per la connexion e es pas afichat publicament.",
+      "portfolioUrl": "URL del portfolio",
+      "saveProfile": "Enregistrar lo perfil",
+      "save": "Enregistrar lo perfil",
+      "accountCreated": "Compte creat",
+      "lastLogin": "Darrièr connexion",
+      "oauthNotice": "Aqueste perfil es connectat a vòstre compte {{provider}}. Las modificacions de perfil devon èsser efectuadas a travèrs lo provesidor de servicis."
+    },
+    "security": {
+      "changePassword": "Cambiar lo senhal",
+      "currentPassword": "Senhal actual",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Novèl senhal",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Confirmar un senhal novèl",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Al mens 8 caractèrs",
+        "uppercase": "Una letra majuscula (A-Z)",
+        "number": "Un nombre (0-9)",
+        "symbol": "Un simbòl (!@#$%^&*)"
+      },
+      "passwordTitle": "Senhal",
+      "updatePassword": "Metre a jorn lo senhal",
+      "additionalSecurity": "Seguretat suplementària",
+      "twoFactor": "Autentificacion en dos factors (2FA)",
+      "twoFactorDesc": "Securizatz vòstre compte en utilizant un còde OTP suplementari.",
+      "activeSessions": "Sesilhas activas",
+      "activeSessionsDesc": "Autorizatz totjorn la susvelhança dels periferics connectats.",
+      "publicVisibility": "Visibilitat publica",
+      "hideFromSearch": "Amagar lo portfolio dels motors de recèrca",
+      "hideFromSearchDesc": "Empachar Google d'indexar vòstra pagina de portfolio publica.",
+      "disable2fa": {
+        "title": "Desactivar 2FA",
+        "description": "Sètz segur que volètz desactivar l'autentificacion a dos factors ?",
+        "confirmPasswordLabel": "Picatz vòstre senhal per confirmar",
+        "currentPasswordPlaceholder": "Senhal actual",
+        "cancelButton": "Anullar",
+        "confirmButton": "Desactivar 2FA",
+        "incorrectPassword": "Senhal incorrècte."
+      },
+      "setup2fa": {
+        "step1Title": "1. Escanar lo còde QR",
+        "step1Desc": "Dobrissètz vòstra aplicacion d'autentificacion e escanejatz lo còde QR seguent :",
+        "unableToScan": "Impossible d'escanejar ? Utilizar la clau de configuracion",
+        "step2Title": "2. Verificar lo còde",
+        "step2Desc": "Picatz lo còde de 6 chifras generat per vòstra aplicacion :",
+        "cancelButton": "Anullar",
+        "enableButton": "Activar 2FA",
+        "invalidLength": "Picatz un còde de 6 chifras.",
+        "invalidCode": "Còdi de verificacion invalid. Ensajatz tornarmai."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Contraròtles de lenga",
+      "appLanguage": "Lenga de l'aplicacion",
+      "layoutTitle": "Disposicion e Tipografia",
+      "layoutStyle": "Estil de maquetacion",
+      "layoutModern": "Estil modèrne (per defaut)",
+      "layoutClassic": "Estil classic",
+      "layoutMinimalist": "Estil minimalista",
+      "fontSize": "Talha de la poliça de l'aplicacion",
+      "fontSmall": "Petit",
+      "fontNormal": "Normal (Mejan)",
+      "fontLarge": "Grand",
+      "searchLanguage": "Cercar lenga...",
+      "languageNotFound": "Lenga pas trobada",
+      "layoutElegant": "Estil elegant"
+    },
+    "saveChanges": "Enregistrar las modificacions",
+    "cancel": "Anullar",
+    "appSettings": "Paramètres de l'aplicacion",
+    "logoutConfirmTitle": "Confirmar la desconnexion",
+    "logoutConfirmDesc": "Sètz segur que volètz vos desconnectar del sistèma ?",
+    "logoutConfirmYes": "Òc, Desconnexion",
+    "generalError": "Una error s'es producha. ",
+    "success": "Succès",
+    "preferencesSaved": "Las preferéncias de l'aplicacion enregistradas amb succès.",
+    "header": "Paramètres de l'aplicacion",
+    "logout": {
+      "title": "Confirmacion de desconnexion",
+      "message": "Sètz segur que volètz vos desconnectar del sistèma ?",
+      "confirm": "Òc, Desconnexion"
+    },
+    "about": {
+      "title": "A prepaus de l'aplicacion",
+      "subtitle": "Plataforma de constructor de cartèlas",
+      "version": "Version",
+      "description": "DevFolio es una plataforma modèrna de constructor de portfolio concebuda pels desvolopaires, dessenhaires e creators professionals. ",
+      "license": "Licéncia e drech d'autor",
+      "copyright": "© 2026 DevFolio Inc. Totes los dreches reservats.",
+      "developer": "Desvolopaire",
+      "developedBy": "Desvolopat per l'equipa DevFolio"
+    },
+    "deleteAccount": {
+      "title": "Suprimir lo compte definitivament",
+      "menuItem": "Suprimir lo compte",
+      "successTitle": "Succès",
+      "successMessage": "Un corrièl de confirmacion de la supression del compte es estat mandat.",
+      "errorTitle": "Fracassat",
+      "errorMessage": "Fracàs al mandar un corrièl de confirmacion.",
+      "confirmationMessage": "Sètz segur que volètz suprimir definitivament vòstre compte ?",
+      "warningMessage1": "Recebretz un corrièl per confirmar la supression del compte.",
+      "warningMessage2": "Se confirmat, totas las donadas (portfolio, projèctes, estatisticas) seràn definitivament suprimidas e poiràn pas èsser recuperadas.",
+      "cancel": "Anullar",
+      "confirm": "Confirmacion"
+    },
+    "toasts": {
+      "toastError": "Error",
+      "toastSuccess": "Succès",
+      "toastSetup2FAFailed": "Fracàs a la configuracion de 2FA. Ensajatz tornarmai.",
+      "toast2FAEnabled": "L'autentificacion a dos factors es estada activada.",
+      "toast2FADisabled": "L'autentificacion a dos factors es estada desactivada.",
+      "toastSessionEnabled": "La susvelhança activa de la sesilha es estada activada.",
+      "toastSessionDisabled": "La susvelhança activa de la sesilha es estada desactivada.",
+      "toastSetupKeyCopied": "Clau de configuracion copiada dins lo quichapapièrs."
+    },
+    "privacy": {
+      "title": "Politica de confidencialitat",
+      "updateDate": "Darrièra mesa a jorn: 15 de julhet de 2026",
+      "intro": "Aquesta Politica de confidencialitat explica cossí DevFolio reculhís, utiliza e protegís vòstras informacions personalas al moment d'utilizar nòstres servicis.",
+      "section1Title": "1. Informacion que collectam",
+      "section1Content": "Reculhèm las informacions que provesissètz dirèctament al moment de crear un compte, de bastir un portfolio e de contactar nòstre supòrt. ",
+      "section2Title": "2. Utilizacion de l'informacion",
+      "section2Content": "Vòstras informacions son utilizadas per operar, manténer e provesir las foncionalitats de nòstres servicis, e tanben per comunicar amb vos a prepaus de vòstre compte o servicis.",
+      "section3Title": "3. Seguretat de donadas",
+      "section3Content": "Implementam de mesuras de seguretat rasonablas per protegir vòstras informacions d'accès, divulgacion o destruccion non autorizats."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Lo geton de confirmacion pas trobat.",
+    "defaultError": "Fracàs al moment de la supression del compte. Lo geton pòt aver expirat.",
+    "loadingTitle": "Suprimir lo compte...",
+    "loadingMessage": "Esperatz, tractam vòstra demanda.",
+    "successTitle": "Compte suprimit amb succès",
+    "successMessage": "Totas vòstras donadas son estadas definitivament suprimidas. Seretz redirigit...",
+    "errorTitle": "Fracàs al suprimir lo compte",
+    "backToHome": "Tornar a l'ostal"
+  },
+  "forgotPassword": {
+    "minutes": "minutas",
+    "seconds": "segondas",
+    "success": "Succès",
+    "otpSentToEmail": "Un còde OTP es estat mandat a vòstre corrièr electronic.",
+    "failed": "Fracassat",
+    "emailNotFound": "Corrièr electronic pas trobat.",
+    "emailThirdParty": "Aqueste corrièl es enregistrat per un tèrç.",
+    "genericError": "I a una error. Ensajatz tornarmai.",
+    "otpVerified": "Lo còde OTP es estat verificat amb succès.",
+    "otpExpired": "Lo còde OTP a expirat. Demandatz un còde novèl.",
+    "otpInvalid": "Còde OTP invalid.",
+    "otpResent": "Un novèl còde OTP es estat mandat a vòstre corrièr electronic.",
+    "otpResendFailed": "Fracàs al remandament del còde OTP. Ensajatz tornarmai.",
+    "passwordResetSuccess": "Reïnicializar amb succès lo senhal. Connectatz-vos amb vòstre senhal novèl.",
+    "passwordResetFailed": "Fracàs al reïnicializar lo senhal.",
+    "backToLogin": "Tornar a la connexion",
+    "back": "Enrè",
+    "title": "Senhal oblidat",
+    "description": "Picatz l'adreça electronica enregistrada sus vòstre compte. Mandarem un còde OTP per reïnicializar lo senhal.",
+    "emailLabel": "Adreça de corrièl",
+    "sending": "Enviant...",
+    "sendOtp": "Enviar lo còde OTP",
+    "verifyOtpTitle": "Verificar lo còde OTP",
+    "verifyOtpDesc": "Picatz lo còde de 6 chifras qu'es estat mandat a vòstre corrièl per confirmar vòstra identitat.",
+    "verifying": "En verificant...",
+    "verifyOtp": "Verificar OTP",
+    "resending": "En tornar mandar...",
+    "resendOtp": "Tornatz mandar lo còde OTP",
+    "resendCodeIn": "Tornatz mandar lo còde dins",
+    "newPasswordTitle": "Crear un novèl senhal",
+    "newPasswordDesc": "Creatz un senhal novèl e fòrt per protegir vòstre compte.",
+    "newPasswordLabel": "Novèl senhal",
+    "min8Chars": "Un minimum de 8 caractèrs",
+    "oneUpperCase": "1 majuscula (A-Z)",
+    "oneNumber": "1 nombre (0-9)",
+    "oneSymbol": "1 simbòl (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirmar lo senhal",
+    "passwordsDoNotMatch": "Los senhals correspondon pas.",
+    "resettingPassword": "Reïnicializar lo senhal...",
+    "resetPassword": "Reïnicializar lo senhal"
+  },
+  "verifyEmail": {
+    "resendError": "Fracàs al tornant mandar un corrièl de verificacion. Ensajatz tornarmai.",
+    "checkingStatus": "Verificacion de l'estat de verificacion...",
+    "title": "Verificatz vòstre corrièl",
+    "description": "Avèm mandat un corrièl de verificacion a vòstra adreça de corrièl. Dobrissètz lo corrièr electronic e clicatz sul boton <1>\"Confirmar lo compte\"</1> per activar vòstre compte.",
+    "stepsTitle": "Etapas",
+    "step1": "Dobritz vòstra aplicacion de corrièl (Gmail, Yahoo, etc)",
+    "step2": "Cercatz un corrièl de DevFolio amb lo subjècte \"Activacion del compte\"",
+    "step3": "Clicatz sul boton \"Confirmar lo compte\" dins lo corrièl",
+    "step4": "Seretz dirigit a la pagina de connexion per dintrar",
+    "resendSuccess": "Lo corrièl de verificacion es estat remandat !",
+    "resending": "En tornar mandar...",
+    "resendButton": "Tornatz mandar un corrièl de verificacion",
+    "backToLogin": "Tornar a la pagina de connexion",
+    "footerNote": "Avètz pas recebut lo corrièl? Marcatz lo dorsièr <1>Indesirable indesirable</1> o <2>Indesirable</2> dins vòstre corrièr electronic. Lo ligam de verificacion es valid pendent <3>24 oras</3>."
+  }
+}

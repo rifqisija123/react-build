@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Melo jëmmal",
+    "templates": "Modèle",
+    "pricing": "Njëgg",
+    "login": "Duggal",
+    "getStarted": "Tambalil",
+    "title": "Devfolio"
+  },
+  "landing": {
+    "badge": "Tabaxkatu portfëy bi mujjee ngir developpeur yi",
+    "title1": "Tabax sa liggéey",
+    "title2": "portfëy ci",
+    "titleHighlight": "ay segond.",
+    "subtitle": "Lépp loo soxla ngir wane sa xam-xam, sa projet ak sa jaar-jaar. ",
+    "startBuilding": "Tambalil tabax leegi",
+    "viewTemplates": "Xoolal ay modèle",
+    "fastDeployment": "Gaaw jëfandikoo",
+    "liveStatus": "tur jëfandikukat.dev mingi dundu!",
+    "featuresTitle": "Man-mani yu am doole",
+    "featuresSubtitle": "Am nanu bépp jumtukaay boo soxla ngir génn ci mbooloo mi, ba noppi am liggéey bi nga bëgg.",
+    "feature1Title": "Tabaxkat bi Sëgg & Sànni",
+    "feature1Desc": "Raññeel say wàll, say projet ak say xam-xam ci anam wu yomb ak sunu editëru nataal bu yomb bi.",
+    "feature2Title": "Tem yuñ personaaliseer",
+    "feature2Desc": "Tannal ci modèle yuñ defaree ci anam wu xarañ wala nga defar sa melokaan bu amul fenn.",
+    "feature3Title": "Jàngat ci jamono dëgg",
+    "feature3Desc": "Toppal say gan, xool ban projet lañu gëna bëgg, ak yeneen mbir."
+  },
+  "auth": {
+    "welcomeBack": "Dalal jàmm",
+    "loginToContinue": "Duggal ci sa kontu ngir wéy",
+    "createAccount": "Sosal kontu",
+    "joinCommunity": "Nu ngi bokk ci yeneen junni developpeur",
+    "fullName": "Tur wi leer",
+    "fullNamePlaceholder": "lu melni ",
+    "email": "Adres email",
+    "emailPlaceholder": "yaw@misaal.com",
+    "password": "Baatu ubbikaay",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Fàttaliku ma",
+    "forgotPassword": "Fatte nga baatu-jàll bi?",
+    "signIn": "Duggal",
+    "signingIn": "Duggal...",
+    "signUp": "Aboneel",
+    "signingUp": "Abone...",
+    "noAccount": "Amul kontu?",
+    "hasAccount": "Am nga kontu ba noppi?",
+    "passwordRules": {
+      "title": "Baatu-jàll bi dafa wara am:",
+      "length": "Lu mu neew 8 araf",
+      "uppercase": "Benn arafu mag (A-Z)",
+      "number": "Benn nimero (0-9)",
+      "symbol": "Benn màndarga (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Tabaxkatu portfëy",
+      "templates": "Modèle ak theme",
+      "settings": "Jekkal",
+      "collapse": "Dakkal Barre de côté",
+      "overview": "Résumé",
+      "profileSettings": "Jekkal profil",
+      "customDomain": "Domen buñ personaalise",
+      "feedback": "Ceytu"
+    },
+    "header": {
+      "viewLive": "Xoolal ci saasi",
+      "welcome": "Dalal ak jàmm,",
+      "logout": "Dellu",
+      "builder": "Tabaxkat",
+      "livePortfolio": "portfëy ci saasi",
+      "live": "Dëkk"
+    },
+    "logoutModal": {
+      "title": "Dellu",
+      "message": "Ndax wóor nga ni bëgg nga genn ci sa kontu? ",
+      "cancel": "Bàyyi",
+      "confirm": "Waaw, genn"
+    },
+    "slugModal": {
+      "title": "Tannal sa URL portfëy",
+      "message": "URL bii mooy nekk lëkkalekaay bi jëm ci sa portfëy. ",
+      "slugPlaceholder": "sa tur",
+      "availability": "Disponibilité:",
+      "available": "Jàppandi",
+      "unavailable": "Amul",
+      "checking": "Saytu...",
+      "mustFormat": "Mënul am ludul ay araf, ay sifar ak ay tiire (-)",
+      "cancel": "Bàyyi",
+      "save": "Sanc URL",
+      "usernameUrl": "Tur jëfandikukat URL",
+      "helpText": "Arafu yu ndaw yi, nimero yi ak tiire yi. ",
+      "validation": {
+        "empty": "Slug mënul nekk lu amul dara.",
+        "min3": "Lu mu néew 3 araf.",
+        "max30": "Lu ëpp 30 araf.",
+        "format": "Arafu yu ndaw yi, nimero yi ak tiire yi (-) kese. "
+      }
+    },
+    "loadingPortfolio": "Sab done portfëy...",
+    "overview": {
+      "greetings": {
+        "morning": "suba bu baax",
+        "afternoon": "Bokk ci guddi",
+        "evening": "Bokk ci guddi",
+        "night": "Guddi gu neex"
+      },
+      "welcome": {
+        "hi": "Nanga def,",
+        "creator": "Defarkat bi",
+        "desc1": "Nanga def ci tablo DevFolio. Sa portfëy xool nañu ko",
+        "desc2": "nit. Weyal sa liggéey!",
+        "editPortfolio": "Soppi portfëy"
+      },
+      "stats": {
+        "totalVisitors": "Tolluwaayu seetikat yi",
+        "projectViews": "xool (projet)",
+        "activeSessions": "Sesioŋ buy dox",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Yokkateg tabb",
+        "completed": "Sa portfëy matna! 🎉",
+        "inProgress": "Jéego ngir am portfëy bu baax.",
+        "profile": {
+          "title": "Profil bu mat",
+          "desc": "Yokk tur, bio ak nataalu profil."
+        },
+        "section": {
+          "title": "Yokk ay pàcc",
+          "desc": "Soo bëggee am benn wàll ci portfëy bi."
+        },
+        "project": {
+          "title": "Yokk projet",
+          "desc": "Bindal benn ci say projet yu gëna baax."
+        },
+        "publish": {
+          "title": "siiwal portfëy",
+          "desc": "Defar ab URL bu la neex suko defee ñépp mëna ci dugg."
+        }
+      },
+      "topProjects": {
+        "title": "Projet yi gëna siiw",
+        "desc": "Ni ngay defee sa liggéey ci bëti gan yi.",
+        "viewAll": "Xoolal lépp",
+        "empty": "Ba leegi amul benn done buñ mëna gis ci sa projet."
+      }
+    },
+    "themes": {
+      "title": "Modèle ak theme",
+      "subtitle": "Mengoo sa portfëy bu ñépp bokk melokaan ak yëg-yëg.",
+      "reset": "Reset default",
+      "save": "Sanc coppite yi",
+      "saving": "Dajale...",
+      "chooseTemplate": "Tannal benn modèle",
+      "primaryColor": "Kulòor bu njëkk",
+      "typography": "Tipograafi",
+      "appearance": "Melokaan",
+      "corners": "koñ yi ak pegg yi",
+      "successTitle": "Ndam",
+      "successMessage": "Taamu theme yeesal nañu ko bu baax",
+      "errorTitle": "Njuumte",
+      "errorMessage": "Mënul denc tànneefi tema",
+      "templates": {
+        "minimalist": {
+          "name": "minimalist",
+          "desc": "Design bu sell te yomb, lalu ci ëmbiit li."
+        },
+        "developerDark": {
+          "name": "Developpeur Dark",
+          "desc": "Tema bu ñuul bi baaxna lool ngir wane kode ak xarala yu bees."
+        },
+        "creative": {
+          "name": "Fen",
+          "desc": "Layout bu yànj te bari melo ngir ñawkat yi ak ñiy sos lu bees."
+        },
+        "executive": {
+          "name": "Buy jël ndogal",
+          "desc": "Layout profesionel ak formal ngir boroom xam-xam ci wàllu liggéey."
+        },
+        "bentoGrid": {
+          "name": "Griy Bento",
+          "desc": "Xeetu griy bu bees bu nuroo ak Apple buy wane xam-xam bu wuute ci anam wu jaar yoon."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Bordure yu dëgër ak melo kontrast yu bari ngir nuru lu xew te amul benn jéggalu."
+        },
+        "glassmorphism": {
+          "name": "Morfism weer",
+          "desc": "Efe weer wu glaas ci kaw degrade yu bari melo ngir am interfaasu jëfandikukat bu bees te rafet."
+        },
+        "linkInBio": {
+          "name": "Lëkkaloo ci Bio",
+          "desc": "Layout bu taxaw bu dëgër buñ jagleel ekraŋu mobile yi ak reso sosio yi."
+        }
+      },
+      "appearances": {
+        "light": "Leer",
+        "dark": "Lëmësu",
+        "system": "Tëralin"
+      },
+      "cornersOptions": {
+        "sharp": "Ñaw",
+        "rounded": "Rond",
+        "pill": "Pilule"
+      }
+    },
+    "feedback": {
+      "title": "Send Feedback",
+      "subtitle": "Jàppaleen nu gëna baaxal ko ci joxe ay xalaat, ŋàññi, wala yëgle ay njuumte ci jëfekaay bii.",
+      "categoryLabel": "Feedback Category",
+      "messageLabel": "Message Details",
+      "messagePlaceholder": "Wax ma ci lu leer feedback bi nga bëgga joxe...",
+      "imageLabel": "Nataal buñ boole (Taamu)",
+      "imagePlaceholder": "Bësal ngir yebbi nataal wala screenshot",
+      "submitting": "Sending...",
+      "submitBtn": "Send Feedback",
+      "categories": {
+        "suggestion": "Suggestions & Ideas",
+        "bug": "Bug / Error Report",
+        "criticism": "Criticism",
+        "other": "Others"
+      },
+      "imageErrorTitle": "Jumtukaay",
+      "imageErrorMessage": "Yenn dencukaay yi dañu leen di bañ ndax duñu ànd ak formaa nataal yi (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Succès",
+      "successMessage": "Noo ngi leen di sant ci seen xalaat! Report has been sent.",
+      "submitErrorTitle": "Failed",
+      "submitErrorMessage": "Dafa am njuumte bi ñuy yónnee feedback bi. Please try again."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ci man",
+      "skills": "Ay xereñteef",
+      "projects": "ay projet",
+      "workExperience": "Expérience ci liggéey",
+      "orgExperience": "Expérience ci mbootaay",
+      "education": "Yar",
+      "certifications": "Taggat ak Sàrtifikaa",
+      "contact": "Jokkoo ak man"
+    },
+    "editor": {
+      "profileInfo": "Leeral ci sa bopp",
+      "saving": "Dajale...",
+      "profilePhoto": "Nataalu profil",
+      "clickToUpload": "Bësal ngir yebbi (JPG, PNG)",
+      "fullName": "Tur wi leer",
+      "fullNamePlaceholder": "lu melni ",
+      "bio": "Bio",
+      "bioPlaceholder": "Developpeur Fullstack bu bëgg defar aplikaasioŋu web yu bees...",
+      "location": "Bërab",
+      "locationPlaceholder": "lu melni ",
+      "gender": "Góor",
+      "selectGender": "Tannal Gender",
+      "male": "Góor",
+      "female": "Jigéen",
+      "custom": "Tàmm",
+      "customPlaceholder": "Bindal sa genre bi nga bëgg...",
+      "uploadCv": "Yebbi CV",
+      "cvFormat": "(DOC wala PDF)",
+      "preview": "Avant-première",
+      "remove": "Dindi",
+      "clickToUploadCv": "Bësal ngir yebbi PDF wala DOC",
+      "sections": "Wàll yi",
+      "removeSelected": "Dindi liñ tànn",
+      "confirmRemove": "Firndelal dindi",
+      "addSection": "Yokk pàcc",
+      "addAllSections": "Yokk wàll yépp",
+      "noSections": "Amagul ay pàcc",
+      "clickToAdd": "Bësal \"+ Yokk wàll\" ngir tàmbali",
+      "selectAll": "Tannal lépp",
+      "selected": "Tann",
+      "dragToReorder": "Siiwal ngir raññewaat wàll yi",
+      "livePreview": "Avant-première en direct",
+      "addSectionsToBuild": "Yokk ay pàcc ngir tabax sa portfëy",
+      "now": "Léegi",
+      "current": "Bi xew",
+      "noExpiry": "Amul àpp",
+      "see": "Gis",
+      "position": "Taxawaay",
+      "degree": "Tolluwaay",
+      "certification": "Sàrtifikaasioŋ",
+      "sectionsForm": {
+        "about": {
+          "label": "Tegtal sa bopp",
+          "placeholder": "Waxñu sa bopp, sa jaar-jaar, say bëgg-bëgg ak say xam-xam..."
+        },
+        "skills": {
+          "addPlaceholder": "Bindal skill nga bës Enter..."
+        },
+        "projects": {
+          "title": "Turu projet bi",
+          "titlePlaceholder": "Nama project...",
+          "url": "URL projet bi",
+          "description": "Tegtal",
+          "descriptionPlaceholder": "Tegtal bu gàtt ci projet bi...",
+          "uploadThumbnail": "Nataalu projet bi",
+          "addProject": "Yokk projet",
+          "projectNum": "Mbebët #",
+          "currentProject": "Lii projet la buma ciy liggéey"
+        },
+        "work": {
+          "company": "Sosiete/Agence",
+          "companyPlaceholder": "Tur liggéeyukaay...",
+          "position": "Position/Titre",
+          "positionPlaceholder": "Sa posisioŋ...",
+          "employmentType": "Xeetu liggéey bi",
+          "location": "Bërab",
+          "locationPlaceholder": "Dëkk, Réew...",
+          "startDate": "Doon naa nekk",
+          "endDate": "Jeexal",
+          "currentWork": "ba leegi maa ngi liggéey",
+          "description": "Tegtal",
+          "descriptionPlaceholder": "Tegtal liggéey ak wareefam...",
+          "skills": "Xereñteef",
+          "addExperience": "Yokk jaar-jaar ci liggéey",
+          "experienceNum": "Jaar-jaar #",
+          "dateError": "Bisu njeexte gi mënul teela bisu ndoorte li"
+        },
+        "org": {
+          "organization": "Tur mbootaay",
+          "orgPlaceholder": "Daara bu kawe BEM...",
+          "role": "Rol/Position",
+          "rolePlaceholder": "njiitu diwisoŋ...",
+          "addOrg": "Yokk jaar-jaar ci mbootaay",
+          "orgNum": "Mbooloo dëbb #"
+        },
+        "edu": {
+          "institution": "Institution yiy jàngale",
+          "institutionPlaceholder": "Tur campus bi wala daara ji...",
+          "degree": "Boppu",
+          "degreePlaceholder": "S1, liise, ak ñoom seen...",
+          "major": "Departemaa/Barab bi ñuy jàngee",
+          "majorPlaceholder": "Ingénieur Informatique...",
+          "gpa": "GPA (taamu)",
+          "currentStudy": "Ba leegi maa ngi jàng fii",
+          "descriptionPlaceholder": "Liggéey ak def ci jamonoy njàng...",
+          "addEdu": "Yokk njàng",
+          "eduNum": "Yar #"
+        },
+        "cert": {
+          "name": "Turu Sàrtifikaa bi / Tàggat bi",
+          "namePlaceholder": "Turu sertifikaa bi...",
+          "issuer": "Siiwalkat",
+          "issuerPlaceholder": "Institution publicaire...",
+          "issueDate": "Tàmbali (Bisu siiwal)",
+          "issueDatePlaceholder": "Tannal bisu siiwal...",
+          "expiryDate": "Jeexal (Diir biy dox)",
+          "expiryDatePlaceholder": "Tannal bis bi muy jeex...",
+          "noExpiry": "Sàrtifikaa bii amul bis buñu koy jeexal",
+          "url": "URL Njàngat",
+          "uploadThumbnail": "Nataalu Sàrtifikaa / Tàggat",
+          "uploadThumbnailLimit": "Yeegal nataalu sertifikaa bi (JPG/PNG/WEBP, lu ëpp 2MB)",
+          "addCert": "Yokk Sàrtifikaa",
+          "certNum": "Sàrtifikaa #"
+        },
+        "contact": {
+          "contactNum": "Jokkalante #",
+          "platform": "Kayitu toftalu bataaxal",
+          "displayText": "Wone mbind mi",
+          "displayTextPlaceholder": "ci misaal, yaw@email.com wala @tur jëfandikukat",
+          "url": "Lëkkalekaay (URL)",
+          "urlPlaceholderWhatsapp": "misaal, 62812... (te du am 0)",
+          "urlPlaceholderEmail": "ci misaal, yaw@email.com",
+          "urlPlaceholderWebsite": "ci misaal, https://...",
+          "urlPlaceholderDefault": "misaal, tur jëfandikukat",
+          "addContact": "Yokk jokkoo"
+        },
+        "common": {
+          "months": {
+            "1": "Sanwiye",
+            "2": "Fewriyé",
+            "3": "Dox",
+            "4": "Awril",
+            "5": "Mën",
+            "6": "Suweng",
+            "7": "Sulet",
+            "8": "Ut",
+            "9": "Sattumbar",
+            "10": "Oktoobar",
+            "11": "Nowàmbar",
+            "12": "Desambar"
+          },
+          "month": "Weer",
+          "year": "At",
+          "invalidDate": "Weer wu mujj wu baaxul",
+          "words": "ay baat"
+        }
+      },
+      "sure": "Wóor",
+      "deletePhotoTitle": "efaase nataalu profil bi?",
+      "deletePhotoMessage": "Ndax gëm nga ni bëgg nga efaase nataalu profil bii?",
+      "cancel": "Bàyyi",
+      "delete": "Dindi"
+    },
+    "cropper": {
+      "chooseBackground": "Tannal ginaaw",
+      "cropPhoto": "Dagg sa nataal",
+      "useOriginal": "Jëfandikool orginaal bi",
+      "backgroundPresets": "Preset ci ginaaw",
+      "none": "Darra",
+      "uploadBackground": "Yebbi ginaaw",
+      "cancel": "Bàyyi",
+      "savePhoto": "Sanc nataal",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation & Tilt",
+      "resetRotation": "Delloosi ci 0°",
+      "center": "Digg",
+      "rotateLeft": "wëlbati -90°",
+      "rotateRight": "wëlbati +90°",
+      "removeBackground": "Dindi ginaaw",
+      "processing": "Dañuy defar sa nataal, xaaral..."
+    },
+    "cvPreview": {
+      "title": "CV",
+      "downloadCv": "Yebbi CV",
+      "download": "Wàcce",
+      "wordCannotPreview": "Mënu xoolaat këyitu Word (.doc/.docx) ci nawigatër bi. ",
+      "downloadFile": "Yebbi Dosie CV",
+      "back": "Ci gànnaaw",
+      "mobileMessage": "Baalnu nga yebbi dosiye CV bi ngir xoolaat ko.",
+      "preview": "Xoolaat CV",
+      "wordPreviewTitle": "Xoolaat këyitu Word",
+      "wordPreviewMessage": "Mënu xoolaat këyitu Word (.doc/.docx) ci nawigatër bi. Baalnu yebbi dencukaay bi ngir gis ko."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Bindal ci lu gàtt sa bopp, say bëgg-bëgg ak say mébeti liggéey..."
+    },
+    "skills": {
+      "placeholder": "Bindal tur mën mën bi...",
+      "add": "Dojor",
+      "enterToAdd": "Bësal Enter ngir yokk",
+      "noSkills": "Ba leegi kenn yokkul benn xam-xam."
+    },
+    "projects": {
+      "projectName": "Turu projet bi",
+      "projectNamePlaceholder": "lu melni ",
+      "projectUrl": "URL projet bi",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Diir",
+      "startMonth": "Weer wuy tàmbali",
+      "startYear": "At tàmbali",
+      "endMonth": "Weer wi jeex",
+      "endYear": "At mu jeex",
+      "currentlyWorking": "Fimna nii ñu ngi ciy liggéey",
+      "description": "Tegtal",
+      "descriptionPlaceholder": "Waxñu projet bi, sa cër ak li nga def...",
+      "technologies": "Xarala yi ñuy jëfandikoo",
+      "addProject": "Yokk projet",
+      "image": "Nataalu projet bi",
+      "removeImage": "Dindi nataal bi",
+      "uploadImage": "Bësal ngir yebbi nataal bi"
+    },
+    "work": {
+      "company": "Entreprise/Institution",
+      "companyPlaceholder": "Tur liggéeyukaay...",
+      "role": "Rol/Position",
+      "rolePlaceholder": "Sa posisioŋ...",
+      "jobType": "Xeetu liggéey",
+      "selectJobType": "Tannal xeetu",
+      "fullTime": "Full temps",
+      "partTime": "Parti-temps",
+      "contract": "Déggoo jëf",
+      "internship": "Liggéeyu kër",
+      "freelance": "Demal boppam",
+      "location": "Bërab",
+      "locationPlaceholder": "lu melni ",
+      "duration": "Diir",
+      "currentlyWorking": "Fimna nii may liggéey",
+      "description": "Tegtal liggéey bi",
+      "descriptionPlaceholder": "Waxñu sa wareef ak say jaloore...",
+      "skills": "Xam-xam bu amul fenn",
+      "addExperience": "Yokk jaar-jaar"
+    },
+    "org": {
+      "organization": "Tur mbootaay",
+      "organizationPlaceholder": "Tur mbootaay...",
+      "role": "Rol/Position",
+      "rolePlaceholder": "lu melni ",
+      "duration": "Diir",
+      "periodFormat": "wala formaa buy maye (lu melni 2020 - 2022)",
+      "periodPlaceholder": "lu melni ",
+      "currentlyActive": "Fimna nii",
+      "description": "Tegtal liggéey",
+      "descriptionPlaceholder": "Waxñu say liggéey wala say ndimbal...",
+      "addExperience": "Yokk jaar-jaar"
+    },
+    "education": {
+      "institution": "Turu kuréel gi",
+      "institutionPlaceholder": "Tur daara wala universite...",
+      "degree": "Diplôme/Niveau",
+      "degreePlaceholder": "lu melni ",
+      "major": "Major/Domaine de Studi",
+      "majorPlaceholder": "lu melni ",
+      "gpa": "GPA / Note",
+      "gpaPlaceholder": "lu melni ",
+      "duration": "Duraasioŋu njàng mi",
+      "periodFormat": "wala formaa buy maye (lu melni 2018 - 2022)",
+      "periodPlaceholder": "lu melni ",
+      "currentlyStudying": "Fimna nii may jàng",
+      "description": "Liggéey / Njàngale",
+      "descriptionPlaceholder": "Waxñu liggéey yu universite yi, mbootaay yi, wala ngor yi ñu jox...",
+      "addEducation": "Yokk njàng"
+    },
+    "cert": {
+      "name": "Turu Sàrtifikaa bi",
+      "namePlaceholder": "lu melni ",
+      "issuer": "Mbootaay biy joxe",
+      "issuerPlaceholder": "lu melni ",
+      "issueDate": "Bisu génne",
+      "expiryDate": "Dafay dox ba",
+      "noExpiry": "Njàngat bii du jeex",
+      "yearPlaceholder": "wala At (lu melni 2023)",
+      "credentialUrl": "URL Njàngat",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Xam-xam yu ci méngoo",
+      "addCertification": "Yokk Sàrtifikaa",
+      "image": "Nataal/Logo",
+      "removeImage": "Dindi nataal bi",
+      "uploadImage": "Bësal ngir yebbi nataal bi"
+    },
+    "common": {
+      "months": {
+        "1": "Sanwiye",
+        "2": "Fewriyé",
+        "3": "Dox",
+        "4": "Awril",
+        "5": "Mën",
+        "6": "Suweng",
+        "7": "Sulet",
+        "8": "Ut",
+        "9": "Sattumbar",
+        "10": "Oktoobar",
+        "11": "Nowàmbar",
+        "12": "Desambar"
+      },
+      "month": "Weer",
+      "year": "At",
+      "invalidDate": "Weer wu mujj wu baaxul",
+      "words": "ay baat"
+    }
+  },
+  "settings": {
+    "title": "Jekkal",
+    "subtitle": "Saytu sa profil portfëy ak say tànneef",
+    "tabs": {
+      "profile": "Sama profil",
+      "security": "Kaarànge",
+      "personalization": "Personalisasioŋ"
+    },
+    "profile": {
+      "infoTitle": "Leeral yu am solo",
+      "photo": "Nataalu profil",
+      "uploadPhoto": "Soppi nataal bi",
+      "fullName": "Tur wi leer",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adres email",
+      "emailPlaceholder": "john@misaal.com",
+      "emailHelp": "Email dañu koy jëfandikoo ngir dugg ci te duñu ko fësal ñépp.",
+      "portfolioUrl": "URL portfëy",
+      "saveProfile": "Sanc Profil",
+      "save": "Sanc Profil",
+      "accountCreated": "Dañu sos kontu",
+      "lastLogin": "Dugg bu mujj",
+      "oauthNotice": "Produfil bii dafa lëkkale ak sa sàqum {{joxekat}}. Coppite yi ci profil bi dañu leen wara jaar ci ki lay jox serwiis bi."
+    },
+    "security": {
+      "changePassword": "Soppi baatu-jàll",
+      "currentPassword": "Baatu-jàll bi fi nekk",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Baatu-jàll bu bees",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Firndelal baatu-jàll bu bees",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Lu mu neew 8 araf",
+        "uppercase": "Benn arafu mag (A-Z)",
+        "number": "Benn nimero (0-9)",
+        "symbol": "Benn màndarga (!@#$%^&*)"
+      },
+      "passwordTitle": "Baatu ubbikaay",
+      "updatePassword": "Yeesal baatu-jàll bi",
+      "additionalSecurity": "Yokkateg kaaraange",
+      "twoFactor": "Njàngat bu am ñaari mbir (2FA)",
+      "twoFactorDesc": "Woowal sa kontu ci beneen kodu OTP.",
+      "activeSessions": "Sesioŋ yiy dox",
+      "activeSessionsDesc": "May saa yu nekk ñuy saytu aparey yi dugg.",
+      "publicVisibility": "Gis-gis bu ñépp bokk",
+      "hideFromSearch": "nëbb portfëy ci motëri seetlu yi",
+      "hideFromSearchDesc": "tere Google indexe sa xëtu portfëy bu ñépp bokk.",
+      "disable2fa": {
+        "title": "Def 2FA",
+        "description": "Ndax gëm nga ni bëgg nga dindi gëm-gëmu ñaari mbir?",
+        "confirmPasswordLabel": "Bindal sa baatu-jàll ngir firnde",
+        "currentPasswordPlaceholder": "Baatu-jàll bi fi nekk",
+        "cancelButton": "Fomm",
+        "confirmButton": "Def 2FA",
+        "incorrectPassword": "Baatu-jàll bu jaarul yoon."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skanneer kodu QR",
+        "step1Desc": "Ubbi sa aplikaasioŋu xamlekat nga skane kodu QR bii:",
+        "unableToScan": "Mënu ñu skane? Jëfandikool butoŋu tabb",
+        "step2Title": "2. Saytu Kod bi",
+        "step2Desc": "Bindal kodu 6 araf bi sa aplikaasioŋ defar:",
+        "cancelButton": "Bàyyi",
+        "enableButton": "Aktiwise 2FA",
+        "invalidLength": "Baalnu nga dugal kodu 6 araf.",
+        "invalidCode": "Kodu firnde bu baaxul. Jéemaat."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontrolu làkk",
+      "appLanguage": "Làkku app",
+      "layoutTitle": "Layout ak Tipograafi",
+      "layoutStyle": "Xeetu jëmmal",
+      "layoutModern": "Style Modern (Default)",
+      "layoutClassic": "Xeetu Klasik",
+      "layoutMinimalist": "stil minimalist",
+      "fontSize": "Dayo font app",
+      "fontSmall": "Tuuti",
+      "fontNormal": "Normal (Diggante)",
+      "fontLarge": "Yaatu",
+      "searchLanguage": "Seetug làkk...",
+      "languageNotFound": "Gisu ñu làkk wi",
+      "layoutElegant": "Style bu rafet"
+    },
+    "saveChanges": "Sanc coppite yi",
+    "cancel": "Bàyyi",
+    "appSettings": "Jekkal aplikaasioŋ",
+    "logoutConfirmTitle": "Firndelal genn",
+    "logoutConfirmDesc": "Ndax wóor nga ni bëgg nga genn ci sistem bi?",
+    "logoutConfirmYes": "Waaw, genn",
+    "generalError": "Dafa am njuumte. ",
+    "success": "Ndam",
+    "preferencesSaved": "Taamu app bi denc nañu ko bu baax.",
+    "header": "Jekkal aplikaasioŋ",
+    "logout": {
+      "title": "Firndelu genn",
+      "message": "Ndax wóor nga ni bëgg nga genn ci sistem bi?",
+      "confirm": "Waaw, genn"
+    },
+    "about": {
+      "title": "Lu jëm ci aplikaasioŋ",
+      "subtitle": "Platform defarkatu portfëy",
+      "version": "Xeet",
+      "description": "DevFolio platform defarkatu portfëy bu bees la, ñu jagleel ko developpeur yi, desineur yi ak soskat yu xarañ yi. ",
+      "license": "Lisaas ak yelleefu moomeel",
+      "copyright": "© 2026 DevFolio Inc. Yelleef yépp ñu ngi ko moom.",
+      "developer": "Developpeur",
+      "developedBy": "Ekipu DevFolio moo ko defar"
+    },
+    "deleteAccount": {
+      "title": "efaase kontu bi ba fàww",
+      "menuItem": "efaase kontu bi",
+      "successTitle": "Succès",
+      "successMessage": "Yonnee nañu la ab bataaxal buy firndeel ni dañu efaase kontu bi.",
+      "errorTitle": "Faatu",
+      "errorMessage": "Yonneewul imeel ngir firnde.",
+      "confirmationMessage": "Ndax gëm nga ni bëgg nga efaase sa kontu ba fàww?",
+      "warningMessage1": "Di nga jot benn imeel ngir firndeel ni dañu efaase kontu bi.",
+      "warningMessage2": "Suñu ko firndee, bépp done (portfëy, projet, lim) dinañu ko efaase ba fàww te kenn duko mëna jotaat.",
+      "cancel": "Fomm",
+      "confirm": "Firnde"
+    },
+    "toasts": {
+      "toastError": "Njuumte",
+      "toastSuccess": "Ndam",
+      "toastSetup2FAFailed": "2FA bi mënul tabb. Jéemaat.",
+      "toast2FAEnabled": "Taxawal nañu xam-xam bu am ñaari anam.",
+      "toast2FADisabled": "Njàngat bu am ñaari faktër deñ kaa dindi.",
+      "toastSessionEnabled": "Wottu sesioŋ bi am solo tàmbali nañu ko.",
+      "toastSessionDisabled": "Xool sesioŋ biy dox dañu ko dindi.",
+      "toastSetupKeyCopied": "Caabi tabb kopie ci clipboard."
+    },
+    "privacy": {
+      "title": "Politigu sutura",
+      "updateDate": "Ñu mujjee ko yeesal: 15 sulet 2026",
+      "intro": "Politigu sutura bii dafay leeral ni DevFolio di dajalee, jëfandikoo ak aaree say leerali bopp sooy jëfandikoo sunuy serwiis.",
+      "section1Title": "1. Leeral yi ñuy dajale",
+      "section1Content": "Danuy jël leeral yi nga joxe ci saasi sooy sos kontu, defar portfëy, ak jokkool ak sunu ndimbal. ",
+      "section2Title": "2. Jëfandikoo xibaar",
+      "section2Content": "Sa leeral yi dañu leen di jëfandikoo ngir doxal, mën toppatoo ba noppi joxe man-mani sunuy serwiis, ak itam ngir jokkoo ak yaw ci lu jëm ci sa kontu wala serwiis.",
+      "section3Title": "3. Kaaraange Done",
+      "section3Content": "Danuy tëral matuwaayi kaaraange yu jaar yoon ngir aar say leeral ci kenn ku ko nangu, joxe ko wala yàq ko."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Gisu ñu token firnde.",
+    "defaultError": "Mënu ñu efaase kontu bi. Mën na am jeton bi jeexna.",
+    "loadingTitle": "Supprimer compte...",
+    "loadingMessage": "Xaaral, ñu ngi def sa laaj.",
+    "successTitle": "Kontu bi mën nañu ko efaase",
+    "successMessage": "Sa done yépp efaase nañu leen ba fàww. Dina ñu la yóbbu...",
+    "errorTitle": "Mënu ñu efaase kontu bi",
+    "backToHome": "Dellu ci kër gi"
+  },
+  "forgotPassword": {
+    "minutes": "simili",
+    "seconds": "ñaareel",
+    "success": "Am ndam",
+    "otpSentToEmail": "Yonnee nañu kodu OTP ci sa e-mail.",
+    "failed": "Lajj",
+    "emailNotFound": "Gisu ñu email bi.",
+    "emailThirdParty": "Imeel bii dañu ko bind jaaraleko ci ñeneen.",
+    "genericError": "Amna njuumte. Jéemaat.",
+    "otpVerified": "Kodu OTP bi xool nañu ko bu baax.",
+    "otpExpired": "Kodu OTP bi jeexna. Nanga laaj kodu bees.",
+    "otpInvalid": "Kodu OTP bu baaxul.",
+    "otpResent": "Yonnee nañu kodu OTP bu bees ci sa e-mail.",
+    "otpResendFailed": "Mënul yónneewaat kodu OTP. Jéemaat.",
+    "passwordResetSuccess": "Baatu-jàll bi baaxna Duggal ak sa baatu-jàll bu bees bi.",
+    "passwordResetFailed": "Mënul reset baatu-jàll bi.",
+    "backToLogin": "Dellu ci dugg",
+    "back": "Delloo",
+    "title": "Fatte naa baatu-jàll bi",
+    "description": "Bindal adres email bi nga bind ci sa kontu. Dina nu la yónnee kodu OTP ngir reset baatu-jàll bi.",
+    "emailLabel": "Adres imeel",
+    "sending": "Yonni...",
+    "sendOtp": "Yonnee kodu OTP",
+    "verifyOtpTitle": "Saytu kodu OTP",
+    "verifyOtpDesc": "Bindal kodu 6 araf biñ yonne sa e-mail ngir firndeel sa dàntite.",
+    "verifying": "Saytu...",
+    "verifyOtp": "OTP xool",
+    "resending": "Yonneaat...",
+    "resendOtp": "Yonneewaat kodu OTP",
+    "resendCodeIn": "Yonneewaat kodu biir",
+    "newPasswordTitle": "Sosal baatu-jàll bu bees",
+    "newPasswordDesc": "Sosal baatu-jàll bu bees te dëgër ngir mëna wóor sa kontu.",
+    "newPasswordLabel": "Baatu-jàll bu bees",
+    "min8Chars": "araf yu néew",
+    "oneUpperCase": "1 arafu mag (A-Z)",
+    "oneNumber": "1 nimero (0-9)",
+    "oneSymbol": "1 màndarga (!@#$%^&*)",
+    "confirmPasswordLabel": "Firndelal baatu-jàll",
+    "passwordsDoNotMatch": "Baatu-jàll yi méngoo wuñu.",
+    "resettingPassword": "Reset baatu-jàll...",
+    "resetPassword": "Reset baatu-jàll"
+  },
+  "verifyEmail": {
+    "resendError": "Ñàkka mëna yonnewaat imeel ngir firnde. Jéemaat.",
+    "checkingStatus": "Saytu tolluwaayu firnde...",
+    "title": "Saytu sa email",
+    "description": "Yonnee nanu ab imeel ngir firndeel sa adres imeel. Ubbil bataaxal bi te nga bës mbusu <1>\"Firmil sàq mi \"</1> ngir tàmbali sa sàq.",
+    "stepsTitle": "Jéego yi",
+    "step1": "Ubbi sa aplikaasioŋu imeel (Gmail, Yahoo, ak ñoom seen)",
+    "step2": "Seetal benn imeel bu bawoo ci DevFolio bu am limu bind \"Aktiwise kontu\"",
+    "step3": "Bësal \"Fàttali kontu bi\" ci imeel bi",
+    "step4": "Dina la yóbbu ci xëtu dugg bi ngir dugg ci",
+    "resendSuccess": "Yonnee nañu bataaxal biy firndeel!",
+    "resending": "Yonneewaat...",
+    "resendButton": "Yonneewaat imeelu firnde",
+    "backToLogin": "Dellu ci xëtu dugg bi",
+    "footerNote": "Jotwoo imeel bi? Saytu <1>Spam</1> wala <2>Junk</2> ci sa bataaxal. Lëkkalekaayu firnde bi dafay dox <3>24 waxtu</3>."
+  }
+}

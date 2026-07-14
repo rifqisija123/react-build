@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Vlastnosti",
+    "templates": "Šablony",
+    "pricing": "Ceny",
+    "login": "Přihlášení",
+    "getStarted": "Začněte",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Špičkový tvůrce portfolia pro vývojáře",
+    "title1": "Vybudujte si svého profesionála",
+    "title2": "portfolio v",
+    "titleHighlight": "sekundy.",
+    "subtitle": "Vše, co potřebujete k předvedení svých dovedností, projektů a zkušeností. ",
+    "startBuilding": "Začněte stavět hned teď",
+    "viewTemplates": "Zobrazit šablony",
+    "fastDeployment": "Rychlé nasazení",
+    "liveStatus": "username.dev vysílá živě!",
+    "featuresTitle": "Výkonné funkce",
+    "featuresSubtitle": "Poskytujeme všechny nástroje, které potřebujete, abyste vynikli z davu a získali svou vysněnou práci.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Snadno organizujte své sekce, projekty a dovednosti pomocí našeho intuitivního vizuálního editoru.",
+    "feature2Title": "Vlastní motivy",
+    "feature2Desc": "Vyberte si z profesionálně navržených šablon nebo si vytvořte svůj vlastní jedinečný vzhled.",
+    "feature3Title": "Analýza v reálném čase",
+    "feature3Desc": "Sledujte své návštěvníky, zjistěte, které projekty přitahují největší pozornost a další."
+  },
+  "auth": {
+    "welcomeBack": "Vítejte zpět",
+    "loginToContinue": "Chcete-li pokračovat, přihlaste se ke svému účtu",
+    "createAccount": "Vytvořit účet",
+    "joinCommunity": "Připojte se k tisícům dalších vývojářů",
+    "fullName": "Celé jméno",
+    "fullNamePlaceholder": "např. ",
+    "email": "E-mailová adresa",
+    "emailPlaceholder": "vy@example.com",
+    "password": "Heslo",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Pamatuj si mě",
+    "forgotPassword": "Zapomněli jste heslo?",
+    "signIn": "Přihlaste se",
+    "signingIn": "Přihlašování...",
+    "signUp": "Zaregistrujte se",
+    "signingUp": "Přihlašování...",
+    "noAccount": "Nemáte účet?",
+    "hasAccount": "Už máte účet?",
+    "passwordRules": {
+      "title": "Heslo musí obsahovat:",
+      "length": "Minimálně 8 znaků",
+      "uppercase": "Jedno velké písmeno (A-Z)",
+      "number": "Jedno číslo (0-9)",
+      "symbol": "Jeden symbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Šablony a motivy",
+      "settings": "Nastavení",
+      "collapse": "Sbalit postranní panel",
+      "overview": "Přehled",
+      "profileSettings": "Nastavení profilu",
+      "customDomain": "Vlastní doména",
+      "feedback": "Zpětná vazba"
+    },
+    "header": {
+      "viewLive": "Zobrazit živě",
+      "welcome": "Vítejte,",
+      "logout": "Odhlášení",
+      "builder": "Stavitel",
+      "livePortfolio": "Živé portfolio",
+      "live": "Žít"
+    },
+    "logoutModal": {
+      "title": "Odhlášení",
+      "message": "Opravdu se chcete odhlásit ze svého účtu? ",
+      "cancel": "Zrušit",
+      "confirm": "Ano, Odhlásit se"
+    },
+    "slugModal": {
+      "title": "Vyberte URL svého portfolia",
+      "message": "Tato adresa URL bude jedinečným odkazem na vaše portfolio. ",
+      "slugPlaceholder": "vaše jméno",
+      "availability": "Dostupnost:",
+      "available": "K dispozici",
+      "unavailable": "Není k dispozici",
+      "checking": "Kontrola...",
+      "mustFormat": "Může obsahovat pouze písmena, čísla a pomlčky (-)",
+      "cancel": "Zrušit",
+      "save": "Uložit URL",
+      "usernameUrl": "URL uživatelského jména",
+      "helpText": "Malá písmena, čísla a pomlčky. ",
+      "validation": {
+        "empty": "Slimák nemůže být prázdný.",
+        "min3": "Minimálně 3 znaky.",
+        "max30": "Maximálně 30 znaků.",
+        "format": "Pouze malá písmena, čísla a pomlčky (-). "
+      }
+    },
+    "loadingPortfolio": "Načítání dat portfolia...",
+    "overview": {
+      "greetings": {
+        "morning": "Dobré ráno",
+        "afternoon": "Dobré odpoledne",
+        "evening": "Dobré odpoledne",
+        "night": "Dobrou noc"
+      },
+      "welcome": {
+        "hi": "ahoj,",
+        "creator": "Tvůrce",
+        "desc1": "Vítejte na hlavním panelu DevFolio. Vaše portfolio si prohlédl",
+        "desc2": "osoba. Pokračujte v práci!",
+        "editPortfolio": "Upravit portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Celkový počet návštěvníků",
+        "projectViews": "Zobrazeno (projekt)",
+        "activeSessions": "Aktivní relace",
+        "totalLabel": "Celkem"
+      },
+      "setup": {
+        "title": "Průběh nastavení",
+        "completed": "Vaše portfolio je kompletní! 🎉",
+        "inProgress": "Kroky k dokonalému portfoliu.",
+        "profile": {
+          "title": "Kompletní profil",
+          "desc": "Přidejte jméno, životopis a profilovou fotku."
+        },
+        "section": {
+          "title": "Přidat sekce",
+          "desc": "Aktivujte alespoň 1 sekci v portfoliu."
+        },
+        "project": {
+          "title": "Přidat projekt",
+          "desc": "Zadejte alespoň 1 ze svých nejlepších projektů."
+        },
+        "publish": {
+          "title": "Zveřejnit portfolio",
+          "desc": "Nastavte vlastní adresu URL, aby k ní měla přístup veřejnost."
+        }
+      },
+      "topProjects": {
+        "title": "Nejoblíbenější projekty",
+        "desc": "Výkon vaší práce v očích návštěvníků.",
+        "viewAll": "Zobrazit vše",
+        "empty": "Pro váš projekt zatím nejsou k dispozici žádná data zobrazení."
+      }
+    },
+    "themes": {
+      "title": "Šablony a motivy",
+      "subtitle": "Přizpůsobte si vzhled a dojem svého veřejného portfolia.",
+      "reset": "Obnovit výchozí",
+      "save": "Uložit změny",
+      "saving": "Ukládání...",
+      "chooseTemplate": "Vyberte šablonu",
+      "primaryColor": "Primární barva",
+      "typography": "Typografie",
+      "appearance": "Vzhled",
+      "corners": "Rohy a okraje",
+      "successTitle": "Úspěch",
+      "successMessage": "Předvolby motivu byly úspěšně aktualizovány",
+      "errorTitle": "Chyba",
+      "errorMessage": "Nepodařilo se uložit předvolby motivu",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistický",
+          "desc": "Čistý a jednoduchý design se zaměřením na obsah."
+        },
+        "developerDark": {
+          "name": "Vývojář Dark",
+          "desc": "Tmavé téma ideální pro předvádění sad kódů a technologií."
+        },
+        "creative": {
+          "name": "Kreativní",
+          "desc": "Živé a barevné rozvržení pro návrháře a kreativce."
+        },
+        "executive": {
+          "name": "Jednatel",
+          "desc": "Profesionální a formální uspořádání pro obchodní profesionály."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Moderní rozložení mřížky ve stylu Apple, které efektivně zvýrazňuje různé dovednosti."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutalismus",
+          "desc": "Výrazné okraje a vysoce kontrastní barvy pro trendy, neomluvitelný vzhled."
+        },
+        "glassmorphism": {
+          "name": "Sklomorfismus",
+          "desc": "Efekty matného skla přes barevné přechody pro elegantní moderní uživatelské rozhraní."
+        },
+        "linkInBio": {
+          "name": "Odkaz v biu",
+          "desc": "Kompaktní vertikální uspořádání optimalizované pro mobilní obrazovky a sociální média."
+        }
+      },
+      "appearances": {
+        "light": "Světlo",
+        "dark": "Tmavý",
+        "system": "Systém"
+      },
+      "cornersOptions": {
+        "sharp": "Ostrý",
+        "rounded": "Zaoblené",
+        "pill": "Pilulka"
+      }
+    },
+    "feedback": {
+      "title": "Odeslat zpětnou vazbu",
+      "subtitle": "Pomozte nám ji zlepšit poskytováním návrhů, kritiky nebo hlášení chyb v této aplikaci.",
+      "categoryLabel": "Kategorie zpětné vazby",
+      "messageLabel": "Podrobnosti zprávy",
+      "messagePlaceholder": "Řekněte mi podrobně o zpětné vazbě, kterou chcete sdělit...",
+      "imageLabel": "Obrazová příloha (volitelné)",
+      "imagePlaceholder": "Kliknutím nahrajete obrázek nebo snímek obrazovky",
+      "submitting": "Odesílání...",
+      "submitBtn": "Odeslat zpětnou vazbu",
+      "categories": {
+        "suggestion": "Návrhy a nápady",
+        "bug": "Chyba / hlášení o chybě",
+        "criticism": "Kritika",
+        "other": "Ostatní"
+      },
+      "imageErrorTitle": "Chyba",
+      "imageErrorMessage": "Některé soubory jsou odmítnuty, protože nemají podporované formáty obrázků (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Úspěch",
+      "successMessage": "Děkujeme za vaši zpětnou vazbu! Zpráva byla odeslána.",
+      "submitErrorTitle": "Nepodařilo se",
+      "submitErrorMessage": "Při odesílání zpětné vazby došlo k chybě. Zkuste to prosím znovu."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "O mně",
+      "skills": "Dovednosti",
+      "projects": "Projekty",
+      "workExperience": "Pracovní zkušenosti",
+      "orgExperience": "Organizační zkušenosti",
+      "education": "Školství",
+      "certifications": "Školení a certifikace",
+      "contact": "Kontaktujte mě"
+    },
+    "editor": {
+      "profileInfo": "Informace o profilu",
+      "saving": "Ukládání...",
+      "profilePhoto": "Profilová fotka",
+      "clickToUpload": "Kliknutím nahrajete (JPG, PNG)",
+      "fullName": "Celé jméno",
+      "fullNamePlaceholder": "např. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer s vášní pro vytváření moderních webových aplikací...",
+      "location": "Umístění",
+      "locationPlaceholder": "např. ",
+      "gender": "Pohlaví",
+      "selectGender": "Vyberte Pohlaví",
+      "male": "Samec",
+      "female": "Žena",
+      "custom": "Zvyk",
+      "customPlaceholder": "Zadejte své vlastní pohlaví...",
+      "uploadCv": "Nahrajte životopis",
+      "cvFormat": "(DOC nebo PDF)",
+      "preview": "Náhled",
+      "remove": "Odstranit",
+      "clickToUploadCv": "Kliknutím nahrajete PDF nebo DOC",
+      "sections": "Sekce",
+      "removeSelected": "Odebrat vybrané",
+      "confirmRemove": "Potvrďte Odebrat",
+      "addSection": "Přidat sekci",
+      "addAllSections": "Přidat všechny sekce",
+      "noSections": "Zatím žádné sekce",
+      "clickToAdd": "Začněte kliknutím na „+ Přidat sekci“.",
+      "selectAll": "Vyberte Vše",
+      "selected": "Vybraný",
+      "dragToReorder": "Přetažením změníte pořadí sekcí",
+      "livePreview": "Živý náhled",
+      "addSectionsToBuild": "Přidejte sekce a vytvořte své portfolio",
+      "now": "Teď",
+      "current": "Proud",
+      "noExpiry": "Žádné vypršení platnosti",
+      "see": "Vidět",
+      "position": "Pozice",
+      "degree": "Stupeň",
+      "certification": "Osvědčení",
+      "sectionsForm": {
+        "about": {
+          "label": "Popis sebe sama",
+          "placeholder": "Řekněte nám o sobě, svém původu, zájmech a dovednostech..."
+        },
+        "skills": {
+          "addPlaceholder": "Zadejte dovednost a stiskněte Enter..."
+        },
+        "projects": {
+          "title": "Název projektu",
+          "titlePlaceholder": "Název projektu...",
+          "url": "Adresa URL projektu",
+          "description": "Popis",
+          "descriptionPlaceholder": "Stručný popis projektu...",
+          "uploadThumbnail": "Obrázek projektu",
+          "addProject": "Přidat projekt",
+          "projectNum": "projekt č.",
+          "currentProject": "Toto je projekt, na kterém pracuji"
+        },
+        "work": {
+          "company": "Společnost/Agentura",
+          "companyPlaceholder": "Název společnosti...",
+          "position": "Pozice/Titul",
+          "positionPlaceholder": "Vaše pozice...",
+          "employmentType": "Druh práce",
+          "location": "Umístění",
+          "locationPlaceholder": "Město, země...",
+          "startDate": "Start",
+          "endDate": "Hotovo",
+          "currentWork": "Momentálně stále pracuji",
+          "description": "Popis",
+          "descriptionPlaceholder": "Náplň práce a odpovědnost...",
+          "skills": "Dovednost",
+          "addExperience": "Přidejte pracovní zkušenosti",
+          "experienceNum": "Zkušenost #",
+          "dateError": "Datum ukončení nemůže být dřívější než datum zahájení"
+        },
+        "org": {
+          "organization": "Název organizace",
+          "orgPlaceholder": "Univerzita BEM...",
+          "role": "Role/Pozice",
+          "rolePlaceholder": "Vedoucí divize...",
+          "addOrg": "Přidejte organizační zkušenosti",
+          "orgNum": "organizace č."
+        },
+        "edu": {
+          "institution": "Vzdělávací instituce",
+          "institutionPlaceholder": "Název kampusu nebo školy...",
+          "degree": "Titul",
+          "degreePlaceholder": "S1, střední škola atd...",
+          "major": "Katedra/obor",
+          "majorPlaceholder": "Inženýrství informatiky...",
+          "gpa": "GPA (volitelné)",
+          "currentStudy": "Pořád se tu učím",
+          "descriptionPlaceholder": "Aktivity a úspěchy během studia...",
+          "addEdu": "Přidat vzdělání",
+          "eduNum": "vzdělání #"
+        },
+        "cert": {
+          "name": "Název certifikace / školení",
+          "namePlaceholder": "Název certifikace...",
+          "issuer": "Vydavatel",
+          "issuerPlaceholder": "Vydavatelská instituce...",
+          "issueDate": "Začátek (datum publikování)",
+          "issueDatePlaceholder": "Vyberte datum vydání...",
+          "expiryDate": "Dokončeno (platná doba)",
+          "expiryDatePlaceholder": "Vyberte datum vypršení platnosti...",
+          "noExpiry": "Tento certifikát nemá žádné datum vypršení platnosti",
+          "url": "Adresa URL pověření",
+          "uploadThumbnail": "Obrázek certifikátu / školení",
+          "uploadThumbnailLimit": "Nahrajte obrázek certifikátu (JPG/PNG/WEBP, max. 2 MB)",
+          "addCert": "Přidat certifikaci",
+          "certNum": "certifikace č."
+        },
+        "contact": {
+          "contactNum": "Kontakt #",
+          "platform": "Platforma",
+          "displayText": "Zobrazit text",
+          "displayTextPlaceholder": "např. vy@email.com nebo @uživatelskéjméno",
+          "url": "odkaz (URL)",
+          "urlPlaceholderWhatsapp": "např. 62812... (bez úvodní 0)",
+          "urlPlaceholderEmail": "např. vy@email.com",
+          "urlPlaceholderWebsite": "např. https://...",
+          "urlPlaceholderDefault": "např. uživatelské jméno",
+          "addContact": "Přidat kontakt"
+        },
+        "common": {
+          "months": {
+            "1": "leden",
+            "2": "únor",
+            "3": "Pochod",
+            "4": "duben",
+            "5": "květen",
+            "6": "červen",
+            "7": "červenec",
+            "8": "srpen",
+            "9": "září",
+            "10": "říjen",
+            "11": "listopad",
+            "12": "prosinec"
+          },
+          "month": "Měsíc",
+          "year": "Rok",
+          "invalidDate": "Neplatný konec měsíce",
+          "words": "slova"
+        }
+      },
+      "sure": "Jasně",
+      "deletePhotoTitle": "Smazat profilovou fotku?",
+      "deletePhotoMessage": "Opravdu chcete smazat tuto profilovou fotku?",
+      "cancel": "Zrušit",
+      "delete": "Vymazat"
+    },
+    "cropper": {
+      "chooseBackground": "Vyberte Pozadí",
+      "cropPhoto": "Ořízněte svou fotku",
+      "useOriginal": "Použijte originál",
+      "backgroundPresets": "Předvolby pozadí",
+      "none": "Žádný",
+      "uploadBackground": "Nahrát pozadí",
+      "cancel": "Zrušit",
+      "savePhoto": "Uložit fotografii",
+      "zoom": "Přiblížení",
+      "rotationTilt": "Rotace a naklonění",
+      "resetRotation": "Resetujte na 0°",
+      "center": "Centrum",
+      "rotateLeft": "Otočit -90°",
+      "rotateRight": "Otočit o +90°",
+      "removeBackground": "Odebrat pozadí",
+      "processing": "Zpracovává se váš obrázek, čekejte prosím..."
+    },
+    "cvPreview": {
+      "title": "Náhled životopisu",
+      "downloadCv": "Stáhněte si životopis",
+      "download": "Stáhnout",
+      "wordCannotPreview": "Dokumenty Word (.doc/.docx) nelze v prohlížeči nativně zobrazit náhledem. ",
+      "downloadFile": "Stáhnout soubor CV",
+      "back": "Zadní",
+      "mobileMessage": "Pro náhled si stáhněte soubor CV.",
+      "preview": "Náhled životopisu",
+      "wordPreviewTitle": "Náhled dokumentu aplikace Word",
+      "wordPreviewMessage": "Dokumenty Word (.doc/.docx) nelze v prohlížeči nativně zobrazit náhledem. Chcete-li jej zobrazit, stáhněte si soubor."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Napište krátký popis o sobě, zájmech a kariérních cílech..."
+    },
+    "skills": {
+      "placeholder": "Zadejte název dovednosti...",
+      "add": "Přidat",
+      "enterToAdd": "Stiskněte Enter pro přidání",
+      "noSkills": "Zatím nebyly přidány žádné dovednosti."
+    },
+    "projects": {
+      "projectName": "Název projektu",
+      "projectNamePlaceholder": "např. ",
+      "projectUrl": "Adresa URL projektu",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Trvání",
+      "startMonth": "Počáteční měsíc",
+      "startYear": "Počáteční rok",
+      "endMonth": "Konec měsíce",
+      "endYear": "Konec roku",
+      "currentlyWorking": "V současné době se na tom pracuje",
+      "description": "Popis",
+      "descriptionPlaceholder": "Popište projekt, svou roli a úspěchy...",
+      "technologies": "Použité technologie",
+      "addProject": "Přidat projekt",
+      "image": "Obrázek projektu",
+      "removeImage": "Odebrat obrázek",
+      "uploadImage": "Kliknutím nahrajete obrázek"
+    },
+    "work": {
+      "company": "Společnost/Instituce",
+      "companyPlaceholder": "Název společnosti...",
+      "role": "Role/Pozice",
+      "rolePlaceholder": "Vaše pozice...",
+      "jobType": "Typ úlohy",
+      "selectJobType": "Vyberte typ",
+      "fullTime": "Na plný úvazek",
+      "partTime": "Na částečný úvazek",
+      "contract": "Smlouva",
+      "internship": "Stáž",
+      "freelance": "Na volné noze",
+      "location": "Umístění",
+      "locationPlaceholder": "např. ",
+      "duration": "Trvání",
+      "currentlyWorking": "V současné době zde pracuje",
+      "description": "Popis práce",
+      "descriptionPlaceholder": "Popište své klíčové povinnosti a úspěchy...",
+      "skills": "Specifické dovednosti",
+      "addExperience": "Přidejte zkušenosti"
+    },
+    "org": {
+      "organization": "Název organizace",
+      "organizationPlaceholder": "Název organizace...",
+      "role": "Role/Pozice",
+      "rolePlaceholder": "např. ",
+      "duration": "Trvání",
+      "periodFormat": "nebo volný formát (např. 2020–2022)",
+      "periodPlaceholder": "např. ",
+      "currentlyActive": "Aktuálně aktivní",
+      "description": "Popis aktivity",
+      "descriptionPlaceholder": "Popište své aktivity nebo příspěvky...",
+      "addExperience": "Přidejte zkušenosti"
+    },
+    "education": {
+      "institution": "Název instituce",
+      "institutionPlaceholder": "Název školy nebo univerzity...",
+      "degree": "Stupeň/Úroveň",
+      "degreePlaceholder": "např. ",
+      "major": "Hlavní/obor",
+      "majorPlaceholder": "např. ",
+      "gpa": "GPA / Stupeň",
+      "gpaPlaceholder": "např. ",
+      "duration": "Délka vzdělávání",
+      "periodFormat": "nebo volný formát (např. 2018–2022)",
+      "periodPlaceholder": "např. ",
+      "currentlyStudying": "V současné době zde studuji",
+      "description": "Aktivity / Vyznamenání",
+      "descriptionPlaceholder": "Popište akademické aktivity, organizace nebo získané vyznamenání...",
+      "addEducation": "Přidat vzdělání"
+    },
+    "cert": {
+      "name": "Název certifikace",
+      "namePlaceholder": "např. ",
+      "issuer": "Vydávající organizace",
+      "issuerPlaceholder": "např. ",
+      "issueDate": "Datum vydání",
+      "expiryDate": "Platí do",
+      "noExpiry": "Platnost tohoto pověření nevyprší",
+      "yearPlaceholder": "nebo rok (např. 2023)",
+      "credentialUrl": "Adresa URL pověření",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Související dovednosti",
+      "addCertification": "Přidat certifikaci",
+      "image": "Obrázek/Logo",
+      "removeImage": "Odebrat obrázek",
+      "uploadImage": "Kliknutím nahrajete obrázek"
+    },
+    "common": {
+      "months": {
+        "1": "leden",
+        "2": "únor",
+        "3": "Pochod",
+        "4": "duben",
+        "5": "květen",
+        "6": "červen",
+        "7": "červenec",
+        "8": "srpen",
+        "9": "září",
+        "10": "říjen",
+        "11": "listopad",
+        "12": "prosinec"
+      },
+      "month": "Měsíc",
+      "year": "Rok",
+      "invalidDate": "Neplatný konec měsíce",
+      "words": "slova"
+    }
+  },
+  "settings": {
+    "title": "Nastavení",
+    "subtitle": "Spravujte svůj profil portfolia a preference",
+    "tabs": {
+      "profile": "Můj profil",
+      "security": "Zabezpečení",
+      "personalization": "Personalizace"
+    },
+    "profile": {
+      "infoTitle": "Základní informace",
+      "photo": "Profilová fotka",
+      "uploadPhoto": "Změnit fotku",
+      "fullName": "Celé jméno",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-mailová adresa",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-mail slouží k přihlášení a není veřejně zobrazen.",
+      "portfolioUrl": "Adresa URL portfolia",
+      "saveProfile": "Uložit profil",
+      "save": "Uložit profil",
+      "accountCreated": "Účet vytvořen",
+      "lastLogin": "Poslední přihlášení",
+      "oauthNotice": "Tento profil je propojen s vaším účtem {{provider}}. Změny profilu musí být provedeny prostřednictvím poskytovatele služeb."
+    },
+    "security": {
+      "changePassword": "Změnit heslo",
+      "currentPassword": "Aktuální heslo",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nové heslo",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Potvrďte nové heslo",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Minimálně 8 znaků",
+        "uppercase": "Jedno velké písmeno (A-Z)",
+        "number": "Jedno číslo (0-9)",
+        "symbol": "Jeden symbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Heslo",
+      "updatePassword": "Aktualizovat heslo",
+      "additionalSecurity": "Dodatečné zabezpečení",
+      "twoFactor": "Dvoufaktorová autentizace (2FA)",
+      "twoFactorDesc": "Zabezpečte svůj účet pomocí dodatečného kódu OTP.",
+      "activeSessions": "Aktivní relace",
+      "activeSessionsDesc": "Vždy povolit sledování přihlášených zařízení.",
+      "publicVisibility": "Veřejná viditelnost",
+      "hideFromSearch": "Skrýt portfolio z vyhledávačů",
+      "hideFromSearchDesc": "Zabraňte Googlu v indexování vaší veřejné stránky portfolia.",
+      "disable2fa": {
+        "title": "Zakázat 2FA",
+        "description": "Opravdu chcete vypnout dvoufaktorové ověřování?",
+        "confirmPasswordLabel": "Pro potvrzení zadejte své heslo",
+        "currentPasswordPlaceholder": "Aktuální heslo",
+        "cancelButton": "Zrušit",
+        "confirmButton": "Zakázat 2FA",
+        "incorrectPassword": "Nesprávné heslo."
+      },
+      "setup2fa": {
+        "step1Title": "1. Naskenujte QR kód",
+        "step1Desc": "Otevřete aplikaci pro ověřování a naskenujte následující QR kód:",
+        "unableToScan": "Nelze skenovat? Použijte klíč nastavení",
+        "step2Title": "2. Ověřte kód",
+        "step2Desc": "Zadejte 6místný kód vygenerovaný vaší aplikací:",
+        "cancelButton": "Zrušit",
+        "enableButton": "Povolit 2FA",
+        "invalidLength": "Zadejte 6místný kód.",
+        "invalidCode": "Neplatný ověřovací kód. Zkuste to prosím znovu."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Jazykové ovládací prvky",
+      "appLanguage": "Jazyk aplikace",
+      "layoutTitle": "Rozvržení a typografie",
+      "layoutStyle": "Styl rozvržení",
+      "layoutModern": "Moderní styl (výchozí)",
+      "layoutClassic": "Klasický styl",
+      "layoutMinimalist": "Minimalistický styl",
+      "fontSize": "Velikost písma aplikace",
+      "fontSmall": "Malý",
+      "fontNormal": "Normální (střední)",
+      "fontLarge": "Velký",
+      "searchLanguage": "Vyhledat jazyk...",
+      "languageNotFound": "Jazyk nenalezen",
+      "layoutElegant": "Elegantní styl"
+    },
+    "saveChanges": "Uložit změny",
+    "cancel": "Zrušit",
+    "appSettings": "Nastavení aplikace",
+    "logoutConfirmTitle": "Potvrďte odhlášení",
+    "logoutConfirmDesc": "Opravdu se chcete odhlásit ze systému?",
+    "logoutConfirmYes": "Ano, Odhlásit se",
+    "generalError": "Došlo k chybě. ",
+    "success": "Úspěch",
+    "preferencesSaved": "Předvolby aplikace byly úspěšně uloženy.",
+    "header": "Nastavení aplikace",
+    "logout": {
+      "title": "Potvrzení odhlášení",
+      "message": "Opravdu se chcete odhlásit ze systému?",
+      "confirm": "Ano, Odhlásit se"
+    },
+    "about": {
+      "title": "O aplikaci",
+      "subtitle": "Platforma pro tvorbu portfolia",
+      "version": "Verze",
+      "description": "DevFolio je moderní platforma pro tvorbu portfolia určená pro vývojáře, designéry a profesionální tvůrce. ",
+      "license": "Licence a autorská práva",
+      "copyright": "© 2026 DevFolio Inc. Všechna práva vyhrazena.",
+      "developer": "Vývojář",
+      "developedBy": "Vyvinutý Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Trvale smazat účet",
+      "menuItem": "Smazat účet",
+      "successTitle": "Úspěch",
+      "successMessage": "Byl odeslán e-mail s potvrzením o smazání účtu.",
+      "errorTitle": "Nepodařilo se",
+      "errorMessage": "Odeslání potvrzovacího e-mailu se nezdařilo.",
+      "confirmationMessage": "Opravdu chcete svůj účet trvale smazat?",
+      "warningMessage1": "Obdržíte e-mail pro potvrzení smazání účtu.",
+      "warningMessage2": "V případě potvrzení budou všechna data (portfolio, projekty, statistiky) trvale smazána a nelze je obnovit.",
+      "cancel": "Zrušit",
+      "confirm": "Potvrzení"
+    },
+    "toasts": {
+      "toastError": "Chyba",
+      "toastSuccess": "Úspěch",
+      "toastSetup2FAFailed": "Nastavení 2FA se nezdařilo. Zkuste to prosím znovu.",
+      "toast2FAEnabled": "Bylo povoleno dvoufaktorové ověřování.",
+      "toast2FADisabled": "Dvoufaktorové ověřování bylo zakázáno.",
+      "toastSessionEnabled": "Aktivní sledování relace bylo povoleno.",
+      "toastSessionDisabled": "Aktivní sledování relace bylo zakázáno.",
+      "toastSetupKeyCopied": "Klíč nastavení zkopírován do schránky."
+    },
+    "privacy": {
+      "title": "Zásady ochrany osobních údajů",
+      "updateDate": "Poslední aktualizace: 15. července 2026",
+      "intro": "Tyto zásady ochrany osobních údajů vysvětlují, jak společnost DevFolio shromažďuje, používá a chrání vaše osobní údaje při používání našich služeb.",
+      "section1Title": "1. Informace, které shromažďujeme",
+      "section1Content": "Shromažďujeme informace, které poskytnete přímo při vytváření účtu, vytváření portfolia a kontaktování naší podpory. ",
+      "section2Title": "2. Použití informací",
+      "section2Content": "Vaše údaje se používají k provozu, údržbě a poskytování funkcí našich služeb a také ke komunikaci s vámi ohledně vašeho účtu nebo služeb.",
+      "section3Title": "3. Zabezpečení dat",
+      "section3Content": "Zavádíme přiměřená bezpečnostní opatření k ochraně vašich informací před neoprávněným přístupem, zveřejněním nebo zničením."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Potvrzovací token nebyl nalezen.",
+    "defaultError": "Účet se nepodařilo smazat. Platnost tokenu možná vypršela.",
+    "loadingTitle": "Mazání účtu...",
+    "loadingMessage": "Čekejte prosím, váš požadavek zpracováváme.",
+    "successTitle": "Účet úspěšně smazán",
+    "successMessage": "Všechna vaše data byla trvale smazána. Budete přesměrováni...",
+    "errorTitle": "Nepodařilo se smazat účet",
+    "backToHome": "Návrat domů"
+  },
+  "forgotPassword": {
+    "minutes": "minuty",
+    "seconds": "sekund",
+    "success": "Úspěch",
+    "otpSentToEmail": "Na váš e-mail byl zaslán OTP kód.",
+    "failed": "Nepodařilo se",
+    "emailNotFound": "Email nenalezen.",
+    "emailThirdParty": "Tento e-mail je registrován prostřednictvím třetí strany.",
+    "genericError": "Došlo k chybě. Zkuste to znovu.",
+    "otpVerified": "OTP kód byl úspěšně ověřen.",
+    "otpExpired": "Platnost kódu OTP vypršela. Požádejte o nový kód.",
+    "otpInvalid": "Neplatný kód OTP.",
+    "otpResent": "Na váš e-mail byl zaslán nový OTP kód.",
+    "otpResendFailed": "Opětovné odeslání kódu OTP se nezdařilo. Zkuste to znovu.",
+    "passwordResetSuccess": "Heslo bylo úspěšně resetováno. Přihlaste se prosím pomocí svého nového hesla.",
+    "passwordResetFailed": "Obnovení hesla se nezdařilo.",
+    "backToLogin": "Návrat k přihlášení",
+    "back": "Zpět",
+    "title": "Zapomenuté heslo",
+    "description": "Zadejte e-mailovou adresu registrovanou na vašem účtu. Zašleme OTP kód pro resetování hesla.",
+    "emailLabel": "E-mailová adresa",
+    "sending": "Odesílání...",
+    "sendOtp": "Odeslat OTP kód",
+    "verifyOtpTitle": "Ověřte kód OTP",
+    "verifyOtpDesc": "Zadejte 6místný kód, který vám byl zaslán na váš e-mail, abyste potvrdili svou identitu.",
+    "verifying": "Ověřování...",
+    "verifyOtp": "Ověřte OTP",
+    "resending": "Opětovné odesílání...",
+    "resendOtp": "Znovu odeslat kód OTP",
+    "resendCodeIn": "Znovu odešlete kód v",
+    "newPasswordTitle": "Vytvořit nové heslo",
+    "newPasswordDesc": "Vytvořte si nové silné heslo pro zabezpečení svého účtu.",
+    "newPasswordLabel": "Nové heslo",
+    "min8Chars": "Minimálně 8 znaků",
+    "oneUpperCase": "1 velká písmena (A-Z)",
+    "oneNumber": "1 číslo (0-9)",
+    "oneSymbol": "1 symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Potvrdit heslo",
+    "passwordsDoNotMatch": "Hesla se neshodují.",
+    "resettingPassword": "Resetování hesla...",
+    "resetPassword": "Obnovit heslo"
+  },
+  "verifyEmail": {
+    "resendError": "Nepodařilo se znovu odeslat ověřovací e-mail. Zkuste to znovu.",
+    "checkingStatus": "Kontrola stavu ověření...",
+    "title": "Zkontrolujte svůj email",
+    "description": "Na vaši e-mailovou adresu jsme zaslali ověřovací e-mail. Otevřete prosím e-mail a kliknutím na tlačítko <1>\"Potvrdit účet\"</1> aktivujte svůj účet.",
+    "stepsTitle": "Kroky",
+    "step1": "Otevřete svou e-mailovou aplikaci (Gmail, Yahoo atd.)",
+    "step2": "Vyhledejte e-mail od DevFolio s předmětem \"Aktivace účtu\"",
+    "step3": "Klikněte na tlačítko \"Potvrdit účet\" v e-mailu",
+    "step4": "Budete přesměrováni na přihlašovací stránku a zadejte",
+    "resendSuccess": "Ověřovací e-mail byl odeslán znovu!",
+    "resending": "Opětovné odesílání...",
+    "resendButton": "Znovu odeslat ověřovací e-mail",
+    "backToLogin": "Zpět na přihlašovací stránku",
+    "footerNote": "Neobdrželi jste e-mail? Zkontrolujte ve svém e-mailu složku <1>Spam</1> nebo <2>Junk</2>. Ověřovací odkaz je platný <3>24 hodin</3>."
+  }
+}

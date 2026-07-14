@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Omadused",
+    "templates": "Mallid",
+    "pricing": "Hinnakujundus",
+    "login": "Logi sisse",
+    "getStarted": "Alustage",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Parim portfelli koostaja arendajatele",
+    "title1": "Ehitage oma professionaal",
+    "title2": "portfell sisse",
+    "titleHighlight": "sekundit.",
+    "subtitle": "Kõik, mida vajate oma oskuste, projektide ja kogemuste tutvustamiseks. ",
+    "startBuilding": "Alustage ehitamist kohe",
+    "viewTemplates": "Kuva mallid",
+    "fastDeployment": "Kiire juurutamine",
+    "liveStatus": "username.dev on otse-eetris!",
+    "featuresTitle": "Võimsad omadused",
+    "featuresSubtitle": "Pakume kõiki tööriistu, mida vajate, et teistest eristuda ja saada oma unistuste töökoht.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Meie intuitiivse visuaalse redaktori abil saate hõlpsalt oma jaotisi, projekte ja oskusi korraldada.",
+    "feature2Title": "Kohandatud teemad",
+    "feature2Desc": "Valige professionaalselt kujundatud mallide hulgast või looge oma ainulaadne välimus.",
+    "feature3Title": "Reaalajas analüüs",
+    "feature3Desc": "Jälgige oma külastajaid, vaadake, millised projektid pälvivad kõige rohkem tähelepanu ja palju muud."
+  },
+  "auth": {
+    "welcomeBack": "Tere tulemast tagasi",
+    "loginToContinue": "Jätkamiseks logige oma kontole sisse",
+    "createAccount": "Loo konto",
+    "joinCommunity": "Liituge tuhandete teiste arendajatega",
+    "fullName": "Täisnimi",
+    "fullNamePlaceholder": "nt. ",
+    "email": "E-posti aadress",
+    "emailPlaceholder": "sina@example.com",
+    "password": "Parool",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Pea mind meeles",
+    "forgotPassword": "Unustasid parooli?",
+    "signIn": "Logi sisse",
+    "signingIn": "Sisselogimine...",
+    "signUp": "Registreeru",
+    "signingUp": "Registreerumine...",
+    "noAccount": "Kas teil pole kontot?",
+    "hasAccount": "Kas teil on juba konto?",
+    "passwordRules": {
+      "title": "Parool peab sisaldama:",
+      "length": "Vähemalt 8 tähemärki",
+      "uppercase": "Üks suur täht (A-Z)",
+      "number": "Üks number (0-9)",
+      "symbol": "Üks sümbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfelli koostaja",
+      "templates": "Templates & Themes",
+      "settings": "Seaded",
+      "collapse": "Ahenda külgriba",
+      "overview": "Ülevaade",
+      "profileSettings": "Profiili seaded",
+      "customDomain": "Kohandatud domeen",
+      "feedback": "Tagasiside"
+    },
+    "header": {
+      "viewLive": "Vaata otseülekannet",
+      "welcome": "Tere tulemast,",
+      "logout": "Väljalogimine",
+      "builder": "Ehitaja",
+      "livePortfolio": "Reaalajas portfell",
+      "live": "Otse"
+    },
+    "logoutModal": {
+      "title": "Väljalogimine",
+      "message": "Kas olete kindel, et soovite oma kontolt välja logida? ",
+      "cancel": "Tühista",
+      "confirm": "Jah, Logi välja"
+    },
+    "slugModal": {
+      "title": "Valige oma portfelli URL",
+      "message": "See URL on ainulaadne link teie portfellile. ",
+      "slugPlaceholder": "sinu-nimi",
+      "availability": "Saadavus:",
+      "available": "Saadaval",
+      "unavailable": "Pole saadaval",
+      "checking": "Kontrollimine...",
+      "mustFormat": "Võib sisaldada ainult tähti, numbreid ja sidekriipse (-)",
+      "cancel": "Tühista",
+      "save": "Salvesta URL",
+      "usernameUrl": "Kasutajanime URL",
+      "helpText": "Väikesed tähed, numbrid ja sidekriipsud. ",
+      "validation": {
+        "empty": "Nälkjas ei saa olla tühi.",
+        "min3": "Minimaalselt 3 tähemärki.",
+        "max30": "Maksimaalselt 30 tähemärki.",
+        "format": "Ainult väiketähed, numbrid ja sidekriipsud (-). "
+      }
+    },
+    "loadingPortfolio": "Portfelli andmete laadimine...",
+    "overview": {
+      "greetings": {
+        "morning": "Tere hommikust",
+        "afternoon": "Tere pärastlõunast",
+        "evening": "Tere pärastlõunast",
+        "night": "Head ööd"
+      },
+      "welcome": {
+        "hi": "Tere,",
+        "creator": "Looja",
+        "desc1": "Tere tulemast DevFolio armatuurlauale. Teie portfelli on vaadanud",
+        "desc2": "isik. Jätkake tööd!",
+        "editPortfolio": "Redigeeri portfelli"
+      },
+      "stats": {
+        "totalVisitors": "Külastajaid kokku",
+        "projectViews": "Vaadatud (projekt)",
+        "activeSessions": "Aktiivne seanss",
+        "totalLabel": "Kokku"
+      },
+      "setup": {
+        "title": "Seadistuse edenemine",
+        "completed": "Teie portfell on valmis! 🎉",
+        "inProgress": "Sammud täiusliku portfelli poole.",
+        "profile": {
+          "title": "Täielik profiil",
+          "desc": "Lisa nimi, biograafia ja profiilifoto."
+        },
+        "section": {
+          "title": "Lisa jaotised",
+          "desc": "Aktiveerige portfellis vähemalt 1 jaotis."
+        },
+        "project": {
+          "title": "Lisa projekt",
+          "desc": "Sisestage vähemalt 1 oma parimatest projektidest."
+        },
+        "publish": {
+          "title": "Portfelli avaldamine",
+          "desc": "Määrake kohandatud URL, et see oleks avalikkusele juurdepääsetav."
+        }
+      },
+      "topProjects": {
+        "title": "Kõige populaarsemad projektid",
+        "desc": "Teie töö tulemuslikkus külastajate silmis.",
+        "viewAll": "Vaata kõiki",
+        "empty": "Teie projekti kohta pole veel kuvamisandmeid."
+      }
+    },
+    "themes": {
+      "title": "Mallid ja teemad",
+      "subtitle": "Kohandage oma avaliku portfelli välimust.",
+      "reset": "Lähtesta vaikeseade",
+      "save": "Salvesta muudatused",
+      "saving": "Salvestamine...",
+      "chooseTemplate": "Valige mall",
+      "primaryColor": "Põhivärv",
+      "typography": "Tüpograafia",
+      "appearance": "Välimus",
+      "corners": "Nurgad ja piirid",
+      "successTitle": "Edu",
+      "successMessage": "Teema eelistuste värskendamine õnnestus",
+      "errorTitle": "Viga",
+      "errorMessage": "Teema eelistuste salvestamine ebaõnnestus",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistlik",
+          "desc": "Puhas ja lihtne disain, mis keskendub sisule."
+        },
+        "developerDark": {
+          "name": "Arendaja Dark",
+          "desc": "Tume teema, mis sobib suurepäraselt koodi- ja tehnikavirnade esitlemiseks."
+        },
+        "creative": {
+          "name": "Loominguline",
+          "desc": "Elav ja värvikas kujundus disaineritele ja loojatele."
+        },
+        "executive": {
+          "name": "Juhtiv",
+          "desc": "Professionaalne ja ametlik kujundus äriprofessionaalidele."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Moodne Apple'i stiilis ruudustiku paigutus, mis tõstab tõhusalt esile erinevad oskused."
+        },
+        "neoBrutalism": {
+          "name": "Uusbrutalism",
+          "desc": "Julged äärised ja kontrastsed värvid loovad trendika, vabandamatu välimuse."
+        },
+        "glassmorphism": {
+          "name": "Klaasmorfism",
+          "desc": "Matistatud klaasist efektid üle värviliste gradientide elegantse ja moodsa kasutajaliidese jaoks."
+        },
+        "linkInBio": {
+          "name": "Link bios",
+          "desc": "Kompaktne vertikaalne paigutus, mis on optimeeritud mobiiliekraanide ja sotsiaalmeedia jaoks."
+        }
+      },
+      "appearances": {
+        "light": "Valgus",
+        "dark": "Tume",
+        "system": "Süsteem"
+      },
+      "cornersOptions": {
+        "sharp": "Terav",
+        "rounded": "Ümardatud",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Saada tagasisidet",
+      "subtitle": "Aidake meil seda paremaks muuta, pakkudes selle rakenduse kohta soovitusi, kriitikat või teatades vigadest.",
+      "categoryLabel": "Tagasiside kategooria",
+      "messageLabel": "Sõnumi üksikasjad",
+      "messagePlaceholder": "Rääkige mulle üksikasjalikult tagasisidest, mida soovite edastada...",
+      "imageLabel": "Pildimanus (valikuline)",
+      "imagePlaceholder": "Klõpsake pildi või ekraanipildi üleslaadimiseks",
+      "submitting": "Saadan...",
+      "submitBtn": "Saada tagasisidet",
+      "categories": {
+        "suggestion": "Ettepanekud ja ideed",
+        "bug": "Vea-/veaaruanne",
+        "criticism": "Kriitika",
+        "other": "Teised"
+      },
+      "imageErrorTitle": "Viga",
+      "imageErrorMessage": "Mõned failid lükatakse tagasi, kuna neid ei toetata pildivormingutes (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Edu",
+      "successMessage": "Täname teid tagasiside eest! Aruanne on saadetud.",
+      "submitErrorTitle": "Ebaõnnestunud",
+      "submitErrorMessage": "Tagasiside saatmisel ilmnes viga. Palun proovi uuesti."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Minu kohta",
+      "skills": "Oskused",
+      "projects": "Projektid",
+      "workExperience": "Töökogemus",
+      "orgExperience": "Organisatsioonikogemus",
+      "education": "Haridus",
+      "certifications": "Koolitus ja sertifikaadid",
+      "contact": "Võtke minuga ühendust"
+    },
+    "editor": {
+      "profileInfo": "Profiili teave",
+      "saving": "Salvestamine...",
+      "profilePhoto": "Profiilifoto",
+      "clickToUpload": "Klõpsake üleslaadimiseks (JPG, PNG)",
+      "fullName": "Täisnimi",
+      "fullNamePlaceholder": "nt. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstacki arendaja, kelle kirg on luua kaasaegseid veebirakendusi...",
+      "location": "Asukoht",
+      "locationPlaceholder": "nt. ",
+      "gender": "Sugu",
+      "selectGender": "Valige Sugu",
+      "male": "Mees",
+      "female": "Naine",
+      "custom": "Kohandatud",
+      "customPlaceholder": "Sisestage oma kohandatud sugu...",
+      "uploadCv": "Laadi üles CV",
+      "cvFormat": "(DOC või PDF)",
+      "preview": "Eelvaade",
+      "remove": "Eemalda",
+      "clickToUploadCv": "Klõpsake PDF-i või DOC-i üleslaadimiseks",
+      "sections": "Sektsioonid",
+      "removeSelected": "Eemalda valitud",
+      "confirmRemove": "Kinnitage eemaldamine",
+      "addSection": "Lisa jaotis",
+      "addAllSections": "Lisa kõik jaotised",
+      "noSections": "Jaotisi pole veel",
+      "clickToAdd": "Alustamiseks klõpsake \"+ Lisa jaotis\".",
+      "selectAll": "Valige Kõik",
+      "selected": "Valitud",
+      "dragToReorder": "Lohistage jaotiste ümberjärjestamiseks",
+      "livePreview": "Reaalajas eelvaade",
+      "addSectionsToBuild": "Portfelli koostamiseks lisage jaotisi",
+      "now": "Nüüd",
+      "current": "Praegune",
+      "noExpiry": "Aegumist pole",
+      "see": "Vaata",
+      "position": "positsioon",
+      "degree": "Kraad",
+      "certification": "Sertifitseerimine",
+      "sectionsForm": {
+        "about": {
+          "label": "Enda kirjeldus",
+          "placeholder": "Räägi meile endast, oma taustast, huvidest ja oskustest..."
+        },
+        "skills": {
+          "addPlaceholder": "Tippige oskus ja vajutage sisestusklahvi..."
+        },
+        "projects": {
+          "title": "Projekti nimi",
+          "titlePlaceholder": "Projekti nimi...",
+          "url": "Projekti URL",
+          "description": "Kirjeldus",
+          "descriptionPlaceholder": "Projekti lühikirjeldus...",
+          "uploadThumbnail": "Projekti pilt",
+          "addProject": "Lisa projekt",
+          "projectNum": "Projekt nr",
+          "currentProject": "See on projekt, mille kallal ma töötan"
+        },
+        "work": {
+          "company": "Ettevõte/agentuur",
+          "companyPlaceholder": "Firma nimi...",
+          "position": "Ametikoht/tiitel",
+          "positionPlaceholder": "Sinu positsioon...",
+          "employmentType": "Töö tüüp",
+          "location": "Asukoht",
+          "locationPlaceholder": "Linn, riik...",
+          "startDate": "Alusta",
+          "endDate": "Valmis",
+          "currentWork": "Hetkel töötan veel",
+          "description": "Kirjeldus",
+          "descriptionPlaceholder": "Ametikirjeldus ja kohustused...",
+          "skills": "Oskus",
+          "addExperience": "Lisage töökogemus",
+          "experienceNum": "Kogemus #",
+          "dateError": "Lõppkuupäev ei saa olla alguskuupäevast varasem"
+        },
+        "org": {
+          "organization": "Organisatsiooni nimi",
+          "orgPlaceholder": "BEM Ülikool...",
+          "role": "Roll/positsioon",
+          "rolePlaceholder": "Jaoskonna juht...",
+          "addOrg": "Lisage organisatsiooniline kogemus",
+          "orgNum": "Organisatsiooni nr"
+        },
+        "edu": {
+          "institution": "Haridusasutused",
+          "institutionPlaceholder": "Ülikooli või kooli nimi...",
+          "degree": "Pealkiri",
+          "degreePlaceholder": "S1, keskkool jne...",
+          "major": "Osakond/õppevaldkond",
+          "majorPlaceholder": "Informaatikatehnika...",
+          "gpa": "GPA (valikuline)",
+          "currentStudy": "Ma alles õpin siin",
+          "descriptionPlaceholder": "Tegevused ja saavutused õppetöös...",
+          "addEdu": "Lisage haridus",
+          "eduNum": "Haridus #"
+        },
+        "cert": {
+          "name": "Sertifikaadi/koolituse nimi",
+          "namePlaceholder": "Sertifikaadi nimi...",
+          "issuer": "Kirjastaja",
+          "issuerPlaceholder": "Kirjastusasutus...",
+          "issueDate": "Algus (avaldamiskuupäev)",
+          "issueDatePlaceholder": "Valige avaldamise kuupäev...",
+          "expiryDate": "Lõpetatud (kehtiv periood)",
+          "expiryDatePlaceholder": "Valige aegumiskuupäev...",
+          "noExpiry": "Sellel sertifikaadil ei ole aegumiskuupäeva",
+          "url": "Mandaadi URL",
+          "uploadThumbnail": "Sertifikaat / koolituspilt",
+          "uploadThumbnailLimit": "Laadige üles sertifikaadi kujutis (JPG/PNG/WEBP, kuni 2 MB)",
+          "addCert": "Lisage sertifikaat",
+          "certNum": "Sertifikaadi nr"
+        },
+        "contact": {
+          "contactNum": "Kontakt nr",
+          "platform": "Platvorm",
+          "displayText": "Kuva tekst",
+          "displayTextPlaceholder": "nt sina@email.com või @kasutajanimi",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "nt 62812... (ilma 0-ta)",
+          "urlPlaceholderEmail": "nt sina@email.com",
+          "urlPlaceholderWebsite": "nt https://...",
+          "urlPlaceholderDefault": "nt kasutajanimi",
+          "addContact": "Lisa kontakt"
+        },
+        "common": {
+          "months": {
+            "1": "jaanuaril",
+            "2": "veebruar",
+            "3": "märtsil",
+            "4": "aprill",
+            "5": "mai",
+            "6": "juunini",
+            "7": "juulil",
+            "8": "augustil",
+            "9": "septembril",
+            "10": "oktoober",
+            "11": "novembril",
+            "12": "detsembril"
+          },
+          "month": "Kuu",
+          "year": "aasta",
+          "invalidDate": "Kehtetu lõpukuu",
+          "words": "sõnad"
+        }
+      },
+      "sure": "Muidugi",
+      "deletePhotoTitle": "Kas kustutada profiilifoto?",
+      "deletePhotoMessage": "Kas oled kindel, et soovid selle profiilifoto kustutada?",
+      "cancel": "Tühista",
+      "delete": "Kustuta"
+    },
+    "cropper": {
+      "chooseBackground": "Valige Taust",
+      "cropPhoto": "Kärbi oma fotot",
+      "useOriginal": "Kasutage originaali",
+      "backgroundPresets": "Tausta eelseaded",
+      "none": "Mitte ühtegi",
+      "uploadBackground": "Laadi üles taust",
+      "cancel": "Tühista",
+      "savePhoto": "Salvesta foto",
+      "zoom": "Suumi",
+      "rotationTilt": "Pööramine ja kallutamine",
+      "resetRotation": "Lähtestage 0°-le",
+      "center": "Keskus",
+      "rotateLeft": "Pööra -90°",
+      "rotateRight": "Pöörake +90°",
+      "removeBackground": "Eemalda taust",
+      "processing": "Teie pilti töödeldakse, palun oodake..."
+    },
+    "cvPreview": {
+      "title": "CV eelvaade",
+      "downloadCv": "Laadige alla CV",
+      "download": "Laadi alla",
+      "wordCannotPreview": "Wordi dokumentide (.doc/.docx) eelvaadet ei saa brauseris algselt vaadata. ",
+      "downloadFile": "Laadige alla CV fail",
+      "back": "Tagasi",
+      "mobileMessage": "Eelvaate vaatamiseks laadige alla CV-fail.",
+      "preview": "CV eelvaade",
+      "wordPreviewTitle": "Wordi dokumendi eelvaade",
+      "wordPreviewMessage": "Wordi dokumentide (.doc/.docx) eelvaadet ei saa brauseris algselt vaadata. Selle vaatamiseks laadige fail alla."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Kirjutage lühikirjeldus endast, huvidest ja karjäärieesmärkidest..."
+    },
+    "skills": {
+      "placeholder": "Sisestage oskuse nimi...",
+      "add": "Lisa",
+      "enterToAdd": "Lisamiseks vajutage sisestusklahvi",
+      "noSkills": "Oskusi pole veel lisatud."
+    },
+    "projects": {
+      "projectName": "Projekti nimi",
+      "projectNamePlaceholder": "nt. ",
+      "projectUrl": "Projekti URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Kestus",
+      "startMonth": "Alusta kuu",
+      "startYear": "Algusaasta",
+      "endMonth": "Kuu lõpp",
+      "endYear": "Lõppaasta",
+      "currentlyWorking": "Praegu töötatakse selle kallal",
+      "description": "Kirjeldus",
+      "descriptionPlaceholder": "Kirjeldage projekti, oma rolli ja saavutusi...",
+      "technologies": "Kasutatud tehnoloogiad",
+      "addProject": "Lisa projekt",
+      "image": "Projekti pilt",
+      "removeImage": "Eemalda pilt",
+      "uploadImage": "Klõpsake pildi üleslaadimiseks"
+    },
+    "work": {
+      "company": "Ettevõte/asutus",
+      "companyPlaceholder": "Firma nimi...",
+      "role": "Roll/positsioon",
+      "rolePlaceholder": "Sinu positsioon...",
+      "jobType": "Töö tüüp",
+      "selectJobType": "Valige tüüp",
+      "fullTime": "Täiskohaga",
+      "partTime": "Osalise tööajaga",
+      "contract": "Leping",
+      "internship": "Praktika",
+      "freelance": "Vabakutseline",
+      "location": "Asukoht",
+      "locationPlaceholder": "nt. ",
+      "duration": "Kestus",
+      "currentlyWorking": "Hetkel töötab siin",
+      "description": "Töö kirjeldus",
+      "descriptionPlaceholder": "Kirjeldage oma peamisi kohustusi ja saavutusi...",
+      "skills": "Spetsiifilised oskused",
+      "addExperience": "Lisage kogemus"
+    },
+    "org": {
+      "organization": "Organisatsiooni nimi",
+      "organizationPlaceholder": "Organisatsiooni nimi...",
+      "role": "Roll/positsioon",
+      "rolePlaceholder": "nt. ",
+      "duration": "Kestus",
+      "periodFormat": "või vabas vormingus (nt 2020–2022)",
+      "periodPlaceholder": "nt. ",
+      "currentlyActive": "Hetkel aktiivne",
+      "description": "Tegevuse kirjeldus",
+      "descriptionPlaceholder": "Kirjeldage oma tegevust või panust...",
+      "addExperience": "Lisage kogemus"
+    },
+    "education": {
+      "institution": "Asutuse nimi",
+      "institutionPlaceholder": "Kooli või ülikooli nimi...",
+      "degree": "Kraad/tase",
+      "degreePlaceholder": "nt. ",
+      "major": "Peaeriala/õppevaldkond",
+      "majorPlaceholder": "nt. ",
+      "gpa": "GPA / Hinne",
+      "gpaPlaceholder": "nt. ",
+      "duration": "Haridus Kestus",
+      "periodFormat": "või vabas vormingus (nt 2018–2022)",
+      "periodPlaceholder": "nt. ",
+      "currentlyStudying": "Hetkel õpib siin",
+      "description": "Tegevused / Autasud",
+      "descriptionPlaceholder": "Kirjeldage akadeemilist tegevust, organisatsioone või saadud autasusid...",
+      "addEducation": "Lisage haridus"
+    },
+    "cert": {
+      "name": "Sertifikaadi nimi",
+      "namePlaceholder": "nt. ",
+      "issuer": "Väljastav organisatsioon",
+      "issuerPlaceholder": "nt. ",
+      "issueDate": "Väljaandmise kuupäev",
+      "expiryDate": "Kehtib kuni",
+      "noExpiry": "See mandaat ei aegu",
+      "yearPlaceholder": "või aasta (nt 2023)",
+      "credentialUrl": "Mandaadi URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Seotud oskused",
+      "addCertification": "Lisage sertifikaat",
+      "image": "Pilt/logo",
+      "removeImage": "Eemalda pilt",
+      "uploadImage": "Klõpsake pildi üleslaadimiseks"
+    },
+    "common": {
+      "months": {
+        "1": "jaanuaril",
+        "2": "veebruar",
+        "3": "märtsil",
+        "4": "aprill",
+        "5": "mai",
+        "6": "juunini",
+        "7": "juulil",
+        "8": "augustil",
+        "9": "septembril",
+        "10": "oktoober",
+        "11": "novembril",
+        "12": "detsembril"
+      },
+      "month": "Kuu",
+      "year": "aasta",
+      "invalidDate": "Kehtetu lõpukuu",
+      "words": "sõnad"
+    }
+  },
+  "settings": {
+    "title": "Seaded",
+    "subtitle": "Hallake oma portfelli profiili ja eelistusi",
+    "tabs": {
+      "profile": "Minu profiil",
+      "security": "Turvalisus",
+      "personalization": "Isikupärastamine"
+    },
+    "profile": {
+      "infoTitle": "Põhiteave",
+      "photo": "Profiilifoto",
+      "uploadPhoto": "Muuda fotot",
+      "fullName": "Täisnimi",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-posti aadress",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-posti kasutatakse sisselogimiseks ja seda ei kuvata avalikult.",
+      "portfolioUrl": "Portfelli URL",
+      "saveProfile": "Salvesta profiil",
+      "save": "Salvesta profiil",
+      "accountCreated": "Konto loodud",
+      "lastLogin": "Viimane sisselogimine",
+      "oauthNotice": "See profiil on ühendatud teie {{provider}} kontoga. Profiilimuudatused tuleb teha teenusepakkuja kaudu."
+    },
+    "security": {
+      "changePassword": "Muuda parooli",
+      "currentPassword": "Praegune parool",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Uus parool",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Kinnitage uus parool",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Vähemalt 8 tähemärki",
+        "uppercase": "Üks suur täht (A-Z)",
+        "number": "Üks number (0-9)",
+        "symbol": "Üks sümbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Parool",
+      "updatePassword": "Värskenda parooli",
+      "additionalSecurity": "Täiendav turvalisus",
+      "twoFactor": "Kahefaktoriline autentimine (2FA)",
+      "twoFactorDesc": "Kaitske oma kontot täiendava OTP-koodiga.",
+      "activeSessions": "Aktiivsed seansid",
+      "activeSessionsDesc": "Lubage alati sisselogitud seadmete jälgimist.",
+      "publicVisibility": "Avalik nähtavus",
+      "hideFromSearch": "Peida portfell otsingumootorite eest",
+      "hideFromSearchDesc": "Takistage Google'il teie avalikku portfellilehte indekseerimast.",
+      "disable2fa": {
+        "title": "Keela 2FA",
+        "description": "Kas soovite kindlasti kahefaktorilise autentimise välja lülitada?",
+        "confirmPasswordLabel": "Kinnitamiseks sisestage oma parool",
+        "currentPasswordPlaceholder": "Praegune parool",
+        "cancelButton": "Tühista",
+        "confirmButton": "Keela 2FA",
+        "incorrectPassword": "Vale parool."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skannige QR-kood",
+        "step1Desc": "Avage autentimisrakendus ja skannige järgmine QR-kood:",
+        "unableToScan": "Kas ei saa skannida? Kasutage seadistusklahvi",
+        "step2Title": "2. Kontrollige koodi",
+        "step2Desc": "Sisestage oma rakenduse loodud 6-kohaline kood:",
+        "cancelButton": "Tühista",
+        "enableButton": "Luba 2FA",
+        "invalidLength": "Sisestage 6-kohaline kood.",
+        "invalidCode": "Kehtetu kinnituskood. Palun proovi uuesti."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Keele juhtelemendid",
+      "appLanguage": "Rakenduse keel",
+      "layoutTitle": "Paigutus ja tüpograafia",
+      "layoutStyle": "Paigutusstiil",
+      "layoutModern": "Moodne stiil (vaikimisi)",
+      "layoutClassic": "Klassikaline stiil",
+      "layoutMinimalist": "Minimalistlik stiil",
+      "fontSize": "Rakenduse fondi suurus",
+      "fontSmall": "Väike",
+      "fontNormal": "Tavaline (keskmine)",
+      "fontLarge": "Suur",
+      "searchLanguage": "Otsi keel...",
+      "languageNotFound": "Keelt ei leitud",
+      "layoutElegant": "Elegantne stiil"
+    },
+    "saveChanges": "Salvesta muudatused",
+    "cancel": "Tühista",
+    "appSettings": "Rakenduse seaded",
+    "logoutConfirmTitle": "Kinnitage väljalogimine",
+    "logoutConfirmDesc": "Kas olete kindel, et soovite süsteemist välja logida?",
+    "logoutConfirmYes": "Jah, Logi välja",
+    "generalError": "Ilmnes viga. ",
+    "success": "Edu",
+    "preferencesSaved": "Rakenduse eelistused salvestati edukalt.",
+    "header": "Rakenduse sätted",
+    "logout": {
+      "title": "Väljalogimise kinnitus",
+      "message": "Kas olete kindel, et soovite süsteemist välja logida?",
+      "confirm": "Jah, Logi välja"
+    },
+    "about": {
+      "title": "Rakenduse kohta",
+      "subtitle": "Portfelli koostaja platvorm",
+      "version": "Versioon",
+      "description": "DevFolio on kaasaegne portfelli koostamise platvorm, mis on mõeldud arendajatele, disaineritele ja professionaalsetele loojatele. ",
+      "license": "Litsents ja autoriõigus",
+      "copyright": "© 2026 DevFolio Inc. Kõik õigused kaitstud.",
+      "developer": "Arendaja",
+      "developedBy": "Arendaja Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Kustuta konto jäädavalt",
+      "menuItem": "Kustuta konto",
+      "successTitle": "Edu",
+      "successMessage": "Konto kustutamise kinnitusmeil on saadetud.",
+      "errorTitle": "Ebaõnnestunud",
+      "errorMessage": "Kinnitusmeili saatmine ebaõnnestus.",
+      "confirmationMessage": "Kas olete kindel, et soovite oma konto jäädavalt kustutada?",
+      "warningMessage1": "Konto kustutamise kinnitamiseks saadetakse teile e-kiri.",
+      "warningMessage2": "Kinnitamise korral kustutatakse kõik andmed (portfell, projektid, statistika) jäädavalt ja neid ei saa taastada.",
+      "cancel": "Tühista",
+      "confirm": "Kinnitus"
+    },
+    "toasts": {
+      "toastError": "Viga",
+      "toastSuccess": "Edu",
+      "toastSetup2FAFailed": "2FA seadistamine ebaõnnestus. Palun proovi uuesti.",
+      "toast2FAEnabled": "Kahefaktoriline autentimine on lubatud.",
+      "toast2FADisabled": "Kahefaktoriline autentimine on keelatud.",
+      "toastSessionEnabled": "Aktiivne seansi jälgimine on lubatud.",
+      "toastSessionDisabled": "Aktiivne seansi jälgimine on keelatud.",
+      "toastSetupKeyCopied": "Seadistusvõti kopeeriti lõikelauale."
+    },
+    "privacy": {
+      "title": "Privaatsuspoliitika",
+      "updateDate": "Viimati värskendatud: 15. juulil 2026",
+      "intro": "See privaatsuspoliitika selgitab, kuidas DevFolio meie teenuste kasutamisel teie isikuandmeid kogub, kasutab ja kaitseb.",
+      "section1Title": "1. Kogutav teave",
+      "section1Content": "Kogume teavet, mille esitate otse konto loomisel, portfelli koostamisel ja meie toega ühenduse võtmisel. ",
+      "section2Title": "2. Teabe kasutamine",
+      "section2Content": "Teie teavet kasutatakse meie teenuste kasutamiseks, hooldamiseks ja funktsioonide pakkumiseks, samuti teiega teie konto või teenustega seotud suhtlemiseks.",
+      "section3Title": "3. Andmete turvalisus",
+      "section3Content": "Rakendame mõistlikke turvameetmeid, et kaitsta teie teavet volitamata juurdepääsu, avalikustamise või hävitamise eest."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Kinnitusmärki ei leitud.",
+    "defaultError": "Konto kustutamine ebaõnnestus. Märk võib olla aegunud.",
+    "loadingTitle": "Konto kustutamine...",
+    "loadingMessage": "Palun oodake, me töötleme teie taotlust.",
+    "successTitle": "Konto edukalt kustutatud",
+    "successMessage": "Kõik teie andmed on jäädavalt kustutatud. Teid suunatakse ümber...",
+    "errorTitle": "Konto kustutamine ebaõnnestus",
+    "backToHome": "Tagasi koju"
+  },
+  "forgotPassword": {
+    "minutes": "minutit",
+    "seconds": "sekundit",
+    "success": "Edu",
+    "otpSentToEmail": "Teie e-posti aadressile on saadetud OTP-kood.",
+    "failed": "Ebaõnnestunud",
+    "emailNotFound": "E-posti ei leitud.",
+    "emailThirdParty": "See meil on registreeritud kolmanda osapoole kaudu.",
+    "genericError": "Tekkis viga. Palun proovi uuesti.",
+    "otpVerified": "OTP-kood on edukalt kinnitatud.",
+    "otpExpired": "OTP-kood on aegunud. Taotlege uut koodi.",
+    "otpInvalid": "Vale OTP-kood.",
+    "otpResent": "Teie meilile on saadetud uus OTP-kood.",
+    "otpResendFailed": "OTP-koodi uuesti saatmine ebaõnnestus. Palun proovi uuesti.",
+    "passwordResetSuccess": "Parool on edukalt lähtestatud. Palun logige sisse oma uue parooliga.",
+    "passwordResetFailed": "Parooli lähtestamine ebaõnnestus.",
+    "backToLogin": "Tagasi sisselogimise juurde",
+    "back": "Tagasi",
+    "title": "Unustasin parooli",
+    "description": "Sisestage oma kontol registreeritud e-posti aadress. Saadame parooli lähtestamiseks OTP-koodi.",
+    "emailLabel": "E-posti aadress",
+    "sending": "Saadan...",
+    "sendOtp": "Saada OTP-kood",
+    "verifyOtpTitle": "Kinnitage OTP-kood",
+    "verifyOtpDesc": "Sisestage oma identiteedi kinnitamiseks teie meilile saadetud 6-kohaline kood.",
+    "verifying": "Kontrollimine...",
+    "verifyOtp": "Kinnitage OTP",
+    "resending": "Uuesti saatmine...",
+    "resendOtp": "Saada OTP kood uuesti",
+    "resendCodeIn": "Saada kood uuesti",
+    "newPasswordTitle": "Loo uus parool",
+    "newPasswordDesc": "Looge oma konto kaitsmiseks uus tugev parool.",
+    "newPasswordLabel": "Uus parool",
+    "min8Chars": "Vähemalt 8 tähemärki",
+    "oneUpperCase": "1 suurtäht (A–Z)",
+    "oneNumber": "1 number (0-9)",
+    "oneSymbol": "1 sümbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Kinnita parool",
+    "passwordsDoNotMatch": "Paroolid ei ühti.",
+    "resettingPassword": "Parooli lähtestamine...",
+    "resetPassword": "Lähtestage parool"
+  },
+  "verifyEmail": {
+    "resendError": "Kinnitusmeili uuesti saatmine ebaõnnestus. Palun proovi uuesti.",
+    "checkingStatus": "Kontrollimise oleku kontrollimine...",
+    "title": "Kontrollige oma e-posti",
+    "description": "Saatsime teie e-posti aadressile kinnitusmeili. Avage meil ja klõpsake oma konto aktiveerimiseks nuppu <1>\"Kinnita konto\"</1>.",
+    "stepsTitle": "Sammud",
+    "step1": "Avage oma meilirakendus (Gmail, Yahoo jne)",
+    "step2": "Otsige DevFoliolt meili teemaga \"Konto aktiveerimine\"",
+    "step3": "Klõpsake meilis nuppu \"Kinnita konto\"",
+    "step4": "Teid suunatakse sisselogimislehele, et sisestada",
+    "resendSuccess": "Kinnitusmeil on uuesti saadetud!",
+    "resending": "Uuesti saatmine...",
+    "resendButton": "Saada kinnitusmeil uuesti",
+    "backToLogin": "Tagasi sisselogimislehele",
+    "footerNote": "Kas te ei saanud meili? Kontrollige oma meilis kausta <1>Rämpspost</1> või <2>Rämpspost</2>. Kinnituslink kehtib <3>24 tundi</3>."
+  }
+}

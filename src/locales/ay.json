@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Uñjawinaka",
+    "templates": "Plantillas ukanaka",
+    "pricing": "Precios ukanaka",
+    "login": "Uñt’ayasiñataki",
+    "getStarted": "Qalltañataki",
+    "title": "DevFolio ukax mä juk’a pachanakanwa"
+  },
+  "landing": {
+    "badge": "Qhipa cartera lurayirix desarrolladores ukanakataki",
+    "title1": "Profesional ukar uñstayañamawa",
+    "title2": "cartera ukaxa",
+    "titleHighlight": "segundonaka.",
+    "subtitle": "Taqi kunatix yatiñanaka, proyectos ukat experiencia uñacht’ayañatakix wakiski. ",
+    "startBuilding": "Jichhax Uta lurañ qalltañamawa",
+    "viewTemplates": "Plantillas uñakipt’aña",
+    "fastDeployment": "Jank’aki Uñstayaña",
+    "liveStatus": "username.dev ukax jakaskiwa!",
+    "featuresTitle": "Ch’amani Uñacht’awinaka",
+    "featuresSubtitle": "Taqi kunatix wakiski ukanak churapxsma, jaqinak taypit yaqhachasiñataki ukhamarak samkan irnaqawimar uraqir puriñatakiwa.",
+    "feature1Title": "Drag & Drop ukax mä juk’a pachanakanwa lurasi",
+    "feature1Desc": "Jiwasan intuitivo editor visual ukampix t’aqanakam, proyectos ukat yatiñanakax jasakiw wakicht’añama.",
+    "feature2Title": "Temas Costumbres ukanaka",
+    "feature2Desc": "Plantillas profesionales ukanakat ajlliñamawa jan ukax juma pachpaw uñt’ayasiñama.",
+    "feature3Title": "Chiqpach pachan Análisis",
+    "feature3Desc": "Uñt’irinakamar arknaqañamawa, kawkir proyectos ukanakas juk’amp uñjata, ukat juk’ampinaka."
+  },
+  "auth": {
+    "welcomeBack": "Wali sumaw Kutt’anipxäta",
+    "loginToContinue": "Ukat sarantañatakix cuentamar mantam",
+    "createAccount": "Cuenta luraña",
+    "joinCommunity": "Waranq waranq yaqha desarrolladores ukanakamp chikt’atäñamawa",
+    "fullName": "Phuqata Suti",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Correo electrónico ukan uñt’ayata",
+    "emailPlaceholder": "jumax@uñacht’awi.com",
+    "password": "Chimpu",
+    "passwordPlaceholder": "•••••••• ukax mä juk’a pachanakanwa.",
+    "rememberMe": "Nayat amtasipxam",
+    "forgotPassword": "¿Contraseña armasxtati?",
+    "signIn": "Uñt’ayasiñataki",
+    "signingIn": "Uñt’ayañataki...",
+    "signUp": "Uñt’ayasiñataki",
+    "signingUp": "Uñt'ayasiñatakix...",
+    "noAccount": "¿Janiw mä cuentanïktati?",
+    "hasAccount": "¿Nayratpach mä cuentanïtati?",
+    "passwordRules": {
+      "title": "Contraseña ukax akanakawa:",
+      "length": "Ukhamaraki 8 chimpunaka",
+      "uppercase": "Mä jach’a qillqa (A-Z) .",
+      "number": "Mä jakhüwi (0-9) .",
+      "symbol": "Mä chimpu (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Cartera lurayiri",
+      "templates": "Plantillas & Temas ukanaka",
+      "settings": "Ukax mä juk’a pachanakanwa",
+      "collapse": "Ukax Lado Barra ukankiwa",
+      "overview": "Mä juk’a uñakipaña",
+      "profileSettings": "Perfil ukan utt’ayatanakapa",
+      "customDomain": "Dominio Personalizado ukax mä juk’a pachanakanwa",
+      "feedback": "Arunaka"
+    },
+    "header": {
+      "viewLive": "Uñxatt’añataki Live",
+      "welcome": "Aski jutäwi,",
+      "logout": "Ukax mä juk’a pachanakanwa",
+      "builder": "Uta lurañ yatiri",
+      "livePortfolio": "Cartera Viva ukax mä jach’a uñacht’äwiwa",
+      "live": "Jakaña"
+    },
+    "logoutModal": {
+      "title": "Ukax mä juk’a pachanakanwa",
+      "message": "¿Chiqapuniti cuentamat mistuñ munasmati? ",
+      "cancel": "Kansilaña",
+      "confirm": "Jisa, Uñt’ayasiñataki"
+    },
+    "slugModal": {
+      "title": "URL de Cartera ukax ajlliñamawa",
+      "message": "Aka URL ukax cartera ukar uñt’ayañatakiw uñt’ayasini. ",
+      "slugPlaceholder": "juma-suti",
+      "availability": "Ukax akhamawa:",
+      "available": "Utjiri",
+      "unavailable": "Janiw kunas utjkiti",
+      "checking": "Uñakipt’añataki...",
+      "mustFormat": "Letranaka, jakhunaka, chimpunaka (-) ukanakakiw utjaspa.",
+      "cancel": "Kansilaña",
+      "save": "URL ukar qillqt’aña",
+      "usernameUrl": "Username URL",
+      "helpText": "Jisk’a qillqanaka, jakhunaka, chimpunaka. ",
+      "validation": {
+        "empty": "Slug cannot be empty.",
+        "min3": "Jisk’a 3 chimpunaka.",
+        "max30": "Jilapachaxa 30 chimpunaka.",
+        "format": "Jisk’a qillqanaka, jakhunaka, chimpunaka (-). "
+      }
+    },
+    "loadingPortfolio": "Cartera ukan yatiyawinakap apkatañataki...",
+    "overview": {
+      "greetings": {
+        "morning": "Suma alwa",
+        "afternoon": "Suma Tarde",
+        "evening": "Suma Tarde",
+        "night": "Suma Arumax"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Luriri",
+        "desc1": "DevFolio ukan tabla de mando ukarux walikpun jutapxtaxa. Uka cartera ukaxa uñakipatawa",
+        "desc2": "jaqi. ¡Trabajaskakim!",
+        "editPortfolio": "Cartera de Editar ukax mä juk’a pachanakanwa"
+      },
+      "stats": {
+        "totalVisitors": "Taqi Uñt’atanaka",
+        "projectViews": "Uñakipata (Proyecto) 1.1.",
+        "activeSessions": "Sesión Activa ukax mä juk’a pachanakanwa",
+        "totalLabel": "Taqi kuna"
+      },
+      "setup": {
+        "title": "Progreso de Configuración ukax mä juk’a pachanakanwa",
+        "completed": "¡Cartera ukax phuqhatänwa! 🎉 ukax mä juk’a pachanakanwa",
+        "inProgress": "Pasos ukaxa cartera perfecta ukaru puriñapataki.",
+        "profile": {
+          "title": "Perfil phuqhata",
+          "desc": "Suti, bio ukat perfil foto ukanakamp yapxataña."
+        },
+        "section": {
+          "title": "T’aqanaka yapxataña",
+          "desc": "Activación ukaxa 1 t’aqa cartera ukanxa."
+        },
+        "project": {
+          "title": "Proyecto ukar yapxataña",
+          "desc": "Mä 1 suma proyectos ukar mantañamawa."
+        },
+        "publish": {
+          "title": "Cartera uñt’ayaña",
+          "desc": "Mä URL costumbre ukar uñt’ayaña, ukhamat jaqinakan uñt’ayasiñapataki."
+        }
+      },
+      "topProjects": {
+        "title": "Proyectos Jila Uñt’atanaka",
+        "desc": "Uñt’irinakan nayraqatapanx lurawinakam phuqhawi.",
+        "viewAll": "Taqi kuna uñjaña",
+        "empty": "Jichhakamax janiw kuna uñakipañ datos ukax proyecto ukatakix utjkiti."
+      }
+    },
+    "themes": {
+      "title": "Plantillas & Temas",
+      "subtitle": "Cartera pública ukan uñtawipa ukhamaraki uñtawipa uñt’ayaña.",
+      "reset": "Ukax mä default ukhamawa",
+      "save": "Mayjt’awinak imaña",
+      "saving": "Qullqi imaña...",
+      "chooseTemplate": "Mä Plantilla",
+      "primaryColor": "Nayraqata Color",
+      "typography": "Tipografía ukax",
+      "appearance": "Uñnaqapa",
+      "corners": "Esquinanaka & Fronteranaka",
+      "successTitle": "Ukax wali askiwa",
+      "successMessage": "Tema preferencias ukax suma machaqar tukuyatawa",
+      "errorTitle": "Pantjasiwi",
+      "errorMessage": "Janiw tema preferencias ukanakax qhispiyatäkiti",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista ukax",
+          "desc": "Q’uma ukat sapuru diseño ukax contenido ukar uñtatawa."
+        },
+        "developerDark": {
+          "name": "Desarrollador Ch'amaka",
+          "desc": "Ch’amaka tema perfecto uñacht’ayañataki código ukat pilas tecnológicas."
+        },
+        "creative": {
+          "name": "Uñstayaña",
+          "desc": "Diseñadores ukat creativos ukanakatakix ch’amanchatawa ukat saminakani."
+        },
+        "executive": {
+          "name": "Ejecutivo ukaxa",
+          "desc": "Diseño profesional ukhamaraki formal ukanakaxa profesionales empresariales ukanakataki."
+        },
+        "bentoGrid": {
+          "name": "Bento Rejilla ukax",
+          "desc": "Jichha pacha Apple-estilo rejilla uñstayawix kunayman yatiñanak sum uñacht’ayi."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalismo ukax",
+          "desc": "Fronteras negras ukat colores de alto contraste ukax mä moda, jan disculpa uñt’ayañataki."
+        },
+        "glassmorphism": {
+          "name": "Vidriomorfismo ukax",
+          "desc": "Efectos de vidrio helado ukax gradientes coloridos ukanakx mä UI moderno elegante ukatakiw."
+        },
+        "linkInBio": {
+          "name": "Link ukax Bio",
+          "desc": "Diseño vertical compacto ukax pantalla móvil ukat medios sociales ukanakatakiw optimizado."
+        }
+      },
+      "appearances": {
+        "light": "Qhana",
+        "dark": "Ch’amaka",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Ukax wali ch’amawa",
+        "rounded": "Muyuña",
+        "pill": "Ukax mä pastilla"
+      }
+    },
+    "feedback": {
+      "title": "Ukax mä juk’a pachanakanwa",
+      "subtitle": "Yanapt’apxita juk’amp suma lurañataki iwxt’awinaka, k’umiwi, jan ukax aka aplicación ukan jan walt’awinak yatiyasa.",
+      "categoryLabel": "Ukax mä jamuqawa",
+      "messageLabel": "Yatiyawi Detalles",
+      "messagePlaceholder": "Kuna amtawinaktix yatiyañ munkta ukanakx juk’amp yatiyapxita...",
+      "imageLabel": "Uñacht’awinaka (Opcional)",
+      "imagePlaceholder": "Uñacht’äwi jan ukax pantalla uñacht’ayañatakiw ch’iqt’añama",
+      "submitting": "Ukax...",
+      "submitBtn": "Ukax mä juk’a pachanakanwa",
+      "categories": {
+        "suggestion": "Iwxt’awinaka & Amuyunaka",
+        "bug": "Bug / Pantjasiw yatiyawi",
+        "criticism": "K'arinak uñt'ayaña",
+        "other": "Yaqhanakax"
+      },
+      "imageErrorTitle": "Pantjasiwi",
+      "imageErrorMessage": "Yaqhip qillqatanakax janiw satawa kunatix janiw yanapt’atäkiti uñacht’awinak formatos (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Ukax wali askiwa",
+      "successMessage": "¡Jumanakan amuyunakamat yuspajarapxsma! Yatiyäwix apayatäxiwa.",
+      "submitErrorTitle": "Ukax janiw phuqhaskiti",
+      "submitErrorMessage": "Mä pantjasiwiw utjawayi, kunawsatix amuyunakax apayapki ukhaxa. Ukhamaraki, mayampi yant’apxañani."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Nayat sipansa",
+      "skills": "Awiliraranak",
+      "projects": "Proyectos ukanaka",
+      "workExperience": "Irnaqawi tuqita yatxataña",
+      "orgExperience": "Organización ukan experienciapa",
+      "education": "Yatichäw",
+      "certifications": "Yatichawi & Certificación ukanaka",
+      "contact": "Nayampi aruskipt’aña"
+    },
+    "editor": {
+      "profileInfo": "Perfil ukan yatiyawipa",
+      "saving": "Qullqi imaña...",
+      "profilePhoto": "Perfil Foto",
+      "clickToUpload": "Ukax mä juk’a pachanakanwa (JPG, PNG)",
+      "fullName": "Phuqata Suti",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Desarrollador ukax jichha pacha web apps ukanakan lurañ munatapawa...",
+      "location": "Kawkhachiqa",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Jiniru",
+      "selectGender": "Género ukxa ajlliñamawa",
+      "male": "Chacha",
+      "female": "Warmi",
+      "custom": "Isinaka",
+      "customPlaceholder": "Ukax género costumbre ukar qillqt’atawa...",
+      "uploadCv": "CV ukar apkatañamawa",
+      "cvFormat": "(DOC jan ukax PDF)",
+      "preview": "Nayraqata uñakipaña",
+      "remove": "Unxtayaña",
+      "clickToUploadCv": "PDF jan ukax DOC ukar apkatañatakix ch’iqt’añamawa",
+      "sections": "T’aqanaka",
+      "removeSelected": "Ukaxa Ajllitanakawa",
+      "confirmRemove": "Confirmar Ukax mä juk’a pachanakanwa",
+      "addSection": "T’aqa yapxataña",
+      "addAllSections": "Taqi T’aqanaka yapxataña",
+      "noSections": "Janiw kuna t’aqanakas utjkiti",
+      "clickToAdd": "\"+ T'aqa yapxataña\" ukxaru ch'iqt'aña qalltañataki",
+      "selectAll": "Taqi ukanak ajlliñamawa",
+      "selected": "Ajllitanaka",
+      "dragToReorder": "T’aqanak wasitat ordenañatakix ayxatañamawa",
+      "livePreview": "Jakañ Nayrïr uñtawi",
+      "addSectionsToBuild": "Cartera lurañatakix t’aqanak yapxatañamawa",
+      "now": "Jichha",
+      "current": "Jichha",
+      "noExpiry": "Janiwa Expiración ukaxa utjkiti",
+      "see": "Uñjaña",
+      "position": "Pusisyuna",
+      "degree": "Kraru",
+      "certification": "Certificación sata uñt’ayawi",
+      "sectionsForm": {
+        "about": {
+          "label": "Juma pachpat qhanañcht’aña",
+          "placeholder": "Juma pachpat yatiyapxita, sarnaqäwimat, munañanakama ukat yatiñanakamat yatiyapxita..."
+        },
+        "skills": {
+          "addPlaceholder": "Yatiña qillqt’aña ukatxa Enter... ukxaru ch’iqt’aña."
+        },
+        "projects": {
+          "title": "Proyecto Suti",
+          "titlePlaceholder": "Proyecton sutipax...",
+          "url": "Proyecto URL ukax mä jach’a uñacht’äwiwa",
+          "description": "Qillqawi",
+          "descriptionPlaceholder": "Mä jisk’a qhanañchäwiw uka proyecto...",
+          "uploadThumbnail": "Proyecto ukan uñacht’äwipa",
+          "addProject": "Proyecto ukar yapxataña",
+          "projectNum": "Amta #",
+          "currentProject": "Akax mä proyecto ukaw nayax irnaqaskta"
+        },
+        "work": {
+          "company": "Empresa/Agencia ukaxa mä juk’a pachanakwa lurasi",
+          "companyPlaceholder": "Empresan sutipax...",
+          "position": "Cargo/Título ukax mä juk’a pachanakanwa",
+          "positionPlaceholder": "Juman cargomax...",
+          "employmentType": "Kuna kasta irnaqawi",
+          "location": "Kawkhachiqa",
+          "locationPlaceholder": "Marka, Marka...",
+          "startDate": "Qalltaña",
+          "endDate": "Tukuyata",
+          "currentWork": "Jichha pachanx wali irnaqaskta",
+          "description": "Qillqawi",
+          "descriptionPlaceholder": "Irnaqawi uñt’ayawi ukhamaraki lurawinakapa...",
+          "skills": "Awilirara",
+          "addExperience": "Irnaqawi Experiencia yapxataña",
+          "experienceNum": "Yatxata #",
+          "dateError": "Tukuyañ urux janiw qallta urut sipan nayrax utjkaspati"
+        },
+        "org": {
+          "organization": "Organización ukan sutipa",
+          "orgPlaceholder": "BEM jach’a yatiqañ uta...",
+          "role": "Papel/Posición ukax mä juk’a pachanakanwa",
+          "rolePlaceholder": "División Jilïr Irpiri...",
+          "addOrg": "Experiencia Organizacional ukampi yapxataña",
+          "orgNum": "Tamachawi #"
+        },
+        "edu": {
+          "institution": "Yatiqañ Utanaka",
+          "institutionPlaceholder": "Campus jan ukax yatiqañ utan sutipa...",
+          "degree": "Titulu",
+          "degreePlaceholder": "S1, jach’a yatiqañ uta, ukat juk’ampinaka...",
+          "major": "Departamento/Campo de Estudio uka tuqita",
+          "majorPlaceholder": "Ingeniería Informática ukax...",
+          "gpa": "GPA (janiw wakiskiti) .",
+          "currentStudy": "Nayax wali akan yatiqaskta",
+          "descriptionPlaceholder": "Yatxatañ pachanx lurawinakas ukat askinak jikxatañas...",
+          "addEdu": "Yatichäwi yapxataña",
+          "eduNum": "Yatichäw #"
+        },
+        "cert": {
+          "name": "Certificación / Yatichawi sutipa",
+          "namePlaceholder": "Certificación ukan sutipax...",
+          "issuer": "Yatiyiri",
+          "issuerPlaceholder": "Institución editorial ukax...",
+          "issueDate": "Qalltaña (Uñt’ayaña uru) .",
+          "issueDatePlaceholder": "Uñt’ayasiñ uru ajlliñamawa...",
+          "expiryDate": "Tukuyata (Período Válido) 1.1.",
+          "expiryDatePlaceholder": "Uka urux tukusiñap ajlliñamawa...",
+          "noExpiry": "Aka certificado ukaxa janiwa kuna pachasa tukusiñapäkiti",
+          "url": "URL ukax credencial ukan uñt’ayatawa",
+          "uploadThumbnail": "Certificado / Yatichawi uñacht’awi",
+          "uploadThumbnailLimit": "Certificado ukan uñacht’äwip apkataña (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Certificación ukampi yapxataña",
+          "certNum": "Certificación ukaxa # ."
+        },
+        "contact": {
+          "contactNum": "Kuntaktu #",
+          "platform": "Palataphurma",
+          "displayText": "Uñacht’ayaña Texto",
+          "displayTextPlaceholder": "sañäni, you@email.com jan ukax @username",
+          "url": "Ukax (URL) ukankiwa.",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (janiw 0 irpirikiti) .",
+          "urlPlaceholderEmail": "sañäni, jumax@email.com ukaruw qillqt’asma",
+          "urlPlaceholderWebsite": "sañäni, https://...",
+          "urlPlaceholderDefault": "sañäni, apnaqirin sutipa",
+          "addContact": "Contacto ukar yapxataña"
+        },
+        "common": {
+          "months": {
+            "1": "chinuqa",
+            "2": "Anata",
+            "3": "Achuqa",
+            "4": "Qasawi",
+            "5": "Atiwa",
+            "6": "Mara t'aqa",
+            "7": "Willka kuti",
+            "8": "Llumpaqa",
+            "9": "Sta qallta",
+            "10": "Taypi sata",
+            "11": "Lapaka",
+            "12": "Jallu qallta"
+          },
+          "month": "Phaxsi",
+          "year": "Mara",
+          "invalidDate": "Jan wali Tukuyañ Phaxsi",
+          "words": "arunaka"
+        }
+      },
+      "sure": "Sijuru",
+      "deletePhotoTitle": "¿Perfil Foto chhaqtayaña?",
+      "deletePhotoMessage": "¿Jumax aka perfil foto chhaqtayañ munasmati?",
+      "cancel": "Kansilaña",
+      "delete": "Phiskhsuña"
+    },
+    "cropper": {
+      "chooseBackground": "Ukax Fondo ukan uñt’ayatawa",
+      "cropPhoto": "Fotom khuchhuqaña",
+      "useOriginal": "Original apnaqaña",
+      "backgroundPresets": "Ukax mä juk’a pachanakanwa Presets",
+      "none": "Janiwkhitisa",
+      "uploadBackground": "Ukax mä juk’a pachanakanwa",
+      "cancel": "Kansilaña",
+      "savePhoto": "Foto imaña",
+      "zoom": "Zoom ukax mä jach’a uñacht’äwiwa",
+      "rotationTilt": "Rotación & Inclinación ukax mä juk’a pachanakanwa",
+      "resetRotation": "Ukaxa 0° ukhamawa",
+      "center": "Chika",
+      "rotateLeft": "Ukaxa -90° ukhamawa",
+      "rotateRight": "Ukaxa +90° ukhamawa",
+      "removeBackground": "Ukaxa Fondo satawa",
+      "processing": "Uñacht’äwim uñakipt’asax, suyt’apxam..."
+    },
+    "cvPreview": {
+      "title": "CV Nayraqata uñakipaña",
+      "downloadCv": "CV ukar apkatañamawa",
+      "download": "Apaqaña",
+      "wordCannotPreview": "Word qillqatanakax (.doc/.docx) janiw nativo ukham uñakipt’atäkaspati. ",
+      "downloadFile": "CV Archivo ukar apkatañamawa",
+      "back": "Qhipa",
+      "mobileMessage": "Uka CV qillqatax nayraqat uñakipañatakix apkatañamawa.",
+      "preview": "Nayraqata uñakipaña CV",
+      "wordPreviewTitle": "Word Documento Nayraqata uñakipaña",
+      "wordPreviewMessage": "Word qillqatanakax (.doc/.docx) janiw nativo ukham uñakipt’atäkaspati. Uñakipt’añatakix uka archivo apkatañamawa."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Mä jisk’a qhanañcht’awi qillqt’am juma pachpata, kunatix munkta ukat carrera amtanakama..."
+    },
+    "skills": {
+      "placeholder": "Qillqañ yatiñan sutipa...",
+      "add": "Yapxataña",
+      "enterToAdd": "Enter ukxaru ch’iqt’aña",
+      "noSkills": "Janiw kuna yatiñanakas yapxatatäkiti."
+    },
+    "projects": {
+      "projectName": "Proyecto Suti",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "Proyecto URL ukax mä jach’a uñacht’äwiwa",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Tuykama",
+      "startMonth": "Qalltaña Phaxsi",
+      "startYear": "Qalltaña Mara",
+      "endMonth": "Tukuyañ Phaxsi",
+      "endYear": "Tukuyañ Mara",
+      "currentlyWorking": "Jichhax uka tuqit irnaqasktanwa",
+      "description": "Qillqawi",
+      "descriptionPlaceholder": "Proyecto, lurawi, ukat lurawinakat qhanañcht’añamawa...",
+      "technologies": "Tecnologías ukanakax apnaqatawa",
+      "addProject": "Proyecto ukar yapxataña",
+      "image": "Proyecto ukan uñacht’äwipa",
+      "removeImage": "Uñacht’äwi apsuña",
+      "uploadImage": "Uka jamuq apkatañatakix ch’iqt’añamawa"
+    },
+    "work": {
+      "company": "Empresa/Institución ukax mä jach’a empresawa",
+      "companyPlaceholder": "Empresan sutipax...",
+      "role": "Papel/Posición ukax mä juk’a pachanakanwa",
+      "rolePlaceholder": "Juman cargomax...",
+      "jobType": "Tipo de Trabajo ukax mä juk’a pachanakanwa",
+      "selectJobType": "Uka kasta ajlliñani",
+      "fullTime": "Sapürunjam irnaqtʼaña",
+      "partTime": "Chika uru",
+      "contract": "Kunratu",
+      "internship": "Irnaqaw yant'a",
+      "freelance": "Ukax mä independiente ukhamawa",
+      "location": "Kawkhachiqa",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Tuykama",
+      "currentlyWorking": "Jichhax aka chiqan irnaqaski",
+      "description": "Irnaqawi tuqit qhanañcht’awi",
+      "descriptionPlaceholder": "Jach’a lurawinakam ukat lurawinakam qhanañcht’am...",
+      "skills": "Yatiñanaka específicos ukanaka",
+      "addExperience": "Experiencia yapxataña"
+    },
+    "org": {
+      "organization": "Organización ukan sutipa",
+      "organizationPlaceholder": "Organización ukan sutipax...",
+      "role": "Papel/Posición ukax mä juk’a pachanakanwa",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Tuykama",
+      "periodFormat": "jan ukax Formato Libre (e.g. 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Jichhax activo ukhamawa",
+      "description": "Luräwi Qhanancht’awi",
+      "descriptionPlaceholder": "Luräwinakam jan ukax yanapt’awinakamat qhanañcht’añamawa...",
+      "addExperience": "Experiencia yapxataña"
+    },
+    "education": {
+      "institution": "Institucionan Sutipa",
+      "institutionPlaceholder": "Yatiqañ utan jan ukax jach’a yatiqañ utan sutipa...",
+      "degree": "Grado/Nivel ukax mä juk’a pachanakanwa",
+      "degreePlaceholder": "e.g. ",
+      "major": "Mayor/Campo de Estudio uka tuqit yatxataña",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Grado ukat juk’ampinaka",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Yatichawi Kuna pachakamasa",
+      "periodFormat": "jan ukax Formato Libre (e.g. 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Jichhax aka chiqan yatxatatäskiwa",
+      "description": "Luräwinaka / Jach’añchawinaka",
+      "descriptionPlaceholder": "Yatiqañ tuqit lurawinakat, organizacionanaka, jan ukax jach’añchäwinak katuqatanakat qhanañcht’añamawa...",
+      "addEducation": "Yatichäwi yapxataña"
+    },
+    "cert": {
+      "name": "Certificación Suti",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Organización de Emisora ​​ukaxa mä juk’a pachanakwa lurasi",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Uñt’ayawi Uraqi",
+      "expiryDate": "Valido Jisk’a",
+      "noExpiry": "Aka credencial ukaxa janiwa tukuskiti",
+      "yearPlaceholder": "jan ukax Maran (e.g. 2023) .",
+      "credentialUrl": "URL ukax credencial ukan uñt’ayatawa",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Ukampi chikt’ata Yatiñanaka",
+      "addCertification": "Certificación ukampi yapxataña",
+      "image": "Uñacht’äwi/Logotipo",
+      "removeImage": "Uñacht’äwi apsuña",
+      "uploadImage": "Uka jamuq apkatañatakix ch’iqt’añamawa"
+    },
+    "common": {
+      "months": {
+        "1": "chinuqa",
+        "2": "Anata",
+        "3": "Achuqa",
+        "4": "Qasawi",
+        "5": "Atiwa",
+        "6": "Mara t'aqa",
+        "7": "Willka kuti",
+        "8": "Llumpaqa",
+        "9": "Sta qallta",
+        "10": "Taypi sata",
+        "11": "Lapaka",
+        "12": "Jallu qallta"
+      },
+      "month": "Phaxsi",
+      "year": "Mara",
+      "invalidDate": "Jan wali Tukuyañ Phaxsi",
+      "words": "arunaka"
+    }
+  },
+  "settings": {
+    "title": "Ukax mä juk’a pachanakanwa",
+    "subtitle": "Perfil de cartera ukatxa preferencias ukanaka apnaqaña",
+    "tabs": {
+      "profile": "Nayan Perfiljaxa",
+      "security": "Jark'aqawi",
+      "personalization": "Personalización ukaxa mä juk’a pachanakwa lurasi"
+    },
+    "profile": {
+      "infoTitle": "Yatiyawinak Jach’a Yatiqañ Uta",
+      "photo": "Perfil Foto",
+      "uploadPhoto": "Foto mayjt’ayaña",
+      "fullName": "Phuqata Suti",
+      "fullNamePlaceholder": "John Doe sat jilataw ukham luräna",
+      "email": "Correo electrónico ukan uñt’ayata",
+      "emailPlaceholder": "john@uñacht’äwi.com",
+      "emailHelp": "Correo electrónico ukax mantañatakiw apnaqasi ukatx janiw jaqinak nayraqatan uñacht’ayatäkiti.",
+      "portfolioUrl": "URL ukax cartera ukankiwa",
+      "saveProfile": "Perfil ukar qillqt’aña",
+      "save": "Perfil ukar qillqt’aña",
+      "accountCreated": "Cuenta Uñstayata",
+      "lastLogin": "Qhipa Uñt’ayawi",
+      "oauthNotice": "Aka perfil ukax {{provider}} ukan uñt’ayatawa. Perfil mayjt’awinakaxa lurañapawa servicios ukanaka tuqi."
+    },
+    "security": {
+      "changePassword": "Contraseña mayjt’ayaña",
+      "currentPassword": "Jichha pacha Contraseña",
+      "currentPasswordPlaceholder": "•••••••• ukax mä juk’a pachanakanwa.",
+      "newPassword": "Machaq Contraseña",
+      "newPasswordPlaceholder": "•••••••• ukax mä juk’a pachanakanwa.",
+      "confirmPassword": "Machaq Contraseña uñt’ayaña",
+      "confirmPasswordPlaceholder": "•••••••• ukax mä juk’a pachanakanwa.",
+      "passwordRules": {
+        "length": "Ukhamaraki 8 chimpunaka",
+        "uppercase": "Mä jach’a qillqa (A-Z) .",
+        "number": "Mä jakhüwi (0-9) .",
+        "symbol": "Mä chimpu (!@#$%^&*)"
+      },
+      "passwordTitle": "Chimpu",
+      "updatePassword": "Contraseña ukar machaqar tukuyaña",
+      "additionalSecurity": "Yaqha Seguridad ukaxa",
+      "twoFactor": "Pä Factor ukan chiqanchawipa (2FA) 1.1.",
+      "twoFactorDesc": "Mä yaqha OTP código apnaqasa cuentam jark’aqañamawa.",
+      "activeSessions": "Sesiones Activas ukanaka",
+      "activeSessionsDesc": "Sapa kutiw dispositivos ukar mantañ uñjañax jaysaña.",
+      "publicVisibility": "Visibilidad Pública ukaxa",
+      "hideFromSearch": "Motores de búsqueda ukanakat Cartera ukar imantaña",
+      "hideFromSearchDesc": "Google ukax cartera pública ukan uñt’ayasiñapatakiw jark’aqasi.",
+      "disable2fa": {
+        "title": "2FA ukax jan ch’amanchatawa",
+        "description": "¿Jumaxa pä factor autenticación jist’antañ munasmati?",
+        "confirmPasswordLabel": "Uka chiqaru uñt’ayañatakixa contraseña qillqt’aña",
+        "currentPasswordPlaceholder": "Jichha pachanxa",
+        "cancelButton": "Cancelar sañ muni",
+        "confirmButton": "2FA ukax jan ch’amanchatawa",
+        "incorrectPassword": "Jan wali arunaka."
+      },
+      "setup2fa": {
+        "step1Title": "1. Código QR ukar escanear",
+        "step1Desc": "Autentidor app jist’arañamawa ukatxa aka QR código escanear:",
+        "unableToScan": "¿Janiw escanear lurañjamäkiti? Ukaxa setup key ukampi luratawa",
+        "step2Title": "2. Código uñakipaña",
+        "step2Desc": "Uka 6 chimpunakax app ukan luratawa:",
+        "cancelButton": "Kansilaña",
+        "enableButton": "2FA ukar ch’amanchaña",
+        "invalidLength": "Ukhamaraki, 6 chimpunaka uñt’ayaña.",
+        "invalidCode": "Jani chiqapa chiqapa uñakipañataki. Ukhamaraki, mayampi yant’apxañani."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Aru Controles ukanaka",
+      "appLanguage": "App Aru uñt’ayaña",
+      "layoutTitle": "Layout & Tipografía ukax mä juk’a pachanakanwa",
+      "layoutStyle": "Estilo de Layout ukax mä juk’a pachanakanwa",
+      "layoutModern": "Estilo Moderno (Predeterminado) ukax mä juk’a pachanakanwa.",
+      "layoutClassic": "Estilo Clásico ukax mä jach’a uñacht’äwiwa",
+      "layoutMinimalist": "Estilo Minimalista ukax mä juk’a pachanakanwa",
+      "fontSize": "App Font ukax mä jach’a uñacht’äwiwa",
+      "fontSmall": "Jisk'a",
+      "fontNormal": "Normal (Medio) ukat juk’ampinaka.",
+      "fontLarge": "Jach'a",
+      "searchLanguage": "Uñakipt’añataki aru...",
+      "languageNotFound": "Aruxa janiwa jikxataskiti",
+      "layoutElegant": "Estilo Elegante ukax mä jach’a uñacht’äwiwa"
+    },
+    "saveChanges": "Mayjt’awinak imaña",
+    "cancel": "Kansilaña",
+    "appSettings": "App ukan utt’ayata",
+    "logoutConfirmTitle": "Ukax Logout ukar chiqanchañawa",
+    "logoutConfirmDesc": "¿Jumaxa sistema ukata mistuñ munasmati?",
+    "logoutConfirmYes": "Jisa, Uñt’ayasiñataki",
+    "generalError": "Mä pantjasiwiw utjawayi. ",
+    "success": "Kusapana",
+    "preferencesSaved": "App preferencias ukax suma qhispiyatawa.",
+    "header": "Aplicación ukan utt’ayatanakapa",
+    "logout": {
+      "title": "Uñt’ayasiñatakix Confirmación",
+      "message": "¿Jumaxa sistema ukata mistuñ munasmati?",
+      "confirm": "Jisa, Uñt’ayasiñataki"
+    },
+    "about": {
+      "title": "Aplicación tuqitxa",
+      "subtitle": "Plataforma de Constructor de Cartera ukax mä jach’a uñacht’äwiwa",
+      "version": "Wirsyuna",
+      "description": "DevFolio ukax mä jichha pachan cartera lurañ plataforma ukawa, ukax desarrolladores, diseñadores ukat profesionales lurayirinakatakiw wakicht’ata. ",
+      "license": "Licencia & Derechos de Autor ukax mä juk’a pachanakanwa",
+      "copyright": "© 2026 DevFolio Inc. Taqi kunas wali askiwa.",
+      "developer": "Uñstayiri",
+      "developedBy": "Rifqi Naradata jupan luratawa"
+    },
+    "deleteAccount": {
+      "title": "Permanentemente Cuenta chhaqtayaña",
+      "menuItem": "Cuenta chhaqtayaña",
+      "successTitle": "Ukax wali askiwa",
+      "successMessage": "Mä cuenta chhaqtayañ chiqanchañ correo electrónico ukaw apayani.",
+      "errorTitle": "Ukax janiw phuqhaskiti",
+      "errorMessage": "Janiw chiqanchañ correo electrónico apayankiti.",
+      "confirmationMessage": "¿Chiqapuniti cuentam wiñayatak chhaqtayañ munasmati?",
+      "warningMessage1": "Mä correo electrónico ukax cuenta chhaqtayañ chiqanchañatakiw katuqatäni.",
+      "warningMessage2": "Chiqapa uñjatäni ukhaxa, taqi yatiyawinaka (cartera, proyectos, estadísticas) wiñayataki chhaqtayatäni ukatxa janiwa kutt’ayatäkaspati.",
+      "cancel": "Ukax mä juk’a pachanakanwa",
+      "confirm": "Confirmación ukaxa"
+    },
+    "toasts": {
+      "toastError": "Pantja",
+      "toastSuccess": "Kusapana",
+      "toastSetup2FAFailed": "2FA ukar uñt’ayañax janiw phuqhaskiti. Ukhamaraki, mayampi yant’apxañani.",
+      "toast2FAEnabled": "Pä factor uñt’ayawixa ch’amanchatawa.",
+      "toast2FADisabled": "Pä factor ukan chiqanchawipax jan ch’amanchatawa.",
+      "toastSessionEnabled": "Sesión activa ukan uñjañax ch’amanchatawa.",
+      "toastSessionDisabled": "Sesión activa ukan uñjañax jan ch’amanchatawa.",
+      "toastSetupKeyCopied": "Setup llave ukax portapapeles ukar copiatawa."
+    },
+    "privacy": {
+      "title": "Política de Privacidad ukax mä juk’a pachanakanwa",
+      "updateDate": "Qhipa uñakipäwi: 15 uru lapaka phaxsit 2026 marana",
+      "intro": "Aka Política de Privacidad ukax qhanancht’iwa kunjams DevFolio ukax apthapi, apnaqi ukat jark’aqaraki kunapachatix jiwasan lurawinakas apnaqaski ukhaxa.",
+      "section1Title": "1. Yatiyawinak Apthapiñasawa",
+      "section1Content": "Mä cuenta luraña, cartera luraña, ukat yanapt’awinakasar jawst’aña, chiqak yatiyawinak apthapipxta. ",
+      "section2Title": "2. Yatiyawinaka apnaqaña",
+      "section2Content": "Yatiyawinakaxa apnaqatarakiwa, uñjañataki, ukhamaraki churañataki lurawinakasa, ukhamaraki jumampi aruskipañataki cuenta jan ukaxa servicios ukanakata.",
+      "section3Title": "3. Datos Seguridad uka tuqita",
+      "section3Content": "Jiwasax yatiyawinakam jan khitin jark’atäñapataki, jan yatiyañapataki jan ukax t’unjañapatakiw wakiskir seguridad amtanakar phuqhapxta."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Confirmación token ukax janiw jikxataskiti.",
+    "defaultError": "Cuenta chhaqtayañax janiw ch’amäkiti. Uka token ukax inas tukusxchi.",
+    "loadingTitle": "Cuenta chhaqtayaña...",
+    "loadingMessage": "Suyt’apxam, jiwasax mayiwinakam phuqhasktanwa.",
+    "successTitle": "Cuenta Suma Chhaqtayata",
+    "successMessage": "Taqi datos ukanakax wiñayatakiw chhaqtayatäxi. Ukax mä redireccionamiento...",
+    "errorTitle": "Janiw Cuenta Chhaqtayañakiti",
+    "backToHome": "Utar kuttʼañamawa"
+  },
+  "forgotPassword": {
+    "minutes": "minutonaka",
+    "seconds": "segundonaka",
+    "success": "Ukax wali askiwa",
+    "otpSentToEmail": "Mä código OTP ukax correo electrónico ukar apayatänwa.",
+    "failed": "Ukax janiw phuqhaskiti",
+    "emailNotFound": "Correo electrónico ukax janiw jikxataskiti.",
+    "emailThirdParty": "Aka correo electrónico ukax kimsïr jaqi tuqiw qillqantatäski.",
+    "genericError": "Mä pantjasiwiw utji. Ukhamaraki, mayampi yant’apxañani.",
+    "otpVerified": "OTP ukan chimpunakapax wali suma chiqanchatawa.",
+    "otpExpired": "OTP ukax tukusxiwa. Mä machaq código mayiñamawa.",
+    "otpInvalid": "Jan wali OTP ukan chimpupa.",
+    "otpResent": "Mä machaq OTP código ukax correo electrónico ukar apayatänwa.",
+    "otpResendFailed": "OTP codigo ukar wasitat apayañax janiw ch’amäkiti. Ukhamaraki, mayampi yant’apxañani.",
+    "passwordResetSuccess": "Contraseña ukax wali askiwa. Machaq aruskipawimpiw mantasma.",
+    "passwordResetFailed": "Janiw kunas contraseña ukar kutt’ayañax wakiskiti.",
+    "backToLogin": "Ukax mä juk’a pachanakanwa",
+    "back": "Ukatxa",
+    "title": "Contraseña armasxtwa",
+    "description": "Uka correo electrónico ukaxa qillqantatawa cuentaman. Jiwasax mä código OTP ukaruw apayaniñäni, ukax contraseña ukar kutt’ayañataki.",
+    "emailLabel": "Ukax mä correo electrónico",
+    "sending": "Ukax...",
+    "sendOtp": "Ukax OTP Código",
+    "verifyOtpTitle": "Código OTP ukar chiqanchaña",
+    "verifyOtpDesc": "6 chimpunak qillqt’aña, ukax correo electrónico ukar apayatänwa, ukhamat identidad ukar uñt’ayañataki.",
+    "verifying": "Chiqañchaña...",
+    "verifyOtp": "OTP uñakipt’aña",
+    "resending": "Wasitat khithaña...",
+    "resendOtp": "OTP Código",
+    "resendCodeIn": "Uka codigox",
+    "newPasswordTitle": "ukan wasitat apayani Machaq Contraseña luraña",
+    "newPasswordDesc": "Mä machaq, ch’aman contraseña lurañamawa, ukhamat cuentam jark’aqañataki.",
+    "newPasswordLabel": "Machaq Contraseña",
+    "min8Chars": "Jisk’a 8 chimpunaka",
+    "oneUpperCase": "1 jach’a qillqa (A-Z)",
+    "oneNumber": "1 jakhu (0-9)",
+    "oneSymbol": "1 chimpu (!@#$%^&*)",
+    "confirmPasswordLabel": "Uñt’ayaña Contraseña",
+    "passwordsDoNotMatch": "Contraseñanakax janiw kikipäkiti.",
+    "resettingPassword": "Contraseña ukar kutt’ayaña...",
+    "resetPassword": "Contraseña ukar kutt’ayaña"
+  },
+  "verifyEmail": {
+    "resendError": "Chiqañchäw correo electrónico ukar wasitat apayañax janiw ch’amäkiti. Ukhamaraki, mayampi yant’apxañani.",
+    "checkingStatus": "Uñakipt’añataki chiqapa uñakipaña...",
+    "title": "Uñakipt’añatakix Correo electrónico",
+    "description": "Jiwasax mä chiqanchañ correo electrónico ukaruw correo electrónico ukar apayanipxta. Ukhamaraki, correo electrónico jist’arañamawa ukatxa <1>\"Cuenta Confirmar\"</1> ukxaru ch’iqt’añamawa, ukhamata cuenta ukar ch’amanchañataki.",
+    "stepsTitle": "Ukax",
+    "step1": "Correo electrónico ukax (Gmail, Yahoo, ukat juk’ampinaka)",
+    "step2": "DevFolio ukan mä correo electrónico ukar thaqhapxam \"Activación de cuentas\"",
+    "step3": "Ukax \"Confirmar Cuenta\" ukaruw ch'iqt'añama, ukax correo electrónico",
+    "step4": "Ukax mä uñt’ayawiruw uñt’ayasi",
+    "resendSuccess": "ukar mantañataki ¡Uka correo electrónico de verificación ukax wasitat uñt’ayatawa!",
+    "resending": "Wasitat khithaña...",
+    "resendButton": "Uñakipt’añataki Correo electrónico",
+    "backToLogin": "Uñt’ayasiñatakix kutt’añamawa",
+    "footerNote": "¿Janiw uka correo electrónico katuqktati? Correo electrónico ukan <1>Spam</1> jan ukax <2>Junk</2> carpeta uñakipt’añamawa. Chiqanchawi chimpuxa <3>24 pachanaka</3> ukjakamawa."
+  }
+}

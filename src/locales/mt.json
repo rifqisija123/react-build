@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Karatteristiċi",
+    "templates": "Mudelli",
+    "pricing": "Ipprezzar",
+    "login": "Idħol",
+    "getStarted": "Ibda",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Il-bennej aħħari tal-portafoll għall-iżviluppaturi",
+    "title1": "Ibni l-professjonist tiegħek",
+    "title2": "portafoll fi",
+    "titleHighlight": "sekondi.",
+    "subtitle": "Dak kollu li għandek bżonn biex turi l-ħiliet, il-proġetti u l-esperjenza tiegħek. ",
+    "startBuilding": "Ibda Bini Issa",
+    "viewTemplates": "Ara l-Mudelli",
+    "fastDeployment": "Skjerament Mgħaġġel",
+    "liveStatus": "username.dev huwa ħaj!",
+    "featuresTitle": "Karatteristiċi qawwija",
+    "featuresSubtitle": "Aħna nipprovdu l-għodod kollha li għandek bżonn biex tispikka mill-folla u tlaħħaq ix-xogħol tal-ħolm tiegħek.",
+    "feature1Title": "Drag & Drop Bennej",
+    "feature1Desc": "Organizza faċilment is-sezzjonijiet, il-proġetti u l-ħiliet tiegħek bl-editur viżwali intuwittiv tagħna.",
+    "feature2Title": "Temi tad-dwana",
+    "feature2Desc": "Agħżel minn mudelli ddisinjati professjonalment jew oħloq id-dehra unika tiegħek stess.",
+    "feature3Title": "Analytics f'ħin reali",
+    "feature3Desc": "Issegwi l-viżitaturi tiegħek, ara liema proġetti jieħdu l-aktar attenzjoni, u aktar."
+  },
+  "auth": {
+    "welcomeBack": "Merħba Lura",
+    "loginToContinue": "Idħol fil-kont tiegħek biex tkompli",
+    "createAccount": "Oħloq Kont",
+    "joinCommunity": "Ingħaqad ma' eluf ta' żviluppaturi oħra",
+    "fullName": "Isem Sħiħ",
+    "fullNamePlaceholder": "eż. ",
+    "email": "Indirizz elettroniku",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Ftakar fija",
+    "forgotPassword": "Insejt il-password?",
+    "signIn": "Idħol",
+    "signingIn": "Iffirmar...",
+    "signUp": "Sign Up",
+    "signingUp": "Tirreġistra...",
+    "noAccount": "M'għandekx kont?",
+    "hasAccount": "Diġà għandek kont?",
+    "passwordRules": {
+      "title": "Il-password għandu jkun fiha:",
+      "length": "Mill-inqas 8 karattri",
+      "uppercase": "Ittra waħda kbira (A-Z)",
+      "number": "Numru wieħed (0-9)",
+      "symbol": "Simbolu wieħed (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Bennej tal-portafoll",
+      "templates": "Mudelli u Temi",
+      "settings": "Settings",
+      "collapse": "Kollass Sidebar",
+      "overview": "Ħarsa ġenerali",
+      "profileSettings": "Settings tal-Profil",
+      "customDomain": "Dominju tad-dwana",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Ara Live",
+      "welcome": "Merħba,",
+      "logout": "Logout",
+      "builder": "Bennej",
+      "livePortfolio": "Portafoll Ħaj",
+      "live": "Live"
+    },
+    "logoutModal": {
+      "title": "Logout",
+      "message": "Int żgur li trid toħroġ mill-kont tiegħek? ",
+      "cancel": "Ikkanċella",
+      "confirm": "Iva, Logout"
+    },
+    "slugModal": {
+      "title": "Agħżel il-URL tal-Portfolio Tiegħek",
+      "message": "Dan il-URL se jkun il-link uniku għall-portafoll tiegħek. ",
+      "slugPlaceholder": "ismek",
+      "availability": "Disponibbiltà:",
+      "available": "Disponibbli",
+      "unavailable": "Mhux disponibbli",
+      "checking": "Tiċċekkja...",
+      "mustFormat": "Jista' jkun fih biss ittri, numri u sing (-)",
+      "cancel": "Ikkanċella",
+      "save": "Ħlief URL",
+      "usernameUrl": "URL tal-isem tal-utent",
+      "helpText": "Ittri żgħar, numri, u daxxijiet. ",
+      "validation": {
+        "empty": "Slug ma jistax ikun vojt.",
+        "min3": "Minimu 3 karattri.",
+        "max30": "Massimu 30 karattru.",
+        "format": "Ittri żgħar, numri u singijiet biss (-). "
+      }
+    },
+    "loadingPortfolio": "Tagħbija data tal-portafoll...",
+    "overview": {
+      "greetings": {
+        "morning": "Il-Jum it-Tajjeb",
+        "afternoon": "Wara nofsinhar it-tajjeb",
+        "evening": "Wara nofsinhar it-tajjeb",
+        "night": "Il-Lejl it-Tajjeb"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Ħallieq",
+        "desc1": "Merħba fid-dashboard DevFolio. Il-portafoll tiegħek ġie meqjus minn",
+        "desc2": "persuna. Kompli aħdem!",
+        "editPortfolio": "Editja Portafoll"
+      },
+      "stats": {
+        "totalVisitors": "Total Viżitaturi",
+        "projectViews": "Ara (Proġett)",
+        "activeSessions": "Sessjoni Attiva",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Setup Progress",
+        "completed": "Il-portafoll tiegħek huwa komplut! 🎉",
+        "inProgress": "Passi għall-portafoll perfett.",
+        "profile": {
+          "title": "Tlesti Profil",
+          "desc": "Żid isem, bijo u ritratt tal-profil."
+        },
+        "section": {
+          "title": "Żid it-Taqsimiet",
+          "desc": "Attiva mill-inqas taqsima 1 fil-portafoll."
+        },
+        "project": {
+          "title": "Żid Proġett",
+          "desc": "Daħħal mill-inqas wieħed mill-aqwa proġetti tiegħek."
+        },
+        "publish": {
+          "title": "Ippubblika Portafoll",
+          "desc": "Issettja URL tad-dwana sabiex ikun jista' jaċċessaha l-pubbliku."
+        }
+      },
+      "topProjects": {
+        "title": "L-aktar Proġetti Popolari",
+        "desc": "Il-prestazzjoni tax-xogħol tiegħek f'għajnejn il-viżitaturi.",
+        "viewAll": "Ara Kollha",
+        "empty": "S'issa m'hemm l-ebda data tal-vista għall-proġett tiegħek."
+      }
+    },
+    "themes": {
+      "title": "Mudelli & Temi",
+      "subtitle": "Ippersonalizza d-dehra u s-sensazzjoni tal-portafoll pubbliku tiegħek.",
+      "reset": "Irrisettja Default",
+      "save": "Ħlief Bidliet",
+      "saving": "Iffrankar...",
+      "chooseTemplate": "Agħżel Mudell",
+      "primaryColor": "Kulur Primarju",
+      "typography": "Tipografija",
+      "appearance": "Dehra",
+      "corners": "Kantunieri u Fruntieri",
+      "successTitle": "Suċċess",
+      "successMessage": "Il-preferenzi tat-temi ġew aġġornati b'suċċess",
+      "errorTitle": "Żball",
+      "errorMessage": "Naqas milli ssalva l-preferenzi tat-tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Disinn nadif u sempliċi li jiffoka fuq il-kontenut."
+        },
+        "developerDark": {
+          "name": "Żviluppatur Dark",
+          "desc": "Tema skura perfetta biex turi kodiċi u munzelli ta 'teknoloġija."
+        },
+        "creative": {
+          "name": "Kreattiv",
+          "desc": "Tqassim vibranti u ikkulurit għal disinjaturi u kreattivi."
+        },
+        "executive": {
+          "name": "Eżekuttiv",
+          "desc": "Tqassim professjonali u formali għall-professjonisti tan-negozju."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Tqassim tal-grilja ta 'stil tat-tuffieħ modern li jenfasizza ħiliet differenti b'mod effiċjenti."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutaliżmu",
+          "desc": "Bordijiet skuri u kuluri ta 'kuntrast għoli għal ħarsa trendy, bla apoloġija."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Effetti tal-ħġieġ matt fuq gradjenti ikkuluriti għal UI moderna sleek."
+        },
+        "linkInBio": {
+          "name": "Link fil-Bijo",
+          "desc": "Tqassim vertikali kompatt ottimizzat għal skrins mobbli u midja soċjali."
+        }
+      },
+      "appearances": {
+        "light": "Dawl",
+        "dark": "Skur",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Arrotondat",
+        "pill": "Pillola"
+      }
+    },
+    "feedback": {
+      "title": "Ibgħat Feedback",
+      "subtitle": "Għinna nagħmluha aħjar billi nipprovdu suġġerimenti, kritika, jew nirrappurtaw bugs fuq din l-applikazzjoni.",
+      "categoryLabel": "Kategorija ta' Feedback",
+      "messageLabel": "Dettalji tal-Messaġġ",
+      "messagePlaceholder": "Għidli fid-dettall dwar ir-rispons li trid twassal...",
+      "imageLabel": "Mehmuż tal-Immaġni (Mhux obbligatorju)",
+      "imagePlaceholder": "Ikklikkja biex ittella' immaġni jew screenshot",
+      "submitting": "Tibgħat...",
+      "submitBtn": "Ibgħat Feedback",
+      "categories": {
+        "suggestion": "Suġġerimenti u Ideat",
+        "bug": "Bug / Rapport ta' Żball",
+        "criticism": "Kritika",
+        "other": "Oħrajn"
+      },
+      "imageErrorTitle": "Żball",
+      "imageErrorMessage": "Xi fajls huma rrifjutati minħabba li mhumiex formati ta' immaġni appoġġjati (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Suċċess",
+      "successMessage": "Grazzi għall-feedback tiegħek! Ir-rapport intbagħat.",
+      "submitErrorTitle": "Falla",
+      "submitErrorMessage": "Sar żball waqt li ntbagħat ir-rispons. Jekk jogħġbok erġa' pprova."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Dwari",
+      "skills": "Ħiliet",
+      "projects": "Proġetti",
+      "workExperience": "Esperjenza tax-Xogħol",
+      "orgExperience": "Esperjenza organizzattiva",
+      "education": "Edukazzjoni",
+      "certifications": "Taħriġ u Ċertifikazzjonijiet",
+      "contact": "Ikkuntattjani"
+    },
+    "editor": {
+      "profileInfo": "Informazzjoni tal-Profil",
+      "saving": "Iffrankar...",
+      "profilePhoto": "Ritratt tal-Profil",
+      "clickToUpload": "Ikklikkja biex ittella' (JPG, PNG)",
+      "fullName": "Isem Sħiħ",
+      "fullNamePlaceholder": "eż. ",
+      "bio": "Bijo",
+      "bioPlaceholder": "Developer Fullstack b'passjoni għall-bini ta' apps web moderni...",
+      "location": "Post",
+      "locationPlaceholder": "eż. ",
+      "gender": "Is-sess",
+      "selectGender": "Agħżel Sess",
+      "male": "Raġel",
+      "female": "Mara",
+      "custom": "Custom",
+      "customPlaceholder": "Ittajpja s-sess tad-dwana tiegħek...",
+      "uploadCv": "Upload CV",
+      "cvFormat": "(DOC jew PDF)",
+      "preview": "Preview",
+      "remove": "Neħħi",
+      "clickToUploadCv": "Ikklikkja biex ittella' PDF jew DOC",
+      "sections": "Taqsimiet",
+      "removeSelected": "Neħħi l-Magħżula",
+      "confirmRemove": "Ikkonferma Neħħi",
+      "addSection": "Żid it-Taqsima",
+      "addAllSections": "Żid it-Taqsimiet Kollha",
+      "noSections": "Għadu l-ebda sezzjoni",
+      "clickToAdd": "Ikklikkja \"+ Żid Taqsima\" biex tibda",
+      "selectAll": "Agħżel Kollha",
+      "selected": "Magħżula",
+      "dragToReorder": "Iddreggja biex tirranġa sezzjonijiet",
+      "livePreview": "Preview Live",
+      "addSectionsToBuild": "Żid sezzjonijiet biex tibni l-portafoll tiegħek",
+      "now": "Issa",
+      "current": "Kurrenti",
+      "noExpiry": "L-ebda Skadenza",
+      "see": "Ara",
+      "position": "Pożizzjoni",
+      "degree": "Grad",
+      "certification": "Ċertifikazzjoni",
+      "sectionsForm": {
+        "about": {
+          "label": "Deskrizzjoni ta’ lilek innifsek",
+          "placeholder": "Għidilna dwarek innifsek, l-isfond, l-interessi u l-ħiliet tiegħek..."
+        },
+        "skills": {
+          "addPlaceholder": "Ittajpja skill imbagħad agħfas Enter..."
+        },
+        "projects": {
+          "title": "Isem tal-Proġett",
+          "titlePlaceholder": "Isem il-proġett...",
+          "url": "URL tal-proġett",
+          "description": "Deskrizzjoni",
+          "descriptionPlaceholder": "Deskrizzjoni qasira tal-proġett...",
+          "uploadThumbnail": "Immaġni tal-Proġett",
+          "addProject": "Żid Proġett",
+          "projectNum": "Proġett #",
+          "currentProject": "Dan huwa proġett li qed naħdem fuqu"
+        },
+        "work": {
+          "company": "Kumpanija/Aġenzija",
+          "companyPlaceholder": "Isem tal-kumpanija...",
+          "position": "Pożizzjoni/Titolu",
+          "positionPlaceholder": "Il-pożizzjoni tiegħek...",
+          "employmentType": "Tip ta' xogħol",
+          "location": "Post",
+          "locationPlaceholder": "Belt, Pajjiż...",
+          "startDate": "Ibda",
+          "endDate": "Lest",
+          "currentWork": "Għadni qed naħdem bħalissa",
+          "description": "Deskrizzjoni",
+          "descriptionPlaceholder": "Deskrizzjoni tax-xogħol u responsabbiltajiet...",
+          "skills": "Ħila",
+          "addExperience": "Żid Esperjenza tax-Xogħol",
+          "experienceNum": "Esperjenza #",
+          "dateError": "Id-data tat-tmiem ma tistax tkun qabel id-data tal-bidu"
+        },
+        "org": {
+          "organization": "Isem l-Organizzazzjoni",
+          "orgPlaceholder": "Università BEM...",
+          "role": "Rwol/Pożizzjoni",
+          "rolePlaceholder": "Kap tad-Diviżjoni...",
+          "addOrg": "Żid Esperjenza Organizzazzjoni",
+          "orgNum": "Organizzazzjoni #"
+        },
+        "edu": {
+          "institution": "Istituzzjonijiet Edukattivi",
+          "institutionPlaceholder": "Isem il-kampus jew l-iskola...",
+          "degree": "Titolu",
+          "degreePlaceholder": "S1, skola sekondarja, eċċ...",
+          "major": "Dipartiment/Qasam ta' Studju",
+          "majorPlaceholder": "Inġinerija tal-Informatika...",
+          "gpa": "GPA (mhux obbligatorju)",
+          "currentStudy": "Għadni qed nitgħallem hawn",
+          "descriptionPlaceholder": "Attivitajiet u kisbiet waqt l-istudju...",
+          "addEdu": "Żid l-Edukazzjoni",
+          "eduNum": "Edukazzjoni #"
+        },
+        "cert": {
+          "name": "Isem taċ-Ċertifikazzjoni/Taħriġ",
+          "namePlaceholder": "Isem taċ-ċertifikazzjoni...",
+          "issuer": "Pubblikatur",
+          "issuerPlaceholder": "Istituzzjoni tal-pubblikazzjoni...",
+          "issueDate": "Bidu (Data tal-Pubblikazzjoni)",
+          "issueDatePlaceholder": "Agħżel id-data tal-pubblikazzjoni...",
+          "expiryDate": "Imlesta (Perjodu Validu)",
+          "expiryDatePlaceholder": "Agħżel data ta' skadenza...",
+          "noExpiry": "Dan iċ-ċertifikat m'għandux data ta' skadenza",
+          "url": "URL tal-kredenzjali",
+          "uploadThumbnail": "Ċertifikat / Taħriġ Image",
+          "uploadThumbnailLimit": "Itella immaġni taċ-ċertifikat (JPG/PNG/WEBP, massimu ta' 2MB)",
+          "addCert": "Żid Ċertifikazzjoni",
+          "certNum": "Ċertifikazzjoni #"
+        },
+        "contact": {
+          "contactNum": "Kuntatt #",
+          "platform": "Pjattaforma",
+          "displayText": "Uri Test",
+          "displayTextPlaceholder": "eż., you@email.com jew @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "eż., 62812... (mingħajr ma jwassal 0)",
+          "urlPlaceholderEmail": "eż., you@email.com",
+          "urlPlaceholderWebsite": "eż., https://...",
+          "urlPlaceholderDefault": "eż., username",
+          "addContact": "Żid Kuntatt"
+        },
+        "common": {
+          "months": {
+            "1": "Jannar",
+            "2": "Frar",
+            "3": "Marzu",
+            "4": "April",
+            "5": "Mejju",
+            "6": "Ġunju",
+            "7": "Lulju",
+            "8": "Awissu",
+            "9": "Settembru",
+            "10": "Ottubru",
+            "11": "Novembru",
+            "12": "Diċembru"
+          },
+          "month": "Xahar",
+          "year": "Sena",
+          "invalidDate": "Xahar Tmiem Invalidu",
+          "words": "kliem"
+        }
+      },
+      "sure": "Żgur",
+      "deletePhotoTitle": "Ħassar Ritratt tal-Profil?",
+      "deletePhotoMessage": "Żgur li trid tħassar dan ir-ritratt tal-profil?",
+      "cancel": "Ikkanċella",
+      "delete": "Ħassar"
+    },
+    "cropper": {
+      "chooseBackground": "Agħżel Sfond",
+      "cropPhoto": "Uċuħ tar-Ritratt Tiegħek",
+      "useOriginal": "Uża oriġinali",
+      "backgroundPresets": "Sfond Presets",
+      "none": "Xejn",
+      "uploadBackground": "Tella Sfond",
+      "cancel": "Ikkanċella",
+      "savePhoto": "Ħlief Ritratt",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotazzjoni & Mejjel",
+      "resetRotation": "Irrisettja għal 0°",
+      "center": "Ċentru",
+      "rotateLeft": "Dawwar -90°",
+      "rotateRight": "Dawwar +90°",
+      "removeBackground": "Neħħi Sfond",
+      "processing": "Ipproċessa l-immaġni tiegħek, jekk jogħġbok stenna..."
+    },
+    "cvPreview": {
+      "title": "Preview CV",
+      "downloadCv": "Niżżel is-CV",
+      "download": "Niżżel",
+      "wordCannotPreview": "Dokumenti Word (.doc/.docx) ma jistgħux jiġu previewed b'mod nattiv fil-browser. ",
+      "downloadFile": "Niżżel il-Fajl tas-CV",
+      "back": "Lura",
+      "mobileMessage": "Jekk jogħġbok niżżel il-fajl tas-CV biex tipprevedih.",
+      "preview": "Preview CV",
+      "wordPreviewTitle": "Preview tad-Dokument Word",
+      "wordPreviewMessage": "Dokumenti Word (.doc/.docx) ma jistgħux jiġu previewed b'mod nattiv fil-browser. Jekk jogħġbok niżżel il-fajl biex tarah."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Ikteb deskrizzjoni qasira dwarek innifsek, l-interessi, u l-għanijiet tal-karriera..."
+    },
+    "skills": {
+      "placeholder": "Ittajpja l-isem tal-ħila...",
+      "add": "Żid",
+      "enterToAdd": "Agħfas Enter biex iżżid",
+      "noSkills": "L-ebda ħiliet għadhom miżjuda."
+    },
+    "projects": {
+      "projectName": "Isem tal-Proġett",
+      "projectNamePlaceholder": "eż. ",
+      "projectUrl": "URL tal-proġett",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Tul ta' żmien",
+      "startMonth": "Ibda Xahar",
+      "startYear": "Ibda Sena",
+      "endMonth": "Tmiem Xahar",
+      "endYear": "Sena Tmiem",
+      "currentlyWorking": "Bħalissa qed taħdem fuq dan",
+      "description": "Deskrizzjoni",
+      "descriptionPlaceholder": "Iddeskrivi l-proġett, ir-rwol tiegħek, u l-kisbiet...",
+      "technologies": "Teknoloġiji Użati",
+      "addProject": "Żid Proġett",
+      "image": "Immaġni tal-Proġett",
+      "removeImage": "Neħħi l-Immaġini",
+      "uploadImage": "Ikklikkja biex ittella' l-immaġni"
+    },
+    "work": {
+      "company": "Kumpanija/Istituzzjoni",
+      "companyPlaceholder": "Isem tal-kumpanija...",
+      "role": "Rwol/Pożizzjoni",
+      "rolePlaceholder": "Il-pożizzjoni tiegħek...",
+      "jobType": "Tip ta' Impjieg",
+      "selectJobType": "Agħżel it-tip",
+      "fullTime": "Full-time",
+      "partTime": "Part-time",
+      "contract": "Kuntratt",
+      "internship": "Apprendistat",
+      "freelance": "Freelance",
+      "location": "Post",
+      "locationPlaceholder": "eż. ",
+      "duration": "Tul ta' żmien",
+      "currentlyWorking": "Bħalissa qed taħdem hawn",
+      "description": "Deskrizzjoni tax-Xogħol",
+      "descriptionPlaceholder": "Iddeskrivi r-responsabbiltajiet u l-kisbiet ewlenin tiegħek...",
+      "skills": "Ħiliet Speċifiċi",
+      "addExperience": "Żid Esperjenza"
+    },
+    "org": {
+      "organization": "Isem l-Organizzazzjoni",
+      "organizationPlaceholder": "Isem l-organizzazzjoni...",
+      "role": "Rwol/Pożizzjoni",
+      "rolePlaceholder": "eż. ",
+      "duration": "Tul ta' żmien",
+      "periodFormat": "jew Format Ħieles (eż. 2020 - 2022)",
+      "periodPlaceholder": "eż. ",
+      "currentlyActive": "Bħalissa attiv",
+      "description": "Deskrizzjoni tal-Attività",
+      "descriptionPlaceholder": "Iddeskrivi l-attivitajiet jew il-kontribuzzjonijiet tiegħek...",
+      "addExperience": "Żid Esperjenza"
+    },
+    "education": {
+      "institution": "Isem l-Istituzzjoni",
+      "institutionPlaceholder": "Isem l-iskola jew l-università...",
+      "degree": "Grad/Livell",
+      "degreePlaceholder": "eż. ",
+      "major": "Maġġuri/Qasam ta' Studju",
+      "majorPlaceholder": "eż. ",
+      "gpa": "GPA / Grad",
+      "gpaPlaceholder": "eż. ",
+      "duration": "Tul ta' Edukazzjoni",
+      "periodFormat": "jew Format Ħieles (eż. 2018 - 2022)",
+      "periodPlaceholder": "eż. ",
+      "currentlyStudying": "Bħalissa qed tistudja hawn",
+      "description": "Attivitajiet / Unuri",
+      "descriptionPlaceholder": "Iddeskrivi attivitajiet akkademiċi, organizzazzjonijiet, jew unuri riċevuti...",
+      "addEducation": "Żid l-Edukazzjoni"
+    },
+    "cert": {
+      "name": "Isem taċ-Ċertifikazzjoni",
+      "namePlaceholder": "eż. ",
+      "issuer": "Organizzazzjoni li toħroġ",
+      "issuerPlaceholder": "eż. ",
+      "issueDate": "Data tal-Ħruġ",
+      "expiryDate": "Validu Sa",
+      "noExpiry": "Din il-kredenzjali ma tiskadix",
+      "yearPlaceholder": "jew Sena (eż. 2023)",
+      "credentialUrl": "URL tal-kredenzjali",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Ħiliet Relatati",
+      "addCertification": "Żid Ċertifikazzjoni",
+      "image": "Immaġni/Logo",
+      "removeImage": "Neħħi l-Immaġini",
+      "uploadImage": "Ikklikkja biex ittella' l-immaġni"
+    },
+    "common": {
+      "months": {
+        "1": "Jannar",
+        "2": "Frar",
+        "3": "Marzu",
+        "4": "April",
+        "5": "Mejju",
+        "6": "Ġunju",
+        "7": "Lulju",
+        "8": "Awissu",
+        "9": "Settembru",
+        "10": "Ottubru",
+        "11": "Novembru",
+        "12": "Diċembru"
+      },
+      "month": "Xahar",
+      "year": "Sena",
+      "invalidDate": "Xahar Tmiem Invalidu",
+      "words": "kliem"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Immaniġġja l-profil tal-portafoll u l-preferenzi tiegħek",
+    "tabs": {
+      "profile": "Il-Profil Tiegħi",
+      "security": "Sigurtà",
+      "personalization": "Personalizzazzjoni"
+    },
+    "profile": {
+      "infoTitle": "Informazzjoni Bażika",
+      "photo": "Ritratt tal-Profil",
+      "uploadPhoto": "Bidla Ritratt",
+      "fullName": "Isem Sħiħ",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Indirizz elettroniku",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "L-email tintuża għall-login u ma tintwerax pubblikament.",
+      "portfolioUrl": "URL tal-portafoll",
+      "saveProfile": "Ħlief Profil",
+      "save": "Ħlief Profil",
+      "accountCreated": "Kont Maħluq",
+      "lastLogin": "L-aħħar Login",
+      "oauthNotice": "Dan il-profil huwa konness mal-kont tiegħek {{provider}}. Bidliet fil-profil iridu jsiru permezz tal-fornitur tas-servizz."
+    },
+    "security": {
+      "changePassword": "Ibdel il-Password",
+      "currentPassword": "Password Kurrenti",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Password Ġdida",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Ikkonferma Password Ġdida",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Mill-inqas 8 karattri",
+        "uppercase": "Ittra waħda kbira (A-Z)",
+        "number": "Numru wieħed (0-9)",
+        "symbol": "Simbolu wieħed (!@#$%^&*)"
+      },
+      "passwordTitle": "Password",
+      "updatePassword": "Aġġorna l-Password",
+      "additionalSecurity": "Sigurtà Addizzjonali",
+      "twoFactor": "Awtentikazzjoni b'żewġ fatturi (2FA)",
+      "twoFactorDesc": "Sikura l-kont tiegħek billi tuża kodiċi OTP addizzjonali.",
+      "activeSessions": "Sessjonijiet Attivi",
+      "activeSessionsDesc": "Dejjem ippermetti l-monitoraġġ tal-apparat li illoggja.",
+      "publicVisibility": "Viżibilità Pubblika",
+      "hideFromSearch": "Aħbi l-portafoll mill-magni tat-tiftix",
+      "hideFromSearchDesc": "Evita li Google tindika l-paġna tal-portafoll pubbliku tiegħek.",
+      "disable2fa": {
+        "title": "Itfi 2FA",
+        "description": "Int żgur li trid itfi l-awtentikazzjoni b'żewġ fatturi?",
+        "confirmPasswordLabel": "Daħħal il-password tiegħek biex tikkonferma",
+        "currentPasswordPlaceholder": "Password kurrenti",
+        "cancelButton": "Ikkanċella",
+        "confirmButton": "Itfi 2FA",
+        "incorrectPassword": "Password mhux korretta."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skennja l-Kodiċi QR",
+        "step1Desc": "Iftaħ l-app awtentikatur tiegħek u skennja l-kodiċi QR li ġej:",
+        "unableToScan": "Ma tistax tiskennja? Uża ċ-ċavetta tas-setup",
+        "step2Title": "2. Ivverifika l-Kodiċi",
+        "step2Desc": "Daħħal il-kodiċi b'6 ċifri ġġenerat mill-app tiegħek:",
+        "cancelButton": "Ikkanċella",
+        "enableButton": "Ippermetti 2FA",
+        "invalidLength": "Jekk jogħġbok daħħal kodiċi b'6 ċifri.",
+        "invalidCode": "Kodiċi ta' verifika mhux validu. Jekk jogħġbok erġa' pprova."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontrolli tal-Lingwa",
+      "appLanguage": "Lingwa tal-App",
+      "layoutTitle": "Layout u Tipografija",
+      "layoutStyle": "Stil ta 'Layout",
+      "layoutModern": "Stil Modern (Default)",
+      "layoutClassic": "Stil Klassiku",
+      "layoutMinimalist": "Stil Minimalista",
+      "fontSize": "Daqs tat-Tip tal-App",
+      "fontSmall": "Żgħir",
+      "fontNormal": "Normali (Medju)",
+      "fontLarge": "Kbir",
+      "searchLanguage": "Fittex il-lingwa...",
+      "languageNotFound": "Lingwa ma nstabx",
+      "layoutElegant": "Stil Eleganti"
+    },
+    "saveChanges": "Ħlief Bidliet",
+    "cancel": "Ikkanċella",
+    "appSettings": "App Settings",
+    "logoutConfirmTitle": "Ikkonferma Logoout",
+    "logoutConfirmDesc": "Int żgur li trid toħroġ mis-sistema?",
+    "logoutConfirmYes": "Iva, Logout",
+    "generalError": "Sar żball. ",
+    "success": "Suċċess",
+    "preferencesSaved": "Il-preferenzi tal-app ġew salvati b'suċċess.",
+    "header": "Settings tal-Applikazzjoni",
+    "logout": {
+      "title": "Konferma tal-Lout",
+      "message": "Int żgur li trid toħroġ mis-sistema?",
+      "confirm": "Iva, Logout"
+    },
+    "about": {
+      "title": "Dwar l-Applikazzjoni",
+      "subtitle": "Pjattaforma tal-bennej tal-portafoll",
+      "version": "Verżjoni",
+      "description": "DevFolio hija pjattaforma moderna tal-bennej tal-portafoll iddisinjata għall-iżviluppaturi, id-disinjaturi u l-ħallieqa professjonali. ",
+      "license": "Liċenzja u Copyright",
+      "copyright": "© 2026 DevFolio Inc. Id-drittijiet kollha riżervati.",
+      "developer": "Żviluppatur",
+      "developedBy": "Żviluppat minn Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Ħassar Permanenti Kont",
+      "menuItem": "Ħassar Kont",
+      "successTitle": "Suċċess",
+      "successMessage": "Intbagħtet email ta' konferma tat-tħassir tal-kont.",
+      "errorTitle": "Falla",
+      "errorMessage": "Naqas milli tibgħat email ta' konferma.",
+      "confirmationMessage": "Int żgur li trid tħassar il-kont tiegħek b'mod permanenti?",
+      "warningMessage1": "Inti ser tirċievi email biex tikkonferma t-tħassir tal-kont.",
+      "warningMessage2": "Jekk tiġi kkonfermata, id-dejta kollha (portafoll, proġetti, statistika) titħassar b'mod permanenti u ma tistax tiġi rkuprata.",
+      "cancel": "Ikkanċella",
+      "confirm": "Konferma"
+    },
+    "toasts": {
+      "toastError": "Żball",
+      "toastSuccess": "Suċċess",
+      "toastSetup2FAFailed": "Naqas milli twaqqaf 2FA. Jekk jogħġbok erġa' pprova.",
+      "toast2FAEnabled": "L-awtentikazzjoni b'żewġ fatturi ġiet attivata.",
+      "toast2FADisabled": "L-awtentikazzjoni b'żewġ fatturi ġiet diżattivata.",
+      "toastSessionEnabled": "Il-monitoraġġ attiv tas-sessjoni ġie attivat.",
+      "toastSessionDisabled": "Il-monitoraġġ attiv tas-sessjoni ġie diżattivat.",
+      "toastSetupKeyCopied": "Ċavetta tas-setup ikkupjata fil-clipboard."
+    },
+    "privacy": {
+      "title": "Politika ta' Privatezza",
+      "updateDate": "Aġġornata l-aħħar: 15 ta' Lulju, 2026",
+      "intro": "Din il-Politika ta’ Privatezza tispjega kif DevFolio tiġbor, tuża, u tipproteġi l-informazzjoni personali tiegħek meta tuża s-servizzi tagħna.",
+      "section1Title": "1. Informazzjoni li Niġbru",
+      "section1Content": "Aħna niġbru informazzjoni li tipprovdi direttament meta toħloq kont, nibnu portafoll, u tikkuntattja l-appoġġ tagħna. ",
+      "section2Title": "2. Użu ta' Informazzjoni",
+      "section2Content": "L-informazzjoni tiegħek tintuża biex topera, iżżomm, u tipprovdi l-karatteristiċi tas-servizzi tagħna, kif ukoll biex tikkomunika miegħek dwar il-kont jew is-servizzi tiegħek.",
+      "section3Title": "3. Sigurtà tad-Dejta",
+      "section3Content": "Aħna nimplimentaw miżuri ta' sigurtà raġonevoli biex nipproteġu l-informazzjoni tiegħek minn aċċess, żvelar jew qerda mhux awtorizzati."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token ta' konferma ma nstabx.",
+    "defaultError": "Naqas milli tħassar il-kont. It-token jista' jkun skada.",
+    "loadingTitle": "Tħassir tal-Kont...",
+    "loadingMessage": "Jekk jogħġbok stenna, qed nipproċessaw it-talba tiegħek.",
+    "successTitle": "Kont Imħassar b'suċċess",
+    "successMessage": "Id-dejta kollha tiegħek tħassret b'mod permanenti. Int ser tiġi ridirett...",
+    "errorTitle": "Naqas milli Tħassar Kont",
+    "backToHome": "Ritorn lejn id-Dar"
+  },
+  "forgotPassword": {
+    "minutes": "minuti",
+    "seconds": "sekondi",
+    "success": "Suċċess",
+    "otpSentToEmail": "Kodiċi OTP intbagħat lill-email tiegħek.",
+    "failed": "Falla",
+    "emailNotFound": "L-email ma nstabx.",
+    "emailThirdParty": "Din l-email hija rreġistrata permezz ta’ parti terza.",
+    "genericError": "Hemm żball. Jekk jogħġbok erġa' pprova.",
+    "otpVerified": "Il-kodiċi OTP ġie vverifikat b'suċċess.",
+    "otpExpired": "Il-kodiċi OTP skada. Jekk jogħġbok itlob kodiċi ġdid.",
+    "otpInvalid": "Kodiċi OTP invalidu.",
+    "otpResent": "Kodiċi OTP ġdid intbagħat lill-email tiegħek.",
+    "otpResendFailed": "Naqas li jerġa' jibgħat il-kodiċi OTP. Jekk jogħġbok erġa' pprova.",
+    "passwordResetSuccess": "Il-password reset b'suċċess. Jekk jogħġbok idħol bil-password il-ġdida tiegħek.",
+    "passwordResetFailed": "Naqas milli jerġa' jissettja l-password.",
+    "backToLogin": "Ritorn għal Login",
+    "back": "Lura",
+    "title": "Insejt il-Password",
+    "description": "Daħħal l-indirizz elettroniku reġistrat fil-kont tiegħek. Aħna se nibagħtu kodiċi OTP biex reset il-password.",
+    "emailLabel": "Indirizz Email",
+    "sending": "Tibgħat...",
+    "sendOtp": "Ibgħat Kodiċi OTP",
+    "verifyOtpTitle": "Ivverifika l-Kodiċi OTP",
+    "verifyOtpDesc": "Daħħal il-kodiċi b'6 ċifri li ntbagħat lill-email tiegħek biex tikkonferma l-identità tiegħek.",
+    "verifying": "Verifika...",
+    "verifyOtp": "Ivverifika l-OTP",
+    "resending": "Nibgħat mill-ġdid...",
+    "resendOtp": "Ibgħat mill-ġdid il-Kodiċi OTP",
+    "resendCodeIn": "Ibgħat mill-ġdid il-kodiċi fi",
+    "newPasswordTitle": "Oħloq Password Ġdida",
+    "newPasswordDesc": "Oħloq password ġdida u b'saħħitha biex tiżgura l-kont tiegħek.",
+    "newPasswordLabel": "Password Ġdida",
+    "min8Chars": "Minimu 8 karattri",
+    "oneUpperCase": "1 kbar (A-Z)",
+    "oneNumber": "1 numru (0-9)",
+    "oneSymbol": "1 simbolu (!@#$%^&*)",
+    "confirmPasswordLabel": "Ikkonferma l-Password",
+    "passwordsDoNotMatch": "Il-passwords ma jaqblux.",
+    "resettingPassword": "Resetting Password...",
+    "resetPassword": "Irrisettja l-Password"
+  },
+  "verifyEmail": {
+    "resendError": "Naqas milli jerġa' jibgħat email ta' verifika. Jekk jogħġbok erġa' pprova.",
+    "checkingStatus": "Iċċekkja l-istatus tal-verifika...",
+    "title": "Iċċekkja l-Email Tiegħek",
+    "description": "Bgħatna email ta' verifika fl-indirizz elettroniku tiegħek. Jekk jogħġbok iftaħ l-email u kklikkja l-buttuna <1>\"Ikkonferma l-Kont\"</1> biex tattiva l-kont tiegħek.",
+    "stepsTitle": "Passi",
+    "step1": "Iftaħ l-applikazzjoni tal-email tiegħek (Gmail, Yahoo, eċċ)",
+    "step2": "Fittex email minn DevFolio bis-suġġett \"Attivazzjoni tal-Kont\"",
+    "step3": "Ikklikkja l-buttuna \"Ikkonferma l-Kont\" fl-email",
+    "step4": "Int se tkun dirett lejn il-paġna tal-login biex tidħol",
+    "resendSuccess": "L-email ta' verifika reġgħet intbagħtet!",
+    "resending": "Nibgħat mill-ġdid...",
+    "resendButton": "Ibgħat mill-ġdid l-Email tal-Verifika",
+    "backToLogin": "Erġa' lura għall-paġna tal-login",
+    "footerNote": "Ma rċevejtx l-email? Iċċekkja l-fowlder <1>Spam</1> jew <2>Junk</2> fl-email tiegħek. Il-link tal-verifika hija valida għal <3>24 siegħa</3>."
+  }
+}

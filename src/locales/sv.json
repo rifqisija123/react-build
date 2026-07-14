@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Drag",
+    "templates": "Mallar",
+    "pricing": "Prissättning",
+    "login": "Inloggning",
+    "getStarted": "Kom igång",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Den ultimata portföljbyggaren för utvecklare",
+    "title1": "Bygg ditt professionella",
+    "title2": "portfölj in",
+    "titleHighlight": "sekunder.",
+    "subtitle": "Allt du behöver för att visa upp dina färdigheter, projekt och erfarenhet. ",
+    "startBuilding": "Börja bygga nu",
+    "viewTemplates": "Visa mallar",
+    "fastDeployment": "Snabb implementering",
+    "liveStatus": "username.dev är live!",
+    "featuresTitle": "Kraftfulla funktioner",
+    "featuresSubtitle": "Vi tillhandahåller alla verktyg du behöver för att sticka ut från mängden och få ditt drömjobb.",
+    "feature1Title": "Dra & släpp Builder",
+    "feature1Desc": "Organisera enkelt dina avsnitt, projekt och färdigheter med vår intuitiva visuella redigerare.",
+    "feature2Title": "Anpassade teman",
+    "feature2Desc": "Välj bland professionellt designade mallar eller skapa din egen unika look.",
+    "feature3Title": "Realtidsanalys",
+    "feature3Desc": "Spåra dina besökare, se vilka projekt som får mest uppmärksamhet och mer."
+  },
+  "auth": {
+    "welcomeBack": "Välkommen tillbaka",
+    "loginToContinue": "Logga in på ditt konto för att fortsätta",
+    "createAccount": "Skapa konto",
+    "joinCommunity": "Gå med tusentals andra utvecklare",
+    "fullName": "Fullständigt namn",
+    "fullNamePlaceholder": "till exempel ",
+    "email": "E-postadress",
+    "emailPlaceholder": "du@exempel.com",
+    "password": "Lösenord",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Kom ihåg mig",
+    "forgotPassword": "Glömt lösenordet?",
+    "signIn": "Logga in",
+    "signingIn": "Loggar in...",
+    "signUp": "Registrera dig",
+    "signingUp": "Registrerar dig...",
+    "noAccount": "Har du inget konto?",
+    "hasAccount": "Har du redan ett konto?",
+    "passwordRules": {
+      "title": "Lösenordet måste innehålla:",
+      "length": "Minst 8 tecken",
+      "uppercase": "En stor bokstav (A-Z)",
+      "number": "Ett nummer (0-9)",
+      "symbol": "En symbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Mallar och teman",
+      "settings": "Inställningar",
+      "collapse": "Dölj sidofältet",
+      "overview": "Översikt",
+      "profileSettings": "Profilinställningar",
+      "customDomain": "Anpassad domän",
+      "feedback": "Feed-back"
+    },
+    "header": {
+      "viewLive": "Se Live",
+      "welcome": "Välkomna,",
+      "logout": "Utloggning",
+      "builder": "Byggmästare",
+      "livePortfolio": "Live Portfolio",
+      "live": "Bo"
+    },
+    "logoutModal": {
+      "title": "Utloggning",
+      "message": "Är du säker på att du vill logga ut från ditt konto? ",
+      "cancel": "Avboka",
+      "confirm": "Ja, logga ut"
+    },
+    "slugModal": {
+      "title": "Välj din portfölj-URL",
+      "message": "Denna URL kommer att vara den unika länken till din portfölj. ",
+      "slugPlaceholder": "ditt-namn",
+      "availability": "Tillgänglighet:",
+      "available": "Tillgänglig",
+      "unavailable": "Inte tillgänglig",
+      "checking": "Kontroll...",
+      "mustFormat": "Kan bara innehålla bokstäver, siffror och bindestreck (-)",
+      "cancel": "Avboka",
+      "save": "Spara URL",
+      "usernameUrl": "Användarnamn URL",
+      "helpText": "Små bokstäver, siffror och bindestreck. ",
+      "validation": {
+        "empty": "Slug kan inte vara tom.",
+        "min3": "Minst 3 tecken.",
+        "max30": "Max 30 tecken.",
+        "format": "Endast små bokstäver, siffror och bindestreck (-). "
+      }
+    },
+    "loadingPortfolio": "Laddar portföljdata...",
+    "overview": {
+      "greetings": {
+        "morning": "God morgon",
+        "afternoon": "God eftermiddag",
+        "evening": "God eftermiddag",
+        "night": "God natt"
+      },
+      "welcome": {
+        "hi": "Hej!",
+        "creator": "Skapare",
+        "desc1": "Välkommen till DevFolio-instrumentpanelen. Din portfölj har setts av",
+        "desc2": "person. Fortsätt jobba!",
+        "editPortfolio": "Redigera portfölj"
+      },
+      "stats": {
+        "totalVisitors": "Totalt antal besökare",
+        "projectViews": "Visat (projekt)",
+        "activeSessions": "Aktiv session",
+        "totalLabel": "Totalt"
+      },
+      "setup": {
+        "title": "Inställningsförlopp",
+        "completed": "Din portfölj är klar! 🎉",
+        "inProgress": "Steg till den perfekta portföljen.",
+        "profile": {
+          "title": "Komplett profil",
+          "desc": "Lägg till namn, bio och profilfoto."
+        },
+        "section": {
+          "title": "Lägg till avsnitt",
+          "desc": "Aktivera minst 1 sektion i portföljen."
+        },
+        "project": {
+          "title": "Lägg till projekt",
+          "desc": "Ange minst ett av dina bästa projekt."
+        },
+        "publish": {
+          "title": "Publicera Portfolio",
+          "desc": "Ställ in en anpassad URL så att den kan nås av allmänheten."
+        }
+      },
+      "topProjects": {
+        "title": "Mest populära projekt",
+        "desc": "Utförandet av ditt arbete i besökarnas ögon.",
+        "viewAll": "Se alla",
+        "empty": "Det finns ingen visningsdata för ditt projekt ännu."
+      }
+    },
+    "themes": {
+      "title": "Mallar och teman",
+      "subtitle": "Anpassa utseendet och känslan för din offentliga portfölj.",
+      "reset": "Återställ standard",
+      "save": "Spara ändringar",
+      "saving": "Sparar...",
+      "chooseTemplate": "Välj en mall",
+      "primaryColor": "Primärfärg",
+      "typography": "Typografi",
+      "appearance": "Utseende",
+      "corners": "Hörn & gränser",
+      "successTitle": "Framgång",
+      "successMessage": "Temainställningar har uppdaterats framgångsrikt",
+      "errorTitle": "Fel",
+      "errorMessage": "Det gick inte att spara temainställningar",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistisk",
+          "desc": "Ren och enkel design med fokus på innehåll."
+        },
+        "developerDark": {
+          "name": "Utvecklare Dark",
+          "desc": "Mörkt tema perfekt för att visa upp kod och tekniska högar."
+        },
+        "creative": {
+          "name": "Kreativ",
+          "desc": "Livlig och färgstark layout för designers och kreativa."
+        },
+        "executive": {
+          "name": "Verkställande",
+          "desc": "Professionell och formell layout för affärsmän."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Modern rutnätslayout i Apple-stil som lyfter fram olika färdigheter effektivt."
+        },
+        "neoBrutalism": {
+          "name": "Neo-brutalism",
+          "desc": "Djärva kanter och färger med hög kontrast för en trendig, obotlig look."
+        },
+        "glassmorphism": {
+          "name": "Glasmorfism",
+          "desc": "Frostade glaseffekter över färgglada gradienter för ett elegant modernt användargränssnitt."
+        },
+        "linkInBio": {
+          "name": "Länk i bio",
+          "desc": "Kompakt vertikal layout optimerad för mobilskärmar och sociala medier."
+        }
+      },
+      "appearances": {
+        "light": "Ljus",
+        "dark": "Mörkt",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Skarp",
+        "rounded": "Rundad",
+        "pill": "Piller"
+      }
+    },
+    "feedback": {
+      "title": "Skicka feedback",
+      "subtitle": "Hjälp oss att göra det bättre genom att ge förslag, kritik eller rapportera buggar på denna applikation.",
+      "categoryLabel": "Feedback Kategori",
+      "messageLabel": "Meddelandeinformation",
+      "messagePlaceholder": "Berätta i detalj om den feedback du vill förmedla...",
+      "imageLabel": "Bildbilaga (valfritt)",
+      "imagePlaceholder": "Klicka för att ladda upp bild eller skärmdump",
+      "submitting": "Skickar...",
+      "submitBtn": "Skicka feedback",
+      "categories": {
+        "suggestion": "Förslag och idéer",
+        "bug": "Fel-/felrapport",
+        "criticism": "Kritik",
+        "other": "Andra"
+      },
+      "imageErrorTitle": "Fel",
+      "imageErrorMessage": "Vissa filer avvisas eftersom de inte stöds av bildformat (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Framgång",
+      "successMessage": "Tack för din feedback! Rapport har skickats.",
+      "submitErrorTitle": "Misslyckades",
+      "submitErrorMessage": "Ett fel uppstod när feedback skickades. Försök igen."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Om mig",
+      "skills": "Färdigheter",
+      "projects": "Projekt",
+      "workExperience": "Arbetslivserfarenhet",
+      "orgExperience": "Organisatorisk erfarenhet",
+      "education": "Utbildning",
+      "certifications": "Utbildning & certifieringar",
+      "contact": "Kontakta mig"
+    },
+    "editor": {
+      "profileInfo": "Profilinformation",
+      "saving": "Sparande...",
+      "profilePhoto": "Profilfoto",
+      "clickToUpload": "Klicka för att ladda upp (JPG, PNG)",
+      "fullName": "Fullständigt namn",
+      "fullNamePlaceholder": "till exempel ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack-utvecklare med passion för att bygga moderna webbappar...",
+      "location": "Plats",
+      "locationPlaceholder": "till exempel ",
+      "gender": "Kön",
+      "selectGender": "Välj Kön",
+      "male": "Manlig",
+      "female": "Kvinnlig",
+      "custom": "Beställnings",
+      "customPlaceholder": "Ange ditt anpassade kön...",
+      "uploadCv": "Ladda upp CV",
+      "cvFormat": "(DOC eller PDF)",
+      "preview": "Förhandsvisning",
+      "remove": "Ta bort",
+      "clickToUploadCv": "Klicka för att ladda upp PDF eller DOC",
+      "sections": "Avsnitt",
+      "removeSelected": "Ta bort markerade",
+      "confirmRemove": "Bekräfta Ta bort",
+      "addSection": "Lägg till avsnitt",
+      "addAllSections": "Lägg till alla sektioner",
+      "noSections": "Inga avsnitt ännu",
+      "clickToAdd": "Klicka på \"+ Lägg till avsnitt\" för att komma igång",
+      "selectAll": "Välj Alla",
+      "selected": "Vald",
+      "dragToReorder": "Dra för att ändra ordning på avsnitt",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Lägg till avsnitt för att bygga din portfölj",
+      "now": "Nu",
+      "current": "Nuvarande",
+      "noExpiry": "Inget utgångsdatum",
+      "see": "Se",
+      "position": "Placera",
+      "degree": "Grad",
+      "certification": "Certifiering",
+      "sectionsForm": {
+        "about": {
+          "label": "Beskrivning av dig själv",
+          "placeholder": "Berätta om dig själv, din bakgrund, intressen och färdigheter..."
+        },
+        "skills": {
+          "addPlaceholder": "Skriv färdighet och tryck sedan på Enter..."
+        },
+        "projects": {
+          "title": "Projektnamn",
+          "titlePlaceholder": "Projektnamn...",
+          "url": "Projektets URL",
+          "description": "Beskrivning",
+          "descriptionPlaceholder": "Kort beskrivning av projektet...",
+          "uploadThumbnail": "Projektbild",
+          "addProject": "Lägg till projekt",
+          "projectNum": "Projekt #",
+          "currentProject": "Det här är ett projekt jag håller på med"
+        },
+        "work": {
+          "company": "Företag/byrå",
+          "companyPlaceholder": "Företagsnamn...",
+          "position": "Position/titel",
+          "positionPlaceholder": "Din position...",
+          "employmentType": "Typ av arbete",
+          "location": "Plats",
+          "locationPlaceholder": "Stad, land...",
+          "startDate": "Start",
+          "endDate": "Färdig",
+          "currentWork": "Jag jobbar fortfarande för tillfället",
+          "description": "Beskrivning",
+          "descriptionPlaceholder": "Arbetsbeskrivning och ansvar...",
+          "skills": "Skicklighet",
+          "addExperience": "Lägg till arbetserfarenhet",
+          "experienceNum": "Erfarenhet #",
+          "dateError": "Slutdatumet får inte vara tidigare än startdatumet"
+        },
+        "org": {
+          "organization": "Organisationens namn",
+          "orgPlaceholder": "BEM University...",
+          "role": "Roll/Position",
+          "rolePlaceholder": "Divisionschef...",
+          "addOrg": "Lägg till organisatorisk erfarenhet",
+          "orgNum": "Organisationsnummer"
+        },
+        "edu": {
+          "institution": "Utbildningsinstitutioner",
+          "institutionPlaceholder": "Namn på campus eller skola...",
+          "degree": "Titel",
+          "degreePlaceholder": "S1, gymnasiet osv...",
+          "major": "Institutionen/Studieområde",
+          "majorPlaceholder": "Informatikteknik...",
+          "gpa": "GPA (valfritt)",
+          "currentStudy": "Jag lär mig fortfarande här",
+          "descriptionPlaceholder": "Aktiviteter och prestationer under studietiden...",
+          "addEdu": "Lägg till utbildning",
+          "eduNum": "Utbildning #"
+        },
+        "cert": {
+          "name": "Namn på certifiering/utbildning",
+          "namePlaceholder": "Certifieringsnamn...",
+          "issuer": "Utgivare",
+          "issuerPlaceholder": "Publicerande institution...",
+          "issueDate": "Start (publiceringsdatum)",
+          "issueDatePlaceholder": "Välj publiceringsdatum...",
+          "expiryDate": "Slutförd (giltig period)",
+          "expiryDatePlaceholder": "Välj utgångsdatum...",
+          "noExpiry": "Detta certifikat har inget utgångsdatum",
+          "url": "Autentiseringsadress",
+          "uploadThumbnail": "Certifikat / utbildningsbild",
+          "uploadThumbnailLimit": "Ladda upp certifikatbild (JPG/PNG/WEBP, max 2 MB)",
+          "addCert": "Lägg till certifiering",
+          "certNum": "Certifieringsnummer"
+        },
+        "contact": {
+          "contactNum": "kontakt #",
+          "platform": "Plattform",
+          "displayText": "Visa text",
+          "displayTextPlaceholder": "t.ex. du@email.com eller @användarnamn",
+          "url": "Länk (URL)",
+          "urlPlaceholderWhatsapp": "t.ex. 62812... (utan inledande 0)",
+          "urlPlaceholderEmail": "t.ex. du@email.com",
+          "urlPlaceholderWebsite": "t.ex. https://...",
+          "urlPlaceholderDefault": "t.ex. användarnamn",
+          "addContact": "Lägg till kontakt"
+        },
+        "common": {
+          "months": {
+            "1": "januari",
+            "2": "februari",
+            "3": "mars",
+            "4": "april",
+            "5": "maj",
+            "6": "juni",
+            "7": "juli",
+            "8": "augusti",
+            "9": "september",
+            "10": "oktober",
+            "11": "november",
+            "12": "december"
+          },
+          "month": "Månad",
+          "year": "År",
+          "invalidDate": "Ogiltig slutmånad",
+          "words": "ord"
+        }
+      },
+      "sure": "Säker",
+      "deletePhotoTitle": "Ta bort profilfoto?",
+      "deletePhotoMessage": "Är du säker på att du vill ta bort det här profilfotot?",
+      "cancel": "Avboka",
+      "delete": "Radera"
+    },
+    "cropper": {
+      "chooseBackground": "Välj Bakgrund",
+      "cropPhoto": "Beskär ditt foto",
+      "useOriginal": "Använd original",
+      "backgroundPresets": "Bakgrundsförinställningar",
+      "none": "Ingen",
+      "uploadBackground": "Ladda upp bakgrund",
+      "cancel": "Avboka",
+      "savePhoto": "Spara foto",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation & Tilt",
+      "resetRotation": "Återställ till 0°",
+      "center": "Centrum",
+      "rotateLeft": "Vrid -90°",
+      "rotateRight": "Vrid +90°",
+      "removeBackground": "Ta bort bakgrund",
+      "processing": "Bearbetar din bild, vänta..."
+    },
+    "cvPreview": {
+      "title": "Förhandsgranskning av CV",
+      "downloadCv": "Ladda ner CV",
+      "download": "Ladda ner",
+      "wordCannotPreview": "Word-dokument (.doc/.docx) kan inte förhandsgranskas inbyggt i webbläsaren. ",
+      "downloadFile": "Ladda ner CV-fil",
+      "back": "Tillbaka",
+      "mobileMessage": "Ladda ner CV-filen för att förhandsgranska den.",
+      "preview": "Förhandsgranska CV",
+      "wordPreviewTitle": "Förhandsgranskning av Word-dokument",
+      "wordPreviewMessage": "Word-dokument (.doc/.docx) kan inte förhandsgranskas inbyggt i webbläsaren. Ladda ner filen för att se den."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Skriv en kort beskrivning om dig själv, intressen och karriärmål..."
+    },
+    "skills": {
+      "placeholder": "Skriv färdighetsnamn...",
+      "add": "Tillägga",
+      "enterToAdd": "Tryck på Enter för att lägga till",
+      "noSkills": "Inga färdigheter har lagts till ännu."
+    },
+    "projects": {
+      "projectName": "Projektnamn",
+      "projectNamePlaceholder": "till exempel ",
+      "projectUrl": "Projektets URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Varaktighet",
+      "startMonth": "Startmånad",
+      "startYear": "Startår",
+      "endMonth": "Slutmånad",
+      "endYear": "Slutår",
+      "currentlyWorking": "Jobbar just nu med detta",
+      "description": "Beskrivning",
+      "descriptionPlaceholder": "Beskriv projektet, din roll och prestationer...",
+      "technologies": "Teknik som används",
+      "addProject": "Lägg till projekt",
+      "image": "Projektbild",
+      "removeImage": "Ta bort bild",
+      "uploadImage": "Klicka för att ladda upp bilden"
+    },
+    "work": {
+      "company": "Företag/Institution",
+      "companyPlaceholder": "Företagsnamn...",
+      "role": "Roll/Position",
+      "rolePlaceholder": "Din position...",
+      "jobType": "Typ av jobb",
+      "selectJobType": "Välj typ",
+      "fullTime": "Heltid",
+      "partTime": "På deltid",
+      "contract": "Kontrakt",
+      "internship": "Internship",
+      "freelance": "Frilans",
+      "location": "Plats",
+      "locationPlaceholder": "till exempel ",
+      "duration": "Varaktighet",
+      "currentlyWorking": "Jobbar här just nu",
+      "description": "Arbetsbeskrivning",
+      "descriptionPlaceholder": "Beskriv dina viktigaste ansvarsområden och prestationer...",
+      "skills": "Specifika färdigheter",
+      "addExperience": "Lägg till erfarenhet"
+    },
+    "org": {
+      "organization": "Organisationens namn",
+      "organizationPlaceholder": "Organisationens namn...",
+      "role": "Roll/Position",
+      "rolePlaceholder": "till exempel ",
+      "duration": "Varaktighet",
+      "periodFormat": "eller fritt format (t.ex. 2020–2022)",
+      "periodPlaceholder": "till exempel ",
+      "currentlyActive": "Aktiv för närvarande",
+      "description": "Aktivitetsbeskrivning",
+      "descriptionPlaceholder": "Beskriv dina aktiviteter eller bidrag...",
+      "addExperience": "Lägg till erfarenhet"
+    },
+    "education": {
+      "institution": "Institutionens namn",
+      "institutionPlaceholder": "Skolans eller universitetets namn...",
+      "degree": "Examen/Nivå",
+      "degreePlaceholder": "till exempel ",
+      "major": "Huvudämne/studieområde",
+      "majorPlaceholder": "till exempel ",
+      "gpa": "GPA / Betyg",
+      "gpaPlaceholder": "till exempel ",
+      "duration": "Utbildningslängd",
+      "periodFormat": "eller fritt format (t.ex. 2018–2022)",
+      "periodPlaceholder": "till exempel ",
+      "currentlyStudying": "Studerar för närvarande här",
+      "description": "Aktiviteter / Heder",
+      "descriptionPlaceholder": "Beskriv akademiska aktiviteter, organisationer eller utmärkelser som erhållits...",
+      "addEducation": "Lägg till utbildning"
+    },
+    "cert": {
+      "name": "Certifieringsnamn",
+      "namePlaceholder": "till exempel ",
+      "issuer": "Utgivande organisation",
+      "issuerPlaceholder": "till exempel ",
+      "issueDate": "Utgivningsdatum",
+      "expiryDate": "Gäller till",
+      "noExpiry": "Denna legitimation upphör inte att gälla",
+      "yearPlaceholder": "eller år (t.ex. 2023)",
+      "credentialUrl": "Autentiseringsadress",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Relaterade färdigheter",
+      "addCertification": "Lägg till certifiering",
+      "image": "Bild/logotyp",
+      "removeImage": "Ta bort bild",
+      "uploadImage": "Klicka för att ladda upp bilden"
+    },
+    "common": {
+      "months": {
+        "1": "januari",
+        "2": "februari",
+        "3": "mars",
+        "4": "april",
+        "5": "maj",
+        "6": "juni",
+        "7": "juli",
+        "8": "augusti",
+        "9": "september",
+        "10": "oktober",
+        "11": "november",
+        "12": "december"
+      },
+      "month": "Månad",
+      "year": "År",
+      "invalidDate": "Ogiltig slutmånad",
+      "words": "ord"
+    }
+  },
+  "settings": {
+    "title": "Inställningar",
+    "subtitle": "Hantera din portföljprofil och preferenser",
+    "tabs": {
+      "profile": "Min profil",
+      "security": "Säkerhet",
+      "personalization": "Personalisering"
+    },
+    "profile": {
+      "infoTitle": "Grundläggande information",
+      "photo": "Profilfoto",
+      "uploadPhoto": "Byt foto",
+      "fullName": "Fullständigt namn",
+      "fullNamePlaceholder": "John Doe",
+      "email": "E-postadress",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-post används för inloggning och visas inte offentligt.",
+      "portfolioUrl": "Portföljens URL",
+      "saveProfile": "Spara profil",
+      "save": "Spara profil",
+      "accountCreated": "Konto skapat",
+      "lastLogin": "Senaste inloggning",
+      "oauthNotice": "Den här profilen är kopplad till ditt {{provider}}-konto. Profiländringar måste göras via tjänsteleverantören."
+    },
+    "security": {
+      "changePassword": "Ändra lösenord",
+      "currentPassword": "Aktuellt lösenord",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Nytt lösenord",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Bekräfta nytt lösenord",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Minst 8 tecken",
+        "uppercase": "En stor bokstav (A-Z)",
+        "number": "Ett nummer (0-9)",
+        "symbol": "En symbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Lösenord",
+      "updatePassword": "Uppdatera lösenord",
+      "additionalSecurity": "Ytterligare säkerhet",
+      "twoFactor": "Tvåfaktorsautentisering (2FA)",
+      "twoFactorDesc": "Säkra ditt konto med en extra OTP-kod.",
+      "activeSessions": "Aktiva sessioner",
+      "activeSessionsDesc": "Tillåt alltid övervakning av inloggade enheter.",
+      "publicVisibility": "Offentlig synlighet",
+      "hideFromSearch": "Dölj portfölj från sökmotorer",
+      "hideFromSearchDesc": "Hindra Google från att indexera din offentliga portföljsida.",
+      "disable2fa": {
+        "title": "Inaktivera 2FA",
+        "description": "Är du säker på att du vill stänga av tvåfaktorsautentisering?",
+        "confirmPasswordLabel": "Ange ditt lösenord för att bekräfta",
+        "currentPasswordPlaceholder": "Aktuellt lösenord",
+        "cancelButton": "Avbryt",
+        "confirmButton": "Inaktivera 2FA",
+        "incorrectPassword": "Felaktigt lösenord."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skanna QR-koden",
+        "step1Desc": "Öppna din autentiseringsapp och skanna följande QR-kod:",
+        "unableToScan": "Kan du inte skanna? Använd inställningsnyckeln",
+        "step2Title": "2. Verifiera koden",
+        "step2Desc": "Ange den sexsiffriga koden som genereras av din app:",
+        "cancelButton": "Avboka",
+        "enableButton": "Aktivera 2FA",
+        "invalidLength": "Ange en 6-siffrig kod.",
+        "invalidCode": "Ogiltig verifieringskod. Försök igen."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Språkkontroller",
+      "appLanguage": "Appens språk",
+      "layoutTitle": "Layout & typografi",
+      "layoutStyle": "Layoutstil",
+      "layoutModern": "Modern stil (standard)",
+      "layoutClassic": "Klassisk stil",
+      "layoutMinimalist": "Minimalistisk stil",
+      "fontSize": "Appens teckenstorlek",
+      "fontSmall": "Små",
+      "fontNormal": "Normal (Medium)",
+      "fontLarge": "Stor",
+      "searchLanguage": "Sök språk...",
+      "languageNotFound": "Språket hittades inte",
+      "layoutElegant": "Elegant stil"
+    },
+    "saveChanges": "Spara ändringar",
+    "cancel": "Avboka",
+    "appSettings": "Appinställningar",
+    "logoutConfirmTitle": "Bekräfta utloggning",
+    "logoutConfirmDesc": "Är du säker på att du vill logga ut från systemet?",
+    "logoutConfirmYes": "Ja, logga ut",
+    "generalError": "Ett fel uppstod. ",
+    "success": "Framgång",
+    "preferencesSaved": "Appinställningarna har sparats.",
+    "header": "Applikationsinställningar",
+    "logout": {
+      "title": "Utloggningsbekräftelse",
+      "message": "Är du säker på att du vill logga ut från systemet?",
+      "confirm": "Ja, logga ut"
+    },
+    "about": {
+      "title": "Om ansökan",
+      "subtitle": "Portfolio Builder-plattform",
+      "version": "Version",
+      "description": "DevFolio är en modern portföljbyggarplattform designad för utvecklare, designers och professionella kreatörer. ",
+      "license": "Licens & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Med ensamrätt.",
+      "developer": "Framkallare",
+      "developedBy": "Utvecklat av DevFolio Team"
+    },
+    "deleteAccount": {
+      "title": "Ta bort konto permanent",
+      "menuItem": "Ta bort konto",
+      "successTitle": "Framgång",
+      "successMessage": "Ett bekräftelsemeddelande om borttagning av konto har skickats.",
+      "errorTitle": "Misslyckades",
+      "errorMessage": "Det gick inte att skicka bekräftelsemail.",
+      "confirmationMessage": "Är du säker på att du vill ta bort ditt konto permanent?",
+      "warningMessage1": "Du kommer att få ett e-postmeddelande för att bekräfta borttagningen av kontot.",
+      "warningMessage2": "Om den bekräftas kommer all data (portfölj, projekt, statistik) att raderas permanent och kan inte återställas.",
+      "cancel": "Avbryt",
+      "confirm": "Bekräftelse"
+    },
+    "toasts": {
+      "toastError": "Fel",
+      "toastSuccess": "Framgång",
+      "toastSetup2FAFailed": "Det gick inte att ställa in 2FA. Försök igen.",
+      "toast2FAEnabled": "Tvåfaktorsautentisering har aktiverats.",
+      "toast2FADisabled": "Tvåfaktorsautentisering har inaktiverats.",
+      "toastSessionEnabled": "Aktiv sessionsövervakning har aktiverats.",
+      "toastSessionDisabled": "Aktiv sessionsövervakning har inaktiverats.",
+      "toastSetupKeyCopied": "Inställningsnyckel kopierad till urklipp."
+    },
+    "privacy": {
+      "title": "Sekretesspolicy",
+      "updateDate": "Senast uppdaterad: 15 juli 2026",
+      "intro": "Denna integritetspolicy förklarar hur DevFolio samlar in, använder och skyddar din personliga information när du använder våra tjänster.",
+      "section1Title": "1. Information vi samlar in",
+      "section1Content": "Vi samlar in information som du ger direkt när du skapar ett konto, bygger en portfölj och kontaktar vår support. ",
+      "section2Title": "2. Användning av information",
+      "section2Content": "Din information används för att driva, underhålla och tillhandahålla funktionerna i våra tjänster, samt för att kommunicera med dig angående ditt konto eller tjänster.",
+      "section3Title": "3. Datasäkerhet",
+      "section3Content": "Vi implementerar rimliga säkerhetsåtgärder för att skydda din information från obehörig åtkomst, avslöjande eller förstörelse."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Bekräftelsetoken hittades inte.",
+    "defaultError": "Det gick inte att ta bort kontot. Token kan ha gått ut.",
+    "loadingTitle": "Tar bort konto...",
+    "loadingMessage": "Vänta, vi behandlar din förfrågan.",
+    "successTitle": "Kontot raderades framgångsrikt",
+    "successMessage": "All din data har raderats permanent. Du kommer att omdirigeras...",
+    "errorTitle": "Det gick inte att ta bort konto",
+    "backToHome": "Gå tillbaka till hemmet"
+  },
+  "forgotPassword": {
+    "minutes": "minuter",
+    "seconds": "sekunder",
+    "success": "Framgång",
+    "otpSentToEmail": "En OTP-kod har skickats till din e-post.",
+    "failed": "Misslyckades",
+    "emailNotFound": "E-post hittades inte.",
+    "emailThirdParty": "Detta e-postmeddelande är registrerat genom en tredje part.",
+    "genericError": "Det finns ett fel. Försök igen.",
+    "otpVerified": "OTP-koden har verifierats.",
+    "otpExpired": "OTP-koden har gått ut. Begär en ny kod.",
+    "otpInvalid": "Ogiltig OTP-kod.",
+    "otpResent": "En ny OTP-kod har skickats till din e-post.",
+    "otpResendFailed": "Det gick inte att skicka om OTP-koden. Försök igen.",
+    "passwordResetSuccess": "Lösenordet har återställts. Logga in med ditt nya lösenord.",
+    "passwordResetFailed": "Det gick inte att återställa lösenordet.",
+    "backToLogin": "Återgå till inloggning",
+    "back": "Tillbaka",
+    "title": "Glömt lösenord",
+    "description": "Ange e-postadressen som är registrerad på ditt konto. Vi skickar en OTP-kod för att återställa lösenordet.",
+    "emailLabel": "E-postadress",
+    "sending": "Skickar...",
+    "sendOtp": "Skicka OTP-kod",
+    "verifyOtpTitle": "Verifiera OTP-koden",
+    "verifyOtpDesc": "Ange den sexsiffriga koden som har skickats till din e-post för att bekräfta din identitet.",
+    "verifying": "Verifierar...",
+    "verifyOtp": "Verifiera OTP",
+    "resending": "Skickar om...",
+    "resendOtp": "Skicka OTP-kod igen",
+    "resendCodeIn": "Skicka koden igen i",
+    "newPasswordTitle": "Skapa ett nytt lösenord",
+    "newPasswordDesc": "Skapa ett nytt, starkt lösenord för att säkra ditt konto.",
+    "newPasswordLabel": "Nytt lösenord",
+    "min8Chars": "Minst 8 tecken",
+    "oneUpperCase": "1 versaler (A-Z)",
+    "oneNumber": "1 nummer (0-9)",
+    "oneSymbol": "1 symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Bekräfta lösenord",
+    "passwordsDoNotMatch": "Lösenord stämmer inte överens.",
+    "resettingPassword": "Återställ lösenord...",
+    "resetPassword": "Återställ lösenord"
+  },
+  "verifyEmail": {
+    "resendError": "Det gick inte att skicka om verifieringsmeddelandet. Försök igen.",
+    "checkingStatus": "Kontrollerar verifieringsstatus...",
+    "title": "Kontrollera din e-post",
+    "description": "Vi har skickat ett verifieringsmail till din e-postadress. Öppna e-postmeddelandet och klicka på knappen <1>\"Bekräfta konto\"</1> för att aktivera ditt konto.",
+    "stepsTitle": "Steg",
+    "step1": "Öppna ditt e-postprogram (Gmail, Yahoo, etc)",
+    "step2": "Leta efter ett e-postmeddelande från DevFolio med ämnet \"Kontoaktivering\"",
+    "step3": "Klicka på knappen \"Bekräfta konto\" i e-postmeddelandet",
+    "step4": "Du kommer att dirigeras till inloggningssidan för att gå in i",
+    "resendSuccess": "Verifieringsmailet har skickats om!",
+    "resending": "Skickar om...",
+    "resendButton": "Skicka verifieringse-post igen",
+    "backToLogin": "Återgå till inloggningssidan",
+    "footerNote": "Fick du inte mejlet? Kontrollera mappen <1>Skräppost</1> eller <2>Skräp</2> i din e-post. Verifieringslänken är giltig i <3>24 timmar</3>."
+  }
+}

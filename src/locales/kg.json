@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Bima",
+    "templates": "Bambandu",
+    "pricing": "Ntalu",
+    "login": "Kukota",
+    "getStarted": "Yantika",
+    "title": "Mukanda ya Kuyedisa"
+  },
+  "landing": {
+    "badge": "Muntu ya nsuka ya ke tungaka lutangu ya bima sambu na bantu yina ke salaka bisalu",
+    "title1": "Tunga kisalu na nge",
+    "title2": "lutangu na",
+    "titleHighlight": "basekonde.",
+    "subtitle": "Bima yonso ya nge kele na yo mfunu sambu na kumonisa mayele na nge, bisalu na nge, mpi eksperiansi na nge. ",
+    "startBuilding": "Yantika Kutunga Ntangu Yai",
+    "viewTemplates": "Tala bambandu",
+    "fastDeployment": "Kusadila nswalu",
+    "liveStatus": "zina ya muntu.dev kele na luzingu!",
+    "featuresTitle": "Bikalulu ya ngolo",
+    "featuresSubtitle": "Beto ke pesa bisadilu yonso ya nge kele na yo mfunu sambu na kuswaswana ti bantu ya nkaka mpi kubaka kisalu yina nge ke zolaka.",
+    "feature1Title": "Benda mpi losa muntu ya ke tungaka",
+    "feature1Desc": "Yidika bitini, bisalu, mpi mayele na nge kukonda mpasi ti editeur na beto ya ke monanaka mbote.",
+    "feature2Title": "Bantu-diambu ya bo me yidika",
+    "feature2Desc": "Pona na kati ya ba template yina bo me salaka na mutindu ya mbote to sala kifwanisu na nge mosi ya kuswaswana.",
+    "feature3Title": "Analyse ya ntangu ya kieleka",
+    "feature3Desc": "Landa banzenza na nge, tala bisalu yina bantu ke tulaka dikebi mingi, mpi mambu ya nkaka."
+  },
+  "auth": {
+    "welcomeBack": "Beno me vutuka mbote",
+    "loginToContinue": "Kota na konti na nge sambu na kulanda",
+    "createAccount": "Sala konti",
+    "joinCommunity": "Vukana ti mafunda ya ba developpeur ya nkaka",
+    "fullName": "Zina ya mvimba",
+    "fullNamePlaceholder": "mu mbandu ",
+    "email": "Adresi ya e-mail",
+    "emailPlaceholder": "nge@mbandu.com",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Yibuka mono",
+    "forgotPassword": "Nge me vila mot de passe?",
+    "signIn": "Kota",
+    "signingIn": "Kukota...",
+    "signUp": "Sonikisa zina",
+    "signingUp": "Kusonikisa zina...",
+    "noAccount": "Nge kele na konti ve?",
+    "hasAccount": "Nge kele dezia ti konti?",
+    "passwordRules": {
+      "title": "Mot de passe fwete vanda ti:",
+      "length": "Ata bisono 8",
+      "uppercase": "Kisono mosi ya nene (A-Z)",
+      "number": "Nimero mosi (0-9)",
+      "symbol": "Kidimbu mosi (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Muntu ya ke tungaka lutangu ya bima",
+      "templates": "Bambandu mpi Bantu-Diambu",
+      "settings": "Baparametre",
+      "collapse": "Kukulumusa Barre ya lweka",
+      "overview": "Bunda",
+      "profileSettings": "Parametre ya profil",
+      "customDomain": "Domaine ya nge mosi",
+      "feedback": "Komantere"
+    },
+    "header": {
+      "viewLive": "Tala na mbala mosi",
+      "welcome": "Kukwisa ya mbote,",
+      "logout": "Kubasika",
+      "builder": "Muntu ya ke tungaka",
+      "livePortfolio": "Lutangu ya bima",
+      "live": "Kuzinga"
+    },
+    "logoutModal": {
+      "title": "Kubasika",
+      "message": "Keti nge ke zola kubasika na konti na nge? ",
+      "cancel": "Kukatula",
+      "confirm": "Ee, Kubasika"
+    },
+    "slugModal": {
+      "title": "Pona URL ya lutangu ya bima na nge",
+      "message": "URL yayi ta vanda nzila ya ke nata nge na lutangu ya bima na nge. ",
+      "slugPlaceholder": "zina na nge",
+      "availability": "Kuvanda:",
+      "available": "Kele",
+      "unavailable": "Kele ve",
+      "checking": "Kutala...",
+      "mustFormat": "Yo lenda vanda kaka ti bisono, banombre, mpi bidimbu (-)",
+      "cancel": "Kukatula",
+      "save": "Lunda URL",
+      "usernameUrl": "URL ya zina ya muntu",
+      "helpText": "Bisono ya fioti, banombre, mpi bidimbu. ",
+      "validation": {
+        "empty": "Slug lenda vanda ve mpamba.",
+        "min3": "Minimum ya bisono 3.",
+        "max30": "Kuluta ve 30 ya bisono.",
+        "format": "Kaka bisono ya fioti, banombre, mpi bidimbu (-). "
+      }
+    },
+    "loadingPortfolio": "Kutula bansangu ya lutangu ya bima...",
+    "overview": {
+      "greetings": {
+        "morning": "Mbote suka",
+        "afternoon": "Mbote na nima ya midi",
+        "evening": "Mbote na nima ya midi",
+        "night": "Mpimpa ya mbote"
+      },
+      "welcome": {
+        "hi": "Mbote,",
+        "creator": "Ngangi",
+        "desc1": "Beno me kwisa na tableau ya DevFolio. Lutangu ya bima na nge me monana na",
+        "desc2": "muntu. Landa kusala!",
+        "editPortfolio": "Soba lutangu ya bima"
+      },
+      "stats": {
+        "totalVisitors": "Ntalu ya banzenza",
+        "projectViews": "Bo me tala yo (Projet)",
+        "activeSessions": "Kitini ya ke sala",
+        "totalLabel": "Mvimba"
+      },
+      "setup": {
+        "title": "Kuyidika mambu",
+        "completed": "Lutangu ya bima na nge me lungana! 🎉",
+        "inProgress": "Bitambi ya ke nata na portfolio ya kukuka.",
+        "profile": {
+          "title": "Profile ya mvimba",
+          "desc": "Yika zina, biografi mpi foto ya nge mosi."
+        },
+        "section": {
+          "title": "Yika bitini",
+          "desc": "Kusala ata kitini 1 na kati ya lutangu ya bima."
+        },
+        "project": {
+          "title": "Yika kisalu",
+          "desc": "Sonika ata 1 ya bisalu na nge ya kuluta mbote."
+        },
+        "publish": {
+          "title": "Basisa lutangu ya bima",
+          "desc": "Tula URL mosi ya nge me yidika sambu bantu yonso kumona yo."
+        }
+      },
+      "topProjects": {
+        "title": "Bisalu ya kuzabanaka mingi",
+        "desc": "Kusala kisalu na nge na meso ya banzenza.",
+        "viewAll": "Tala yonso",
+        "empty": "Ka vena nsangu za tala ko muna salu kiaku."
+      }
+    },
+    "themes": {
+      "title": "Bambandu & Bantu-Diambu",
+      "subtitle": "Yidika mutindu ya kutala mpi ya kumona portfolio na nge ya bantu yonso.",
+      "reset": "Kuvutula mambu ya ntete",
+      "save": "Lunda Bansoba",
+      "saving": "Kubumba...",
+      "chooseTemplate": "Pona Mutindu ya Kusala",
+      "primaryColor": "Mukubu ya Ntete",
+      "typography": "Kusonika",
+      "appearance": "Kumonana",
+      "corners": "Ba Nsuka & Ba Nsuka",
+      "successTitle": "Kununga",
+      "successMessage": "Ba nsatu ya ntu-dyambu me salama mbote",
+      "errorTitle": "Kifu",
+      "errorMessage": "Kukonda kubumba mambu ya ntu-dyambu",
+      "templates": {
+        "minimalist": {
+          "name": "Muntu ya fioti",
+          "desc": "Design ya bunkete mpi ya pete yina ke tula dikebi na mambu yina kele na kati."
+        },
+        "developerDark": {
+          "name": "Muntu ya ke salaka mpimpa",
+          "desc": "Ntu-dyambu ya ndombe mefwana sambu na kumonisa ba stack ya bakode mpi ya teknolozi."
+        },
+        "creative": {
+          "name": "Kuganga",
+          "desc": "Layout ya ngolo mpi ya mikubu mingi sambu na bantu yina ke salaka bifwanisu mpi bantu yina ke salaka bifwanisu."
+        },
+        "executive": {
+          "name": "Mfumu",
+          "desc": "Layout ya kisalu mpi ya me fwana sambu na bantu ya kisalu ya mumbongo."
+        },
+        "bentoGrid": {
+          "name": "Grille ya Bento",
+          "desc": "Layout ya grille ya bubu yai ya mutindu ya Apple yina ke monisa mayele ya mutindu na mutindu na mutindu ya mbote."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalisme",
+          "desc": "Bandilu ya ngolo mpi mikubu ya kuswaswana mingi sambu na kumonana ya mpa mpi ya kukonda kulomba ndolula."
+        },
+        "glassmorphism": {
+          "name": "Morfisme ya ditensi",
+          "desc": "Ba effet ya verre ya glacé na zulu ya ba gradient ya couleur sambu na UI ya bilumbu yai ya kitoko."
+        },
+        "linkInBio": {
+          "name": "Lien na Bio",
+          "desc": "Layout ya kutelema ya fioti ya bo me yidika mbote sambu na ba écran ya telefone mpi ba réseaux sociaux."
+        }
+      },
+      "appearances": {
+        "light": "Nsemo",
+        "dark": "Mpimpa",
+        "system": "Sisteme"
+      },
+      "cornersOptions": {
+        "sharp": "Ngolo",
+        "rounded": "Kuzunga",
+        "pill": "Pilule"
+      }
+    },
+    "feedback": {
+      "title": "Tinda mvutu",
+      "subtitle": "Sadisa beto na kusala yau mbote na kupesaka bangindu, kutonga, to kuzabisa bifu na application yayi.",
+      "categoryLabel": "Kitini ya Bamvutu",
+      "messageLabel": "Mambu ya Nsangu",
+      "messagePlaceholder": "Tubila mono na bunda mambu ya nge ke zola kupesa...",
+      "imageLabel": "Kukangama ya Kifwanisu (Kupona)",
+      "imagePlaceholder": "Fina sambu na kutula kifwanisu to kifwanisu ya ecran",
+      "submitting": "Kutinda...",
+      "submitBtn": "Tinda mvutu",
+      "categories": {
+        "suggestion": "Mabanza & Mabanza",
+        "bug": "Rapore ya Kifu / Kifu",
+        "criticism": "Kutonga",
+        "other": "Bantu ya nkaka"
+      },
+      "imageErrorTitle": "Kifu",
+      "imageErrorMessage": "Ba fichiers ya nkaka ke buyaka sambu ba ke ndimaka ve ba format ya bifwanisu (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Kununga",
+      "successMessage": "Matondo sambu na mvutu na nge! Bo me tinda rapore.",
+      "submitErrorTitle": "Kukonda kununga",
+      "submitErrorMessage": "Kifu mosi me salama ntangu bo vandaka kutinda mvutu. Meka diaka."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Sambu na mono",
+      "skills": "Mayele",
+      "projects": "Bisalu",
+      "workExperience": "Mambu ya kisalu",
+      "orgExperience": "Mambu ya Kimvuka",
+      "education": "Kulonga",
+      "certifications": "Formation & mikanda ya ke ndimisa",
+      "contact": "Solula ti mono"
+    },
+    "editor": {
+      "profileInfo": "Bansangu ya kimuntu",
+      "saving": "Kubumba...",
+      "profilePhoto": "Kifwanisu ya kimuntu",
+      "clickToUpload": "Niema sambu na kutula yo (JPG, PNG)",
+      "fullName": "Zina ya mvimba",
+      "fullNamePlaceholder": "mu mbandu ",
+      "bio": "Bio",
+      "bioPlaceholder": "Muntu ya ke salaka Fullstack ti mpusa ya ngolo ya kutunga ba application ya web ya bilumbu yai...",
+      "location": "Kisika",
+      "locationPlaceholder": "mu mbandu ",
+      "gender": "Bakala to nkento",
+      "selectGender": "Pona Kikento to bakala",
+      "male": "Bakala",
+      "female": "Nkento",
+      "custom": "Kikalulu",
+      "customPlaceholder": "Sonika genre na nge...",
+      "uploadCv": "Tula CV",
+      "cvFormat": "(DOC to PDF)",
+      "preview": "Kumona na ntwala",
+      "remove": "Kukatula",
+      "clickToUploadCv": "Fina sambu na kutula PDF to DOC",
+      "sections": "Bitini",
+      "removeSelected": "Katula yina nge me pona",
+      "confirmRemove": "Ndimisa Katula",
+      "addSection": "Yika Kitini",
+      "addAllSections": "Yika bitini yonso",
+      "noSections": "Ata kitini mosi ve",
+      "clickToAdd": "Fina na \"+ Yika Kitini\" sambu na kuyantika",
+      "selectAll": "Pona Nionso",
+      "selected": "Bo me pona",
+      "dragToReorder": "Benda sambu na kuyidika diaka bitini",
+      "livePreview": "Previsualisation en direct",
+      "addSectionsToBuild": "Yika bitini sambu na kutunga lutangu ya bima na nge",
+      "now": "Sesepi",
+      "current": "Ya mpa",
+      "noExpiry": "Kukonda Kumanisa",
+      "see": "Tala",
+      "position": "Position",
+      "degree": "Kiteso",
+      "certification": "Kupesa nswa",
+      "sectionsForm": {
+        "about": {
+          "label": "Ntendula ya nge mosi",
+          "placeholder": "Tubila beto mambu ya nge mosi, luzingu na nge, mambu ya nge ke zolaka mpi mayele na nge..."
+        },
+        "skills": {
+          "addPlaceholder": "Sonika mayele na nima niema Kota..."
+        },
+        "projects": {
+          "title": "Zina ya kisalu",
+          "titlePlaceholder": "Zina ya kisalu...",
+          "url": "URL ya kisalu",
+          "description": "Ntendula",
+          "descriptionPlaceholder": "Ntendula ya nkufi ya kisalu...",
+          "uploadThumbnail": "Kifwanisu ya kisalu",
+          "addProject": "Yika kisalu",
+          "projectNum": "Kisalu #",
+          "currentProject": "Yai kele kisalu ya mono ke sala"
+        },
+        "work": {
+          "company": "Kompani/Kimvuka",
+          "companyPlaceholder": "Zina ya kompani...",
+          "position": "Kisika/Nkumbu",
+          "positionPlaceholder": "Kisika na nge...",
+          "employmentType": "Mutindu ya kisalu",
+          "location": "Kisika",
+          "locationPlaceholder": "Mbanza, Insi...",
+          "startDate": "Kuyantika",
+          "endDate": "Manisaka",
+          "currentWork": "Mono ke sala kaka na ntangu yai",
+          "description": "Ntendula",
+          "descriptionPlaceholder": "Ntendula ya kisalu mpi mikumba...",
+          "skills": "Mayele",
+          "addExperience": "Yika eksperiansi ya kisalu",
+          "experienceNum": "Eksperiansi #",
+          "dateError": "Kilumbu ya nsuka lenda vanda ve na ntwala ya kilumbu ya luyantiku ."
+        },
+        "org": {
+          "organization": "Zina ya kimvuka",
+          "orgPlaceholder": "Nzo-nkanda ya nene ya BEM...",
+          "role": "Mukumba/Kisika",
+          "rolePlaceholder": "Mfumu ya kitini...",
+          "addOrg": "Yika eksperiansi ya kimvuka",
+          "orgNum": "Kimvuka #"
+        },
+        "edu": {
+          "institution": "Bimvuka ya malongi",
+          "institutionPlaceholder": "Zina ya campus to nzo-nkanda...",
+          "degree": "Titre",
+          "degreePlaceholder": "S1, nzo-nkanda ya nene, mpi buna na buna...",
+          "major": "Departema/Kisika ya Kulonguka",
+          "majorPlaceholder": "Ingénierie ya bansangu...",
+          "gpa": "GPA (ya kupona)",
+          "currentStudy": "Mono ke longuka kaka awa",
+          "descriptionPlaceholder": "Bisalu mpi mambu ya bo me sala na ntangu ya kulonguka...",
+          "addEdu": "Yika malongi",
+          "eduNum": "Kulonga #"
+        },
+        "cert": {
+          "name": "Zina ya Diplome / Formation",
+          "namePlaceholder": "Zina ya mukanda...",
+          "issuer": "Muntu ya ke basisaka mikanda",
+          "issuerPlaceholder": "Kimvuka ya kubasisa mikanda...",
+          "issueDate": "Yantika (Kilumbu ya Kubasisa)",
+          "issueDatePlaceholder": "Pona kilumbu ya kubasika...",
+          "expiryDate": "Kumanisa (Nsungi ya Kusadila)",
+          "expiryDatePlaceholder": "Pona kilumbu ya kumanisa...",
+          "noExpiry": "Mukanda yai kele ve ti kilumbu ya kumanisa",
+          "url": "URL ya Kizitu",
+          "uploadThumbnail": "Mukanda / Kifwanisu ya formasio",
+          "uploadThumbnailLimit": "Tula kifwanisu ya mukanda ya ke ndimisa (JPG/PNG/WEBP, kuluta ve 2MB)",
+          "addCert": "Yika mukanda ya ke ndimisa",
+          "certNum": "Nsikudukusu #"
+        },
+        "contact": {
+          "contactNum": "Kusolula #",
+          "platform": "Estrade",
+          "displayText": "Monisa masonama",
+          "displayTextPlaceholder": "mu mbandu, nge@email.com to @zina ya kusadila",
+          "url": "Lien (URL)",
+          "urlPlaceholderWhatsapp": "mu mbandu, 62812... (kukonda 0 ya ntete)",
+          "urlPlaceholderEmail": "mu mbandu, nge@email.com",
+          "urlPlaceholderWebsite": "mu mbandu, http://...",
+          "urlPlaceholderDefault": "mu mbandu, zina ya muntu",
+          "addContact": "Yika muntu"
+        },
+        "common": {
+          "months": {
+            "1": "Ngonda ya ntete",
+            "2": "Ngonda ya zole",
+            "3": "Kutambula",
+            "4": "Ngonda ya iya",
+            "5": "Lenda",
+            "6": "Ngonda ya sambanu",
+            "7": "Ngonda ya nsambwadi",
+            "8": "Ngonda ya nana",
+            "9": "Ngonda ya uvwa",
+            "10": "Ngonda ya kumi",
+            "11": "Ngonda ya kumi na mosi",
+            "12": "Ngonda ya kumi na zole"
+          },
+          "month": "Ngonda",
+          "year": "Mvula",
+          "invalidDate": "Ngonda ya nsuka kele ve mbote",
+          "words": "bangogo"
+        }
+      },
+      "sure": "Mpidina",
+      "deletePhotoTitle": "Kufwa foto ya profil?",
+      "deletePhotoMessage": "Keti nge ke zola kufwa kifwanisu yai?",
+      "cancel": "Kukatula",
+      "delete": "Kuvwansa"
+    },
+    "cropper": {
+      "chooseBackground": "Pona fond",
+      "cropPhoto": "Katula kifwanisu na nge",
+      "useOriginal": "Sadila ya kisina",
+      "backgroundPresets": "Bapreset ya nsuka",
+      "none": "Mosi ve",
+      "uploadBackground": "Tula mambu na nima",
+      "cancel": "Kukatula",
+      "savePhoto": "Lunda kifwanisu",
+      "zoom": "Zoom",
+      "rotationTilt": "Kubaluka & Kubaluka",
+      "resetRotation": "Vutula na 0°",
+      "center": "Katikati",
+      "rotateLeft": "Balula -90°",
+      "rotateRight": "Balula +90°",
+      "removeBackground": "Katula mambu ya nima",
+      "processing": "Kuyidika kifwanisu na nge, pardo vingila..."
+    },
+    "cvPreview": {
+      "title": "Kumona CV",
+      "downloadCv": "Baka CV",
+      "download": "Kubaka",
+      "wordCannotPreview": "Mikanda ya Word (.doc/.docx) lenda monana ve na mutindu ya kisina na nzila ya nzila ya kutala. ",
+      "downloadFile": "Baka mukanda ya CV",
+      "back": "Nima",
+      "mobileMessage": "Nlemvuka baka fichier ya CV samu na kutala yau.",
+      "preview": "Tala CV",
+      "wordPreviewTitle": "Kumona na ntwala mukanda ya Word",
+      "wordPreviewMessage": "Mikanda ya Word (.doc/.docx) lenda monana ve na mutindu ya kisina na nzila ya nzila ya kutala. Baka mukanda yina sambu na kumona yo."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Sonika ntendula ya nkufi ya me tala nge mosi, mambu ya nge ke zolaka, mpi balukanu ya kisalu..."
+    },
+    "skills": {
+      "placeholder": "Sonika zina ya mayele...",
+      "add": "Kuyika",
+      "enterToAdd": "Fina Enter sambu na kuyika",
+      "noSkills": "Ata mayele mosi ve me yikama ntete."
+    },
+    "projects": {
+      "projectName": "Zina ya kisalu",
+      "projectNamePlaceholder": "mu mbandu ",
+      "projectUrl": "URL ya kisalu",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Bunda",
+      "startMonth": "Ngonda ya luyantiku",
+      "startYear": "Mvula ya luyantiku",
+      "endMonth": "Nsuka ya Ngonda",
+      "endYear": "Nsuka ya Mvula",
+      "currentlyWorking": "Ntangu yai mono ke sala yo",
+      "description": "Ntendula",
+      "descriptionPlaceholder": "Tendula kisalu, kisalu na nge, mpi mambu ya nge me sala...",
+      "technologies": "Teknolozi ya bo ke sadilaka",
+      "addProject": "Yika kisalu",
+      "image": "Kifwanisu ya kisalu",
+      "removeImage": "Katula kifwanisu",
+      "uploadImage": "Niema sambu na kutula kifwanisu"
+    },
+    "work": {
+      "company": "Société/Institution",
+      "companyPlaceholder": "Zina ya kompani...",
+      "role": "Mukumba/Kisika",
+      "rolePlaceholder": "Kisika na nge...",
+      "jobType": "Mutindu ya kisalu",
+      "selectJobType": "Pona mutindu",
+      "fullTime": "Ntangu yonso",
+      "partTime": "Ntangu fioti",
+      "contract": "Kontra",
+      "internship": "Stage",
+      "freelance": "Kisalu ya yandi mosi",
+      "location": "Kisika",
+      "locationPlaceholder": "mu mbandu ",
+      "duration": "Bunda",
+      "currentlyWorking": "Mono ke sala sesepi awa",
+      "description": "Ntendula ya kisalu",
+      "descriptionPlaceholder": "Tendula mikumba na nge ya mfunu mpi mambu ya nge me sala...",
+      "skills": "Mayele ya sikisiki",
+      "addExperience": "Yika eksperiansi"
+    },
+    "org": {
+      "organization": "Zina ya kimvuka",
+      "organizationPlaceholder": "Zina ya kimvuka...",
+      "role": "Mukumba/Kisika",
+      "rolePlaceholder": "mu mbandu ",
+      "duration": "Bunda",
+      "periodFormat": "to mutindu ya ofele (mu mbandu 2020 - 2022)",
+      "periodPlaceholder": "mu mbandu ",
+      "currentlyActive": "Ya ke sala sesepi",
+      "description": "Ntendula ya kisalu",
+      "descriptionPlaceholder": "Tendula bisalu to makabu na nge...",
+      "addExperience": "Yika eksperiansi"
+    },
+    "education": {
+      "institution": "Zina ya kimvuka",
+      "institutionPlaceholder": "Zina ya nzo-nkanda to ya iniversite...",
+      "degree": "Diplome/Nivo",
+      "degreePlaceholder": "mu mbandu ",
+      "major": "Kitini ya nene/Kisika ya Kulonguka",
+      "majorPlaceholder": "mu mbandu ",
+      "gpa": "GPA / Noti",
+      "gpaPlaceholder": "mu mbandu ",
+      "duration": "Ntangu ya malongi",
+      "periodFormat": "to mutindu ya ofele (mu mbandu 2018 - 2022)",
+      "periodPlaceholder": "mu mbandu ",
+      "currentlyStudying": "Ntangu yai mono ke longuka awa",
+      "description": "Bisalu / Lukumu",
+      "descriptionPlaceholder": "Tendula bisalu ya nzo-nkanda, bimvuka, to lukumu ya bo me baka...",
+      "addEducation": "Yika malongi"
+    },
+    "cert": {
+      "name": "Zina ya mukanda",
+      "namePlaceholder": "mu mbandu ",
+      "issuer": "Kimvuka ya ke basisa mikanda",
+      "issuerPlaceholder": "mu mbandu ",
+      "issueDate": "Kilumbu ya kubasika",
+      "expiryDate": "Yo kele mfunu tii kuna",
+      "noExpiry": "Nsikudukusu yayi ke manisa ve",
+      "yearPlaceholder": "to Mvula (mu mbandu 2023)",
+      "credentialUrl": "URL ya Kizitu",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Mayele ya ke wakana",
+      "addCertification": "Yika mukanda ya ke ndimisa",
+      "image": "Kifwanisu/Kidimbu",
+      "removeImage": "Katula kifwanisu",
+      "uploadImage": "Niema sambu na kutula kifwanisu"
+    },
+    "common": {
+      "months": {
+        "1": "Ngonda ya ntete",
+        "2": "Ngonda ya zole",
+        "3": "Kutambula",
+        "4": "Ngonda ya iya",
+        "5": "Lenda",
+        "6": "Ngonda ya sambanu",
+        "7": "Ngonda ya nsambwadi",
+        "8": "Ngonda ya nana",
+        "9": "Ngonda ya uvwa",
+        "10": "Ngonda ya kumi",
+        "11": "Ngonda ya kumi na mosi",
+        "12": "Ngonda ya kumi na zole"
+      },
+      "month": "Ngonda",
+      "year": "Mvula",
+      "invalidDate": "Ngonda ya nsuka kele ve mbote",
+      "words": "bangogo"
+    }
+  },
+  "settings": {
+    "title": "Baparametre",
+    "subtitle": "Landila lutangu ya bima na nge mpi mambu ya nge ke zolaka",
+    "tabs": {
+      "profile": "Profile na mono",
+      "security": "Lutaninu",
+      "personalization": "Kuyidika mambu na nge mosi"
+    },
+    "profile": {
+      "infoTitle": "Bansangu ya mfunu",
+      "photo": "Kifwanisu ya kimuntu",
+      "uploadPhoto": "Soba kifwanisu",
+      "fullName": "Zina ya mvimba",
+      "fullNamePlaceholder": "Yoane Doe",
+      "email": "Adresi ya e-mail",
+      "emailPlaceholder": "john@mbandu.com",
+      "emailHelp": "Email ke sadilamaka sambu na kukota mpi yo ke monisamaka ve na meso ya bantu yonso.",
+      "portfolioUrl": "URL ya lutangu ya bima",
+      "saveProfile": "Bumba profil",
+      "save": "Bumba profil",
+      "accountCreated": "Bo me sala konti",
+      "lastLogin": "Kukota ya nsuka",
+      "oauthNotice": "Nzila yayi me vukana na konti {{provideur}} na nge. Nsoba ya profil fwete salama na nzila ya muntu yina ke pesaka bisalu."
+    },
+    "security": {
+      "changePassword": "Soba mot de passe",
+      "currentPassword": "Mot de passe",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Mot de passe ya mpa",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Ndimisa mot de passe ya mpa",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "Ata bisono 8",
+        "uppercase": "Kisono mosi ya nene (A-Z)",
+        "number": "Nimero mosi (0-9)",
+        "symbol": "Kidimbu mosi (!@#$%^&*)"
+      },
+      "passwordTitle": "Mot de passe",
+      "updatePassword": "Kuyidika mot de passe",
+      "additionalSecurity": "Lutaninu ya nkaka",
+      "twoFactor": "Kundimisa mambu zole (2FA)",
+      "twoFactorDesc": "Lutanina konti na nge na kusadilaka kode ya nkaka ya OTP.",
+      "activeSessions": "Balukutakanu ya ke sala",
+      "activeSessionsDesc": "Bika ntangu yonso kulanda ba apareyi yina me kota.",
+      "publicVisibility": "Kumonana ya Bantu Yonso",
+      "hideFromSearch": "Bumba lutangu ya bima na ba masini ya kusosila",
+      "hideFromSearchDesc": "Buyisa Google na kutula na index lutiti ya lutangu ya bima na nge ya bantu yonso.",
+      "disable2fa": {
+        "title": "Katula 2FA",
+        "description": "Keti nge ke ndima nde nge ke zola kufwa authentification à deux facteurs?",
+        "confirmPasswordLabel": "Sonika mot de passe sambu na kundimisa",
+        "currentPasswordPlaceholder": "Mot de passe",
+        "cancelButton": "Katula",
+        "confirmButton": "Katula 2FA",
+        "incorrectPassword": "Mot de passe ya mbote ve."
+      },
+      "setup2fa": {
+        "step1Title": "1. Tala code QR",
+        "step1Desc": "Kangula application na nge ya authentificateur mpi scanner code QR yai:",
+        "unableToScan": "Nge lenda scanner ve? Sadila nsabi ya kutula",
+        "step2Title": "2. Zikisa Kode",
+        "step2Desc": "Sonika code ya ba ntalu 6 yina appli na nge me basisa:",
+        "cancelButton": "Kukatula",
+        "enableButton": "Kangula 2FA",
+        "invalidLength": "Sonika code ya 6 chiffres.",
+        "invalidCode": "Kode ya kuzikisa kele ve mbote. Meka diaka."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kulandila ndinga",
+      "appLanguage": "Ndinga ya application",
+      "layoutTitle": "Mutindu ya kuyidika mpi mutindu ya kusonika",
+      "layoutStyle": "Mutindu ya Kuyidika",
+      "layoutModern": "Mutindu ya bubu yai (ya luyantiku)",
+      "layoutClassic": "Mutindu ya ntama",
+      "layoutMinimalist": "Mutindu ya fioti",
+      "fontSize": "Bunene ya bisono ya application",
+      "fontSmall": "Ya fioti",
+      "fontNormal": "Normal (Katikati)",
+      "fontLarge": "Nene",
+      "searchLanguage": "Sosa ndinga...",
+      "languageNotFound": "Ndinga me monana ve",
+      "layoutElegant": "Mutindu ya kitoko"
+    },
+    "saveChanges": "Lunda bansoba",
+    "cancel": "Kukatula",
+    "appSettings": "Parametre ya application",
+    "logoutConfirmTitle": "Ndimisa Kubasika",
+    "logoutConfirmDesc": "Keti nge ke ndima nde nge ke zola kubasika na ngidika yina?",
+    "logoutConfirmYes": "Ee, Kubasika",
+    "generalError": "Kifu mosi me salama. ",
+    "success": "Kununga",
+    "preferencesSaved": "Ba preference ya application me bumbana mbote.",
+    "header": "Parametre ya application",
+    "logout": {
+      "title": "Ndimisa ya kubasika",
+      "message": "Keti nge ke ndima nde nge ke zola kubasika na ngidika yina?",
+      "confirm": "Ee, Kubasika"
+    },
+    "about": {
+      "title": "Na yina me tala application",
+      "subtitle": "Platforme ya muntu ya ke salaka lutangu ya bima",
+      "version": "Versio",
+      "description": "DevFolio kele plateforme ya kutunga ba portfolio ya bilumbu yai ya bo me salaka sambu na bantu yina ke salaka bifwanisu, bantu yina ke salaka bifwanisu, mpi bantu yina ke salaka bifwanisu ya mbote. ",
+      "license": "Nswa & Nswa ya Bansoniki",
+      "copyright": "© 2026 DevFolio Inc. Banswa yonso kele ya bo me bumbaka.",
+      "developer": "Muntu ya ke salaka",
+      "developedBy": "Muntu yina salaka yo kele Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Kufwa Konti kimakulu",
+      "menuItem": "Kufwa Konti",
+      "successTitle": "Kununga",
+      "successMessage": "Bo me tinda mukanda ya ke ndimisa nde bo me katula konti.",
+      "errorTitle": "Kukonda kununga",
+      "errorMessage": "Kukonda kutinda e-mail ya kundimisa.",
+      "confirmationMessage": "Keti nge ke ndima nde nge ke zola kufwa konti na nge kimakulu?",
+      "warningMessage1": "Nge ta baka e-mail sambu na kundimisa nde bo me katula konti na nge.",
+      "warningMessage2": "Kana bo me ndima yo, bansangu yonso (portefeuille, baprojet, ba statistique) ta katuka kimakulu mpi bo lenda vutudila yo diaka ve.",
+      "cancel": "Kukatula",
+      "confirm": "Ndimisa"
+    },
+    "toasts": {
+      "toastError": "Kifu",
+      "toastSuccess": "Kununga",
+      "toastSetup2FAFailed": "Kukonda kutula 2FA. Meka diaka.",
+      "toast2FAEnabled": "Bo me kangulaka authentification ya bima zole.",
+      "toast2FADisabled": "Bo me kangaka authentification ya bima zole.",
+      "toastSessionEnabled": "Kulandila session ya ke sala me salama.",
+      "toastSessionDisabled": "Kulandila ya session ya ke sala me kangama.",
+      "toastSetupKeyCopied": "Nsabi ya kutula kopi na tablo ya kukangama."
+    },
+    "privacy": {
+      "title": "Nsiku ya kinsweki",
+      "updateDate": "Nsuka ya kuyidika: Yuli 15, 2026",
+      "intro": "Nsiku yai ya ke tadila mambu ya kinsweki ke tendula mutindu DevFolio ke vukisaka, ke sadilaka mpi ke taninaka bansangu na nge ntangu nge ke sadilaka bisalu na beto.",
+      "section1Title": "1. Bansangu Tuvukisaka",
+      "section1Content": "Beto ke vukisaka bansangu yina nge ke pesaka mbala mosi ntangu nge ke salaka konti, ke tungaka lutangu ya bima mpi ke solulaka ti bantu yina ke sadisaka beto. ",
+      "section2Title": "2. Sadila Bansangu .",
+      "section2Content": "Bo ke sadilaka bansangu na nge sambu na kusadila, kutanina mpi kupesa bisadilu na beto, mpi sambu na kusolula ti nge na yina me tala konti to bisalu na nge.",
+      "section3Title": "3. Lutaninu ya Bansangu",
+      "section3Content": "Beto ke sadilaka bangidika ya mbote sambu na kutanina bansangu na nge sambu bantu ya nkaka kukota ve na bansangu na nge, kuzabisa yo ve to kubebisa yo ve."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Kidimbu ya kundimisa me monana ve.",
+    "defaultError": "Bo me kuka ve kufwa konti. Ziku kidimbu yina me manaka.",
+    "loadingTitle": "Kufwanisa Konti...",
+    "loadingMessage": "Vingila, beto ke na kusadila mambu ya nge me lomba.",
+    "successTitle": "Konti me katuka mbote",
+    "successMessage": "Bo me katulaka bansangu na nge yonso kimakulu. Ngeye si wa kwenda...",
+    "errorTitle": "Kukonda Kufwa Konti",
+    "backToHome": "Vutuka na Nzo"
+  },
+  "forgotPassword": {
+    "minutes": "miniti",
+    "seconds": "sekondi",
+    "success": "Kununga",
+    "otpSentToEmail": "Bo me tinda code OTP na email na nge.",
+    "failed": "Kukonda kununga",
+    "emailNotFound": "Email me monana ve.",
+    "emailThirdParty": "E-mail yayi me sonikama na nzila ya muntu ya nkaka.",
+    "genericError": "Kifu kele. Meka diaka.",
+    "otpVerified": "E nkumbu a OTP yasikidiswa mu mpila yambote.",
+    "otpExpired": "Nsiku ya OTP me mana. Lomba kode ya mpa.",
+    "otpInvalid": "Kode ya OTP ya mbote ve.",
+    "otpResent": "Bo me tinda code ya mpa ya OTP na email na nge.",
+    "otpResendFailed": "Kukonda kutinda diaka code OTP. Meka diaka.",
+    "passwordResetSuccess": "Mot de passe me vutuka mbote. Kota na nzila ya ngogo ya kukotila ya mpa.",
+    "passwordResetFailed": "Kukonda kuvutula mot de passe.",
+    "backToLogin": "Vutuka na Kukota",
+    "back": "Kuvutuka",
+    "title": "Kuvila Mot de passe",
+    "description": "Sonika adresi ya e-mail yina bo me sonikisaka na konti na nge. Beto ta tinda code OTP sambu na kuvutula mot de passe.",
+    "emailLabel": "Adresi ya E-mail",
+    "sending": "Kutinda...",
+    "sendOtp": "Tinda Kode ya OTP",
+    "verifyOtpTitle": "Zikisa Kode ya OTP",
+    "verifyOtpDesc": "Sonika code ya 6 chiffres yina bo me tinda na e-mail na nge sambu na kundimisa kimuntu na nge.",
+    "verifying": "Kuzikisa...",
+    "verifyOtp": "Zikisa OTP",
+    "resending": "Kutinda diaka...",
+    "resendOtp": "Tinda diaka Kode ya OTP",
+    "resendCodeIn": "Tinda diaka kode na",
+    "newPasswordTitle": "Sala Mot de passe ya mpa",
+    "newPasswordDesc": "Sala mot de passe ya mpa mpi ya ngolo sambu na kutanina konti na nge.",
+    "newPasswordLabel": "Mot de passe ya mpa",
+    "min8Chars": "Minimum ya 8 ya bisono",
+    "oneUpperCase": "1 bisono ya nene (A-Z)",
+    "oneNumber": "1 ntalu (0-9)",
+    "oneSymbol": "1 kidimbu (!@#$%^&*)",
+    "confirmPasswordLabel": "Ndimisa Mot de passe",
+    "passwordsDoNotMatch": "Ba mot de passe ke wakana ve.",
+    "resettingPassword": "Kuvutula Mot de passe...",
+    "resetPassword": "Kuvutula mot de passe"
+  },
+  "verifyEmail": {
+    "resendError": "Kukonda kutinda diaka e-mail ya kuzikisa. Meka diaka.",
+    "checkingStatus": "Kutala kisika ya kuzikisa...",
+    "title": "Tala Email Na Nge",
+    "description": "Beto me tinda mukanda ya kundimisa na adresi na nge ya e-mail. Kangula email mpe niema <1>\"Ndimisa konti\"</1> samu na kupesa konti na nge nzila.",
+    "stepsTitle": "Bitambi",
+    "step1": "Kangula nzila ya email (Gmail, Yahoo, mpi buna na buna)",
+    "step2": "Sosa email ya DevFolio yina kele na ntu-dyambu \"Kusala Konti\"",
+    "step3": "Fina na button \"Confirmer le compte\" na kati ya email",
+    "step4": "Nge ta kwenda na lutiti ya kukota sambu na kukota",
+    "resendSuccess": "Bo me tinda diaka e-mail ya kuzikisa!",
+    "resending": "Kutinda diaka...",
+    "resendButton": "Tinda Diaka Email ya Kuzikisa",
+    "backToLogin": "Vutuka na Lutiti ya Kukota",
+    "footerNote": "Nge me baka ve e-mail yina? Tala <1>Spam</1> to <2>Junk</2> na kati ya mukanda na nge. Nzila ya kuzikisa kele na mfunu sambu na <3>bangunga 24</3>."
+  }
+}

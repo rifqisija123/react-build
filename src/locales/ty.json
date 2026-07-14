@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ata",
+    "templates": "Ngā hi'oraa",
+    "pricing": "Te hoo",
+    "login": "Tomo",
+    "getStarted": "Haamata",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Te taata patu hoho'a hopea no te feia hamani",
+    "title1": "A patu i to outou toro'a",
+    "title2": "hoho'a",
+    "titleHighlight": "tetoni.",
+    "subtitle": "Te mau mea atoa e titauhia no te faaite i to outou mau aravihi, mau opuaraa, e to outou ite. ",
+    "startBuilding": "A haamata i te patu i teie nei",
+    "viewTemplates": "Hi'o i te mau hoho'a",
+    "fastDeployment": "Te tonoraa oioi",
+    "liveStatus": "E mea ora te i'oa faaohipa.dev!",
+    "featuresTitle": "Te mau huru puai",
+    "featuresSubtitle": "Te horo'a nei matou i te mau rave'a atoa e titauhia no te faataa i te nahoa taata e no te farii i ta outou ohipa moemoeâ.",
+    "feature1Title": "To'o e tuu i te taata patu",
+    "feature1Desc": "Mea ohie roa ia faanaho i ta outou mau tuhaa, mau opuaraa, e ta outou mau aravihi na roto i ta tatou papa'i ve'a hoho'a.",
+    "feature2Title": "Te mau tumu parau matauhia",
+    "feature2Desc": "A ma'iti i rotopu i te mau hoho'a i papa'ihia ma te aravihi e aore râ, a hamani i to oe iho hoho'a taa ê.",
+    "feature3Title": "Te mau hi'opo'araa i te mau taime mau",
+    "feature3Desc": "A hi'opo'a i to outou mau manihini, a hi'o e, eaha te mau opuaraa e haapa'o rahi a'e nei, e te tahi atu â."
+  },
+  "auth": {
+    "welcomeBack": "Aroha mai",
+    "loginToContinue": "A tomo i roto i ta outou moni no te tamau noa",
+    "createAccount": "A hamani i te hoê moni",
+    "joinCommunity": "A amui atu i te tahi atu mau tausani taata aravihi",
+    "fullName": "I'oa taatoa",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Wahi nohoraa imeera",
+    "emailPlaceholder": "you@hi'oraa.com",
+    "password": "Hō'ē parau",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "A haamana'o mai ia'u",
+    "forgotPassword": "Ua haamo'e outou i te parau huna?",
+    "signIn": "A tomo i roto",
+    "signingIn": "Te tomoraa i roto...",
+    "signUp": "A papa'i",
+    "signingUp": "Te haamauraa...",
+    "noAccount": "Aita ta outou e moni?",
+    "hasAccount": "Ua farii a'ena outou i te hoê moni?",
+    "passwordRules": {
+      "title": "E mea ti'a ia vai i roto i te parau huna:",
+      "length": "E 8 a'e huru",
+      "uppercase": "Hoê reta rahi (A-Z)",
+      "number": "Hoê numera (0-9)",
+      "symbol": "Hoê tapa'o (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Taata patu hoho'a",
+      "templates": "Te mau hi'oraa e te mau tumu parau",
+      "settings": "Ngā taviri",
+      "collapse": "Topa Sidebar",
+      "overview": "Hi'opo'araa",
+      "profileSettings": "Te mau ta'iraa hoho'a",
+      "customDomain": "Tuhaa fenua matauhia",
+      "feedback": "Taunu'u i te mau fa'a'ite"
+    },
+    "header": {
+      "viewLive": "Hi'o Live",
+      "welcome": "Manava,",
+      "logout": "Tomo i rapae",
+      "builder": "Taata patu",
+      "livePortfolio": "Hoho'a ora",
+      "live": "Fa'aea"
+    },
+    "logoutModal": {
+      "title": "Tomo i rapae",
+      "message": "Te ti'aturi ra anei oe e, te hinaaro ra oe e faaru'e i ta oe moni? ",
+      "cancel": "Tautea",
+      "confirm": "Oia mau, Haere"
+    },
+    "slugModal": {
+      "title": "A maiti i ta outou URL",
+      "message": "E riro teie URL ei hono taa ê no ta outou buka. ",
+      "slugPlaceholder": "to outou i'oa",
+      "availability": "Te roaraa:",
+      "available": "Ti'a",
+      "unavailable": "Aita i roaa",
+      "checking": "Te hi'opo'araa...",
+      "mustFormat": "E nehenehe noa e vai i roto i te mau reta, te mau numera, e te mau tapa'o (-)",
+      "cancel": "Tautea",
+      "save": "Haapa URL",
+      "usernameUrl": "I'oa faaohipa URL",
+      "helpText": "Te mau reta iti, te mau numera, e te mau tapao. ",
+      "validation": {
+        "empty": "Eita te Slug e nehenehe e vai noa.",
+        "min3": "E 3 huru iti a'e.",
+        "max30": "E 30 huru taata.",
+        "format": "Te mau reta iti, te mau numera, e te mau tapa'o (-) ana'e. "
+      }
+    },
+    "loadingPortfolio": "Te hopoi'araa i te mau haamaramaramaraa...",
+    "overview": {
+      "greetings": {
+        "morning": "Mauruuru i te poipoi",
+        "afternoon": "Mauruuru i te avatea",
+        "evening": "Mauruuru i te avatea",
+        "night": "Mauruuru i te pô"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Taata Hamani",
+        "desc1": "Te farii nei au i ni'a i te tahua itenati DevFolio. Ua hi'opo'ahia ta outou hoho'a e",
+        "desc2": "tamā'ī. A tamau noa i te rave i te ohipa!",
+        "editPortfolio": "A taui i te hoho'a"
+      },
+      "stats": {
+        "totalVisitors": "Te taatoaraa o te mau manihini",
+        "projectViews": "Hi'opo'ahia (Tohu)",
+        "activeSessions": "Tuhaa pureraa",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Tauturu i te haereraa i mua",
+        "completed": "Ua oti ta outou buka! 🎉",
+        "inProgress": "Te mau taahiraa no te farii i te hoho'a ti'a roa.",
+        "profile": {
+          "title": "Hope'a i te hoho'a",
+          "desc": "Tāpiri i te i'oa, te bio, e te hoho'a."
+        },
+        "section": {
+          "title": "Tāpiri nga Tuhaa",
+          "desc": "A faaohipa i te 1 a'e tuhaa i roto i te hoho'a."
+        },
+        "project": {
+          "title": "Tāpiri i te opuaraa",
+          "desc": "A papa'i 1 a'e o ta outou mau opuaraa maitai roa a'e."
+        },
+        "publish": {
+          "title": "Faaite i te hoho'a",
+          "desc": "A haamau i te hoê URL matauhia ia nehenehe te huiraatira e farii i te reira."
+        }
+      },
+      "topProjects": {
+        "title": "Te mau opuaraa matarohia a'e",
+        "desc": "Te raveraa i ta outou ohipa i mua i te mau ratere.",
+        "viewAll": "Hi'o i te mau mea atoa",
+        "empty": "Aita â e haamaramaramaraa no ta outou opuaraa."
+      }
+    },
+    "themes": {
+      "title": "Te mau hi'oraa e te mau tumu parau",
+      "subtitle": "A faaafaro i te hoho'a e te huru o ta outou buka huiraatira.",
+      "reset": "Faaho'i faahou i te Ta'iraa",
+      "save": "Haapa'o i te mau tauiraa",
+      "saving": "Te faaoraraa...",
+      "chooseTemplate": "Ma'iti i te hoê hoho'a",
+      "primaryColor": "Tae Matamua",
+      "typography": "Papa'iraa",
+      "appearance": "Te hoho'a",
+      "corners": "Te mau poro e te mau oti'a",
+      "successTitle": "Manuia",
+      "successMessage": "Ua faaho'i-faahou-hia mai te mau hinaaro o te tumu parau",
+      "errorTitle": "Hapa",
+      "errorMessage": "Aita i ti'a ia faaherehere i te mau hinaaro o te tumu parau",
+      "templates": {
+        "minimalist": {
+          "name": "Te mau mea iti roa",
+          "desc": "Te hoê hoho'a mâ e te ohie o te faatumu nei i ni'a i te mau mea e vai ra i roto."
+        },
+        "developerDark": {
+          "name": "Te taata hamani i te pouri",
+          "desc": "Te tumu parau oto e mea maitai roa no te faaite i te mau code e te mau rave'a aravihi apî."
+        },
+        "creative": {
+          "name": "Auaha",
+          "desc": "Te mau hoho'a nehenehe e te anaanatae no te feia papa'i hoho'a e te feia papa'i."
+        },
+        "executive": {
+          "name": "Faatere",
+          "desc": "Te hoê faanahoraa toro'a e te ti'a no te feia aravihi i te pae no te ohipa tapihooraa."
+        },
+        "bentoGrid": {
+          "name": "Te ana'iraa Bento",
+          "desc": "Te faaite mai nei te hoê faanahoraa Apple-style no teie tau i te mau aravihi e rave rahi."
+        },
+        "neoBrutalism": {
+          "name": "Te mau ohipa ino",
+          "desc": "No te hoê hoho'a ahu e te au ore, te mau otia itoito e te mau tao'a taa ê teitei."
+        },
+        "glassmorphism": {
+          "name": "Te mau hi'o",
+          "desc": "No te hoê UI no teie tau nehenehe, te vai ra te mau hi'o mata'i rorofai i ni'a i te mau hoho'a oraora."
+        },
+        "linkInBio": {
+          "name": "Hono i roto i te Bio",
+          "desc": "Ua faanahohia te hoê faanahoraa faati'ati'a no te mau hoho'a afa'ifa'i e te mau rave'a haaparareraa parau."
+        }
+      },
+      "appearances": {
+        "light": "Maramarama",
+        "dark": "Pouri",
+        "system": "Faanahoraa"
+      },
+      "cornersOptions": {
+        "sharp": "Mōti",
+        "rounded": "Ua haaati",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "A tono i te mau mana'o",
+      "subtitle": "A tauturu mai ia matou ia haamaitai i te reira na roto i te horo'araa i te mau mana'o tauturu, te mau faahaparaa, e aore râ, te faaiteraa i te mau hape i ni'a i teie faanahoraa.",
+      "categoryLabel": "Te mau mana'o tauturu",
+      "messageLabel": "Te mau haamaramaramaraa no ni'a i te poro'i",
+      "messagePlaceholder": "A faaite mai ia'u i te mau haamaramaramaraa taa maitai no ni'a i te mau mana'o ta outou e hinaaro e horo'a...",
+      "imageLabel": "Te mau hoho'a (Maitiraa)",
+      "imagePlaceholder": "Hi'o no te hopoi i te hoho'a e aore râ, te hoho'a",
+      "submitting": "Te tonoraa...",
+      "submitBtn": "A tono i te mau mana'o",
+      "categories": {
+        "suggestion": "Te mau mana'o tauturu e te mau mana'o",
+        "bug": "Bug / Pūpū Hapa",
+        "criticism": "Faahaparaa",
+        "other": "Te tahi atu mau mea"
+      },
+      "imageErrorTitle": "Hapa",
+      "imageErrorMessage": "E pato'ihia te tahi mau hoho'a no te mea aita te mau hoho'a e tauturuhia ra (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Manuia",
+      "successMessage": "Mauruuru no ta outou mau mana'o! Ua tonohia te parau faataa.",
+      "submitErrorTitle": "Aita i manuïa",
+      "submitErrorMessage": "Ua tupu te hoê hape i te tonoraa i te mau pahonoraa. A tamata faahou na."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "No ni'a ia'u",
+      "skills": "Mārohirohi",
+      "projects": "Ngā opuaraa",
+      "workExperience": "Te ite i te ohipa",
+      "orgExperience": "Te mau iteraa i te pae no te faanahoraa",
+      "education": "ʻOra",
+      "certifications": "Te mau faaineineraa e te mau ti'amana'oraa",
+      "contact": "Haamana'o mai ia'u"
+    },
+    "editor": {
+      "profileInfo": "Te mau haamaramaramaraa no ni'a i te hoho'a",
+      "saving": "Te faaoraraa...",
+      "profilePhoto": "Hoho'a i'oa",
+      "clickToUpload": "Hi'o no te hopoi'a i te reira (JPG, PNG)",
+      "fullName": "I'oa taatoa",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer e te hoê hinaaro rahi no te patu i te mau faanahoraa Itenati no teie tau...",
+      "location": "Tā'ata'amu",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Fenua",
+      "selectGender": "Ma'iti i te tane e te vahine",
+      "male": "Tāne",
+      "female": "Vahine",
+      "custom": "Tapa",
+      "customPlaceholder": "A papa'i i to outou tane e te vahine...",
+      "uploadCv": "Hopoi'a i te CV",
+      "cvFormat": "(DOC e aore râ, PDF)",
+      "preview": "Hi'opo'araa",
+      "remove": "Āfa'i",
+      "clickToUploadCv": "Hi'o no te hopoi i te PDF e aore râ, te DOC",
+      "sections": "Te mau tuhaa",
+      "removeSelected": "Tangohia i ma'itihia",
+      "confirmRemove": "Haapapu i te tatara",
+      "addSection": "Tāpiri i te Tuhaa",
+      "addAllSections": "Tāpiri i nga waahanga katoa",
+      "noSections": "Aita e tuhaa",
+      "clickToAdd": "No te haamata, a tairi i ni'a i te \"+ Tāpiri i te Tuhaa\"",
+      "selectAll": "Ma'iti i te mau mea atoa",
+      "selected": "Ua maitihia",
+      "dragToReorder": "A huti no te faanaho faahou i te mau tuhaa",
+      "livePreview": "Hi'opo'araa ora",
+      "addSectionsToBuild": "A tapiri i te mau tuhaa no te patu i ta outou hoho'a",
+      "now": "I teie nei",
+      "current": "I teie nei",
+      "noExpiry": "Aita e hopearaa",
+      "see": "Ite",
+      "position": "Pōtitia",
+      "degree": "Putu",
+      "certification": "Tiwhikete",
+      "sectionsForm": {
+        "about": {
+          "label": "Te faataaraa ia oe iho",
+          "placeholder": "A faaite mai ia matou no ni'a ia oe iho, to oe huru oraraa, to oe mau anaanatae e to oe mau aravihi..."
+        },
+        "skills": {
+          "addPlaceholder": "Hi'opo'a i te aravihi e i muri iho a pata i ni'a i te Enter..."
+        },
+        "projects": {
+          "title": "I'oa o te opuaraa",
+          "titlePlaceholder": "I'oa o te opuaraa...",
+          "url": "URL o te opuaraa",
+          "description": "Tuʻaroʻa",
+          "descriptionPlaceholder": "Te hoê faataaraa poto no ni'a i te opuaraa...",
+          "uploadThumbnail": "Te hoho'a o te opuaraa",
+          "addProject": "Tāpiri i te opuaraa",
+          "projectNum": "Prohe #",
+          "currentProject": "Te rave nei au i teie opuaraa"
+        },
+        "work": {
+          "company": "Taiete/Piha",
+          "companyPlaceholder": "I'oa o te taiete...",
+          "position": "Ti'araa/I'oa",
+          "positionPlaceholder": "To outou ti'araa...",
+          "employmentType": "Te huru o te ohipa",
+          "location": "Tā'ata'amu",
+          "locationPlaceholder": "Oire, Fenua...",
+          "startDate": "Tīmata",
+          "endDate": "I tahi ta'u",
+          "currentWork": "Te rave noa nei â vau i te ohipa i taua taime ra",
+          "description": "Tuʻaroʻa",
+          "descriptionPlaceholder": "Te faataaraa o te ohipa e te mau hopoi'a...",
+          "skills": "Mā'ohie",
+          "addExperience": "Tāpiri i te ite i te ohipa",
+          "experienceNum": "Hi'ora'a #",
+          "dateError": "Eita te mahana hopea e nehenehe e na mua a'e i te mahana haamataraa"
+        },
+        "org": {
+          "organization": "I'oa o te faanahonahoraa",
+          "orgPlaceholder": "Fare haapiiraa tuatoru BEM...",
+          "role": "Ti'araa/Ti'araa",
+          "rolePlaceholder": "Upoo o te pŭpŭ...",
+          "addOrg": "Tāpiri i te ite o te faanahoraa",
+          "orgNum": "Ōhipa #"
+        },
+        "edu": {
+          "institution": "Te mau fare haapiiraa",
+          "institutionPlaceholder": "I'oa o te fare haapiiraa e aore râ, te fare haapiiraa...",
+          "degree": "To'urara'a",
+          "degreePlaceholder": "S1, fare haapiiraa tuarua, etc...",
+          "major": "Tuhaa/Tuhaa Haapiiraa",
+          "majorPlaceholder": "Te mau rave'a hamaniraa tauihaa...",
+          "gpa": "GPA (maitiraa)",
+          "currentStudy": "Te haapii noa ra â vau i ô nei",
+          "descriptionPlaceholder": "Te mau ohipa e te mau manuïaraa i roto i te haapiiraa...",
+          "addEdu": "Tāpiri i te Haapiiraa",
+          "eduNum": "ʻOra #"
+        },
+        "cert": {
+          "name": "I'oa o te ti'amana'oraa / haapiiraa",
+          "namePlaceholder": "I'oa tiwhikete...",
+          "issuer": "Taata nene'i",
+          "issuerPlaceholder": "Te pu nene'iraa buka...",
+          "issueDate": "Tīmata (Mahana nene'iraa)",
+          "issueDatePlaceholder": "A maiti i te tai'o mahana nene'iraa...",
+          "expiryDate": "Ua oti (Taime ti'a)",
+          "expiryDatePlaceholder": "Ma'iti i te mahana hopea...",
+          "noExpiry": "Aita to teie ti'amana'oraa e mahana hopea",
+          "url": "URL ti'aturiraa",
+          "uploadThumbnail": "Tiwhikete / Hoho'a haapiiraa",
+          "uploadThumbnailLimit": "Horo'a i te hoho'a ti'amana'oraa (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Tāpiri i te tiwhikete",
+          "certNum": "Tiwhikete #"
+        },
+        "contact": {
+          "contactNum": "Auē ho'i ē #",
+          "platform": "Fare 'ōfa'i",
+          "displayText": "Faaite i te papa'iraa",
+          "displayTextPlaceholder": "Ei hi'oraa, @email.com e aore râ @i'oa faaohipa",
+          "url": "Hono (URL)",
+          "urlPlaceholderWhatsapp": "Hi'oraa, 62812... (ma te arata'i ore i te 0)",
+          "urlPlaceholderEmail": "Ei hi'oraa, oe@imera.com",
+          "urlPlaceholderWebsite": "Ei hi'oraa, https://...",
+          "urlPlaceholderDefault": "e.g., i'oa faaohipa",
+          "addContact": "Tāpiri i te hoa"
+        },
+        "common": {
+          "months": {
+            "1": "Ēnāra",
+            "2": "Fēpuare",
+            "3": "Māti",
+            "4": "Ēperēra",
+            "5": "Ha'amaitaioi",
+            "6": "Tiunu",
+            "7": "Tiurai",
+            "8": "Ātete",
+            "9": "Tetepa",
+            "10": "Ātopa",
+            "11": "Novema",
+            "12": "Tītema"
+          },
+          "month": "Ra'ituāta'a",
+          "year": "Matahiti",
+          "invalidDate": "Te ava'e hopea",
+          "words": "Re'o"
+        }
+      },
+      "sure": "Pāpū",
+      "deletePhotoTitle": "Tamau i te hoho'a?",
+      "deletePhotoMessage": "Te hinaaro ra anei oe e tumâ i teie hoho'a?",
+      "cancel": "Tautea",
+      "delete": "Fa'a'ore"
+    },
+    "cropper": {
+      "chooseBackground": "Ma'iti i te hoho'a i muri",
+      "cropPhoto": "A tâpû i to oe hoho'a",
+      "useOriginal": "A faaohipa i te buka matamua",
+      "backgroundPresets": "Te mau hoho'a i muri",
+      "none": "Aito",
+      "uploadBackground": "Hopo'i i te mau haamaramaramaraa i muri",
+      "cancel": "Tautea",
+      "savePhoto": "Haapa'o i te hoho'a",
+      "zoom": "Zoom",
+      "rotationTilt": "Faafariuraa & Tilt",
+      "resetRotation": "Faahou i te 0°",
+      "center": "Ōfa'a",
+      "rotateLeft": "Huri -90°",
+      "rotateRight": "Huri +90°",
+      "removeBackground": "Tangohia te hoho'a i muri",
+      "processing": "A tia'i na no te faaapî i to outou hoho'a..."
+    },
+    "cvPreview": {
+      "title": "Hi'opo'araa CV",
+      "downloadCv": "Tikiake i te CV",
+      "download": "Huri mai",
+      "wordCannotPreview": "Eita te mau parau papa'i (.doc/.docx) e nehenehe e hi'opo'ahia i roto i te rave'a hi'opo'araa. ",
+      "downloadFile": "Tikiake i te kōnae CV",
+      "back": "I muri",
+      "mobileMessage": "A tiki mai i te CV no te hi'opo'a i te reira.",
+      "preview": "Hi'opo'a i te CV",
+      "wordPreviewTitle": "Hi'opo'araa parau Word",
+      "wordPreviewMessage": "Eita te mau parau papa'i (.doc/.docx) e nehenehe e hi'opo'ahia i roto i te rave'a hi'opo'araa. A tiki mai i te hoho'a no te hi'o i te reira."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "A papa'i i te hoê faataaraa poto no ni'a ia oe iho, te mau mea e au a'e, e te mau opuaraa toro'a..."
+    },
+    "skills": {
+      "placeholder": "Hi'opo'a i te i'oa aravihi...",
+      "add": "Māuruuru nō te fa'a'oroma'i",
+      "enterToAdd": "Piti i te Enter no te faaô atu",
+      "noSkills": "Aita â i faaôhia ' tu i te mau aravihi."
+    },
+    "projects": {
+      "projectName": "I'oa o te opuaraa",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL o te opuaraa",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Taime",
+      "startMonth": "Te ava'e haamata",
+      "startYear": "Matahiti haamata",
+      "endMonth": "Hopea ava'e",
+      "endYear": "Hopea matahiti",
+      "currentlyWorking": "Te rave nei au i te reira i teie nei",
+      "description": "Tuʻaroʻa",
+      "descriptionPlaceholder": "A faataa i te opuaraa, to outou ti'araa, e ta outou mau manuïaraa...",
+      "technologies": "Te mau rave'a aravihi apî",
+      "addProject": "Tāpiri i te opuaraa",
+      "image": "Hoho'a o te opuaraa",
+      "removeImage": "Tangohia te hoho'a",
+      "uploadImage": "Hi'o no te hopoi i te hoho'a"
+    },
+    "work": {
+      "company": "Taiete/Faanahoraa",
+      "companyPlaceholder": "I'oa o te taiete...",
+      "role": "Ti'araa/Ti'araa",
+      "rolePlaceholder": "To outou ti'araa...",
+      "jobType": "Momo Job",
+      "selectJobType": "Ma'iti i te huru",
+      "fullTime": "Te taime taatoa",
+      "partTime": "Tuhaa taime",
+      "contract": "Aito'a",
+      "internship": "Tahi i te fa'a'ūra'a",
+      "freelance": "Freelance",
+      "location": "Tā'ata'amu",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Taime",
+      "currentlyWorking": "Te rave nei au i te ohipa i ô nei",
+      "description": "Faataaraa o te ohipa",
+      "descriptionPlaceholder": "A faataa i ta outou mau hopoi'a rahi e ta outou mau manuïaraa...",
+      "skills": "Te mau aravihi taa ê",
+      "addExperience": "Tāpiri i te ite"
+    },
+    "org": {
+      "organization": "I'oa o te faanahonahoraa",
+      "organizationPlaceholder": "I'oa o te faanahonahoraa...",
+      "role": "Ti'araa/Ti'araa",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Taime",
+      "periodFormat": "e aore râ, te hoê hoho'a tamoni ore (hi'o 2020–2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Te ohipa nei i teie nei",
+      "description": "Faataaraa o te ohipa",
+      "descriptionPlaceholder": "A faataa i ta outou mau ohipa e aore râ, ta outou mau ô...",
+      "addExperience": "Tāpiri i te ite"
+    },
+    "education": {
+      "institution": "I'oa o te pŭpŭ",
+      "institutionPlaceholder": "Te i'oa o te fare haapiiraa e aore râ, te fare haapiiraa tuatoru...",
+      "degree": "Te faito/Tute",
+      "degreePlaceholder": "e.g. ",
+      "major": "Major/Tuhaa Haapiiraa",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Piha",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Te roaraa o te haapiiraa",
+      "periodFormat": "e aore râ, te hoê hoho'a tamoni ore (hi'o 2018–2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Te haapii nei au i ô nei",
+      "description": "Te mau ohipa / Te mau faatura",
+      "descriptionPlaceholder": "A faataa i te mau ohipa haapiiraa, te mau faanahoraa, e aore râ, te mau faatura i fariihia...",
+      "addEducation": "Tāpiri i te Haapiiraa"
+    },
+    "cert": {
+      "name": "I'oa tiwhikete",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Te faanahoraa",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Te mahana nene'iraa",
+      "expiryDate": "E tae roa'tu i te",
+      "noExpiry": "Eita teie ti'aturiraa e hope",
+      "yearPlaceholder": "e aore râ, Matahiti (hi'o 2023)",
+      "credentialUrl": "URL ti'aturiraa",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Te mau aravihi i taaihia i te reira",
+      "addCertification": "Tāpiri i te tiwhikete",
+      "image": "Hoho'a/Logo",
+      "removeImage": "Tangohia te hoho'a",
+      "uploadImage": "Hi'o no te hopoi i te hoho'a"
+    },
+    "common": {
+      "months": {
+        "1": "Ēnāra",
+        "2": "Fēpuare",
+        "3": "Māti",
+        "4": "Ēperēra",
+        "5": "Ha'amaitaioi",
+        "6": "Tiunu",
+        "7": "Tiurai",
+        "8": "Ātete",
+        "9": "Tetepa",
+        "10": "Ātopa",
+        "11": "Novema",
+        "12": "Tītema"
+      },
+      "month": "Ra'ituāta'a",
+      "year": "Matahiti",
+      "invalidDate": "Te ava'e hopea",
+      "words": "Re'o"
+    }
+  },
+  "settings": {
+    "title": "Ngā taviri",
+    "subtitle": "A faatere i ta outou hoho'a hoho'a e ta outou mau hinaaro",
+    "tabs": {
+      "profile": "To'u hoho'a",
+      "security": "Ha'amanuira'a",
+      "personalization": "Te faataaraa i te taata iho"
+    },
+    "profile": {
+      "infoTitle": "Te mau haamaramaramaraa tumu",
+      "photo": "Hoho'a i'oa",
+      "uploadPhoto": "Taui i te hoho'a",
+      "fullName": "I'oa taatoa",
+      "fullNamePlaceholder": "Ioane Doe",
+      "email": "Wahi nohoraa imeera",
+      "emailPlaceholder": "john@hi'oraa.com",
+      "emailHelp": "E faaohipahia te rata uira no te tomo e aita e faaitehia i mua i te huiraatira.",
+      "portfolioUrl": "URL hoho'a",
+      "saveProfile": "Haapa'o i te hoho'a",
+      "save": "Haapa'o i te hoho'a",
+      "accountCreated": "Ua hamanihia mai te moni",
+      "lastLogin": "Tomo hopea",
+      "oauthNotice": "E tuatihia teie hoho'a i ta outou moni {{taata horo'a}}. E mea ti'a ia ravehia te mau tauiraa i roto i te hoho'a na roto i te taata horo'a taviniraa."
+    },
+    "security": {
+      "changePassword": "Taui i te parau hu'a",
+      "currentPassword": "Ta'o hu'a i teie nei",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Ta'o huna apî",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Haapapu i te parau huna apî",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "E 8 a'e huru",
+        "uppercase": "Hoê reta rahi (A-Z)",
+        "number": "Hoê numera (0-9)",
+        "symbol": "Hoê tapa'o (!@#$%^&*)"
+      },
+      "passwordTitle": "Hō'ē parau",
+      "updatePassword": "Faahou i te parau hu'a",
+      "additionalSecurity": "Te tahi atu mau parururaa",
+      "twoFactor": "Te mau haapapûraa e piti tuhaa (2FA)",
+      "twoFactorDesc": "A paruru i ta outou moni ma te faaohipa i te tahi atu waehere OTP.",
+      "activeSessions": "Te mau tuhaa pureraa itoito",
+      "activeSessionsDesc": "A vaiiho i te mau taime atoa ia hi'opo'ahia te mau rave'a tomoraa.",
+      "publicVisibility": "Te iteraa huiraatira",
+      "hideFromSearch": "Huna i te hoho'a mai roto mai i te mau rave'a imiraa",
+      "hideFromSearchDesc": "A tape'a ia Google ia faataa i ta outou api hoho'a huiraatira.",
+      "disable2fa": {
+        "title": "A tape'a i te 2FA",
+        "description": "Te ti'aturi ra anei oe e, te hinaaro nei oe e tape'a i te mau haapapûraa e piti?",
+        "confirmPasswordLabel": "A tomo i ta outou parau hu'a no te haapapû",
+        "currentPasswordPlaceholder": "Te parau huna i teie nei",
+        "cancelButton": "Faaore",
+        "confirmButton": "A tape'a i te 2FA",
+        "incorrectPassword": "Ta'o huna hape."
+      },
+      "setup2fa": {
+        "step1Title": "1. Hi'opo'a i te waehere QR",
+        "step1Desc": "A tatara i ta outou faanahoraa haapapûraa e a hi'opo'a i te waehere QR i muri nei:",
+        "unableToScan": "Aita e ti'a ia hi'opo'a? A faaohipa i te taviri tautu'araa",
+        "step2Title": "2. Hi'opo'a i te waehere",
+        "step2Desc": "A tomo i te waehere numera e 6 tei hamanihia e ta outou faanahoraa:",
+        "cancelButton": "Tautea",
+        "enableButton": "A faati'a i te 2FA",
+        "invalidLength": "A tomo i te hoê waehere e 6 numera.",
+        "invalidCode": "Waehere haapapuraa tano ore. A tamata faahou na."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Te mau faatereraa reo",
+      "appLanguage": "Reo App",
+      "layoutTitle": "Faanahoraa & Typography",
+      "layoutStyle": "Taho'araa",
+      "layoutModern": "Te huru no teie tau (Tape'araa)",
+      "layoutClassic": "Te huru matauhia",
+      "layoutMinimalist": "Te huru iti",
+      "fontSize": "Te rahi o te papa'iraa",
+      "fontSmall": "Iti",
+      "fontNormal": "Noa'tu (Medium)",
+      "fontLarge": "Nui",
+      "searchLanguage": "Mimi i te reo...",
+      "languageNotFound": "Aita te reo i itehia",
+      "layoutElegant": "Te huru nehenehe"
+    },
+    "saveChanges": "Haapa'o i te mau tauiraa",
+    "cancel": "Tautea",
+    "appSettings": "Te mau faanahoraa",
+    "logoutConfirmTitle": "Haapa'o i te Logout",
+    "logoutConfirmDesc": "Te tiaturi ra anei oe e te hinaaro ra oe e faarue i te faanahoraa?",
+    "logoutConfirmYes": "Oia mau, Haere",
+    "generalError": "Ua tupu te hoê hape. ",
+    "success": "Rū'au",
+    "preferencesSaved": "Ua manuïa te mau hinaaro o te faanahoraa.",
+    "header": "Te mau faanahoraa faaohiparaa",
+    "logout": {
+      "title": "Haapapuraa no te Logout",
+      "message": "Te tiaturi ra anei oe e te hinaaro ra oe e faarue i te faanahoraa?",
+      "confirm": "Oia mau, Haere"
+    },
+    "about": {
+      "title": "No ni'a i te faaohiparaa",
+      "subtitle": "Tahua papa'i hoho'a",
+      "version": "Vārīti",
+      "description": "DevFolio o te hoê ïa tahua papa'iraa hoho'a no teie tau tei hamanihia no te feia hamani hoho'a, te feia papa'i hoho'a, e te feia papa'i hoho'a toro'a. ",
+      "license": "Laiseni & Ti'araa papa'i",
+      "copyright": "© 2026 Te mau ti'araa atoa.",
+      "developer": "Taata hamani",
+      "developedBy": "Ua hamanihia e Rifqi"
+    },
+    "deleteAccount": {
+      "title": "Tamau noa i te moni",
+      "menuItem": "Tamau i te moni",
+      "successTitle": "Manuia",
+      "successMessage": "Ua tonohia te hoê rata uira no te iritiraa i te moni.",
+      "errorTitle": "Aita i manuïa",
+      "errorMessage": "Aita i ti'a ia tono i te rata uira haapapuraa.",
+      "confirmationMessage": "Te ti'aturi ra anei oe e, te hinaaro nei oe e tumâ tamau i ta oe moni?",
+      "warningMessage1": "E farii outou i te hoê rata uira no te haapapû i te iritiraa i te moni.",
+      "warningMessage2": "Mai te mea e, e haapapûhia, e tumâhia te mau haamaramaramaraa taatoa (te mau hoho'a, te mau opuaraa, te mau numera) e eita e nehenehe e faaho'i-faahou-hia mai.",
+      "cancel": "Faaore",
+      "confirm": "Haapapuraa"
+    },
+    "toasts": {
+      "toastError": "Māuruuru",
+      "toastSuccess": "Rū'au",
+      "toastSetup2FAFailed": "Aita i ti'a ia tautu'u i te 2FA. A tamata faahou na.",
+      "toast2FAEnabled": "Ua faati'ahia te mau haapapûraa e piti tuhaa.",
+      "toast2FADisabled": "Ua tape'ahia te mau haapapûraa e piti tuhaa.",
+      "toastSessionEnabled": "Ua faati'ahia te hi'opo'araa itoito o te tuhaa pureraa.",
+      "toastSessionDisabled": "Ua tapeahia te hi'opoaraa i te tuhaa pureraa.",
+      "toastSetupKeyCopied": "Ua patahia te taviri tautu'araa i ni'a i te tapura ereere."
+    },
+    "privacy": {
+      "title": "Ture no te oraraa taa ê",
+      "updateDate": "Faahou hopea: 15 no tiurai 2026",
+      "intro": "Te faataa ra teie Ture no te mau Taata Huna e mea nafea DevFolio ia kohikohi, ia faaohipa, e ia paruru i ta oe iho mau haamaramaramaraa ia faaohipa ana'e oe i ta tatou mau taviniraa.",
+      "section1Title": "1. Te mau haamaramaramaraa ta tatou e rave",
+      "section1Content": "E putuputu matou i te mau haamaramaramaraa ta outou e horo'a mai i te taime a hamani ai outou i te hoê moni, a hamani ai i te hoê hoho'a, e a ani ai i to matou patururaa. ",
+      "section2Title": "2. Te faaohiparaa i te mau haamaramaramaraa",
+      "section2Content": "E faaohipahia ta outou mau haamaramaramaraa no te faatere, no te tape'a, e no te horo'a i te mau tuhaa o ta tatou mau taviniraa, e tae noa'tu i te paraparauraa ia outou no ni'a i ta outou moni aore ra mau taviniraa.",
+      "section3Title": "3. Parururaa i te mau haamaramaramaraa",
+      "section3Content": "Te faaohipa nei matou i te mau ravea parururaa tura no te paruru i ta outou mau haamaramaramaraa i te fariiraa, te faaiteraa, aore ra te haamouraa ma te tiamâraa ore."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Aita te tapa'o haapapuraa i itehia.",
+    "defaultError": "Aita i ti'a ia tumâ i te moni. Ua hope paha te tapao.",
+    "loadingTitle": "Te tuuraa i te moni...",
+    "loadingMessage": "A tia'i na, te faatere nei matou i ta outou aniraa.",
+    "successTitle": "Ua manuïa te tamâraa i te moni",
+    "successMessage": "Ua tamau noa ta outou mau haamaramaramaraa taatoa. E arata'i-faahou-hia outou...",
+    "errorTitle": "Aita i ti'a ia tumâ i te moni",
+    "backToHome": "Ho'i i te fare"
+  },
+  "forgotPassword": {
+    "minutes": "minuti",
+    "seconds": "ha'iti",
+    "success": "Ī'ina",
+    "otpSentToEmail": "Ua tonohia te hoê waehere OTP i ta outou rata uira.",
+    "failed": "Tohe",
+    "emailNotFound": "Aita te email i itehia.",
+    "emailThirdParty": "Ua papa'ihia teie rata uira na roto i te toru o te pŭpŭ.",
+    "genericError": "Te vai ra te hoê hape. A tamata faahou na.",
+    "otpVerified": "Ua haapapu - maitai - hia te waehere OTP.",
+    "otpExpired": "Ua hope te waehere OTP. A ani i te hoê waehere apî.",
+    "otpInvalid": "Waehere OTP tano ore.",
+    "otpResent": "Ua tonohia te hoê waehere OTP apî i ta outou rata uira.",
+    "otpResendFailed": "Aita i ti'a ia hapono faahou i te waehere OTP. A tamata faahou na.",
+    "passwordResetSuccess": "Ua manuïa te faaho'i-faahou-raa mai i te parau huna. A tomo na roto i ta outou parau huna apî.",
+    "passwordResetFailed": "Aita i ti'a ia faaho'i-faahou-hia mai te parau huna.",
+    "backToLogin": "Ho'i i ni'a i te Login",
+    "back": "Haere mai",
+    "title": "Ua haamo'ehia te parau hu'a",
+    "description": "A tomo i te vahi nohoraa imera i papa'ihia i ni'a i ta outou moni. E tono tatou i te hoê waehere OTP no te faaho'i faahou mai i te parau huna.",
+    "emailLabel": "Wahitau imeera",
+    "sending": "Tuku...",
+    "sendOtp": "A tono i te waehere OTP",
+    "verifyOtpTitle": "Hi'opo'a i te waehere OTP",
+    "verifyOtpDesc": "No te haapapû i to outou ti'araa, a tomo i te waehere numera e 6 tei tonohia i roto i ta outou rata uira.",
+    "verifying": "Te haapapuraa...",
+    "verifyOtp": "Te haapapuraa OTP",
+    "resending": "Tono faahou...",
+    "resendOtp": "A tono faahou i te waehere OTP",
+    "resendCodeIn": "A tono faahou i te waehere i roto",
+    "newPasswordTitle": "A hamani i te hoê parau huna apî",
+    "newPasswordDesc": "A hamani i te hoê parau huna apî e te puai no te paruru i ta outou moni.",
+    "newPasswordLabel": "Ta'o huna apî",
+    "min8Chars": "8 huru iti a'e",
+    "oneUpperCase": "1 reta rahi (A-Z)",
+    "oneNumber": "1 numera (0-9)",
+    "oneSymbol": "1 tapa'o (!@#$%^&*)",
+    "confirmPasswordLabel": "Haapapû i te parau hu'a",
+    "passwordsDoNotMatch": "Aita te mau parau huna e tu'ati ra.",
+    "resettingPassword": "Te faaho'i-faahou-raa mai i te parau hu'a...",
+    "resetPassword": "Ta'o faahou i te parau hu'a"
+  },
+  "verifyEmail": {
+    "resendError": "Aita i ti'a ia hapono faahou i te rata uira. A tamata faahou na.",
+    "checkingStatus": "Te hi'opo'araa i te huru o te haapapuraa...",
+    "title": "Hi'opo'a i ta outou imera",
+    "description": "Ua tono matou i te hoê rata uira haapapuraa i ta outou vahi nohoraa. A tatara i te rata uira e a hi'o i te <1>\"Haapapû i te moni\"</1> no te faaitoito i ta outou moni.",
+    "stepsTitle": "Te mau taahiraa",
+    "step1": "A tatara i ta outou rata uira (Gmail, Yahoo, e te tahi atu mau mea)",
+    "step2": "A imi i te hoê rata uira no roto mai i te DevFolio e te tumu parau \" Te faaho'i-faahou-raa mai i te moni \"",
+    "step3": "I roto i te rata uira, a hi'o i te \"Haapapû i te moni\"",
+    "step4": "E arata'ihia outou i ni'a i te api tomoraa no te tomo",
+    "resendSuccess": "Ua faaho'i-faahou-hia mai te rata uira haapapuraa!",
+    "resending": "Te faaho'i-faahou-raa...",
+    "resendButton": "A tono faahou i te rata uira",
+    "backToLogin": "Ho'i i te api tomoraa",
+    "footerNote": "Aita outou i farii i te rata uira? Hi'opo'a i te <1>Spam</1> e aore râ, <2>Junk</2> i roto i ta outou rata uira. E mana te hono no te haapapuraa e <3>24 hora</3>."
+  }
+}

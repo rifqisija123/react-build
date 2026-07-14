@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Suguya",
+    "templates": "Modèles (sɛbɛnniw) minnu bɛ yen",
+    "pricing": "Sɔngɔko",
+    "login": "Aw bɛ don a kɔnɔ",
+    "getStarted": "Aw ye a daminɛ",
+    "title": "DevFolio ye"
+  },
+  "landing": {
+    "badge": "Portfolio jɔli laban ye yiriwalikɛlaw ye",
+    "title1": "Aw ye aw ka baarakɛla jɔ",
+    "title2": "portfolio in",
+    "titleHighlight": "segin kɔnɔ.",
+    "subtitle": "I mago bɛ fɛn o fɛn na walasa k’i ka sekow, i ka porozɛw ani i ka ko kɛlenw jira. ",
+    "startBuilding": "So jɔli daminɛ Sisan",
+    "viewTemplates": "Modèles (sɛbɛnniw) lajɛ",
+    "fastDeployment": "Deployment teliya la",
+    "liveStatus": "username.dev ye ɲɛnamaya ye!",
+    "featuresTitle": "Fɛn barikamaw",
+    "featuresSubtitle": "An bɛ baarakɛminɛnw bɛɛ di aw ma aw mago bɛ minnu na walasa ka bɔ jama cɛma ani ka aw ka sugo baara jigin.",
+    "feature1Title": "Drag & Drop Baarakɛla min bɛ baara kɛ",
+    "feature1Desc": "Aw ye aw ka dakunw, porozɛw ani sekow labɛn nɔgɔya la ni an ka yecogo ɲɛnabɔbaga ye min bɛ se ka faamuya.",
+    "feature2Title": "Laadalata barokunw",
+    "feature2Desc": "Sugandili kɛ ka bɔ misaliw la minnu dilannen don ni baarakɛlaw ye walima ka i yɛrɛ ka ɲɛda cogoya kɛrɛnkɛrɛnnen dilan.",
+    "feature3Title": "Analytics (Sɛgɛsɛgɛli kɛcogo) waati yɛrɛ la",
+    "feature3Desc": "Aw ye aw ka dunanw nɔfɛtaama, k’a lajɛ poroze minnu bɛ mɔgɔw ɲɛnabɔ kosɛbɛ, ani fɛn wɛrɛw."
+  },
+  "auth": {
+    "welcomeBack": "Aw ni ce ka segin",
+    "loginToContinue": "I ka don i ka jatebɔsɛbɛn kɔnɔ walasa ka taa ɲɛ",
+    "createAccount": "Jatebɔsɛbɛn dabɔ",
+    "joinCommunity": "Aw ka fara developpeur ba caman wɛrɛw kan",
+    "fullName": "Tɔgɔ dafalen",
+    "fullNamePlaceholder": "misali la. ",
+    "email": "Email Adrɛsi",
+    "emailPlaceholder": "aw ye@misali.com",
+    "password": "Kɔdi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Aw hakili to ne la",
+    "forgotPassword": "I ɲinɛna tɔgɔlasɛbɛn kɔ wa?",
+    "signIn": "I ka don a kɔnɔ",
+    "signingIn": "Signing In...",
+    "signUp": "I tɔgɔ sɛbɛn",
+    "signingUp": "Ka i tɔgɔ sɛbɛn...",
+    "noAccount": "Yala i tɛ ni jatebɔsɛbɛn ye wa?",
+    "hasAccount": "I ye jatebɔsɛbɛn sɔrɔ kaban wa?",
+    "passwordRules": {
+      "title": "Password ka kan ka sɔrɔ:",
+      "length": "A dɔgɔyalenba ye 8 ye",
+      "uppercase": "Sɛbɛnni belebele kelen (A-Z) .",
+      "number": "Jateden kelen (0-9) .",
+      "symbol": "Taamaʃyɛn kelen (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfoliow jɔbaga",
+      "templates": "Modèles & Thèmes (Baarakɛminɛnw).",
+      "settings": "Segin-ka-bɔnyew",
+      "collapse": "Collapse (Kɛrɛfɛ-bar) min bɛ yen",
+      "overview": "Kuma bɛɛ lajɛlen",
+      "profileSettings": "Profil (Profil) Labɛncogo",
+      "customDomain": "Domaine ladamuni",
+      "feedback": "Kibaru kɔsegi"
+    },
+    "header": {
+      "viewLive": "A ye Live lajɛ",
+      "welcome": "I danse,",
+      "logout": "Aw ka bɔ kɛnɛ kan",
+      "builder": "So jɔbaga",
+      "livePortfolio": "Portfolio ɲɛnama",
+      "live": "Ka balo"
+    },
+    "logoutModal": {
+      "title": "Aw ka bɔ kɛnɛ kan",
+      "message": "Yala i dalen b’a la ko i b’a fɛ ka bɔ i ka jatebɔsɛbɛn kɔnɔ wa? ",
+      "cancel": "ka dankari",
+      "confirm": "Ɔwɔ, Logout"
+    },
+    "slugModal": {
+      "title": "I ka Portfolio URL sugandi",
+      "message": "Nin URL in bɛna kɛ i ka portfolio ladɛrɛsi kɛrɛnkɛrɛnnen ye. ",
+      "slugPlaceholder": "i-tɔgɔ",
+      "availability": "A sɔrɔli:",
+      "available": "Bɛ yen",
+      "unavailable": "A tɛ sɔrɔ",
+      "checking": "Checking...",
+      "mustFormat": "A bɛ se ka kɛ lɛtɛrɛw, nimɔrɔw ani dakunw dɔrɔn de ye (-) .",
+      "cancel": "ka dankari",
+      "save": "URL mara",
+      "usernameUrl": "Baarakɛla tɔgɔ URL",
+      "helpText": "Sɛbɛndenninw, nimɔrɔw ani dakunw. ",
+      "validation": {
+        "empty": "Slug tɛ se ka kɛ lankolon ye.",
+        "min3": "A dɔgɔyalenba ye taamasiyɛn 3 ye.",
+        "max30": "A ka ca a la, a bɛ se ka kɛ 30 ye.",
+        "format": "Sɛbɛndenninw, jatedenw ani daɲɛw (-) dɔrɔn. "
+      }
+    },
+    "loadingPortfolio": "Portfolio dataw bɛ doni...",
+    "overview": {
+      "greetings": {
+        "morning": "Sɔgɔma ɲuman",
+        "afternoon": "Aw ka tilegan fɛ",
+        "evening": "Aw ka tilegan fɛ",
+        "night": "Su ɲuman"
+      },
+      "welcome": {
+        "hi": "Bonjour,",
+        "creator": "Dabaga",
+        "desc1": "Aw ni ce DevFolio dashboard la. Aw ka portfolio lajɛra ni",
+        "desc2": "mɔgɔ. Aw ka to ka baara kɛ!",
+        "editPortfolio": "Portfolio ladilan"
+      },
+      "stats": {
+        "totalVisitors": "Visitɛriw bɛɛ lajɛlen",
+        "projectViews": "A filɛ (Porozɛ) .",
+        "activeSessions": "Session active (Lajɛ min bɛ kɛ ni baara ye).",
+        "totalLabel": "Total (Jɛkulu bɛɛ lajɛlen)."
+      },
+      "setup": {
+        "title": "Setup ka ɲɛtaa",
+        "completed": "Aw ka portfolio dafalen don! 🎉",
+        "inProgress": "Senna-tɛgɛrɛw ka ɲɛsin portfolio dafalen ma.",
+        "profile": {
+          "title": "Profil dafalen",
+          "desc": "Tɔgɔ, biyo ani profil foto fara a kan."
+        },
+        "section": {
+          "title": "Dakunw fara a kan",
+          "desc": "Aw bɛ dakun 1 la dɔgɔmannin baara portfolio kɔnɔ."
+        },
+        "project": {
+          "title": "A’ ye Porozɛ fara a kan",
+          "desc": "Aw ye aw ka poroze ɲumanw 1 don a dɔgɔyalenba la."
+        },
+        "publish": {
+          "title": "Portfolio min bɛ bɔ kɛnɛ kan",
+          "desc": "URL ladamulen dɔ sigi sen kan walasa jama ka se ka don a la."
+        }
+      },
+      "topProjects": {
+        "title": "Porozɛ minnu ka di kosɛbɛ",
+        "desc": "I ka baara kɛcogo dunanw ɲɛ na.",
+        "viewAll": "Aw ye Bɛɛ lajɛ",
+        "empty": "View data si ma sɔrɔ i ka poroze la fɔlɔ."
+      }
+    },
+    "themes": {
+      "title": "Modèles & Thèmes",
+      "subtitle": "I ka forobaciyɛn cogoya n’a kɛcogo kɛ ka kɛɲɛ ni i yɛrɛ sago ye.",
+      "reset": "Reset Default",
+      "save": "Yɛlɛmaniw mara",
+      "saving": "Kɔlɔsili...",
+      "chooseTemplate": "Modèle dɔ sugandi",
+      "primaryColor": "Kulɛri fɔlɔ",
+      "typography": "Tipografiya",
+      "appearance": "Yeecogo",
+      "corners": "Nkɔni & Dancɛw",
+      "successTitle": "Ɲɛtaa",
+      "successMessage": "Barokun ɲɛnatɔmɔlenw kurayara ka ɲɛ",
+      "errorTitle": "Misali la",
+      "errorMessage": "A ma se ka barokun ɲɛnatɔmɔlenw mara",
+      "templates": {
+        "minimalist": {
+          "name": "Minimaliste",
+          "desc": "Dilancogo saniyalen ni nɔgɔman min sinsinnen bɛ kɔnɔkow kan."
+        },
+        "developerDark": {
+          "name": "Developpeur Dibi",
+          "desc": "Dibi barokun dafalen don ka kode ni tech stacks jira."
+        },
+        "creative": {
+          "name": "Daɲɛgafe",
+          "desc": "Layidu ɲɛnama ani kulɛrilen don dilanbagaw ni daɲɛw dilannikɛlaw ye."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Layidu professionnel ani formal layout jago baarakɛlaw ye."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Bi Apple-style grid layout min bɛ seko suguya caman jira ka ɲɛ."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalisme",
+          "desc": "Dancɛ jalenw ani kulɛriw minnu bɛ danfaraba la walasa ka ɲɛda cogoya ye min bɛ taa ɲɛ, min tɛ yafa ɲini."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphisme",
+          "desc": "Frosted glass effects kan gradients colorés kan ka ɲɛsin bi UI sleek ma."
+        },
+        "linkInBio": {
+          "name": "Lien in Bio",
+          "desc": "Layidu jɔlen compact min bɛ ɲɛ ka ɲɛsin mobili ekranw ni sosiyete ka kunnafonidilanw ma."
+        }
+      },
+      "appearances": {
+        "light": "Yeelen",
+        "dark": "Dibi",
+        "system": "Sistɛmu"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Lamini",
+        "pill": "Furakisɛ"
+      }
+    },
+    "feedback": {
+      "title": "Aw ye hakilinaw ci",
+      "subtitle": "An dɛmɛ k’a kɛ ka ɲɛ ni hakilinaw dili ye, kɔrɔfɔli walima filiw fɔli ye nin porogaramu in kan.",
+      "categoryLabel": "Feedback Category",
+      "messageLabel": "Cikan Details",
+      "messagePlaceholder": "Aw b'a fɛ ka hakilina minnu lase aw ma, aw ka olu fɔ n ye ka ɲɛ...",
+      "imageLabel": "Jaa nɔrɔlen (A bɛ se ka kɛ)",
+      "imagePlaceholder": "Klik ka ja walima ekran ja bila",
+      "submitting": "Cikan...",
+      "submitBtn": "Aw ye hakilinaw ci",
+      "categories": {
+        "suggestion": "Ladilikanw & Hakilinaw",
+        "bug": "Bug / Misali laseli",
+        "criticism": "Kɔrɔfɔli",
+        "other": "Mɔgɔ wɛrɛw"
+      },
+      "imageErrorTitle": "Misali la",
+      "imageErrorMessage": "Filen dɔw bɛ ban bawo u tɛ ja cogoyaw dɛmɛ (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Ɲɛtaa",
+      "successMessage": "Aw ni ce aw ka hakilinaw la! Rapport cilen don.",
+      "submitErrorTitle": "Dɛsɛra",
+      "submitErrorMessage": "Misali dɔ kɛra ka kɛɲɛ ni hakilinaw cilen ye. Aw ye aw jija ka segin a kan."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ne ko la",
+      "skills": "Dɔ́nko",
+      "projects": "Porozɛw",
+      "workExperience": "Baara kɛcogo ɲuman",
+      "orgExperience": "Jɛkulu ka ko kɛlenw",
+      "education": "Ladamuni",
+      "certifications": "Kalan & Seereyaw",
+      "contact": "Aw ye ɲɔgɔn sɔrɔ ni Ne ye"
+    },
+    "editor": {
+      "profileInfo": "Kunnafoni minnu bɛ sɔrɔ Profil kan",
+      "saving": "Saving...",
+      "profilePhoto": "Profil Foto",
+      "clickToUpload": "Aw ye a digi walasa ka a bila (JPG, PNG)",
+      "fullName": "Tɔgɔ dafalen",
+      "fullNamePlaceholder": "misali la. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer min ka di a ye ka bi web apps jɔ...",
+      "location": "Sigiyɔrɔ",
+      "locationPlaceholder": "misali la. ",
+      "gender": "Cɛnimusoya",
+      "selectGender": "Cɛya ni musoya sugandi",
+      "male": "Cɛ",
+      "female": "Muso",
+      "custom": "Laada",
+      "customPlaceholder": "I ka ladamu cɛya ni musoya sɛbɛn...",
+      "uploadCv": "CV (CV) bila ka taa",
+      "cvFormat": "(DOC walima PDF)",
+      "preview": "A lajɛ fɔlɔ",
+      "remove": "Ka labɔ",
+      "clickToUploadCv": "A digi walasa ka PDF walima DOC bila",
+      "sections": "Dakunw",
+      "removeSelected": "Remove Selected",
+      "confirmRemove": "Confirmer Remove (Bɔli) la",
+      "addSection": "Dakun dɔ fara a kan",
+      "addAllSections": "Dakunw Bɛɛ fara a kan",
+      "noSections": "Dakun si ma Kɛ fɔlɔ",
+      "clickToAdd": "\"+ Add Section\" digi walasa ka daminɛ",
+      "selectAll": "Bɛɛ sugandi",
+      "selected": "Sugandili kɛra",
+      "dragToReorder": "Aw bɛ a sama walasa ka yɔrɔw labɛn kokura",
+      "livePreview": "Ɲɛjirali ɲɛnama",
+      "addSectionsToBuild": "Aw bɛ dakunw fara a kan walasa k’aw ka portfolio jɔ",
+      "now": "Sisan",
+      "current": "Sisan",
+      "noExpiry": "No Expiration (Dɔgɔtɔrɔso) tɛ",
+      "see": "Ka ye",
+      "position": "Jɔyɔrɔ",
+      "degree": "Dipilomu",
+      "certification": "Seereyaw sɔrɔli",
+      "sectionsForm": {
+        "about": {
+          "label": "I yɛrɛ ɲɛfɔli",
+          "placeholder": "Aw ye aw yɛrɛ, aw ka kɔkankow, aw diyanyekow ani aw ka sekow fɔ an ye..."
+        },
+        "skills": {
+          "addPlaceholder": "Seko ni dɔnko sɛbɛn o kɔ i ka Enter digi..."
+        },
+        "projects": {
+          "title": "Porozɛ Tɔgɔ",
+          "titlePlaceholder": "Porozɛ tɔgɔ...",
+          "url": "Porozɛ ka URL",
+          "description": "Cogojirali",
+          "descriptionPlaceholder": "Porozɛ in ɲɛfɔli surun...",
+          "uploadThumbnail": "Porozɛ Ja",
+          "addProject": "A’ ye Porozɛ fara a kan",
+          "projectNum": "Poroze #",
+          "currentProject": "Nin ye porozɛ ye n bɛ baara kɛ min kan"
+        },
+        "work": {
+          "company": "Sosiyete/Agence (Jɛkulu).",
+          "companyPlaceholder": "Sosiyete tɔgɔ...",
+          "position": "Jyɔrɔ/Titre (Titre).",
+          "positionPlaceholder": "Aw ka jɔyɔrɔ...",
+          "employmentType": "Baara suguya",
+          "location": "Sigiyɔrɔ",
+          "locationPlaceholder": "Dugu, Jamana...",
+          "startDate": "Ka daminɛ",
+          "endDate": "A bana",
+          "currentWork": "N bɛ baara la hali bi nin waati in na",
+          "description": "Cogojirali",
+          "descriptionPlaceholder": "Baara ɲɛfɔli ani kunkanbaaraw...",
+          "skills": "Dɔnko",
+          "addExperience": "Baarakɛcogo dɔnniya fara a kan",
+          "experienceNum": "Ko dɔn #",
+          "dateError": "A laban don tɛ se ka kɔn a daminɛ don ɲɛ"
+        },
+        "org": {
+          "organization": "Jɛkulu Tɔgɔ",
+          "orgPlaceholder": "BEM Iniwɛrisite...",
+          "role": "Jɔrɔ/Jɛkulu",
+          "rolePlaceholder": "Division ɲɛmɔgɔ...",
+          "addOrg": "Jɛkulu ka ko kɛlenw fara a kan",
+          "orgNum": "Ɲɛnabɔli #"
+        },
+        "edu": {
+          "institution": "Kalansobaw",
+          "institutionPlaceholder": "Campus walima lakɔli tɔgɔ...",
+          "degree": "Titiri",
+          "degreePlaceholder": "S1, lise, wdfl...",
+          "major": "Departeman/Kalan yɔrɔ",
+          "majorPlaceholder": "Informatique Ingénierie...",
+          "gpa": "GPA (a bɛ se ka kɛ) .",
+          "currentStudy": "N bɛ ka kalan kɛ yan hali bi",
+          "descriptionPlaceholder": "Baara minnu bɛ kɛ ani seko minnu kɛra kalan senfɛ...",
+          "addEdu": "Aw ye Kalan fara a kan",
+          "eduNum": "Ladamuni #"
+        },
+        "cert": {
+          "name": "Seereyaw / Kalan tɔgɔ",
+          "namePlaceholder": "Seereyaw tɔgɔ...",
+          "issuer": "Weleweledala",
+          "issuerPlaceholder": "Gafe bɔyɔrɔ...",
+          "issueDate": "Daminɛ (Bɔli don) .",
+          "issueDatePlaceholder": "Sɛbɛn bɔli don sugandi...",
+          "expiryDate": "A dafara (Waati min bɛ baara kɛ) .",
+          "expiryDatePlaceholder": "A ka waati dafalen sugandi...",
+          "noExpiry": "Nin seere in dafa don tɛ",
+          "url": "Seereyaw URL",
+          "uploadThumbnail": "Seereyaw / Kalan Ja",
+          "uploadThumbnailLimit": "Seereyaw ja bila (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Seereyaw fara a kan",
+          "certNum": "Seereyaw # ."
+        },
+        "contact": {
+          "contactNum": "Ka wele #",
+          "platform": "Bɔlɔlɔ kan",
+          "displayText": "Sɛbɛnniw jira",
+          "displayTextPlaceholder": "misali la, you@email.com walima @username",
+          "url": "Lien (URL) .",
+          "urlPlaceholderWhatsapp": "misali la, 62812... (ni ɲɛmɔgɔya 0 tɛ) .",
+          "urlPlaceholderEmail": "misali la, aw@email.com",
+          "urlPlaceholderWebsite": "misali la, https://...",
+          "urlPlaceholderDefault": "misali la, baarakɛla tɔgɔ",
+          "addContact": "Aw ye Contact fara a kan"
+        },
+        "common": {
+          "months": {
+            "1": "zanwuyekalo",
+            "2": "Fewuruyekalo",
+            "3": "Marisikalo",
+            "4": "Awirilikalo",
+            "5": "A bɛ se",
+            "6": "Zuwɛnkalo",
+            "7": "Zuluyekalo",
+            "8": "Utikalo",
+            "9": "Sɛtanburukalo",
+            "10": "Ɔkutɔburukalo",
+            "11": "Nowanburukalo",
+            "12": "Desanburukalo"
+          },
+          "month": "Kalo",
+          "year": "San",
+          "invalidDate": "Kalo laban min tɛ baara kɛ",
+          "words": "kumadenw"
+        }
+      },
+      "sure": "Jaati",
+      "deletePhotoTitle": "Profil Foto bɔ yen wa?",
+      "deletePhotoMessage": "Yala i dalen b’a la ko i b’a fɛ ka nin profil foto in bɔ wa?",
+      "cancel": "ka dankari",
+      "delete": "Ka jɔsi"
+    },
+    "cropper": {
+      "chooseBackground": "A’ ye Background sugandi",
+      "cropPhoto": "Aw ye aw ka foto tigɛ",
+      "useOriginal": "Baara kɛ ni original ye",
+      "backgroundPresets": "Background Presets (Kɔrɔfɔlenw) minnu bɛ kɛ",
+      "none": "Foɲisi",
+      "uploadBackground": "Upload Baarakɛcogo",
+      "cancel": "ka dankari",
+      "savePhoto": "Foto mara",
+      "zoom": "Zoom (Zɔmu) kɛ",
+      "rotationTilt": "Yɛlɛma-yɛlɛma & Tilt",
+      "resetRotation": "Aw bɛ segin ka a bila 0° la",
+      "center": "Santiri",
+      "rotateLeft": "Aw bɛ a wuli -90°",
+      "rotateRight": "Aw bɛ a wuli +90°",
+      "removeBackground": "Aw bɛ Background bɔ yen",
+      "processing": "Aw bɛ aw ka ja baara, aw ka kɔnɔni kɛ..."
+    },
+    "cvPreview": {
+      "title": "CV Lajɛba",
+      "downloadCv": "Télécharger CV",
+      "download": "Ka telesarize",
+      "wordCannotPreview": "Daɲɛ sɛbɛnw (.doc/.docx) tɛ Se ka Lajɛ fɔlɔ u yɛrɛ la navigatɔrɔn kɔnɔ. ",
+      "downloadFile": "CV File telesarse",
+      "back": "Kɔ",
+      "mobileMessage": "Aw ye CV file telesarse walasa k’a lajɛ fɔlɔ.",
+      "preview": "CV lajɛ fɔlɔ",
+      "wordPreviewTitle": "Word Sɛbɛnw ɲɛfɔli",
+      "wordPreviewMessage": "Daɲɛ sɛbɛnw (.doc/.docx) tɛ Se ka Lajɛ fɔlɔ u yɛrɛ la navigatɔrɔn kɔnɔ. Aw ye o dosiye telesarse walisa k’a lajɛ."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Aw ye ɲɛfɔli surun sɛbɛn aw yɛrɛ kan, aw diyanyekow, ani aw ka baara kuntilenna kan..."
+    },
+    "skills": {
+      "placeholder": "Type seko tɔgɔ...",
+      "add": "Ka fara kan",
+      "enterToAdd": "Enter digi walasa ka dɔ fara a kan",
+      "noSkills": "Seko si ma fara a kan fɔlɔ."
+    },
+    "projects": {
+      "projectName": "Porozɛ Tɔgɔ",
+      "projectNamePlaceholder": "misali la. ",
+      "projectUrl": "Porozɛ ka URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Don hakɛ",
+      "startMonth": "Kalo Daminɛ",
+      "startYear": "San Daminɛ",
+      "endMonth": "Kalo laban",
+      "endYear": "San laban",
+      "currentlyWorking": "Sisan u bɛ baara Kɛ o kan",
+      "description": "Cogojirali",
+      "descriptionPlaceholder": "Porozɛ, i jɔyɔrɔ, ani i ka seko ni dɔnko ɲɛfɔ...",
+      "technologies": "Fɛnɲɛnɛmako minnu bɛ Kɛ",
+      "addProject": "A’ ye Porozɛ fara a kan",
+      "image": "Porozɛ Ja",
+      "removeImage": "Jaa bɔ yen",
+      "uploadImage": "A digi walasa ka ja bila"
+    },
+    "work": {
+      "company": "Sosiyete/Institution (Jɛkulu/Institution).",
+      "companyPlaceholder": "Sosiyete tɔgɔ...",
+      "role": "Jɔrɔ/Jɛkulu",
+      "rolePlaceholder": "Aw ka jɔyɔrɔ...",
+      "jobType": "Baara suguya",
+      "selectJobType": "Sugu sugandi",
+      "fullTime": "Waati dafalen",
+      "partTime": "Waati dafalen na",
+      "contract": "Bɛnkan",
+      "internship": "Baaradegin",
+      "freelance": "A ye baara kɛ a yɛrɛma",
+      "location": "Sigiyɔrɔ",
+      "locationPlaceholder": "misali la. ",
+      "duration": "Don hakɛ",
+      "currentlyWorking": "Sisan a bɛ baara Kɛ yan",
+      "description": "Baara ɲɛfɔli",
+      "descriptionPlaceholder": "Aw ye aw ka kunkanbaaraba ni aw ka seko ni dɔnko ɲɛfɔ...",
+      "skills": "Seko kɛrɛnkɛrɛnnenw",
+      "addExperience": "Aw ye Expérience fara a kan"
+    },
+    "org": {
+      "organization": "Jɛkulu Tɔgɔ",
+      "organizationPlaceholder": "Jɛkulu tɔgɔ...",
+      "role": "Jɔrɔ/Jɛkulu",
+      "rolePlaceholder": "misali la. ",
+      "duration": "Don hakɛ",
+      "periodFormat": "walima Free Format (misali la, san 2020 - 2022) .",
+      "periodPlaceholder": "misali la. ",
+      "currentlyActive": "Sisan a bɛ baara la",
+      "description": "Baarakɛcogo ɲɛfɔli",
+      "descriptionPlaceholder": "Aw ka baara kɛtaw walima aw ka bolomafaraw ɲɛfɔ...",
+      "addExperience": "Aw ye Expérience fara a kan"
+    },
+    "education": {
+      "institution": "Baarakɛda Tɔgɔ",
+      "institutionPlaceholder": "Lakɔli walima inivɛrisite tɔgɔ...",
+      "degree": "Diplome/Nivo (Nivo) ye",
+      "degreePlaceholder": "misali la. ",
+      "major": "Kalansenba/Kalansenba",
+      "majorPlaceholder": "misali la. ",
+      "gpa": "GPA / Kalanso",
+      "gpaPlaceholder": "misali la. ",
+      "duration": "Kalan kuntaala",
+      "periodFormat": "walima Free Format (misali la, san 2018 - 2022) .",
+      "periodPlaceholder": "misali la. ",
+      "currentlyStudying": "Sisan a bɛ kàlan Kɛ yan",
+      "description": "Baara minnu bɛ kɛ / Bonya",
+      "descriptionPlaceholder": "Kalan baaraw, jɛkuluw, walima bonya minnu sɔrɔla, olu ɲɛfɔ...",
+      "addEducation": "Aw ye Kalan fara a kan"
+    },
+    "cert": {
+      "name": "Seereyaw Tɔgɔ",
+      "namePlaceholder": "misali la. ",
+      "issuer": "Jɛkulu min bɛ bɔli kɛ",
+      "issuerPlaceholder": "misali la. ",
+      "issueDate": "Bɔko don min na",
+      "expiryDate": "Valid Fo",
+      "noExpiry": "O seereyaw tɛ ban",
+      "yearPlaceholder": "walima San (misali la, san 2023) .",
+      "credentialUrl": "Seereyaw URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Seko ni dɔnko minnu bɛ tali kɛ o la",
+      "addCertification": "Seereyaw fara a kan",
+      "image": "Jaa/Logo (Logo) ye",
+      "removeImage": "Jaa bɔ yen",
+      "uploadImage": "A digi walasa ka ja bila"
+    },
+    "common": {
+      "months": {
+        "1": "zanwuyekalo",
+        "2": "Fewuruyekalo",
+        "3": "Marisikalo",
+        "4": "Awirilikalo",
+        "5": "A bɛ se",
+        "6": "Zuwɛnkalo",
+        "7": "Zuluyekalo",
+        "8": "Utikalo",
+        "9": "Sɛtanburukalo",
+        "10": "Ɔkutɔburukalo",
+        "11": "Nowanburukalo",
+        "12": "Desanburukalo"
+      },
+      "month": "Kalo",
+      "year": "San",
+      "invalidDate": "Kalo laban min tɛ baara kɛ",
+      "words": "kumadenw"
+    }
+  },
+  "settings": {
+    "title": "Segin-ka-bɔnyew",
+    "subtitle": "I ka portfolio profile ani i ka fɛɛrɛw ɲɛnabɔ",
+    "tabs": {
+      "profile": "N ka Profil",
+      "security": "Lakana",
+      "personalization": "Mɔgɔya kɛcogo"
+    },
+    "profile": {
+      "infoTitle": "Kunnafoni jɔnjɔnw",
+      "photo": "Profil Foto",
+      "uploadPhoto": "Foto Changer",
+      "fullName": "Tɔgɔ dafalen",
+      "fullNamePlaceholder": "John Doe ye baara kɛ",
+      "email": "Email Adrɛsi",
+      "emailPlaceholder": "john@misali la.com kan",
+      "emailHelp": "Email bɛ kɛ ka don ani a tɛ jira foroba la.",
+      "portfolioUrl": "Portfolio URL ye",
+      "saveProfile": "Profil (Profil) mara",
+      "save": "Profil (Profil) mara",
+      "accountCreated": "Jatebla Dabɔra",
+      "lastLogin": "Don laban",
+      "oauthNotice": "Nin kunnafoni in bɛ tali kɛ i ka {{provider}} jatebɔsɛbɛn na. Yɛlɛma ka kan ka Changer profil ka kan ka kɛ baarakɛyɔrɔ fɛ."
+    },
+    "security": {
+      "changePassword": "Password Changer",
+      "currentPassword": "Password min bɛ yen sisan",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Password kura",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Daɲɛgafe kura dafa",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "A dɔgɔyalenba ye 8 ye",
+        "uppercase": "Sɛbɛnni belebele kelen (A-Z) .",
+        "number": "Jateden kelen (0-9) .",
+        "symbol": "Taamaʃyɛn kelen (!@#$%^&*)"
+      },
+      "passwordTitle": "Kɔdi",
+      "updatePassword": "Password kura ye",
+      "additionalSecurity": "Lakanali wɛrɛw",
+      "twoFactor": "Fɛn fila ka dantigɛli (2FA) .",
+      "twoFactorDesc": "I ka jatebɔsɛbɛn lakana ni OTP kode wɛrɛ ye.",
+      "activeSessions": "Sessions actives (Lajɛ minnu bɛ kɛ ni baara ye).",
+      "activeSessionsDesc": "Aw bɛ a to tuma bɛɛ ka minɛnw kɔlɔsi minnu donna.",
+      "publicVisibility": "Foroba yecogo",
+      "hideFromSearch": "Portfolio dogo ka bɔ ɲininikɛlanw kɔnɔ",
+      "hideFromSearchDesc": "Google bali ka i ka foroba portfolio ɲɛ index (yɔrɔ) kɛ.",
+      "disable2fa": {
+        "title": "2FA bali ka baara kɛ",
+        "description": "Yala aw dalen b’a la ko aw b’a fɛ ka fɛn fila ka dantigɛli dabila wa?",
+        "confirmPasswordLabel": "I ka tɔgɔlasɛbɛn sɛbɛn walasa k’a sɛmɛntiya",
+        "currentPasswordPlaceholder": "Sisan tɔgɔlasɛbɛn",
+        "cancelButton": "Cancel (Kalan) kɛ",
+        "confirmButton": "2FA bali ka baara kɛ",
+        "incorrectPassword": "Daɲɛ dogolen jugu."
+      },
+      "setup2fa": {
+        "step1Title": "1. Aw ye QR Code sɛgɛsɛgɛ",
+        "step1Desc": "I ka authenticator app da wuli ani ka nin QR code in scan:",
+        "unableToScan": "Se tɛ ka skan kɛ wa? Baara kɛ ni setup key ye",
+        "step2Title": "2. Ka Kode sɛgɛsɛgɛ",
+        "step2Desc": "Kode 6 min bɛ sɔrɔ i ka appli fɛ, o sɛbɛn:",
+        "cancelButton": "ka dankari",
+        "enableButton": "2FA ka baara kɛ",
+        "invalidLength": "Aw ye kode 6 sɛbɛn.",
+        "invalidCode": "Sɛgɛsɛgɛli kode tiɲɛnen. Aw ye aw jija ka segin a kan."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kanko ɲɛnabɔli",
+      "appLanguage": "App Language (Aplikasi) Kan",
+      "layoutTitle": "Layidu & Typografi (Layidu & Typography) ye",
+      "layoutStyle": "Layidu tacogo cogoya",
+      "layoutModern": "Style moderne (Default) .",
+      "layoutClassic": "Style klasiki",
+      "layoutMinimalist": "Style minimalist ye",
+      "fontSize": "App Font Size (Aplikasi sɛbɛnfura hakɛ).",
+      "fontSmall": "Fitinin",
+      "fontNormal": "Normal (Moyen) .",
+      "fontLarge": "Belebeleba",
+      "searchLanguage": "Ɲini kan...",
+      "languageNotFound": "Kan ma Sɔrɔ",
+      "layoutElegant": "Style Élégant ye"
+    },
+    "saveChanges": "Yɛlɛmaniw mara",
+    "cancel": "ka dankari",
+    "appSettings": "Application (Application) ka Settings (Aplikasi Settings).",
+    "logoutConfirmTitle": "A’ ye Logout dafa",
+    "logoutConfirmDesc": "Yala aw dalen b’a la ko aw b’a fɛ ka bɔ sistɛmu kɔnɔ wa?",
+    "logoutConfirmYes": "Ɔwɔ, Logout",
+    "generalError": "Misali dɔ kɛra. ",
+    "success": "Sanga",
+    "preferencesSaved": "App preferences (application) ɲɛnatɔmɔlenw maralen don ka ɲɛ.",
+    "header": "Aplikasi Settings (Aplikasiɔnw labɛncogo).",
+    "logout": {
+      "title": "Bɔli Dafalen",
+      "message": "Yala aw dalen b’a la ko aw b’a fɛ ka bɔ sistɛmu kɔnɔ wa?",
+      "confirm": "Ɔwɔ, Logout"
+    },
+    "about": {
+      "title": "Aplikasi ko la",
+      "subtitle": "Portefeuille Builder Plateforme (Baarakɛminɛnw dilannikɛla ka Plateforme).",
+      "version": "Wɛrisiyɔn",
+      "description": "DevFolio ye bi portfolio jɔli yɔrɔ ye min dabɔra baarakɛlaw, dilanbagaw ani baarakɛlaw dabɔbagaw ye. ",
+      "license": "Lase & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Hakɛ bɛɛ bɛ a bolo.",
+      "developer": "Ɲɛfɔlikɛla",
+      "developedBy": "A dabɔra Rifqi Naradata fɛ"
+    },
+    "deleteAccount": {
+      "title": "Konte Bɔ kudayi",
+      "menuItem": "Konte Delete",
+      "successTitle": "Ɲɛtaa",
+      "successMessage": "Jatebɔsɛbɛn bɔli dantigɛli bataki cilen don.",
+      "errorTitle": "Dɛsɛra",
+      "errorMessage": "A ma se ka dantigɛli imɛri ci.",
+      "confirmationMessage": "Yala i dalen b’a la ko i b’a fɛ k’i ka jatebɔsɛbɛn bɔ yen kudayi wa?",
+      "warningMessage1": "I bɛna imɛri sɔrɔ walasa ka jatebɔsɛbɛn bɔli dafa.",
+      "warningMessage2": "Ni a dafara, kunnafoniw bɛɛ (portfolio, poroze, jateminɛw) bɛna bɔ yen kudayi, wa u tɛ se ka sɔrɔ kokura.",
+      "cancel": "Cancel",
+      "confirm": "Kɔrɔfɔli"
+    },
+    "toasts": {
+      "toastError": "Filijuru",
+      "toastSuccess": "Sanga",
+      "toastSetup2FAFailed": "A ma se ka 2FA sigi sen kan. Aw ye aw jija ka segin a kan.",
+      "toast2FAEnabled": "Fɛn fila ka dantigɛli kɛra sababu ye.",
+      "toast2FADisabled": "Fɛn fila-fila-sɛgɛsɛgɛli dabilalen don.",
+      "toastSessionEnabled": "Session monitoring active (dakun kɔlɔsili baarakɛtaw) daminɛna.",
+      "toastSessionDisabled": "Session monitoring active (dakun kɔlɔsili baarakɛtaw) dabilalen don.",
+      "toastSetupKeyCopied": "Setup key kopi kɛra ka kɛ clipboard ye."
+    },
+    "privacy": {
+      "title": "Kunnafoni dogolenw maracogo",
+      "updateDate": "A laban kɛra: Zuluyekalo tile 15, san 2026",
+      "intro": "Nin Kunnafoni-di-sira b’a ɲɛfɔ cogo min na DevFolio bɛ i ka kunnafoniw lajɛ, k’u baara, ani k’u lakana ni i bɛ baara kɛ ni an ka baarakɛminɛnw ye.",
+      "section1Title": "1. An bɛ kunnafoniw lajɛ",
+      "section1Content": "An bɛ kunnafoniw lajɛ i ye minnu di k’a ɲɛsin i ma ni i bɛ jatebɔsɛbɛn dɔ da, ni i bɛ portfolio dɔ jɔ, ani ni i bɛ kuma an ka dɛmɛbagaw fɛ. ",
+      "section2Title": "2. Baara kɛ ni kunnafoniw ye",
+      "section2Content": "I ka kunnafoniw bɛ kɛ ka an ka baarakɛminɛnw baara, k’u ladon, ani k’u di, ani ka kumaɲɔgɔnya kɛ ni i ye i ka jatebɔsɛbɛn walima i ka baarakɛminɛnw ko la.",
+      "section3Title": "3. Donanw lakanani",
+      "section3Content": "An bɛ lakana fɛɛrɛ bɛnnenw tigɛ walisa k’i ka kunnafoniw tanga u ma, u kana bɔ kɛnɛ kan, walima u kana tiɲɛ."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Daɲɛgafe taamasiyɛn ma sɔrɔ.",
+    "defaultError": "A ma se ka jatebɔsɛbɛn bɔ yen. A bɛ se ka kɛ ko token waati tɛmɛna.",
+    "loadingTitle": "Konte bɔli...",
+    "loadingMessage": "Aw ka kɔnɔni kɛ, an bɛ ka aw ka ɲinini baara kɛ.",
+    "successTitle": "Konte ye ka ɲɛ",
+    "successMessage": "I ka kunnafoniw bɛɛ bɔra yen kudayi. Aw bɛna bila sira wɛrɛ kan...",
+    "errorTitle": "A ma se ka Jatebɔsɛbɛn Bɔ",
+    "backToHome": "Segin So kɔnɔ"
+  },
+  "forgotPassword": {
+    "minutes": "miniti",
+    "seconds": "seginkanni",
+    "success": "Ɲɛtaa",
+    "otpSentToEmail": "OTP kode dɔ cilen don i ka email ma.",
+    "failed": "Dɛsɛra",
+    "emailNotFound": "Email ma sɔrɔ.",
+    "emailThirdParty": "Nin email in sɛbɛnna mɔgɔ sabanan dɔ sababu fɛ.",
+    "genericError": "Misali dɔ bɛ yen. Aw ye aw jija ka segin a kan.",
+    "otpVerified": "OTP kode sɛgɛsɛgɛra ka ɲɛ.",
+    "otpExpired": "OTP kode waati tɛmɛna. Aw ye kode kura ɲini.",
+    "otpInvalid": "OTP kode tiɲɛnen.",
+    "otpResent": "OTP kode kura cilen don i ka email ma.",
+    "otpResendFailed": "A ma se ka OTP kode ci kokura. Aw ye aw jija ka segin a kan.",
+    "passwordResetSuccess": "Password (daɲɛ dogolen) bɛ se ka segin a cogo kɔrɔ la. Aw ye don ni aw ka tɔgɔlasɛbɛn kura ye.",
+    "passwordResetFailed": "A ma se ka tɔgɔlasɛbɛn lasegin.",
+    "backToLogin": "Segin ka na Login",
+    "back": "Back",
+    "title": "I ɲinɛna Password kɔ",
+    "description": "Email ladɛrɛsi min sɛbɛnnen bɛ i ka jatebɔsɛbɛn kan, o sɛbɛn. An bɛna OTP kode ci walasa ka tɔgɔlasɛbɛn in lasegin.",
+    "emailLabel": "Email Adrɛsi",
+    "sending": "Cikan...",
+    "sendOtp": "OTP Kode ci",
+    "verifyOtpTitle": "OTP Kode sɛgɛsɛgɛ",
+    "verifyOtpDesc": "Kode 6 min cilen don i ka imeyili la, o sɛbɛn walasa k’i ka danyɔrɔ dafa.",
+    "verifying": "Sɛgɛsɛgɛli...",
+    "verifyOtp": "OTP sɛgɛsɛgɛ",
+    "resending": "A bɛ ci kokura...",
+    "resendOtp": "OTP Kode ci kokura",
+    "resendCodeIn": "Kode ci kokura",
+    "newPasswordTitle": "kɔnɔ Daɲɛgafe kura Dabɔ",
+    "newPasswordDesc": "I ka tɔgɔlasɛbɛn kura barikama dɔ dilan walasa k’i ka jatebɔsɛbɛn lakana.",
+    "newPasswordLabel": "Password kura",
+    "min8Chars": "A dɔgɔyalenba ye taamasiyɛn 8 ye",
+    "oneUpperCase": "1 sɛbɛnni belebele (A-Z)",
+    "oneNumber": "1 jate (0-9)",
+    "oneSymbol": "1 taamasiyɛn (!@#$%^&*)",
+    "confirmPasswordLabel": "Daɲɛ kɔrɔfɔli",
+    "passwordsDoNotMatch": "Passwordw tɛ bɛn ɲɔgɔn ma.",
+    "resettingPassword": "Password (daɲɛ dogolen seginni)...",
+    "resetPassword": "Segin ka Password (Pasword) Lasegin"
+  },
+  "verifyEmail": {
+    "resendError": "A ma se ka sɛgɛsɛgɛli imɛri ci kokura. Aw ye aw jija ka segin a kan.",
+    "checkingStatus": "Sɛgɛsɛgɛli cogoya lajɛ...",
+    "title": "Aw ye Aw ka Email lajɛ",
+    "description": "An ye sɛgɛsɛgɛli imɛri ci i ka imeyili ladɛrɛsi ma. I ka bataki da wuli ka <1>\"Jatebɔsɛbɛn dafa\"</1> butɔn digi walasa k’i ka jatebɔsɛbɛn baara.",
+    "stepsTitle": "Taabolow",
+    "step1": "I ka email application (Gmail, Yahoo, wdfl) da wuli",
+    "step2": "Aw ye bataki ɲini DevFolio fɛ min tɔgɔ ye ko \"Account Activation\"",
+    "step3": "\"Confirm Account\" butɔn digi email",
+    "step4": "kɔnɔ I bɛna ɲɛsin donyɔrɔ ma walasa ka don",
+    "resendSuccess": "Sɛgɛsɛgɛli email in cilen don kokura!",
+    "resending": "A bɛ ci kokura...",
+    "resendButton": "Segin ka Sɛgɛsɛgɛli Email ci",
+    "backToLogin": "Segin ka don Login Page la",
+    "footerNote": "Yala i ma o email sɔrɔ wa? <1>Spam</1> walima <2>Junk</2> foli lajɛ i ka bataki kɔnɔ. Sɛgɛsɛgɛli jɛgɛnsira bɛ baara kɛ <3>lɛrɛ 24</3> kɔnɔ."
+  }
+}

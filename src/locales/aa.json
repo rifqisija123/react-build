@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ceelo",
+    "templates": "Abtoota",
+    "pricing": "Melleb",
+    "login": "Culma",
+    "getStarted": "Qimmis",
+    "title": "Devfoliyo"
+  },
+  "landing": {
+    "badge": "ellecabo mayballaah xiso dadliseenit",
+    "title1": "Isi mihrat xis",
+    "title2": "portofiilo addat",
+    "titleHighlight": "sekenxitte.",
+    "subtitle": "Atu faxxa haytam inkih isi duddaay, cugaysoosa kee abak raag taybulleemi. ",
+    "startBuilding": "Xiso away qemmis",
+    "viewTemplates": "Abtoota wagita",
+    "fastDeployment": "Sissik dadal",
+    "liveStatus": "doqaysimê migaq.dev saanih yan!",
+    "featuresTitle": "caylale weeloola",
+    "featuresSubtitle": "Nanu atu faxxah tan silaacitte inkih koh xayyosnaah, ummattak iroh soltaah, ku soonoh taamah ardi.",
+    "feature1Title": "Giitoo kee tiffa xiso",
+    "feature1Desc": "sahlinuk massos isi footimaami, cugaysoosa kee mehrat nek tanbulle maysaraaracat.",
+    "feature2Title": "madruur ximmooma",
+    "feature2Desc": "door mehratiinol goolisen abnissoosa hinnay isih baxsale weelo gin.",
+    "feature3Title": "nummah uddur makeelisso",
+    "feature3Desc": "isi gufneh mara kattat, manni cugaysoosa mango hangi geytam kee mangoomu."
+  },
+  "auth": {
+    "welcomeBack": "Unkaq muquk temeetem",
+    "loginToContinue": "Bisoh haytuh isi akkaawontit cul",
+    "createAccount": "Cisab Bicis",
+    "joinCommunity": "Alfittel loowimta gersi dadliseenit engel",
+    "fullName": "Kibnele Migaq",
+    "fullNamePlaceholder": "c.l. ",
+    "email": "Galelastah guub",
+    "emailPlaceholder": "koo@ceelallo.com",
+    "password": "Sirri-loowo",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Yoo kassit",
+    "forgotPassword": "Sirri qangara habbaltee?",
+    "signIn": "Asta Cul",
+    "signingIn": "Asta culsaanam...",
+    "signUp": "Asta hayis",
+    "signingUp": "Asta haysit...",
+    "noAccount": "Cisab mantu?",
+    "hasAccount": "naharal elle akkaawonti litoo?",
+    "passwordRules": {
+      "title": "Sirri loowo addat lem faxximta:",
+      "length": "Dagnal 8 kilqaaqi",
+      "uppercase": "Inki kaxxa wara (A-Z)",
+      "number": "Inki casri (0-9)",
+      "symbol": "Inki asta (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Mayballaata Xise",
+      "templates": "Abtoota kee Mafdagoogi",
+      "settings": "guddaaqa",
+      "collapse": "tattab alfenta radda",
+      "overview": "Amolladih mabul",
+      "profileSettings": "Maybalaalaqa guddaaqa",
+      "customDomain": "Madruur Guddaamah",
+      "feedback": "Abni raddi"
+    },
+    "header": {
+      "viewLive": "Saanih wagita",
+      "welcome": "Arcib,",
+      "logout": "Mawqa",
+      "builder": "Xisne",
+      "livePortfolio": "Saanih portofiilo",
+      "live": "Manol aniyya"
+    },
+    "logoutModal": {
+      "title": "Mawqa",
+      "message": "Atu isi akkaawontik tawqem faxxam tasmitee? ",
+      "cancel": "Bayis",
+      "confirm": "Yeey, mawqa"
+    },
+    "slugModal": {
+      "title": "Isi portofiiloh URL door",
+      "message": "Ta URL ku portofiiloh baxsale yasgaarawi akkele. ",
+      "slugPlaceholder": "ku-migaq",
+      "availability": "Geytimiyya:",
+      "available": "Geytimtaama",
+      "unavailable": "Mageytima",
+      "checking": "cubbusak...",
+      "mustFormat": "dubuk warooriiy, casrittee kee diishitte addat lem (-)",
+      "cancel": "Bayis",
+      "save": "URL daagis",
+      "usernameUrl": "Doqaysimê migaq URL",
+      "helpText": "Qunxa waraay, casrittee kee diishitte. ",
+      "validation": {
+        "empty": "Slug foyyah gacam maduuda.",
+        "min3": "dagnal 3 kilqaaqi.",
+        "max30": "Fayyata 30 weelo.",
+        "format": "dubuk qunxa waraay, casrittee kee diilitte (-). "
+      }
+    },
+    "loadingPortfolio": "Mayballaata oyta quuka...",
+    "overview": {
+      "greetings": {
+        "morning": "Maacissee",
+        "afternoon": "Nagassee",
+        "evening": "Nagassee",
+        "night": "Meqe bara"
+      },
+      "welcome": {
+        "hi": "O,",
+        "creator": "Hadleena",
+        "desc1": "DevFoliyoh dashborxi fan unkaq muquk temeetem. ku portofiilo yumbulleh",
+        "desc2": "inki numu. Taamat bisoh ixxic!",
+        "editPortfolio": "Mayballaata ceysas"
+      },
+      "stats": {
+        "totalVisitors": "Ittat gufne abe mara",
+        "projectViews": "yumbulleh (cugayso)",
+        "activeSessions": "Abinah yan wakti",
+        "totalLabel": "Amolladih"
+      },
+      "setup": {
+        "title": "maysaasa massoosaanama",
+        "completed": "Ku portofiilo gaba kalteh! 🎉",
+        "inProgress": "Qigduk yan portofiilo fan maaqattooti.",
+        "profile": {
+          "title": "Maybalaalaqa kib",
+          "desc": "Migaq, bayo kee porofaayil muuci edde osis."
+        },
+        "section": {
+          "title": "Footimaami osis",
+          "desc": "portofiiloh addat dagnal 1 footima taamita."
+        },
+        "project": {
+          "title": "Cugayso osis",
+          "desc": "Kok tayseh tan cugaysoosak dagnal 1 culus."
+        },
+        "publish": {
+          "title": "Mayballaata yatbiqeenimi",
+          "desc": "massos madruur URL tonnal toh ummatta guftuh."
+        }
+      },
+      "topProjects": {
+        "title": "Kaxxam tamixxige cugaysoosa",
+        "desc": "ku taamah xayyos gufneh intiitat.",
+        "viewAll": "Inkih wagit",
+        "empty": "Ku cugaysoh oyti mabul awakâ fanah mayan."
+      }
+    },
+    "themes": {
+      "title": "Abtoota kee Mafdagoogi",
+      "subtitle": "isi ummattah portofiiloh weelo kee cuso massos.",
+      "reset": "sugtem qagitaak daffes",
+      "save": "milaagitte daagis",
+      "saving": "Daagisiyya...",
+      "chooseTemplate": "Abnisso doora",
+      "primaryColor": "Naharsi Bisu",
+      "typography": "kutbe muucisso",
+      "appearance": "Weelo",
+      "corners": "Gonaa kee Cuduuud",
+      "successTitle": "mayso",
+      "successMessage": "ammunti doorititte agdaabele gurral tusqussubime",
+      "errorTitle": "Hoxa",
+      "errorMessage": "ammunti doorititte daagisaanam raddeh",
+      "templates": {
+        "minimalist": {
+          "name": "Dagnale",
+          "desc": "Saytun kee sahlin margaqa addatinol hangi hayta."
+        },
+        "developerDark": {
+          "name": "Dadlise Dite",
+          "desc": "Ditele ximmo koox kee teknoloojih ximmooma taybulleemih meqeh."
+        },
+        "creative": {
+          "name": "Hadliyyi",
+          "desc": "libdoleeh bisitte le xisoh goolisee kee hadleenit."
+        },
+        "executive": {
+          "name": "Abbinoyse",
+          "desc": "kabxah mihratleelah mehrat kee madabiinoh xiso."
+        },
+        "bentoGrid": {
+          "name": "Bento Giriid",
+          "desc": "Qasriinô Tuffaac-gurrih firqanfiir xisoh ammunti baxaabaxsale mehrat dudda luk."
+        },
+        "neoBrutalism": {
+          "name": "Qusba-Qunxaaneyti",
+          "desc": "libdole cuduuud kee fayyale qeedaalisso bisitte qaadah tan, qafuuta sinni mabla."
+        },
+        "glassmorphism": {
+          "name": "mereyya morfizim",
+          "desc": "arroqle karaaratih xalootitte bisitte le ximmooma qaxmeqe qasri UI."
+        },
+        "linkInBio": {
+          "name": "Biyoh addat yasgaarawi",
+          "desc": "sitta ceela karerta xiso mobaayil alaalaqaa kee ayyuntiinô ratteemah maysaasale."
+        }
+      },
+      "appearances": {
+        "light": "Diifu",
+        "dark": "Dite",
+        "system": "maknay"
+      },
+      "cornersOptions": {
+        "sharp": "Afle",
+        "rounded": "Maroh tan",
+        "pill": "kaniina"
+      }
+    },
+    "feedback": {
+      "title": "Raddi Rub",
+      "subtitle": "ta assabaltal mablooliiy, assacokkiiy, akkek hoxaaxih gabbaaqu xayyosak taysiisuh nee cat.",
+      "categoryLabel": "raddi ludda",
+      "messageLabel": "Farmo Addafakoot",
+      "messagePlaceholder": "Atu tatrussam faxxah tan raddi baar luk yoh warisey...",
+      "imageLabel": "muuci xakabuh (doorit)",
+      "imagePlaceholder": "muuci akkek alaalaqa taswiir takroonuh mukunna hay",
+      "submitting": "Ruubiyyi...",
+      "submitBtn": "Raddi Rub",
+      "categories": {
+        "suggestion": "Mablooli kee Mablooli",
+        "bug": "Hoxa/Hoxah Gabbaaqu",
+        "criticism": "Sadu",
+        "other": "Kalah tanim"
+      },
+      "imageErrorTitle": "Hoxa",
+      "imageErrorMessage": "Inki inki faayilitteh muucih cibtitte (JPG, PNG, GIF, WEBP) qokkolsime waytaamih taagah cinnimteh",
+      "successTitle": "mayso",
+      "successMessage": "yoh teceeh tan raddih gadda gey! Gabbaaqu ruubeenih.",
+      "submitErrorTitle": "radeh",
+      "submitErrorMessage": "raddi ruubaanah yanin wak qellat yekke. Ku maganak qagitaak gibbat."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Yoo wagittaamal",
+      "skills": "Miharata",
+      "projects": "Cugaysoosa",
+      "workExperience": "taamah abak raag",
+      "orgExperience": "Massoynâ abak raag",
+      "education": "Baritto",
+      "certifications": "Aydakaakan kee Sumaq warkat",
+      "contact": "Yoo ongoorow"
+    },
+    "editor": {
+      "profileInfo": "Maybalaalaqa oyta",
+      "saving": "Daagisiyya...",
+      "profilePhoto": "Maybalaalaqa muuci",
+      "clickToUpload": "Takartuh xukkut (JPG, PNG)",
+      "fullName": "Kibnele Migaq",
+      "fullNamePlaceholder": "c.l. ",
+      "bio": "Manô-Baayo",
+      "bioPlaceholder": "Qasri weeb abnissoosa xisoonuh kaxxa fayxi le kibnele dadlise...",
+      "location": "Ku araca",
+      "locationPlaceholder": "c.l. ",
+      "gender": "Nado-wag",
+      "selectGender": "Nado meexa",
+      "male": "Lab numu",
+      "female": "Say numu",
+      "custom": "Qaada",
+      "customPlaceholder": "isik qaadah nado wiiris...",
+      "uploadCv": "CV oobis",
+      "cvFormat": "(DOC akkek PDF)",
+      "preview": "Naharsi mabul",
+      "remove": "Kal",
+      "clickToUploadCv": "PDF akkek DOC takroonuh mukunna hay",
+      "sections": "Footimaami",
+      "removeSelected": "Doorimtem kala",
+      "confirmRemove": "Duugaanam diggos",
+      "addSection": "Footima osis",
+      "addAllSections": "Inkih tan footimaami edde osis",
+      "noSections": "Uxih footimaami matan",
+      "clickToAdd": "Qimmissuh \"+ Footima osis\" mukun",
+      "selectAll": "Inkih meexa",
+      "selected": "Doorimeh",
+      "dragToReorder": "footimaami qagitak massoosuh giitoonay",
+      "livePreview": "Saanih mabul",
+      "addSectionsToBuild": "isi portofiilo bicissuh footimaami osis",
+      "now": "Away",
+      "current": "Wakti caalat",
+      "noExpiry": "gaba kalti mali",
+      "see": "Mabla",
+      "position": "Araca",
+      "degree": "Digri",
+      "certification": "Sumaqta",
+      "sectionsForm": {
+        "about": {
+          "label": "Isi baxxaqsa",
+          "placeholder": "neh warisey isi nabsi, ku aydaadu, fayxiixa kee mehrat..."
+        },
+        "skills": {
+          "addPlaceholder": "qaynat qaynat tokkeek culus xukkuta..."
+        },
+        "projects": {
+          "title": "Cugaysô Migaq",
+          "titlePlaceholder": "Cugaysô migaq...",
+          "url": "Cugaysô URL",
+          "description": "Baxxaqisiyya",
+          "descriptionPlaceholder": "Cugaysok ux baxxaqsa...",
+          "uploadThumbnail": "Cugaysô muuci",
+          "addProject": "Cugayso osis",
+          "projectNum": "Taddeera #",
+          "currentProject": "Taham Anu elle taamitam cugayso"
+        },
+        "work": {
+          "company": "Koba/Ejensi",
+          "companyPlaceholder": "Koba migaq...",
+          "position": "Arac/Ammunta",
+          "positionPlaceholder": "Ku arac...",
+          "employmentType": "Taama qaynat",
+          "location": "Ku araca",
+          "locationPlaceholder": "Magaala, Baaxo...",
+          "startDate": "Qembo",
+          "endDate": "Gabakaleh",
+          "currentWork": "Anu uxih taamitak geytima",
+          "description": "Baxxaqisiyya",
+          "descriptionPlaceholder": "Taama baxxaqsa kee qaaqa...",
+          "skills": "Mihrata",
+          "addExperience": "taamah abak raag osis",
+          "experienceNum": "Abak raag #",
+          "dateError": "illacabo ayro qimboh ayrok naharal takkem madudda"
+        },
+        "org": {
+          "organization": "Massoynâ Migaq",
+          "orgPlaceholder": "BEM Jaamiqat...",
+          "role": "Doori/Adda",
+          "rolePlaceholder": "Exxah Saqal...",
+          "addOrg": "Massoynâ abak raag osis",
+          "orgNum": "Missoyna #"
+        },
+        "edu": {
+          "institution": "Barittô xisoosa",
+          "institutionPlaceholder": "Gaso akkek baritto buxah migaq...",
+          "degree": "Ammunta",
+          "degreePlaceholder": "S1, fayyale caddoh barittoh buxa, ww...",
+          "major": "kusaq ludda/ booxa",
+          "majorPlaceholder": "Oyti injineeringih...",
+          "gpa": "GPA (doorit)",
+          "currentStudy": "Anu uxih akkel baritah an",
+          "descriptionPlaceholder": "kusaq uddur abnissoosa kee agdaabele...",
+          "addEdu": "Baritto osis",
+          "eduNum": "Baritto #"
+        },
+        "cert": {
+          "name": "sumaq warkat/ aydakaakan migaq",
+          "namePlaceholder": "Sumaq warkat migaq...",
+          "issuer": "Matbaqa",
+          "issuerPlaceholder": "matbaqatih xiso...",
+          "issueDate": "Qimmisiyyi (Matbaqah Ayro)",
+          "issueDatePlaceholder": "matbaqatih ayro meexa...",
+          "expiryDate": "Duudumteh ( Gitat yan wakti)",
+          "expiryDatePlaceholder": "gaba kaltih ayro meexa...",
+          "noExpiry": "Ta sumaqtah gaba kalti ayro mali",
+          "url": "Sumaqtah URL",
+          "uploadThumbnail": "sumaq warkat/ aydakaakan muuci",
+          "uploadThumbnailLimit": "Takar sumaqtah muuci (JPG/PNG/WEBP, fayyale 2MB)",
+          "addCert": "sumaqta osis",
+          "certNum": "sumaqta #"
+        },
+        "contact": {
+          "contactNum": "Angaarawa #",
+          "platform": "Missoyna",
+          "displayText": "kutbe uybulluy",
+          "displayTextPlaceholder": "celalloh, atu@galele astah.com akkek @doqaysimê migaq",
+          "url": "Yasgaarawi (URL)",
+          "urlPlaceholderWhatsapp": "celalloh, 62812...(0 miraaciino sinnim)",
+          "urlPlaceholderEmail": "celalloh, koo@galele astah.com",
+          "urlPlaceholderWebsite": "ceelalloh, http://...",
+          "urlPlaceholderDefault": "celalloh, doqaysimê migaq",
+          "addContact": "angaaraw osis"
+        },
+        "common": {
+          "months": {
+            "1": "Naharsi Kudo",
+            "2": "Qad-dirri",
+            "3": "Roorut gexaanama",
+            "4": "Qasa dirri",
+            "5": "Takkem xiqtah",
+            "6": "Qasa dirri",
+            "7": "Laqini",
+            "8": "Ximoli",
+            "9": "Qunxa garablu",
+            "10": "Kaxxa garablu",
+            "11": "Naharsi kudo",
+            "12": "Ciggila kudo"
+          },
+          "month": "Alsa",
+          "year": "Sanata",
+          "invalidDate": "oggol sinni alsih illacabo",
+          "words": "qangooru"
+        }
+      },
+      "sure": "Asmata",
+      "deletePhotoTitle": "Maybalaalaqa muuci duugaa?",
+      "deletePhotoMessage": "Atu tasmiteh ta porofaayil muuci bayissam faxxam?",
+      "cancel": "Bayis",
+      "delete": "Bayis"
+    },
+    "cropper": {
+      "chooseBackground": "Aydaadi doorit",
+      "cropPhoto": "Isi muuci irgiq",
+      "useOriginal": "asli doqaysima",
+      "backgroundPresets": "Aydaadi naharsi daffeynaani",
+      "none": "Wohuk tu hinna",
+      "uploadBackground": "Aydaadi takriyyi",
+      "cancel": "Bayis",
+      "savePhoto": "muuci daagis",
+      "zoom": "Zoom",
+      "rotationTilt": "Mermeero kee xammaqime",
+      "resetRotation": "0° fanah qagitaak qemmis",
+      "center": "Fana",
+      "rotateLeft": "Mermeeris -90°",
+      "rotateRight": "Mermeeris +90°",
+      "removeBackground": "Aydaadi kala",
+      "processing": "isi muuci gexsis, kumagan qammal..."
+    },
+    "cvPreview": {
+      "title": "CV naharsi mabul",
+      "downloadCv": "CV oobis",
+      "download": "Oobis",
+      "wordCannotPreview": "Qangor sanaditte (.doc/.docx) naharal elle tanbulleem madudda birowseril. ",
+      "downloadFile": "CV Siba Oobis",
+      "back": "Wadir",
+      "mobileMessage": "Ku maganak CV faayil oobis naharal elle tabluh.",
+      "preview": "CV naharsi mabul",
+      "wordPreviewTitle": "Qangara Sanad Naharsi Mabul",
+      "wordPreviewMessage": "Qangor sanaditte (.doc/.docx) naharal elle tanbulleem madudda birowseril. Ku maganak faayil oobis tet tabluh."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "isi nabsik ux baxxaqsa uktub, fayxittee kee taamah hadafitte..."
+    },
+    "skills": {
+      "placeholder": "Duddi migaq wiiris...",
+      "add": "Osiyya",
+      "enterToAdd": "ossoonuh culus xukkuta",
+      "noSkills": "Uxih wali duddi ossimeh mayana."
+    },
+    "projects": {
+      "projectName": "Cugaysô Migaq",
+      "projectNamePlaceholder": "c.l. ",
+      "projectUrl": "Cugaysô URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Udduro",
+      "startMonth": "Alsi Qimmisiyyi",
+      "startYear": "Qimmisiyyi Liggida",
+      "endMonth": "Alsak illacabo",
+      "endYear": "Liggidak illacabo",
+      "currentlyWorking": "Awayih ibak tahal taamitak geytima",
+      "description": "Baxxaqisiyya",
+      "descriptionPlaceholder": "Cugayso, ku doorii kee agdaabê qaddos...",
+      "technologies": "Xoqoysil asse mikxayitte",
+      "addProject": "Cugayso osis",
+      "image": "Cugayso muuci",
+      "removeImage": "muuci duuga",
+      "uploadImage": "muuci takroonuh mukun"
+    },
+    "work": {
+      "company": "kobi/ xiso",
+      "companyPlaceholder": "Koba migaq...",
+      "role": "Doori/Adda",
+      "rolePlaceholder": "Ku arac...",
+      "jobType": "Taamâ Qaynat",
+      "selectJobType": "qaynat meexa",
+      "fullTime": "Kibnele-uddur",
+      "partTime": "Exxa-uddur",
+      "contract": "Cibu",
+      "internship": "Abni barittò",
+      "freelance": "Firilansi",
+      "location": "Ku araca",
+      "locationPlaceholder": "c.l. ",
+      "duration": "Udduro",
+      "currentlyWorking": "Awayih ibak akkel taamitak geytima",
+      "description": "Taama Baxxaqsa",
+      "descriptionPlaceholder": "Kok lafale qaaqa kee maysoosa baxxaqis...",
+      "skills": "Baxsale mehrat",
+      "addExperience": "Abak raag osis"
+    },
+    "org": {
+      "organization": "Massoynâ Migaq",
+      "organizationPlaceholder": "Massoynâ migaq...",
+      "role": "Doori/Adda",
+      "rolePlaceholder": "c.l. ",
+      "duration": "Udduro",
+      "periodFormat": "akkek currik tan cibta (c.l. 2020-2022)",
+      "periodPlaceholder": "c.l. ",
+      "currentlyActive": "Awayih uddur taamita",
+      "description": "Angagoyyi Baxxaqsa",
+      "descriptionPlaceholder": "Isi abnissoosa akkek doori baxxaqis...",
+      "addExperience": "Abak raag osis"
+    },
+    "education": {
+      "institution": "xisoh migaq",
+      "institutionPlaceholder": "baritto buxah akkek jaamiqat migaq...",
+      "degree": "Xigri/Caddo",
+      "degreePlaceholder": "c.l. ",
+      "major": "Leynâ/Kusaq booxa",
+      "majorPlaceholder": "c.l. ",
+      "gpa": "GPA/Footima",
+      "gpaPlaceholder": "c.l. ",
+      "duration": "Barittô wakti",
+      "periodFormat": "akkek currik tan cibta (c.l. 2018-2022)",
+      "periodPlaceholder": "c.l. ",
+      "currentlyStudying": "Awayih ibak akkel barta",
+      "description": "Angagoyyitte/ Massakaxxa",
+      "descriptionPlaceholder": "Barittô taamoomiiy, massoynaaniiy, akkek geytimte kunnabna baxxaqisa...",
+      "addEducation": "Baritto osis"
+    },
+    "cert": {
+      "name": "Sumaqtah Migaq",
+      "namePlaceholder": "c.l. ",
+      "issuer": "Massoyna Yayyaaqeenimi",
+      "issuerPlaceholder": "c.l. ",
+      "issueDate": "Caagid Ayro",
+      "expiryDate": "Fanah taamitele",
+      "noExpiry": "Ta sumaqtah uddur gaba makalta",
+      "yearPlaceholder": "akkek liggida (c.l. 2023)",
+      "credentialUrl": "Sumaqtah URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Fantaaxaw le dudditte",
+      "addCertification": "sumaqta osis",
+      "image": "muuci/asta",
+      "removeImage": "muuci duuga",
+      "uploadImage": "muuci takroonuh mukun"
+    },
+    "common": {
+      "months": {
+        "1": "Naharsi Kudo",
+        "2": "Qad-dirri",
+        "3": "Roorut gexaanama",
+        "4": "Qasa dirri",
+        "5": "Takkem xiqtah",
+        "6": "Qasa dirri",
+        "7": "Laqini",
+        "8": "Ximoli",
+        "9": "Qunxa garablu",
+        "10": "Kaxxa garablu",
+        "11": "Naharsi kudo",
+        "12": "Ciggila kudo"
+      },
+      "month": "Alsa",
+      "year": "Sanata",
+      "invalidDate": "oggol sinni alsih illacabo",
+      "words": "qangooru"
+    }
+  },
+  "settings": {
+    "title": "guddaaqa",
+    "subtitle": "isi portofiiloh maybalaalaqa kee doorititte xiinis",
+    "tabs": {
+      "profile": "Yi Maybalaalaqa",
+      "security": "Dacayri",
+      "personalization": "Cankah aysaxaaxag"
+    },
+    "profile": {
+      "infoTitle": "Rakiiboh oyta",
+      "photo": "Maybalaalaqa muuci",
+      "uploadPhoto": "muuci milaag",
+      "fullName": "Kibnele Migaq",
+      "fullNamePlaceholder": "Jon Doe",
+      "email": "Galelastah guub",
+      "emailPlaceholder": "yoohanna@ceelallo.com",
+      "emailHelp": "Galele asta culmah xoqoysil aseleeh, ummattah mayambulla.",
+      "portfolioUrl": "Mayballaata URL",
+      "saveProfile": "maybalaalaqa daagis",
+      "save": "maybalaalaqa daagis",
+      "accountCreated": "Cisab ginnimteh",
+      "lastLogin": "Illacaboh culma",
+      "oauthNotice": "Ta maybalaalaqa kok {{xayyoose}} akkaawontit axawah tan. Maybalaalaqa milaagitte ayfaf mattacooh gabuuk takkem faxxinta."
+    },
+    "security": {
+      "changePassword": "Sirri loowo milaaga",
+      "currentPassword": "Awayih sirri qangara",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Qusba sirri loowo",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Qusba sirri loowo diggos",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "Dagnal 8 kilqaaqi",
+        "uppercase": "Inki kaxxa wara (A-Z)",
+        "number": "Inki casri (0-9)",
+        "symbol": "Inki asta (!@#$%^&*)"
+      },
+      "passwordTitle": "Sirri-loowo",
+      "updatePassword": "Sirri loowo usqussub",
+      "additionalSecurity": "Ossotinah sirri",
+      "twoFactor": "namma-sabab diggoysiyyi (2FA)",
+      "twoFactorDesc": "ossotinah OTP bedut xoqoysimak isi akkaawonti dacris.",
+      "activeSessions": "Abinal tan waktitte",
+      "activeSessionsDesc": "umman way idnis lowsis culmah yahaadal.",
+      "publicVisibility": "Ayyunti mabul",
+      "hideFromSearch": "Mayballaata Goranah Motooruk qellis",
+      "hideFromSearchDesc": "googil ku ummattah portofiiloh galih oyti ascossak waasa.",
+      "disable2fa": {
+        "title": "2FA alif",
+        "description": "atu tasmite atu namma-sababih diggoysiyyi aliftam faxxam?",
+        "confirmPasswordLabel": "Diggossuh isi sirri loowo culus",
+        "currentPasswordPlaceholder": "Awayih sirri loowo",
+        "cancelButton": "Duuga",
+        "confirmButton": "2FA alif",
+        "incorrectPassword": "Gitat yan sirri qangara."
+      },
+      "setup2fa": {
+        "step1Title": "1. QR mudenta ixxoysa",
+        "step1Desc": "isi asmatle assabalta fakaay ciggiila QR mudenta ixxoys:",
+        "unableToScan": "ixxo maduuda? gulgulussoh fakeenat doqaysima",
+        "step2Title": "2. Mudenta ceda",
+        "step2Desc": "culus 6-ixxima le mudenta ginnimteh ku assabaltal:",
+        "cancelButton": "Bayis",
+        "enableButton": "2FA ugsa",
+        "invalidLength": "Ku maganak 6-ixxima le bedu culus.",
+        "invalidCode": "oggol sinni diggoysiyyi bedu. Ku maganak qagitaak gibbat."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Afti raamoyso",
+      "appLanguage": "Assabaltâ Af",
+      "layoutTitle": "Xisoo kee kutbe muucisso",
+      "layoutStyle": "xisoh maagaxxi",
+      "layoutModern": "Qasri maagaxxi ( sugtem)",
+      "layoutClassic": "Qaadah yan maagaxxi",
+      "layoutMinimalist": "Qunxaaneyti maagaxxi",
+      "fontSize": "Assabaltâ kutbeh Giddakiino",
+      "fontSmall": "Qunxa",
+      "fontNormal": "qaadiik (fanti caddoh)",
+      "fontLarge": "Nabaama",
+      "searchLanguage": "Af gorrisa...",
+      "languageNotFound": "Af mageytima",
+      "layoutElegant": "Qaxmeqe maagaxxi"
+    },
+    "saveChanges": "Milaagitte daagis",
+    "cancel": "Bayis",
+    "appSettings": "Assabaltâ guddaaqa",
+    "logoutConfirmTitle": "Mawqa diggos",
+    "logoutConfirmDesc": "Atu tasmite atu maknayak tawqem faxxam?",
+    "logoutConfirmYes": "Yeey, mawqa",
+    "generalError": "Hoxi yekke. ",
+    "success": "Arcimiyya",
+    "preferencesSaved": "assabalta doorititte agdaabele gurral daanimte.",
+    "header": "Assabalta guddaaqa",
+    "logout": {
+      "title": "Mawqah diggoyso",
+      "message": "Atu tasmite atu maknayak tawqem faxxam?",
+      "confirm": "Yeey, mawqa"
+    },
+    "about": {
+      "title": "Assabalta wagittaama",
+      "subtitle": "Mayballaata xisoh gudgud",
+      "version": "Iyyenti exxa",
+      "description": "DevFolio yaanam qasri portofiiloh xisneh pilaatformiy dadliseenit, gooliseenit kee mihratleelah bicsen. ",
+      "license": "Idni kee Kutbiyyi Gaara",
+      "copyright": "©2026 Devfoliyo Inc. inkih tan gaaritte daccarsimteh.",
+      "developer": "Dadlise",
+      "developedBy": "Dadlissem Rifqi Naraadata"
+    },
+    "deleteAccount": {
+      "title": "Maytanih akkaawonti bayisa",
+      "menuItem": "Cisab Duuga",
+      "successTitle": "mayso",
+      "successMessage": "akkaawonti baysiyyih asmatiyyi galelasta ruubeenih.",
+      "errorTitle": "radeh",
+      "errorMessage": "Asmatiyyi galelasta ruubaanam raddeh.",
+      "confirmationMessage": "Atu isi akkaawonti maytanih bayissam faxxam tasmitee?",
+      "warningMessage1": "Atu akkaawonti baysiyyi diggossuh galelasta gee lito.",
+      "warningMessage2": "oggolimtek, inkih tan oytitte ( portofiilo, cugaysoosa, loowo) maytanih duugumelem kee madaara maduudunta.",
+      "cancel": "Duuga",
+      "confirm": "Asmatiyya"
+    },
+    "toasts": {
+      "toastError": "Qellata",
+      "toastSuccess": "Arcimiyya",
+      "toastSetup2FAFailed": "2FA gulgulusaanam raddeh. Ku maganak qagitaak gibbat.",
+      "toast2FAEnabled": "namma-sababiini diggoyso tekkeh.",
+      "toast2FADisabled": "namma-sababiini asmatiyya alfimteh.",
+      "toastSessionEnabled": "Abinal tan waktih lowsis ugseh.",
+      "toastSessionDisabled": "Abinal tan waktih lowsis alfimeh.",
+      "toastSetupKeyCopied": "maftacih gulgulussoh luucih korraq."
+    },
+    "privacy": {
+      "title": "Cankâ pooliisi",
+      "updateDate": "Illacaboh uddurtisen: Waysuk 15, 2026",
+      "intro": "Tama Sirri Poliisi DevFolio ni ayfaafayittet yantifiqe wak ku cankah oytitte elle kobxisan inna, elle yantifiqen inna kee elle kalalan inna baxxaqisa.",
+      "section1Title": "1. Nanu gaaboysen oyta",
+      "section1Content": "Nanu atu saanih teceeh tan oytitte gaaboyna, portofiilo xissa wak, kee ni qokolut garayta wak. ",
+      "section2Title": "2. Oytat doqaysimaanam",
+      "section2Content": "Ku oyti ni ayfaafayitteh taamah, lowsis kee lowsis, tonnah kaadu ku account kee ayfaafay wagittaamal koo lih angaaraw abak geytima.",
+      "section3Title": "3. Oyti sirri",
+      "section3Content": "nanu sababiyyo le sirri maaqattooti abbinosna ku xaagi idni sinni wadba, qaddos, hinnay finqak dacrisnuh."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Asmitiyyi asta mageytimta.",
+    "defaultError": "akkaawonti baysaanam raddeh. Asta wakti tatreh yanim takkeh.",
+    "loadingTitle": "akkaawonti baysaanam...",
+    "loadingMessage": "Ku maganak qammal, nanu ku essero gexsisnah nan.",
+    "successTitle": "akkaawonti agdaabele gurral bayteh",
+    "successMessage": "ku oyti inkih maytanih duugumteh. Atu qagitak afkan geetto...",
+    "errorTitle": "akkaawonti baysaanam raddeh",
+    "backToHome": "Buxah uduur"
+  },
+  "forgotPassword": {
+    "minutes": "minit",
+    "seconds": "sekenxitte",
+    "success": "mayso",
+    "otpSentToEmail": "OTP bedu ku email fan ruubeenih.",
+    "failed": "radeh",
+    "emailNotFound": "Galelasta mageytimta.",
+    "emailThirdParty": "Tama galelasta sidoc haytoh exxah gabuuk tunkuttube.",
+    "genericError": "Hoxi yan. Ku maganak qagitaak gibbat.",
+    "otpVerified": "OTP bedu agdaabele gurral diggooweh.",
+    "otpExpired": "OTP mudenta wakti tatreh. Ku maganak qusba bedu esser.",
+    "otpInvalid": "oggol sinni OTP bedu.",
+    "otpResent": "qusba OTP bedu ku email fan ruube.",
+    "otpResendFailed": "OTP bedu qagitak ruubaanam raddeh. Ku maganak qagitaak gibbat.",
+    "passwordResetSuccess": "Sirri loowo agdaabele gurral qagitaak qemmisen. Ku maganak isi qusba sirri loowot cul.",
+    "passwordResetFailed": "Sirri loowo qagitak qemmisaanam raddeh.",
+    "backToLogin": "Culmah uduur",
+    "back": "Wadirih",
+    "title": "Sirri qangara habbaale",
+    "description": "isi akkaawontit tunkuttube galelastah sugmenta culus. Nanu sirri loowo qagitak qemmisnuh OTP bedu ruubenno.",
+    "emailLabel": "Galelastah guub",
+    "sending": "Ruubiyyi...",
+    "sendOtp": "OTP bedu ruuba",
+    "verifyOtpTitle": "OTP bedu ceda",
+    "verifyOtpDesc": "ku mamaxxaga diggossuh ku galele astah rubte 6 ixximah mudenta culus.",
+    "verifying": "Diggoysaanam...",
+    "verifyOtp": "OTP ceda",
+    "resending": "Qagitaak ruubaanam...",
+    "resendOtp": "OTP bedu qagitak ruuba",
+    "resendCodeIn": "mudenta qagitak ruuba",
+    "newPasswordTitle": "Qusba sirri loowo Bicis",
+    "newPasswordDesc": "isi akkaawonti dacrissuh qusba, maqar le sirri loowo bicis.",
+    "newPasswordLabel": "Qusba sirri loowo",
+    "min8Chars": "Dagnal 8 weelo",
+    "oneUpperCase": "1 kaxxa wara (A-Z)",
+    "oneNumber": "1 casri (0-9)",
+    "oneSymbol": "1 asta (!@#$%^&*)",
+    "confirmPasswordLabel": "Sirri loowo diggos",
+    "passwordsDoNotMatch": "Cuumi qangor ramad mali.",
+    "resettingPassword": "Sirri loowo qagitak daffeesaanam...",
+    "resetPassword": "Sirri qangara qagitak daffes"
+  },
+  "verifyEmail": {
+    "resendError": "diggoysiyyi galelasta qagitak ruubaanam raddeh. Ku maganak qagitaak gibbat.",
+    "checkingStatus": "diggoysiyyi caalat cubbusaanam...",
+    "title": "Isi Galele Asta cubbus",
+    "description": "Nanu diggoysiyyi galelasta ku galelastah guub fan rubneh. Ku maganak galelasta fakaay <1>\"Akkaawonti diggos\"</1> gubat xukkut isi akkaawonti taamituh.",
+    "stepsTitle": "maaqattooti",
+    "step1": "isi email assabalta fak ( Gmail, Yahoo, w.w tanim)",
+    "step2": "DevFolio ik email wagita \" akkaawonti abnisso\"",
+    "step3": "\"Akkaawonti diggos\" gubat xukkut galelastah addat",
+    "step4": "Atu saanih culmah gali fan koretto",
+    "resendSuccess": "diggoysiyyi galelasta qagitak ruubimteh!",
+    "resending": "Qagitaak ruubaanam...",
+    "resendButton": "Qagitaak ruuba diggoysiyyi galelasta",
+    "backToLogin": "Culmah Gali fan uduur",
+    "footerNote": "Galele asta mahirginnon? cubbus <1> spam</1> akkek <2> guddaafa</2> ku galelastah addat tan folxer. diggoysiyyi yasgaarawi taamita <3>24 saaqatat</3>."
+  }
+}

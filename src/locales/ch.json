@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Guinaha siha",
+    "templates": "Plantilyas",
+    "pricing": "Price",
+    "login": "Login",
+    "getStarted": "Tutuhon",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "I mas maolek na siñat para i manma'gås-ñiha",
+    "title1": "Na'lå'la' i prufesiunåt-mu",
+    "title2": "portfolio gi",
+    "titleHighlight": "segundos.",
+    "subtitle": "Todu i nisisidåt-mu para un na'annok i tiningo'-mu, prohektos-mu, yan eksperensia-mu. ",
+    "startBuilding": "Tutuhon Manma'gåsi På'go",
+    "viewTemplates": "Atan i Plantilya siha",
+    "fastDeployment": "Båsta na Inafekta",
+    "liveStatus": "esta lå'la' i username.dev!",
+    "featuresTitle": "Manmetgot na Kåraktet siha",
+    "featuresSubtitle": "In na'i hao todu i nisisidåt-mu para un fanma'lak yan un sodda' i che'cho' ni' malago'-mu.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Na'siguru na un na'guaha seksion-mu, prohektos-mu, yan abilidad-mu siha ni' i editor-ta ni' siña un li'e'.",
+    "feature2Title": "Tema siha ni' Ma'ayek",
+    "feature2Desc": "Pulan ginen i prufesiunåt na disision na plantiya siha pat fa'tinas i propiu na mubi-mu.",
+    "feature3Title": "Analisis gi i tiempon-måmi",
+    "feature3Desc": "Na'siguru na un li'e' i bisita-mu siha, li'e' hafa na prohektos mas ma'a'atan, yan mås."
+  },
+  "auth": {
+    "welcomeBack": "Magof Binatte Ta'lo",
+    "loginToContinue": "hålom gi i kuenta-mu para un sigi ha'",
+    "createAccount": "Na'huyong Kuenta",
+    "joinCommunity": "Fandaña' yan meggai na otro na manma'titinas",
+    "fullName": "Na'an-ña",
+    "fullNamePlaceholder": "pot hemplo. ",
+    "email": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "password": "Sengsong",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Hasso yu'",
+    "forgotPassword": "Un hasso i password-mu?",
+    "signIn": "Sign In",
+    "signingIn": "Manhålom...",
+    "signUp": "Rehistra",
+    "signingUp": "Manma'ayek...",
+    "noAccount": "Ti guaha kuenta-mu?",
+    "hasAccount": "Guaha kuenta-mu?",
+    "passwordRules": {
+      "title": "I password debi di u guaha:",
+      "length": "Mas ki 8 na letra siha",
+      "uppercase": "Un letra takkilo' (A-Z)",
+      "number": "Un numero (0-9)",
+      "symbol": "Un simbolo (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Manma'gåsi i Portfolio",
+      "templates": "Plantilya yan Tema siha",
+      "settings": "Setbisio siha",
+      "collapse": "Na'daña' i Sidebar",
+      "overview": "Overview",
+      "profileSettings": "Setbisio Prufil",
+      "customDomain": "Domain ni' ma'usa",
+      "feedback": "Ineppi"
+    },
+    "header": {
+      "viewLive": "Li'e' Live",
+      "welcome": "Buen binidu,",
+      "logout": "huyong",
+      "builder": "Manma'titinas",
+      "livePortfolio": "Live Portfolio",
+      "live": "Lala"
+    },
+    "logoutModal": {
+      "title": "huyong",
+      "message": "Siguru hao na malago' hao humanao ginen i kuenta-mu? ",
+      "cancel": "Kansela",
+      "confirm": "Hunggan, huyong"
+    },
+    "slugModal": {
+      "title": "Pulan i URL i Portfolio-mu",
+      "message": "Este na URL i uniku na liñguahe para i portfolio-mu. ",
+      "slugPlaceholder": "i na'an-mu",
+      "availability": "Guaha:",
+      "available": "Guaha",
+      "unavailable": "Ti siña ma sodda'",
+      "checking": "Hu chek...",
+      "mustFormat": "Siña ha' guaha letra, numero, yan tåya' (-)",
+      "cancel": "Kansela",
+      "save": "Na'setbe i URL",
+      "usernameUrl": "URL i na'an i taotao",
+      "helpText": "Letra siha, numero siha, yan gumu'ot. ",
+      "validation": {
+        "empty": "Ti siña i slug tåya'.",
+        "min3": "Tres na letra siha.",
+        "max30": "Mas ki 30 na letra siha.",
+        "format": "Dikiki' ha' na letra, numero, yan guihan (-). "
+      }
+    },
+    "loadingPortfolio": "Manma'a'agang i portfolio-mu...",
+    "overview": {
+      "greetings": {
+        "morning": "Buenas Dias",
+        "afternoon": "Buenas Tardes",
+        "evening": "Buenas Tardes",
+        "night": "Buenas Puengi"
+      },
+      "welcome": {
+        "hi": "Håfa,",
+        "creator": "Guma'tinas",
+        "desc1": "Magof na matto gi i DevFolio dashboard. I portfolio-mu ma li'e' ni'",
+        "desc2": "petsona. Sige hao chumo'gue!",
+        "editPortfolio": "Na'lå'la' i Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Todu i Bisita siha",
+        "projectViews": "Ma li'e' (Prohekto)",
+        "activeSessions": "Sesion Aktibu",
+        "totalLabel": "Todu"
+      },
+      "setup": {
+        "title": "Inadelanta gi i Inatan",
+        "completed": "Esta kumple i portfolio-mu! 🎉",
+        "inProgress": "Pas para i perfekto na portfolio.",
+        "profile": {
+          "title": "Kompletu na Prufil",
+          "desc": "Addåpta i na'ån-mu, i lina'la'-mu yan i litråtu-mu."
+        },
+        "section": {
+          "title": "Na'i Seksion siha",
+          "desc": "Na'setbe un seksion gi i portfolio."
+        },
+        "project": {
+          "title": "Add Project",
+          "desc": "Na'halom unu gi i mas maolek na prohektos-mu."
+        },
+        "publish": {
+          "title": "Na'huyong i Portfolio",
+          "desc": "Na'setbe un URL ni' siña ma li'e' ni' i taotao siha."
+        }
+      },
+      "topProjects": {
+        "title": "I Mas Popble na Prohektos",
+        "desc": "I che'cho'-mu gi i matan i bisita siha.",
+        "viewAll": "Li'e' Todu",
+        "empty": "Ti guaha view data para i prohekto-mu på'go."
+      }
+    },
+    "themes": {
+      "title": "Plantilyas yan Tema siha",
+      "subtitle": "Na'setbe i mubi yan i siniseden i pupbleko na portfolio-mu.",
+      "reset": "Na'lå'la' ta'lo i Default",
+      "save": "Na'setbe i Manmafa'na'an",
+      "saving": "Saving...",
+      "chooseTemplate": "Pulan un Plantilya",
+      "primaryColor": "Primet na Kulot",
+      "typography": "Tipografia",
+      "appearance": "I fina'nu'i-ña",
+      "corners": "Kanton Siha yan i Kanton Siha",
+      "successTitle": "Minaolek",
+      "successMessage": "I prifirensian tema ma'aprueba yan maolek",
+      "errorTitle": "Error",
+      "errorMessage": "Ti siña ma na'setbe i tema siha",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Disision na'magof yan sensimple ya ha na'fotma i tinige'."
+        },
+        "developerDark": {
+          "name": "Developer Dark",
+          "desc": "I tema ni' åpaka' ya maolek para u ma na'fanli'e' i code yan i tech stacks."
+        },
+        "creative": {
+          "name": "Manma'gåsi",
+          "desc": "Vibrante yan kulot i disision para i manma'gås-ñiha yan i manma'gås-ñiha."
+        },
+        "executive": {
+          "name": "Ehekutibu",
+          "desc": "Profesionåt yan fotmat na layout para i manma'estra yan manma'estro gi i bisnis."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Modernu na Apple-style grid layout ni' ha na'fanmagof diferentes na abilidad siha."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Manmetgot i kanton tasi yan kulot siha ni' takhilo' i kontrasta-ña para un gof maolek na mubi."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "I bidå-ña ni' ma'gåsi gi hilo' i kulot na gradient siha para un modernu na UI."
+        },
+        "linkInBio": {
+          "name": "Link gi Bio",
+          "desc": "I dikike' na layout ni' ma'o'o'ppe para i pantalan tilifon yan i social media."
+        }
+      },
+      "appearances": {
+        "light": "Lina'la'",
+        "dark": "Åmko'",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Ma'a'atan",
+        "pill": "Pilulan"
+      }
+    },
+    "feedback": {
+      "title": "Na'i i hinasso-mu",
+      "subtitle": "Ayuda ham para in na'maolek yanggen un na'i ham suhestion, kritikasion, pat ripot put i båba siha gi este na aplikasion.",
+      "categoryLabel": "Kategorian Feedback",
+      "messageLabel": "I Mensåhi Siha",
+      "messagePlaceholder": "sangåni yu' put i hinasso-mu ni' malago' hao un na'i yu'...",
+      "imageLabel": "Attachment gi i litråtu (Ti malago')",
+      "imagePlaceholder": "Påcha' para un na'halom i litråtu pat i litråtu",
+      "submitting": "Manma'pos...",
+      "submitBtn": "Na'i i hinasso-mu",
+      "categories": {
+        "suggestion": "Suggesion yan Ideha siha",
+        "bug": "Bug / Error Report",
+        "criticism": "Kritika",
+        "other": "Otro siha"
+      },
+      "imageErrorTitle": "Error",
+      "imageErrorMessage": "Guaha na file siha manma'abandona sa' ti ma'a'ayuda i litråtu siha (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Minaolek",
+      "successMessage": "Si Yu'os ma'åse' put i hinasso-mu! Ma na'hanao i ripot.",
+      "submitErrorTitle": "Ti siña",
+      "submitErrorMessage": "Guaha error annai hu na'hanao i ineppe. På'go, prutehi ta'lo."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Put Guåhu",
+      "skills": "Pinayun siha",
+      "projects": "Prohektos",
+      "workExperience": "Eksperiensiå-ña gi i Che'cho'",
+      "orgExperience": "Eksperiensia gi i Otganisasion",
+      "education": "Edukasion",
+      "certifications": "Fina'nå'guen yan Settipikasion siha",
+      "contact": "Fanå'gue Yu'"
+    },
+    "editor": {
+      "profileInfo": "Infotmasion Prufil",
+      "saving": "Manma'a'ñao...",
+      "profilePhoto": "Litråton Prufil",
+      "clickToUpload": "Påcha' para un na'halom (JPG, PNG)",
+      "fullName": "Na'an-ña",
+      "fullNamePlaceholder": "pot hemplo. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer ni' malago' ha fa'tinas i modernu na web apps...",
+      "location": "Lugat",
+      "locationPlaceholder": "pot hemplo. ",
+      "gender": "Henero",
+      "selectGender": "Pili i Gender",
+      "male": "Lahi",
+      "female": "Palao'an",
+      "custom": "Kostumbri",
+      "customPlaceholder": "Hu tuge' i gender-mu...",
+      "uploadCv": "Na'hålom i CV",
+      "cvFormat": "(DOC pat PDF)",
+      "preview": "Preview",
+      "remove": "Na suha",
+      "clickToUploadCv": "Påcha' para un na'halom PDF pat DOC",
+      "sections": "Seksion siha",
+      "removeSelected": "Na'suha i Ma'ayek",
+      "confirmRemove": "Konfitma na Na'suha",
+      "addSection": "Na'i Seksion",
+      "addAllSections": "Adda' Todu i Seksion siha",
+      "noSections": "Taya' seksion på'go",
+      "clickToAdd": "Påcha' \"+ Add Section\" para un tutuhon",
+      "selectAll": "Pili Todu",
+      "selected": "Ma selekta",
+      "dragToReorder": "Laknos para un na'lå'la' ta'lo i seksion siha",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Na'i seksion siha para un fa'tinas i portfolio-mu",
+      "now": "Pagugu ha",
+      "current": "Kurenti",
+      "noExpiry": "Ti Ma'ekspåra",
+      "see": "Li'e",
+      "position": "Posision",
+      "degree": "Gradu",
+      "certification": "Sertifikasion",
+      "sectionsForm": {
+        "about": {
+          "label": "Deskripsion put hagu",
+          "placeholder": "Sangåni ham put hagu, i lina'la'-mu, i interes-mu yan i tiningo'-mu..."
+        },
+        "skills": {
+          "addPlaceholder": "Tuge' skill ya un pega Enter..."
+        },
+        "projects": {
+          "title": "Na'an i Prohekto",
+          "titlePlaceholder": "Na'an i prohekto...",
+          "url": "URL i prohekto",
+          "description": "Ketsura",
+          "descriptionPlaceholder": "Dikiki' na deskripsion put i prohekto...",
+          "uploadThumbnail": "I litråton prohektos",
+          "addProject": "Add Project",
+          "projectNum": "Proyecto #",
+          "currentProject": "Este na prohekto hu cho'cho'gue"
+        },
+        "work": {
+          "company": "Kumpania/Ahensia",
+          "companyPlaceholder": "Na'an i kompaniha...",
+          "position": "Posision/Titulu",
+          "positionPlaceholder": "I posision-mu...",
+          "employmentType": "Klasin cho'cho'",
+          "location": "Lugat",
+          "locationPlaceholder": "Siudat, Tåno'...",
+          "startDate": "Tutuhon",
+          "endDate": "Ha nafonhayan",
+          "currentWork": "Machocho'cho' ha' yu' på'go",
+          "description": "Ketsura",
+          "descriptionPlaceholder": "Deskripsion i che'cho' yan i responsabilidåt-ña siha...",
+          "skills": "Pinayun",
+          "addExperience": "Na'i Ekspirensian Cho'cho'",
+          "experienceNum": "Ekspirensia #",
+          "dateError": "I fechan finakpo' ti siña mas taftaf ki i fechan tutuhon"
+        },
+        "org": {
+          "organization": "Na'an i Otganisasion",
+          "orgPlaceholder": "Unibetsedåt BEM...",
+          "role": "Che'cho'/Posision",
+          "rolePlaceholder": "Hefen Dibision...",
+          "addOrg": "Na'i Ekspirensian Otganisasion",
+          "orgNum": "Otganisasion #"
+        },
+        "edu": {
+          "institution": "Inestudia siha",
+          "institutionPlaceholder": "Na'an i eskuela pat i eskuela...",
+          "degree": "Titilu",
+          "degreePlaceholder": "S1, eskuelan takhilo', yan otro siha...",
+          "major": "Dipattamenton/Kampon Estudiu",
+          "majorPlaceholder": "Inhenyerian Infotmatika...",
+          "gpa": "GPA (ti nisisåriu)",
+          "currentStudy": "sigi ha' yu' ma'estudia guini",
+          "descriptionPlaceholder": "Aktibidåt yan inayek siha gi duranten i inestudia...",
+          "addEdu": "Na'i Edukasion",
+          "eduNum": "Edukasion #"
+        },
+        "cert": {
+          "name": "Na'an i Settipikasion / Fina'nå'guen",
+          "namePlaceholder": "Na'an i settipikasion...",
+          "issuer": "Publikadot",
+          "issuerPlaceholder": "I inestudia put pupbleko...",
+          "issueDate": "Tutuhon (Fechan Publikasion)",
+          "issueDatePlaceholder": "Pili i fechan pupblekasion...",
+          "expiryDate": "Ma kumple (Tiempo ni' Ma'usa)",
+          "expiryDatePlaceholder": "Pili i fechan finakpo'...",
+          "noExpiry": "Este na settipikat taya' fechan-ña para u ma'pos",
+          "url": "URL i Kredensiåt",
+          "uploadThumbnail": "Settipikat / Imahen Fina'nå'gue",
+          "uploadThumbnailLimit": "Na'hålom i litråton settipikat (JPG/PNG/WEBP, mas takhilo' 2MB)",
+          "addCert": "Addåhi i Sertifikåsion",
+          "certNum": "# na Sertifikasion"
+        },
+        "contact": {
+          "contactNum": "A'gang #",
+          "platform": "Satgi",
+          "displayText": "Dispåtta i tinige'",
+          "displayTextPlaceholder": "put hemplo, you@email.com pat @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "pot hemplo, 62812... (sin 0)",
+          "urlPlaceholderEmail": "pot hemplo, you@email.com",
+          "urlPlaceholderWebsite": "pot hemplo, https://...",
+          "urlPlaceholderDefault": "pot hemplo, na'an i taotao",
+          "addContact": "Add Contact"
+        },
+        "common": {
+          "months": {
+            "1": "Eneru",
+            "2": "Feburariu",
+            "3": "Måtso",
+            "4": "Abrit",
+            "5": "Kasi sina",
+            "6": "Juniu",
+            "7": "Julio",
+            "8": "Agusto",
+            "9": "Septembri",
+            "10": "Oktubri",
+            "11": "Nobembri",
+            "12": "Disiembri"
+          },
+          "month": "Mes",
+          "year": "Sakkan",
+          "invalidDate": "Ti bali i Uttimo na Mes",
+          "words": "palabra siha"
+        }
+      },
+      "sure": "Siguro",
+      "deletePhotoTitle": "Na'suha i litråton-mu?",
+      "deletePhotoMessage": "Siguru hao na malago' hao muna'suha este na litråton-mu?",
+      "cancel": "Kansela",
+      "delete": "Funas"
+    },
+    "cropper": {
+      "chooseBackground": "Pulan i Fondo",
+      "cropPhoto": "Na'lå'la' i Litråtu-mu",
+      "useOriginal": "Usa i orihinat",
+      "backgroundPresets": "Presets gi i Fondo",
+      "none": "Taya",
+      "uploadBackground": "Na'hålom i Fondo",
+      "cancel": "Kansela",
+      "savePhoto": "Na'setbe i Litråtu",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotasion yan Tilt",
+      "resetRotation": "Na'lå'la' ta'lo gi 0°",
+      "center": "Talu",
+      "rotateLeft": "Bira -90°",
+      "rotateRight": "Bira +90°",
+      "removeBackground": "Na'suha i Fondo",
+      "processing": "Hu prutehi i litråtu-mu, på'go na tiempo..."
+    },
+    "cvPreview": {
+      "title": "CV Preview",
+      "downloadCv": "Na'hålom i CV",
+      "download": "Gua'åni",
+      "wordCannotPreview": "I dokumenton Word (.doc/.docx) ti siña ma li'e' gi i browser. ",
+      "downloadFile": "Na'hålom i CV File",
+      "back": "Tatti",
+      "mobileMessage": "På'go, na'halom i CV file para un li'e'.",
+      "preview": "Li'e' i CV",
+      "wordPreviewTitle": "Word Document Preview",
+      "wordPreviewMessage": "I dokumenton Word (.doc/.docx) ti siña ma li'e' gi i browser. På'go, na'halom i file para un li'e'."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "tuge' un dikike' na deskripsion put hagu, interes-mu, yan i minalago'-mu gi karera..."
+    },
+    "skills": {
+      "placeholder": "Hu tuge' i na'an i abilidad...",
+      "add": "Na dania",
+      "enterToAdd": "Påcha' Enter para un addåpta",
+      "noSkills": "Ti ma addåpta i abilidad-hu på'go."
+    },
+    "projects": {
+      "projectName": "Na'an i Prohekto",
+      "projectNamePlaceholder": "pot hemplo. ",
+      "projectUrl": "URL i prohekto",
+      "projectUrlPlaceholder": "https://…",
+      "duration": "Inannako'-na",
+      "startMonth": "Tutuhon i Mes",
+      "startYear": "Tutuhon i Sakkan",
+      "endMonth": "Uttimo na Mes",
+      "endYear": "Uttimo na Sakkan",
+      "currentlyWorking": "Hu cho'cho'gue este på'go",
+      "description": "Ketsura",
+      "descriptionPlaceholder": "Deskribi i prohekto, i che'cho'-mu, yan i inayek-mu...",
+      "technologies": "Teknolohiha siha ni' Ma'usa",
+      "addProject": "Add Project",
+      "image": "I litråton prohektos",
+      "removeImage": "Na'suha i litråtu",
+      "uploadImage": "Påcha' para un na'hålom i litråtu"
+    },
+    "work": {
+      "company": "Kumpania/Institusion",
+      "companyPlaceholder": "Na'an i kompaniha...",
+      "role": "Che'cho'/Posision",
+      "rolePlaceholder": "I posision-mu...",
+      "jobType": "Klasin Cho'cho'",
+      "selectJobType": "Pili i klasin",
+      "fullTime": "Todu i tiempo",
+      "partTime": "Part-time",
+      "contract": "Kontrak",
+      "internship": "Internship",
+      "freelance": "Freelance",
+      "location": "Lugat",
+      "locationPlaceholder": "pot hemplo. ",
+      "duration": "Inannako'-na",
+      "currentlyWorking": "Hu cho'cho'gue este på'go",
+      "description": "Deskripsion i Che'cho'",
+      "descriptionPlaceholder": "Deskribi i mas impottånte na responsabilidåt-mu yan i inayek-mu siha...",
+      "skills": "Espesiåt na Abilidat siha",
+      "addExperience": "Na'i Eksperiensia"
+    },
+    "org": {
+      "organization": "Na'an i Otganisasion",
+      "organizationPlaceholder": "Na'an i organisasion...",
+      "role": "Che'cho'/Posision",
+      "rolePlaceholder": "pot hemplo. ",
+      "duration": "Inannako'-na",
+      "periodFormat": "pat Libre na Format (pot hemplo, 2020 - 2022)",
+      "periodPlaceholder": "pot hemplo. ",
+      "currentlyActive": "Aktibu på'go",
+      "description": "Deskripsion i Aktibidåt",
+      "descriptionPlaceholder": "Deskribi i che'cho'-mu pat i kontribusion-mu...",
+      "addExperience": "Na'i Eksperiensia"
+    },
+    "education": {
+      "institution": "Na'an i Inestudia",
+      "institutionPlaceholder": "Na'an eskuela pat unibetsedåt...",
+      "degree": "Digri/Nivel",
+      "degreePlaceholder": "pot hemplo. ",
+      "major": "Mayor/Kampon Estudiu",
+      "majorPlaceholder": "pot hemplo. ",
+      "gpa": "GPA / Grådo",
+      "gpaPlaceholder": "pot hemplo. ",
+      "duration": "Duråsion Edukasion",
+      "periodFormat": "pat Libre na Format (pot hemplo, 2018 - 2022)",
+      "periodPlaceholder": "pot hemplo. ",
+      "currentlyStudying": "Hu estudia på'go guini",
+      "description": "Aktibidåt siha / Onra siha",
+      "descriptionPlaceholder": "Deskribi i aktibidåt siha gi i eskuela, i organisasion siha, yan i onra siha ni' un risibi...",
+      "addEducation": "Na'i Edukasion"
+    },
+    "cert": {
+      "name": "Na'an i Settipikasion",
+      "namePlaceholder": "pot hemplo. ",
+      "issuer": "Otganisasion ni' Manma'ayek",
+      "issuerPlaceholder": "pot hemplo. ",
+      "issueDate": "Fechan Inayek",
+      "expiryDate": "Balidu Asta",
+      "noExpiry": "Este na kredensiåt ti u ma'ekspåra",
+      "yearPlaceholder": "pat Såkkan (pot hemplo, 2023)",
+      "credentialUrl": "URL i Kredensiåt",
+      "credentialUrlPlaceholder": "https://…",
+      "skills": "Abilidat siha ni' Manma'a'ñao",
+      "addCertification": "Addåhi i Sertifikåsion",
+      "image": "Imahen/Logo",
+      "removeImage": "Na'suha i litråtu",
+      "uploadImage": "Påcha' para un na'hålom i litråtu"
+    },
+    "common": {
+      "months": {
+        "1": "Eneru",
+        "2": "Feburariu",
+        "3": "Måtso",
+        "4": "Abrit",
+        "5": "Kasi sina",
+        "6": "Juniu",
+        "7": "Julio",
+        "8": "Agusto",
+        "9": "Septembri",
+        "10": "Oktubri",
+        "11": "Nobembri",
+        "12": "Disiembri"
+      },
+      "month": "Mes",
+      "year": "Sakkan",
+      "invalidDate": "Ti bali i Uttimo na Mes",
+      "words": "palabra siha"
+    }
+  },
+  "settings": {
+    "title": "Setbisio siha",
+    "subtitle": "Na'siguru na ma'ayek i portfolio-mu yan i minalago'-mu",
+    "tabs": {
+      "profile": "I prugråma-ku",
+      "security": "Inasegura",
+      "personalization": "Personalisasion"
+    },
+    "profile": {
+      "infoTitle": "Infotmasion Siha",
+      "photo": "Litråton Prufil",
+      "uploadPhoto": "Na'lå'la' i Litråtu",
+      "fullName": "Na'an-ña",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Ma'usa i email para u fanhålom ya ti ma'a'atan gi i pupbliku.",
+      "portfolioUrl": "URL i Portfolio",
+      "saveProfile": "Na'setbe i Prufil-mu",
+      "save": "Na'setbe i Prufil-mu",
+      "accountCreated": "Ma fa'tinas i kuenta",
+      "lastLogin": "Uttimo na Login",
+      "oauthNotice": "Este na prugråma gaige gi i {{provider}} na kuenta-mu. I inadelanta gi i prugråma debi di u ma cho'gue ginen i prufesiunåt."
+    },
+    "security": {
+      "changePassword": "Na'lå'la' i Password",
+      "currentPassword": "Password På'go",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "nuebu na password",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Konfitma i nuebu na password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Mas ki 8 na letra siha",
+        "uppercase": "Un letra takkilo' (A-Z)",
+        "number": "Un numero (0-9)",
+        "symbol": "Un simbolo (!@#$%^&*)"
+      },
+      "passwordTitle": "Sengsong",
+      "updatePassword": "Na'lå'la' i Password",
+      "additionalSecurity": "Mas na Seguridåt",
+      "twoFactor": "Dos-Faktor na Inayek (2FA)",
+      "twoFactorDesc": "Na'siguru i kuenta-mu ni' un OTP code.",
+      "activeSessions": "Sesion Siha ni' Manma'a'a'ñao",
+      "activeSessionsDesc": "Siempre na'i siñat para u ma'atan i manma'a'atan na dipattamenton-ñiha.",
+      "publicVisibility": "I Lini'e' Pupbleko",
+      "hideFromSearch": "Na'ma'å'ñao i Portfolio ginen i Search Engines",
+      "hideFromSearchDesc": "Na'fanhuyong i Google ginen i indeks-mu gi i pupbleko na pahina gi i portfolio-mu.",
+      "disable2fa": {
+        "title": "Na'suha 2FA",
+        "description": "Siguru hao na malago' hao muna'suha i dos-faktor na inayek?",
+        "confirmPasswordLabel": "Na'halom i password-mu para un konfitma",
+        "currentPasswordPlaceholder": "I password på'go",
+        "cancelButton": "Kansela",
+        "confirmButton": "Na'suha 2FA",
+        "incorrectPassword": "Ti maolek i password."
+      },
+      "setup2fa": {
+        "step1Title": "1. Eskan i QR Code",
+        "step1Desc": "Abri i app-mu ya un eskan i sigiente na QR code:",
+        "unableToScan": "Ti siña un eskan? Usa i setup key",
+        "step2Title": "2. Na'siguru i Kode",
+        "step2Desc": "Na'halom i 6-digit na kodu ni' ha na'huyong i app-mu:",
+        "cancelButton": "Kansela",
+        "enableButton": "Na'siña 2FA",
+        "invalidLength": "På'go, na'halom un 6-digit na kodu.",
+        "invalidCode": "Ti maolek i kodun prubåba. På'go, prutehi ta'lo."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontrolon Lengguåhi",
+      "appLanguage": "Fino' CHamoru",
+      "layoutTitle": "Dinaña' yan Tipografia",
+      "layoutStyle": "Estilon Layout",
+      "layoutModern": "Modernu na Estilo (Default)",
+      "layoutClassic": "Estilo Klasiku",
+      "layoutMinimalist": "Estilon Minimalista",
+      "fontSize": "Mineggai i Letra gi i App",
+      "fontSmall": "Dikiki",
+      "fontNormal": "Normal (Mediu)",
+      "fontLarge": "Dangkulo",
+      "searchLanguage": "Inaligao i fino' CHamoru...",
+      "languageNotFound": "Ti ma sodda' lengguåhi",
+      "layoutElegant": "Elegante na Estilo"
+    },
+    "saveChanges": "Na'setbe i Inadilånto siha",
+    "cancel": "Kansela",
+    "appSettings": "Setbisio Siha gi App",
+    "logoutConfirmTitle": "Konfitma i Logout",
+    "logoutConfirmDesc": "Siguru hao na malago' hao humanao ginen i sistema?",
+    "logoutConfirmYes": "Hunggan, huyong",
+    "generalError": "Guaha error. ",
+    "success": "Susesu",
+    "preferencesSaved": "Ma na'setbe i app preferences.",
+    "header": "Setbisio Siha gi Aplikasion",
+    "logout": {
+      "title": "Konfitmasion para u fanhålom",
+      "message": "Siguru hao na malago' hao humanao ginen i sistema?",
+      "confirm": "Hunggan, huyong"
+    },
+    "about": {
+      "title": "Put i Aplikasion",
+      "subtitle": "Plånon Manma'gåsi i Portfolio",
+      "version": "Betsion",
+      "description": "I DevFolio un modernu na lugåt para u ma fa'tinas i portfolio ni' ma disidi para i manma'gås-ñiha, i manma'gås-ñiha, yan i manma'gås-ñiha. ",
+      "license": "Lisensia yan Direchon Kopia",
+      "copyright": "© 2026 DevFolio Inc. Todu i direcho-mu ma na'setbe.",
+      "developer": "Desadoradot",
+      "developedBy": "Ma fa'tinas as Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Na'suha i Kuenta para todu i tiempo",
+      "menuItem": "Na'suha i Kuenta",
+      "successTitle": "Minaolek",
+      "successMessage": "Ma na'hanao un email ni' para u na'siguru na ma na'suha i account-mu.",
+      "errorTitle": "Ti siña",
+      "errorMessage": "Ti siña hu na'hanao i email-hu.",
+      "confirmationMessage": "Siguru hao na malago' hao muna'suha i kuenta-mu para todu i tiempo?",
+      "warningMessage1": "Un risibi un email para un konfitma i ma na'suha i account-mu.",
+      "warningMessage2": "Yanggen ma konfitma, todu i dañu (portfolio, prohektos, estadistika) para u ma na'suha ya ti siña ma na'lå'la' ta'lo.",
+      "cancel": "Kansela",
+      "confirm": "Konfitmasion"
+    },
+    "toasts": {
+      "toastError": "Linachi",
+      "toastSuccess": "Susesu",
+      "toastSetup2FAFailed": "Ti siña hu na'setbe i 2FA. På'go, prutehi ta'lo.",
+      "toast2FAEnabled": "Ma na'siña i dos-faktor na inayek.",
+      "toast2FADisabled": "Ma na'suha i dos-faktor na inayek.",
+      "toastSessionEnabled": "Ma na'siña i inatan i sesion siha.",
+      "toastSessionDisabled": "Ma na'suha i inatan i sesion ni' aktibu.",
+      "toastSetupKeyCopied": "I setup key ma kopia gi i clipboard."
+    },
+    "privacy": {
+      "title": "Pålitika put Pribåsi",
+      "updateDate": "Uttimo na Inadelanta: Hulio 15, 2026",
+      "intro": "Este na Privacy Policy ha esplåra taimanu i DevFolio ha na'guaha, ha usa, yan ha prutehi i infotmasion-mu yanggen un usa i setbisio-måmi.",
+      "section1Title": "1. Infotmasion ni' In Kolekta",
+      "section1Content": "In na'guaha infotmasion ni' un na'i ham yanggen un fa'tinas un account, un fa'tinas un portfolio, yan un kontak i supotte-ta. ",
+      "section2Title": "2. Uson Inestudia",
+      "section2Content": "I infotmasion-mu ma'usa para u ma'o'pera, u ma'atende, yan u ma'usa i siñat siha gi i setbisio-måmi, yan lokkue' para u ma'komunika hao put i kuenta-mu pat setbisio-mu.",
+      "section3Title": "3. Siguridåt i Dåta",
+      "section3Content": "Manma'ayek ham ni' siña ma'usa para u maprotehi i infotmasion-mu ginen i ti ma'a'a'ñao na inayek, ma'a'atan, pat ma'a'atan."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ti ma sodda' i token konfirensia.",
+    "defaultError": "Ti siña hu na'suha i kuenta. Siña ha' esta måpos i token.",
+    "loadingTitle": "Ma na'suha i Kuenta...",
+    "loadingMessage": "På'go, in na'setbe i finaisen-mu.",
+    "successTitle": "Ma na'suha i kuenta",
+    "successMessage": "Todu i dañu-mu esta ma na'suha. Un ma'ayek...",
+    "errorTitle": "Ti siña ma na'suha i kuenta",
+    "backToHome": "Tåtte gi i Gima'"
+  },
+  "forgotPassword": {
+    "minutes": "minutos",
+    "seconds": "segundo",
+    "success": "Minaolek",
+    "otpSentToEmail": "Ma na'hanao un OTP code para i email-mu.",
+    "failed": "Ti siña",
+    "emailNotFound": "Ti ma sodda' i email.",
+    "emailThirdParty": "Este na email ma rehistra ginen otro na taotao.",
+    "genericError": "Guaha isao. På'go, prutehi ta'lo.",
+    "otpVerified": "I OTP code esta ma'ayek.",
+    "otpExpired": "I OTP na kodu esta måpos. På'go, faisen un nuebu na kodu.",
+    "otpInvalid": "Ti maolek i OTP na kodu.",
+    "otpResent": "Ma na'hanao un nuebu na OTP code para i email-mu.",
+    "otpResendFailed": "Ti siña hu na'hanao ta'lo i OTP code. På'go, prutehi ta'lo.",
+    "passwordResetSuccess": "Ma na'lå'la' ta'lo i password. På'go, hålom gi i nuebu na password-mu.",
+    "passwordResetFailed": "Ti siña hu na'lå'la' ta'lo i password.",
+    "backToLogin": "Bira gi Login",
+    "back": "Tåtte",
+    "title": "Hu hasso i Password",
+    "description": "Na'halom i email address ni' ma'rehistra gi i kuenta-mu. Para ta na'hanao un OTP code para un na'lå'la' ta'lo i password.",
+    "emailLabel": "Email Address",
+    "sending": "Manma'pos...",
+    "sendOtp": "Na'i OTP Code",
+    "verifyOtpTitle": "Na'siguru na ma'ayek i OTP Code",
+    "verifyOtpDesc": "Na'halom i 6 na numeron code ni' ma na'hanao para i email-mu para un konfitma i idåt-mu.",
+    "verifying": "Manma'ayek...",
+    "verifyOtp": "Na'siguru i OTP",
+    "resending": "Manma'pos...",
+    "resendOtp": "Na'hanao ta'lo i OTP Code",
+    "resendCodeIn": "Na'hanao ta'lo i kodu gi",
+    "newPasswordTitle": "Na'huyong un nuebu na password",
+    "newPasswordDesc": "Na'huyong un nuebu yan fitme na password para un na'siguru i kuenta-mu.",
+    "newPasswordLabel": "nuebu na password",
+    "min8Chars": "Minimum 8 na letra siha",
+    "oneUpperCase": "1 takkilo' (A-Z)",
+    "oneNumber": "1 numero (0-9)",
+    "oneSymbol": "1 simbolo (!@#$%^&*)",
+    "confirmPasswordLabel": "Konfitma i Password",
+    "passwordsDoNotMatch": "Ti parehu i password siha.",
+    "resettingPassword": "Ha na'lå'la' ta'lo i Password...",
+    "resetPassword": "Na'lå'la' ta'lo i Password"
+  },
+  "verifyEmail": {
+    "resendError": "Ti siña hu na'hanao ta'lo i email-hu. På'go, prutehi ta'lo.",
+    "checkingStatus": "Ma chek i estao i verifikasion...",
+    "title": "Chek i Email-mu",
+    "description": "Manmana'i ham un email para i email-mu. På'go, baba i email ya un chagi i <1>\"Konfitma i Kuenta\"</1> na botton para un na'aktiba i kuenta-mu.",
+    "stepsTitle": "Pas",
+    "step1": "Abri i email-mu (Gmail, Yahoo, yan otro siha)",
+    "step2": "Li'e' un email ginen DevFolio ni' i asunto \"Account Activation\"",
+    "step3": "Påcha i \"Konfitma i Kuenta\" gi i email",
+    "step4": "Un ma'agang para i login page para un hålom",
+    "resendSuccess": "Ma na'hanao ta'lo i email para i prubåba!",
+    "resending": "Manma'pos...",
+    "resendButton": "Na'hanao ta'lo i Email para i Verifikasion",
+    "backToLogin": "Bira gi i Login Page",
+    "footerNote": "Ti un risibi i email? Chek i <1>Spam</1> pat <2>Junk</2> na folder gi i email-mu. I liñguahen verifikasion bali para <3>24 ora</3>."
+  }
+}

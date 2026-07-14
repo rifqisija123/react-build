@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Swihlawulekiso",
+    "templates": "Swifaniso swa swifaniso",
+    "pricing": "Ku vekiwa ka nxavo",
+    "login": "Nghena",
+    "getStarted": "Sungula",
+    "title": "DevFolio ya Xitsonga"
+  },
+  "landing": {
+    "badge": "Muaki wo hetelela wa photifoliyo eka vatumbuluxi",
+    "title1": "Aka xiphurofexinali xa wena",
+    "title2": "photifoliyo eka",
+    "titleHighlight": "tisekoni.",
+    "subtitle": "Hinkwaswo leswi u swi lavaka ku kombisa vutshila bya wena, tiphurojeke na ntokoto wa wena. ",
+    "startBuilding": "Sungula Ku Aka Sweswi",
+    "viewTemplates": "Languta Tithempleyiti",
+    "fastDeployment": "Ku Tirhisa Hi Ku Hatlisa",
+    "liveStatus": "username.dev yi hanya!",
+    "featuresTitle": "Swihlawulekisi Swa Matimba",
+    "featuresSubtitle": "Hi nyika switirhisiwa hinkwaswo leswi u swi lavaka ku hambana na ntshungu no land ntirho wa wena wa norho.",
+    "feature1Title": "Muaki wa Drag & Drop",
+    "feature1Desc": "Hlela swiyenge swa wena hi ku olova, tiphurojeke, na vuswikoti hi muhleri ​​wa hina wa swivono wo twisiseka.",
+    "feature2Title": "Tinhlokomhaka ta Xihlawuhlawu",
+    "feature2Desc": "Hlawula eka tithempleyiti leti endliweke hi xiphurofexinali kutani u tiendlela ku languteka ka wena ko hlawuleka.",
+    "feature3Title": "Vuxopaxopi bya nkarhi wa xiviri",
+    "feature3Desc": "Landzelela vaendzi va wena, vona leswaku hi tihi tiphurojeke leti kumaka nyingiso lowukulu, ni swin’wana."
+  },
+  "auth": {
+    "welcomeBack": "Mi Amukeriwile Ku Vuya",
+    "loginToContinue": "Nghena eka akhawunti ya wena ku ya emahlweni",
+    "createAccount": "Endla akhawunti",
+    "joinCommunity": "Hlanganyela na magidi ya vaendli van’wana",
+    "fullName": "Vito leri heleleke",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Adirese ya Imeyili",
+    "emailPlaceholder": "wena@xikombiso.com",
+    "password": "Phasiwedi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Ndzi tsundzukeni",
+    "forgotPassword": "U rivele password?",
+    "signIn": "Nghena eka",
+    "signingIn": "Ku Sayina Ku Nghena...",
+    "signUp": "Tsarisa",
+    "signingUp": "Ku Tsarisa...",
+    "noAccount": "A wu na account?",
+    "hasAccount": "Se u na akhawunti?",
+    "passwordRules": {
+      "title": "Phasiwedi yi fanele ku va na:",
+      "length": "Ku nga ri kungani swimunhuhatwa swa 8",
+      "uppercase": "Letere rin’we lerikulu (A-Z) .",
+      "number": "Nomboro yin’we (0-9) .",
+      "symbol": "Xikombiso xin'we (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Muaki wa Tiphotifoliyo",
+      "templates": "Tithempleyiti & Tinhlokomhaka",
+      "settings": "Switirhisiwa",
+      "collapse": "Ku wisa Sidebar",
+      "overview": "Nkatsakanyo",
+      "profileSettings": "Switirhisiwa swa Phurofayili",
+      "customDomain": "Domain ya Xihlawuhlawu",
+      "feedback": "Mbuyelo"
+    },
+    "header": {
+      "viewLive": "Languta hi ku kongoma",
+      "welcome": "Amukela,",
+      "logout": "Ku huma hi nhloko",
+      "builder": "Muaki",
+      "livePortfolio": "Photifoliyo leyi Hanyaka",
+      "live": "Hanya"
+    },
+    "logoutModal": {
+      "title": "Ku huma hi nhloko",
+      "message": "Xana wa tiyiseka leswaku u lava ku huma eka akhawunti ya wena? ",
+      "cancel": "Khansela",
+      "confirm": "Ina, Huma"
+    },
+    "slugModal": {
+      "title": "Hlawula URL ya Photifoliyo ya Wena",
+      "message": "URL leyi yi ta va xihlanganisi xo hlawuleka eka photifoliyo ya wena. ",
+      "slugPlaceholder": "vito ra wena",
+      "availability": "Ku kumeka ka swona:",
+      "available": "Kona",
+      "unavailable": "A swi kumeki",
+      "checking": "Ku kambela...",
+      "mustFormat": "Swi nga va na maletere, tinomboro, na swiphemuphemu ntsena (-) .",
+      "cancel": "Khansela",
+      "save": "Hlayisa URL",
+      "usernameUrl": "URL ya vito ra mutirhisi",
+      "helpText": "Maletere lamatsongo, tinomboro ni swiphemuphemu. ",
+      "validation": {
+        "empty": "Slug a yi nge vi na nchumu.",
+        "min3": "Vuenti bya swihlawulekisi swa 3.",
+        "max30": "Nhlayo ya le henhla ya swihlawulekisi swa 30.",
+        "format": "Maletere lamatsongo ntsena, tinomboro ni swiphemuphemu (-). "
+      }
+    },
+    "loadingPortfolio": "Ku layicha datha ya photifoliyo...",
+    "overview": {
+      "greetings": {
+        "morning": "Mixo lowunene",
+        "afternoon": "Madyambu lamanene",
+        "evening": "Madyambu lamanene",
+        "night": "Vusiku lebyinene"
+      },
+      "welcome": {
+        "hi": "Hi, .",
+        "creator": "Muvumbi",
+        "desc1": "Mi amukeriwile eka dashboard ya DevFolio. Photifoliyo ya wena yi langutiwile hi",
+        "desc2": "munhu. Yana emahlweni u tirha!",
+        "editPortfolio": "Hlela Photifoliyo"
+      },
+      "stats": {
+        "totalVisitors": "Nhlayo Hinkwayo ya Vaendzi",
+        "projectViews": "Ku langutiwile (Purojeke) .",
+        "activeSessions": "Xiyenge lexi Tirhaka",
+        "totalLabel": "Nhlayo hinkwayo"
+      },
+      "setup": {
+        "title": "Nhluvuko wa ku Seta",
+        "completed": "Photifoliyo ya wena yi helerile! 🎉",
+        "inProgress": "Magoza yo ya eka photifoliyo leyi hetisekeke.",
+        "profile": {
+          "title": "Profayile leyi heleleke",
+          "desc": "Engetelani vito, bio na xifaniso xa profile."
+        },
+        "section": {
+          "title": "Engetelani Swiyenge",
+          "desc": "Endla leswaku ku tirha xiyenge xa ​​kwalomu ka 1 eka photifoliyo."
+        },
+        "project": {
+          "title": "Engetelani Phurojeke",
+          "desc": "Nghenisa kwalomu ka 1 wa tiphurojeke ta wena letinene."
+        },
+        "publish": {
+          "title": "Ku kandziyisa Photifoliyo",
+          "desc": "Seta URL ya ntolovelo leswaku yi ta nghenisiwa hi vaaki."
+        }
+      },
+      "topProjects": {
+        "title": "Tiphurojeke Leti Dumeke Ngopfu",
+        "desc": "Ku endliwa ka ntirho wa wena ematihlweni ya vaendzi.",
+        "viewAll": "Vona Hinkwaswo",
+        "empty": "A ku na data ya view ya project ya wena ku fikela sweswi."
+      }
+    },
+    "themes": {
+      "title": "Tithempleyiti & Tinhlokomhaka",
+      "subtitle": "Endla ku languteka na ku titwa ka photifoliyo ya wena ya mani na mani.",
+      "reset": "Seta Xihlawulekisi xa Xihlawulekisi",
+      "save": "Hlayisa Ku Cinca",
+      "saving": "Ku hlayisa...",
+      "chooseTemplate": "Hlawula Xifaniso xa Xifaniso",
+      "primaryColor": "Muhlovo wo Sungula",
+      "typography": "Ku thayipa",
+      "appearance": "Xivumbeko",
+      "corners": "Tikhoneni & Mindzilakano",
+      "successTitle": "Humelela",
+      "successMessage": "Swihlawulekisi swa nhlokomhaka swi pfuxetiwile hi ndlela leyi humelelaka",
+      "errorTitle": "Xihoxo",
+      "errorMessage": "Ku tsandzekile ku hlayisa swihlawulekisi swa nhlokomhaka",
+      "templates": {
+        "minimalist": {
+          "name": "Xifaniso xa xiyimo xa le hansi",
+          "desc": "Dizayini leyi tengeke no olova leyi kongomisaka eka leswi nga endzeni."
+        },
+        "developerDark": {
+          "name": "Mutumbuluxi wa Munyama",
+          "desc": "Dark theme yi hetisekile ku kombisa khodi na tech stacks."
+        },
+        "creative": {
+          "name": "Vutshuri",
+          "desc": "Xivumbeko lexi hanyaka ni xa mihlovo-hlovo xa vaendli va swifaniso ni vatumbuluxi."
+        },
+        "executive": {
+          "name": "Xiyimo xa le henhla",
+          "desc": "Xivumbeko xa xiphurofexinali na xa xivumbeko xa tiphurofexinali ta mabindzu."
+        },
+        "bentoGrid": {
+          "name": "Gridi ya Bento",
+          "desc": "Xivumbeko xa giridi xa xitayili xa Apple xa manguva lawa lexi kombisaka vuswikoti byo hambana hi ndlela leyinene."
+        },
+        "neoBrutalism": {
+          "name": "Vulawuri bya Tihanyi lebyintshwa",
+          "desc": "Mindzilakano ya xivindzi na mihlovo ya ku hambana lokukulu eka ku languteka ka fexeni, loku nga tisoliki."
+        },
+        "glassmorphism": {
+          "name": "Ku hundzuka ka nghilazi",
+          "desc": "Switandzhaku swa nghilazi leyi nga ni xirhami ehenhla ka ti-gradient ta mihlovo-hlovo ta UI ya manguva lawa yo olova."
+        },
+        "linkInBio": {
+          "name": "Link eka Bio",
+          "desc": "Compact vertical layout leyi antswisiweke eka swikirini swa tiselfoni na swihangalasamahungu swa le ka social media."
+        }
+      },
+      "appearances": {
+        "light": "Rivoni",
+        "dark": "Xinyama",
+        "system": "Sisitimi"
+      },
+      "cornersOptions": {
+        "sharp": "Kariha",
+        "rounded": "Ku rhendzeleka",
+        "pill": "Philisi"
+      }
+    },
+    "feedback": {
+      "title": "Rhumela Vuxokoxoko",
+      "subtitle": "Hi pfune ku endla leswaku swi antswa hi ku nyika switsundzuxo, ku sola, kumbe ku vika swihoxo eka xitirhisiwa lexi.",
+      "categoryLabel": "Xiyenge xa ​​Vuyelo",
+      "messageLabel": "Vuxokoxoko bya Rungula",
+      "messagePlaceholder": "Ndzi byele hi vuxokoxoko hi mbuyelo lowu u lavaka ku wu hundzisela...",
+      "imageLabel": "Xiengetelo xa Xifaniso (Swi hlawula)",
+      "imagePlaceholder": "Click ku upload xifaniso kumbe screenshot",
+      "submitting": "Ku rhumela...",
+      "submitBtn": "Rhumela Vuxokoxoko",
+      "categories": {
+        "suggestion": "Switsundzuxo & Miehleketo",
+        "bug": "Xiviko xa Xihoxo / Xihoxo",
+        "criticism": "Ku sola",
+        "other": "Van'wana"
+      },
+      "imageErrorTitle": "Xihoxo",
+      "imageErrorMessage": "Tifayili tin’wana ti ariwile hikuva a ti seketeriwi tifomati ta swifaniso (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Ku humelela",
+      "successMessage": "Ndza khensa eka swibumabumelo swa n'wina! Xiviko xi rhumeriwile.",
+      "submitErrorTitle": "Swi tsandzekile",
+      "submitErrorMessage": "Ku humelerile xihoxo loko ku ri karhi ku rhumeriwa vuxokoxoko. Hi kombela u ringeta nakambe."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Malunghana Na Mina",
+      "skills": "Swikili",
+      "projects": "Tiphurojeke",
+      "workExperience": "Ntokoto wa Ntirho",
+      "orgExperience": "Ntokoto wa Nhlangano",
+      "education": "Dyondzo",
+      "certifications": "Vuleteri & Switifikheti",
+      "contact": "Tihlanganise na Mina"
+    },
+    "editor": {
+      "profileInfo": "Vuxokoxoko bya Phurofayili",
+      "saving": "Ku hlayisa...",
+      "profilePhoto": "Xifaniso xa Profile",
+      "clickToUpload": "Click ku layicha (JPG, PNG)",
+      "fullName": "Vito leri heleleke",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer loyi a nga na ku navela ku aka ti web apps ta manguva lawa...",
+      "location": "Ndhawu",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Rimbewu",
+      "selectGender": "Hlawula Rimbewu",
+      "male": "Xinuna",
+      "female": "Xisati",
+      "custom": "Ntolovelo",
+      "customPlaceholder": "Thayipha rimbewu ra wena ra ntolovelo...",
+      "uploadCv": "Layicha CV",
+      "cvFormat": "(DOC kumbe PDF)",
+      "preview": "Xikombiso xa le mahlweni",
+      "remove": "Susa",
+      "clickToUploadCv": "Click ku upload PDF kumbe DOC",
+      "sections": "Swiyenge",
+      "removeSelected": "Susa Leswi Hlawuriweke",
+      "confirmRemove": "Tiyisisa Susa",
+      "addSection": "Engetelani Xiyenge",
+      "addAllSections": "Engetelani Swiyenge Hinkwaswo",
+      "noSections": "Ku hava swiyenge ku fikela sweswi",
+      "clickToAdd": "Click \"+ Add Section\" ku sungula",
+      "selectAll": "Hlawula Hinkwaswo",
+      "selected": "Ku hlawuriwile",
+      "dragToReorder": "Koka ku oda swiyenge hi vuntshwa",
+      "livePreview": "Xikombiso xa Live",
+      "addSectionsToBuild": "Engetelani swiyenge ku aka photifoliyo ya wena",
+      "now": "Sweswi",
+      "current": "Sweswi",
+      "noExpiry": "Ku hava ku hela ka nkarhi",
+      "see": "Vona",
+      "position": "Xiyimo",
+      "degree": "Xiyimo",
+      "certification": "Xitifikheti",
+      "sectionsForm": {
+        "about": {
+          "label": "Nhlamuselo ya wena n’wini",
+          "placeholder": "Hi byele hi wena, ndhavuko wa wena, leswi u swi tsakelaka na vutshila bya wena..."
+        },
+        "skills": {
+          "addPlaceholder": "Thayipha skill kutani u cinca Enter..."
+        },
+        "projects": {
+          "title": "Vito ra Phurojeke",
+          "titlePlaceholder": "Vito ra phurojeke...",
+          "url": "URL ya phurojeke",
+          "description": "Nhlamuselo",
+          "descriptionPlaceholder": "Nhlamuselo yo koma ya phurojeke...",
+          "uploadThumbnail": "Xifaniso xa Phurojeke",
+          "addProject": "Engetelani Phurojeke",
+          "projectNum": "Phurojeke #",
+          "currentProject": "Leyi i phurojeke leyi ndzi tirhaka eka yona"
+        },
+        "work": {
+          "company": "Khamphani/Ejensi",
+          "companyPlaceholder": "Vito ra khamphani...",
+          "position": "Xiyimo/Xihloko",
+          "positionPlaceholder": "Xiyimo xa wena...",
+          "employmentType": "Muxaka wa ntirho",
+          "location": "Ndhawu",
+          "locationPlaceholder": "Doroba, Tiko...",
+          "startDate": "Sungula",
+          "endDate": "Hetile",
+          "currentWork": "Ndza ha tirha eka nkarhi wa sweswi",
+          "description": "Nhlamuselo",
+          "descriptionPlaceholder": "Nhlamuselo ya ntirho na vutihlamuleri...",
+          "skills": "Xikili",
+          "addExperience": "Engetela Ntokoto Wa Ntirho",
+          "experienceNum": "Hlangana #",
+          "dateError": "Siku ro hetelela a ri nge vi emahlweni ka siku ro sungula"
+        },
+        "org": {
+          "organization": "Vito ra Nhlangano",
+          "orgPlaceholder": "Yunivhesiti ya BEM...",
+          "role": "Ntirho/Xiyimo",
+          "rolePlaceholder": "Nhloko ya Xiyenge...",
+          "addOrg": "Engetelani Ntokoto wa Nhlangano",
+          "orgNum": "Nhlangano #"
+        },
+        "edu": {
+          "institution": "Swivandla swa Dyondzo",
+          "institutionPlaceholder": "Vito ra khamphasi kumbe xikolo...",
+          "degree": "Xirhangi",
+          "degreePlaceholder": "S1, xikolo xa le henhla, etc...",
+          "major": "Ndzawulo/Nsimu ya Dyondzo",
+          "majorPlaceholder": "Vuinjhiniyere bya Informatics...",
+          "gpa": "GPA (ya ku hlawula) .",
+          "currentStudy": "Ndza ha dyondza laha",
+          "descriptionPlaceholder": "Mintirho na ku humelela hi nkarhi wa dyondzo...",
+          "addEdu": "Engetelani Dyondzo",
+          "eduNum": "Dyondzo #"
+        },
+        "cert": {
+          "name": "Vito ra Xitifikheti / Vuleteri",
+          "namePlaceholder": "Vito ra xitifikheti...",
+          "issuer": "Mukandziyisi",
+          "issuerPlaceholder": "Nhlangano wo kandziyisa...",
+          "issueDate": "Ku Sungula (Siku ro Kandziyisa) .",
+          "issueDatePlaceholder": "Hlawula siku ro kandziyisa...",
+          "expiryDate": "Ku hetisiwile (Nkarhi lowu tirhaka) .",
+          "expiryDatePlaceholder": "Hlawula siku ro hela...",
+          "noExpiry": "Xitifikheti lexi a xi na siku ro hela",
+          "url": "URL ya Xitifikheti",
+          "uploadThumbnail": "Xitifikheti / Xifaniso xa Vuleteri",
+          "uploadThumbnailLimit": "Ku layicha xifaniso xa xitifikheti (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Engetelani Xitifikheti",
+          "certNum": "Xitifikheti # ."
+        },
+        "contact": {
+          "contactNum": "Hlanganisa #",
+          "platform": "Ndhawu",
+          "displayText": "Kombisa Tsalwa",
+          "displayTextPlaceholder": "e.g., wena@email.com kumbe @vito ra mutirhisi",
+          "url": "Xihlanganisi (URL) .",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (handle ka ku rhangela 0) .",
+          "urlPlaceholderEmail": "e.g., wena@imeyili.com",
+          "urlPlaceholderWebsite": "hi xikombiso, https://...",
+          "urlPlaceholderDefault": "e.g., vito ra mutirhisi",
+          "addContact": "Engetelani Vuhlanganisi"
+        },
+        "common": {
+          "months": {
+            "1": "Sunguti",
+            "2": "Nyenyenyana",
+            "3": "Kombisa ku vilela",
+            "4": "Dzivamisoko",
+            "5": "U nga",
+            "6": "Khotavuxika",
+            "7": "Mawuwani",
+            "8": "Ndzati",
+            "9": "Ndzati",
+            "10": "Nhlangula",
+            "11": "Hukuri",
+            "12": "N'wendzamhala"
+          },
+          "month": "N'hweti",
+          "year": "Lembe",
+          "invalidDate": "N’hweti yo Hetelela leyi nga tirhiki",
+          "words": "marito"
+        }
+      },
+      "sure": "Tiyisisa",
+      "deletePhotoTitle": "Susa Xifaniso xa Profile?",
+      "deletePhotoMessage": "Xana u tiyisile leswaku u lava ku susa xifaniso lexi xa profile?",
+      "cancel": "Khansela",
+      "delete": "Sula"
+    },
+    "cropper": {
+      "chooseBackground": "Hlawula Ndhavuko",
+      "cropPhoto": "Crop Xifaniso Xa Wena",
+      "useOriginal": "Tirhisa original",
+      "backgroundPresets": "Swihlawulekisi swa le ndzhaku swa le ndzhaku",
+      "none": "Hava",
+      "uploadBackground": "Upload Background",
+      "cancel": "Khansela",
+      "savePhoto": "Hlayisa Xifaniso",
+      "zoom": "Ku kurisa",
+      "rotationTilt": "Ku rhendzeleka & Ku rhetela",
+      "resetRotation": "Seta nakambe eka 0°",
+      "center": "Xikarhi",
+      "rotateLeft": "Jikisa -90°",
+      "rotateRight": "Jikisa +90°",
+      "removeBackground": "Susa Ndhavuko wa le Ndzhaku",
+      "processing": "Ku processa xifaniso xa wena, hi kombela u yima..."
+    },
+    "cvPreview": {
+      "title": "CV Xikombiso xa le mahlweni",
+      "downloadCv": "Download CV",
+      "download": "Downloda",
+      "wordCannotPreview": "Matsalwa ya Word (.doc/.docx) a ma nge langutiwi ka ha ri emahlweni hi ndlela ya ntumbuluko eka xihlamusela-marito. ",
+      "downloadFile": "Download Fayili ya CV",
+      "back": "Tlhelela",
+      "mobileMessage": "Hi kombela u kopa fayili ya CV leswaku u yi vona ka ha ri emahlweni.",
+      "preview": "Xikombiso xa CV",
+      "wordPreviewTitle": "Xikombiso xa Tsalwa ra Word",
+      "wordPreviewMessage": "Matsalwa ya Word (.doc/.docx) a ma nge langutiwi ka ha ri emahlweni hi ndlela ya ntumbuluko eka xihlamusela-marito. Hi kombela u kopa fayili leswaku u yi vona."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Tsala nhlamuselo yo koma hi wena, leswi u swi tsakelaka, na tipakani ta ntirho..."
+    },
+    "skills": {
+      "placeholder": "Thayipa vito ra vutshila...",
+      "add": "Katsa",
+      "enterToAdd": "Cinekela Enter ku engetela",
+      "noSkills": "Ku hava vutshila lebyi engeteriweke ku fikela sweswi."
+    },
+    "projects": {
+      "projectName": "Vito ra Phurojeke",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL ya phurojeke",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Nkarhi",
+      "startMonth": "N’hweti yo Sungula",
+      "startYear": "Lembe ro Sungula",
+      "endMonth": "N’hweti yo Hetelela",
+      "endYear": "Lembe ro Hetelela",
+      "currentlyWorking": "Sweswi u tirha eka leswi",
+      "description": "Nhlamuselo",
+      "descriptionPlaceholder": "Hlamusela phurojeke, xiave xa wena, na ku humelela...",
+      "technologies": "Tithekinoloji Leti Tirhisiwaka",
+      "addProject": "Engetelani Phurojeke",
+      "image": "Xifaniso xa Phurojeke",
+      "removeImage": "Susa Xifaniso",
+      "uploadImage": "Click ku upload xifaniso"
+    },
+    "work": {
+      "company": "Khamphani/Nhlangano",
+      "companyPlaceholder": "Vito ra khamphani...",
+      "role": "Ntirho/Xiyimo",
+      "rolePlaceholder": "Xiyimo xa wena...",
+      "jobType": "Muxaka wa Ntirho",
+      "selectJobType": "Hlawula muxaka",
+      "fullTime": "Nkarhi hinkwawo",
+      "partTime": "Nkarhinyana",
+      "contract": "Kontiraka",
+      "internship": "Ntiirho-dyondzo",
+      "freelance": "Ku tirha hi ku tiyimela",
+      "location": "Ndhawu",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Nkarhi",
+      "currentlyWorking": "Sweswi u tirha laha",
+      "description": "Nhlamuselo ya Ntirho",
+      "descriptionPlaceholder": "Hlamusela vutihlamuleri bya wena bya nkoka na ku humelela ka wena...",
+      "skills": "Vutshila byo Hlawuleka",
+      "addExperience": "Engetelani Ntokoto"
+    },
+    "org": {
+      "organization": "Vito ra Nhlangano",
+      "organizationPlaceholder": "Vito ra nhlangano...",
+      "role": "Ntirho/Xiyimo",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Nkarhi",
+      "periodFormat": "kumbe Xivumbeko xa Mahala (e.g. 2020 - 2022) .",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Sweswi u tirha",
+      "description": "Nhlamuselo ya Ntirho",
+      "descriptionPlaceholder": "Hlamusela migingiriko ya wena kumbe minyikelo ya wena...",
+      "addExperience": "Engetelani Ntokoto"
+    },
+    "education": {
+      "institution": "Vito ra Nhlangano",
+      "institutionPlaceholder": "Vito ra xikolo kumbe yunivhesiti...",
+      "degree": "Digiri/Level",
+      "degreePlaceholder": "e.g. ",
+      "major": "Major/Nsimu ya Dyondzo",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Giredi ya Xikolo",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Nkarhi wa Dyondzo",
+      "periodFormat": "kumbe Xivumbeko xa Mahala (e.g. 2018 - 2022) .",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Sweswi ndzi dyondza laha",
+      "description": "Mintirho / Ku xiximiwa",
+      "descriptionPlaceholder": "Hlamusela migingiriko ya swa tidyondzo, tinhlengeletano, kumbe ku xiximiwa loku amukeriweke...",
+      "addEducation": "Engetelani Dyondzo"
+    },
+    "cert": {
+      "name": "Vito ra Xitifikheti",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Nhlangano wo Humesa",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Siku ro Humesa",
+      "expiryDate": "Swi Tirha Ku fikela",
+      "noExpiry": "Xitifikheti lexi a xi heli nkarhi",
+      "yearPlaceholder": "kumbe Lembe (e.g. 2023) .",
+      "credentialUrl": "URL ya Xitifikheti",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Vuswikoti lebyi Fambelanaka na byona",
+      "addCertification": "Engetelani Xitifikheti",
+      "image": "Xifaniso/Logo",
+      "removeImage": "Susa Xifaniso",
+      "uploadImage": "Click ku upload xifaniso"
+    },
+    "common": {
+      "months": {
+        "1": "Sunguti",
+        "2": "Nyenyenyana",
+        "3": "Kombisa ku vilela",
+        "4": "Dzivamisoko",
+        "5": "U nga",
+        "6": "Khotavuxika",
+        "7": "Mawuwani",
+        "8": "Ndzati",
+        "9": "Ndzati",
+        "10": "Nhlangula",
+        "11": "Hukuri",
+        "12": "N'wendzamhala"
+      },
+      "month": "N'hweti",
+      "year": "Lembe",
+      "invalidDate": "N’hweti yo Hetelela leyi nga tirhiki",
+      "words": "marito"
+    }
+  },
+  "settings": {
+    "title": "Switirhisiwa",
+    "subtitle": "Lawula phurofayili ya wena ya photifoliyo na leswi u swi tsakelaka",
+    "tabs": {
+      "profile": "Profile ya Mina",
+      "security": "Vuhlayiseki",
+      "personalization": "Ku endla leswaku munhu a va wa wena"
+    },
+    "profile": {
+      "infoTitle": "Rungula ra Masungulo",
+      "photo": "Xifaniso xa Profile",
+      "uploadPhoto": "Cinca Xifaniso",
+      "fullName": "Vito leri heleleke",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adirese ya Imeyili",
+      "emailPlaceholder": "john@xikombiso.com",
+      "emailHelp": "Imeyili yi tirhisiwa ku nghena naswona a yi kombisiwi erivaleni.",
+      "portfolioUrl": "URL ya photifoliyo",
+      "saveProfile": "Hlayisa Profayile",
+      "save": "Hlayisa Profayile",
+      "accountCreated": "Akhawunti Yi Endliwile",
+      "lastLogin": "Ku Nghena ko Hetelela",
+      "oauthNotice": "Phurofayili leyi yi hlanganisiwile na akhawunti ya wena ya {{provider}}. Ku cinca ka phurofayili ku fanele ku endliwa hi ku tirhisa muphakeri wa vukorhokeri."
+    },
+    "security": {
+      "changePassword": "Cinca Phasiwedi",
+      "currentPassword": "Phasiwedi ya sweswi",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Phasiwedi Leyintshwa",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Tiyisisa Phasiwedi Leyintshwa",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Ku nga ri kungani swimunhuhatwa swa 8",
+        "uppercase": "Letere rin’we lerikulu (A-Z) .",
+        "number": "Nomboro yin’we (0-9) .",
+        "symbol": "Xikombiso xin'we (!@#$%^&*)"
+      },
+      "passwordTitle": "Phasiwedi",
+      "updatePassword": "Pfuxeta Phasiwedi",
+      "additionalSecurity": "Vuhlayiseki byo Engetela",
+      "twoFactor": "Ku Tiyisisiwa ka Swilo Swimbirhi (2FA) .",
+      "twoFactorDesc": "Tiyisisa akhawunti ya wena hi ku tirhisa khodi ya OTP yo engetela.",
+      "activeSessions": "Minkarhi leyi Tirhaka",
+      "activeSessionsDesc": "Minkarhi hinkwayo pfumelela ku vekiwa tihlo ka switirhisiwa leswi ngheneke.",
+      "publicVisibility": "Ku Vonakala ka Vaaki",
+      "hideFromSearch": "Fihla Photifoliyo eka Tinjhini to Lavisisa",
+      "hideFromSearchDesc": "Sivela Google ku endla index ya tluka ra wena ra photifoliyo ya mani na mani.",
+      "disable2fa": {
+        "title": "Tirhisa 2FA",
+        "description": "Xana wa tiyiseka leswaku u lava ku tima ku tiyisisiwa ka swilo swimbirhi?",
+        "confirmPasswordLabel": "Nghenisa password ya wena ku tiyisisa",
+        "currentPasswordPlaceholder": "Phasiwedi ya sweswi",
+        "cancelButton": "Khansela",
+        "confirmButton": "Tirhisa 2FA",
+        "incorrectPassword": "Phasiwedi leyi hoxeke."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skena Khodi ya QR",
+        "step1Desc": "Pfula app ya wena ya authenticator kutani u skena khodi ya QR leyi landzelaka:",
+        "unableToScan": "Xana a wu swi koti ku skena? Tirhisa xilotlelo xa setup",
+        "step2Title": "2. Tiyisisa Khodi",
+        "step2Desc": "Nghenisa khodi ya 6-digit leyi endliweke hi app ya wena:",
+        "cancelButton": "Khansela",
+        "enableButton": "Endla leswaku 2FA yi tirha",
+        "invalidLength": "Hi kombela u nghenisa khodi ya 6-digit.",
+        "invalidCode": "Khodi ya ku tiyisisa leyi nga tirhiki. Hi kombela u ringeta nakambe."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Vulawuri bya Ririmi",
+      "appLanguage": "Ririmi ra App",
+      "layoutTitle": "Layout & Typography",
+      "layoutStyle": "Xitayili xa Xivumbeko",
+      "layoutModern": "Xitayili xa Ximanguva lawa (Xihlawulekisi) .",
+      "layoutClassic": "Xitayili xa Xikhale",
+      "layoutMinimalist": "Xitayili xa Minimalist",
+      "fontSize": "Vukulu bya Font ya App",
+      "fontSmall": "Xitsongo",
+      "fontNormal": "Xitolovelekile (Xikarhi) .",
+      "fontLarge": "Lexikulu",
+      "searchLanguage": "Ku lavisisa ririmi...",
+      "languageNotFound": "Ririmi a ri kumeki",
+      "layoutElegant": "Xitayili xo saseka"
+    },
+    "saveChanges": "Hlayisa Ku Cinca",
+    "cancel": "Khansela",
+    "appSettings": "Switirhisiwa swa App",
+    "logoutConfirmTitle": "Tiyisisa Ku Huma",
+    "logoutConfirmDesc": "Xana wa tiyiseka leswaku u lava ku huma eka sisiteme?",
+    "logoutConfirmYes": "Ina, Huma",
+    "generalError": "Ku humelerile xihoxo. ",
+    "success": "Humelela",
+    "preferencesSaved": "Swihlawulekisi swa app swi hlayisiwile hi ndlela leyi humelelaka.",
+    "header": "Switirhisiwa swa Xitirhisiwa",
+    "logout": {
+      "title": "Ku Tiyisisiwa ka Ku Huma",
+      "message": "Xana wa tiyiseka leswaku u lava ku huma eka sisiteme?",
+      "confirm": "Ina, Huma"
+    },
+    "about": {
+      "title": "Malunghana na Xikombelo",
+      "subtitle": "Pulatifomo ya Muaki wa Tiphotifoliyo",
+      "version": "Nkandziyiso",
+      "description": "DevFolio i pulatifomo ya manguva lawa ya muaki wa photifoliyo leyi endleriweke vatumbuluxi, vaendli va swifaniso, na vatumbuluxi va xiphurofexinali. ",
+      "license": "Layisense & Vukorhokeri bya Vutshila",
+      "copyright": "© 2026 DevFolio Inc. Timfanelo hinkwato ti hlayisiwile.",
+      "developer": "Mutumbuluxi wa swilo",
+      "developedBy": "Yi endliwe hi Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Susa akhawunti hi laha ku nga heriki",
+      "menuItem": "Susa akhawunti",
+      "successTitle": "Ku humelela",
+      "successMessage": "Imeyili yo tiyisisa ku susiwa ka akhawunti yi rhumeriwile.",
+      "errorTitle": "Swi tsandzekile",
+      "errorMessage": "Ku tsandzekile ku rhumela imeyili yo tiyisisa.",
+      "confirmationMessage": "Xana wa tiyiseka leswaku u lava ku susa akhawunti ya wena hilaha ku nga heriki?",
+      "warningMessage1": "U ta kuma email ku tiyisisa ku susiwa ka akhawunti.",
+      "warningMessage2": "Loko yi tiyisisiwile, datha hinkwayo (photifoliyo, tiphurojeke, tinhlayo) yi ta susiwa hi laha ku nga heriki naswona a yi nge vuyiseriwi.",
+      "cancel": "Khansela",
+      "confirm": "Ku tiyisisiwa"
+    },
+    "toasts": {
+      "toastError": "Xihoxo",
+      "toastSuccess": "Humelela",
+      "toastSetup2FAFailed": "Ku tsandzekile ku setup 2FA. Hi kombela u ringeta nakambe.",
+      "toast2FAEnabled": "Ku tiyisisiwa ka swilo swimbirhi ku tirhisiwile.",
+      "toast2FADisabled": "Ku tiyisisiwa ka swilo swimbirhi ku pfaleriwile.",
+      "toastSessionEnabled": "Ku vekiwa tihlo ka seshini loku tirhaka ku tirhisiwile.",
+      "toastSessionDisabled": "Ku vekiwa tihlo ka seshini loku tirhaka ku pfaleriwile.",
+      "toastSetupKeyCopied": "Setup key yi kopiwile eka clipboard."
+    },
+    "privacy": {
+      "title": "Pholisi ya Vuhlayiseki bya Swihundla",
+      "updateDate": "Ku pfuxetiwa ko hetelela: July 15, 2026",
+      "intro": "Pholisi leyi ya Vuhlayiseki yi hlamusela ndlela leyi DevFolio yi hlengeletaka, yi tirhisaka, na ku sirhelela vuxokoxoko bya wena bya munhu hi xiyexe loko yi tirhisa vukorhokeri bya hina.",
+      "section1Title": "1. Rungula leri Hi ri Hlengeletaka",
+      "section1Content": "Hi hlengeleta vuxokoxoko lebyi u byi nyikaka hi ku kongoma loko u endla akhawunti, u aka photifoliyo, na ku tihlanganisa na nseketelo wa hina. ",
+      "section2Title": "2. Ku Tirhisa Rungula",
+      "section2Content": "Rungula ra wena ri tirhisiwa ku tirha, ku hlayisa ni ku nyika swihlawulekisi swa vukorhokeri bya hina, swin’we ni ku vulavurisana na wena malunghana ni akhawunti ya wena kumbe vukorhokeri bya wena.",
+      "section3Title": "3. Vuhlayiseki bya Data",
+      "section3Content": "Hi tirhisa magoza lama ringaneleke ya vuhlayiseki ku sirhelela rungula ra wena leswaku ri nga ngheni, ri paluxiwa kumbe ri nga onhiwi hi ndlela leyi nga pfumeleriwangiki."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Xikombiso xa xitiyisekiso a xi kumeki.",
+    "defaultError": "Ku tsandzekile ku susa akhawunti. Xikombiso xa kona xi nga ha va xi hundzile nkarhi.",
+    "loadingTitle": "Ku Susa akhawunti...",
+    "loadingMessage": "Hi kombela mi yima, hi le ku endleni ka xikombelo xa n'wina.",
+    "successTitle": "Account Yi Susiwile Hi Ndlela Leyi Humelelaka",
+    "successMessage": "Data ya wena hinkwayo yi susiwile hi laha ku nga heriki. U ta kongomisiwa nakambe...",
+    "errorTitle": "Ku tsandzekile ku Susa akhawunti",
+    "backToHome": "Vuya Ekaya"
+  },
+  "forgotPassword": {
+    "minutes": "timinete",
+    "seconds": "tisekoni",
+    "success": "Ku humelela",
+    "otpSentToEmail": "Khodi ya OTP yi rhumeriwile eka imeyili ya wena.",
+    "failed": "Swi tsandzekile",
+    "emailNotFound": "Imeyili a yi kumekanga.",
+    "emailThirdParty": "Imeyili leyi yi tsarisiwile hi ku tirhisa munhu wa vunharhu.",
+    "genericError": "Ku ni xihoxo. Hi kombela u ringeta nakambe.",
+    "otpVerified": "Khodi ya OTP yi tiyisisiwile hi ndlela leyi humelelaka.",
+    "otpExpired": "Khodi ya OTP yi herile nkarhi. Hi kombela u kombela khodi leyintshwa.",
+    "otpInvalid": "Khodi ya OTP leyi nga tirhiki.",
+    "otpResent": "Khodi leyintshwa ya OTP yi rhumeriwile eka imeyili ya wena.",
+    "otpResendFailed": "Ku tsandzekile ku rhumela khodi ya OTP nakambe. Hi kombela u ringeta nakambe.",
+    "passwordResetSuccess": "Password hi ndlela leyi humelelaka reset. Hi kombela u nghena hi password ya wena leyintshwa.",
+    "passwordResetFailed": "Ku tsandzekile ku tlhela ku veka phaswedi.",
+    "backToLogin": "Vuya eka Login",
+    "back": "Ku tlhelela endzhaku",
+    "title": "Rivele Phasiwedi",
+    "description": "Nghenisa adirese ya imeyili leyi tsarisiweke eka akhawunti ya wena. Hi ta rhumela khodi ya OTP ku tlhela hi veka phaswedi.",
+    "emailLabel": "Adirese ya Imeyili",
+    "sending": "Ku rhumela...",
+    "sendOtp": "Rhumela Khodi ya OTP",
+    "verifyOtpTitle": "Tiyisisa Khodi ya OTP",
+    "verifyOtpDesc": "Nghenisa khodi ya 6 wa tidijithali leyi rhumeriweke eka email ya wena ku tiyisisa vutitivisi bya wena.",
+    "verifying": "Ku tiyisisa...",
+    "verifyOtp": "Tiyisisa OTP",
+    "resending": "Ku rhumela nakambe...",
+    "resendOtp": "Rhumela Khodi ya OTP nakambe",
+    "resendCodeIn": "Rhumela khodi nakambe eka",
+    "newPasswordTitle": "Endla Phaswedi Leyintshwa",
+    "newPasswordDesc": "Endla phaswedi leyintshwa, yo tiya ku sirhelela akhawunti ya wena.",
+    "newPasswordLabel": "Phasiwedi Leyintshwa",
+    "min8Chars": "Vuenti bya swihlawulekisi swa 8",
+    "oneUpperCase": "1 maletere lamakulu (A-Z)",
+    "oneNumber": "1 nomboro (0-9)",
+    "oneSymbol": "1 xikombiso (!@#$%^&*)",
+    "confirmPasswordLabel": "Tiyisisa Phasiwedi",
+    "passwordsDoNotMatch": "Tiphasiwedi a ti fambisani.",
+    "resettingPassword": "Ku Seta Password nakambe...",
+    "resetPassword": "Seta Phasiwedi nakambe"
+  },
+  "verifyEmail": {
+    "resendError": "Ku tsandzekile ku rhumela nakambe imeyili ya ku tiyisisa. Hi kombela u ringeta nakambe.",
+    "checkingStatus": "Ku kambela xiyimo xa ku tiyisisa...",
+    "title": "Languta Email Ya Wena",
+    "description": "Hi rhumele email yo tiyisisa eka adirese ya wena ya email. Hi kombela u pfula imeyili ivi u tikhoma buti ya <1>\"Tiyisisa akhawunti\"</1> ku endla leswaku akhawunti ya wena yi tirha.",
+    "stepsTitle": "Magoza",
+    "step1": "Pfula xitirhisiwa xa wena xa imeyili (Gmail, Yahoo, na swin'wana)",
+    "step2": "Languta email ku suka eka DevFolio leyi nga na nhlokomhaka leyi nge \"Account Activation\"",
+    "step3": "Click \"Confirm Account\" eka email ya",
+    "step4": "U ta kongomisiwa eka tluka ro nghena ku nghena",
+    "resendSuccess": "Imeyili ya ku tiyisisa yi rhumeriwile nakambe!",
+    "resending": "Ku rhumela nakambe...",
+    "resendButton": "Rhumela nakambe Imeyili ya ku Tiyisisa",
+    "backToLogin": "Vuya eka Tluka ro Nghena",
+    "footerNote": "Xana a wu yi amukelanga email? Languta folda ya <1>Spam</1> kumbe <2>Junk</2> eka imeyili ya wena. Xihlanganisi xa ku tiyisisa xi tirha ku ringana <3>24 wa tiawara</3>."
+  }
+}

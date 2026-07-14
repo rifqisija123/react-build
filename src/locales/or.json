@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "ବ Features ଶିଷ୍ଟ୍ୟଗୁଡିକ",
+    "templates": "ଟେମ୍ପଲେଟ୍ |",
+    "pricing": "ମୂଲ୍ୟ",
+    "login": "ଲଗଇନ୍ କରନ୍ତୁ |",
+    "getStarted": "ଆରମ୍ଭ କର |",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "ବିକାଶକାରୀଙ୍କ ପାଇଁ ଚରମ ପୋର୍ଟଫୋଲିଓ ବିଲଡର୍ |",
+    "title1": "ତୁମର ବୃତ୍ତିଗତ ନିର୍ମାଣ କର |",
+    "title2": "ପୋର୍ଟଫୋଲିଓ",
+    "titleHighlight": "ସେକେଣ୍ଡ୍ |",
+    "subtitle": "ତୁମର କ skills ଶଳ, ପ୍ରୋଜେକ୍ଟ, ଏବଂ ଅଭିଜ୍ଞତା ପ୍ରଦର୍ଶନ କରିବାକୁ ଆବଶ୍ୟକ କରୁଥିବା ସମସ୍ତ ଜିନିଷ | ",
+    "startBuilding": "ବର୍ତ୍ତମାନ ନିର୍ମାଣ ଆରମ୍ଭ କରନ୍ତୁ |",
+    "viewTemplates": "ଟେମ୍ପଲେଟ୍ ଦେଖନ୍ତୁ |",
+    "fastDeployment": "ଦ୍ରୁତ ନିୟୋଜନ |",
+    "liveStatus": "username.dev ଜୀବନ୍ତ!",
+    "featuresTitle": "ଶକ୍ତିଶାଳୀ ବ Features ଶିଷ୍ଟ୍ୟଗୁଡିକ",
+    "featuresSubtitle": "ଭିଡ଼ରୁ ଛିଡା ହେବା ଏବଂ ତୁମର ସ୍ୱପ୍ନର ଚାକିରି ଅବତରଣ କରିବା ପାଇଁ ଆମେ ଆବଶ୍ୟକ କରୁଥିବା ସମସ୍ତ ଉପକରଣ ପ୍ରଦାନ କରୁ |",
+    "feature1Title": "ବିଲ୍ଡର୍ ଡ୍ରାଗ୍ ଏବଂ ଡ୍ରପ୍ କରନ୍ତୁ |",
+    "feature1Desc": "ଆମର ଅନ୍ତର୍ନିହିତ ଭିଜୁଆଲ୍ ଏଡିଟର୍ ସହିତ ସହଜରେ ତୁମର ବିଭାଗ, ପ୍ରୋଜେକ୍ଟ, ଏବଂ କ skills ଶଳକୁ ସଂଗଠିତ କର |",
+    "feature2Title": "କଷ୍ଟମ୍ ଥିମ୍",
+    "feature2Desc": "ବୃତ୍ତିଗତ ଭାବରେ ଡିଜାଇନ୍ ହୋଇଥିବା ଟେମ୍ପଲେଟଗୁଡିକରୁ ବାଛନ୍ତୁ କିମ୍ବା ଆପଣଙ୍କର ନିଜର ଅନନ୍ୟ ଲୁକ୍ ସୃଷ୍ଟି କରନ୍ତୁ |",
+    "feature3Title": "ରିଅଲ୍ ଟାଇମ୍ ଆନାଲିଟିକ୍ସ |",
+    "feature3Desc": "ଆପଣଙ୍କର ଭ୍ରମଣକାରୀଙ୍କୁ ଟ୍ରାକ୍ କରନ୍ତୁ, ଦେଖନ୍ତୁ କେଉଁ ପ୍ରକଳ୍ପଗୁଡିକ ଅଧିକ ଧ୍ୟାନ ପାଆନ୍ତି, ଏବଂ ଅଧିକ |"
+  },
+  "auth": {
+    "welcomeBack": "ସ୍ Welcome ାଗତ",
+    "loginToContinue": "ଜାରି ରଖିବାକୁ ଆପଣଙ୍କ ଆକାଉଣ୍ଟକୁ ଲଗ୍ ଇନ୍ କରନ୍ତୁ |",
+    "createAccount": "ଖାତା ସୃଷ୍ଟି କରନ୍ତୁ |",
+    "joinCommunity": "ଅନ୍ୟ ହଜାର ହଜାର ବିକାଶକାରୀଙ୍କ ସହିତ ଯୋଗ ଦିଅନ୍ତୁ |",
+    "fullName": "ପୂର୍ଣ୍ଣ ନାମ",
+    "fullNamePlaceholder": "ଯଥା ",
+    "email": "ଇମେଲ୍ ଠିକଣା",
+    "emailPlaceholder": "you@example.com",
+    "password": "ପାସୱାର୍ଡ",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "ମୋତେ ମନେରଖ |",
+    "forgotPassword": "ପାସୱାର୍ଡ ଭୁଲିଗଲେ କି?",
+    "signIn": "ସାଇନ୍ ଇନ୍ କରନ୍ତୁ |",
+    "signingIn": "ସାଇନ୍ ଇନ୍ ...",
+    "signUp": "ସାଇନ୍ ଅପ୍ କରନ୍ତୁ |",
+    "signingUp": "ସାଇନ୍ ଅପ୍ ...",
+    "noAccount": "ଏକ ଖାତା ନାହିଁ କି?",
+    "hasAccount": "ପୂର୍ବରୁ ଏକ ଖାତା ଅଛି କି?",
+    "passwordRules": {
+      "title": "ପାସୱାର୍ଡ ଧାରଣ କରିବା ଜରୁରୀ:",
+      "length": "ଅତିକମରେ 8 ଅକ୍ଷର |",
+      "uppercase": "ଗୋଟିଏ ବଡ ଅକ୍ଷର (A-Z)",
+      "number": "ଗୋଟିଏ ସଂଖ୍ୟା (0-9)",
+      "symbol": "ଗୋଟିଏ ପ୍ରତୀକ (! @ # $% ^ & *)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "ପୋର୍ଟଫୋଲିଓ ବିଲଡର୍ |",
+      "templates": "ଟେମ୍ପଲେଟ୍ ଏବଂ ଥିମ୍",
+      "settings": "ସେଟିଂସମୂହ",
+      "collapse": "ପାର୍ଶ୍ୱପଟିକୁ ଭାଙ୍ଗନ୍ତୁ |",
+      "overview": "ସମୀକ୍ଷା",
+      "profileSettings": "ପ୍ରୋଫାଇଲ୍ ସେଟିଂସମୂହ |",
+      "customDomain": "କଷ୍ଟମ୍ ଡୋମେନ୍ |",
+      "feedback": "ମତାମତ"
+    },
+    "header": {
+      "viewLive": "ଲାଇଭ୍ ଦେଖନ୍ତୁ |",
+      "welcome": "ସ୍ୱାଗତ,",
+      "logout": "ଲଗଆଉଟ୍ |",
+      "builder": "ବିଲଡର୍",
+      "livePortfolio": "ଲାଇଭ୍ ପୋର୍ଟଫୋଲିଓ |",
+      "live": "ଲାଇଭ୍ |"
+    },
+    "logoutModal": {
+      "title": "ଲଗଆଉଟ୍ |",
+      "message": "ତୁମେ ନିଶ୍ଚିତ କି ତୁମେ ତୁମର ଆକାଉଣ୍ଟରୁ ଲଗ୍ ଆଉଟ୍ କରିବାକୁ ଚାହୁଁଛ? ",
+      "cancel": "ବାତିଲ୍ କରନ୍ତୁ |",
+      "confirm": "ହଁ, ଲଗଆଉଟ୍ |"
+    },
+    "slugModal": {
+      "title": "ଆପଣଙ୍କର ପୋର୍ଟଫୋଲିଓ URL ବାଛନ୍ତୁ |",
+      "message": "ଏହି URL ଆପଣଙ୍କ ପୋର୍ଟଫୋଲିଓ ସହିତ ଅନନ୍ୟ ଲିଙ୍କ ହେବ | ",
+      "slugPlaceholder": "ତୁମର ନାମ",
+      "availability": "ଉପଲବ୍ଧତା:",
+      "available": "ଉପଲବ୍ଧ |",
+      "unavailable": "ଉପଲବ୍ଧ ନାହିଁ",
+      "checking": "ଯାଞ୍ଚ ...",
+      "mustFormat": "କେବଳ ଅକ୍ଷର, ସଂଖ୍ୟା, ଏବଂ ଡ୍ୟାସ୍ ଧାରଣ କରିପାରିବ (-)",
+      "cancel": "ବାତିଲ୍ କରନ୍ତୁ |",
+      "save": "URL ସଞ୍ଚୟ କରନ୍ତୁ |",
+      "usernameUrl": "ଉପଯୋଗକର୍ତ୍ତା ନାମ URL",
+      "helpText": "ଲୋୟର କେସ୍ ଅକ୍ଷର, ସଂଖ୍ୟା, ଏବଂ ଡ୍ୟାସ୍ | ",
+      "validation": {
+        "empty": "ସ୍ଲଗ୍ ଖାଲି ହୋଇପାରିବ ନାହିଁ |",
+        "min3": "ସର୍ବନିମ୍ନ 3 ଅକ୍ଷର |",
+        "max30": "ସର୍ବାଧିକ 30 ଅକ୍ଷର |",
+        "format": "କେବଳ ଛୋଟ ଅକ୍ଷର, ସଂଖ୍ୟା, ଏବଂ ଡ୍ୟାସ୍ (-) | "
+      }
+    },
+    "loadingPortfolio": "ପୋର୍ଟଫୋଲିଓ ଡାଟା ଲୋଡ୍ କରୁଛି ...",
+    "overview": {
+      "greetings": {
+        "morning": "Selamat Pagi",
+        "afternoon": "Selamat Siang",
+        "evening": "Selamat Sore",
+        "night": "Selamat Malam"
+      },
+      "welcome": {
+        "hi": "Hai,",
+        "creator": "Kreator",
+        "desc1": "Selamat datang di dashboard DevFolio. Portfolio Anda sudah dilihat oleh",
+        "desc2": "orang. Terus berkarya!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Pengunjung",
+        "projectViews": "Dilihat (Projek)",
+        "activeSessions": "Sesi Aktif",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Setup Progress",
+        "completed": "Portfolio Anda sudah lengkap! 🎉",
+        "inProgress": "Langkah menuju portfolio sempurna.",
+        "profile": {
+          "title": "Lengkapi Profil",
+          "desc": "Tambahkan nama, bio, dan foto profil."
+        },
+        "section": {
+          "title": "Tambah Section",
+          "desc": "Aktifkan minimal 1 section di portfolio."
+        },
+        "project": {
+          "title": "Tambah Projek",
+          "desc": "Masukkan minimal 1 projek terbaik Anda."
+        },
+        "publish": {
+          "title": "Publish Portfolio",
+          "desc": "Atur custom URL agar bisa diakses publik."
+        }
+      },
+      "topProjects": {
+        "title": "Projek Terpopuler",
+        "desc": "Performa karya Anda di mata pengunjung.",
+        "viewAll": "Lihat Semua",
+        "empty": "Belum ada data view untuk projek Anda."
+      }
+    },
+    "themes": {
+      "title": "ଟେମ୍ପଲେଟ୍ ଏବଂ ଥିମ୍",
+      "subtitle": "ଆପଣଙ୍କର ସାର୍ବଜନୀନ ପୋର୍ଟଫୋଲିଓର ଲୁକ୍ ଏବଂ ଅନୁଭବ କଷ୍ଟୋମାଇଜ୍ କରନ୍ତୁ |",
+      "reset": "ଡିଫଲ୍ଟ ପୁନ Res ସେଟ୍ କରନ୍ତୁ |",
+      "save": "ପରିବର୍ତ୍ତନଗୁଡିକ ସଞ୍ଚୟ କରନ୍ତୁ |",
+      "saving": "ସଞ୍ଚୟ ...",
+      "chooseTemplate": "ଏକ ଟେମ୍ପଲେଟ୍ ବାଛନ୍ତୁ |",
+      "primaryColor": "ପ୍ରାଥମିକ ରଙ୍ଗ |",
+      "typography": "ଟାଇପୋଗ୍ରାଫି |",
+      "appearance": "ଦୃଶ୍ୟ",
+      "corners": "କୋଣ ଏବଂ ସୀମା",
+      "successTitle": "ସଫଳତା |",
+      "successMessage": "ଥିମ୍ ପସନ୍ଦଗୁଡିକ ସଫଳତାର ସହିତ ଅଦ୍ୟତନ ହେଲା |",
+      "errorTitle": "ତ୍ରୁଟି |",
+      "errorMessage": "ଥିମ୍ ପସନ୍ଦଗୁଡିକ ସଞ୍ଚୟ କରିବାରେ ବିଫଳ |",
+      "templates": {
+        "minimalist": {
+          "name": "ସର୍ବନିମ୍ନ",
+          "desc": "ବିଷୟବସ୍ତୁ ଉପରେ ଧ୍ୟାନ ଦେଇ ପରିଷ୍କାର ଏବଂ ସରଳ ଡିଜାଇନ୍ |"
+        },
+        "developerDark": {
+          "name": "ବିକାଶକାରୀ ଅନ୍ଧକାର |",
+          "desc": "କୋଡ୍ ଏବଂ ଟେକ୍ ଷ୍ଟାକ୍ ଦେଖାଇବା ପାଇଁ ଗା ark ଥିମ୍ ଉପଯୁକ୍ତ |"
+        },
+        "creative": {
+          "name": "ସୃଜନଶୀଳ |",
+          "desc": "ଡିଜାଇନର୍ ଏବଂ ସୃଷ୍ଟିକର୍ତ୍ତାମାନଙ୍କ ପାଇଁ ଜୀବନ୍ତ ଏବଂ ରଙ୍ଗୀନ ଲେଆଉଟ୍ |"
+        },
+        "executive": {
+          "name": "କାର୍ଯ୍ୟନିର୍ବାହୀ",
+          "desc": "ବ୍ୟବସାୟ ପ୍ରଫେସନାଲମାନଙ୍କ ପାଇଁ ବୃତ୍ତିଗତ ଏବଂ ଆନୁଷ୍ଠାନିକ ଲେଆଉଟ୍ |"
+        },
+        "bentoGrid": {
+          "name": "ବେଣ୍ଟୋ ଗ୍ରୀଡ୍ |",
+          "desc": "ଆଧୁନିକ ଆପଲ୍ ଷ୍ଟାଇଲ୍ ଗ୍ରୀଡ୍ ଲେଆଉଟ୍ ଯାହା ବିଭିନ୍ନ ଦକ୍ଷତାକୁ ଦକ୍ଷତାର ସହିତ ଆଲୋକିତ କରେ |"
+        },
+        "neoBrutalism": {
+          "name": "ନବ-ବର୍ବରତା |",
+          "desc": "ଏକ ଧାରାବାହିକ, ଅଜ୍ଞାତ ଦୃଶ୍ୟ ପାଇଁ ବୋଲ୍ଡ ସୀମା ଏବଂ ଉଚ୍ଚ ବିପରୀତ ରଙ୍ଗ |"
+        },
+        "glassmorphism": {
+          "name": "ଗ୍ଲାସମୋର୍ଫିଜିମ୍ |",
+          "desc": "ଏକ ଆଧୁନିକ UI ପାଇଁ ରଙ୍ଗୀନ ଗ୍ରେଡିଏଣ୍ଟ୍ ଉପରେ ଥଣ୍ଡା ଗ୍ଲାସ୍ ପ୍ରଭାବ |"
+        },
+        "linkInBio": {
+          "name": "ବାୟୋରେ ଲିଙ୍କ୍ |",
+          "desc": "ମୋବାଇଲ୍ ସ୍କ୍ରିନ୍ ଏବଂ ସୋସିଆଲ୍ ମିଡିଆ ପାଇଁ କମ୍ପାକ୍ଟ ଭର୍ଟିକାଲ୍ ଲେଆଉଟ୍ ଅପ୍ଟିମାଇଜ୍ |"
+        }
+      },
+      "appearances": {
+        "light": "ଆଲୋକ",
+        "dark": "ଅନ୍ଧାର",
+        "system": "ସିଷ୍ଟମ୍"
+      },
+      "cornersOptions": {
+        "sharp": "ତୀକ୍ଷ୍ଣ |",
+        "rounded": "ଗୋଲାକାର |",
+        "pill": "ବଟିକା"
+      }
+    },
+    "feedback": {
+      "title": "ମତାମତ ପଠାନ୍ତୁ |",
+      "subtitle": "ଏହି ଅନୁପ୍ରୟୋଗରେ ପରାମର୍ଶ, ସମାଲୋଚନା କିମ୍ବା ତ୍ରୁଟି ରିପୋର୍ଟ କରି ଏହାକୁ ଉନ୍ନତ କରିବାରେ ଆମକୁ ସାହାଯ୍ୟ କରନ୍ତୁ |",
+      "categoryLabel": "ମତାମତ ବର୍ଗ",
+      "messageLabel": "ସବିଶେଷ ବିବରଣୀ ଅର୍ଡର କରନ୍ତୁ |",
+      "messagePlaceholder": "ଆପଣ ଜଣାଇବାକୁ ଚାହୁଁଥିବା ମତାମତ ବିଷୟରେ ମୋତେ ବିସ୍ତୃତ ଭାବରେ କୁହନ୍ତୁ ...",
+      "imageLabel": "ପ୍ରତିଛବି ସଂଲଗ୍ନ (ବ al କଳ୍ପିକ)",
+      "imagePlaceholder": "ଏକ ପ୍ରତିଛବି କିମ୍ବା ସ୍କ୍ରିନସଟ୍ ଅପଲୋଡ୍ କରିବାକୁ କ୍ଲିକ୍ କରନ୍ତୁ |",
+      "submitting": "ପଠାନ୍ତୁ ...",
+      "submitBtn": "ମତାମତ ପଠାନ୍ତୁ |",
+      "categories": {
+        "suggestion": "ପରାମର୍ଶ ଏବଂ ଧାରଣା |",
+        "bug": "ତ୍ରୁଟି / ତ୍ରୁଟି ରିପୋର୍ଟଗୁଡିକ",
+        "criticism": "ସମାଲୋଚନା",
+        "other": "ଅନ୍ୟମାନେ |"
+      },
+      "imageErrorTitle": "ତ୍ରୁଟି |",
+      "imageErrorMessage": "କିଛି ଫାଇଲ୍ ପ୍ରତ୍ୟାଖ୍ୟାନ ହୋଇଛି କାରଣ ସେଗୁଡିକ ଇମେଜ୍ ଫର୍ମାଟ୍ (JPG, PNG, GIF, WEBP) ସମର୍ଥିତ ନୁହେଁ |",
+      "successTitle": "ସଫଳତା |",
+      "successMessage": "ଆପଣଙ୍କ ମତାମତ ପାଇଁ ଧନ୍ୟବାଦ! ରିପୋର୍ଟ ପଠାଯାଇଛି |",
+      "submitErrorTitle": "ବିଫଳ",
+      "submitErrorMessage": "ମତାମତ ପଠାଇବା ସମୟରେ ଏକ ତ୍ରୁଟି ଘଟିଲା | ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "ମୋ ବିଷୟରେ",
+      "skills": "ଦକ୍ଷତା |",
+      "projects": "ପ୍ରକଳ୍ପଗୁଡିକ",
+      "workExperience": "କାର୍ଯ୍ୟ ଅଭିଜ୍ଞତା |",
+      "orgExperience": "ସାଂଗଠନିକ ଅଭିଜ୍ଞତା |",
+      "education": "ଶିକ୍ଷା",
+      "certifications": "ତାଲିମ ଏବଂ ପ୍ରମାଣପତ୍ର",
+      "contact": "ମୋ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |"
+    },
+    "editor": {
+      "profileInfo": "ପ୍ରୋଫାଇଲ୍ ସୂଚନା",
+      "saving": "ସଞ୍ଚୟ ...",
+      "profilePhoto": "ପ୍ରୋଫାଇଲ୍ ଫଟୋ",
+      "clickToUpload": "ଅପଲୋଡ୍ କରିବାକୁ କ୍ଲିକ୍ କରନ୍ତୁ (JPG, PNG)",
+      "fullName": "ପୂର୍ଣ୍ଣ ନାମ",
+      "fullNamePlaceholder": "ଯଥା ",
+      "bio": "ବାୟୋ |",
+      "bioPlaceholder": "ଆଧୁନିକ ୱେବ୍ ଆପ୍ ଗଠନ ପାଇଁ ଏକ ଉତ୍ସାହ ସହିତ ଫୁଲଷ୍ଟ୍ୟାକ୍ ଡେଭଲପର୍ ...",
+      "location": "ଅବସ୍ଥାନ",
+      "locationPlaceholder": "ଯଥା ",
+      "gender": "ଲିଙ୍ଗ",
+      "selectGender": "ଲିଙ୍ଗ ଚୟନ କରନ୍ତୁ |",
+      "male": "ପୁରୁଷ",
+      "female": "ମହିଳା",
+      "custom": "କଷ୍ଟମ୍ |",
+      "customPlaceholder": "ତୁମର କଷ୍ଟମ୍ ଲିଙ୍ଗ ଟାଇପ୍ କର ...",
+      "uploadCv": "CV ଅପଲୋଡ୍ କରନ୍ତୁ |",
+      "cvFormat": "(DOC କିମ୍ବା PDF)",
+      "preview": "ପୂର୍ବାବଲୋକନ",
+      "remove": "ଅପସାରଣ କରନ୍ତୁ |",
+      "clickToUploadCv": "PDF କିମ୍ବା DOC ଅପଲୋଡ୍ କରିବାକୁ କ୍ଲିକ୍ କରନ୍ତୁ |",
+      "sections": "ବିଭାଗଗୁଡିକ",
+      "removeSelected": "ମନୋନୀତ ଅପସାରଣ କରନ୍ତୁ |",
+      "confirmRemove": "ଅପସାରଣ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+      "addSection": "ବିଭାଗ ଯୋଡନ୍ତୁ |",
+      "addAllSections": "ସମସ୍ତ ବିଭାଗ ଯୋଡନ୍ତୁ |",
+      "noSections": "ଏପର୍ଯ୍ୟନ୍ତ କ sections ଣସି ବିଭାଗ ନାହିଁ |",
+      "clickToAdd": "ଆରମ୍ଭ କରିବାକୁ \"+ ବିଭାଗ ଯୋଡନ୍ତୁ\" କ୍ଲିକ୍ କରନ୍ତୁ |",
+      "selectAll": "ସମସ୍ତ ଚୟନ କରନ୍ତୁ |",
+      "selected": "ମନୋନୀତ |",
+      "dragToReorder": "ବିଭାଗଗୁଡିକ ପୁନ order ରେକର୍ଡ କରିବାକୁ ଡ୍ରାଗ୍ କରନ୍ତୁ |",
+      "livePreview": "ଲାଇଭ୍ ପୂର୍ବାବଲୋକନ |",
+      "addSectionsToBuild": "ଆପଣଙ୍କର ପୋର୍ଟଫୋଲିଓ ନିର୍ମାଣ କରିବାକୁ ବିଭାଗଗୁଡିକ ଯୋଡନ୍ତୁ |",
+      "now": "ବର୍ତ୍ତମାନ",
+      "current": "ସାମ୍ପ୍ରତିକ",
+      "noExpiry": "କ No ଣସି ସମାପ୍ତି ନାହିଁ |",
+      "see": "ଦେଖନ୍ତୁ |",
+      "position": "ଅବସ୍ଥାନ",
+      "degree": "ଡିଗ୍ରୀ",
+      "certification": "ପ୍ରମାଣପତ୍ର",
+      "sectionsForm": {
+        "about": {
+          "label": "ନିଜ ବିଷୟରେ ବର୍ଣ୍ଣନା",
+          "placeholder": "ନିଜ ବିଷୟରେ, ତୁମର ପୃଷ୍ଠଭୂମି, ଆଗ୍ରହ ଏବଂ କ skills ଶଳ ବିଷୟରେ ଆମକୁ କୁହ ..."
+        },
+        "skills": {
+          "addPlaceholder": "କ skill ଶଳ ଟାଇପ୍ କର ଏବଂ ଏଣ୍ଟର୍ ଦାବନ୍ତୁ ..."
+        },
+        "projects": {
+          "title": "ପ୍ରକଳ୍ପ ନାମ",
+          "titlePlaceholder": "ପ୍ରକଳ୍ପ ନାମ ...",
+          "url": "ପ୍ରକଳ୍ପ URL",
+          "description": "ବର୍ଣ୍ଣନା",
+          "descriptionPlaceholder": "ପ୍ରକଳ୍ପର ସଂକ୍ଷିପ୍ତ ବର୍ଣ୍ଣନା ...",
+          "uploadThumbnail": "ପ୍ରୋଜେକ୍ଟ ପ୍ରତିଛବି |",
+          "addProject": "ପ୍ରୋଜେକ୍ଟ ଯୋଡନ୍ତୁ |",
+          "projectNum": "ପ୍ରକଳ୍ପ #",
+          "currentProject": "ଏହା ହେଉଛି ଏକ ପ୍ରୋଜେକ୍ଟ ଯାହା ମୁଁ କାମ କରୁଛି |"
+        },
+        "work": {
+          "company": "କମ୍ପାନୀ / ଏଜେନ୍ସି |",
+          "companyPlaceholder": "କମ୍ପାନୀ ନାମ ...",
+          "position": "ପଦ / ଆଖ୍ୟା",
+          "positionPlaceholder": "ତୁମର ସ୍ଥିତି ...",
+          "employmentType": "କାର୍ଯ୍ୟର ପ୍ରକାର |",
+          "location": "ଅବସ୍ଥାନ",
+          "locationPlaceholder": "ସହର, ଦେଶ ...",
+          "startDate": "ଆରମ୍ଭ କରନ୍ତୁ |",
+          "endDate": "ସମାପ୍ତ",
+          "currentWork": "ମୁଁ ବର୍ତ୍ତମାନ ସୁଦ୍ଧା କାମ କରୁଛି",
+          "description": "ବର୍ଣ୍ଣନା",
+          "descriptionPlaceholder": "କାର୍ଯ୍ୟ ବର୍ଣ୍ଣନା ଏବଂ ଦାୟିତ୍ ... ...",
+          "skills": "ଦକ୍ଷତା |",
+          "addExperience": "କାର୍ଯ୍ୟ ଅଭିଜ୍ଞତା ଯୋଡନ୍ତୁ |",
+          "experienceNum": "ଅଭିଜ୍ଞତା #",
+          "dateError": "ଶେଷ ତାରିଖ ଆରମ୍ଭ ତାରିଖ ଠାରୁ ପୂର୍ବରୁ ହୋଇପାରିବ ନାହିଁ |"
+        },
+        "org": {
+          "organization": "ସଂଗଠନ ନାମ",
+          "orgPlaceholder": "ବିଏମ୍ ବିଶ୍ୱବିଦ୍ୟାଳୟ ...",
+          "role": "ଭୂମିକା / ଅବସ୍ଥାନ",
+          "rolePlaceholder": "ଡିଭିଜନ୍ ହେଡ୍ ...",
+          "addOrg": "ସାଂଗଠନିକ ଅଭିଜ୍ଞତା ଯୋଡନ୍ତୁ |",
+          "orgNum": "ସଂଗଠନ #"
+        },
+        "edu": {
+          "institution": "ଶିକ୍ଷାନୁଷ୍ଠାନଗୁଡିକ",
+          "institutionPlaceholder": "କ୍ୟାମ୍ପସ କିମ୍ବା ବିଦ୍ୟାଳୟର ନାମ ...",
+          "degree": "ଆଖ୍ୟା",
+          "degreePlaceholder": "S1, ଉଚ୍ଚ ବିଦ୍ୟାଳୟ, ଇତ୍ୟାଦି ...",
+          "major": "ବିଭାଗ / ଅଧ୍ୟୟନ କ୍ଷେତ୍ର |",
+          "majorPlaceholder": "ଇନଫର୍ମେଟିକ୍ସ ଇ Engineering ୍ଜିନିୟରିଂ ...",
+          "gpa": "GPA (ବ al କଳ୍ପିକ)",
+          "currentStudy": "ମୁଁ ଏପର୍ଯ୍ୟନ୍ତ ଏଠାରେ ଶିଖୁଛି |",
+          "descriptionPlaceholder": "ଅଧ୍ୟୟନ ସମୟରେ କାର୍ଯ୍ୟକଳାପ ଏବଂ ସଫଳତା ...",
+          "addEdu": "ଶିକ୍ଷା ଯୋଗକର |",
+          "eduNum": "ଶିକ୍ଷା #"
+        },
+        "cert": {
+          "name": "ପ୍ରମାଣପତ୍ର / ପ୍ରଶିକ୍ଷଣର ନାମ |",
+          "namePlaceholder": "ପ୍ରମାଣପତ୍ର ନାମ ...",
+          "issuer": "ପ୍ରକାଶକ",
+          "issuerPlaceholder": "ପ୍ରକାଶନ ପ୍ରତିଷ୍ଠାନ ...",
+          "issueDate": "ଆରମ୍ଭ (ପ୍ରକାଶନ ତାରିଖ)",
+          "issueDatePlaceholder": "ପ୍ରକାଶନ ତାରିଖ ଚୟନ କରନ୍ତୁ ...",
+          "expiryDate": "ସମାପ୍ତ (ବ id ଧ ଅବଧି)",
+          "expiryDatePlaceholder": "ସମାପ୍ତି ତାରିଖ ଚୟନ କରନ୍ତୁ ...",
+          "noExpiry": "ଏହି ସାର୍ଟିଫିକେଟ୍ ର କ exp ଣସି ମିଆଦ ପୂର୍ଣ୍ଣ ତାରିଖ ନାହିଁ |",
+          "url": "ପରିଚୟ URL",
+          "uploadThumbnail": "ସାର୍ଟିଫିକେଟ୍ / ତାଲିମ ପ୍ରତିଛବି |",
+          "uploadThumbnailLimit": "ସାର୍ଟିଫିକେଟ୍ ପ୍ରତିଛବି ଅପଲୋଡ୍ କରନ୍ତୁ (JPG / PNG / WEBP, ସର୍ବାଧିକ 2MB)",
+          "addCert": "ସାର୍ଟିଫିକେଟ୍ ଯୋଡନ୍ତୁ |",
+          "certNum": "ପ୍ରମାଣପତ୍ର #"
+        },
+        "contact": {
+          "contactNum": "ଯୋଗାଯୋଗ #",
+          "platform": "ପ୍ଲାଟଫର୍ମ |",
+          "displayText": "ପାଠ୍ୟ ପ୍ରଦର୍ଶନ କରନ୍ତୁ |",
+          "displayTextPlaceholder": "ଯଥା, you@email.com କିମ୍ବା @ ୟୁଜର୍ ନାମ |",
+          "url": "ଲିଙ୍କ୍ (URL)",
+          "urlPlaceholderWhatsapp": "ଯଥା, 62812 ... (ଅଗ୍ରଣୀ 0 ବିନା)",
+          "urlPlaceholderEmail": "ଯଥା, you@email.com",
+          "urlPlaceholderWebsite": "ଯଥା, https: // ...",
+          "urlPlaceholderDefault": "ଯଥା, ଉପଯୋଗକର୍ତ୍ତା ନାମ |",
+          "addContact": "ସମ୍ପର୍କ ଯୋଡନ୍ତୁ |"
+        },
+        "common": {
+          "months": {
+            "1": "ଜାନୁଆରୀ",
+            "2": "ଫେବୃଆରୀ",
+            "3": "ମାର୍ଚ୍ଚ",
+            "4": "ଏପ୍ରିଲ୍",
+            "5": "ମେ",
+            "6": "ଜୁନ୍ |",
+            "7": "ଜୁଲାଇ",
+            "8": "ଅଗଷ୍ଟ",
+            "9": "ସେପ୍ଟେମ୍ବର |",
+            "10": "ଅକ୍ଟୋବର",
+            "11": "ନଭେମ୍ବର",
+            "12": "ଡିସେମ୍ବର"
+          },
+          "month": "ମାସ",
+          "year": "ବର୍ଷ",
+          "invalidDate": "ଅବ val ଧ ଶେଷ ମାସ |",
+          "words": "ଶବ୍ଦ"
+        }
+      },
+      "sure": "ନିଶ୍ଚିତ",
+      "deletePhotoTitle": "ପ୍ରୋଫାଇଲ୍ ଫଟୋ ବିଲୋପ କରିବେ କି?",
+      "deletePhotoMessage": "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଏହି ପ୍ରୋଫାଇଲ୍ ଫଟୋ ବିଲୋପ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?",
+      "cancel": "ବାତିଲ୍ କରନ୍ତୁ |",
+      "delete": "ବିଲୋପ କରନ୍ତୁ |"
+    },
+    "cropper": {
+      "chooseBackground": "ପୃଷ୍ଠଭୂମି ବାଛନ୍ତୁ |",
+      "cropPhoto": "ତୁମର ଫଟୋ କ୍ରପ୍ କର |",
+      "useOriginal": "ମୂଳ ବ୍ୟବହାର କରନ୍ତୁ |",
+      "backgroundPresets": "ପୃଷ୍ଠଭୂମି ପ୍ରିସେଟ୍ |",
+      "none": "କିଛି ନୁହେଁ |",
+      "uploadBackground": "ପୃଷ୍ଠଭୂମି ଅପଲୋଡ୍ କରନ୍ତୁ |",
+      "cancel": "ବାତିଲ୍ କରନ୍ତୁ |",
+      "savePhoto": "ଫଟୋ ସେଭ୍ କରନ୍ତୁ |",
+      "zoom": "ଜୁମ୍ କରନ୍ତୁ |",
+      "rotationTilt": "ଘୂର୍ଣ୍ଣନ ଏବଂ ଟିଲ୍ଟ |",
+      "resetRotation": "0 ° କୁ ପୁନ et ସେଟ୍ କରନ୍ତୁ |",
+      "center": "କେନ୍ଦ୍ର",
+      "rotateLeft": "ଘୂର୍ଣ୍ଣନ -90 ° |",
+      "rotateRight": "ଘୂର୍ଣ୍ଣନ + 90 ° |",
+      "removeBackground": "ପୃଷ୍ଠଭୂମି ଅପସାରଣ କରନ୍ତୁ |",
+      "processing": "ତୁମର ପ୍ରତିଛବି ପ୍ରକ୍ରିୟାକରଣ, ଦୟାକରି ଅପେକ୍ଷା କର ..."
+    },
+    "cvPreview": {
+      "title": "CV ପୂର୍ବାବଲୋକନ |",
+      "downloadCv": "CV ଡାଉନଲୋଡ୍ କରନ୍ତୁ |",
+      "download": "ଡାଉନଲୋଡ୍ କରନ୍ତୁ |",
+      "wordCannotPreview": "ବ୍ରାଉଜର୍ ରେ ୱାର୍ଡ ଡକ୍ୟୁମେଣ୍ଟ୍ (.doc / .docx) ସ୍ଥାନୀୟ ଭାବରେ ପୂର୍ବାବଲୋକନ ହୋଇପାରିବ ନାହିଁ | ",
+      "downloadFile": "CV ଫାଇଲ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |",
+      "back": "ପଛକୁ",
+      "mobileMessage": "ଏହାକୁ ପୂର୍ବାବଲୋକନ କରିବାକୁ ଦୟାକରି CV ଫାଇଲ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |",
+      "preview": "CV ପୂର୍ବାବଲୋକନ କରନ୍ତୁ |",
+      "wordPreviewTitle": "ୱାର୍ଡ ଡକ୍ୟୁମେଣ୍ଟ୍ ପୂର୍ବାବଲୋକନ |",
+      "wordPreviewMessage": "ବ୍ରାଉଜର୍ ରେ ୱାର୍ଡ ଡକ୍ୟୁମେଣ୍ଟ୍ (.doc / .docx) ସ୍ଥାନୀୟ ଭାବରେ ପୂର୍ବାବଲୋକନ ହୋଇପାରିବ ନାହିଁ | ଏହାକୁ ଦେଖିବା ପାଇଁ ଦୟାକରି ଫାଇଲ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |"
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "ନିଜ ବିଷୟରେ, ଆଗ୍ରହ, ଏବଂ ବୃତ୍ତି ଲକ୍ଷ୍ୟ ବିଷୟରେ ଏକ ସଂକ୍ଷିପ୍ତ ବର୍ଣ୍ଣନା ଲେଖ ..."
+    },
+    "skills": {
+      "placeholder": "ଦକ୍ଷତା ନାମ ଟାଇପ୍ କରନ୍ତୁ ...",
+      "add": "ଯୋଡନ୍ତୁ |",
+      "enterToAdd": "ଯୋଡିବାକୁ ଏଣ୍ଟର୍ ଦାବନ୍ତୁ |",
+      "noSkills": "ଏପର୍ଯ୍ୟନ୍ତ କ skills ଣସି ଦକ୍ଷତା ଯୋଗ କରାଯାଇ ନାହିଁ |"
+    },
+    "projects": {
+      "projectName": "ପ୍ରକଳ୍ପ ନାମ",
+      "projectNamePlaceholder": "ଯଥା ",
+      "projectUrl": "ପ୍ରକଳ୍ପ URL",
+      "projectUrlPlaceholder": "https: // ...",
+      "duration": "ଅବଧି",
+      "startMonth": "ମାସ ଆରମ୍ଭ",
+      "startYear": "ବର୍ଷ ଆରମ୍ଭ",
+      "endMonth": "ଶେଷ ମାସ",
+      "endYear": "ଶେଷ ବର୍ଷ",
+      "currentlyWorking": "ସମ୍ପ୍ରତି ଏହା ଉପରେ କାର୍ଯ୍ୟ କରୁଛି |",
+      "description": "ବର୍ଣ୍ଣନା",
+      "descriptionPlaceholder": "ପ୍ରକଳ୍ପ, ତୁମର ଭୂମିକା, ଏବଂ ସଫଳତା ବର୍ଣ୍ଣନା କର ...",
+      "technologies": "ବ୍ୟବହୃତ ଟେକ୍ନୋଲୋଜି |",
+      "addProject": "ପ୍ରୋଜେକ୍ଟ ଯୋଡନ୍ତୁ |",
+      "image": "ପ୍ରୋଜେକ୍ଟ ପ୍ରତିଛବି |",
+      "removeImage": "ପ୍ରତିଛବି ଅପସାରଣ କରନ୍ତୁ |",
+      "uploadImage": "ପ୍ରତିଛବି ଅପଲୋଡ୍ କରିବାକୁ କ୍ଲିକ୍ କରନ୍ତୁ |"
+    },
+    "work": {
+      "company": "କମ୍ପାନୀ / ଅନୁଷ୍ଠାନ",
+      "companyPlaceholder": "କମ୍ପାନୀ ନାମ ...",
+      "role": "ଭୂମିକା / ଅବସ୍ଥାନ",
+      "rolePlaceholder": "ତୁମର ସ୍ଥିତି ...",
+      "jobType": "କାର୍ଯ୍ୟ ପ୍ରକାର",
+      "selectJobType": "ପ୍ରକାର ଚୟନ କରନ୍ତୁ |",
+      "fullTime": "ପୂର୍ଣ୍ଣ ସମୟ |",
+      "partTime": "ପାର୍ଟ ଟାଇମ୍ |",
+      "contract": "ଚୁକ୍ତିନାମା",
+      "internship": "ଇଣ୍ଟର୍ନସିପ୍",
+      "freelance": "ଫ୍ରିଲାନ୍ସ",
+      "location": "ଅବସ୍ଥାନ",
+      "locationPlaceholder": "ଯଥା ",
+      "duration": "ଅବଧି",
+      "currentlyWorking": "ସମ୍ପ୍ରତି ଏଠାରେ କାର୍ଯ୍ୟ କରୁଛି |",
+      "description": "କାର୍ଯ୍ୟ ବର୍ଣ୍ଣନା",
+      "descriptionPlaceholder": "ତୁମର ମୁଖ୍ୟ ଦାୟିତ୍ and ଏବଂ ସଫଳତା ବର୍ଣ୍ଣନା କର ...",
+      "skills": "ନିର୍ଦ୍ଦିଷ୍ଟ କ ills ଶଳ |",
+      "addExperience": "ଅଭିଜ୍ଞତା ଯୋଡନ୍ତୁ |"
+    },
+    "org": {
+      "organization": "ସଂଗଠନ ନାମ",
+      "organizationPlaceholder": "ସଂଗଠନର ନାମ ...",
+      "role": "ଭୂମିକା / ଅବସ୍ଥାନ",
+      "rolePlaceholder": "ଯଥା ",
+      "duration": "ଅବଧି",
+      "periodFormat": "କିମ୍ବା ମାଗଣା ଫର୍ମାଟ୍ (ଯଥା 2020 - 2022)",
+      "periodPlaceholder": "ଯଥା ",
+      "currentlyActive": "ସମ୍ପ୍ରତି ସକ୍ରିୟ |",
+      "description": "କାର୍ଯ୍ୟକଳାପ ବର୍ଣ୍ଣନା",
+      "descriptionPlaceholder": "ତୁମର କାର୍ଯ୍ୟକଳାପ କିମ୍ବା ଅବଦାନ ବର୍ଣ୍ଣନା କର ...",
+      "addExperience": "ଅଭିଜ୍ଞତା ଯୋଡନ୍ତୁ |"
+    },
+    "education": {
+      "institution": "ଅନୁଷ୍ଠାନର ନାମ",
+      "institutionPlaceholder": "ବିଦ୍ୟାଳୟ କିମ୍ବା ବିଶ୍ୱବିଦ୍ୟାଳୟର ନାମ ...",
+      "degree": "ଡିଗ୍ରୀ / ସ୍ତର",
+      "degreePlaceholder": "ଯଥା ",
+      "major": "ଅଧ୍ୟୟନର ପ୍ରମୁଖ / କ୍ଷେତ୍ର |",
+      "majorPlaceholder": "ଯଥା ",
+      "gpa": "GPA / ଗ୍ରେଡ୍",
+      "gpaPlaceholder": "ଯଥା ",
+      "duration": "ଶିକ୍ଷା ଅବଧି",
+      "periodFormat": "କିମ୍ବା ମାଗଣା ଫର୍ମାଟ୍ (ଯଥା 2018 - 2022)",
+      "periodPlaceholder": "ଯଥା ",
+      "currentlyStudying": "ସମ୍ପ୍ରତି ଏଠାରେ ଅଧ୍ୟୟନ କରୁଛନ୍ତି |",
+      "description": "କାର୍ଯ୍ୟକଳାପ / ସମ୍ମାନ",
+      "descriptionPlaceholder": "ପ୍ରାପ୍ତ ଏକାଡେମିକ୍ କାର୍ଯ୍ୟକଳାପ, ସଂଗଠନ, କିମ୍ବା ସମ୍ମାନ ବର୍ଣ୍ଣନା କର ...",
+      "addEducation": "ଶିକ୍ଷା ଯୋଗକର |"
+    },
+    "cert": {
+      "name": "ପ୍ରମାଣପତ୍ର ନାମ",
+      "namePlaceholder": "ଯଥା ",
+      "issuer": "ସଂଗଠନ ପ୍ରଦାନ",
+      "issuerPlaceholder": "ଯଥା ",
+      "issueDate": "ଇସୁ ତାରିଖ |",
+      "expiryDate": "ପର୍ଯ୍ୟନ୍ତ ବ id ଧ",
+      "noExpiry": "ଏହି ପରିଚୟ ପତ୍ର ମିଆଦ ପୂର୍ଣ୍ଣ ହୁଏ ନାହିଁ |",
+      "yearPlaceholder": "କିମ୍ବା ବର୍ଷ (ଯଥା 2023)",
+      "credentialUrl": "ପରିଚୟ URL",
+      "credentialUrlPlaceholder": "https: // ...",
+      "skills": "ସମ୍ବନ୍ଧୀୟ କ ills ଶଳ |",
+      "addCertification": "ସାର୍ଟିଫିକେଟ୍ ଯୋଡନ୍ତୁ |",
+      "image": "ପ୍ରତିଛବି / ଲୋଗୋ |",
+      "removeImage": "ପ୍ରତିଛବି ଅପସାରଣ କରନ୍ତୁ |",
+      "uploadImage": "ପ୍ରତିଛବି ଅପଲୋଡ୍ କରିବାକୁ କ୍ଲିକ୍ କରନ୍ତୁ |"
+    },
+    "common": {
+      "months": {
+        "1": "ଜାନୁଆରୀ",
+        "2": "ଫେବୃଆରୀ",
+        "3": "ମାର୍ଚ୍ଚ",
+        "4": "ଏପ୍ରିଲ୍",
+        "5": "ମେ",
+        "6": "ଜୁନ୍ |",
+        "7": "ଜୁଲାଇ",
+        "8": "ଅଗଷ୍ଟ",
+        "9": "ସେପ୍ଟେମ୍ବର |",
+        "10": "ଅକ୍ଟୋବର",
+        "11": "ନଭେମ୍ବର",
+        "12": "ଡିସେମ୍ବର"
+      },
+      "month": "ମାସ",
+      "year": "ବର୍ଷ",
+      "invalidDate": "ଅବ val ଧ ଶେଷ ମାସ |",
+      "words": "ଶବ୍ଦ"
+    }
+  },
+  "settings": {
+    "title": "ସେଟିଂସମୂହ",
+    "subtitle": "ଆପଣଙ୍କର ପୋର୍ଟଫୋଲିଓ ପ୍ରୋଫାଇଲ୍ ଏବଂ ପସନ୍ଦଗୁଡିକ ପରିଚାଳନା କରନ୍ତୁ |",
+    "tabs": {
+      "profile": "ମୋର ପ୍ରୋଫାଇଲ୍",
+      "security": "ସୁରକ୍ଷା",
+      "personalization": "ବ୍ୟକ୍ତିଗତକରଣ"
+    },
+    "profile": {
+      "infoTitle": "ମ Basic ଳିକ ସୂଚନା",
+      "photo": "ପ୍ରୋଫାଇଲ୍ ଫଟୋ",
+      "uploadPhoto": "ଫଟୋ ପରିବର୍ତ୍ତନ କରନ୍ତୁ |",
+      "fullName": "ପୂର୍ଣ୍ଣ ନାମ",
+      "fullNamePlaceholder": "ଜନ୍ ଡୋ",
+      "email": "ଇମେଲ୍ ଠିକଣା",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "ଇମେଲ୍ ଲଗଇନ୍ ପାଇଁ ବ୍ୟବହୃତ ହୁଏ ଏବଂ ସର୍ବସାଧାରଣରେ ପ୍ରଦର୍ଶିତ ହୁଏ ନାହିଁ |",
+      "portfolioUrl": "ପୋର୍ଟଫୋଲିଓ URL",
+      "saveProfile": "ପ୍ରୋଫାଇଲ୍ ସେଭ୍ କରନ୍ତୁ |",
+      "save": "ପ୍ରୋଫାଇଲ୍ ସେଭ୍ କରନ୍ତୁ |",
+      "accountCreated": "ଖାତା ସୃଷ୍ଟି |",
+      "lastLogin": "ଶେଷ ଲଗଇନ୍ |",
+      "oauthNotice": "ଏହି ପ୍ରୋଫାଇଲ୍ ଆପଣଙ୍କର {{ପ୍ରଦାନକାରୀ}} ଖାତା ସହିତ ସଂଯୁକ୍ତ | ସେବା ପ୍ରଦାନକାରୀଙ୍କ ମାଧ୍ୟମରେ ପ୍ରୋଫାଇଲ୍ ପରିବର୍ତ୍ତନ ହେବା ଜରୁରୀ |"
+    },
+    "security": {
+      "changePassword": "ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ କରନ୍ତୁ |",
+      "currentPassword": "ସାମ୍ପ୍ରତିକ ପାସୱାର୍ଡ |",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "ନୂତନ ପାସୱାର୍ଡ |",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "ନୂତନ ପାସୱାର୍ଡ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "ଅତିକମରେ 8 ଅକ୍ଷର |",
+        "uppercase": "ଗୋଟିଏ ବଡ ଅକ୍ଷର (A-Z)",
+        "number": "ଗୋଟିଏ ସଂଖ୍ୟା (0-9)",
+        "symbol": "ଗୋଟିଏ ପ୍ରତୀକ (! @ # $% ^ & *)"
+      },
+      "passwordTitle": "ପାସୱାର୍ଡ",
+      "updatePassword": "ପାସୱାର୍ଡ ଅଦ୍ୟତନ କରନ୍ତୁ |",
+      "additionalSecurity": "ଅତିରିକ୍ତ ସୁରକ୍ଷା",
+      "twoFactor": "ଦୁଇ ଫ୍ୟାକ୍ଟର୍ ପ୍ରାମାଣିକିକରଣ (2FA)",
+      "twoFactorDesc": "ଏକ ଅତିରିକ୍ତ OTP କୋଡ୍ ବ୍ୟବହାର କରି ଆପଣଙ୍କର ଖାତା ସୁରକ୍ଷିତ କରନ୍ତୁ |",
+      "activeSessions": "ସକ୍ରିୟ ଅଧିବେଶନ |",
+      "activeSessionsDesc": "ଲଗ୍ ଇନ୍ ଉପକରଣଗୁଡ଼ିକର ମନିଟରିଂକୁ ସର୍ବଦା ଅନୁମତି ଦିଅନ୍ତୁ |",
+      "publicVisibility": "ଜନସାଧାରଣ ଦୃଶ୍ୟମାନତା |",
+      "hideFromSearch": "ସର୍ଚ୍ଚ ଇଞ୍ଜିନରୁ ପୋର୍ଟଫୋଲିଓ ଲୁଚାନ୍ତୁ |",
+      "hideFromSearchDesc": "ଆପଣଙ୍କର ସାର୍ବଜନୀନ ପୋର୍ଟଫୋଲିଓ ପୃଷ୍ଠାକୁ ଇଣ୍ଡେକ୍ସ କରିବାକୁ ଗୁଗୁଲକୁ ପ୍ରତିରୋଧ କରନ୍ତୁ |",
+      "disable2fa": {
+        "title": "2FA ଅକ୍ଷମ କରନ୍ତୁ |",
+        "description": "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଦୁଇଟି ଫ୍ୟାକ୍ଟର୍ ପ୍ରାମାଣିକିକରଣ ବନ୍ଦ କରିବାକୁ ଚାହୁଁଛନ୍ତି?",
+        "confirmPasswordLabel": "ନିଶ୍ଚିତ କରିବାକୁ ଆପଣଙ୍କର ପାସୱାର୍ଡ ପ୍ରବେଶ କରନ୍ତୁ |",
+        "currentPasswordPlaceholder": "ସାମ୍ପ୍ରତିକ ପାସୱାର୍ଡ |",
+        "cancelButton": "ବାତିଲ୍ କରନ୍ତୁ |",
+        "confirmButton": "2FA ଅକ୍ଷମ କରନ୍ତୁ |",
+        "incorrectPassword": "ଭୁଲ ପାସୱାର୍ଡ |"
+      },
+      "setup2fa": {
+        "step1Title": "QR କୋଡ୍ ସ୍କାନ୍ କରନ୍ତୁ |",
+        "step1Desc": "ଆପଣଙ୍କର ପ୍ରାମାଣିକିକରଣ ଆପ୍ ଖୋଲନ୍ତୁ ଏବଂ ନିମ୍ନଲିଖିତ QR କୋଡ୍ ସ୍କାନ୍ କରନ୍ତୁ:",
+        "unableToScan": "ସ୍କାନ୍ କରିବାକୁ ଅସମର୍ଥ? ସେଟଅପ୍ କି ବ୍ୟବହାର କରନ୍ତୁ |",
+        "step2Title": "2। କୋଡ୍ ଯାଞ୍ଚ କରନ୍ତୁ |",
+        "step2Desc": "ଆପଣଙ୍କର ଆପ୍ ଦ୍ୱାରା ଉତ୍ପାଦିତ 6-ଅଙ୍କ କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ:",
+        "cancelButton": "ବାତିଲ୍ କରନ୍ତୁ |",
+        "enableButton": "2FA ସକ୍ଷମ କରନ୍ତୁ |",
+        "invalidLength": "ଦୟାକରି ଏକ 6 ଅଙ୍କ ବିଶିଷ୍ଟ କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ |",
+        "invalidCode": "ଅବ val ଧ ଯାଞ୍ଚ କୋଡ୍ | ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |"
+      }
+    },
+    "personalization": {
+      "languageTitle": "ଭାଷା ନିୟନ୍ତ୍ରଣ",
+      "appLanguage": "ଆପ୍ ଭାଷା |",
+      "layoutTitle": "ଲେଆଉଟ୍ ଏବଂ ଟାଇପୋଗ୍ରାଫି |",
+      "layoutStyle": "ଲେଆଉଟ୍ ଶ Style ଳୀ",
+      "layoutModern": "ଆଧୁନିକ ଶ Style ଳୀ (ଡିଫଲ୍ଟ)",
+      "layoutClassic": "କ୍ଲାସିକ୍ ଶ Style ଳୀ",
+      "layoutMinimalist": "ସର୍ବନିମ୍ନ ଶ Style ଳୀ",
+      "fontSize": "ଆପ୍ ଫଣ୍ଟ୍ ସାଇଜ୍ |",
+      "fontSmall": "ଛୋଟ",
+      "fontNormal": "ସାଧାରଣ (ମଧ୍ୟମ)",
+      "fontLarge": "ବଡ଼",
+      "searchLanguage": "ଭାଷା ଖୋଜ ...",
+      "languageNotFound": "ଭାଷା ମିଳିଲା ନାହିଁ |",
+      "layoutElegant": "ଶୋଭା ଶ Style ଳୀ"
+    },
+    "saveChanges": "ପରିବର୍ତ୍ତନଗୁଡିକ ସଞ୍ଚୟ କରନ୍ତୁ |",
+    "cancel": "ବାତିଲ୍ କରନ୍ତୁ |",
+    "appSettings": "ଆପ୍ ସେଟିଂସମୂହ |",
+    "logoutConfirmTitle": "ଲଗଆଉଟ୍ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+    "logoutConfirmDesc": "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ସିଷ୍ଟମରୁ ଲଗ୍ ଆଉଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?",
+    "logoutConfirmYes": "ହଁ, ଲଗଆଉଟ୍ |",
+    "generalError": "ଏକ ତ୍ରୁଟି ଘଟିଲା | ",
+    "success": "ସଫଳତା |",
+    "preferencesSaved": "ଆପ୍ ପସନ୍ଦଗୁଡିକ ସଫଳତାର ସହିତ ସଞ୍ଚୟ ହୋଇଛି |",
+    "header": "ପ୍ରୟୋଗ ସେଟିଂସମୂହ |",
+    "logout": {
+      "title": "ଲଗଆଉଟ୍ ନିଶ୍ଚିତକରଣ |",
+      "message": "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ସିଷ୍ଟମରୁ ଲଗ୍ ଆଉଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?",
+      "confirm": "ହଁ, ଲଗଆଉଟ୍ |"
+    },
+    "about": {
+      "title": "ଆବେଦନ ବିଷୟରେ",
+      "subtitle": "ପୋର୍ଟଫୋଲିଓ ବିଲଡର୍ ପ୍ଲାଟଫର୍ମ |",
+      "version": "ସଂସ୍କରଣ",
+      "description": "ଡେଭୋଲିଓ ହେଉଛି ଏକ ଆଧୁନିକ ପୋର୍ଟଫୋଲିଓ ବିଲଡର୍ ପ୍ଲାଟଫର୍ମ ଯାହାକି ବିକାଶକାରୀ, ଡିଜାଇନର୍ ଏବଂ ବୃତ୍ତିଗତ ସୃଷ୍ଟିକର୍ତ୍ତାମାନଙ୍କ ପାଇଁ ପରିକଳ୍ପିତ | ",
+      "license": "ଲାଇସେନ୍ସ ଏବଂ କପିରାଇଟ୍ |",
+      "copyright": "© 2026 DevFolio Inc. ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ |",
+      "developer": "ବିକାଶକାରୀ",
+      "developedBy": "ରିଫ୍କି ନାରାଡାଟା ଦ୍ୱାରା ବିକଶିତ |"
+    },
+    "deleteAccount": {
+      "title": "ସ୍ଥାୟୀ ଭାବରେ ଖାତା ବିଲୋପ କରନ୍ତୁ |",
+      "menuItem": "ଖାତା ବିଲୋପ କରନ୍ତୁ |",
+      "successTitle": "ସଫଳତା |",
+      "successMessage": "ଏକ ଆକାଉଣ୍ଟ୍ ଡିଲିଟେସନ୍ ନିଶ୍ଚିତକରଣ ଇମେଲ୍ ପଠାଯାଇଛି |",
+      "errorTitle": "ବିଫଳ",
+      "errorMessage": "ନିଶ୍ଚିତକରଣ ଇମେଲ ପଠାଇବାରେ ବିଫଳ |",
+      "confirmationMessage": "ତୁମେ ନିଶ୍ଚିତ କି ତୁମେ ତୁମର ଆକାଉଣ୍ଟକୁ ସବୁଦିନ ପାଇଁ ଡିଲିଟ୍ କରିବାକୁ ଚାହୁଁଛ?",
+      "warningMessage1": "ଖାତା ବିଲୋପ ନିଶ୍ଚିତ କରିବାକୁ ଆପଣ ଏକ ଇମେଲ୍ ଗ୍ରହଣ କରିବେ |",
+      "warningMessage2": "ଯଦି ନିଶ୍ଚିତ ହୁଏ, ସମସ୍ତ ତଥ୍ୟ (ପୋର୍ଟଫୋଲିଓ, ପ୍ରୋଜେକ୍ଟ, ପରିସଂଖ୍ୟାନ) ସବୁଦିନ ପାଇଁ ବିଲୋପ ହୋଇଯିବ ଏବଂ ପୁନରୁଦ୍ଧାର ହୋଇପାରିବ ନାହିଁ |",
+      "cancel": "ବାତିଲ",
+      "confirm": "ନିଶ୍ଚିତକରଣ"
+    },
+    "toasts": {
+      "toastError": "ତ୍ରୁଟି |",
+      "toastSuccess": "ସଫଳତା |",
+      "toastSetup2FAFailed": "2FA ସେଟଅପ୍ କରିବାରେ ବିଫଳ | ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |",
+      "toast2FAEnabled": "ଦୁଇ-ଫ୍ୟାକ୍ଟର୍ ପ୍ରାମାଣିକିକରଣ ସକ୍ଷମ ହୋଇଛି |",
+      "toast2FADisabled": "ଦୁଇ-ଫ୍ୟାକ୍ଟର୍ ପ୍ରାମାଣିକିକରଣ ଅକ୍ଷମ ହୋଇଛି |",
+      "toastSessionEnabled": "ସକ୍ରିୟ ଅଧିବେଶନ ମନିଟରିଂ ସକ୍ଷମ ହୋଇଛି |",
+      "toastSessionDisabled": "ସକ୍ରିୟ ଅଧିବେଶନ ମନିଟରିଂ ଅକ୍ଷମ କରାଯାଇଛି |",
+      "toastSetupKeyCopied": "କ୍ଲିପବୋର୍ଡରେ ସେଟଅପ୍ କୀ କପି ହୋଇଛି |"
+    },
+    "privacy": {
+      "title": "ଗୋପନୀୟତା ନୀତି",
+      "updateDate": "ଶେଷ ଅଦ୍ୟତନ: ଜୁଲାଇ 15, 2026 |",
+      "intro": "ଏହି ଗୋପନୀୟତା ନୀତି ବ୍ୟାଖ୍ୟା କରେ ଯେ ଆମର ସେବା ବ୍ୟବହାର କରିବା ସମୟରେ DevFolio କିପରି ଆପଣଙ୍କର ବ୍ୟକ୍ତିଗତ ସୂଚନା ସଂଗ୍ରହ କରେ, ବ୍ୟବହାର କରେ ଏବଂ ସୁରକ୍ଷା କରେ |",
+      "section1Title": "ଆମେ ସଂଗ୍ରହ କରୁଥିବା ସୂଚନା",
+      "section1Content": "ଏକ ଆକାଉଣ୍ଟ୍ ସୃଷ୍ଟି କରିବା, ଏକ ପୋର୍ଟଫୋଲିଓ ନିର୍ମାଣ କରିବା ଏବଂ ଆମର ସମର୍ଥନ ସହିତ ଯୋଗାଯୋଗ କରିବାବେଳେ ଆପଣ ସିଧାସଳଖ ପ୍ରଦାନ କରୁଥିବା ସୂଚନା ଆମେ ସଂଗ୍ରହ କରୁ | ",
+      "section2Title": "2। ସୂଚନା ବ୍ୟବହାର",
+      "section2Content": "ଆମର ସୂଚନା ଆମର ସେବାଗୁଡିକର ବ features ଶିଷ୍ଟ୍ୟଗୁଡିକ ପରିଚାଳନା, ରକ୍ଷଣାବେକ୍ଷଣ ଏବଂ ପ୍ରଦାନ କରିବା ସହିତ ଆପଣଙ୍କ ଖାତା କିମ୍ବା ସେବା ସମ୍ବନ୍ଧରେ ଆପଣଙ୍କ ସହିତ ଯୋଗାଯୋଗ କରିବାକୁ ବ୍ୟବହୃତ ହୁଏ |",
+      "section3Title": "ଡାଟା ସୁରକ୍ଷା",
+      "section3Content": "ଆପଣଙ୍କ ସୂଚନାକୁ ଅନଧିକୃତ ପ୍ରବେଶ, ପ୍ରକାଶ କିମ୍ବା ବିନାଶରୁ ରକ୍ଷା କରିବା ପାଇଁ ଆମେ ଯୁକ୍ତିଯୁକ୍ତ ସୁରକ୍ଷା ବ୍ୟବସ୍ଥା କାର୍ଯ୍ୟକାରୀ କରୁ |"
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "ନିଶ୍ଚିତକରଣ ଟୋକନ୍ ମିଳିଲା ନାହିଁ |",
+    "defaultError": "ଖାତା ବିଲୋପ କରିବାରେ ବିଫଳ | ଟୋକେନ୍ ମିଆଦ ପୂର୍ଣ୍ଣ ହୋଇପାରେ |",
+    "loadingTitle": "ଖାତା ବିଲୋପ ...",
+    "loadingMessage": "ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ, ଆମେ ଆପଣଙ୍କର ଅନୁରୋଧ ପ୍ରକ୍ରିୟାକରଣ କରୁଛୁ |",
+    "successTitle": "ଖାତା ସଫଳତାର ସହିତ ବିଲୋପ ହେଲା |",
+    "successMessage": "ଆପଣଙ୍କର ସମସ୍ତ ତଥ୍ୟ ସ୍ଥାୟୀ ଭାବରେ ବିଲୋପ ହୋଇଯାଇଛି | ତୁମେ ପୁନ ir ନିର୍ଦ୍ଦେଶିତ ହେବ ...",
+    "errorTitle": "ଖାତା ବିଲୋପ କରିବାରେ ବିଫଳ |",
+    "backToHome": "ଘରକୁ ଫେରନ୍ତୁ |"
+  },
+  "forgotPassword": {
+    "minutes": "ମିନିଟ୍",
+    "seconds": "ଦ୍ୱିତୀୟ",
+    "success": "ସଫଳ ହୁଅ",
+    "otpSentToEmail": "ଆପଣଙ୍କ ଇମେଲକୁ ଏକ OTP କୋଡ୍ ପଠାଯାଇଛି |",
+    "failed": "ବିଫଳ",
+    "emailNotFound": "ଇମେଲ୍ ମିଳିଲା ନାହିଁ |",
+    "emailThirdParty": "ଏହି ଇମେଲ୍ ଏକ ତୃତୀୟ ପକ୍ଷ ମାଧ୍ୟମରେ ପଞ୍ଜିକୃତ ହୋଇଛି |",
+    "genericError": "ଏକ ତ୍ରୁଟି ଅଛି | ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |",
+    "otpVerified": "OTP କୋଡ୍ ସଫଳତାର ସହିତ ଯାଞ୍ଚ କରାଯାଇଛି |",
+    "otpExpired": "OTP କୋଡ୍ ମିଆଦ ପୂର୍ଣ୍ଣ ହୋଇଛି | ଦୟାକରି ଏକ ନୂତନ କୋଡ୍ ଅନୁରୋଧ |",
+    "otpInvalid": "ଅବ val ଧ OTP କୋଡ୍ |",
+    "otpResent": "ଆପଣଙ୍କ ଇମେଲକୁ ଏକ ନୂତନ OTP କୋଡ୍ ପଠାଯାଇଛି |",
+    "otpResendFailed": "OTP କୋଡ୍ ପଠାଇବାରେ ବିଫଳ | ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |",
+    "passwordResetSuccess": "ପାସୱାର୍ଡ ସଫଳତାର ସହିତ ପୁନ et ସେଟ୍ କରନ୍ତୁ | ଦୟାକରି ଆପଣଙ୍କର ନୂତନ ପାସୱାର୍ଡ ସହିତ ଲଗ୍ ଇନ୍ କରନ୍ତୁ |",
+    "passwordResetFailed": "ପାସୱାର୍ଡ ପୁନ res ସେଟ୍ କରିବାରେ ବିଫଳ |",
+    "backToLogin": "ଲଗଇନ୍ କୁ ଫେରନ୍ତୁ |",
+    "back": "ଫେରନ୍ତୁ",
+    "title": "ପାସୱାର୍ଡ ଭୁଲିଗଲେ |",
+    "description": "ଆପଣଙ୍କ ଆକାଉଣ୍ଟରେ ପଞ୍ଜିକୃତ ଇମେଲ ଠିକଣା ପ୍ରବେଶ କରନ୍ତୁ | ପାସୱାର୍ଡ ପୁନ res ସେଟ୍ କରିବାକୁ ଆମେ ଏକ OTP କୋଡ୍ ପଠାଇବୁ |",
+    "emailLabel": "ଇମେଲ୍ ଠିକଣା",
+    "sending": "ପଠାନ୍ତୁ ...",
+    "sendOtp": "OTP କୋଡ୍ ପଠାନ୍ତୁ |",
+    "verifyOtpTitle": "OTP କୋଡ୍ ଯାଞ୍ଚ କରନ୍ତୁ |",
+    "verifyOtpDesc": "ଆପଣଙ୍କର ପରିଚୟ ନିଶ୍ଚିତ କରିବାକୁ ଆପଣଙ୍କ ଇମେଲକୁ ପଠାଯାଇଥିବା 6 ଅଙ୍କ ବିଶିଷ୍ଟ କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ |",
+    "verifying": "ଯାଞ୍ଚ ...",
+    "verifyOtp": "OTP ଯାଞ୍ଚ |",
+    "resending": "ପଠାନ୍ତୁ ...",
+    "resendOtp": "OTP କୋଡ୍ ପଠାନ୍ତୁ |",
+    "resendCodeIn": "ଭିତର କୋଡ୍ ପଠାନ୍ତୁ |",
+    "newPasswordTitle": "ଏକ ନୂତନ ପାସୱାର୍ଡ ସୃଷ୍ଟି କରନ୍ତୁ |",
+    "newPasswordDesc": "ଆପଣଙ୍କର ଖାତା ସୁରକ୍ଷିତ କରିବାକୁ ଏକ ନୂତନ, ଦୃ strong ପାସୱାର୍ଡ ସୃଷ୍ଟି କରନ୍ତୁ |",
+    "newPasswordLabel": "ନୂତନ ପାସୱାର୍ଡ |",
+    "min8Chars": "ସର୍ବନିମ୍ନ 8 ଅକ୍ଷର |",
+    "oneUpperCase": "1 ବଡ ଅକ୍ଷର (A-Z)",
+    "oneNumber": "1 ସଂଖ୍ୟା (0-9)",
+    "oneSymbol": "1 ପ୍ରତୀକ (! @ # $% ^ & *)",
+    "confirmPasswordLabel": "ପାସୱାର୍ଡ ନିଶ୍ଚିତ କରନ୍ତୁ |",
+    "passwordsDoNotMatch": "ପାସୱାର୍ଡ ମେଳ ଖାଉ ନାହିଁ |",
+    "resettingPassword": "ପାସୱାର୍ଡ ପୁନ Res ସେଟ୍ କରୁଛି ...",
+    "resetPassword": "ପାସୱାର୍ଡ ପୁନ Res ସେଟ୍ କରନ୍ତୁ |"
+  },
+  "verifyEmail": {
+    "resendError": "ଯାଞ୍ଚ ଇମେଲ ପଠାଇବାରେ ବିଫଳ | ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |",
+    "checkingStatus": "ଯାଞ୍ଚ ସ୍ଥିତି ଯାଞ୍ଚ କରୁଛି ...",
+    "title": "ଆପଣଙ୍କର ଇମେଲ୍ ଯାଞ୍ଚ କରନ୍ତୁ |",
+    "description": "ଆମେ ଆପଣଙ୍କର ଇମେଲ୍ ଠିକଣାକୁ ଏକ ଯାଞ୍ଚ ଇମେଲ୍ ପଠାଇଛୁ | ଦୟାକରି ଇମେଲ ଖୋଲନ୍ତୁ ଏବଂ ଆପଣଙ୍କର ଖାତାକୁ ସକ୍ରିୟ କରିବାକୁ <1> \"ଖାତା ନିଶ୍ଚିତ କରନ୍ତୁ\" </1> ବଟନ୍ କ୍ଲିକ୍ କରନ୍ତୁ |",
+    "stepsTitle": "ପଦକ୍ଷେପ",
+    "step1": "ଆପଣଙ୍କର ଇମେଲ୍ ପ୍ରୟୋଗ ଖୋଲନ୍ତୁ (Gmail, Yahoo, ଇତ୍ୟାଦି)",
+    "step2": "\"ଆକାଉଣ୍ଟ୍ ଆକ୍ଟିଭେସନ୍\" ବିଷୟ ସହିତ DevFolio ରୁ ଏକ ଇମେଲ୍ ଖୋଜ |",
+    "step3": "ଇମେଲରେ \"ଖାତା ନିଶ୍ଚିତ କରନ୍ତୁ\" ବଟନ୍ କ୍ଲିକ୍ କରନ୍ତୁ |",
+    "step4": "ଲଗ୍ ଇନ୍ କରିବାକୁ ଆପଣ ଲଗଇନ୍ ପୃଷ୍ଠାକୁ ପୁନ ir ନିର୍ଦ୍ଦେଶିତ ହେବେ |",
+    "resendSuccess": "ଯାଞ୍ଚ ଇମେଲ ବିରକ୍ତ ହୋଇଛି!",
+    "resending": "ପଠାନ୍ତୁ ...",
+    "resendButton": "ଯାଞ୍ଚ ଇମେଲ ପଠାନ୍ତୁ |",
+    "backToLogin": "ଲଗଇନ୍ ପୃଷ୍ଠାକୁ ଫେରନ୍ତୁ |",
+    "footerNote": "ଇମେଲ୍ ଗ୍ରହଣ କରିନାହାଁନ୍ତି କି? ଆପଣଙ୍କ ଇମେଲରେ <1> ସ୍ପାମ୍ </ 1> କିମ୍ବା <2> ଜଙ୍କ୍ </ 2> ଫୋଲ୍ଡର୍ ଯାଞ୍ଚ କରନ୍ତୁ | ଯାଞ୍ଚ ଲିଙ୍କ <3> 24 ଘଣ୍ଟା </3> ପାଇଁ ବ valid ଧ ଅଟେ |"
+  }
+}

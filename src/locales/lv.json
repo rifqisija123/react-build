@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Funkcijas",
+    "templates": "Veidnes",
+    "pricing": "Cenu noteikšana",
+    "login": "Pieteikties",
+    "getStarted": "Sāciet darbu",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Labākais portfeļa veidotājs izstrādātājiem",
+    "title1": "Veidojiet savu profesionāli",
+    "title2": "portfolio iekšā",
+    "titleHighlight": "sekundes.",
+    "subtitle": "Viss, kas jums nepieciešams, lai parādītu savas prasmes, projektus un pieredzi. ",
+    "startBuilding": "Sāciet būvēt tūlīt",
+    "viewTemplates": "Skatīt veidnes",
+    "fastDeployment": "Ātra izvietošana",
+    "liveStatus": "username.dev ir tiešraidē!",
+    "featuresTitle": "Spēcīgas īpašības",
+    "featuresSubtitle": "Mēs nodrošinām visus nepieciešamos rīkus, lai izceltos no pūļa un iegūtu savu sapņu darbu.",
+    "feature1Title": "Vilkšanas un nomešanas veidotājs",
+    "feature1Desc": "Ērti sakārtojiet savas sadaļas, projektus un prasmes, izmantojot mūsu intuitīvo vizuālo redaktoru.",
+    "feature2Title": "Pielāgoti motīvi",
+    "feature2Desc": "Izvēlieties kādu no profesionāli izstrādātām veidnēm vai izveidojiet savu unikālo izskatu.",
+    "feature3Title": "Reāllaika analīze",
+    "feature3Desc": "Sekojiet saviem apmeklētājiem, uzziniet, kuri projekti piesaista vislielāko uzmanību un veiciet citas darbības."
+  },
+  "auth": {
+    "welcomeBack": "Laipni lūdzam atpakaļ",
+    "loginToContinue": "Lai turpinātu, piesakieties savā kontā",
+    "createAccount": "Izveidot kontu",
+    "joinCommunity": "Pievienojieties tūkstošiem citu izstrādātāju",
+    "fullName": "Pilns vārds",
+    "fullNamePlaceholder": "piem. ",
+    "email": "E-pasta adrese",
+    "emailPlaceholder": "tu@example.com",
+    "password": "Parole",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Atcerieties mani",
+    "forgotPassword": "Aizmirsāt paroli?",
+    "signIn": "Pierakstīties",
+    "signingIn": "Pierakstīšanās...",
+    "signUp": "Reģistrēties",
+    "signingUp": "Reģistrēšanās...",
+    "noAccount": "Vai jums nav konta?",
+    "hasAccount": "Vai jums jau ir konts?",
+    "passwordRules": {
+      "title": "Parolē jābūt:",
+      "length": "Vismaz 8 rakstzīmes",
+      "uppercase": "Viens lielais burts (A-Z)",
+      "number": "Viens cipars (0-9)",
+      "symbol": "Viens simbols (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfeļa veidotājs",
+      "templates": "Veidnes un motīvi",
+      "settings": "Iestatījumi",
+      "collapse": "Sakļaut sānjoslu",
+      "overview": "Pārskats",
+      "profileSettings": "Profila iestatījumi",
+      "customDomain": "Pielāgots domēns",
+      "feedback": "Atsauksmes"
+    },
+    "header": {
+      "viewLive": "Skatīt tiešraidi",
+      "welcome": "Laipni lūdzam,",
+      "logout": "Atteikties",
+      "builder": "Celtnieks",
+      "livePortfolio": "Tiešraides portfelis",
+      "live": "Tiešraidē"
+    },
+    "logoutModal": {
+      "title": "Atteikties",
+      "message": "Vai tiešām vēlaties izrakstīties no sava konta? ",
+      "cancel": "Atcelt",
+      "confirm": "Jā, iziet"
+    },
+    "slugModal": {
+      "title": "Izvēlieties sava portfeļa URL",
+      "message": "Šis URL būs unikālā saite uz jūsu portfeli. ",
+      "slugPlaceholder": "jūsu vārds",
+      "availability": "Pieejamība:",
+      "available": "Pieejams",
+      "unavailable": "Nav pieejams",
+      "checking": "Notiek pārbaude...",
+      "mustFormat": "Var saturēt tikai burtus, ciparus un domuzīmes (-)",
+      "cancel": "Atcelt",
+      "save": "Saglabāt URL",
+      "usernameUrl": "Lietotājvārda URL",
+      "helpText": "Mazie burti, cipari un domuzīmes. ",
+      "validation": {
+        "empty": "Gliemeža nedrīkst būt tukša.",
+        "min3": "Vismaz 3 rakstzīmes.",
+        "max30": "Ne vairāk kā 30 rakstzīmes.",
+        "format": "Tikai mazie burti, cipari un domuzīmes (-). "
+      }
+    },
+    "loadingPortfolio": "Notiek portfeļa datu ielāde...",
+    "overview": {
+      "greetings": {
+        "morning": "Labrīt",
+        "afternoon": "Laba pēcpusdiena",
+        "evening": "Laba pēcpusdiena",
+        "night": "Ar labu nakti"
+      },
+      "welcome": {
+        "hi": "Sveiki!",
+        "creator": "Radītājs",
+        "desc1": "Laipni lūdzam DevFolio informācijas panelī. Jūsu portfolio ir apskatījis",
+        "desc2": "persona. Turpiniet strādāt!",
+        "editPortfolio": "Rediģēt portfeli"
+      },
+      "stats": {
+        "totalVisitors": "Kopējais apmeklētāju skaits",
+        "projectViews": "Skatīts (projekts)",
+        "activeSessions": "Aktīvā sesija",
+        "totalLabel": "Kopā"
+      },
+      "setup": {
+        "title": "Iestatīšanas gaita",
+        "completed": "Jūsu portfolio ir pabeigts! 🎉",
+        "inProgress": "Soļi līdz ideālam portfolio.",
+        "profile": {
+          "title": "Pabeigt profilu",
+          "desc": "Pievienojiet vārdu, biogrāfiju un profila fotoattēlu."
+        },
+        "section": {
+          "title": "Pievienot sadaļas",
+          "desc": "Portfelī aktivizējiet vismaz 1 sadaļu."
+        },
+        "project": {
+          "title": "Pievienot projektu",
+          "desc": "Ievadiet vismaz vienu no saviem labākajiem projektiem."
+        },
+        "publish": {
+          "title": "Publicējiet portfeli",
+          "desc": "Iestatiet pielāgotu URL, lai tam varētu piekļūt publiski."
+        }
+      },
+      "topProjects": {
+        "title": "Populārākie projekti",
+        "desc": "Jūsu darba sniegums apmeklētāju acīs.",
+        "viewAll": "Skatīt visu",
+        "empty": "Jūsu projektam vēl nav skatīšanas datu."
+      }
+    },
+    "themes": {
+      "title": "Veidnes un motīvi",
+      "subtitle": "Pielāgojiet sava publiskā portfeļa izskatu un darbību.",
+      "reset": "Atiestatīt noklusējumu",
+      "save": "Saglabāt izmaiņas",
+      "saving": "Saglabā...",
+      "chooseTemplate": "Izvēlieties veidni",
+      "primaryColor": "Primārā krāsa",
+      "typography": "Tipogrāfija",
+      "appearance": "Izskats",
+      "corners": "Stūri un apmales",
+      "successTitle": "Panākumi",
+      "successMessage": "Motīvu preferences ir veiksmīgi atjauninātas",
+      "errorTitle": "Kļūda",
+      "errorMessage": "Neizdevās saglabāt motīva preferences",
+      "templates": {
+        "minimalist": {
+          "name": "Minimālistisks",
+          "desc": "Tīrs un vienkāršs dizains, koncentrējoties uz saturu."
+        },
+        "developerDark": {
+          "name": "Izstrādātājs Dark",
+          "desc": "Tumšs motīvs ir lieliski piemērots koda un tehnoloģiju kopu demonstrēšanai."
+        },
+        "creative": {
+          "name": "Radošs",
+          "desc": "Spilgts un krāsains izkārtojums dizaineriem un radošiem cilvēkiem."
+        },
+        "executive": {
+          "name": "Izpilddirektors",
+          "desc": "Profesionāls un formāls izkārtojums biznesa profesionāļiem."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Mūsdienīgs Apple stila režģa izkārtojums, kas efektīvi izceļ dažādas prasmes."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutālisms",
+          "desc": "Drosmīgas apmales un augsta kontrasta krāsas modernam, neatvainojamam izskatam."
+        },
+        "glassmorphism": {
+          "name": "Stiklamorfisms",
+          "desc": "Matēta stikla efekti pār krāsainiem gradientiem gludam, mūsdienīgam lietotāja interfeisam."
+        },
+        "linkInBio": {
+          "name": "Saite Bio",
+          "desc": "Kompakts vertikālais izkārtojums, kas optimizēts mobilo ierīču ekrāniem un sociālajiem medijiem."
+        }
+      },
+      "appearances": {
+        "light": "Gaisma",
+        "dark": "Tumšs",
+        "system": "Sistēma"
+      },
+      "cornersOptions": {
+        "sharp": "Asi",
+        "rounded": "Noapaļots",
+        "pill": "Tabletes"
+      }
+    },
+    "feedback": {
+      "title": "Sūtīt atsauksmes",
+      "subtitle": "Palīdziet mums to uzlabot, sniedzot ieteikumus, kritiku vai ziņojot par kļūdām šajā lietojumprogrammā.",
+      "categoryLabel": "Atsauksmes kategorija",
+      "messageLabel": "Ziņojuma informācija",
+      "messagePlaceholder": "Pastāstiet man sīkāk par atsauksmēm, kuras vēlaties nodot...",
+      "imageLabel": "Attēla pielikums (pēc izvēles)",
+      "imagePlaceholder": "Noklikšķiniet, lai augšupielādētu attēlu vai ekrānuzņēmumu",
+      "submitting": "Sūta...",
+      "submitBtn": "Sūtīt atsauksmes",
+      "categories": {
+        "suggestion": "Ieteikumi un idejas",
+        "bug": "Kļūdas/kļūdu ziņojums",
+        "criticism": "Kritika",
+        "other": "Citi"
+      },
+      "imageErrorTitle": "Kļūda",
+      "imageErrorMessage": "Daži faili tiek noraidīti, jo tie netiek atbalstīti attēlu formāti (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Panākumi",
+      "successMessage": "Paldies par atsauksmēm! Pārskats ir nosūtīts.",
+      "submitErrorTitle": "Neizdevās",
+      "submitErrorMessage": "Sūtot atsauksmes, radās kļūda. Lūdzu, mēģiniet vēlreiz."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Par Mani",
+      "skills": "Prasmes",
+      "projects": "Projekti",
+      "workExperience": "Darba pieredze",
+      "orgExperience": "Organizatoriskā pieredze",
+      "education": "Izglītība",
+      "certifications": "Apmācība un sertifikāti",
+      "contact": "Sazinieties ar mani"
+    },
+    "editor": {
+      "profileInfo": "Profila informācija",
+      "saving": "Notiek saglabāšana...",
+      "profilePhoto": "Profila foto",
+      "clickToUpload": "Noklikšķiniet, lai augšupielādētu (JPG, PNG)",
+      "fullName": "Pilns vārds",
+      "fullNamePlaceholder": "piem. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack izstrādātājs, kura aizraušanās ir modernu tīmekļa lietotņu izveide...",
+      "location": "Atrašanās vieta",
+      "locationPlaceholder": "piem. ",
+      "gender": "Dzimums",
+      "selectGender": "Atlasiet Dzimums",
+      "male": "Vīrietis",
+      "female": "Sieviete",
+      "custom": "Pielāgots",
+      "customPlaceholder": "Ievadiet savu pielāgoto dzimumu...",
+      "uploadCv": "Augšupielādēt CV",
+      "cvFormat": "(DOC vai PDF)",
+      "preview": "Priekšskatījums",
+      "remove": "Noņemt",
+      "clickToUploadCv": "Noklikšķiniet, lai augšupielādētu PDF vai DOC",
+      "sections": "Sadaļas",
+      "removeSelected": "Noņemt atlasītos",
+      "confirmRemove": "Apstipriniet Noņemt",
+      "addSection": "Pievienot sadaļu",
+      "addAllSections": "Pievienot visas sadaļas",
+      "noSections": "Vēl nav nevienas sadaļas",
+      "clickToAdd": "Lai sāktu, noklikšķiniet uz \"+ Pievienot sadaļu\".",
+      "selectAll": "Atlasiet visu",
+      "selected": "Atlasīts",
+      "dragToReorder": "Velciet, lai pārkārtotu sadaļas",
+      "livePreview": "Tiešraides priekšskatījums",
+      "addSectionsToBuild": "Pievienojiet sadaļas, lai izveidotu savu portfeli",
+      "now": "Tagad",
+      "current": "Pašreizējais",
+      "noExpiry": "Nav derīguma termiņa",
+      "see": "Skat",
+      "position": "Pozīcija",
+      "degree": "Grāds",
+      "certification": "Sertifikācija",
+      "sectionsForm": {
+        "about": {
+          "label": "Apraksts par sevi",
+          "placeholder": "Pastāstiet par sevi, savu izcelsmi, interesēm un prasmēm..."
+        },
+        "skills": {
+          "addPlaceholder": "Ierakstiet prasmes, pēc tam nospiediet taustiņu Enter..."
+        },
+        "projects": {
+          "title": "Projekta nosaukums",
+          "titlePlaceholder": "Projekta nosaukums...",
+          "url": "Projekta URL",
+          "description": "Apraksts",
+          "descriptionPlaceholder": "Īss projekta apraksts...",
+          "uploadThumbnail": "Projekta attēls",
+          "addProject": "Pievienot projektu",
+          "projectNum": "Projekts Nr.",
+          "currentProject": "Šis ir projekts, pie kura es strādāju"
+        },
+        "work": {
+          "company": "Uzņēmums/aģentūra",
+          "companyPlaceholder": "Uzņēmuma nosaukums...",
+          "position": "Amats/Amats",
+          "positionPlaceholder": "Tava pozīcija...",
+          "employmentType": "Darba veids",
+          "location": "Atrašanās vieta",
+          "locationPlaceholder": "Pilsēta, valsts...",
+          "startDate": "Sākt",
+          "endDate": "Pabeigts",
+          "currentWork": "Šobrīd vēl strādāju",
+          "description": "Apraksts",
+          "descriptionPlaceholder": "Darba apraksts un pienākumi...",
+          "skills": "Prasme",
+          "addExperience": "Pievienojiet darba pieredzi",
+          "experienceNum": "Pieredze #",
+          "dateError": "Beigu datums nevar būt agrāks par sākuma datumu"
+        },
+        "org": {
+          "organization": "Organizācijas nosaukums",
+          "orgPlaceholder": "BEM universitāte...",
+          "role": "Loma/Amats",
+          "rolePlaceholder": "nodaļas vadītājs...",
+          "addOrg": "Pievienojiet organizatorisko pieredzi",
+          "orgNum": "Organizācijas Nr."
+        },
+        "edu": {
+          "institution": "Izglītības iestādes",
+          "institutionPlaceholder": "Universitātes vai skolas nosaukums...",
+          "degree": "Nosaukums",
+          "degreePlaceholder": "S1, vidusskola utt...",
+          "major": "Katedra/Studiju virziens",
+          "majorPlaceholder": "Informātikas inženierija...",
+          "gpa": "GPA (pēc izvēles)",
+          "currentStudy": "Es te joprojām mācos",
+          "descriptionPlaceholder": "Aktivitātes un sasniegumi studiju laikā...",
+          "addEdu": "Pievienot izglītību",
+          "eduNum": "Izglītība #"
+        },
+        "cert": {
+          "name": "Sertifikācijas/apmācības nosaukums",
+          "namePlaceholder": "Sertifikāta nosaukums...",
+          "issuer": "Izdevējs",
+          "issuerPlaceholder": "Izdevniecības iestāde...",
+          "issueDate": "Sākums (publicēšanas datums)",
+          "issueDatePlaceholder": "Izvēlieties publicēšanas datumu...",
+          "expiryDate": "Pabeigts (derīgs periods)",
+          "expiryDatePlaceholder": "Izvēlieties derīguma termiņu...",
+          "noExpiry": "Šim sertifikātam nav derīguma termiņa",
+          "url": "Akreditācijas datu URL",
+          "uploadThumbnail": "Sertifikāts / Apmācības attēls",
+          "uploadThumbnailLimit": "Augšupielādēt sertifikāta attēlu (JPG/PNG/WEBP, ne vairāk kā 2 MB)",
+          "addCert": "Pievienojiet sertifikātu",
+          "certNum": "Sertifikācijas nr."
+        },
+        "contact": {
+          "contactNum": "Kontaktpersonas nr.",
+          "platform": "Platforma",
+          "displayText": "Parādīt tekstu",
+          "displayTextPlaceholder": "piemēram, jūs@e-pasts.com vai @lietotājvārds",
+          "url": "Saite (URL)",
+          "urlPlaceholderWhatsapp": "piemēram, 62812... (bez 0 sākuma)",
+          "urlPlaceholderEmail": "piemēram, jūs@e-pasts.com",
+          "urlPlaceholderWebsite": "piemēram, https://...",
+          "urlPlaceholderDefault": "piemēram, lietotājvārds",
+          "addContact": "Pievienot kontaktpersonu"
+        },
+        "common": {
+          "months": {
+            "1": "janvārī",
+            "2": "februāris",
+            "3": "marts",
+            "4": "aprīlis",
+            "5": "maijā",
+            "6": "jūnijā",
+            "7": "jūlijā",
+            "8": "augusts",
+            "9": "septembris",
+            "10": "oktobris",
+            "11": "novembris",
+            "12": "decembris"
+          },
+          "month": "Mēnesis",
+          "year": "gads",
+          "invalidDate": "Nederīgs beigu mēnesis",
+          "words": "vārdus"
+        }
+      },
+      "sure": "Protams",
+      "deletePhotoTitle": "Vai dzēst profila fotoattēlu?",
+      "deletePhotoMessage": "Vai tiešām vēlaties dzēst šo profila fotoattēlu?",
+      "cancel": "Atcelt",
+      "delete": "Dzēst"
+    },
+    "cropper": {
+      "chooseBackground": "Izvēlieties Fons",
+      "cropPhoto": "Apgrieziet savu fotoattēlu",
+      "useOriginal": "Izmantojiet oriģinālu",
+      "backgroundPresets": "Fona sākotnējie iestatījumi",
+      "none": "Nav",
+      "uploadBackground": "Augšupielādēt fonu",
+      "cancel": "Atcelt",
+      "savePhoto": "Saglabāt fotoattēlu",
+      "zoom": "Tālummaiņa",
+      "rotationTilt": "Rotācija un slīpums",
+      "resetRotation": "Atiestatīt uz 0°",
+      "center": "Centrs",
+      "rotateLeft": "Pagriezt -90°",
+      "rotateRight": "Pagriezt +90°",
+      "removeBackground": "Noņemt fonu",
+      "processing": "Notiek attēla apstrāde, lūdzu, uzgaidiet..."
+    },
+    "cvPreview": {
+      "title": "CV priekšskatījums",
+      "downloadCv": "Lejupielādēt CV",
+      "download": "Lejupielādēt",
+      "wordCannotPreview": "Word dokumentus (.doc/.docx) nevar priekšskatīt sākotnēji pārlūkprogrammā. ",
+      "downloadFile": "Lejupielādēt CV failu",
+      "back": "Atpakaļ",
+      "mobileMessage": "Lūdzu, lejupielādējiet CV failu, lai to priekšskatītu.",
+      "preview": "CV priekšskatījums",
+      "wordPreviewTitle": "Word dokumenta priekšskatījums",
+      "wordPreviewMessage": "Word dokumentus (.doc/.docx) nevar priekšskatīt sākotnēji pārlūkprogrammā. Lūdzu, lejupielādējiet failu, lai to skatītu."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Uzrakstiet īsu aprakstu par sevi, interesēm un karjeras mērķiem..."
+    },
+    "skills": {
+      "placeholder": "Ierakstiet prasmes nosaukumu...",
+      "add": "Pievienot",
+      "enterToAdd": "Lai pievienotu, nospiediet taustiņu Enter",
+      "noSkills": "Vēl nav pievienotas prasmes."
+    },
+    "projects": {
+      "projectName": "Projekta nosaukums",
+      "projectNamePlaceholder": "piem. ",
+      "projectUrl": "Projekta URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Ilgums",
+      "startMonth": "Sākuma mēnesis",
+      "startYear": "Sākuma gads",
+      "endMonth": "Mēneša beigas",
+      "endYear": "Beigu gads",
+      "currentlyWorking": "Pašlaik tiek strādāts pie šī",
+      "description": "Apraksts",
+      "descriptionPlaceholder": "Aprakstiet projektu, savu lomu un sasniegumus...",
+      "technologies": "Izmantotās tehnoloģijas",
+      "addProject": "Pievienot projektu",
+      "image": "Projekta attēls",
+      "removeImage": "Noņemt attēlu",
+      "uploadImage": "Noklikšķiniet, lai augšupielādētu attēlu"
+    },
+    "work": {
+      "company": "Uzņēmums/iestāde",
+      "companyPlaceholder": "Uzņēmuma nosaukums...",
+      "role": "Loma/Amats",
+      "rolePlaceholder": "Tava pozīcija...",
+      "jobType": "Darba veids",
+      "selectJobType": "Izvēlieties veidu",
+      "fullTime": "Pilna laika",
+      "partTime": "Nepilna laika",
+      "contract": "Līgums",
+      "internship": "Prakse",
+      "freelance": "Ārštata",
+      "location": "Atrašanās vieta",
+      "locationPlaceholder": "piem. ",
+      "duration": "Ilgums",
+      "currentlyWorking": "Pašlaik šeit strādā",
+      "description": "Darba apraksts",
+      "descriptionPlaceholder": "Aprakstiet savus galvenos pienākumus un sasniegumus...",
+      "skills": "Specifiskas prasmes",
+      "addExperience": "Pievienojiet pieredzi"
+    },
+    "org": {
+      "organization": "Organizācijas nosaukums",
+      "organizationPlaceholder": "Organizācijas nosaukums...",
+      "role": "Loma/Amats",
+      "rolePlaceholder": "piem. ",
+      "duration": "Ilgums",
+      "periodFormat": "vai brīvā formātā (piem., 2020–2022)",
+      "periodPlaceholder": "piem. ",
+      "currentlyActive": "Pašlaik aktīvs",
+      "description": "Darbības apraksts",
+      "descriptionPlaceholder": "Aprakstiet savas darbības vai ieguldījumu...",
+      "addExperience": "Pievienojiet pieredzi"
+    },
+    "education": {
+      "institution": "Iestādes nosaukums",
+      "institutionPlaceholder": "Skolas vai universitātes nosaukums...",
+      "degree": "Grāds/līmenis",
+      "degreePlaceholder": "piem. ",
+      "major": "Major/Studiju joma",
+      "majorPlaceholder": "piem. ",
+      "gpa": "GPA / pakāpe",
+      "gpaPlaceholder": "piem. ",
+      "duration": "Izglītības ilgums",
+      "periodFormat": "vai brīvā formātā (piem., 2018–2022)",
+      "periodPlaceholder": "piem. ",
+      "currentlyStudying": "Šobrīd te studē",
+      "description": "Darbības / Pagodinājumi",
+      "descriptionPlaceholder": "Aprakstiet akadēmiskās aktivitātes, organizācijas vai saņemtos apbalvojumus...",
+      "addEducation": "Pievienot izglītību"
+    },
+    "cert": {
+      "name": "Sertifikācijas nosaukums",
+      "namePlaceholder": "piem. ",
+      "issuer": "Izdevēja organizācija",
+      "issuerPlaceholder": "piem. ",
+      "issueDate": "Izdošanas datums",
+      "expiryDate": "Derīgs līdz",
+      "noExpiry": "Šim akreditācijas datiem nebeidzas derīguma termiņš",
+      "yearPlaceholder": "vai gads (piemēram, 2023)",
+      "credentialUrl": "Akreditācijas datu URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Saistītās prasmes",
+      "addCertification": "Pievienojiet sertifikātu",
+      "image": "Attēls/logotips",
+      "removeImage": "Noņemt attēlu",
+      "uploadImage": "Noklikšķiniet, lai augšupielādētu attēlu"
+    },
+    "common": {
+      "months": {
+        "1": "janvārī",
+        "2": "februāris",
+        "3": "marts",
+        "4": "aprīlis",
+        "5": "maijā",
+        "6": "jūnijā",
+        "7": "jūlijā",
+        "8": "augusts",
+        "9": "septembris",
+        "10": "oktobris",
+        "11": "novembris",
+        "12": "decembris"
+      },
+      "month": "Mēnesis",
+      "year": "gads",
+      "invalidDate": "Nederīgs beigu mēnesis",
+      "words": "vārdus"
+    }
+  },
+  "settings": {
+    "title": "Iestatījumi",
+    "subtitle": "Pārvaldiet savu portfeļa profilu un preferences",
+    "tabs": {
+      "profile": "Mans profils",
+      "security": "Drošība",
+      "personalization": "Personalizēšana"
+    },
+    "profile": {
+      "infoTitle": "Pamatinformācija",
+      "photo": "Profila foto",
+      "uploadPhoto": "Mainīt fotoattēlu",
+      "fullName": "Pilns vārds",
+      "fullNamePlaceholder": "Džons Dū",
+      "email": "E-pasta adrese",
+      "emailPlaceholder": "janis@example.com",
+      "emailHelp": "E-pasts tiek izmantots pieteikšanās nolūkā un netiek rādīts publiski.",
+      "portfolioUrl": "Portfeļa URL",
+      "saveProfile": "Saglabāt profilu",
+      "save": "Saglabāt profilu",
+      "accountCreated": "Konts izveidots",
+      "lastLogin": "Pēdējā pieteikšanās",
+      "oauthNotice": "Šis profils ir saistīts ar jūsu {{provider}} kontu. Profila izmaiņas jāveic ar pakalpojumu sniedzēja starpniecību."
+    },
+    "security": {
+      "changePassword": "Mainīt paroli",
+      "currentPassword": "Pašreizējā parole",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Jauna parole",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Apstipriniet jauno paroli",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Vismaz 8 rakstzīmes",
+        "uppercase": "Viens lielais burts (A-Z)",
+        "number": "Viens cipars (0-9)",
+        "symbol": "Viens simbols (!@#$%^&*)"
+      },
+      "passwordTitle": "Parole",
+      "updatePassword": "Atjaunināt paroli",
+      "additionalSecurity": "Papildu drošība",
+      "twoFactor": "Divu faktoru autentifikācija (2FA)",
+      "twoFactorDesc": "Aizsargājiet savu kontu, izmantojot papildu OTP kodu.",
+      "activeSessions": "Aktīvās sesijas",
+      "activeSessionsDesc": "Vienmēr atļaujiet pārraudzīt pieteikušās ierīces.",
+      "publicVisibility": "Publiskā redzamība",
+      "hideFromSearch": "Paslēpt portfeli no meklētājprogrammām",
+      "hideFromSearchDesc": "Neļaujiet Google indeksēt jūsu publisko portfeļa lapu.",
+      "disable2fa": {
+        "title": "Atspējot 2FA",
+        "description": "Vai tiešām vēlaties izslēgt divu faktoru autentifikāciju?",
+        "confirmPasswordLabel": "Ievadiet savu paroli, lai apstiprinātu",
+        "currentPasswordPlaceholder": "Pašreizējā parole",
+        "cancelButton": "Atcelt",
+        "confirmButton": "Atspējot 2FA",
+        "incorrectPassword": "Nepareiza parole."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skenējiet QR kodu",
+        "step1Desc": "Atveriet savu autentifikācijas lietotni un skenējiet šādu QR kodu:",
+        "unableToScan": "Vai nevarat skenēt? Izmantojiet iestatīšanas taustiņu",
+        "step2Title": "2. Pārbaudiet kodu",
+        "step2Desc": "Ievadiet lietotnes ģenerēto 6 ciparu kodu:",
+        "cancelButton": "Atcelt",
+        "enableButton": "Iespējot 2FA",
+        "invalidLength": "Lūdzu, ievadiet 6 ciparu kodu.",
+        "invalidCode": "Nederīgs verifikācijas kods. Lūdzu, mēģiniet vēlreiz."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Valodas vadīklas",
+      "appLanguage": "Lietotnes valoda",
+      "layoutTitle": "Izkārtojums un tipogrāfija",
+      "layoutStyle": "Izkārtojuma stils",
+      "layoutModern": "Mūsdienīgs stils (noklusējums)",
+      "layoutClassic": "Klasisks stils",
+      "layoutMinimalist": "Minimālisma stils",
+      "fontSize": "Lietotnes fonta lielums",
+      "fontSmall": "Mazs",
+      "fontNormal": "Normāls (vidējs)",
+      "fontLarge": "Liels",
+      "searchLanguage": "Meklēt valodu...",
+      "languageNotFound": "Valoda nav atrasta",
+      "layoutElegant": "Elegants stils"
+    },
+    "saveChanges": "Saglabāt izmaiņas",
+    "cancel": "Atcelt",
+    "appSettings": "Lietotņu iestatījumi",
+    "logoutConfirmTitle": "Apstipriniet atteikšanos",
+    "logoutConfirmDesc": "Vai tiešām vēlaties izrakstīties no sistēmas?",
+    "logoutConfirmYes": "Jā, iziet",
+    "generalError": "Radās kļūda. ",
+    "success": "Panākumi",
+    "preferencesSaved": "Lietotņu preferences ir veiksmīgi saglabātas.",
+    "header": "Lietojumprogrammu iestatījumi",
+    "logout": {
+      "title": "Atteikšanās apstiprinājums",
+      "message": "Vai tiešām vēlaties izrakstīties no sistēmas?",
+      "confirm": "Jā, iziet"
+    },
+    "about": {
+      "title": "Par pieteikumu",
+      "subtitle": "Portfeļa veidotāju platforma",
+      "version": "Versija",
+      "description": "DevFolio ir moderna portfeļu veidotāju platforma, kas paredzēta izstrādātājiem, dizaineriem un profesionāliem veidotājiem. ",
+      "license": "Licence un autortiesības",
+      "copyright": "© 2026 DevFolio Inc. Visas tiesības aizsargātas.",
+      "developer": "Izstrādātājs",
+      "developedBy": "Izstrādāja Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Neatgriezeniski dzēst kontu",
+      "menuItem": "Dzēst kontu",
+      "successTitle": "Panākumi",
+      "successMessage": "Konta dzēšanas apstiprinājuma e-pasta ziņojums ir nosūtīts.",
+      "errorTitle": "Neizdevās",
+      "errorMessage": "Neizdevās nosūtīt apstiprinājuma e-pastu.",
+      "confirmationMessage": "Vai tiešām vēlaties neatgriezeniski dzēst savu kontu?",
+      "warningMessage1": "Jūs saņemsit e-pastu, lai apstiprinātu konta dzēšanu.",
+      "warningMessage2": "Apstiprināšanas gadījumā visi dati (portfelis, projekti, statistika) tiks neatgriezeniski dzēsti un tos nevarēs atgūt.",
+      "cancel": "Atcelt",
+      "confirm": "Apstiprinājums"
+    },
+    "toasts": {
+      "toastError": "Kļūda",
+      "toastSuccess": "Panākumi",
+      "toastSetup2FAFailed": "Neizdevās iestatīt 2FA. Lūdzu, mēģiniet vēlreiz.",
+      "toast2FAEnabled": "Ir iespējota divu faktoru autentifikācija.",
+      "toast2FADisabled": "Divu faktoru autentifikācija ir atspējota.",
+      "toastSessionEnabled": "Ir iespējota aktīvā sesijas uzraudzība.",
+      "toastSessionDisabled": "Aktīvā sesijas uzraudzība ir atspējota.",
+      "toastSetupKeyCopied": "Iestatīšanas atslēga ir kopēta starpliktuvē."
+    },
+    "privacy": {
+      "title": "Privātuma politika",
+      "updateDate": "Pēdējo reizi atjaunināts: 2026. gada 15. jūlijā",
+      "intro": "Šajā konfidencialitātes politikā ir paskaidrots, kā DevFolio apkopo, izmanto un aizsargā jūsu personisko informāciju, kad izmantojat mūsu pakalpojumus.",
+      "section1Title": "1. Informācija, ko mēs apkopojam",
+      "section1Content": "Mēs apkopojam informāciju, ko sniedzat tieši, veidojot kontu, veidojot portfeli un sazinoties ar mūsu atbalsta dienestu. ",
+      "section2Title": "2. Informācijas izmantošana",
+      "section2Content": "Jūsu informācija tiek izmantota, lai darbinātu, uzturētu un nodrošinātu mūsu pakalpojumu funkcijas, kā arī sazinātos ar jums saistībā ar jūsu kontu vai pakalpojumiem.",
+      "section3Title": "3. Datu drošība",
+      "section3Content": "Mēs īstenojam saprātīgus drošības pasākumus, lai aizsargātu jūsu informāciju no nesankcionētas piekļuves, izpaušanas vai iznīcināšanas."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Apstiprinājuma marķieris nav atrasts.",
+    "defaultError": "Neizdevās izdzēst kontu. Iespējams, marķiera derīguma termiņš ir beidzies.",
+    "loadingTitle": "Notiek konta dzēšana...",
+    "loadingMessage": "Lūdzu, uzgaidiet, mēs apstrādājam jūsu pieprasījumu.",
+    "successTitle": "Konts veiksmīgi izdzēsts",
+    "successMessage": "Visi jūsu dati ir neatgriezeniski izdzēsti. Jūs tiksiet novirzīts...",
+    "errorTitle": "Neizdevās izdzēst kontu",
+    "backToHome": "Atgriezties uz sākumlapu"
+  },
+  "forgotPassword": {
+    "minutes": "minūtes",
+    "seconds": "sekundes",
+    "success": "Panākumi",
+    "otpSentToEmail": "Uz jūsu e-pastu ir nosūtīts OTP kods.",
+    "failed": "Neizdevās",
+    "emailNotFound": "E-pasts nav atrasts.",
+    "emailThirdParty": "Šis e-pasts ir reģistrēts ar trešās puses starpniecību.",
+    "genericError": "Ir radusies kļūda. Lūdzu, mēģiniet vēlreiz.",
+    "otpVerified": "OTP kods ir veiksmīgi pārbaudīts.",
+    "otpExpired": "OTP koda derīguma termiņš ir beidzies. Lūdzu, pieprasiet jaunu kodu.",
+    "otpInvalid": "Nederīgs OTP kods.",
+    "otpResent": "Uz jūsu e-pastu ir nosūtīts jauns OTP kods.",
+    "otpResendFailed": "Neizdevās atkārtoti nosūtīt OTP kodu. Lūdzu, mēģiniet vēlreiz.",
+    "passwordResetSuccess": "Parole ir veiksmīgi atiestatīta. Lūdzu, piesakieties ar savu jauno paroli.",
+    "passwordResetFailed": "Neizdevās atiestatīt paroli.",
+    "backToLogin": "Atgriezties uz pieteikšanos",
+    "back": "Atpakaļ",
+    "title": "Aizmirsu paroli",
+    "description": "Ievadiet savā kontā reģistrēto e-pasta adresi. Mēs nosūtīsim OTP kodu, lai atiestatītu paroli.",
+    "emailLabel": "E-pasta adrese",
+    "sending": "Sūta...",
+    "sendOtp": "Nosūtīt OTP kodu",
+    "verifyOtpTitle": "Pārbaudiet OTP kodu",
+    "verifyOtpDesc": "Ievadiet 6 ciparu kodu, kas tika nosūtīts uz jūsu e-pastu, lai apstiprinātu savu identitāti.",
+    "verifying": "Pārbauda...",
+    "verifyOtp": "Verificēt OTP",
+    "resending": "Notiek atkārtota sūtīšana...",
+    "resendOtp": "Atkārtoti nosūtīt OTP kodu",
+    "resendCodeIn": "Atkārtoti nosūtiet kodu",
+    "newPasswordTitle": "Izveidojiet jaunu paroli",
+    "newPasswordDesc": "Izveidojiet jaunu, spēcīgu paroli, lai aizsargātu savu kontu.",
+    "newPasswordLabel": "Jauna parole",
+    "min8Chars": "Vismaz 8 rakstzīmes",
+    "oneUpperCase": "1 lielais burts (A–Z)",
+    "oneNumber": "1 cipars (0-9)",
+    "oneSymbol": "1 simbols (!@#$%^&*)",
+    "confirmPasswordLabel": "Apstiprināt paroli",
+    "passwordsDoNotMatch": "Paroles nesakrīt.",
+    "resettingPassword": "Paroles atiestatīšana...",
+    "resetPassword": "Atiestatīt paroli"
+  },
+  "verifyEmail": {
+    "resendError": "Neizdevās atkārtoti nosūtīt verifikācijas e-pastu. Lūdzu, mēģiniet vēlreiz.",
+    "checkingStatus": "Notiek verifikācijas statusa pārbaude...",
+    "title": "Pārbaudiet savu e-pastu",
+    "description": "Mēs nosūtījām verifikācijas e-pastu uz jūsu e-pasta adresi. Lūdzu, atveriet e-pastu un noklikšķiniet uz pogas <1>Apstiprināt kontu</1>, lai aktivizētu savu kontu.",
+    "stepsTitle": "Soļi",
+    "step1": "Atveriet savu e-pasta lietojumprogrammu (Gmail, Yahoo utt.)",
+    "step2": "Meklējiet e-pasta ziņojumu no DevFolio ar tēmu \"Konta aktivizēšana\"",
+    "step3": "Noklikšķiniet uz pogas \"Apstiprināt kontu\" e-pastā",
+    "step4": "Jūs tiksit novirzīts uz pieteikšanās lapu, lai ievadītu",
+    "resendSuccess": "Verifikācijas e-pasts ir nosūtīts atkārtoti!",
+    "resending": "Notiek atkārtota sūtīšana...",
+    "resendButton": "Atkārtoti nosūtīt verifikācijas e-pastu",
+    "backToLogin": "Atgriezties uz pieteikšanās lapu",
+    "footerNote": "Vai nesaņēmāt e-pastu? Pārbaudiet savā e-pasta mapi <1>Surogātpasts</1> vai <2>Nevēlamie</2>. Verifikācijas saite ir derīga <3>24 stundas</3>."
+  }
+}

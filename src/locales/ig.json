@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Atụmatụ",
+    "templates": "Ụdị",
+    "pricing": "Ịnye ọnụ ahịa",
+    "login": "Banye",
+    "getStarted": "Malite",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ihe nrụpụta Pọtụfoliyo kacha mma maka ndị mmepe",
+    "title1": "Wulite ọkachamara gị",
+    "title2": "Pọtụfoliyo na",
+    "titleHighlight": "sekọnd.",
+    "subtitle": "Ihe niile ịchọrọ iji gosipụta nka, ọrụ na ahụmịhe gị. ",
+    "startBuilding": "Bido iwulite ugbu a",
+    "viewTemplates": "Lelee ndebiri",
+    "fastDeployment": "Ntinye ngwa ngwa",
+    "liveStatus": "username.dev dị ndụ!",
+    "featuresTitle": "Akụkụ dị ike",
+    "featuresSubtitle": "Anyị na-enye ngwaọrụ niile ịchọrọ ka ị pụọ na igwe mmadụ wee banye ọrụ nrọ gị.",
+    "feature1Title": "Dọrọ & Wetuo Ihe Nrụpụta",
+    "feature1Desc": "Jiri ngwa ngwa hazie ngalaba gị, oru ngo na nka gị site na iji onye ndezi anya anyị nwere nghọta.",
+    "feature2Title": "Gburugburu Omenala",
+    "feature2Desc": "Họrọ site na ndebiri ahaziri nke ọma ma ọ bụ mepụta ọdịdị pụrụ iche nke gị.",
+    "feature3Title": "Ntụle oge dị adị",
+    "feature3Desc": "Sochie ndị ọbịa gị, hụ ọrụ ndị kacha enweta nlebara anya, yana ndị ọzọ."
+  },
+  "auth": {
+    "welcomeBack": "Nnọọ",
+    "loginToContinue": "Banye na akaụntụ gị ka ịga n'ihu",
+    "createAccount": "Mebe akaụntụ",
+    "joinCommunity": "Soro puku kwuru puku ndị nrụpụta ndị ọzọ",
+    "fullName": "Aha n'uju",
+    "fullNamePlaceholder": "eg ",
+    "email": "Adreesị ozi ịntanetị",
+    "emailPlaceholder": "ị@example.com",
+    "password": "Okwuntughe",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Cheta m",
+    "forgotPassword": "Chefuru okwuntughe?",
+    "signIn": "Banye",
+    "signingIn": "Ịbanye...",
+    "signUp": "Debanye aha",
+    "signingUp": "Ịbanye...",
+    "noAccount": "Ịnweghị akaụntụ?",
+    "hasAccount": "Ị nwere akaụntụ?",
+    "passwordRules": {
+      "title": "Okwuntughe ga-enwerịrị:",
+      "length": "Opekata mpe mkpụrụedemede 8",
+      "uppercase": "Otu mkpụrụedemede ukwu (A-Z)",
+      "number": "Otu nọmba (0-9)",
+      "symbol": "Otu akara (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Onye nrụpụta Pọtụfoliyo",
+      "templates": "Ụdị & Gburugburu",
+      "settings": "Ntọala",
+      "collapse": "Kwatuo Ogwe akụkụ",
+      "overview": "Nchịkọta",
+      "profileSettings": "Ntọala profaịlụ",
+      "customDomain": "Ngalaba omenala",
+      "feedback": "Nzaghachi"
+    },
+    "header": {
+      "viewLive": "Lelee Live",
+      "welcome": "Nnọọ,",
+      "logout": "Wepụ",
+      "builder": "Onye nrụpụta",
+      "livePortfolio": "Pọtụfoliyo dị ndụ",
+      "live": "Dị ndụ"
+    },
+    "logoutModal": {
+      "title": "Wepụ",
+      "message": "Ị ji n'aka na ịchọrọ ịpụ na akaụntụ gị? ",
+      "cancel": "Kagbuo",
+      "confirm": "Ee, pụọ"
+    },
+    "slugModal": {
+      "title": "Họrọ URL Pọtụfoliyo gị",
+      "message": "URL a ga-abụ njikọ pụrụ iche na Pọtụfoliyo gị. ",
+      "slugPlaceholder": "aha gị",
+      "availability": "Nnweta:",
+      "available": "Dị",
+      "unavailable": "Ọ dịghị",
+      "checking": "Na-enyocha...",
+      "mustFormat": "Enwere ike ịnwe naanị mkpụrụedemede, ọnụọgụ na akara akara (-)",
+      "cancel": "Kagbuo",
+      "save": "Chekwa URL",
+      "usernameUrl": "Aha njirimara URL",
+      "helpText": "mkpụrụedemede obere mkpụrụedemede, ọnụọgụ na akara akara. ",
+      "validation": {
+        "empty": "Slug enweghị ike ịbụ ihe efu.",
+        "min3": "mkpụrụedemede 3 kacha nta.",
+        "max30": "mkpụrụedemede 30 kacha.",
+        "format": "Naanị mkpụrụedemede obere, ọnụọgụ na akara akara (-). "
+      }
+    },
+    "loadingPortfolio": "Na-ebunye data pọtụfoliyo...",
+    "overview": {
+      "greetings": {
+        "morning": "Ụtụtụ ọma",
+        "afternoon": "Ututu oma",
+        "evening": "Ututu oma",
+        "night": "Abalị ọma"
+      },
+      "welcome": {
+        "hi": "Ndewo,",
+        "creator": "Onye Okike",
+        "desc1": "Nnọọ na dashboard DevFolio. A na-elele Pọtụfoliyo gị anya",
+        "desc2": "onye. Nọgide na-arụ ọrụ!",
+        "editPortfolio": "Dezie Pọtụfoliyo"
+      },
+      "stats": {
+        "totalVisitors": "Mgbakọta ndị ọbịa",
+        "projectViews": "Elere (Project)",
+        "activeSessions": "Oge na-arụ ọrụ",
+        "totalLabel": "Mkpokọta"
+      },
+      "setup": {
+        "title": "Nhazi ọganihu",
+        "completed": "Pọtụfoliyo gị ezuola! 🎉",
+        "inProgress": "Nzọụkwụ na Pọtụfoliyo zuru oke.",
+        "profile": {
+          "title": "Profaịlụ zuru oke",
+          "desc": "Tinye aha, bio na foto profaịlụ."
+        },
+        "section": {
+          "title": "Tinye akụkụ",
+          "desc": "Mee ọ dịkarịa ala 1 ngalaba na Pọtụfoliyo."
+        },
+        "project": {
+          "title": "Tinye Project",
+          "desc": "Tinye opekata mpe otu ọrụ gị kacha mma."
+        },
+        "publish": {
+          "title": "Bipụta Pọtụfoliyo",
+          "desc": "Tọọ URL omenala ka ọha mmadụ wee nweta ya."
+        }
+      },
+      "topProjects": {
+        "title": "Ọrụ kacha ewu ewu",
+        "desc": "Ịrụ ọrụ gị n'anya ndị ọbịa.",
+        "viewAll": "Hụ All",
+        "empty": "Enweghị data nlele maka ọrụ gị."
+      }
+    },
+    "themes": {
+      "title": "Ụdị & Gburugburu",
+      "subtitle": "Hazie ọdịdị na mmetụta nke Pọtụfoliyo ọha gị.",
+      "reset": "Tọgharia ndabara",
+      "save": "Chekwaa mgbanwe",
+      "saving": "Na-echekwa...",
+      "chooseTemplate": "Họrọ Template",
+      "primaryColor": "Agba nke isi",
+      "typography": "Ederede",
+      "appearance": "Ọdịdị",
+      "corners": "Nkuku & Oke",
+      "successTitle": "Ihe ịga nke ọma",
+      "successMessage": "Emelitere mmasị isiokwu nke ọma",
+      "errorTitle": "Njehie",
+      "errorMessage": "Echekwaghị mmasị isiokwu",
+      "templates": {
+        "minimalist": {
+          "name": "Obere obere",
+          "desc": "Nhazi dị ọcha ma dị mfe na-elekwasị anya na ọdịnaya."
+        },
+        "developerDark": {
+          "name": "Onye Mmepụta Ọchịchịrị",
+          "desc": "Isiokwu gbara ọchịchịrị zuru oke maka igosipụta koodu na ngwugwu teknụzụ."
+        },
+        "creative": {
+          "name": "Kere ihe",
+          "desc": "Nhazi mara mma na nke mara mma maka ndị na-emepụta ihe na ndị na-emepụta ihe."
+        },
+        "executive": {
+          "name": "Onye isi oche",
+          "desc": "Ọkachamara na nhazi nhazi maka ndị ọkachamara azụmahịa."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Nhazi grid ụdị Apple ọgbara ọhụrụ nke na-egosipụta nka dị iche iche nke ọma."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Oke siri ike na agba dị iche iche maka ọdịdị na-ewu ewu, enweghị ngọpụ."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Mmetụta enyo oyi kpọnwụrụ n'elu gradients mara mma maka UI ọgbara ọhụrụ mara mma."
+        },
+        "linkInBio": {
+          "name": "Njikọ na Bio",
+          "desc": "Nhazi kwụ ọtọ kọmpat emebere maka ihuenyo mkpanaka na mgbasa ozi ọha."
+        }
+      },
+      "appearances": {
+        "light": "Ìhè",
+        "dark": "Ọchịchịrị",
+        "system": "Sistemu"
+      },
+      "cornersOptions": {
+        "sharp": "Nkọ",
+        "rounded": "Gburugburu",
+        "pill": "Ọgwụ"
+      }
+    },
+    "feedback": {
+      "title": "Zipu nzaghachi",
+      "subtitle": "Nyere anyị aka ime ka ọ ka mma site n'inye ntụnye, nkatọ, ma ọ bụ mkpesa ahụhụ na ngwa a.",
+      "categoryLabel": "Otu nzaghachi",
+      "messageLabel": "Nkọwa ozi",
+      "messagePlaceholder": "Gwa m nke ọma gbasara nzaghachi ị chọrọ ibuga...",
+      "imageLabel": "Mgbakwunye onyonyo (Nhọrọ)",
+      "imagePlaceholder": "Pịa ka ibugo onyonyo ma ọ bụ nseta ihuenyo",
+      "submitting": "Na-eziga...",
+      "submitBtn": "Zipu nzaghachi",
+      "categories": {
+        "suggestion": "Aro & Echiche",
+        "bug": "Akụkọ ahụhụ / mperi",
+        "criticism": "Nkatọ",
+        "other": "Ndị ọzọ"
+      },
+      "imageErrorTitle": "Mperi",
+      "imageErrorMessage": "Ajuju faịlụ ụfọdụ n'ihi na anaghị akwado ụdị onyonyo (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Ihe ịga nke ọma",
+      "successMessage": "Daalụ maka nzaghachi gị! ezipula mkpesa.",
+      "submitErrorTitle": "Ọ dara",
+      "submitErrorMessage": "Enwere mperi mgbe ị na-eziga nzaghachi. Biko nwaa ọzọ."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Gbasara m",
+      "skills": "Nkà",
+      "projects": "Ihe oru ngo",
+      "workExperience": "Ahụmịhe ọrụ",
+      "orgExperience": "Ahụmahụ nhazi",
+      "education": "Agụmakwụkwọ",
+      "certifications": "Ọzụzụ & Asambodo",
+      "contact": "Kpọtụrụ m"
+    },
+    "editor": {
+      "profileInfo": "Ozi profaịlụ",
+      "saving": "Na-echekwa...",
+      "profilePhoto": "Foto profaịlụ",
+      "clickToUpload": "Pịa ka bulite (JPG, PNG)",
+      "fullName": "Aha n'uju",
+      "fullNamePlaceholder": "eg ",
+      "bio": "Bio",
+      "bioPlaceholder": "Onye nrụpụta Fullstack nwere mmasị maka iwulite ngwa weebụ ọgbara ọhụrụ...",
+      "location": "Ebe",
+      "locationPlaceholder": "eg ",
+      "gender": "okike",
+      "selectGender": "Họrọ okike",
+      "male": "Nwoke",
+      "female": "Nwanyị",
+      "custom": "Omenala",
+      "customPlaceholder": "Pịnye okike omenala gị...",
+      "uploadCv": "Bulite CV",
+      "cvFormat": "(DOC ma ọ bụ PDF)",
+      "preview": "Nhụchalụ",
+      "remove": "Wepu",
+      "clickToUploadCv": "Pịa ka bulite PDF ma ọ bụ DOC",
+      "sections": "Akụkụ",
+      "removeSelected": "Wepu ahọpụtara",
+      "confirmRemove": "Kwenye na mwepụ",
+      "addSection": "Tinye ngalaba",
+      "addAllSections": "Tinye akụkụ niile",
+      "noSections": "Enweghị ngalaba",
+      "clickToAdd": "Pịa \"+ Tinye ngalaba\" ka ịmalite",
+      "selectAll": "Họrọ Ha niile",
+      "selected": "ahọpụtara",
+      "dragToReorder": "Dọrọ ka ịhazigharịa ngalaba",
+      "livePreview": "Nhụchalụ dị ndụ",
+      "addSectionsToBuild": "Tinye akụkụ iji wuo Pọtụfoliyo gị",
+      "now": "Ugbu a",
+      "current": "Ugbu a",
+      "noExpiry": "Enweghị ngafe",
+      "see": "Lee",
+      "position": "Ọnọdụ",
+      "degree": "ogo",
+      "certification": "Asambodo",
+      "sectionsForm": {
+        "about": {
+          "label": "Nkọwa nke onwe gị",
+          "placeholder": "Gwa anyị gbasara onwe gị, nzụlite gị, mmasị na nka..."
+        },
+        "skills": {
+          "addPlaceholder": "Pịnye nka wee pịa Tinye..."
+        },
+        "projects": {
+          "title": "Aha oru ngo",
+          "titlePlaceholder": "Aha oru...",
+          "url": "URL oru ngo",
+          "description": "Nkọwa",
+          "descriptionPlaceholder": "Nkọwa nkenke maka ọrụ ahụ...",
+          "uploadThumbnail": "Onyonyo oru ngo",
+          "addProject": "Tinye Project",
+          "projectNum": "oru ngo #",
+          "currentProject": "Nke a bụ ọrụ m na-arụ"
+        },
+        "work": {
+          "company": "Ụlọ ọrụ/Ụlọ ọrụ",
+          "companyPlaceholder": "Aha Ụlọ Ọrụ...",
+          "position": "Ọkwa/ Aha",
+          "positionPlaceholder": "Ọnọdụ gị...",
+          "employmentType": "Ụdị ọrụ",
+          "location": "Ebe",
+          "locationPlaceholder": "Obodo, Obodo...",
+          "startDate": "Malite",
+          "endDate": "Emechaala",
+          "currentWork": "M ka na-arụ ọrụ ugbu a",
+          "description": "Nkọwa",
+          "descriptionPlaceholder": "Nkọwa ọrụ na ibu ọrụ...",
+          "skills": "Nkà",
+          "addExperience": "Tinye Ahụmahụ Ọrụ",
+          "experienceNum": "Ahụmahụ #",
+          "dateError": "Ụbọchị njedebe enweghị ike ibu ụzọ karịa ụbọchị mmalite"
+        },
+        "org": {
+          "organization": "Aha nhazi",
+          "orgPlaceholder": "Mahadum BEM...",
+          "role": "Ọrụ/Ọnọdụ",
+          "rolePlaceholder": "Onye isi ngalaba...",
+          "addOrg": "Tinye Ahụmahụ nhazi",
+          "orgNum": "nhazi #"
+        },
+        "edu": {
+          "institution": "Ụlọ akwụkwọ agụmakwụkwọ",
+          "institutionPlaceholder": "Aha ụlọ akwụkwọ ma ọ bụ ụlọ akwụkwọ...",
+          "degree": "Aha",
+          "degreePlaceholder": "S1, ụlọ akwụkwọ sekọndrị, wdg..",
+          "major": "Ngalaba/Akwa Ọmụmụ",
+          "majorPlaceholder": "Injinia informatics...",
+          "gpa": "GPA (nhọrọ)",
+          "currentStudy": "M ka na-amụ ebe a",
+          "descriptionPlaceholder": "Ihe omume na ihe a rụpụtara n'oge ọmụmụ ihe...",
+          "addEdu": "Tinye agụmakwụkwọ",
+          "eduNum": "Agụmakwụkwọ #"
+        },
+        "cert": {
+          "name": "Aha Asambodo/Ọzụzụ",
+          "namePlaceholder": "Aha asambodo...",
+          "issuer": "Onye mbipụta",
+          "issuerPlaceholder": "Ụlọ ọrụ na-ebi akwụkwọ...",
+          "issueDate": "Mmalite (Ụbọchị ebipụtara)",
+          "issueDatePlaceholder": "Họrọ ụbọchị mbipụta...",
+          "expiryDate": "Emechara (Oge Kwesịrị Ekwesị)",
+          "expiryDatePlaceholder": "Họrọ ụbọchị njedebe...",
+          "noExpiry": "Asambodo a enweghị ụbọchị ngafe",
+          "url": "URL nzere",
+          "uploadThumbnail": "Foto Asambodo / Ọzụzụ",
+          "uploadThumbnailLimit": "Bulite onyonyo asambodo (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Tinye asambodo",
+          "certNum": "Asambodo #"
+        },
+        "contact": {
+          "contactNum": "Kpọtụrụ #",
+          "platform": "Platform",
+          "displayText": "Gosipụta Ederede",
+          "displayTextPlaceholder": "ọmụmaatụ, you@email.com ma ọ bụ @username",
+          "url": "Njikọ (URL)",
+          "urlPlaceholderWhatsapp": "ọmụmaatụ, 62812... (na-edughị 0)",
+          "urlPlaceholderEmail": "ọmụmaatụ, you@email.com",
+          "urlPlaceholderWebsite": "ọmụmaatụ, https://...",
+          "urlPlaceholderDefault": "ọmụmaatụ, aha njirimara",
+          "addContact": "Tinye kọntaktị"
+        },
+        "common": {
+          "months": {
+            "1": "Jenụwarị",
+            "2": "Febụwarị",
+            "3": "Maachị",
+            "4": "Eprel",
+            "5": "Mee",
+            "6": "June",
+            "7": "Julaị",
+            "8": "Ọgọst",
+            "9": "Septemba",
+            "10": "October",
+            "11": "Nọvemba",
+            "12": "Disemba"
+          },
+          "month": "Ọnwa",
+          "year": "Afọ",
+          "invalidDate": "Ọnwa ngwụcha na ezighi ezi",
+          "words": "okwu"
+        }
+      },
+      "sure": "O doro anya",
+      "deletePhotoTitle": "Hichapụ Foto profaịlụ?",
+      "deletePhotoMessage": "Ị ji n'aka na ịchọrọ ihichapụ foto profaịlụ a?",
+      "cancel": "Kagbuo",
+      "delete": "Hichapụ"
+    },
+    "cropper": {
+      "chooseBackground": "Họrọ ndabere",
+      "cropPhoto": "Kpochapụ foto gị",
+      "useOriginal": "Jiri nke mbụ",
+      "backgroundPresets": "Ntọala ndabere",
+      "none": "Ọ dịghị",
+      "uploadBackground": "Bulite ndabere",
+      "cancel": "Kagbuo",
+      "savePhoto": "Chekwa foto",
+      "zoom": "Bugharịa",
+      "rotationTilt": "Ntụgharị & Tit",
+      "resetRotation": "Tọgharịa ka ọ bụrụ 0°",
+      "center": "Ebe etiti",
+      "rotateLeft": "Tụgharịa -90°",
+      "rotateRight": "Tụgharịa +90°",
+      "removeBackground": "Wepu ndabere",
+      "processing": "Na-ahazi onyonyo gị, biko chere..."
+    },
+    "cvPreview": {
+      "title": "Nlele CV",
+      "downloadCv": "Budata CV",
+      "download": "Budata",
+      "wordCannotPreview": "Enweghị ike ịhụchalụ dọkụmentị okwu (.doc/.docx) n'ihe nchọgharị ahụ. ",
+      "downloadFile": "Budata faịlụ CV",
+      "back": "Azu",
+      "mobileMessage": "Biko budata faịlụ CV ka ịhụchalụ ya.",
+      "preview": "Lelee CV",
+      "wordPreviewTitle": "Nhụchalụ Akwụkwọ Okwu",
+      "wordPreviewMessage": "Enweghị ike ịhụchalụ dọkụmentị okwu (.doc/.docx) n'ihe nchọgharị ahụ. Biko budata faịlụ a ka ilele ya."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Dee nkọwa nkenke gbasara onwe gị, mmasị na ebumnuche ọrụ..."
+    },
+    "skills": {
+      "placeholder": "Ụdị aha nka...",
+      "add": "Tinye",
+      "enterToAdd": "Pịa Tinye ka ịgbakwunye",
+      "noSkills": "Ọnweghị nka agbakwunyere."
+    },
+    "projects": {
+      "projectName": "Aha oru ngo",
+      "projectNamePlaceholder": "eg ",
+      "projectUrl": "URL oru ngo",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Ogologo oge",
+      "startMonth": "Malite ọnwa",
+      "startYear": "Afọ mmalite",
+      "endMonth": "Ọnwa Ọgwụgwụ",
+      "endYear": "Afọ ngwụcha",
+      "currentlyWorking": "Ugbu a na-arụ ọrụ na nke a",
+      "description": "Nkọwa",
+      "descriptionPlaceholder": "Kọwaa ọrụ a, ọrụ gị, na mmezu ya...",
+      "technologies": "Eji teknụzụ",
+      "addProject": "Tinye Project",
+      "image": "Onyonyo oru ngo",
+      "removeImage": "Wepu onyonyo",
+      "uploadImage": "Pịa ka bulite onyonyo"
+    },
+    "work": {
+      "company": "Ụlọ ọrụ/Ụlọ ọrụ",
+      "companyPlaceholder": "Aha Ụlọ Ọrụ...",
+      "role": "Ọrụ/Ọnọdụ",
+      "rolePlaceholder": "Ọkwa gị...",
+      "jobType": "Ụdị ọrụ",
+      "selectJobType": "Họrọ ụdị",
+      "fullTime": "Oge niile",
+      "partTime": "Ọkara oge",
+      "contract": "Nkwekọrịta",
+      "internship": "Nkuzi",
+      "freelance": "Onye nweere onwe ya",
+      "location": "Ebe",
+      "locationPlaceholder": "eg ",
+      "duration": "Ogologo oge",
+      "currentlyWorking": "Ugbu a na-arụ ọrụ ebe a",
+      "description": "Nkọwa ọrụ",
+      "descriptionPlaceholder": "Kọwaa isi ọrụ gị na ihe ị rụpụtara...",
+      "skills": "Nka pụrụiche",
+      "addExperience": "Tinye Ahụmahụ"
+    },
+    "org": {
+      "organization": "Aha nhazi",
+      "organizationPlaceholder": "Aha nhazi...",
+      "role": "Ọrụ/Ọnọdụ",
+      "rolePlaceholder": "eg ",
+      "duration": "Ogologo oge",
+      "periodFormat": "ma ọ bụ Usoro efu (dịka 2020 - 2022)",
+      "periodPlaceholder": "eg ",
+      "currentlyActive": "Na-arụ ọrụ ugbu a",
+      "description": "Nkọwa ihe omume",
+      "descriptionPlaceholder": "Kọwaa mmemme ma ọ bụ ntinye aka gị...",
+      "addExperience": "Tinye Ahụmahụ"
+    },
+    "education": {
+      "institution": "Aha ụlọ ọrụ",
+      "institutionPlaceholder": "Aha ụlọ akwụkwọ ma ọ bụ mahadum...",
+      "degree": "Ogo/Ọkwa",
+      "degreePlaceholder": "eg ",
+      "major": "Isi/Ebe Ọmụmụ",
+      "majorPlaceholder": "eg ",
+      "gpa": "GPA / ọkwa",
+      "gpaPlaceholder": "eg ",
+      "duration": "Ogologo oge agụmakwụkwọ",
+      "periodFormat": "ma ọ bụ Usoro efu (dịka 2018 - 2022)",
+      "periodPlaceholder": "eg ",
+      "currentlyStudying": "Ugbu a na-amụ ebe a",
+      "description": "Ihe omume / nsọpụrụ",
+      "descriptionPlaceholder": "Kọwaa mmemme agụmakwụkwọ, otu, ma ọ bụ nsọpụrụ enwetara...",
+      "addEducation": "Tinye agụmakwụkwọ"
+    },
+    "cert": {
+      "name": "Aha Asambodo",
+      "namePlaceholder": "eg ",
+      "issuer": "Òtù Na-enye",
+      "issuerPlaceholder": "eg ",
+      "issueDate": "Ụbọchị enyere",
+      "expiryDate": "Dị irè ruo",
+      "noExpiry": "Nkwenye a anaghị agwụ agwụ",
+      "yearPlaceholder": "ma ọ bụ Afọ (dịka 2023)",
+      "credentialUrl": "URL nzere",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Nkà emetụtara",
+      "addCertification": "Tinye asambodo",
+      "image": "Foto/Logo",
+      "removeImage": "Wepu onyonyo",
+      "uploadImage": "Pịa ka bulite onyonyo"
+    },
+    "common": {
+      "months": {
+        "1": "Jenụwarị",
+        "2": "Febụwarị",
+        "3": "Maachị",
+        "4": "Eprel",
+        "5": "Mee",
+        "6": "June",
+        "7": "Julaị",
+        "8": "Ọgọst",
+        "9": "Septemba",
+        "10": "October",
+        "11": "Nọvemba",
+        "12": "Disemba"
+      },
+      "month": "Ọnwa",
+      "year": "Afọ",
+      "invalidDate": "Ọnwa ngwụcha na ezighi ezi",
+      "words": "okwu"
+    }
+  },
+  "settings": {
+    "title": "Ntọala",
+    "subtitle": "Jikwaa profaịlụ Pọtụfoliyo na mmasị gị",
+    "tabs": {
+      "profile": "Profaịlụ m",
+      "security": "Nchekwa",
+      "personalization": "Nhazi onwe"
+    },
+    "profile": {
+      "infoTitle": "Ozi bụ isi",
+      "photo": "Foto profaịlụ",
+      "uploadPhoto": "Gbanwee Foto",
+      "fullName": "Aha n'uju",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adreesị ozi ịntanetị",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "A na-eji email maka nbanye na anaghị egosipụta n'ihu ọha.",
+      "portfolioUrl": "Pọtụfoliyo URL",
+      "saveProfile": "Chekwa profaịlụ",
+      "save": "Chekwa profaịlụ",
+      "accountCreated": "Emepụtara Akaụntụ",
+      "lastLogin": "Nbanye ikpeazụ",
+      "oauthNotice": "Ejikọrọ profaịlụ a na akaụntụ {{onye na-eweta}} gị. A ghaghị ime mgbanwe profaịlụ site na onye na-eweta ọrụ."
+    },
+    "security": {
+      "changePassword": "Gbanwee okwuntughe",
+      "currentPassword": "Okwuntughe Ugbu a",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Okwuntughe Ọhụrụ",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Kwenye paswọọdụ ọhụrụ",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Opekata mpe mkpụrụedemede 8",
+        "uppercase": "Otu mkpụrụedemede ukwu (A-Z)",
+        "number": "Otu nọmba (0-9)",
+        "symbol": "Otu akara (!@#$%^&*)"
+      },
+      "passwordTitle": "Okwuntughe",
+      "updatePassword": "Melite okwuntughe",
+      "additionalSecurity": "Nchekwa agbakwunyere",
+      "twoFactor": "Nyocha nke ihe abụọ (2FA)",
+      "twoFactorDesc": "Chekwaa akaụntụ gị site na iji koodu OTP ọzọ.",
+      "activeSessions": "Oge na-arụ ọrụ",
+      "activeSessionsDesc": "Kwe ka nleba anya ngwaọrụ abanye mgbe niile.",
+      "publicVisibility": "Nhụta Ọha",
+      "hideFromSearch": "Zoo Pọtụfoliyo n'aka Ngwa ọchụchọ",
+      "hideFromSearchDesc": "Gbochie Google ịdepụta ibe Pọtụfoliyo ọha gị.",
+      "disable2fa": {
+        "title": "Gbanyụọ 2FA",
+        "description": "Are you sure you want to turn off two-factor authentication?",
+        "confirmPasswordLabel": "Tinye paswọọdụ gị iji gosi",
+        "currentPasswordPlaceholder": "Okwuntughe dị ugbu a",
+        "cancelButton": "Kagbuo",
+        "confirmButton": "Gbanyụọ 2FA",
+        "incorrectPassword": "Okwuntughe na-ezighi ezi."
+      },
+      "setup2fa": {
+        "step1Title": "1. Nyochaa koodu QR",
+        "step1Desc": "Mepee ngwa nyocha gị wee lelee koodu QR ndị a:",
+        "unableToScan": "Enweghị ike iṅomi? Jiri igodo nhazi",
+        "step2Title": "2. Nyochaa koodu",
+        "step2Desc": "Tinye koodu ọnụọgụ isii nke ngwa gị mepụtara:",
+        "cancelButton": "Kagbuo",
+        "enableButton": "Kwado 2FA",
+        "invalidLength": "Biko tinye koodu ọnụọgụ isii.",
+        "invalidCode": "Koodu nkwenye na ezighi ezi. Biko nwaa ọzọ."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Njikwa asụsụ",
+      "appLanguage": "Asụsụ ngwa",
+      "layoutTitle": "Nhazi & Ederede",
+      "layoutStyle": "Ụdị nhazi",
+      "layoutModern": "Ụdị ọgbara ọhụrụ (nke ndabara)",
+      "layoutClassic": "Ụdị Omuma",
+      "layoutMinimalist": "Ụdị nke ntakiri",
+      "fontSize": "Nha Font ngwa",
+      "fontSmall": "Obere",
+      "fontNormal": "Nkịtị (Ọkara)",
+      "fontLarge": "Nnukwu",
+      "searchLanguage": "Chọọ asụsụ...",
+      "languageNotFound": "Ahụghị asụsụ",
+      "layoutElegant": "Ụdị mara mma"
+    },
+    "saveChanges": "Chekwaa mgbanwe",
+    "cancel": "Kagbuo",
+    "appSettings": "Ntọala ngwa",
+    "logoutConfirmTitle": "Kwenye ọpụpụ",
+    "logoutConfirmDesc": "Ị ji n'aka na ịchọrọ ịpụ na sistemụ ahụ?",
+    "logoutConfirmYes": "Ee, pụọ",
+    "generalError": "Enwere mperi. ",
+    "success": "Ihe ịga nke ọma",
+    "preferencesSaved": "Echekwara mmasị ngwa nke ọma.",
+    "header": "Ntọala ngwa",
+    "logout": {
+      "title": "Nkwenye ọpụpụ",
+      "message": "Ị ji n'aka na ịchọrọ ịpụ na sistemụ ahụ?",
+      "confirm": "Ee, pụọ"
+    },
+    "about": {
+      "title": "Banyere Ngwa",
+      "subtitle": "Platform Onye Nrụpụta Pọtụfoliyo",
+      "version": "Ụdị",
+      "description": "DevFolio bụ ikpo okwu na-ewu Pọtụfoliyo ọgbara ọhụrụ emebere maka ndị mmepe, ndị nrụpụta na ndị okike ọkachamara. ",
+      "license": "Ikikere & Nwebiisinka",
+      "copyright": "© 2026 DevFolio Inc. Ikike niile echekwabara.",
+      "developer": "Onye nrụpụta",
+      "developedBy": "Rifqi Naradata mebere ya"
+    },
+    "deleteAccount": {
+      "title": "Hichapụ Akaụntụ na-adịgide adịgide",
+      "menuItem": "Hichapụ Akaụntụ",
+      "successTitle": "Ihe ịga nke ọma",
+      "successMessage": "ezipula email nkwenye nhichapụ akaụntụ.",
+      "errorTitle": "Ọ dara",
+      "errorMessage": "Izipu ozi nkwenye agaghị ekwe omume.",
+      "confirmationMessage": "Ị ji n'aka na ịchọrọ ihichapụ akaụntụ gị kpamkpam?",
+      "warningMessage1": "Ị ga-enweta ozi-e iji kwado nhichapụ akaụntụ.",
+      "warningMessage2": "Ọ bụrụ na akwadoro, data niile ( Pọtụfoliyo, oru ngo, ọnụ ọgụgụ) ga-ehichapụ kpamkpam na enweghị ike ị nwetaghachi ya.",
+      "cancel": "Kagbuo",
+      "confirm": "Nkwenye"
+    },
+    "toasts": {
+      "toastError": "Njehie",
+      "toastSuccess": "Ihe ịga nke ọma",
+      "toastSetup2FAFailed": "Ịtọlite ​​​​2FA dara. Biko nwaa ọzọ.",
+      "toast2FAEnabled": "Agbanyere nyocha nke ihe abụọ.",
+      "toast2FADisabled": "Agbanyụrụ nyocha ihe abụọ.",
+      "toastSessionEnabled": "Agbanyerela nlebanya oge na-arụ ọrụ.",
+      "toastSessionDisabled": "Agbanyụrụ nlekota oge na-arụ ọrụ.",
+      "toastSetupKeyCopied": "Eṅomiri igodo nhazi na klipbọọdụ."
+    },
+    "privacy": {
+      "title": "amụma nzuzo",
+      "updateDate": "Emelitere ikpeazụ: Julaị 15, 2026",
+      "intro": "Amụma nzuzo a na-akọwa ka DevFolio si anakọta, na-eji ma na-echekwa ozi nkeonwe gị mgbe ị na-eji ọrụ anyị.",
+      "section1Title": "1. Ozi Anyị na-anakọta",
+      "section1Content": "Anyị na-anakọta ozi ị nyere ozugbo mgbe ị na-eke akaụntụ, na-ewu pọtụfoliyo, na ịkpọtụrụ nkwado anyị. ",
+      "section2Title": "2. Iji ozi eme ihe",
+      "section2Content": "A na-eji ozi gị arụ ọrụ, dokwaa ma weta atụmatụ nke ọrụ anyị yana iji kparịtara gị ozi gbasara akaụntụ ma ọ bụ ọrụ gị.",
+      "section3Title": "3. Nchekwa data",
+      "section3Content": "Anyị na-emejuputa usoro nchekwa ezi uche dị na ya iji kpuchido ozi gị site na ịnweta, mkpughe ma ọ bụ mbibi na-enweghị ikike."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ahụghị akara nkwenye.",
+    "defaultError": "Ihichapụ akaụntụ agaghị eme. O nwere ike ịbụ na akara ahụ agwụla.",
+    "loadingTitle": "Na-ehichapụ Akaụntụ...",
+    "loadingMessage": "Biko chere, anyị na-edozi arịrịọ gị.",
+    "successTitle": "Ebichapụla akaụntụ nke ọma",
+    "successMessage": "E hichapụla data gị niile kpamkpam. A ga-atụgharị gị...",
+    "errorTitle": "Ekpughị ihichapụ akaụntụ",
+    "backToHome": "Laghachi n'ụlọ"
+  },
+  "forgotPassword": {
+    "minutes": "nkeji",
+    "seconds": "nke abụọ",
+    "success": "Ihe ịga nke ọma",
+    "otpSentToEmail": "Ezipula koodu OTP na email gị.",
+    "failed": "Daa",
+    "emailNotFound": "Achọtaghị ozi-e.",
+    "emailThirdParty": "Edebanye aha email a site na onye ọzọ.",
+    "genericError": "Enwere mperi. Biko nwaa ọzọ.",
+    "otpVerified": "Achọpụtala koodu OTP nke ọma.",
+    "otpExpired": "Koodu OTP kubiela. Biko rịọ koodu ọhụrụ.",
+    "otpInvalid": "Koodu OTP na ezighi ezi.",
+    "otpResent": "Ezipula koodu OTP ọhụrụ na email gị.",
+    "otpResendFailed": "Izipu koodu OTP agaghị. Biko nwaa ọzọ.",
+    "passwordResetSuccess": "Tọgharịa okwuntughe nke ọma. Biko jiri paswọọdụ ọhụrụ gị wee banye.",
+    "passwordResetFailed": "Ịtọgharịa okwuntughe agaghị.",
+    "backToLogin": "Laghachi na Nbanye",
+    "back": "laghachi",
+    "title": "Chefuru paswọọdụ",
+    "description": "Tinye adreesị email edebanyere aha na akaụntụ gị. Anyị ga-eziga koodu OTP iji tọgharịa paswọọdụ.",
+    "emailLabel": "Adreesị ozi ịntanetị",
+    "sending": "zipu...",
+    "sendOtp": "Zipu koodu OTP",
+    "verifyOtpTitle": "Nyochaa koodu OTP",
+    "verifyOtpDesc": "Tinye koodu ọnụọgụ isii nke ezigara na email gị iji kwado njirimara gị.",
+    "verifying": "Na-enyocha...",
+    "verifyOtp": "Nnwale OTP",
+    "resending": "Zigharịa...",
+    "resendOtp": "Zigharịa koodu OTP",
+    "resendCodeIn": "Zigharịa koodu ime",
+    "newPasswordTitle": "Mepụta okwuntughe ọhụrụ",
+    "newPasswordDesc": "Mepụta paswọọdụ ọhụrụ siri ike iji chekwaa akaụntụ gị.",
+    "newPasswordLabel": "Okwuntughe Ọhụrụ",
+    "min8Chars": "mkpụrụedemede 8 kacha nta",
+    "oneUpperCase": "1 mkpụrụedemede ukwu (A-Z)",
+    "oneNumber": "Nọmba 1 (0-9)",
+    "oneSymbol": "1 akara (!@#$%^&*)",
+    "confirmPasswordLabel": "Kwenye Na Okwuntughe",
+    "passwordsDoNotMatch": "Okwuntughe adabaghị.",
+    "resettingPassword": "Na-atọgharị okwuntughe...",
+    "resetPassword": "Tọgharia okwuntughe"
+  },
+  "verifyEmail": {
+    "resendError": "Izipu ozi nkwenye agaghị ekwe omume. Biko nwaa ọzọ.",
+    "checkingStatus": "Na-elele ọkwa nkwenye...",
+    "title": "Lelee email gị",
+    "description": "Anyị ezipụla email nkwenye na adreesị ozi-e gị. Biko mepee email ahụ wee pịa bọtịnụ <1>“Kwenye Akaụntụ”</1> ka ịgbalite akaụntụ gị.",
+    "stepsTitle": "Nzọụkwụ",
+    "step1": "Mepee ngwa email gị (Gmail, Yahoo, wdg)",
+    "step2": "Chọọ ozi-e sitere na DevFolio nwere isiokwu bụ \"Akụkọ Akaụntụ\"",
+    "step3": "Pịa bọtịnụ \"Kwenye Akaụntụ\" na email",
+    "step4": "A ga-atụgharị gị gaa na ibe nbanye ka ịbanye",
+    "resendSuccess": "ezipụla email nkwenye ahụ!",
+    "resending": "Zigharịa...",
+    "resendButton": "Ziga ozi nkwenye nkwenye",
+    "backToLogin": "Laghachi na ibe nbanye",
+    "footerNote": "Anataghị email ahụ? Lelee folda <1>Spam</1> ma ọ bụ <2>Junk</2> dị na email gị. Njikọ nkwenye ahụ bara uru maka <3>awa 24</3>."
+  }
+}

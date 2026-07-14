@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Mga tampok",
+    "templates": "Mga template",
+    "pricing": "Pagpepresyo",
+    "login": "Mag-login",
+    "getStarted": "Magsimula",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ang tunay na tagabuo ng portfolio para sa mga developer",
+    "title1": "Buuin ang iyong propesyonal",
+    "title2": "portfolio sa",
+    "titleHighlight": "segundo.",
+    "subtitle": "Lahat ng kailangan mo para maipakita ang iyong mga kasanayan, proyekto, at karanasan. ",
+    "startBuilding": "Simulan ang Pagbuo Ngayon",
+    "viewTemplates": "Tingnan ang Mga Template",
+    "fastDeployment": "Mabilis na Deployment",
+    "liveStatus": "Live ang username.dev!",
+    "featuresTitle": "Makapangyarihang Mga Tampok",
+    "featuresSubtitle": "Ibinibigay namin ang lahat ng mga tool na kailangan mo upang tumayo mula sa karamihan at makuha ang iyong pinapangarap na trabaho.",
+    "feature1Title": "I-drag at I-drop ang Tagabuo",
+    "feature1Desc": "Madaling ayusin ang iyong mga seksyon, proyekto, at kasanayan gamit ang aming intuitive visual editor.",
+    "feature2Title": "Mga Custom na Tema",
+    "feature2Desc": "Pumili mula sa mga template na idinisenyong propesyonal o lumikha ng iyong sariling natatanging hitsura.",
+    "feature3Title": "Real-time na Analytics",
+    "feature3Desc": "Subaybayan ang iyong mga bisita, tingnan kung aling mga proyekto ang nakakakuha ng higit na atensyon, at higit pa."
+  },
+  "auth": {
+    "welcomeBack": "Maligayang Pagbabalik",
+    "loginToContinue": "Mag-log in sa iyong account upang magpatuloy",
+    "createAccount": "Lumikha ng Account",
+    "joinCommunity": "Sumali sa libu-libong iba pang mga developer",
+    "fullName": "Buong Pangalan",
+    "fullNamePlaceholder": "hal. ",
+    "email": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Tandaan mo ako",
+    "forgotPassword": "Nakalimutan ang password?",
+    "signIn": "Mag-sign In",
+    "signingIn": "Nagsa-sign In...",
+    "signUp": "Mag-sign Up",
+    "signingUp": "Nagsa-sign Up...",
+    "noAccount": "Walang account?",
+    "hasAccount": "Mayroon ka nang account?",
+    "passwordRules": {
+      "title": "Ang password ay dapat maglaman ng:",
+      "length": "Hindi bababa sa 8 character",
+      "uppercase": "Isang malaking titik (A-Z)",
+      "number": "Isang numero (0-9)",
+      "symbol": "Isang simbolo (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Tagabuo ng Portfolio",
+      "templates": "Mga Template at Tema",
+      "settings": "Mga setting",
+      "collapse": "I-collapse ang Sidebar",
+      "overview": "Pangkalahatang-ideya",
+      "profileSettings": "Mga Setting ng Profile",
+      "customDomain": "Custom na Domain",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Tingnan ang Live",
+      "welcome": "maligayang pagdating,",
+      "logout": "Mag-logout",
+      "builder": "Tagabuo",
+      "livePortfolio": "Live na Portfolio",
+      "live": "Mabuhay"
+    },
+    "logoutModal": {
+      "title": "Mag-logout",
+      "message": "Sigurado ka bang gusto mong mag-log out sa iyong account? ",
+      "cancel": "Kanselahin",
+      "confirm": "Oo, Logout"
+    },
+    "slugModal": {
+      "title": "Piliin ang Iyong Portfolio URL",
+      "message": "Ang URL na ito ang magiging natatanging link sa iyong portfolio. ",
+      "slugPlaceholder": "pangalan mo",
+      "availability": "Availability:",
+      "available": "Available",
+      "unavailable": "Hindi available",
+      "checking": "Sinusuri...",
+      "mustFormat": "Maaari lamang maglaman ng mga titik, numero, at gitling (-)",
+      "cancel": "Kanselahin",
+      "save": "I-save ang URL",
+      "usernameUrl": "URL ng username",
+      "helpText": "Mga maliliit na titik, numero, at gitling. ",
+      "validation": {
+        "empty": "Hindi maaaring walang laman ang slug.",
+        "min3": "Minimum na 3 character.",
+        "max30": "Maximum na 30 character.",
+        "format": "Mga maliliit na titik, numero, at gitling (-) lamang. "
+      }
+    },
+    "loadingPortfolio": "Nilo-load ang data ng portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Magandang Umaga",
+        "afternoon": "Magandang Tanghali",
+        "evening": "Magandang Tanghali",
+        "night": "Magandang Gabi"
+      },
+      "welcome": {
+        "hi": "hi,",
+        "creator": "Tagapaglikha",
+        "desc1": "Maligayang pagdating sa dashboard ng DevFolio. Ang iyong portfolio ay tiningnan ni",
+        "desc2": "tao. Patuloy na magtrabaho!",
+        "editPortfolio": "I-edit ang Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Kabuuang mga Bisita",
+        "projectViews": "Tiningnan (Proyekto)",
+        "activeSessions": "Aktibong Sesyon",
+        "totalLabel": "Kabuuan"
+      },
+      "setup": {
+        "title": "Pag-unlad ng Pag-setup",
+        "completed": "Kumpleto na ang iyong portfolio! 🎉",
+        "inProgress": "Mga hakbang sa perpektong portfolio.",
+        "profile": {
+          "title": "Kumpletuhin ang Profile",
+          "desc": "Magdagdag ng pangalan, bio at larawan sa profile."
+        },
+        "section": {
+          "title": "Magdagdag ng mga Seksyon",
+          "desc": "I-activate ang hindi bababa sa 1 seksyon sa portfolio."
+        },
+        "project": {
+          "title": "Magdagdag ng Proyekto",
+          "desc": "Maglagay ng hindi bababa sa 1 sa iyong pinakamahusay na mga proyekto."
+        },
+        "publish": {
+          "title": "I-publish ang Portfolio",
+          "desc": "Magtakda ng custom na URL para ma-access ito ng publiko."
+        }
+      },
+      "topProjects": {
+        "title": "Pinakatanyag na Mga Proyekto",
+        "desc": "Ang pagganap ng iyong trabaho sa mata ng mga bisita.",
+        "viewAll": "Tingnan Lahat",
+        "empty": "Wala pang data ng view para sa iyong proyekto."
+      }
+    },
+    "themes": {
+      "title": "Mga Template at Tema",
+      "subtitle": "I-customize ang hitsura at pakiramdam ng iyong pampublikong portfolio.",
+      "reset": "I-reset ang Default",
+      "save": "I-save ang Mga Pagbabago",
+      "saving": "Nagse-save...",
+      "chooseTemplate": "Pumili ng Template",
+      "primaryColor": "Pangunahing Kulay",
+      "typography": "Typography",
+      "appearance": "Hitsura",
+      "corners": "Mga Sulok at Hangganan",
+      "successTitle": "Tagumpay",
+      "successMessage": "Matagumpay na na-update ang mga kagustuhan sa tema",
+      "errorTitle": "Error",
+      "errorMessage": "Nabigong i-save ang mga kagustuhan sa tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Malinis at simpleng disenyo na nakatuon sa nilalaman."
+        },
+        "developerDark": {
+          "name": "Madilim ng Developer",
+          "desc": "Madilim na tema na perpekto para sa pagpapakita ng code at mga tech na stack."
+        },
+        "creative": {
+          "name": "Malikhain",
+          "desc": "Masigla at makulay na layout para sa mga designer at creative."
+        },
+        "executive": {
+          "name": "Tagapagpaganap",
+          "desc": "Propesyonal at pormal na layout para sa mga propesyonal sa negosyo."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Modernong Apple-style na grid layout na nagha-highlight ng iba't ibang kasanayan nang mahusay."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Mga bold na border at mataas na contrast na kulay para sa isang naka-istilong, walang patawad na hitsura."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Frosted glass effect sa mga makukulay na gradient para sa isang makinis na modernong UI."
+        },
+        "linkInBio": {
+          "name": "Link sa Bio",
+          "desc": "Ang compact na patayong layout na na-optimize para sa mga mobile screen at social media."
+        }
+      },
+      "appearances": {
+        "light": "Banayad",
+        "dark": "Madilim",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Biglang",
+        "rounded": "Bilugan",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Magpadala ng Feedback",
+      "subtitle": "Tulungan kaming pagandahin ito sa pamamagitan ng pagbibigay ng mga mungkahi, pagpuna, o pag-uulat ng mga bug sa application na ito.",
+      "categoryLabel": "Kategorya ng Feedback",
+      "messageLabel": "Mga Detalye ng Mensahe",
+      "messagePlaceholder": "Sabihin sa akin nang detalyado ang tungkol sa feedback na gusto mong iparating...",
+      "imageLabel": "Imahe Attachment (Opsyonal)",
+      "imagePlaceholder": "I-click upang mag-upload ng larawan o screenshot",
+      "submitting": "Ipinapadala...",
+      "submitBtn": "Magpadala ng Feedback",
+      "categories": {
+        "suggestion": "Mga Mungkahi at Ideya",
+        "bug": "Ulat ng Bug / Error",
+        "criticism": "Pagpuna",
+        "other": "Iba"
+      },
+      "imageErrorTitle": "Error",
+      "imageErrorMessage": "Tinanggihan ang ilang file dahil hindi sinusuportahan ang mga format ng larawan (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Tagumpay",
+      "successMessage": "Salamat sa iyong feedback! Naipadala na ang ulat.",
+      "submitErrorTitle": "Nabigo",
+      "submitErrorMessage": "Nagkaroon ng error habang nagpapadala ng feedback. Pakisubukang muli."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Tungkol sa Akin",
+      "skills": "Mga kasanayan",
+      "projects": "Mga proyekto",
+      "workExperience": "Karanasan sa Trabaho",
+      "orgExperience": "Karanasan sa Organisasyon",
+      "education": "Edukasyon",
+      "certifications": "Pagsasanay at Sertipikasyon",
+      "contact": "Kontakin Ako"
+    },
+    "editor": {
+      "profileInfo": "Impormasyon sa Profile",
+      "saving": "Nagse-save...",
+      "profilePhoto": "Larawan sa Profile",
+      "clickToUpload": "I-click para mag-upload (JPG, PNG)",
+      "fullName": "Buong Pangalan",
+      "fullNamePlaceholder": "hal. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer na may hilig sa pagbuo ng mga modernong web app...",
+      "location": "Lokasyon",
+      "locationPlaceholder": "hal. ",
+      "gender": "Kasarian",
+      "selectGender": "Piliin ang Kasarian",
+      "male": "Lalaki",
+      "female": "Babae",
+      "custom": "Custom",
+      "customPlaceholder": "I-type ang iyong custom na kasarian...",
+      "uploadCv": "Mag-upload ng CV",
+      "cvFormat": "(DOC o PDF)",
+      "preview": "Silipin",
+      "remove": "Alisin",
+      "clickToUploadCv": "I-click upang mag-upload ng PDF o DOC",
+      "sections": "Mga seksyon",
+      "removeSelected": "Alisin ang Napili",
+      "confirmRemove": "Kumpirmahin ang Alisin",
+      "addSection": "Magdagdag ng Seksyon",
+      "addAllSections": "Idagdag ang Lahat ng Seksyon",
+      "noSections": "Wala pang section",
+      "clickToAdd": "I-click ang \"+ Magdagdag ng Seksyon\" upang makapagsimula",
+      "selectAll": "Piliin ang Lahat",
+      "selected": "Napili",
+      "dragToReorder": "I-drag upang muling ayusin ang mga seksyon",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Magdagdag ng mga seksyon upang buuin ang iyong portfolio",
+      "now": "Ngayon",
+      "current": "Kasalukuyan",
+      "noExpiry": "Walang Expiration",
+      "see": "Tingnan mo",
+      "position": "Posisyon",
+      "degree": "Degree",
+      "certification": "Sertipikasyon",
+      "sectionsForm": {
+        "about": {
+          "label": "Paglalarawan ng iyong sarili",
+          "placeholder": "Sabihin sa amin ang tungkol sa iyong sarili, iyong background, mga interes at kasanayan..."
+        },
+        "skills": {
+          "addPlaceholder": "I-type ang skill pagkatapos ay pindutin ang Enter..."
+        },
+        "projects": {
+          "title": "Pangalan ng Proyekto",
+          "titlePlaceholder": "Pangalan ng proyekto...",
+          "url": "URL ng proyekto",
+          "description": "Paglalarawan",
+          "descriptionPlaceholder": "Maikling paglalarawan ng proyekto...",
+          "uploadThumbnail": "Larawan ng Proyekto",
+          "addProject": "Magdagdag ng Proyekto",
+          "projectNum": "# Project",
+          "currentProject": "Ito ay isang proyekto na ginagawa ko"
+        },
+        "work": {
+          "company": "Kumpanya/Ahensiya",
+          "companyPlaceholder": "Pangalan ng kumpanya...",
+          "position": "Posisyon/Titulo",
+          "positionPlaceholder": "Ang iyong posisyon...",
+          "employmentType": "Uri ng trabaho",
+          "location": "Lokasyon",
+          "locationPlaceholder": "Lungsod, Bansa...",
+          "startDate": "Magsimula",
+          "endDate": "Tapos na",
+          "currentWork": "Nagtatrabaho pa ako sa ngayon",
+          "description": "Paglalarawan",
+          "descriptionPlaceholder": "Paglalarawan ng trabaho at mga responsibilidad...",
+          "skills": "Kasanayan",
+          "addExperience": "Magdagdag ng Karanasan sa Trabaho",
+          "experienceNum": "Karanasan #",
+          "dateError": "Ang petsa ng pagtatapos ay hindi maaaring mas maaga kaysa sa petsa ng pagsisimula"
+        },
+        "org": {
+          "organization": "Pangalan ng Organisasyon",
+          "orgPlaceholder": "BEM University...",
+          "role": "Tungkulin/Posisyon",
+          "rolePlaceholder": "Punong Dibisyon...",
+          "addOrg": "Magdagdag ng Karanasan sa Organisasyon",
+          "orgNum": "Organisasyon #"
+        },
+        "edu": {
+          "institution": "Mga Institusyong Pang-edukasyon",
+          "institutionPlaceholder": "Pangalan ng campus o paaralan...",
+          "degree": "Pamagat",
+          "degreePlaceholder": "S1, high school, atbp...",
+          "major": "Departamento/Larangan ng Pag-aaral",
+          "majorPlaceholder": "Informatics Engineering...",
+          "gpa": "GPA (opsyonal)",
+          "currentStudy": "Dito pa ako nag-aaral",
+          "descriptionPlaceholder": "Mga aktibidad at tagumpay sa panahon ng pag-aaral...",
+          "addEdu": "Magdagdag ng Edukasyon",
+          "eduNum": "Edukasyon #"
+        },
+        "cert": {
+          "name": "Pangalan ng Sertipikasyon / Pagsasanay",
+          "namePlaceholder": "Pangalan ng sertipikasyon...",
+          "issuer": "Publisher",
+          "issuerPlaceholder": "Institusyon ng pag-publish...",
+          "issueDate": "Simula (Petsa ng Pag-publish)",
+          "issueDatePlaceholder": "Piliin ang petsa ng publikasyon...",
+          "expiryDate": "Nakumpleto (Valid na Panahon)",
+          "expiryDatePlaceholder": "Piliin ang petsa ng pag-expire...",
+          "noExpiry": "Walang expiration date ang certificate na ito",
+          "url": "URL ng kredensyal",
+          "uploadThumbnail": "Larawan ng Sertipiko / Pagsasanay",
+          "uploadThumbnailLimit": "Mag-upload ng larawan ng certificate (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Magdagdag ng Sertipikasyon",
+          "certNum": "Sertipikasyon #"
+        },
+        "contact": {
+          "contactNum": "Contact #",
+          "platform": "Plataporma",
+          "displayText": "Display Text",
+          "displayTextPlaceholder": "hal., you@email.com o @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "hal., 62812... (nang walang humahantong 0)",
+          "urlPlaceholderEmail": "hal., you@email.com",
+          "urlPlaceholderWebsite": "hal., https://...",
+          "urlPlaceholderDefault": "hal., username",
+          "addContact": "Magdagdag ng Contact"
+        },
+        "common": {
+          "months": {
+            "1": "Enero",
+            "2": "Pebrero",
+            "3": "Marso",
+            "4": "Abril",
+            "5": "May",
+            "6": "Hunyo",
+            "7": "Hulyo",
+            "8": "Agosto",
+            "9": "Setyembre",
+            "10": "Oktubre",
+            "11": "Nobyembre",
+            "12": "Disyembre"
+          },
+          "month": "buwan",
+          "year": "taon",
+          "invalidDate": "Di-wastong Pagtatapos ng Buwan",
+          "words": "mga salita"
+        }
+      },
+      "sure": "Oo naman",
+      "deletePhotoTitle": "Tanggalin ang Larawan sa Profile?",
+      "deletePhotoMessage": "Sigurado ka bang gusto mong tanggalin ang larawan sa profile na ito?",
+      "cancel": "Kanselahin",
+      "delete": "Tanggalin"
+    },
+    "cropper": {
+      "chooseBackground": "Piliin ang Background",
+      "cropPhoto": "I-crop ang Iyong Larawan",
+      "useOriginal": "Gumamit ng orihinal",
+      "backgroundPresets": "Mga Preset sa Background",
+      "none": "wala",
+      "uploadBackground": "Mag-upload ng Background",
+      "cancel": "Kanselahin",
+      "savePhoto": "I-save ang Larawan",
+      "zoom": "Mag-zoom",
+      "rotationTilt": "Pag-ikot at Pagtagilid",
+      "resetRotation": "I-reset sa 0°",
+      "center": "Gitna",
+      "rotateLeft": "I-rotate -90°",
+      "rotateRight": "I-rotate ang +90°",
+      "removeBackground": "Alisin ang Background",
+      "processing": "Pinoproseso ang iyong larawan, mangyaring maghintay..."
+    },
+    "cvPreview": {
+      "title": "Preview ng CV",
+      "downloadCv": "I-download ang CV",
+      "download": "I-download",
+      "wordCannotPreview": "Ang mga dokumento ng Word (.doc/.docx) ay hindi maaaring i-preview nang native sa browser. ",
+      "downloadFile": "I-download ang CV File",
+      "back": "Bumalik",
+      "mobileMessage": "Paki-download ang CV file para ma-preview ito.",
+      "preview": "Silipin ang CV",
+      "wordPreviewTitle": "Preview ng Word Document",
+      "wordPreviewMessage": "Ang mga dokumento ng Word (.doc/.docx) ay hindi maaaring i-preview nang native sa browser. Mangyaring i-download ang file upang tingnan ito."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Sumulat ng maikling paglalarawan tungkol sa iyong sarili, mga interes, at mga layunin sa karera..."
+    },
+    "skills": {
+      "placeholder": "I-type ang pangalan ng kasanayan...",
+      "add": "Idagdag",
+      "enterToAdd": "Pindutin ang Enter upang magdagdag",
+      "noSkills": "Wala pang mga kasanayang naidagdag."
+    },
+    "projects": {
+      "projectName": "Pangalan ng Proyekto",
+      "projectNamePlaceholder": "hal. ",
+      "projectUrl": "URL ng proyekto",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Tagal",
+      "startMonth": "Simula ng Buwan",
+      "startYear": "Simula Taon",
+      "endMonth": "Katapusan ng Buwan",
+      "endYear": "Katapusan ng Taon",
+      "currentlyWorking": "Kasalukuyang ginagawa ito",
+      "description": "Paglalarawan",
+      "descriptionPlaceholder": "Ilarawan ang proyekto, ang iyong tungkulin, at mga nagawa...",
+      "technologies": "Mga Teknolohiyang Ginamit",
+      "addProject": "Magdagdag ng Proyekto",
+      "image": "Larawan ng Proyekto",
+      "removeImage": "Alisin ang Larawan",
+      "uploadImage": "I-click para mag-upload ng larawan"
+    },
+    "work": {
+      "company": "Kumpanya/Institusyon",
+      "companyPlaceholder": "Pangalan ng kumpanya...",
+      "role": "Tungkulin/Posisyon",
+      "rolePlaceholder": "Ang iyong posisyon...",
+      "jobType": "Uri ng Trabaho",
+      "selectJobType": "Pumili ng uri",
+      "fullTime": "Buong oras",
+      "partTime": "Part-time",
+      "contract": "Kontrata",
+      "internship": "Internship",
+      "freelance": "Freelance",
+      "location": "Lokasyon",
+      "locationPlaceholder": "hal. ",
+      "duration": "Tagal",
+      "currentlyWorking": "Kasalukuyang nagtatrabaho dito",
+      "description": "Paglalarawan ng Trabaho",
+      "descriptionPlaceholder": "Ilarawan ang iyong mga pangunahing responsibilidad at tagumpay...",
+      "skills": "Mga Tiyak na Kasanayan",
+      "addExperience": "Magdagdag ng Karanasan"
+    },
+    "org": {
+      "organization": "Pangalan ng Organisasyon",
+      "organizationPlaceholder": "Pangalan ng organisasyon...",
+      "role": "Tungkulin/Posisyon",
+      "rolePlaceholder": "hal. ",
+      "duration": "Tagal",
+      "periodFormat": "o Libreng Format (hal. 2020 - 2022)",
+      "periodPlaceholder": "hal. ",
+      "currentlyActive": "Kasalukuyang aktibo",
+      "description": "Paglalarawan ng Gawain",
+      "descriptionPlaceholder": "Ilarawan ang iyong mga aktibidad o kontribusyon...",
+      "addExperience": "Magdagdag ng Karanasan"
+    },
+    "education": {
+      "institution": "Pangalan ng Institusyon",
+      "institutionPlaceholder": "Pangalan ng paaralan o unibersidad...",
+      "degree": "Degree/Antas",
+      "degreePlaceholder": "hal. ",
+      "major": "Major/Larangan ng Pag-aaral",
+      "majorPlaceholder": "hal. ",
+      "gpa": "GPA / Marka",
+      "gpaPlaceholder": "hal. ",
+      "duration": "Tagal ng Edukasyon",
+      "periodFormat": "o Libreng Format (hal. 2018 - 2022)",
+      "periodPlaceholder": "hal. ",
+      "currentlyStudying": "Kasalukuyang nag-aaral dito",
+      "description": "Mga aktibidad / karangalan",
+      "descriptionPlaceholder": "Ilarawan ang mga aktibidad sa akademiko, organisasyon, o parangal na natanggap...",
+      "addEducation": "Magdagdag ng Edukasyon"
+    },
+    "cert": {
+      "name": "Pangalan ng Sertipikasyon",
+      "namePlaceholder": "hal. ",
+      "issuer": "Issuing Organization",
+      "issuerPlaceholder": "hal. ",
+      "issueDate": "Petsa ng Isyu",
+      "expiryDate": "Wasto Hanggang",
+      "noExpiry": "Hindi mag-e-expire ang kredensyal na ito",
+      "yearPlaceholder": "o Taon (hal. 2023)",
+      "credentialUrl": "URL ng kredensyal",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Mga Kaugnay na Kasanayan",
+      "addCertification": "Magdagdag ng Sertipikasyon",
+      "image": "Larawan/Logo",
+      "removeImage": "Alisin ang Larawan",
+      "uploadImage": "I-click para mag-upload ng larawan"
+    },
+    "common": {
+      "months": {
+        "1": "Enero",
+        "2": "Pebrero",
+        "3": "Marso",
+        "4": "Abril",
+        "5": "May",
+        "6": "Hunyo",
+        "7": "Hulyo",
+        "8": "Agosto",
+        "9": "Setyembre",
+        "10": "Oktubre",
+        "11": "Nobyembre",
+        "12": "Disyembre"
+      },
+      "month": "buwan",
+      "year": "taon",
+      "invalidDate": "Di-wastong Pagtatapos ng Buwan",
+      "words": "mga salita"
+    }
+  },
+  "settings": {
+    "title": "Mga setting",
+    "subtitle": "Pamahalaan ang iyong portfolio profile at mga kagustuhan",
+    "tabs": {
+      "profile": "Aking Profile",
+      "security": "Seguridad",
+      "personalization": "Personalization"
+    },
+    "profile": {
+      "infoTitle": "Pangunahing Impormasyon",
+      "photo": "Larawan sa Profile",
+      "uploadPhoto": "Baguhin ang Larawan",
+      "fullName": "Buong Pangalan",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Ginagamit ang email para sa pag-login at hindi ipinapakita sa publiko.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "I-save ang Profile",
+      "save": "I-save ang Profile",
+      "accountCreated": "Akun Dibuat",
+      "lastLogin": "Huling Login",
+      "oauthNotice": "Nakakonekta ang profile na ito sa iyong {{provider}} account. Ang mga pagbabago sa profile ay dapat gawin sa pamamagitan ng service provider."
+    },
+    "security": {
+      "changePassword": "Baguhin ang Password",
+      "currentPassword": "Kasalukuyang Password",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Bagong Password",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Kumpirmahin ang Bagong Password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Hindi bababa sa 8 character",
+        "uppercase": "Isang malaking titik (A-Z)",
+        "number": "Isang numero (0-9)",
+        "symbol": "Isang simbolo (!@#$%^&*)"
+      },
+      "passwordTitle": "Password",
+      "updatePassword": "I-update ang Password",
+      "additionalSecurity": "Karagdagang Seguridad",
+      "twoFactor": "Two-Factor Authentication (2FA)",
+      "twoFactorDesc": "I-secure ang iyong account gamit ang karagdagang OTP code.",
+      "activeSessions": "Mga Aktibong Sesyon",
+      "activeSessionsDesc": "Palaging payagan ang pagsubaybay sa mga naka-log in na device.",
+      "publicVisibility": "Pampublikong Visibility",
+      "hideFromSearch": "Itago ang Portfolio mula sa Mga Search Engine",
+      "hideFromSearchDesc": "Pigilan ang Google na i-index ang iyong pampublikong pahina ng portfolio.",
+      "disable2fa": {
+        "title": "Huwag paganahin ang 2FA",
+        "description": "Sigurado ka bang gusto mong i-off ang two-factor authentication?",
+        "confirmPasswordLabel": "Ilagay ang iyong password para kumpirmahin",
+        "currentPasswordPlaceholder": "Kasalukuyang password",
+        "cancelButton": "Kanselahin",
+        "confirmButton": "Huwag paganahin ang 2FA",
+        "incorrectPassword": "Maling password."
+      },
+      "setup2fa": {
+        "step1Title": "1. I-scan ang QR Code",
+        "step1Desc": "Buksan ang iyong authenticator app at i-scan ang sumusunod na QR code:",
+        "unableToScan": "Hindi makapag-scan? Gamitin ang setup key",
+        "step2Title": "2. I-verify ang Code",
+        "step2Desc": "Ilagay ang 6 na digit na code na nabuo ng iyong app:",
+        "cancelButton": "Kanselahin",
+        "enableButton": "Paganahin ang 2FA",
+        "invalidLength": "Mangyaring magpasok ng 6 na digit na code.",
+        "invalidCode": "Di-wastong verification code. Pakisubukang muli."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Mga Kontrol sa Wika",
+      "appLanguage": "Wika ng App",
+      "layoutTitle": "Layout at Typography",
+      "layoutStyle": "Estilo ng Layout",
+      "layoutModern": "Modernong Estilo (Default)",
+      "layoutClassic": "Klasikong Estilo",
+      "layoutMinimalist": "Minimalist Style",
+      "fontSize": "Laki ng Font ng App",
+      "fontSmall": "Maliit",
+      "fontNormal": "Normal (Katamtaman)",
+      "fontLarge": "Malaki",
+      "searchLanguage": "Maghanap ng wika...",
+      "languageNotFound": "Hindi nahanap ang wika",
+      "layoutElegant": "Elegant na Estilo"
+    },
+    "saveChanges": "I-save ang Mga Pagbabago",
+    "cancel": "Kanselahin",
+    "appSettings": "Mga Setting ng App",
+    "logoutConfirmTitle": "Kumpirmahin ang Pag-logout",
+    "logoutConfirmDesc": "Sigurado ka bang gusto mong mag-log out sa system?",
+    "logoutConfirmYes": "Oo, Logout",
+    "generalError": "May naganap na error. ",
+    "success": "Tagumpay",
+    "preferencesSaved": "Matagumpay na na-save ang mga kagustuhan sa app.",
+    "header": "Mga Setting ng Application",
+    "logout": {
+      "title": "Kumpirmasyon sa Pag-logout",
+      "message": "Sigurado ka bang gusto mong mag-log out sa system?",
+      "confirm": "Oo, Logout"
+    },
+    "about": {
+      "title": "Tungkol sa Application",
+      "subtitle": "Platform ng Tagabuo ng Portfolio",
+      "version": "Bersyon",
+      "description": "Ang DevFolio ay isang modernong platform ng tagabuo ng portfolio na idinisenyo para sa mga developer, designer, at mga propesyonal na tagalikha. ",
+      "license": "Lisensya at Copyright",
+      "copyright": "© 2026 DevFolio Inc. Lahat ng karapatan ay nakalaan.",
+      "developer": "Developer",
+      "developedBy": "Binuo ng DevFolio Team"
+    },
+    "deleteAccount": {
+      "title": "Permanenteng Tanggalin ang Account",
+      "menuItem": "Tanggalin ang Account",
+      "successTitle": "Tagumpay",
+      "successMessage": "Naipadala na ang email ng kumpirmasyon sa pagtanggal ng account.",
+      "errorTitle": "Nabigo",
+      "errorMessage": "Nabigong magpadala ng email ng kumpirmasyon.",
+      "confirmationMessage": "Sigurado ka bang gusto mong permanenteng tanggalin ang iyong account?",
+      "warningMessage1": "Makakatanggap ka ng email para kumpirmahin ang pagtanggal ng account.",
+      "warningMessage2": "Kung makumpirma, ang lahat ng data (portfolio, proyekto, istatistika) ay permanenteng tatanggalin at hindi na mababawi.",
+      "cancel": "Kanselahin",
+      "confirm": "Kumpirmasyon"
+    },
+    "toasts": {
+      "toastError": "Error",
+      "toastSuccess": "Tagumpay",
+      "toastSetup2FAFailed": "Nabigong i-setup ang 2FA. Pakisubukang muli.",
+      "toast2FAEnabled": "Pinagana ang two-factor authentication.",
+      "toast2FADisabled": "Na-disable ang two-factor authentication.",
+      "toastSessionEnabled": "Ang aktibong pagsubaybay sa session ay pinagana.",
+      "toastSessionDisabled": "Ang aktibong pagsubaybay sa session ay hindi pinagana.",
+      "toastSetupKeyCopied": "Nakopya ang setup key sa clipboard."
+    },
+    "privacy": {
+      "title": "Patakaran sa Privacy",
+      "updateDate": "Huling Na-update: Hulyo 15, 2026",
+      "intro": "Ipinapaliwanag ng Patakaran sa Privacy na ito kung paano kinokolekta, ginagamit, at pinoprotektahan ng DevFolio ang iyong personal na impormasyon kapag ginagamit ang aming mga serbisyo.",
+      "section1Title": "1. Impormasyong Kinokolekta Namin",
+      "section1Content": "Kinokolekta namin ang impormasyong ibinibigay mo nang direkta kapag gumagawa ng account, pagbuo ng portfolio, at pakikipag-ugnayan sa aming suporta. ",
+      "section2Title": "2. Paggamit ng Impormasyon",
+      "section2Content": "Ang iyong impormasyon ay ginagamit upang patakbuhin, panatilihin, at ibigay ang mga tampok ng aming mga serbisyo, pati na rin upang makipag-ugnayan sa iyo tungkol sa iyong account o mga serbisyo.",
+      "section3Title": "3. Seguridad ng Data",
+      "section3Content": "Nagpapatupad kami ng mga makatwirang hakbang sa seguridad upang protektahan ang iyong impormasyon mula sa hindi awtorisadong pag-access, pagsisiwalat, o pagkasira."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Hindi nakita ang token ng kumpirmasyon.",
+    "defaultError": "Nabigong tanggalin ang account. Maaaring nag-expire na ang token.",
+    "loadingTitle": "Tinatanggal ang Account...",
+    "loadingMessage": "Mangyaring maghintay, pinoproseso namin ang iyong kahilingan.",
+    "successTitle": "Matagumpay na Natanggal ang Account",
+    "successMessage": "Ang lahat ng iyong data ay permanenteng natanggal. Ire-redirect ka...",
+    "errorTitle": "Nabigong Tanggalin ang Account",
+    "backToHome": "Bumalik sa Tahanan"
+  },
+  "forgotPassword": {
+    "minutes": "minuto",
+    "seconds": "segundo",
+    "success": "Tagumpay",
+    "otpSentToEmail": "Isang OTP code ang ipinadala sa iyong email.",
+    "failed": "Nabigo",
+    "emailNotFound": "Hindi nakita ang email.",
+    "emailThirdParty": "Ang email na ito ay nakarehistro sa pamamagitan ng isang third party.",
+    "genericError": "May mali. Pakisubukang muli.",
+    "otpVerified": "Ang OTP code ay matagumpay na na-verify.",
+    "otpExpired": "Nag-expire na ang OTP code. Mangyaring humiling ng bagong code.",
+    "otpInvalid": "Di-wastong OTP code.",
+    "otpResent": "Isang bagong OTP code ang naipadala sa iyong email.",
+    "otpResendFailed": "Nabigong ipadala muli ang OTP code. Pakisubukang muli.",
+    "passwordResetSuccess": "Matagumpay na na-reset ang password. Mangyaring mag-log in gamit ang iyong bagong password.",
+    "passwordResetFailed": "Nabigong i-reset ang password.",
+    "backToLogin": "Bumalik sa Login",
+    "back": "Bumalik",
+    "title": "Nakalimutan ang Password",
+    "description": "Ilagay ang email address na nakarehistro sa iyong account. Magpapadala kami ng OTP code para i-reset ang password.",
+    "emailLabel": "Email Address",
+    "sending": "Ipinapadala...",
+    "sendOtp": "Magpadala ng OTP Code",
+    "verifyOtpTitle": "I-verify ang OTP Code",
+    "verifyOtpDesc": "Ilagay ang 6 na digit na code na ipinadala sa iyong email upang kumpirmahin ang iyong pagkakakilanlan.",
+    "verifying": "Bine-verify...",
+    "verifyOtp": "I-verify ang OTP",
+    "resending": "Muling ipinapadala...",
+    "resendOtp": "Muling ipadala ang OTP Code",
+    "resendCodeIn": "Muling ipadala ang code sa",
+    "newPasswordTitle": "Lumikha ng Bagong Password",
+    "newPasswordDesc": "Lumikha ng bago at malakas na password upang ma-secure ang iyong account.",
+    "newPasswordLabel": "Bagong Password",
+    "min8Chars": "Minimum na 8 character",
+    "oneUpperCase": "1 uppercase (A-Z)",
+    "oneNumber": "1 numero (0-9)",
+    "oneSymbol": "1 simbolo (!@#$%^&*)",
+    "confirmPasswordLabel": "Kumpirmahin ang Password",
+    "passwordsDoNotMatch": "Hindi tugma ang mga password.",
+    "resettingPassword": "Nire-reset ang Password...",
+    "resetPassword": "I-reset ang Password"
+  },
+  "verifyEmail": {
+    "resendError": "Nabigong ipadala muli ang email sa pagpapatunay. Pakisubukang muli.",
+    "checkingStatus": "Sinusuri ang katayuan ng pag-verify...",
+    "title": "Suriin ang Iyong Email",
+    "description": "Nagpadala kami ng email sa pagpapatunay sa iyong email address. Mangyaring buksan ang email at i-click ang button na <1>\"Kumpirmahin ang Account\"</1> upang i-activate ang iyong account.",
+    "stepsTitle": "Mga hakbang",
+    "step1": "Buksan ang iyong email application (Gmail, Yahoo, atbp)",
+    "step2": "Maghanap ng email mula sa DevFolio na may paksang \"Account Activation\"",
+    "step3": "I-click ang button na \"Kumpirmahin ang Account\" sa email",
+    "step4": "Ididirekta ka sa pahina ng pag-login upang ipasok ang",
+    "resendSuccess": "Ang email ng pagpapatunay ay naipadala na muli!",
+    "resending": "Muling ipinapadala...",
+    "resendButton": "Muling Ipadala ang Verification Email",
+    "backToLogin": "Bumalik sa Login Page",
+    "footerNote": "Hindi nakatanggap ng email? Tingnan ang folder na <1>Spam</1> o <2>Junk</2> sa iyong email. Ang link sa pag-verify ay may bisa sa loob ng <3>24 na oras</3>."
+  }
+}

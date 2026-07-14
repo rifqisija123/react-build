@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Su",
+    "templates": "Nhwɛsode ahorow",
+    "pricing": "Nneɛma bo a wɔbɔ",
+    "login": "Kɔ mu",
+    "getStarted": "Fi Ase",
+    "title": "DevFolio a wɔde kyerɛw nsɛm"
+  },
+  "landing": {
+    "badge": "Portfolio dansifo a etwa to ma developers",
+    "title1": "Si wo professional no si",
+    "title2": "portfolio wɔ",
+    "titleHighlight": "sikani.",
+    "subtitle": "Biribiara a wuhia na wode ada wo nimdeɛ, nnwuma, ne osuahu adi. ",
+    "startBuilding": "Fi Ase Si Seesei",
+    "viewTemplates": "Hwɛ Nhwɛsode ahorow",
+    "fastDeployment": "Nneɛma a Wɔde Di Dwuma Ntɛmntɛm",
+    "liveStatus": "username.dev yɛ nea ɛwɔ hɔ!",
+    "featuresTitle": "Nneɛma a Ɛwɔ Tumi",
+    "featuresSubtitle": "Yɛde nnwinnade a wuhia nyinaa ma wo na ama woada nsow wɔ nnipadɔm no ho na woanya w’adaeso adwuma.",
+    "feature1Title": "Drag & Drop Ɔdansifo",
+    "feature1Desc": "Ɛnyɛ den sɛ wode yɛn aniwa so editor a ɛyɛ mmerɛw no hyehyɛ wo afã horow, nnwuma, ne w’ahokokwaw.",
+    "feature2Title": "Amanneɛbɔ Nsɛmti",
+    "feature2Desc": "Paw fi nsusuwso ahorow a wɔayɛ no yiye mu anaasɛ yɛ w’ankasa wo hwɛbea soronko.",
+    "feature3Title": "Bere ankasa mu Nhwehwɛmu",
+    "feature3Desc": "Di w’ahɔho akyi, hwɛ nnwuma a wɔde wɔn adwene si so kɛse, ne nea ɛkeka ho."
+  },
+  "auth": {
+    "welcomeBack": "Yɛma Wo Akwaaba San",
+    "loginToContinue": "Kɔ wo akontaabu mu na toa so",
+    "createAccount": "Yɛ Akontaabu",
+    "joinCommunity": "Kɔka developers afoforo mpempem pii ho",
+    "fullName": "Edin a Edi Mu",
+    "fullNamePlaceholder": "s.e., s.e. ",
+    "email": "Email Address a Wɔde Di Dwuma",
+    "emailPlaceholder": "wo@nhwɛso.com",
+    "password": "Paswɛde",
+    "passwordPlaceholder": "••••••••------------------------------------------------------------------------------------------------------------------",
+    "rememberMe": "Kae me",
+    "forgotPassword": "Wo werɛ afi password?",
+    "signIn": "Hyehyɛ Mu",
+    "signingIn": "Wode wo nsa hyɛ ase...",
+    "signUp": "Kyerɛw wo din",
+    "signingUp": "Worekyerɛw wo din...",
+    "noAccount": "Wonni akontaabu biara?",
+    "hasAccount": "Wowɔ akontaabu dedaw?",
+    "passwordRules": {
+      "title": "Ɛsɛ sɛ password no kura:",
+      "length": "Anyɛ yiye koraa no, nkyerɛwde 8",
+      "uppercase": "Nkyerɛwde akɛse biako (A-Z) .",
+      "number": "Nnɔmba biako (0-9) .",
+      "symbol": "Ahyɛnsode biako (!@#$%^&*) ."
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Ɔdansifo a Ɔyɛ Portfolio",
+      "templates": "Nhwɛsode & Nsɛmti",
+      "settings": "Nsiesiei a Wɔde Yɛ Adwuma",
+      "collapse": "Collapse Sidebar a ɛwɔ hɔ no",
+      "overview": "Nsɛm a wɔaka abom",
+      "profileSettings": "Profile Nsiesiei",
+      "customDomain": "Amanneɛbɔ Domain",
+      "feedback": "Adwenkyerɛ"
+    },
+    "header": {
+      "viewLive": "Hwɛ Live",
+      "welcome": "Akwaaba,",
+      "logout": "Fi wo ho fi mu",
+      "builder": "Ɔdansifo",
+      "livePortfolio": "Live Portfolio a ɛwɔ hɔ",
+      "live": "Te ase"
+    },
+    "logoutModal": {
+      "title": "Fi wo ho fi mu",
+      "message": "So wugye di sɛ wopɛ sɛ wufi wo akontaabu mu? ",
+      "cancel": "Twam",
+      "confirm": "Yiw, Logout"
+    },
+    "slugModal": {
+      "title": "Paw Wo Portfolio URL no",
+      "message": "Saa URL yi bɛyɛ link soronko a ɛkɔ wo portfolio no so. ",
+      "slugPlaceholder": "wo-din",
+      "availability": "Nea ɛwɔ hɔ:",
+      "available": "Wɔ hɔ",
+      "unavailable": "Ɛnyɛ nea wobetumi anya",
+      "checking": "Hwɛ sɛ...",
+      "mustFormat": "Nkyerɛwde, nɔma, ne nsensanee (-) nkutoo betumi akura mu .",
+      "cancel": "Twam",
+      "save": "Fa URL no sie",
+      "usernameUrl": "Ɔdefoɔ din URL",
+      "helpText": "Nkyerɛwde nketewa, nɔma, ne nsensanee. ",
+      "validation": {
+        "empty": "Slug ntumi nyɛ nea hwee nni mu.",
+        "min3": "Anyɛ yiye koraa no, nkyerɛwde 3.",
+        "max30": "Nkyerɛwde a ɛboro so 30.",
+        "format": "Nkyerɛwde nketewa, nɔma, ne nsensanee (-) nkutoo. "
+      }
+    },
+    "loadingPortfolio": "Wɔde portfolio data regu mu...",
+    "overview": {
+      "greetings": {
+        "morning": "Anɔpa Pa",
+        "afternoon": "Awia Pa",
+        "evening": "Awia Pa",
+        "night": "Anadwo Pa"
+      },
+      "welcome": {
+        "hi": "Hi, .",
+        "creator": "Ɔbɔadeɛ",
+        "desc1": "Yɛma wo akwaaba ba DevFolio dashboard no so. Wo portfolio no na wɔahwɛ",
+        "desc2": "onii. Kɔ so yɛ adwuma!",
+        "editPortfolio": "Sesa Portfolio no"
+      },
+      "stats": {
+        "totalVisitors": "Nsrahwɛfo Nyinaa",
+        "projectViews": "Wɔahwɛ (Adwuma) .",
+        "activeSessions": "Nhyiam a Ɛyɛ Nnam",
+        "totalLabel": "Ne nyinaa"
+      },
+      "setup": {
+        "title": "Setup Nkɔso",
+        "completed": "Wo portfolio no awie pɛyɛ! 🎉 na ɛyɛ",
+        "inProgress": "Anamɔn a ɛkɔ portfolio a ɛyɛ pɛ no so.",
+        "profile": {
+          "title": "Profile a Edi Mu",
+          "desc": "Fa din, bio ne profile photo ka ho."
+        },
+        "section": {
+          "title": "Fa Nkyɛmu Ahorow Ka Ho",
+          "desc": "Anyɛ yiye koraa no, ma ɔfã 1 yɛ adwuma wɔ portfolio no mu."
+        },
+        "project": {
+          "title": "Fa Project ka ho",
+          "desc": "Anyɛ yiye koraa no, hyɛ wo nnwuma a eye sen biara no mu 1 mu."
+        },
+        "publish": {
+          "title": "Tia Portfolio no tintim",
+          "desc": "Set URL a wopɛ sɛnea ɛbɛyɛ a ɔmanfo betumi akɔ mu."
+        }
+      },
+      "topProjects": {
+        "title": "Nnwuma a Agye Din Sen Biara",
+        "desc": "W’adwuma a wobɛyɛ wɔ ahɔho ani so.",
+        "viewAll": "Hwɛ Ne Nyinaa",
+        "empty": "View data biara nni hɔ a ɛfa wo project no ho de besi nnɛ."
+      }
+    },
+    "themes": {
+      "title": "Nhwɛsode & Nsɛmti",
+      "subtitle": "Yɛ wo baguam sikakorabea no hwɛbea ne sɛnea ɛte no sɛnea wopɛ.",
+      "reset": "Reset Default a Wɔde Di Dwuma",
+      "save": "Sie Nsakraeɛ",
+      "saving": "Sikakorabea...",
+      "chooseTemplate": "Paw Nhwɛsode",
+      "primaryColor": "Kɔla a Ɛho Hia",
+      "typography": "Nkyerɛwde a Wɔde kyerɛw",
+      "appearance": "Sɛnea ɛte",
+      "corners": "Ntwea so & Ahye",
+      "successTitle": "Nkonimdi",
+      "successMessage": "Wɔayɛ asɛmti a wɔpɛ no foforo yiye",
+      "errorTitle": "Mfomso",
+      "errorMessage": "Entumi nkora asɛmti a wɔpɛ so",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Nsusuwii a ɛho tew na ɛnyɛ den a ɛtwe adwene si emu nsɛm so."
+        },
+        "developerDark": {
+          "name": "Ɔdebɔneyɛfo Dark",
+          "desc": "Dark asɛmti a ɛyɛ pɛpɛɛpɛ ma showcasing code ne tech stacks."
+        },
+        "creative": {
+          "name": "Adebɔ",
+          "desc": "Nsiesiei a ɛyɛ hyew na ɛyɛ kɔla ma adwumfo ne adebɔfo."
+        },
+        "executive": {
+          "name": "Adwumayɛfoɔ",
+          "desc": "Adwumayɛ ne ɔkwan a wɔfa so yɛ nhyehyɛe ma adwumayɛ ho adwumayɛfo."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Nnɛyi Apple-style grid nhyehyɛe a ɛtwe adwene si ahokokwaw ahorow so yiye."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Atirimɔdensɛm",
+          "desc": "Bold borders ne high contrast kɔla ahorow ma trendy, unapologetic hwɛbea."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Frosted glass nsunsuanso wɔ kɔla gradients ma sleek nnɛyi UI."
+        },
+        "linkInBio": {
+          "name": "Link wɔ Bio",
+          "desc": "Compact vertical nhyehyɛe a wɔayɛ no yiye ama mobile screens ne social media."
+        }
+      },
+      "appearances": {
+        "light": "Hann",
+        "dark": "Esum",
+        "system": "Nhyehyɛe"
+      },
+      "cornersOptions": {
+        "sharp": "Nnyigyei",
+        "rounded": "Wɔayɛ no kurukuruwa",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Send Nsɛm a Wɔka Kyerɛ",
+      "subtitle": "Boa yɛn ma ɛnyɛ yie denam nyansahyɛ, ɔkasatia, anaa amanneɛbɔ a yɛde bɛma mfomsoɔ wɔ application yi so.",
+      "categoryLabel": "Nsɛm a wɔka kyerɛ no Category",
+      "messageLabel": "Nkrasɛm no ho nsɛm",
+      "messagePlaceholder": "Ka nsɛm a wopɛ sɛ wode ma no ho asɛm kyerɛ me kɔ akyiri...",
+      "imageLabel": "Mfonini a Wɔde Ka Ho (Wɔpɛ)",
+      "imagePlaceholder": "Klik na fa mfonini anaa screenshot gu so",
+      "submitting": "Ɔresoma...",
+      "submitBtn": "Send Nsɛm a Wɔka Kyerɛ",
+      "categories": {
+        "suggestion": "Nyansahyɛ & Adwene",
+        "bug": "Bug / Mfomso Amanneɛbɔ",
+        "criticism": "Ɔkasatia",
+        "other": "Afoforo nso"
+      },
+      "imageErrorTitle": "Mfomso",
+      "imageErrorMessage": "Wɔpo fael binom efisɛ wɔmfa mfonini ahorow a wɔboa (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Nkonimdi",
+      "successMessage": "Yɛda mo ase wɔ mo nsusuwii no ho! Wɔde amanneɛbɔ amena.",
+      "submitErrorTitle": "Wɔadi nkogu",
+      "submitErrorMessage": "Mfomso bi sii bere a wɔde nsɛm a wɔka kyerɛ no remena no. Yɛsrɛ sɛ sɔ hwɛ bio."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Me Ho Nsɛm",
+      "skills": "Nimdeɛ",
+      "projects": "Nnwuma a wɔyɛ",
+      "workExperience": "Adwuma mu Osuahu",
+      "orgExperience": "Ahyehyɛde mu Osuahu",
+      "education": "Nwomasua",
+      "certifications": "Ntetee & Adansedie a Wɔde Ma",
+      "contact": "Di Me Nkitaho"
+    },
+    "editor": {
+      "profileInfo": "Profile ho Nsɛm",
+      "saving": "Sikakorabea...",
+      "profilePhoto": "Profile Photo",
+      "clickToUpload": "Klik na fa to so (JPG, PNG) .",
+      "fullName": "Edin a Edi Mu",
+      "fullNamePlaceholder": "s.e., s.e. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer a n’ani gye ho sɛ ɔbɛkyekye nnɛyi wɛb apps...",
+      "location": "Beaeɛ",
+      "locationPlaceholder": "s.e., s.e. ",
+      "gender": "Bɔbea",
+      "selectGender": "Paw Bɔbeasu",
+      "male": "Barima",
+      "female": "Ɔbaa koko",
+      "custom": "Amaneɛ",
+      "customPlaceholder": "Type wo amanne kwan so gender...",
+      "uploadCv": "Fa CV gu so",
+      "cvFormat": "(DOC anaa PDF)",
+      "preview": "Nhwɛso a edi kan",
+      "remove": "Yi",
+      "clickToUploadCv": "Klik na fa PDF anaa DOC gu so",
+      "sections": "Nkyɛmu ahorow",
+      "removeSelected": "Yi Nea Wɔapaw no Fi hɔ",
+      "confirmRemove": "Si so dua sɛ Yi fi hɔ",
+      "addSection": "Fa Ɔfã no ka ho",
+      "addAllSections": "Fa Nkyɛmu Nyinaa Ka Ho",
+      "noSections": "Afã horow biara nni hɔ de besi nnɛ",
+      "clickToAdd": "Klik \"+ Add Section\" so na fi ase",
+      "selectAll": "Paw Ne Nyinaa",
+      "selected": "Wɔapaw no",
+      "dragToReorder": "Twe kɔ san hyehyɛ afã horow no",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Fa afã horow ka ho na ama woakyekye wo portfolio",
+      "now": "Seesei",
+      "current": "Foforɔ",
+      "noExpiry": "No Expiration biara nni hɔ",
+      "see": "Hwɛ",
+      "position": "Gyinabea",
+      "degree": "Anoɔden",
+      "certification": "Adansedi krataa",
+      "sectionsForm": {
+        "about": {
+          "label": "Wo ho nkyerɛkyerɛmu",
+          "placeholder": "Ka wo ho asɛm kyerɛ yɛn, wo akyigyina, w’anigye ne w’ahokokwaw..."
+        },
+        "skills": {
+          "addPlaceholder": "Type skill afei mia Enter..."
+        },
+        "projects": {
+          "title": "Dwumadie no Din",
+          "titlePlaceholder": "Dwumadie no din...",
+          "url": "Dwumadie no URL",
+          "description": "Nkyerɛmu",
+          "descriptionPlaceholder": "Adwuma no ho nkyerɛkyerɛmu tiawa...",
+          "uploadThumbnail": "Project Mfonini",
+          "addProject": "Fa Project ka ho",
+          "projectNum": "Dwumadie #",
+          "currentProject": "Eyi yɛ adwuma bi a mereyɛ ho adwuma"
+        },
+        "work": {
+          "company": "Adwumakuw/Adwumakuw",
+          "companyPlaceholder": "Company din...",
+          "position": "Dibea/Asɛmti",
+          "positionPlaceholder": "Wo gyinabea...",
+          "employmentType": "Adwuma ko a wɔyɛ",
+          "location": "Beaeɛ",
+          "locationPlaceholder": "Kurow, Ɔman...",
+          "startDate": "Hyɛ aseɛ",
+          "endDate": "Wieeɛ",
+          "currentWork": "Meda so ara reyɛ adwuma mprempren",
+          "description": "Nkyerɛmu",
+          "descriptionPlaceholder": "Adwuma ho nkyerɛkyerɛmu ne asɛyɛde ahorow...",
+          "skills": "Nimdeɛ",
+          "addExperience": "Fa Adwuma mu Osuahu Ka Ho",
+          "experienceNum": "Suahunu #",
+          "dateError": "Da a wɔde bɛba awiei no ntumi nyɛ ntɛm nsen da a wɔde befi ase no"
+        },
+        "org": {
+          "organization": "Ahyehyɛde no Edin",
+          "orgPlaceholder": "BEM Sukuupɔn...",
+          "role": "Dwuma/Gyinabea",
+          "rolePlaceholder": "Division Titenani...",
+          "addOrg": "Fa Ahyehyɛde mu Osuahu ka ho",
+          "orgNum": "Adwumakuo #"
+        },
+        "edu": {
+          "institution": "Nhomasua Asoɛe ahorow",
+          "institutionPlaceholder": "Sukuupɔn anaa sukuu no din...",
+          "degree": "Atiti asɛm",
+          "degreePlaceholder": "S1, ntoaso sukuu, ne nea ɛkeka ho...",
+          "major": "Dwumadibea/Adesua Dwumadibea",
+          "majorPlaceholder": "Amanneɛbɔ ho Mfiridwuma...",
+          "gpa": "GPA (wɔpɛ sɛ wopaw) .",
+          "currentStudy": "Meda so ara resua ade wɔ ha",
+          "descriptionPlaceholder": "Dwumadie ne nkɔsoɔ a wɔyɛ wɔ adesua mu...",
+          "addEdu": "Fa Nhomasua ka ho",
+          "eduNum": "Nwomasua #"
+        },
+        "cert": {
+          "name": "Adansedie / Nteteeɛ din",
+          "namePlaceholder": "Adansedi din...",
+          "issuer": "Ɔdawurubɔfo",
+          "issuerPlaceholder": "Asoɛe a ɛtintim nhoma...",
+          "issueDate": "Mfiase (Da a Wotintim) .",
+          "issueDatePlaceholder": "Paw da a wobetintim...",
+          "expiryDate": "Wɔawie (Bere a Ɛfata) .",
+          "expiryDatePlaceholder": "Paw da a ɛbɛba awiei...",
+          "noExpiry": "Saa adansedi krataa yi nni da a ɛbɛba awiei",
+          "url": "Adansedi krataa URL",
+          "uploadThumbnail": "Adansedi krataa / Ntetee Mfonini",
+          "uploadThumbnailLimit": "Fa adansedi krataa mfonini (JPG/PNG/WEBP, max 2MB) gu so.",
+          "addCert": "Fa Adansedi krataa ka ho",
+          "certNum": "Adansedi krataa # ."
+        },
+        "contact": {
+          "contactNum": "Di nkutaho #",
+          "platform": "Prama",
+          "displayText": "Kyerɛw Nsɛm a Wɔakyerɛw",
+          "displayTextPlaceholder": "s.e., wo@email.com anaa @ɔdefo din",
+          "url": "Nkitahodi (URL) .",
+          "urlPlaceholderWhatsapp": "s.e., 62812... (a enni anim 0) .",
+          "urlPlaceholderEmail": "s.e., wo@email.com",
+          "urlPlaceholderWebsite": "s.e., https://...",
+          "urlPlaceholderDefault": "s.e., edin a ɔde di dwuma",
+          "addContact": "Fa Nkitahodi ka ho"
+        },
+        "common": {
+          "months": {
+            "1": "Ɔpɛpɔn",
+            "2": "Ɔgyefoɔ",
+            "3": "Ɔbɛnem",
+            "4": "Oforisuo",
+            "5": "Bɛtumi",
+            "6": "Ayɛwohomumɔ",
+            "7": "Kutawonsa",
+            "8": "Ɔsanaa",
+            "9": "Ɔbɔ",
+            "10": "Ahinime",
+            "11": "Obubuo",
+            "12": "Ɔpɛnimma"
+          },
+          "month": "Bosome",
+          "year": "Afe",
+          "invalidDate": "Ɔsram a Ɛba Awiei a Ɛnyɛ Mu",
+          "words": "nsɛmfua"
+        }
+      },
+      "sure": "Gye di",
+      "deletePhotoTitle": "Popa Profile Photo no?",
+      "deletePhotoMessage": "Wogye di sɛ wopɛ sɛ wopopa profile photo yi?",
+      "cancel": "Twam",
+      "delete": "Pepa"
+    },
+    "cropper": {
+      "chooseBackground": "Paw Akyi Nsɛm",
+      "cropPhoto": "Twitwa Wo Mfonini no mu",
+      "useOriginal": "Fa mfitiase de di dwuma",
+      "backgroundPresets": "Akyi Nsɛm a Wɔahyehyɛ",
+      "none": "Ɛnyɛ ebiara",
+      "uploadBackground": "Upload Background a Wɔde To So",
+      "cancel": "Twam",
+      "savePhoto": "Fa Mfonini Siesie",
+      "zoom": "Zoom na ɛyɛ kɛse",
+      "rotationTilt": "Nkyinkyin & Nkyinkyin",
+      "resetRotation": "San fa kɔ 0° so",
+      "center": "Mfimfini",
+      "rotateLeft": "Di akɔneaba -90°",
+      "rotateRight": "Di akɔneaba +90°",
+      "removeBackground": "Yi Background no fi hɔ",
+      "processing": "Processing wo mfonini no, yɛsrɛ wo twɛn..."
+    },
+    "cvPreview": {
+      "title": "CV Nhwɛso a Wɔde Di Dwuma",
+      "downloadCv": "Twe CV no",
+      "download": "Twe",
+      "wordCannotPreview": "Word nkrataa (.doc/.docx) ntumi nhwɛ kan wɔ natively wɔ browser no mu. ",
+      "downloadFile": "Twe CV Fael no",
+      "back": "Akyire",
+      "mobileMessage": "Yɛsrɛ sɛ twe CV fael no na woadi kan ahwɛ.",
+      "preview": "Hwɛ CV no ansa na woayɛ",
+      "wordPreviewTitle": "Word Document Nhwɛso a Wɔde Di Dwuma",
+      "wordPreviewMessage": "Word nkrataa (.doc/.docx) ntumi nhwɛ kan wɔ natively wɔ browser no mu. Yɛsrɛ sɛ twe fael no na hwɛ."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Kyerɛw nkyerɛkyerɛmu tiawa bi fa wo ho, w’anigyede, ne adwuma botae ahorow ho..."
+    },
+    "skills": {
+      "placeholder": "Type ahokokwaw din...",
+      "add": "Fa ka ho",
+      "enterToAdd": "Mia Enter so na fa ka ho",
+      "noSkills": "Wɔamfa ahokokwaw biara aka ho de besi nnɛ."
+    },
+    "projects": {
+      "projectName": "Dwumadie no Edin",
+      "projectNamePlaceholder": "s.e., s.e. ",
+      "projectUrl": "Dwumadie no URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Berɛ",
+      "startMonth": "Ɔsram a Wofi Ase",
+      "startYear": "Afe a Wofi Ase",
+      "endMonth": "Ɔsram a Ɛba Awiei",
+      "endYear": "Afe Awiei",
+      "currentlyWorking": "Mprempren yɛreyɛ eyi ho adwuma",
+      "description": "Nkyerɛmu",
+      "descriptionPlaceholder": "Kyerɛkyerɛ adwuma no, wo dwumadie, ne wo nkɔsoɔ...",
+      "technologies": "Mfiridwuma Ho Nneɛma a Wɔde Di Dwuma",
+      "addProject": "Fa Project ka ho",
+      "image": "Project Mfonini",
+      "removeImage": "Yi Mfonini no fi hɔ",
+      "uploadImage": "Klik so na fa mfonini no gu so"
+    },
+    "work": {
+      "company": "Adwumakuw/Adwumakuw",
+      "companyPlaceholder": "Company din...",
+      "role": "Dwuma/Gyinabea",
+      "rolePlaceholder": "Wo gyinabea...",
+      "jobType": "Adwuma a Wɔyɛ",
+      "selectJobType": "Paw ɔkwan a wobɛfa so",
+      "fullTime": "Bere nyinaa adwuma",
+      "partTime": "Bere fã a wɔde yɛ adwuma",
+      "contract": "Kɔntraagye",
+      "internship": "Adwumasua",
+      "freelance": "Ɔyɛ adwuma a ɔde ne ho",
+      "location": "Beaeɛ",
+      "locationPlaceholder": "s.e., s.e. ",
+      "duration": "Berɛ",
+      "currentlyWorking": "Mprempren ɔreyɛ adwuma wɔ ha",
+      "description": "Adwuma ho Nkyerɛkyerɛmu",
+      "descriptionPlaceholder": "Kyerɛkyerɛ w’asɛyɛde atitiriw ne nea woatumi ayɛ...",
+      "skills": "Ahokokwaw Pɔtee",
+      "addExperience": "Fa Osuahu Ka Ho"
+    },
+    "org": {
+      "organization": "Ahyehyɛde no Edin",
+      "organizationPlaceholder": "Ahyehyɛde no din...",
+      "role": "Dwuma/Gyinabea",
+      "rolePlaceholder": "s.e., s.e. ",
+      "duration": "Berɛ",
+      "periodFormat": "anaasɛ Free Format (sɛ nhwɛso no, 2020 - 2022) .",
+      "periodPlaceholder": "s.e., s.e. ",
+      "currentlyActive": "Mprempren ɔyɛ nnam",
+      "description": "Dwumadie Nkyerɛkyerɛmu",
+      "descriptionPlaceholder": "Kyerɛkyerɛ wo dwumadi anaa ntoboa ahorow mu...",
+      "addExperience": "Fa Osuahu Ka Ho"
+    },
+    "education": {
+      "institution": "Asoɛe no Din",
+      "institutionPlaceholder": "Sukuu anaa sukuupɔn din...",
+      "degree": "Abodin krataa/Level",
+      "degreePlaceholder": "s.e., s.e. ",
+      "major": "Adesua Titiriw/Adwuma",
+      "majorPlaceholder": "s.e., s.e. ",
+      "gpa": "GPA / Abasobɔde",
+      "gpaPlaceholder": "s.e., s.e. ",
+      "duration": "Nhomasua Bere tenten a Wɔde Di Dwuma",
+      "periodFormat": "anaasɛ Free Format (sɛ nhwɛso no, 2018 - 2022) .",
+      "periodPlaceholder": "s.e., s.e. ",
+      "currentlyStudying": "Mprempren meresua ade wɔ ha",
+      "description": "Dwumadie / Nidi",
+      "descriptionPlaceholder": "Kyerɛkyerɛ adesua dwumadi ahorow, ahyehyɛde ahorow, anaa nidi a wɔanya...",
+      "addEducation": "Fa Nhomasua ka ho"
+    },
+    "cert": {
+      "name": "Adansedi Edin",
+      "namePlaceholder": "s.e., s.e. ",
+      "issuer": "Ahyehyɛde a Wɔde Ma",
+      "issuerPlaceholder": "s.e., s.e. ",
+      "issueDate": "Da a Wɔde Mae",
+      "expiryDate": "Valid Kosi sɛ",
+      "noExpiry": "Saa adansedi krataa yi ntwam",
+      "yearPlaceholder": "anaa Afe (e.g. 2023) .",
+      "credentialUrl": "Adansedi krataa URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Ahokokwaw a Ɛfa Ho",
+      "addCertification": "Fa Adansedi krataa ka ho",
+      "image": "Mfonini/Ahyɛnsode",
+      "removeImage": "Yi Mfonini no fi hɔ",
+      "uploadImage": "Klik so na fa mfonini no gu so"
+    },
+    "common": {
+      "months": {
+        "1": "Ɔpɛpɔn",
+        "2": "Ɔgyefoɔ",
+        "3": "Ɔbɛnem",
+        "4": "Oforisuo",
+        "5": "Bɛtumi",
+        "6": "Ayɛwohomumɔ",
+        "7": "Kutawonsa",
+        "8": "Ɔsanaa",
+        "9": "Ɔbɔ",
+        "10": "Ahinime",
+        "11": "Obubuo",
+        "12": "Ɔpɛnimma"
+      },
+      "month": "Bosome",
+      "year": "Afe",
+      "invalidDate": "Ɔsram a Ɛba Awiei a Ɛnyɛ Mu",
+      "words": "nsɛmfua"
+    }
+  },
+  "settings": {
+    "title": "Nsiesiei a Wɔde Yɛ Adwuma",
+    "subtitle": "Hwɛ wo portfolio profile ne nea wopɛ so",
+    "tabs": {
+      "profile": "Me Profile",
+      "security": "Bammɔ",
+      "personalization": "Nnipa a wɔyɛ wɔn ankasa de"
+    },
+    "profile": {
+      "infoTitle": "Nsɛm a Ɛho Hia",
+      "photo": "Profile Photo",
+      "uploadPhoto": "Sesa Mfonini no",
+      "fullName": "Edin a Edi Mu",
+      "fullNamePlaceholder": "John Doe na ɔkyerɛwee",
+      "email": "Email Address a Wɔde Di Dwuma",
+      "emailPlaceholder": "john@nhwɛso.com",
+      "emailHelp": "Wɔde email di dwuma de login na wɔmfa nkyerɛ wɔ baguam.",
+      "portfolioUrl": "Portfolio URL a ɛwɔ hɔ",
+      "saveProfile": "Fa Profile sie",
+      "save": "Fa Profile sie",
+      "accountCreated": "Akontaabu a Wɔabɔ",
+      "lastLogin": "Login a Etwa To",
+      "oauthNotice": "Saa profael yi wɔ abusuabɔ ne wo {{provider}} akonta. Ɛsɛ sɛ wɔnam ɔsom adwuma no so yɛ nsakrae wɔ profile mu."
+    },
+    "security": {
+      "changePassword": "Sesa Password no",
+      "currentPassword": "Mprempren Password a Wɔde Di Dwuma",
+      "currentPasswordPlaceholder": "••••••••------------------------------------------------------------------------------------------------------------------",
+      "newPassword": "Password Foforo",
+      "newPasswordPlaceholder": "••••••••------------------------------------------------------------------------------------------------------------------",
+      "confirmPassword": "Si Password Foforo no so dua",
+      "confirmPasswordPlaceholder": "••••••••------------------------------------------------------------------------------------------------------------------",
+      "passwordRules": {
+        "length": "Anyɛ yiye koraa no, nkyerɛwde 8",
+        "uppercase": "Nkyerɛwde akɛse biako (A-Z) .",
+        "number": "Nnɔmba biako (0-9) .",
+        "symbol": "Ahyɛnsode biako (!@#$%^&*) ."
+      },
+      "passwordTitle": "Paswɛde",
+      "updatePassword": "Fa Password no yɛ foforo",
+      "additionalSecurity": "Ahobammɔ a Ɛka Ho",
+      "twoFactor": "Nneɛma Abien a Wɔde Di Dwuma (2FA) .",
+      "twoFactorDesc": "Fa OTP koodu foforo bɔ wo akontaabu ho ban.",
+      "activeSessions": "Nhyiam Ahorow a Ɛyɛ Nnam",
+      "activeSessionsDesc": "Bere nyinaa ma kwan ma wɔhwɛ mfiri a wɔakɔ mu no so.",
+      "publicVisibility": "Ɔmanfo a Wohu",
+      "hideFromSearch": "Fa Portfolio sie fi Search Engines mu",
+      "hideFromSearchDesc": "Siw Google kwan sɛ ɛbɛkyerɛ wo ɔmanfo portfolio krataafa no index.",
+      "disable2fa": {
+        "title": "Ma 2FA no nyɛ adwuma",
+        "description": "So wugye di sɛ wopɛ sɛ wudum nneɛma abien a ɛma wogye tom?",
+        "confirmPasswordLabel": "Hyehyɛ wo password no na si so dua",
+        "currentPasswordPlaceholder": "Mprempren asɛmfua a wɔde hyɛ mu",
+        "cancelButton": "Twa mu",
+        "confirmButton": "Ma 2FA no nyɛ adwuma",
+        "incorrectPassword": "Password a ɛnteɛ."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code no",
+        "step1Desc": "Bue wo authenticator app no ​​na scan QR code a edidi so yi:",
+        "unableToScan": "Wontumi nnye scan? Fa nhyehyɛe safoa no di dwuma",
+        "step2Title": "2. Hwɛ sɛ Mmara no yɛ nokware",
+        "step2Desc": "Hyehyɛ 6-digit code a wo app no ​​ayɛ no:",
+        "cancelButton": "Twam",
+        "enableButton": "Ma 2FA nyɛ adwuma",
+        "invalidLength": "Yɛsrɛ sɛ kyerɛw koodu a ɛwɔ digit 6.",
+        "invalidCode": "Verification code a ɛnteɛ. Yɛsrɛ sɛ sɔ hwɛ bio."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kasa a Wɔde Di Dwuma",
+      "appLanguage": "App Kasa a Wɔde Di Dwuma",
+      "layoutTitle": "Nhyehyɛe & Nkyerɛwee",
+      "layoutStyle": "Ɔkwan a Wɔfa so Yɛ Nneɛma",
+      "layoutModern": "Nnɛyi Style (Default) .",
+      "layoutClassic": "Classic Style",
+      "layoutMinimalist": "Ɔkwan a Wɔfa so Yɛ Minimalist",
+      "fontSize": "App Font Kɛseɛ",
+      "fontSmall": "Ketewa",
+      "fontNormal": "Nea ɛyɛ daa (Medium) .",
+      "fontLarge": "Kakraa",
+      "searchLanguage": "Hwehwɛ kasa...",
+      "languageNotFound": "Kasa a wɔanhu",
+      "layoutElegant": "Style a Ɛyɛ Fɛ"
+    },
+    "saveChanges": "Fa Nsakrae Sie",
+    "cancel": "Twam",
+    "appSettings": "App Nsiesiei a Wɔde Yɛ Adwuma",
+    "logoutConfirmTitle": "Si Logout no so dua",
+    "logoutConfirmDesc": "So wugye di sɛ wopɛ sɛ wufi nhyehyɛe no mu?",
+    "logoutConfirmYes": "Yiw, Logout",
+    "generalError": "Mfomso bi sii. ",
+    "success": "Nkunimdie",
+    "preferencesSaved": "Wɔakora app a wɔpɛ so yiye.",
+    "header": "Application Nsiesiei a Wɔde Yɛ Adwuma",
+    "logout": {
+      "title": "Logout Nhyɛso",
+      "message": "So wugye di sɛ wopɛ sɛ wufi nhyehyɛe no mu?",
+      "confirm": "Yiw, Logout"
+    },
+    "about": {
+      "title": "Ɛfa Application ho",
+      "subtitle": "Portfolio Ɔdansifoɔ Platform",
+      "version": "Ɔfa",
+      "description": "DevFolio yɛ nnɛyi portfolio builder platform a wɔayɛ ama developers, designers, ne professional creators. ",
+      "license": "Tumi krataa & Hokwan a Wɔde Yɛ Adwuma",
+      "copyright": "© 2026 DevFolio Inc. Wɔakora hokwan ahorow nyinaa so.",
+      "developer": "Ɔdebɔneyɛfo",
+      "developedBy": "Rifqi Naradata na ɔyɛɛ no"
+    },
+    "deleteAccount": {
+      "title": "Popa Akontaabu Daa",
+      "menuItem": "Popa Akontaabu",
+      "successTitle": "Nkonimdi",
+      "successMessage": "Wɔde email a ɛkyerɛ sɛ wɔapopa akontaabu no amena.",
+      "errorTitle": "Wɔadi nkogu",
+      "errorMessage": "Entumi mfa email a ɛkyerɛ sɛ ɛyɛ nokware anmena.",
+      "confirmationMessage": "So wugye di sɛ wopɛ sɛ wopopa wo akontaabu no daa?",
+      "warningMessage1": "Wo nsa bɛka email a ɛbɛkyerɛ sɛ wɔapopa akontaabu.",
+      "warningMessage2": "Sɛ wɔsi so dua a, wɔbɛpopa data nyinaa (portfolio, projects, statistics) daa na wɔrentumi nsan nnye bio.",
+      "cancel": "Twa mu",
+      "confirm": "Si so dua"
+    },
+    "toasts": {
+      "toastError": "Mfomsoɔ",
+      "toastSuccess": "Nkunimdie",
+      "toastSetup2FAFailed": "Entumi nsiesie 2FA. Yɛsrɛ sɛ sɔ hwɛ bio.",
+      "toast2FAEnabled": "Wɔama nneɛma abien a ɛma wogye tom no ayɛ adwuma.",
+      "toast2FADisabled": "Wɔayɛ nneɛma abien a ɛma wogye tom no adwuma.",
+      "toastSessionEnabled": "Wɔama active session monitoring no ayɛ adwuma.",
+      "toastSessionDisabled": "Wɔayɛ active session monitoring no adwuma.",
+      "toastSetupKeyCopied": "Setup key a wɔayɛ no kɔpi wɔ clipboard so."
+    },
+    "privacy": {
+      "title": "Nsɛm a Wɔde Sie",
+      "updateDate": "Wɔyɛɛ no ​​foforo a etwa to: July 15, 2026",
+      "intro": "Saa Kokoam Nsɛm Ho Nhyehyɛe yi kyerɛkyerɛ sɛnea DevFolio boaboa w’ankasa wo ho nsɛm ano, de di dwuma, na ɛbɔ ho ban bere a wode yɛn nnwuma redi dwuma no mu.",
+      "section1Title": "1. Nsɛm a Yɛboaboa Ano",
+      "section1Content": "Yɛboaboa nsɛm a wode ma tẽẽ bere a woreyɛ akontaabu, reyɛ portfolio, na wo ne yɛn mmoa di nkitaho no ano. ",
+      "section2Title": "2. Nsɛm a Wɔde Di Dwuma",
+      "section2Content": "Wɔde wo ho nsɛm di dwuma, hwɛ so, na yɛde yɛn nnwuma no mu nneɛma bi ma, na wɔde ne wo di nkitaho fa wo akontaabu anaa nnwuma ho.",
+      "section3Title": "3. Data Ahobammɔ",
+      "section3Content": "Yɛde ahobanbɔ ho nhyehyɛe a ɛfata di dwuma de bɔ wo ho nsɛm ho ban na obiara antumi ankɔ mu, ada no adi, anaa ansɛe no."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Wɔnhunuu confirmation token.",
+    "defaultError": "Entumi mpopa akontaabu. Ebia token no bere atwam.",
+    "loadingTitle": "Akontaabu a Wɔrepopa...",
+    "loadingMessage": "Yɛsrɛ sɛ twɛn, yɛreyɛ w’abisade no ho adwuma.",
+    "successTitle": "Akontaabu a Wɔapopa no Yiye",
+    "successMessage": "Wɔapopa wo data nyinaa koraa. Wɔbɛsan akɔ wo kwan so...",
+    "errorTitle": "Entumi Popa Akontaabu",
+    "backToHome": "San Kɔ Fie"
+  },
+  "forgotPassword": {
+    "minutes": "simma",
+    "seconds": "sikani",
+    "success": "Nkonimdi",
+    "otpSentToEmail": "Wɔde OTP koodu bi akɔ wo email so.",
+    "failed": "Wɔadi nkogu",
+    "emailNotFound": "Wɔanhu email.",
+    "emailThirdParty": "Wɔnam obi a ɔto so abiɛsa so na wɔakyerɛw saa email yi din.",
+    "genericError": "Mfomso bi wɔ hɔ. Yɛsrɛ sɛ sɔ hwɛ bio.",
+    "otpVerified": "Wɔagye OTP koodu no atom yiye.",
+    "otpExpired": "OTP koodu no atwam. Yɛsrɛ sɛ bisa code foforo.",
+    "otpInvalid": "OTP koodu a ɛnteɛ.",
+    "otpResent": "Wɔde OTP koodu foforo akɔ wo email so.",
+    "otpResendFailed": "Entumi nsan nkɔma OTP koodu no bio. Yɛsrɛ sɛ sɔ hwɛ bio.",
+    "passwordResetSuccess": "Password no yiye reset. Yɛsrɛ sɛ fa wo password foforo no kɔ mu.",
+    "passwordResetFailed": "Entumi nsan mfa password no nsi hɔ.",
+    "backToLogin": "San kɔ Login so",
+    "back": "Akyi",
+    "title": "Wo werɛ afi Password",
+    "description": "Hyehyɛ email address a wɔakyerɛw wɔ wo akontaabu so no. Yɛde OTP code bɛmena de asan de password no asi hɔ.",
+    "emailLabel": "Email Address",
+    "sending": "Ɔresoma...",
+    "sendOtp": "Send OTP Kood",
+    "verifyOtpTitle": "Hwɛ OTP Kood no mu yiye",
+    "verifyOtpDesc": "Hyehyɛ 6 digit code a wɔde akɔ wo email so no de si wo ho so dua.",
+    "verifying": "Yɛregye atom...",
+    "verifyOtp": "Hwɛ sɛ OTP",
+    "resending": "Wɔresan de akɔma...",
+    "resendOtp": "San fa OTP Kood no kɔma",
+    "resendCodeIn": "San fa koodu no kɔ",
+    "newPasswordTitle": "Yɛ Password Foforo",
+    "newPasswordDesc": "Yɛ password foforo a ɛyɛ den a wode bɛbɔ wo akontaabu no ho ban.",
+    "newPasswordLabel": "Asɛmfua Foforo",
+    "min8Chars": "Anyɛ yiye koraa no, nkyerɛwde 8",
+    "oneUpperCase": "1 nkyerɛwde akɛse (A-Z)",
+    "oneNumber": "1 nɔma (0-9)",
+    "oneSymbol": "1 agyiraehyɛde (!@#$%^&*)",
+    "confirmPasswordLabel": "Si Asɛmfua no So dua",
+    "passwordsDoNotMatch": "Passwords nhyia.",
+    "resettingPassword": "Reset Asɛmfua no...",
+    "resetPassword": "Reset Password no bio"
+  },
+  "verifyEmail": {
+    "resendError": "Wɔantumi ansan ansoma nokwaredi email. Yɛsrɛ sɛ sɔ hwɛ bio.",
+    "checkingStatus": "Worehwɛ sɛnea wɔagye atom no...",
+    "title": "Hwɛ Wo Email",
+    "description": "Yɛde email a ɛkyerɛ sɛ ɛyɛ nokware amena wo email address. Yɛsrɛ wo bue email no na klik <1>\"Si Akontaabu so\"</1> bɔtn no na ma wo akonta no nyɛ adwuma.",
+    "stepsTitle": "Anamɔn",
+    "step1": "Bue wo email application (Gmail, Yahoo, ne nea ɛkeka ho)",
+    "step2": "Hwehwɛ email a efi DevFolio a asɛmti \"Account Activation\"",
+    "step3": "Klik \"Confirm Account\" bɔtn a ɛwɔ email",
+    "step4": "no mu Wɔbɛkyerɛ wo kwan akɔ login krataafa no so kɔhyɛn",
+    "resendSuccess": "Wɔasan de email a ɛkyerɛ sɛ ɛyɛ nokware no amena!",
+    "resending": "Wɔresan de akɔma...",
+    "resendButton": "San Fa Email a Wɔde Di Dwuma no mena",
+    "backToLogin": "San kɔ Login Kratafa no so",
+    "footerNote": "Wo nsa anka email no? Hwɛ <1>Spam</1> anaa <2>Junk</2> folda a ɛwɔ wo email no mu. Nhwɛsoɔ link no yɛ adwuma <3>nnɔnhwereɛ 24</3>."
+  }
+}

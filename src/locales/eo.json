@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Karakterizaĵoj",
+    "templates": "Ŝablonoj",
+    "pricing": "Prezoj",
+    "login": "Ensalutu",
+    "getStarted": "Komencu",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "La finfina biletujo-konstruanto por programistoj",
+    "title1": "Konstruu vian profesiulon",
+    "title2": "biletujo en",
+    "titleHighlight": "sekundoj.",
+    "subtitle": "Ĉio, kion vi bezonas por montri viajn kapablojn, projektojn kaj spertojn. ",
+    "startBuilding": "Komencu Konstrui Nun",
+    "viewTemplates": "Vidi Ŝablonojn",
+    "fastDeployment": "Rapida Deplojo",
+    "liveStatus": "username.dev estas viva!",
+    "featuresTitle": "Potencaj Trajtoj",
+    "featuresSubtitle": "Ni provizas ĉiujn ilojn, kiujn vi bezonas por elstari el la homamaso kaj akiri vian revan laboron.",
+    "feature1Title": "Trenu kaj Faligi Konstruilon",
+    "feature1Desc": "Facile organizu viajn sekciojn, projektojn kaj kapablojn per nia intuicia vida redaktilo.",
+    "feature2Title": "Propraj Temoj",
+    "feature2Desc": "Elektu el profesie desegnitaj ŝablonoj aŭ kreu vian propran unikan aspekton.",
+    "feature3Title": "Realtempa Analizo",
+    "feature3Desc": "Spuri viajn vizitantojn, vidu, kiuj projektoj ricevas la plej grandan atenton, kaj pli."
+  },
+  "auth": {
+    "welcomeBack": "Bonvenon Reen",
+    "loginToContinue": "Ensalutu al via konto por daŭrigi",
+    "createAccount": "Krei Konton",
+    "joinCommunity": "Aliĝu al miloj da aliaj programistoj",
+    "fullName": "Plena Nomo",
+    "fullNamePlaceholder": "ekz. ",
+    "email": "Retpoŝta Adreso",
+    "emailPlaceholder": "vi@ekzemplo.com",
+    "password": "Pasvorto",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Memoru min",
+    "forgotPassword": "Ĉu vi forgesis pasvorton?",
+    "signIn": "Ensalutu",
+    "signingIn": "Ensaltante...",
+    "signUp": "Registriĝi",
+    "signingUp": "Enskribiĝi...",
+    "noAccount": "Ĉu vi ne havas konton?",
+    "hasAccount": "Ĉu jam havas konton?",
+    "passwordRules": {
+      "title": "Pasvorto devas enhavi:",
+      "length": "Almenaŭ 8 signoj",
+      "uppercase": "Unu majuskla litero (A-Z)",
+      "number": "Unu nombro (0-9)",
+      "symbol": "Unu simbolo (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Ŝablonoj kaj Temoj",
+      "settings": "Agordoj",
+      "collapse": "Kolapsi Flankbreton",
+      "overview": "Superrigardo",
+      "profileSettings": "Profilaj Agordoj",
+      "customDomain": "Propra Domajno",
+      "feedback": "Reago"
+    },
+    "header": {
+      "viewLive": "Vidu Live",
+      "welcome": "Bonvenon,",
+      "logout": "Elsaluti",
+      "builder": "Konstruisto",
+      "livePortfolio": "Viva Portfolio",
+      "live": "Vivu"
+    },
+    "logoutModal": {
+      "title": "Elsaluti",
+      "message": "Ĉu vi certas, ke vi volas elsaluti el via konto? ",
+      "cancel": "Nuligi",
+      "confirm": "Jes, Elsaluti"
+    },
+    "slugModal": {
+      "title": "Elektu Vian Portfolio-URL",
+      "message": "Ĉi tiu URL estos la unika ligilo al via biletujo. ",
+      "slugPlaceholder": "via-nomo",
+      "availability": "Havebleco:",
+      "available": "Disponebla",
+      "unavailable": "Nedisponebla",
+      "checking": "Kontrolante...",
+      "mustFormat": "Povas enhavi nur literojn, ciferojn kaj streketojn (-)",
+      "cancel": "Nuligi",
+      "save": "Konservu URL",
+      "usernameUrl": "Uzantnomo URL",
+      "helpText": "Minuskloj, ciferoj kaj streketoj. ",
+      "validation": {
+        "empty": "Limako ne povas esti malplena.",
+        "min3": "Minimume 3 signoj.",
+        "max30": "Maksimume 30 signoj.",
+        "format": "Nur minuskloj, ciferoj kaj streketoj (-). "
+      }
+    },
+    "loadingPortfolio": "Ŝarĝante biletujon de datumoj...",
+    "overview": {
+      "greetings": {
+        "morning": "Bonan matenon",
+        "afternoon": "Bonan Posttagmezon",
+        "evening": "Bonan Posttagmezon",
+        "night": "Bonan Nokton"
+      },
+      "welcome": {
+        "hi": "Saluton,",
+        "creator": "Kreinto",
+        "desc1": "Bonvenon al la panelo de DevFolio. Via biletujo estis rigardita de",
+        "desc2": "persono. Daŭre laboru!",
+        "editPortfolio": "Redaktu Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Totalaj Vizitantoj",
+        "projectViews": "Vidita (Projekto)",
+        "activeSessions": "Aktiva Sesio",
+        "totalLabel": "Entute"
+      },
+      "setup": {
+        "title": "Agorda Progreso",
+        "completed": "Via biletujo estas kompleta! 🎉",
+        "inProgress": "Paŝoj al la perfekta biletujo.",
+        "profile": {
+          "title": "Kompleta Profilo",
+          "desc": "Aldonu nomon, biografion kaj profilfoton."
+        },
+        "section": {
+          "title": "Aldonu Sekciojn",
+          "desc": "Aktivigu almenaŭ 1 sekcion en la biletujo."
+        },
+        "project": {
+          "title": "Aldonu Projekton",
+          "desc": "Enigu almenaŭ unu el viaj plej bonaj projektoj."
+        },
+        "publish": {
+          "title": "Eldoni Portfolio",
+          "desc": "Agordu kutiman URL, por ke ĝi estu alirebla de la publiko."
+        }
+      },
+      "topProjects": {
+        "title": "Plej Popularaj Projektoj",
+        "desc": "La agado de via laboro en la okuloj de vizitantoj.",
+        "viewAll": "Vidu Ĉion",
+        "empty": "Ankoraŭ ne ekzistas vidindaj datumoj por via projekto."
+      }
+    },
+    "themes": {
+      "title": "Ŝablonoj & Temoj",
+      "subtitle": "Agordu la aspekton de via publika biletujo.",
+      "reset": "Restarigi Defaŭltan",
+      "save": "Konservu Ŝanĝojn",
+      "saving": "Konservante...",
+      "chooseTemplate": "Elektu Ŝablonon",
+      "primaryColor": "Primara Koloro",
+      "typography": "Tipografio",
+      "appearance": "Aspekto",
+      "corners": "Anguloj & Bordoj",
+      "successTitle": "Sukceso",
+      "successMessage": "Temo-preferoj sukcese ĝisdatigitaj",
+      "errorTitle": "Eraro",
+      "errorMessage": "Malsukcesis konservi etopreferojn",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalisma",
+          "desc": "Pura kaj simpla dezajno koncentriĝante al enhavo."
+        },
+        "developerDark": {
+          "name": "Ellaboranto Dark",
+          "desc": "Malhela temo perfekta por montri kodon kaj teknikajn stakojn."
+        },
+        "creative": {
+          "name": "Kreiva",
+          "desc": "Vigla kaj bunta aranĝo por dezajnistoj kaj kreintoj."
+        },
+        "executive": {
+          "name": "Plenuma",
+          "desc": "Profesia kaj formala aranĝo por komercaj profesiuloj."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Moderna Apple-stila krada aranĝo kiu elstarigas malsamajn kapablojn efike."
+        },
+        "neoBrutalism": {
+          "name": "Novbrutalismo",
+          "desc": "Aŭdacaj randoj kaj altaj kontrastaj koloroj por laŭmoda, senkulpa aspekto."
+        },
+        "glassmorphism": {
+          "name": "Vitromorfismo",
+          "desc": "Frostitaj vitraj efikoj super buntaj gradientoj por eleganta moderna UI."
+        },
+        "linkInBio": {
+          "name": "Ligo en Bio",
+          "desc": "Kompakta vertikala aranĝo optimumigita por porteblaj ekranoj kaj sociaj amaskomunikiloj."
+        }
+      },
+      "appearances": {
+        "light": "Lumo",
+        "dark": "Malhela",
+        "system": "Sistemo"
+      },
+      "cornersOptions": {
+        "sharp": "Akra",
+        "rounded": "Rondigita",
+        "pill": "Pilolo"
+      }
+    },
+    "feedback": {
+      "title": "Sendu komenton",
+      "subtitle": "Helpu nin plibonigi ĝin provizante sugestojn, kritikojn aŭ raportante erarojn pri ĉi tiu aplikaĵo.",
+      "categoryLabel": "Reago Kategorio",
+      "messageLabel": "Mesaĝaj Detaloj",
+      "messagePlaceholder": "Diru al mi detale pri la sugestoj, kiujn vi volas transdoni...",
+      "imageLabel": "Bilda Aldonaĵo (Laŭvola)",
+      "imagePlaceholder": "Klaku por alŝuti bildon aŭ ekrankopion",
+      "submitting": "Sendante...",
+      "submitBtn": "Sendu komenton",
+      "categories": {
+        "suggestion": "Sugestoj & Ideoj",
+        "bug": "Raporto pri cimo/eraro",
+        "criticism": "Kritiko",
+        "other": "Aliaj"
+      },
+      "imageErrorTitle": "Eraro",
+      "imageErrorMessage": "Iuj dosieroj estas malakceptitaj ĉar ili ne estas subtenataj bildformatoj (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Sukceso",
+      "successMessage": "Dankon pro via komento! Raporto estas sendita.",
+      "submitErrorTitle": "Malsukcesis",
+      "submitErrorMessage": "Okazis eraro dum sendado de sugestoj. Bonvolu provi denove."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Pri Mi",
+      "skills": "Kapabloj",
+      "projects": "Projektoj",
+      "workExperience": "Labora Sperto",
+      "orgExperience": "Organiza Sperto",
+      "education": "Edukado",
+      "certifications": "Trejnado kaj Atestoj",
+      "contact": "Kontaktu Min"
+    },
+    "editor": {
+      "profileInfo": "Profilaj Informoj",
+      "saving": "Konservante...",
+      "profilePhoto": "Profila Foto",
+      "clickToUpload": "Klaku por alŝuti (JPG, PNG)",
+      "fullName": "Plena Nomo",
+      "fullNamePlaceholder": "ekz. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack-Programisto kun pasio por konstrui modernajn retajn apojn...",
+      "location": "Loko",
+      "locationPlaceholder": "ekz. ",
+      "gender": "Sekso",
+      "selectGender": "Elektu Sekso",
+      "male": "Male",
+      "female": "Ino",
+      "custom": "Kutimo",
+      "customPlaceholder": "Tajpu vian kutiman sekson...",
+      "uploadCv": "Alŝutu CV",
+      "cvFormat": "(DOC aŭ PDF)",
+      "preview": "Antaŭrigardo",
+      "remove": "Forigi",
+      "clickToUploadCv": "Klaku por alŝuti PDF aŭ DOC",
+      "sections": "Sekcioj",
+      "removeSelected": "Forigi Elektitajn",
+      "confirmRemove": "Konfirmu Forigi",
+      "addSection": "Aldoni Sekcion",
+      "addAllSections": "Aldonu Ĉiujn Sekciojn",
+      "noSections": "Ankoraŭ neniuj sekcioj",
+      "clickToAdd": "Alklaku \"+ Aldoni Sekcion\" por komenci",
+      "selectAll": "Elektu Ĉiujn",
+      "selected": "Elektita",
+      "dragToReorder": "Trenu por reordigi sekciojn",
+      "livePreview": "Viva Antaŭrigardo",
+      "addSectionsToBuild": "Aldonu sekciojn por konstrui vian biletujon",
+      "now": "Nun",
+      "current": "Nuna",
+      "noExpiry": "Neniu Eksvalidiĝo",
+      "see": "Vidu",
+      "position": "Pozicio",
+      "degree": "Grado",
+      "certification": "Atestado",
+      "sectionsForm": {
+        "about": {
+          "label": "Priskribo de vi mem",
+          "placeholder": "Rakontu al ni pri vi mem, viaj fono, interesoj kaj kapabloj..."
+        },
+        "skills": {
+          "addPlaceholder": "Tajpu kapablon kaj premu Enter..."
+        },
+        "projects": {
+          "title": "Nomo de Projekto",
+          "titlePlaceholder": "Nomo de projekto...",
+          "url": "URL de la projekto",
+          "description": "Priskribo",
+          "descriptionPlaceholder": "Mallonga priskribo de la projekto...",
+          "uploadThumbnail": "Projekto Bildo",
+          "addProject": "Aldonu Projekton",
+          "projectNum": "Projekto #",
+          "currentProject": "Ĉi tio estas projekto pri kiu mi laboras"
+        },
+        "work": {
+          "company": "Kompanio/Agentejo",
+          "companyPlaceholder": "Kompanio nomo...",
+          "position": "Pozicio/Titolo",
+          "positionPlaceholder": "Via pozicio...",
+          "employmentType": "Tipo de laboro",
+          "location": "Loko",
+          "locationPlaceholder": "Urbo, Lando...",
+          "startDate": "Komencu",
+          "endDate": "Finita",
+          "currentWork": "Mi ankoraŭ laboras nuntempe",
+          "description": "Priskribo",
+          "descriptionPlaceholder": "Oficpriskribo kaj respondecoj...",
+          "skills": "Lerteco",
+          "addExperience": "Aldonu Laboran Sperton",
+          "experienceNum": "Sperto #",
+          "dateError": "La findato ne povas esti pli frua ol la komenca dato"
+        },
+        "org": {
+          "organization": "Nomo de Organizo",
+          "orgPlaceholder": "Universitato BEM...",
+          "role": "Rolo/Pozicio",
+          "rolePlaceholder": "Diviziestro...",
+          "addOrg": "Aldonu Organizan Sperton",
+          "orgNum": "Organizo #"
+        },
+        "edu": {
+          "institution": "Edukaj Institucioj",
+          "institutionPlaceholder": "Nomo de kampuso aŭ lernejo...",
+          "degree": "Titolo",
+          "degreePlaceholder": "S1, mezlernejo, ktp...",
+          "major": "Fako/Fako de Studado",
+          "majorPlaceholder": "Informadiko-Inĝenieristiko...",
+          "gpa": "GPA (laŭvola)",
+          "currentStudy": "Mi ankoraŭ lernas ĉi tie",
+          "descriptionPlaceholder": "Agadoj kaj atingoj dum studado...",
+          "addEdu": "Aldonu Edukadon",
+          "eduNum": "Edukado #"
+        },
+        "cert": {
+          "name": "Nomo de Atesto / Trejnado",
+          "namePlaceholder": "Atestila nomo...",
+          "issuer": "Eldonisto",
+          "issuerPlaceholder": "Eldona institucio...",
+          "issueDate": "Komenco (Eldondato)",
+          "issueDatePlaceholder": "Elektu eldondaton...",
+          "expiryDate": "Finita (Valida Periodo)",
+          "expiryDatePlaceholder": "Elektu limdaton...",
+          "noExpiry": "Ĉi tiu atestilo ne havas limdaton",
+          "url": "Akreditaĵo URL",
+          "uploadThumbnail": "Atestilo / Trejnada Bildo",
+          "uploadThumbnailLimit": "Alŝutu atestilbildon (JPG/PNG/WEBP, maksimume 2MB)",
+          "addCert": "Aldonu Ateston",
+          "certNum": "Atestilo #"
+        },
+        "contact": {
+          "contactNum": "Kontakto #",
+          "platform": "Platformo",
+          "displayText": "Montru Tekston",
+          "displayTextPlaceholder": "ekz., vi@retpoŝto.com aŭ @uzantnomo",
+          "url": "Ligo (URL)",
+          "urlPlaceholderWhatsapp": "ekz., 62812... (sen gvidi 0)",
+          "urlPlaceholderEmail": "ekz., vi@retpoŝto.com",
+          "urlPlaceholderWebsite": "ekz., https://...",
+          "urlPlaceholderDefault": "ekz., uzantnomo",
+          "addContact": "Aldonu Kontakton"
+        },
+        "common": {
+          "months": {
+            "1": "januaro",
+            "2": "februaro",
+            "3": "Marto",
+            "4": "Aprilo",
+            "5": "Majo",
+            "6": "junio",
+            "7": "julio",
+            "8": "Aŭgusto",
+            "9": "septembro",
+            "10": "oktobro",
+            "11": "novembro",
+            "12": "decembro"
+          },
+          "month": "Monato",
+          "year": "Jaro",
+          "invalidDate": "Nevalida Finmonato",
+          "words": "vortoj"
+        }
+      },
+      "sure": "Certe",
+      "deletePhotoTitle": "Ĉu forigi profilfoton?",
+      "deletePhotoMessage": "Ĉu vi certas, ke vi volas forigi ĉi tiun profilfoton?",
+      "cancel": "Nuligi",
+      "delete": "Forigi"
+    },
+    "cropper": {
+      "chooseBackground": "Elektu Fonon",
+      "cropPhoto": "Tondi Vian Foton",
+      "useOriginal": "Uzu originalon",
+      "backgroundPresets": "Fonaj Antaŭagordoj",
+      "none": "Neniu",
+      "uploadBackground": "Alŝutu Fonon",
+      "cancel": "Nuligi",
+      "savePhoto": "Konservu Foton",
+      "zoom": "Zomi",
+      "rotationTilt": "Rotacio & Inklino",
+      "resetRotation": "Restarigi al 0°",
+      "center": "Centro",
+      "rotateLeft": "Rotacii -90°",
+      "rotateRight": "Turnu +90°",
+      "removeBackground": "Forigi Fonon",
+      "processing": "Prilaborante vian bildon, bonvolu atendi..."
+    },
+    "cvPreview": {
+      "title": "Antaŭrigardo de CV",
+      "downloadCv": "Elŝutu CV",
+      "download": "Elŝutu",
+      "wordCannotPreview": "Vortdokumentoj (.doc/.docx) ne povas esti antaŭrigarditaj denaske en la retumilo. ",
+      "downloadFile": "Elŝutu CV-dosieron",
+      "back": "Reen",
+      "mobileMessage": "Bonvolu elŝuti la CV-dosieron por antaŭrigardi ĝin.",
+      "preview": "Antaŭrigardu CV",
+      "wordPreviewTitle": "Antaŭrigardo de Vorta Dokumento",
+      "wordPreviewMessage": "Vortdokumentoj (.doc/.docx) ne povas esti antaŭrigarditaj denaske en la retumilo. Bonvolu elŝuti la dosieron por vidi ĝin."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Skribu mallongan priskribon pri vi mem, interesoj kaj karierceloj..."
+    },
+    "skills": {
+      "placeholder": "Tajpu kapablonomon...",
+      "add": "Aldoni",
+      "enterToAdd": "Premu Enter por aldoni",
+      "noSkills": "Neniuj kapabloj ankoraŭ aldonitaj."
+    },
+    "projects": {
+      "projectName": "Nomo de Projekto",
+      "projectNamePlaceholder": "ekz. ",
+      "projectUrl": "URL de la projekto",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Daŭro",
+      "startMonth": "Komenca Monato",
+      "startYear": "Komenca Jaro",
+      "endMonth": "Fina Monato",
+      "endYear": "Finjaro",
+      "currentlyWorking": "Nuntempe laboras pri tio",
+      "description": "Priskribo",
+      "descriptionPlaceholder": "Priskribu la projekton, vian rolon, kaj atingojn...",
+      "technologies": "Teknologioj Uzitaj",
+      "addProject": "Aldonu Projekton",
+      "image": "Projekto Bildo",
+      "removeImage": "Forigi Bildon",
+      "uploadImage": "Klaku por alŝuti bildon"
+    },
+    "work": {
+      "company": "Kompanio/Institucio",
+      "companyPlaceholder": "Kompanio nomo...",
+      "role": "Rolo/Pozicio",
+      "rolePlaceholder": "Via pozicio...",
+      "jobType": "Tipo de laboro",
+      "selectJobType": "Elektu tipon",
+      "fullTime": "Plentempe",
+      "partTime": "Partatempe",
+      "contract": "Kontrakto",
+      "internship": "Staĝo",
+      "freelance": "Sendependa",
+      "location": "Loko",
+      "locationPlaceholder": "ekz. ",
+      "duration": "Daŭro",
+      "currentlyWorking": "Nuntempe laboras ĉi tie",
+      "description": "Laborpriskribo",
+      "descriptionPlaceholder": "Priskribu viajn ĉefajn respondecojn kaj atingojn...",
+      "skills": "Specifaj Kapabloj",
+      "addExperience": "Aldonu Sperton"
+    },
+    "org": {
+      "organization": "Nomo de Organizo",
+      "organizationPlaceholder": "Nomo de la organizo...",
+      "role": "Rolo/Pozicio",
+      "rolePlaceholder": "ekz. ",
+      "duration": "Daŭro",
+      "periodFormat": "aŭ Libera Formato (ekz. 2020 - 2022)",
+      "periodPlaceholder": "ekz. ",
+      "currentlyActive": "Nuntempe aktiva",
+      "description": "Agado-Priskribo",
+      "descriptionPlaceholder": "Priskribu viajn agadojn aŭ kontribuojn...",
+      "addExperience": "Aldonu Sperton"
+    },
+    "education": {
+      "institution": "Nomo de Institucio",
+      "institutionPlaceholder": "Nomo de lernejo aŭ universitato...",
+      "degree": "Grado/Nivelo",
+      "degreePlaceholder": "ekz. ",
+      "major": "Grava/Fako de studo",
+      "majorPlaceholder": "ekz. ",
+      "gpa": "GPA / Grado",
+      "gpaPlaceholder": "ekz. ",
+      "duration": "Edukado Daŭro",
+      "periodFormat": "aŭ Libera Formato (ekz. 2018 - 2022)",
+      "periodPlaceholder": "ekz. ",
+      "currentlyStudying": "Nuntempe studas ĉi tie",
+      "description": "Agadoj / Honoroj",
+      "descriptionPlaceholder": "Priskribu akademiajn agadojn, organizojn aŭ honorojn ricevitajn...",
+      "addEducation": "Aldonu Edukadon"
+    },
+    "cert": {
+      "name": "Atestada Nomo",
+      "namePlaceholder": "ekz. ",
+      "issuer": "Eldonanta Organizo",
+      "issuerPlaceholder": "ekz. ",
+      "issueDate": "Eldondato",
+      "expiryDate": "Valida Ĝis",
+      "noExpiry": "Ĉi tiu akreditaĵo ne eksvalidiĝas",
+      "yearPlaceholder": "aŭ Jaro (ekz. 2023)",
+      "credentialUrl": "Akreditaĵo URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Rilataj Kapabloj",
+      "addCertification": "Aldonu Ateston",
+      "image": "Bildo/Emblemo",
+      "removeImage": "Forigi Bildon",
+      "uploadImage": "Klaku por alŝuti bildon"
+    },
+    "common": {
+      "months": {
+        "1": "januaro",
+        "2": "februaro",
+        "3": "Marto",
+        "4": "Aprilo",
+        "5": "majo",
+        "6": "junio",
+        "7": "julio",
+        "8": "Aŭgusto",
+        "9": "septembro",
+        "10": "oktobro",
+        "11": "novembro",
+        "12": "decembro"
+      },
+      "month": "Monato",
+      "year": "Jaro",
+      "invalidDate": "Nevalida Finmonato",
+      "words": "vortoj"
+    }
+  },
+  "settings": {
+    "title": "Agordoj",
+    "subtitle": "Administri vian biletujo-profilon kaj preferojn",
+    "tabs": {
+      "profile": "Mia Profilo",
+      "security": "Sekureco",
+      "personalization": "Personigo"
+    },
+    "profile": {
+      "infoTitle": "Bazaj Informoj",
+      "photo": "Profila Foto",
+      "uploadPhoto": "Ŝanĝi Foton",
+      "fullName": "Plena Nomo",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Retpoŝta Adreso",
+      "emailPlaceholder": "john@ekzemplo.com",
+      "emailHelp": "Retpoŝto estas uzata por ensaluto kaj ne estas montrata publike.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Konservi Profilon",
+      "save": "Konservi Profilon",
+      "accountCreated": "Konto Kreita",
+      "lastLogin": "Lasta Ensaluto",
+      "oauthNotice": "Ĉi tiu profilo estas konektita al via {{provizanto}} konto. Profiloŝanĝoj devas esti faritaj per la servoprovizanto."
+    },
+    "security": {
+      "changePassword": "Ŝanĝi Pasvorton",
+      "currentPassword": "Nuna Pasvorto",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Nova Pasvorto",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Konfirmu Novan Pasvorton",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Almenaŭ 8 signoj",
+        "uppercase": "Unu majuskla litero (A-Z)",
+        "number": "Unu nombro (0-9)",
+        "symbol": "Unu simbolo (!@#$%^&*)"
+      },
+      "passwordTitle": "Pasvorto",
+      "updatePassword": "Ĝisdatigu Pasvorton",
+      "additionalSecurity": "Plia Sekureco",
+      "twoFactor": "Dufaktora Aŭtentigo (2FA)",
+      "twoFactorDesc": "Sekurigu vian konton per plia OTP-kodo.",
+      "activeSessions": "Aktivaj Sesioj",
+      "activeSessionsDesc": "Ĉiam permesu monitoradon de ensalutintaj aparatoj.",
+      "publicVisibility": "Publika Videbleco",
+      "hideFromSearch": "Kaŝi Portfolio de Serĉmotoroj",
+      "hideFromSearchDesc": "Malhelpu Guglon indeksi vian publikan biletujon.",
+      "disable2fa": {
+        "title": "Malebligu 2FA",
+        "description": "Ĉu vi certas, ke vi volas malŝalti dufaktoran aŭtentikigon?",
+        "confirmPasswordLabel": "Enigu vian pasvorton por konfirmi",
+        "currentPasswordPlaceholder": "Nuna pasvorto",
+        "cancelButton": "Nuligi",
+        "confirmButton": "Malebligu 2FA",
+        "incorrectPassword": "Malĝusta pasvorto."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skanu QR-kodon",
+        "step1Desc": "Malfermu vian aŭtentikigilon kaj skanu la sekvan QR-kodon:",
+        "unableToScan": "Ne eblas skani? Uzu agordan ŝlosilon",
+        "step2Title": "2. Kontrolu Kodon",
+        "step2Desc": "Enigu la 6-ciferan kodon generitan de via aplikaĵo:",
+        "cancelButton": "Nuligi",
+        "enableButton": "Ebligu 2FA",
+        "invalidLength": "Bonvolu enigi 6-ciferan kodon.",
+        "invalidCode": "Nevalida konfirmkodo. Bonvolu provi denove."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Lingvaj Kontroloj",
+      "appLanguage": "App Lingvo",
+      "layoutTitle": "Aranĝo & Tipografio",
+      "layoutStyle": "Aranĝa Stilo",
+      "layoutModern": "Moderna Stilo (Defaŭlta)",
+      "layoutClassic": "Klasika Stilo",
+      "layoutMinimalist": "Minimalista Stilo",
+      "fontSize": "App Tiparo Grandeco",
+      "fontSmall": "Malgranda",
+      "fontNormal": "Normala (Meza)",
+      "fontLarge": "Granda",
+      "searchLanguage": "Serĉu lingvon...",
+      "languageNotFound": "Lingvo ne trovita",
+      "layoutElegant": "Eleganta Stilo"
+    },
+    "saveChanges": "Konservu Ŝanĝojn",
+    "cancel": "Nuligi",
+    "appSettings": "Agordoj de App",
+    "logoutConfirmTitle": "Konfirmu elsaluti",
+    "logoutConfirmDesc": "Ĉu vi certas, ke vi volas elsaluti el la sistemo?",
+    "logoutConfirmYes": "Jes, Elsaluti",
+    "generalError": "Okazis eraro. ",
+    "success": "Sukceso",
+    "preferencesSaved": "Aplikaj preferoj sukcese konservitaj.",
+    "header": "Aplikaj Agordoj",
+    "logout": {
+      "title": "Konfirmo de elsaluto",
+      "message": "Ĉu vi certas, ke vi volas elsaluti el la sistemo?",
+      "confirm": "Jes, Elsaluti"
+    },
+    "about": {
+      "title": "Pri Apliko",
+      "subtitle": "Portfolio Builder Platformo",
+      "version": "Versio",
+      "description": "DevFolio estas moderna platformo de konstruaĵaro desegnita por programistoj, projektistoj kaj profesiaj kreintoj. ",
+      "license": "Licenco kaj Kopirajto",
+      "copyright": "© 2026 DevFolio Inc. Ĉiuj rajtoj rezervitaj.",
+      "developer": "Ellaboranto",
+      "developedBy": "Evoluigite fare de Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Konstante Forigi Konton",
+      "menuItem": "Forigi konton",
+      "successTitle": "Sukceso",
+      "successMessage": "Retpoŝto pri konfirma forigo de konto estas sendita.",
+      "errorTitle": "Malsukcesis",
+      "errorMessage": "Malsukcesis sendi konfirman retpoŝton.",
+      "confirmationMessage": "Ĉu vi certas, ke vi volas forigi vian konton konstante?",
+      "warningMessage1": "Vi ricevos retpoŝton por konfirmi forigon de konto.",
+      "warningMessage2": "Se konfirmite, ĉiuj datumoj (biletujo, projektoj, statistikoj) estos konstante forigitaj kaj ne povas esti reakiritaj.",
+      "cancel": "Nuligi",
+      "confirm": "Konfirmo"
+    },
+    "toasts": {
+      "toastError": "Eraro",
+      "toastSuccess": "Sukceso",
+      "toastSetup2FAFailed": "Malsukcesis agordi 2FA. Bonvolu provi denove.",
+      "toast2FAEnabled": "Dufaktora aŭtentigo estis ebligita.",
+      "toast2FADisabled": "Dufaktora aŭtentigo estis malŝaltita.",
+      "toastSessionEnabled": "Aktiva sesiomonitorado estas ebligita.",
+      "toastSessionDisabled": "Aktiva sesiomonitorado estas malŝaltita.",
+      "toastSetupKeyCopied": "Agorda klavo kopiita al tondujo."
+    },
+    "privacy": {
+      "title": "Privateca Politiko",
+      "updateDate": "Laste Ĝisdatigita: la 15-an de julio 2026",
+      "intro": "Ĉi tiu Privateca Politiko klarigas kiel DevFolio kolektas, uzas kaj protektas viajn personajn informojn kiam vi uzas niajn servojn.",
+      "section1Title": "1. Informoj Ni Kolektas",
+      "section1Content": "Ni kolektas informojn, kiujn vi provizas rekte kiam vi kreas konton, konstruas biletujon kaj kontaktas nian subtenon. ",
+      "section2Title": "2. Uzo de Informoj",
+      "section2Content": "Viaj informoj estas uzataj por funkcii, konservi kaj provizi la funkciojn de niaj servoj, kaj ankaŭ por komuniki kun vi pri via konto aŭ servoj.",
+      "section3Title": "3. Sekureco de datumoj",
+      "section3Content": "Ni efektivigas akcepteblajn sekurecajn mezurojn por protekti viajn informojn kontraŭ neaŭtorizita aliro, malkaŝo aŭ detruo."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Konfirma ĵetono ne trovita.",
+    "defaultError": "Malsukcesis forigi konton. La ĵetono eble eksvalidiĝis.",
+    "loadingTitle": "Forigante konton...",
+    "loadingMessage": "Bonvolu atendi, ni prilaboras vian peton.",
+    "successTitle": "Konto Sukcese Forigita",
+    "successMessage": "Ĉiuj viaj datumoj estas konstante forigitaj. Vi estos alidirektita...",
+    "errorTitle": "Malsukcesis forigi konton",
+    "backToHome": "Revenu al Hejmo"
+  },
+  "forgotPassword": {
+    "minutes": "minutoj",
+    "seconds": "sekundoj",
+    "success": "Sukceso",
+    "otpSentToEmail": "OTP-kodo estis sendita al via retpoŝto.",
+    "failed": "Malsukcesis",
+    "emailNotFound": "Retpoŝto ne trovita.",
+    "emailThirdParty": "Ĉi tiu retpoŝto estas registrita per tria partio.",
+    "genericError": "Estas eraro. Bonvolu provi denove.",
+    "otpVerified": "La OTP-kodo estis sukcese kontrolita.",
+    "otpExpired": "La OTP-kodo eksvalidiĝis. Bonvolu peti novan kodon.",
+    "otpInvalid": "Nevalida OTP-kodo.",
+    "otpResent": "Nova OTP-kodo estis sendita al via retpoŝto.",
+    "otpResendFailed": "Malsukcesis resendi OTP-kodon. Bonvolu provi denove.",
+    "passwordResetSuccess": "Pasvorto sukcese rekomencigita. Bonvolu ensaluti per via nova pasvorto.",
+    "passwordResetFailed": "Malsukcesis restarigi pasvorton.",
+    "backToLogin": "Reiru al Salutnomo",
+    "back": "Reen",
+    "title": "Forgesis Pasvorto",
+    "description": "Enigu la retadreson registritan en via konto. Ni sendos OTP-kodon por restarigi la pasvorton.",
+    "emailLabel": "Retadreso",
+    "sending": "Sendante...",
+    "sendOtp": "Sendu OTP-kodon",
+    "verifyOtpTitle": "Kontrolu OTP-kodon",
+    "verifyOtpDesc": "Enigu la 6-ciferan kodon kiu estis sendita al via retpoŝto por konfirmi vian identecon.",
+    "verifying": "Kontrolante...",
+    "verifyOtp": "Kontrolu OTP",
+    "resending": "Resendo...",
+    "resendOtp": "Resendu OTP-kodon",
+    "resendCodeIn": "Resendu la kodon en",
+    "newPasswordTitle": "Kreu Novan Pasvorton",
+    "newPasswordDesc": "Kreu novan, fortan pasvorton por sekurigi vian konton.",
+    "newPasswordLabel": "Nova Pasvorto",
+    "min8Chars": "Minimume 8 signoj",
+    "oneUpperCase": "1 majuskla (A-Z)",
+    "oneNumber": "1 nombro (0-9)",
+    "oneSymbol": "1 simbolo (!@#$%^&*)",
+    "confirmPasswordLabel": "Konfirmu Pasvorton",
+    "passwordsDoNotMatch": "Pasvortoj ne kongruas.",
+    "resettingPassword": "Restarigante Pasvorton...",
+    "resetPassword": "Restarigi Pasvorton"
+  },
+  "verifyEmail": {
+    "resendError": "Malsukcesis resendi konfirman retpoŝton. Bonvolu provi denove.",
+    "checkingStatus": "Kontrolante konfirman staton...",
+    "title": "Kontrolu Vian Retpoŝton",
+    "description": "Ni sendis konfirman retpoŝton al via retadreso. Bonvolu malfermi la retpoŝton kaj alklaku la butonon <1>\"Konfirmi Konton\"</1> por aktivigi vian konton.",
+    "stepsTitle": "Paŝoj",
+    "step1": "Malfermu vian retpoŝtan aplikaĵon (Gmail, Yahoo, ktp)",
+    "step2": "Serĉu retmesaĝon de DevFolio kun la temo \"Konto-Aktivigo\"",
+    "step3": "Alklaku la butonon \"Konfirmu Konton\" en la retpoŝto",
+    "step4": "Vi estos direktita al la ensaluta paĝo por eniri",
+    "resendSuccess": "La konfirma retpoŝto estis resendita!",
+    "resending": "Resendo...",
+    "resendButton": "Resendu Kontrolan Retpoŝton",
+    "backToLogin": "Reiru al Ensaluta Paĝo",
+    "footerNote": "Ĉu ne ricevis la retmesaĝon? Kontrolu la dosierujon <1>Spamo</1> aŭ <2>Funkaĵo</2> en via retpoŝto. La konfirma ligilo validas dum <3>24 horoj</3>."
+  }
+}

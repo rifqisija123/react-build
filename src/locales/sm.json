@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Vaega",
+    "templates": "Fa'ata'ita'iga",
+    "pricing": "Tau",
+    "login": "Ulufale",
+    "getStarted": "Amata",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Le faufale pito sili mo tagata atiaʻe",
+    "title1": "Fausia lau tomai",
+    "title2": "faila i totonu",
+    "titleHighlight": "sekone.",
+    "subtitle": "Mea uma e te manaʻomia e faʻaalia ai ou tomai, galuega faatino, ma le poto masani. ",
+    "startBuilding": "Amata Fausia Nei",
+    "viewTemplates": "Va'ai Fa'ata'ita'iga",
+    "fastDeployment": "Fa'atonu vave",
+    "liveStatus": "username.dev o lo'o ola!",
+    "featuresTitle": "Vaega Malosi",
+    "featuresSubtitle": "Matou te tuʻuina atu mea faigaluega uma e te manaʻomia e tu ese ai mai le motu o tagata ma faʻailoa lau galuega miti.",
+    "feature1Title": "Toso ma Pa'u le Faufale",
+    "feature1Desc": "Fa'afaigofie ona fa'atulaga au vaega, galuega fa'atino, ma tomai fa'atasi ai ma le matou fa'atonu va'aiga fa'apitoa.",
+    "feature2Title": "Autu masani",
+    "feature2Desc": "Filifili mai faʻataʻitaʻiga faʻapitoa faʻapolofesa poʻo le fatuina o lau oe lava foliga tulaga ese.",
+    "feature3Title": "Fa'amatalaga taimi moni",
+    "feature3Desc": "Su'e au tagata asiasi, va'ai po'o fea poloketi e sili ona fa'alogoina, ma sili atu."
+  },
+  "auth": {
+    "welcomeBack": "Maliu mai",
+    "loginToContinue": "Log in i lau account e fa'aauau ai",
+    "createAccount": "Fausia Tala",
+    "joinCommunity": "Auai i le faitau afe o isi atinaʻe",
+    "fullName": "Igoa Atoa",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Imeli tuatusi",
+    "emailPlaceholder": "oe@example.com",
+    "password": "Numera e le iloa e sesi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Manatua mai a'u",
+    "forgotPassword": "Ua galo upu faataga?",
+    "signIn": "Saini ese j",
+    "signingIn": "Saini i totonu...",
+    "signUp": "Saini loa",
+    "signingUp": "Saini i luga...",
+    "noAccount": "E leai se tala?",
+    "hasAccount": "Ua uma ona iai sau tala?",
+    "passwordRules": {
+      "title": "O upu faataga e tatau ona iai:",
+      "length": "Le itiiti ifo i le 8 mataitusi",
+      "uppercase": "Tasi mataitusi tetele (A-Z)",
+      "number": "Numera tasi (0-9)",
+      "symbol": "Tasi le fa'ailoga (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Fausia Portfolio",
+      "templates": "Fa'ata'ita'iga & Autu",
+      "settings": "Fa'atonu",
+      "collapse": "Fa'apalapala Sidebar",
+      "overview": "Vaaiga lautele",
+      "profileSettings": "Fa'asologa o Tala'aga",
+      "customDomain": "Vaega Fa'apitoa",
+      "feedback": "Manatu faaalia"
+    },
+    "header": {
+      "viewLive": "Va'ai Live",
+      "welcome": "Afio mai,",
+      "logout": "Saini ese j",
+      "builder": "Faufale",
+      "livePortfolio": "Live Portfolio",
+      "live": "Ola"
+    },
+    "logoutModal": {
+      "title": "Saini ese j",
+      "message": "E te mautinoa e te mana'o e alu ese mai lau teugatupe? ",
+      "cancel": "Fa'aleaogaina",
+      "confirm": "Ioe, Logotu"
+    },
+    "slugModal": {
+      "title": "Filifili lau Portfolio URL",
+      "message": "O lenei URL o le a avea ma feso'ota'iga tulaga ese i lau faila. ",
+      "slugPlaceholder": "lou-igoa",
+      "availability": "Avanoa:",
+      "available": "Avanoa",
+      "unavailable": "Le avanoa",
+      "checking": "Siaki...",
+      "mustFormat": "E mafai ona iai na'o mata'itusi, numera, ma vase (-)",
+      "cancel": "Fa'aleaogaina",
+      "save": "Sefe URL",
+      "usernameUrl": "Username URL",
+      "helpText": "Mataitusi laiti, numera, ma vase. ",
+      "validation": {
+        "empty": "E le mafai ona gaogao le Slug.",
+        "min3": "Le itiiti ifo i le 3 mataitusi.",
+        "max30": "Le maualuga 30 mataitusi.",
+        "format": "Na'o mata'itusi laiti, numera, ma vase (-). "
+      }
+    },
+    "loadingPortfolio": "O lo'o uta fa'amaumauga o faila...",
+    "overview": {
+      "greetings": {
+        "morning": "Taeao manuia",
+        "afternoon": "Manuia le aoauli",
+        "evening": "Manuia le aoauli",
+        "night": "Manuia Po"
+      },
+      "welcome": {
+        "hi": "Talofa,",
+        "creator": "Foafoa",
+        "desc1": "Susu mai i le DevFolio dashboard. Ua va'aia e",
+        "desc2": "tagata. Ia galue pea!",
+        "editPortfolio": "Fa'asa'o Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Aofa'i Tagata Asiasi",
+        "projectViews": "Va'ai (Poloketi)",
+        "activeSessions": "Sauniga Toaga",
+        "totalLabel": "Aofa'iga"
+      },
+      "setup": {
+        "title": "Seti Alualu i Luma",
+        "completed": "Ua mae'a lau faila! 🎉",
+        "inProgress": "Laasaga i le faila atoatoa.",
+        "profile": {
+          "title": "Fa'amatalaga atoatoa",
+          "desc": "Fa'aopoopo le igoa, bio ma le ata fa'apitoa."
+        },
+        "section": {
+          "title": "Faaopoopo Vaega",
+          "desc": "Fa'agaoioi ia le itiiti ifo ma le 1 le vaega i le faila."
+        },
+        "project": {
+          "title": "Faaopoopo Poloketi",
+          "desc": "Ulufale ia le itiiti ifo ma le 1 o au galuega sili ona lelei."
+        },
+        "publish": {
+          "title": "Fa'asalalau Portfolio",
+          "desc": "Seti se URL masani ina ia mafai ona maua e tagata lautele."
+        }
+      },
+      "topProjects": {
+        "title": "Poloketi sili ona lauiloa",
+        "desc": "Le faʻatinoga o lau galuega i mata o tagata asiasi.",
+        "viewAll": "Va'ai Uma",
+        "empty": "E leai se fa'amatalaga va'ai mo lau poloketi i le taimi nei."
+      }
+    },
+    "themes": {
+      "title": "Fa'ata'ita'iga & Autu",
+      "subtitle": "Fa'asinomaga foliga ma lagona o lau faila fa'alaua'itele.",
+      "reset": "Toe Fa'atonu",
+      "save": "Faasaoina Suiga",
+      "saving": "Faasaoina...",
+      "chooseTemplate": "Filifili se Fa'ata'ita'iga",
+      "primaryColor": "Lanu Muamua",
+      "typography": "Tusitala",
+      "appearance": "Fa'aaliga",
+      "corners": "Tulimanu & Tuaoi",
+      "successTitle": "Manuia",
+      "successMessage": "Fa'afou manuia mea e fiafia i ai",
+      "errorTitle": "Sese",
+      "errorMessage": "Ua le mafai ona sefe mea e fiafia i ai autu",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Fuafuaga mama ma faigofie e taula'i ile anotusi."
+        },
+        "developerDark": {
+          "name": "Faia Pogisa",
+          "desc": "Autu pogisa e fetaui lelei mo le faʻaalia o code ma tekinolosi faʻapipiʻi."
+        },
+        "creative": {
+          "name": "Foafoaga",
+          "desc": "Fa'aolaola ma felanulanua'i fa'atulagaina mo tagata mamanu ma fatuga."
+        },
+        "executive": {
+          "name": "Pulega",
+          "desc": "Fa'apolofesa ma fa'atulagaina aloa'ia mo fa'apolofesa fa'apisinisi."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Fa'a-Apple-style fa'asologa o fa'asologa fa'aonaponei e fa'amanino lelei tomai eseese."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Tua'oi mata'utia ma lanu eseese maualuga mo se foliga fa'aleaganu'u."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "A'afiaga tioata fa'a'aisa i luga o fa'alili felanulanua'i mo se UI fa'aonaponei fa'alelei."
+        },
+        "linkInBio": {
+          "name": "So'oga ile Bio",
+          "desc": "Fa'ata'oto tu'usa'o fa'atasi ua fa'asilisiliina mo lau fe'avea'i ma fa'asalalauga lautele."
+        }
+      },
+      "appearances": {
+        "light": "Malamalama",
+        "dark": "Pogisa",
+        "system": "Faiga"
+      },
+      "cornersOptions": {
+        "sharp": "Ma'ai",
+        "rounded": "lapotopoto",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Auina Manatu",
+      "subtitle": "Fesoasoani ia matou faʻaleleia atili e ala i le tuʻuina atu o fautuaga, faitioga, poʻo le lipotia o mea sese i lenei talosaga.",
+      "categoryLabel": "Vaega o Manatu faaalia",
+      "messageLabel": "Fa'amatalaga Fe'au",
+      "messagePlaceholder": "Fa'amatala au'ili'ili e uiga i fa'amatalaga e te mana'o e fa'ailoa mai...",
+      "imageLabel": "Fa'apipi'i Ata (Filifili)",
+      "imagePlaceholder": "Kiliki e lafo ai ata po'o fa'amalama",
+      "submitting": "Tuuina atu...",
+      "submitBtn": "Auina Manatu",
+      "categories": {
+        "suggestion": "Fautuaga & Manatu",
+        "bug": "Bug / Lipoti Sese",
+        "criticism": "Faitioga",
+        "other": "O isi"
+      },
+      "imageErrorTitle": "Sese",
+      "imageErrorMessage": "O nisi faila e teena ona e le o lagolagoina ata (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Manuia",
+      "successMessage": "Faafetai mo lou finagalo faaalia! Ua auina atu le lipoti.",
+      "submitErrorTitle": "Ua le manuia",
+      "submitErrorMessage": "Ua tupu se mea sese a'o auina atu manatu faaalia. Fa'amolemole toe taumafai."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Faatatau ia a'u",
+      "skills": "Tomai",
+      "projects": "Poloketi",
+      "workExperience": "Aafiaga Galuega",
+      "orgExperience": "Aafiaga Fa'alapotopotoga",
+      "education": "A'oga",
+      "certifications": "Aoaoga & Tusipasi",
+      "contact": "Fa'afeso'ota'i A'u"
+    },
+    "editor": {
+      "profileInfo": "Fa'amatalaga Fa'amatalaga",
+      "saving": "Fa'asaoina...",
+      "profilePhoto": "Fa'amatalaga Ata",
+      "clickToUpload": "Kiliki e lafo (JPG, PNG)",
+      "fullName": "Igoa Atoa",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer ma se naunautaiga mo le fausiaina o polokalame i luga ole laiga faʻaonaponei...",
+      "location": "Nofoaga",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Itupa",
+      "selectGender": "Filifili Itupa",
+      "male": "Male",
+      "female": "Fafine",
+      "custom": "Aganuu",
+      "customPlaceholder": "Tusi lau itupa masani...",
+      "uploadCv": "Tu'u le CV",
+      "cvFormat": "(DOC po'o le PDF)",
+      "preview": "mua'i va'aiga",
+      "remove": "Aveese",
+      "clickToUploadCv": "Kiliki e lafo ai le PDF po'o le DOC",
+      "sections": "Vaega",
+      "removeSelected": "Aveese Filifilia",
+      "confirmRemove": "Faamaonia Aveese",
+      "addSection": "Faaopoopo Vaega",
+      "addAllSections": "Faaopoopo Vaega uma",
+      "noSections": "Leai ni vaega",
+      "clickToAdd": "Kiliki \"+ Add Section\" e amata ai",
+      "selectAll": "Filifili Mea uma",
+      "selected": "Filifilia",
+      "dragToReorder": "Toso e toe fa'atonu vaega",
+      "livePreview": "Va'ai Va'aiga",
+      "addSectionsToBuild": "Fa'aopoopo vaega e fau ai lau faila",
+      "now": "O lenei",
+      "current": "I le taimi nei",
+      "noExpiry": "Leai se mutaaga",
+      "see": "Vaai",
+      "position": "Tulaga",
+      "degree": "tikeri",
+      "certification": "Fa'ailoga",
+      "sectionsForm": {
+        "about": {
+          "label": "Fa'amatalaga o oe lava",
+          "placeholder": "Ta'u mai e uiga ia te oe, lou talaaga, mea e te fiafia i ai ma tomai..."
+        },
+        "skills": {
+          "addPlaceholder": "Tapena le tomai ona oomi lea o le Enter..."
+        },
+        "projects": {
+          "title": "Igoa Poloketi",
+          "titlePlaceholder": "Igoa o le poloketi...",
+          "url": "Poloketi URL",
+          "description": "Fa'amatalaga",
+          "descriptionPlaceholder": "Fa'amatalaga puupuu o le poloketi...",
+          "uploadThumbnail": "Ata Poloketi",
+          "addProject": "Faaopoopo Poloketi",
+          "projectNum": "Poloketi #",
+          "currentProject": "O se poloketi lea o lo'o ou galue ai"
+        },
+        "work": {
+          "company": "Kamupani/So'o",
+          "companyPlaceholder": "Igoa o le Kamupani...",
+          "position": "Tulaga/Igoa",
+          "positionPlaceholder": "O lou tulaga...",
+          "employmentType": "Ituaiga o galuega",
+          "location": "Nofoaga",
+          "locationPlaceholder": "A'ai, Atunu'u...",
+          "startDate": "Amata",
+          "endDate": "Ua uma",
+          "currentWork": "O lo'o ou galue pea i le taimi nei",
+          "description": "Fa'amatalaga",
+          "descriptionPlaceholder": "Fa'amatalaga galuega ma matafaioi...",
+          "skills": "Tomai",
+          "addExperience": "Faaopoopo le poto masani i galuega",
+          "experienceNum": "Aafiaga #",
+          "dateError": "Ole aso fa'ai'uga e le mafai ona vave nai lo le aso amata"
+        },
+        "org": {
+          "organization": "Igoa o le Faalapotopotoga",
+          "orgPlaceholder": "BEM Iunivesite...",
+          "role": "Matafaioi/Tulaga",
+          "rolePlaceholder": "Ulu o Vaega...",
+          "addOrg": "Fa'aopoopo le poto masani fa'alapotopotoga",
+          "orgNum": "Faalapotopotoga #"
+        },
+        "edu": {
+          "institution": "Faalapotopotoga a'oa'oga",
+          "institutionPlaceholder": "Igoa o le lotoa po'o le a'oga...",
+          "degree": "Ulutala",
+          "degreePlaceholder": "S1, aoga maualuga, ma isi...",
+          "major": "Matagaluega/Fa'afanua o Suesuega",
+          "majorPlaceholder": "Inisinia Fa'amatalaga...",
+          "gpa": "GPA (filifiliga)",
+          "currentStudy": "O lo'o ou a'oa'oina pea iinei",
+          "descriptionPlaceholder": "Gaoioiga ma mea na ausia i le taimi o suʻesuʻega...",
+          "addEdu": "Faaopoopo A'oga",
+          "eduNum": "A'oga #"
+        },
+        "cert": {
+          "name": "Igoa o Tusipasi/A'oa'oga",
+          "namePlaceholder": "Igoa fa'amaonia...",
+          "issuer": "Lomitusi",
+          "issuerPlaceholder": "Fa'alapotopotoga fa'asalalau...",
+          "issueDate": "Amata (Aso Fa'asalalau)",
+          "issueDatePlaceholder": "Filifili le aso fa'asalalau...",
+          "expiryDate": "Maea (Vitaimi aoga)",
+          "expiryDatePlaceholder": "Filifili le aso e muta ai aoga...",
+          "noExpiry": "E leai se aso e muta ai lenei tusi faamaonia",
+          "url": "URL fa'amaonia",
+          "uploadThumbnail": "Tusi Faamaonia / Ata a'oa'oga",
+          "uploadThumbnailLimit": "Tu'u i luga le ata tusi (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Faaopoopo le Tusipasi",
+          "certNum": "Tusipasi #"
+        },
+        "contact": {
+          "contactNum": "Fa'afeso'ota'i #",
+          "platform": "Fa'avae",
+          "displayText": "Fa'aali Tusitusiga",
+          "displayTextPlaceholder": "fa'ata'ita'iga, you@email.com po'o le @username",
+          "url": "So'oga (URL)",
+          "urlPlaceholderWhatsapp": "fa'ata'ita'iga, 62812... (e aunoa ma le ta'ita'iina 0)",
+          "urlPlaceholderEmail": "e.g., you@email.com",
+          "urlPlaceholderWebsite": "e.g., https://...",
+          "urlPlaceholderDefault": "e.g., username",
+          "addContact": "Fa'aopoopo Feso'ota'iga"
+        },
+        "common": {
+          "months": {
+            "1": "Ianuari",
+            "2": "Fepuari",
+            "3": "Mati",
+            "4": "Apelila",
+            "5": "Mae",
+            "6": "Iuni",
+            "7": "Iuli",
+            "8": "Aukuso",
+            "9": "Setema",
+            "10": "Okitopa",
+            "11": "Novema",
+            "12": "Tesema"
+          },
+          "month": "Masina",
+          "year": "Tausaga",
+          "invalidDate": "Fa'ai'u masina le aoga",
+          "words": "upu"
+        }
+      },
+      "sure": "E mautinoa",
+      "deletePhotoTitle": "Ave'ese Ata Fa'amatalaga?",
+      "deletePhotoMessage": "E te mautinoa e te mana'o e tape le ata lea?",
+      "cancel": "Fa'aleaogaina",
+      "delete": "Aveese"
+    },
+    "cropper": {
+      "chooseBackground": "Filifili Fa'amatalaga",
+      "cropPhoto": "Oti Lau Ata",
+      "useOriginal": "Fa'aaoga muamua",
+      "backgroundPresets": "Fa'asologa o Tala'aga",
+      "none": "Leai",
+      "uploadBackground": "Tu'u i tua",
+      "cancel": "Fa'aleaogaina",
+      "savePhoto": "Faasaoina Ata",
+      "zoom": "Sa'o",
+      "rotationTilt": "Ta'amilosaga & Fa'asaga",
+      "resetRotation": "Toe seti i le 0°",
+      "center": "Nofoaga Tutotonu",
+      "rotateLeft": "Liliu -90°",
+      "rotateRight": "Liliu +90°",
+      "removeBackground": "Aveese le Fa'amatalaga",
+      "processing": "Fa'agasolo lau ata, fa'amolemole fa'atali..."
+    },
+    "cvPreview": {
+      "title": "CV muai va'aiga",
+      "downloadCv": "La'u mai le CV",
+      "download": "La'u mai",
+      "wordCannotPreview": "O pepa o upu (.doc/.docx) e le mafai ona va'ai fa'apitoa ile su'esu'ega. ",
+      "downloadFile": "La'u faila CV",
+      "back": "Tua",
+      "mobileMessage": "Fa'amolemole download le faila CV e va'ai muamua.",
+      "preview": "Fa'ailo CV",
+      "wordPreviewTitle": "Word Document Preview",
+      "wordPreviewMessage": "O pepa o upu (.doc/.docx) e le mafai ona va'aia fa'apitoa ile su'esu'ega. Fa'amolemole la'u mai le faila e matamata ai."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Tusi se faʻamatalaga puupuu e uiga ia te oe lava, mea e fiafia i ai, ma sini o galuega..."
+    },
+    "skills": {
+      "placeholder": "Tu'i igoa tomai...",
+      "add": "Faaopoopo",
+      "enterToAdd": "Oomi le Enter e faaopoopo",
+      "noSkills": "E le'i fa'aopoopoina ni tomai."
+    },
+    "projects": {
+      "projectName": "Igoa Poloketi",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "Poloketi URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Umi",
+      "startMonth": "Amata masina",
+      "startYear": "Tausaga amata",
+      "endMonth": "Fa'ai'uga o le Masina",
+      "endYear": "Tausaga Faaiu",
+      "currentlyWorking": "O loʻo galue i le taimi nei",
+      "description": "Fa'amatalaga",
+      "descriptionPlaceholder": "Fa'amatala le poloketi, lau matafaioi, ma taunu'uga...",
+      "technologies": "Tekonolosi Fa'aaogaina",
+      "addProject": "Faaopoopo Poloketi",
+      "image": "Ata Poloketi",
+      "removeImage": "Aveese Ata",
+      "uploadImage": "Kiliki e lafo ai ata"
+    },
+    "work": {
+      "company": "Kamupani/Fa'alapotopotoga",
+      "companyPlaceholder": "Igoa o le Kamupani...",
+      "role": "Matafaioi/Tulaga",
+      "rolePlaceholder": "O lou tulaga...",
+      "jobType": "Ituaiga Galuega",
+      "selectJobType": "Filifili ituaiga",
+      "fullTime": "Taimi uma",
+      "partTime": "Faavaitaimi",
+      "contract": "Konekarate",
+      "internship": "Fa'ata'ita'iga",
+      "freelance": "Tuto'atasi",
+      "location": "Nofoaga",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Umi",
+      "currentlyWorking": "O lo'o galue nei iinei",
+      "description": "Fa'amatalaga Galuega",
+      "descriptionPlaceholder": "Fa'amatala au matafaioi autu ma ausiga...",
+      "skills": "Tomai Fa'apitoa",
+      "addExperience": "Faaopoopo le poto masani"
+    },
+    "org": {
+      "organization": "Igoa o le Faalapotopotoga",
+      "organizationPlaceholder": "Igoa o le Faalapotopotoga...",
+      "role": "Matafaioi/Tulaga",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Umi",
+      "periodFormat": "po'o le Fa'atonu fua (fa'ata'ita'iga 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "O lo'o galue nei",
+      "description": "Fa'amatalaga o Gaoioiga",
+      "descriptionPlaceholder": "Fa'amatala au gaioiga po'o sao...",
+      "addExperience": "Faaopoopo le poto masani"
+    },
+    "education": {
+      "institution": "Igoa Faalapotopotoga",
+      "institutionPlaceholder": "Igoa a'oga po'o iunivesite...",
+      "degree": "Fa'ailoga/Tulaga",
+      "degreePlaceholder": "e.g. ",
+      "major": "Tele/Fa'afanua o Suesuega",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Vasega",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Umi o Aoga",
+      "periodFormat": "po'o le Fuafuaga Sa'oloto (fa'ata'ita'iga 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "O lo'o a'oga nei iinei",
+      "description": "Gaoioiga / Mamalu",
+      "descriptionPlaceholder": "Fa'amatala galuega fa'alea'oa'oga, fa'alapotopotoga, po'o fa'ailoga ua maua...",
+      "addEducation": "Faaopoopo A'oga"
+    },
+    "cert": {
+      "name": "Igoa Faamaonia",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Fa'alapotopotoga tu'uina atu",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Aso Fa'amatalaga",
+      "expiryDate": "Fa'aoga Se'ia",
+      "noExpiry": "O lenei fa'ailoga e le muta",
+      "yearPlaceholder": "po'o le Tausaga (fa'ata'ita'iga 2023)",
+      "credentialUrl": "URL fa'amaonia",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Tomai Faatatau",
+      "addCertification": "Faaopoopo le Tusipasi",
+      "image": "Ata/Logo",
+      "removeImage": "Aveese Ata",
+      "uploadImage": "Kiliki e lafo ai ata"
+    },
+    "common": {
+      "months": {
+        "1": "Ianuari",
+        "2": "Fepuari",
+        "3": "Mati",
+        "4": "Apelila",
+        "5": "Mae",
+        "6": "Iuni",
+        "7": "Iuli",
+        "8": "Aukuso",
+        "9": "Setema",
+        "10": "Okitopa",
+        "11": "Novema",
+        "12": "Tesema"
+      },
+      "month": "Masina",
+      "year": "Tausaga",
+      "invalidDate": "Fa'ai'u masina le aoga",
+      "words": "upu"
+    }
+  },
+  "settings": {
+    "title": "Fa'atonu",
+    "subtitle": "Pulea lau fa'amatalaga fa'akomepiuta ma mea e te mana'o iai",
+    "tabs": {
+      "profile": "O'u Tala'aga",
+      "security": "Saogalemu",
+      "personalization": "Fa'asinomaga"
+    },
+    "profile": {
+      "infoTitle": "Fa'amatalaga Autu",
+      "photo": "Fa'amatalaga Ata",
+      "uploadPhoto": "Suia Ata",
+      "fullName": "Igoa Atoa",
+      "fullNamePlaceholder": "Ioane Doe",
+      "email": "Imeli tuatusi",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E fa'aoga le imeli mo le saini ma e le fa'aalia fa'alaua'itele.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Fa'asaoina Tala'aga",
+      "save": "Fa'asaoina Tala'aga",
+      "accountCreated": "Fa'amauina Fa'amatalaga",
+      "lastLogin": "Ulufale Mulimuli",
+      "oauthNotice": "O lenei fa'amatalaga e feso'ota'i i lau {{provider}} account. E tatau ona faia suiga o fa'amatalaga e ala i le 'au'aunaga."
+    },
+    "security": {
+      "changePassword": "Suia upu faataga",
+      "currentPassword": "upu tuanai o le taimi nei",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Upu Fou",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Fa'amautu upu fou",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Le itiiti ifo i le 8 mataitusi",
+        "uppercase": "Tasi mataitusi tetele (A-Z)",
+        "number": "Numera tasi (0-9)",
+        "symbol": "Tasi le fa'ailoga (!@#$%^&*)"
+      },
+      "passwordTitle": "Numera e le iloa e sesi",
+      "updatePassword": "Fa'afou uputatala",
+      "additionalSecurity": "Puipuiga Faaopoopo",
+      "twoFactor": "Fa'amaoni Fa'ailoga Lua (2FA)",
+      "twoFactorDesc": "Saogalemu lau tala e faaaoga ai se isi code OTP.",
+      "activeSessions": "Sauniga Toaga",
+      "activeSessionsDesc": "Fa'ataga i taimi uma le mata'ituina o masini e saini i totonu.",
+      "publicVisibility": "Va'aiga lautele",
+      "hideFromSearch": "Natia Portfolio mai Su'esu'e Inisinia",
+      "hideFromSearchDesc": "Taofi Google mai le fa'aigoaina o lau itulau fa'akomupiuta lautele.",
+      "disable2fa": {
+        "title": "Taofi le 2FA",
+        "description": "E te mautinoa e te mana'o e tape le fa'amaoni e lua?",
+        "confirmPasswordLabel": "Ulufale lau password e fa'amaonia",
+        "currentPasswordPlaceholder": "upu faataga nei",
+        "cancelButton": "Fa'aleaogaina",
+        "confirmButton": "Taofi le 2FA",
+        "incorrectPassword": "Sese upu faataga."
+      },
+      "setup2fa": {
+        "step1Title": "1. Va'ai le QR Code",
+        "step1Desc": "Tatala lau authenticator app ma matamata le QR code lea:",
+        "unableToScan": "Le mafai ona su'esu'e? Fa'aoga ki seti",
+        "step2Title": "2. Fa'amaonia Code",
+        "step2Desc": "Ulufale i le numera 6-numera na faia e lau app:",
+        "cancelButton": "Fa'aleaogaina",
+        "enableButton": "Fa'amalo le 2FA",
+        "invalidLength": "Fa'amolemole tu'u se numera 6 numera.",
+        "invalidCode": "Fa'ailoga fa'amaonia le aoga. Fa'amolemole toe taumafai."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Pulea Gagana",
+      "appLanguage": "Gagana App",
+      "layoutTitle": "Fa'atonu & Fa'asologa",
+      "layoutStyle": "Fua Fa'atonu",
+      "layoutModern": "Sitaili Fa'aonaponei (Taunoa)",
+      "layoutClassic": "Sitaili masani",
+      "layoutMinimalist": "Laiti Laiti",
+      "fontSize": "Tele Fua'i Mea",
+      "fontSmall": "Laiti",
+      "fontNormal": "masani (Medium)",
+      "fontLarge": "Tele",
+      "searchLanguage": "Su'e gagana...",
+      "languageNotFound": "Le maua gagana",
+      "layoutElegant": "Sitaili Matagofie"
+    },
+    "saveChanges": "Faasaoina Suiga",
+    "cancel": "Fa'aleaogaina",
+    "appSettings": "Fa'atonuga o App",
+    "logoutConfirmTitle": "Fa'amaonia le sau i fafo",
+    "logoutConfirmDesc": "E te mautinoa e te mana'o e alu ese mai le faiga?",
+    "logoutConfirmYes": "Ioe, Logotu",
+    "generalError": "Ua tupu se mea sese. ",
+    "success": "Manuia",
+    "preferencesSaved": "Fa'amanuiaina le fa'apolopoloina o mana'oga.",
+    "header": "Fa'atonuga Fa'atatau",
+    "logout": {
+      "title": "Fa'amaoniga e sau i fafo",
+      "message": "E te mautinoa e te mana'o e alu ese mai le faiga?",
+      "confirm": "Ioe, Logotu"
+    },
+    "about": {
+      "title": "E uiga i le Talosaga",
+      "subtitle": "Faiga Faufautua Faufautua",
+      "version": "Fa'aliliuga",
+      "description": "DevFolio ose faʻaonaponei fau faufale faufale faʻatulagaina mo tagata atiaʻe, mamanu, ma faʻapolofesa foafoa. ",
+      "license": "Laisene & Puletaofia",
+      "copyright": "© 2026 DevFolio Inc. Ua taofia aia tatau uma.",
+      "developer": "Atina'e",
+      "developedBy": "Atiina e Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Ave'ese Tuma'u Fa'amatalaga",
+      "menuItem": "Ave'ese Fa'amatalaga",
+      "successTitle": "Manuia",
+      "successMessage": "Ua uma ona auina atu se imeli e fa'amaonia ai le tapeina o tala.",
+      "errorTitle": "Ua le manuia",
+      "errorMessage": "Ua le mafai ona lafo le imeli fa'amaonia.",
+      "confirmationMessage": "E te mautinoa e te mana'o e tape lau fa'amatalaga tumau?",
+      "warningMessage1": "O le ae mauaina se imeli e faʻamaonia ai le tapeina o tala.",
+      "warningMessage2": "Afai e faʻamaonia, o faʻamaumauga uma (faʻamaumauga, poloketi, fuainumera) o le a tapeina tumau ma e le mafai ona toe faʻaleleia.",
+      "cancel": "Fa'aleaogaina",
+      "confirm": "Fa'amauga"
+    },
+    "toasts": {
+      "toastError": "Sese",
+      "toastSuccess": "Manuia",
+      "toastSetup2FAFailed": "Ua le mafai ona seti le 2FA. Fa'amolemole toe taumafai.",
+      "toast2FAEnabled": "Ua mafai ona fa'amaonia mea e lua.",
+      "toast2FADisabled": "Ua fa'aletonu le fa'amaoni e lua.",
+      "toastSessionEnabled": "Ua mafai ona mata'ituina le sauniga.",
+      "toastSessionDisabled": "Ua fa'aletonu le mataituina o sauniga.",
+      "toastSetupKeyCopied": "Seti ki ua kopi i le laupapa kilipa."
+    },
+    "privacy": {
+      "title": "Faiga Fa'alilolilo",
+      "updateDate": "Fa'afouga Mulimuli: Iulai 15, 2026",
+      "intro": "O lenei Faiga Faʻapitoa e faʻamatalaina ai le auala e aoina ai e DevFolio, faʻaoga, ma puipuia au faʻamatalaga patino pe a faʻaogaina a matou auaunaga.",
+      "section1Title": "1. Faamatalaga Matou te Aoina",
+      "section1Content": "Matou te aoina faʻamatalaga e te tuʻuina saʻo pe a fatuina se teugatupe, fausia se faila, ma faʻafesoʻotaʻi la matou lagolago. ",
+      "section2Title": "2. Fa'aaogāina o Fa'amatalaga",
+      "section2Content": "O au faʻamatalaga e faʻaaogaina e faʻagaioi ai, tausia, ma tuʻuina atu foliga oa matou auaunaga, faʻapea foʻi ma fesoʻotaʻiga ma oe e uiga i lau teugatupe poʻo auʻaunaga.",
+      "section3Title": "3. Puipuiga o Fa'amaumauga",
+      "section3Content": "Matou te fa'atinoina faiga saogalemu talafeagai e puipuia ai au fa'amatalaga mai le fa'atagaina, fa'ailoa, po'o le fa'aleagaina."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "E le'i maua le fa'amaoniga.",
+    "defaultError": "Ua le mafai ona tape le tala. Atonu ua uma le fa'ailoga.",
+    "loadingTitle": "Ave'esea le Fa'amatalaga...",
+    "loadingMessage": "Fa'amolemole fa'atali, o lo'o matou fa'agasolo lau talosaga.",
+    "successTitle": "Fa'amanuiaina le tapeina o tala",
+    "successMessage": "O au fa'amatalaga uma ua tape'a tumau. O le a toe fa'afeiloa'i oe...",
+    "errorTitle": "Ua le mafai ona Ave'esea Fa'amatalaga",
+    "backToHome": "Toe foi i le Aiga"
+  },
+  "forgotPassword": {
+    "minutes": "minute",
+    "seconds": "sekone",
+    "success": "Manuia",
+    "otpSentToEmail": "O le OTP code ua lafo i lau imeli.",
+    "failed": "Ua le manuia",
+    "emailNotFound": "Le maua imeli.",
+    "emailThirdParty": "O lenei imeli e resitalaina e ala i se isi vaega.",
+    "genericError": "E iai se mea sese. Fa'amolemole toe taumafai.",
+    "otpVerified": "Ua fa'amaonia lelei le fa'ailoga OTP.",
+    "otpExpired": "O le OTP code ua uma. Fa'amolemole talosaga mo se code fou.",
+    "otpInvalid": "OTP code le aoga.",
+    "otpResent": "Ua lafoina se code OTP fou i lau imeli.",
+    "otpResendFailed": "Ua le mafai ona toe lafo le OTP code. Fa'amolemole toe taumafai.",
+    "passwordResetSuccess": "Ua manuia le toe setiina o upu faataga. Fa'amolemole saini i totonu ma lau password fou.",
+    "passwordResetFailed": "Ua le mafai ona toe setiina le upu faataga.",
+    "backToLogin": "Toe fo'i i totonu",
+    "back": "Tua",
+    "title": "Ua galo le upu faataga",
+    "description": "Ulufale i le tuatusi imeli ua lesitala i lau teugatupe. O le a matou lafoina se OTP code e toe setiina ai le upu faataga.",
+    "emailLabel": "tuatusi imeli",
+    "sending": "Tuuina atu...",
+    "sendOtp": "Lauina le OTP Code",
+    "verifyOtpTitle": "Fa'amaonia le OTP Code",
+    "verifyOtpDesc": "Ulufale le 6 numera numera na lafo i lau imeli e faʻamaonia ai lou faʻamatalaga.",
+    "verifying": "Fa'amaonia...",
+    "verifyOtp": "Fa'amaonia le OTP",
+    "resending": "Toe lafo atu...",
+    "resendOtp": "Toe lafo le OTP Code",
+    "resendCodeIn": "Toe lafo le code ile",
+    "newPasswordTitle": "Fausia se uputatala Fou",
+    "newPasswordDesc": "Fausia se upu fou ma malosi e fa'amautu ai lau teugatupe.",
+    "newPasswordLabel": "Upu Fou",
+    "min8Chars": "La'ititi 8 mataitusi",
+    "oneUpperCase": "1 mataitusi tetele (A-Z)",
+    "oneNumber": "1 numera (0-9)",
+    "oneSymbol": "1 fa'ailoga (!@#$%^&*)",
+    "confirmPasswordLabel": "Fa'amaonia le upu fa'ataga",
+    "passwordsDoNotMatch": "E le fetaui upu faataga.",
+    "resettingPassword": "Toe setiina o le upu faataga...",
+    "resetPassword": "Toe setiina upu faataga"
+  },
+  "verifyEmail": {
+    "resendError": "Ua le mafai ona toe auina atu imeli fa'amaonia. Fa'amolemole toe taumafai.",
+    "checkingStatus": "Siaki le tulaga fa'amaonia...",
+    "title": "Siaki lau Email",
+    "description": "Ua matou lafoina se imeli faʻamaonia i lau tuatusi imeli. Fa'amolemole tatala le imeli ma kiliki le <1>\"Confirm Account\"</1> fa'amau e fa'agaoioi ai lau tala.",
+    "stepsTitle": "Laasaga",
+    "step1": "Tatala lau talosaga imeli (Gmail, Yahoo, ma isi)",
+    "step2": "Vaavaai mo se imeli mai DevFolio ma le mataupu \"Account Activation\"",
+    "step3": "Kiliki le \"Confirm Account\" button i le imeli",
+    "step4": "O le a faasino atu oe i le itulau e saini e ulufale ai",
+    "resendSuccess": "Ua toe lafo le imeli fa'amaonia!",
+    "resending": "Toe lafo atu...",
+    "resendButton": "Toe auina atu le imeli Faamaonia",
+    "backToLogin": "Toe fo'i ile Itulau Ulufale",
+    "footerNote": "E le'i mauaina le imeli? Siaki le <1>Spam</1> po'o le <2>Junk</2> faila i lau imeli. Ole so'oga fa'amaonia e aoga mo <3>24 itula</3>."
+  }
+}

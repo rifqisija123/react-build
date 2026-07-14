@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ibiranga",
+    "templates": "Inyandikorugero",
+    "pricing": "Igiciro",
+    "login": "Injira",
+    "getStarted": "Tangira",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ubwubatsi bukuru bwubaka kubateza imbere",
+    "title1": "Wubake umwuga wawe",
+    "title2": "portfolio in",
+    "titleHighlight": "amasegonda.",
+    "subtitle": "Ikintu cyose ukeneye kwerekana ubuhanga bwawe, imishinga, nuburambe. ",
+    "startBuilding": "Tangira kubaka nonaha",
+    "viewTemplates": "Reba Inyandikorugero",
+    "fastDeployment": "Kohereza vuba",
+    "liveStatus": "ukoresha.dev ni muzima!",
+    "featuresTitle": "Ibintu bikomeye",
+    "featuresSubtitle": "Dutanga ibikoresho byose ukeneye kugirango uhagarare mubantu kandi utange akazi kawe ko kurota.",
+    "feature1Title": "Kurura & Kureka Kubaka",
+    "feature1Desc": "Byoroshe gutunganya ibice byawe, imishinga, hamwe nubuhanga hamwe na intuitive visual editor.",
+    "feature2Title": "Insanganyamatsiko",
+    "feature2Desc": "Hitamo mubyitegererezo byabigenewe cyangwa ukore isura yawe yihariye.",
+    "feature3Title": "Isesengura-nyaryo",
+    "feature3Desc": "Kurikirana abashyitsi bawe, reba imishinga ikundwa cyane, nibindi byinshi."
+  },
+  "auth": {
+    "welcomeBack": "Murakaza neza",
+    "loginToContinue": "Injira kuri konte yawe kugirango ukomeze",
+    "createAccount": "Kora Konti",
+    "joinCommunity": "Iyunge nabandi ibihumbi byabateza imbere",
+    "fullName": "Izina ryuzuye",
+    "fullNamePlaceholder": "urugero ",
+    "email": "Aderesi ya imeri",
+    "emailPlaceholder": "wowe@urugero.com",
+    "password": "Ijambobanga",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Unyibuke",
+    "forgotPassword": "Wibagiwe ijambo ryibanga?",
+    "signIn": "Injira",
+    "signingIn": "Kwinjira ...",
+    "signUp": "Iyandikishe",
+    "signingUp": "Kwiyandikisha ...",
+    "noAccount": "Ntabwo ufite konti?",
+    "hasAccount": "Ufite konti?",
+    "passwordRules": {
+      "title": "Ijambobanga rigomba kuba rikubiyemo:",
+      "length": "Nibura inyuguti 8",
+      "uppercase": "Inyuguti imwe nini (A-Z)",
+      "number": "Umubare umwe (0-9)",
+      "symbol": "Ikimenyetso kimwe (! @ # $% ^ & *)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Kubaka Portfolio",
+      "templates": "Inyandikorugero & Insanganyamatsiko",
+      "settings": "Igenamiterere",
+      "collapse": "Gusenyuka kuruhande",
+      "overview": "Incamake",
+      "profileSettings": "Igenamiterere ry'umwirondoro",
+      "customDomain": "Indanganturo",
+      "feedback": "Igitekerezo"
+    },
+    "header": {
+      "viewLive": "Reba Live",
+      "welcome": "Murakaza neza,",
+      "logout": "Kwinjira",
+      "builder": "Umwubatsi",
+      "livePortfolio": "Live Portfolio",
+      "live": "Baho"
+    },
+    "logoutModal": {
+      "title": "Kwinjira",
+      "message": "Uzi neza ko ushaka gusohoka muri konte yawe? ",
+      "cancel": "Kureka",
+      "confirm": "Nibyo, Logout"
+    },
+    "slugModal": {
+      "title": "Hitamo URL ya Portfolio",
+      "message": "Iyi URL izaba ihuza ryihariye kuri portfolio yawe. ",
+      "slugPlaceholder": "izina ryawe",
+      "availability": "Kuboneka:",
+      "available": "Birashoboka",
+      "unavailable": "Ntibishoboka",
+      "checking": "Kugenzura ...",
+      "mustFormat": "Irashobora kuba irimo inyuguti, imibare, hamwe nuduce (-)",
+      "cancel": "Kureka",
+      "save": "Bika URL",
+      "usernameUrl": "Izina ryukoresha",
+      "helpText": "Inyuguti nto, imibare, hamwe nuduce. ",
+      "validation": {
+        "empty": "Slug ntishobora kuba ubusa.",
+        "min3": "Nibura inyuguti 3.",
+        "max30": "Inyuguti ntarengwa 30.",
+        "format": "Inyuguti nto gusa, imibare, hamwe nuduce (-). "
+      }
+    },
+    "loadingPortfolio": "Gupakira amakuru ya portfolio ...",
+    "overview": {
+      "greetings": {
+        "morning": "Mwaramutse",
+        "afternoon": "Mwaramutse neza",
+        "evening": "Mwaramutse neza",
+        "night": "Ijoro ryiza"
+      },
+      "welcome": {
+        "hi": "Muraho,",
+        "creator": "Umuremyi",
+        "desc1": "Murakaza neza kububiko bwa DevFolio. Inshingano zawe zarebwaga na",
+        "desc2": "umuntu. Komeza gukora!",
+        "editPortfolio": "Hindura Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Abashyitsi bose",
+        "projectViews": "Reba (Umushinga)",
+        "activeSessions": "Isomo rikora",
+        "totalLabel": "Igiteranyo"
+      },
+      "setup": {
+        "title": "Gushiraho Amajyambere",
+        "completed": "Inshingano zawe ziruzuye! 🎉",
+        "inProgress": "Intambwe Kuri portfolio nziza.",
+        "profile": {
+          "title": "Umwirondoro wuzuye",
+          "desc": "Ongeraho izina, bio nifoto yumwirondoro."
+        },
+        "section": {
+          "title": "Ongeraho Ibice",
+          "desc": "Kora byibuze igice 1 muri portfolio."
+        },
+        "project": {
+          "title": "Ongeraho Umushinga",
+          "desc": "Injira byibuze 1 mumishinga yawe myiza."
+        },
+        "publish": {
+          "title": "Tangaza Portfolio",
+          "desc": "Shiraho URL yihariye kugirango ishobore kugerwaho nabantu."
+        }
+      },
+      "topProjects": {
+        "title": "Imishinga Yamamaye cyane",
+        "desc": "Imikorere yumurimo wawe mumaso yabashyitsi.",
+        "viewAll": "Reba Byose",
+        "empty": "Nta makuru yo kureba kumushinga wawe."
+      }
+    },
+    "themes": {
+      "title": "Inyandikorugero & Insanganyamatsiko",
+      "subtitle": "Hindura isura kandi wumve portfolio yawe rusange.",
+      "reset": "Ongera usubiremo",
+      "save": "Bika Impinduka",
+      "saving": "Kuzigama ...",
+      "chooseTemplate": "Hitamo icyitegererezo",
+      "primaryColor": "Ibara ryibanze",
+      "typography": "Imyandikire",
+      "appearance": "Kugaragara",
+      "corners": "Inguni & Imipaka",
+      "successTitle": "Intsinzi",
+      "successMessage": "Ibyifuzo byinsanganyamatsiko byavuguruwe neza",
+      "errorTitle": "Ikosa",
+      "errorMessage": "Kunanirwa kubika ibyifuzo byinsanganyamatsiko",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Igishushanyo cyiza kandi cyoroshye cyibanda kubirimo."
+        },
+        "developerDark": {
+          "name": "Umushinga wijimye",
+          "desc": "Insanganyamatsiko yijimye yuzuye yo kwerekana code hamwe nibikoresho bya tekinoroji."
+        },
+        "creative": {
+          "name": "Kurema",
+          "desc": "Imiterere nimbaraga zamabara kubashushanya n'abashinzwe."
+        },
+        "executive": {
+          "name": "Nyobozi",
+          "desc": "Imiterere yumwuga kandi yemewe kubanyamwuga."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Imiterere ya kijyambere ya Apple ya grid yerekana ubuhanga butandukanye neza."
+        },
+        "neoBrutalism": {
+          "name": "Ubugome",
+          "desc": "Imipaka itinyutse n'amabara atandukanye cyane kugirango agaragare neza, adasobanutse."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Ingaruka yikirahure ikonje hejuru ya gradients yamabara ya UI igezweho."
+        },
+        "linkInBio": {
+          "name": "Ihuza muri Bio",
+          "desc": "Imiterere ihagaritse igizwe neza na ecran ya mobile hamwe nimbuga nkoranyambaga."
+        }
+      },
+      "appearances": {
+        "light": "Umucyo",
+        "dark": "Umwijima",
+        "system": "Sisitemu"
+      },
+      "cornersOptions": {
+        "sharp": "Ikarishye",
+        "rounded": "Round",
+        "pill": "Inkingi"
+      }
+    },
+    "feedback": {
+      "title": "Ohereza Ibitekerezo",
+      "subtitle": "Mudufashe gukora neza mugutanga ibitekerezo, kunegura, cyangwa gutanga amakosa kuriyi porogaramu.",
+      "categoryLabel": "Icyiciro cyo gutanga ibitekerezo",
+      "messageLabel": "Tegeka Ibisobanuro",
+      "messagePlaceholder": "Mbwira birambuye kubyerekeye ibitekerezo ushaka gutanga ...",
+      "imageLabel": "Umugereka w'ishusho (Bihitamo)",
+      "imagePlaceholder": "Kanda kugirango ushireho ishusho cyangwa amashusho",
+      "submitting": "Ohereza ...",
+      "submitBtn": "Ohereza Ibitekerezo",
+      "categories": {
+        "suggestion": "Ibyifuzo & Ibitekerezo",
+        "bug": "Bug / Amakosa Raporo",
+        "criticism": "Kunegura",
+        "other": "Ibindi"
+      },
+      "imageErrorTitle": "Ikosa",
+      "imageErrorMessage": "Amadosiye amwe yaranze kubera ko adashyigikiwe nimiterere yishusho (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Intsinzi",
+      "successMessage": "Urakoze kubitekerezo byawe! Raporo yoherejwe.",
+      "submitErrorTitle": "Kunanirwa",
+      "submitErrorMessage": "Ikosa ryabaye mugihe wohereje ibitekerezo. Nyamuneka gerageza."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ibyanjye",
+      "skills": "Ubuhanga",
+      "projects": "Imishinga",
+      "workExperience": "Uburambe ku kazi",
+      "orgExperience": "Inararibonye mu muteguro",
+      "education": "Uburezi",
+      "certifications": "Amahugurwa & Impamyabumenyi",
+      "contact": "Menyesha"
+    },
+    "editor": {
+      "profileInfo": "Ibisobanuro",
+      "saving": "Kuzigama ...",
+      "profilePhoto": "Ifoto Yumwirondoro",
+      "clickToUpload": "Kanda kugirango wohereze (JPG, PNG)",
+      "fullName": "Izina ryuzuye",
+      "fullNamePlaceholder": "urugero ",
+      "bio": "Bio",
+      "bioPlaceholder": "Iterambere ryuzuye hamwe nishyaka ryo kubaka porogaramu zigezweho ...",
+      "location": "Aho biherereye",
+      "locationPlaceholder": "urugero ",
+      "gender": "Uburinganire",
+      "selectGender": "Hitamo Uburinganire",
+      "male": "Umugabo",
+      "female": "Umugore",
+      "custom": "Custom",
+      "customPlaceholder": "Andika igitsina cyawe bwite ...",
+      "uploadCv": "Kuramo CV",
+      "cvFormat": "(DOC cyangwa PDF)",
+      "preview": "Imbere",
+      "remove": "Kuraho",
+      "clickToUploadCv": "Kanda kugirango wohereze PDF cyangwa DOC",
+      "sections": "Ibice",
+      "removeSelected": "Kuraho Byatoranijwe",
+      "confirmRemove": "Emeza Gukuraho",
+      "addSection": "Ongeraho Igice",
+      "addAllSections": "Ongeraho Ibice Byose",
+      "noSections": "Nta bice",
+      "clickToAdd": "Kanda \"+ Ongera Igice\" kugirango utangire",
+      "selectAll": "Hitamo Byose",
+      "selected": "Byahiswemo",
+      "dragToReorder": "Kurura kugirango uhindure ibice",
+      "livePreview": "Kubaho neza",
+      "addSectionsToBuild": "Ongeraho ibice kugirango wubake portfolio yawe",
+      "now": "Noneho",
+      "current": "Ibiriho",
+      "noExpiry": "Nta kurangira",
+      "see": "Reba",
+      "position": "Umwanya",
+      "degree": "Impamyabumenyi",
+      "certification": "Icyemezo",
+      "sectionsForm": {
+        "about": {
+          "label": "Ibisobanuro byawe wenyine",
+          "placeholder": "Tubwire ibyawe, amateka yawe, inyungu nubuhanga ..."
+        },
+        "skills": {
+          "addPlaceholder": "Andika ubuhanga hanyuma ukande Enter ..."
+        },
+        "projects": {
+          "title": "Izina ry'umushinga",
+          "titlePlaceholder": "Izina ry'umushinga ...",
+          "url": "URL y'umushinga",
+          "description": "Ibisobanuro",
+          "descriptionPlaceholder": "Ibisobanuro muri make byumushinga ...",
+          "uploadThumbnail": "Ishusho Umushinga",
+          "addProject": "Ongeraho Umushinga",
+          "projectNum": "Umushinga #",
+          "currentProject": "Uyu ni umushinga ndimo gukora"
+        },
+        "work": {
+          "company": "Isosiyete / Ikigo",
+          "companyPlaceholder": "Izina ryisosiyete ...",
+          "position": "Umwanya / Umutwe",
+          "positionPlaceholder": "Umwanya wawe ...",
+          "employmentType": "Ubwoko bw'akazi",
+          "location": "Aho biherereye",
+          "locationPlaceholder": "Umujyi, Igihugu ...",
+          "startDate": "Tangira",
+          "endDate": "Byarangiye",
+          "currentWork": "Ndacyakora kuri ubu",
+          "description": "Ibisobanuro",
+          "descriptionPlaceholder": "Ibisobanuro by'akazi n'inshingano ...",
+          "skills": "Ubuhanga",
+          "addExperience": "Ongeraho Uburambe ku kazi",
+          "experienceNum": "Inararibonye #",
+          "dateError": "Itariki yo kurangiriraho ntishobora kuba kare kurenza itariki yo gutangiriraho"
+        },
+        "org": {
+          "organization": "Izina ryumuryango",
+          "orgPlaceholder": "Kaminuza ya BEM ...",
+          "role": "Uruhare / Umwanya",
+          "rolePlaceholder": "Umuyobozi w'igabana ...",
+          "addOrg": "Ongeraho Inararibonye",
+          "orgNum": "Ishirahamwe #"
+        },
+        "edu": {
+          "institution": "Inzego z'uburezi",
+          "institutionPlaceholder": "Izina ryikigo cyangwa ishuri ...",
+          "degree": "Umutwe",
+          "degreePlaceholder": "S1, amashuri yisumbuye, nibindi ...",
+          "major": "Ishami / Umwanya wo Kwiga",
+          "majorPlaceholder": "Informatics Engineering ...",
+          "gpa": "GPA (bidashoboka)",
+          "currentStudy": "Ndacyiga hano",
+          "descriptionPlaceholder": "Ibikorwa nibyagezweho mugihe cyo kwiga ...",
+          "addEdu": "Ongeraho Uburezi",
+          "eduNum": "Uburezi #"
+        },
+        "cert": {
+          "name": "Izina ry'icyemezo / Amahugurwa",
+          "namePlaceholder": "Izina ry'icyemezo ...",
+          "issuer": "Umwanditsi",
+          "issuerPlaceholder": "Ikigo cyandika ...",
+          "issueDate": "Tangira (Itariki yo gutangaza)",
+          "issueDatePlaceholder": "Hitamo itariki yo gutangaza ...",
+          "expiryDate": "Byarangiye (Igihe cyemewe)",
+          "expiryDatePlaceholder": "Hitamo itariki izarangiriraho ...",
+          "noExpiry": "Iki cyemezo ntigifite itariki izarangiriraho",
+          "url": "URL yemewe",
+          "uploadThumbnail": "Icyemezo / Ishusho y'Amahugurwa",
+          "uploadThumbnailLimit": "Kuramo ishusho yicyemezo (JPG / PNG / WEBP, max 2MB)",
+          "addCert": "Ongeraho Icyemezo",
+          "certNum": "Icyemezo #"
+        },
+        "contact": {
+          "contactNum": "Menyesha #",
+          "platform": "Ihuriro",
+          "displayText": "Erekana Umwandiko",
+          "displayTextPlaceholder": "urugero, wowe@email.com cyangwa @ukoresha izina",
+          "url": "Ihuza (URL)",
+          "urlPlaceholderWhatsapp": "urugero, 62812 ... (utayoboye 0)",
+          "urlPlaceholderEmail": "urugero, wowe@email.com",
+          "urlPlaceholderWebsite": "urugero, https: // ...",
+          "urlPlaceholderDefault": "urugero, izina ryukoresha",
+          "addContact": "Ongeraho"
+        },
+        "common": {
+          "months": {
+            "1": "Mutarama",
+            "2": "Gashyantare",
+            "3": "Werurwe",
+            "4": "Mata",
+            "5": "Gicurasi",
+            "6": "Kamena",
+            "7": "Nyakanga",
+            "8": "Kanama",
+            "9": "Nzeri",
+            "10": "Ukwakira",
+            "11": "Ugushyingo",
+            "12": "Kigarama"
+          },
+          "month": "Ukwezi",
+          "year": "Umwaka",
+          "invalidDate": "Ukwezi kurangira",
+          "words": "amagambo"
+        }
+      },
+      "sure": "Nibyo",
+      "deletePhotoTitle": "Gusiba Ifoto Yumwirondoro?",
+      "deletePhotoMessage": "Uzi neza ko ushaka gusiba iyi foto yumwirondoro?",
+      "cancel": "Kureka",
+      "delete": "Siba"
+    },
+    "cropper": {
+      "chooseBackground": "Hitamo Amavu n'amavuko",
+      "cropPhoto": "Fata Ifoto yawe",
+      "useOriginal": "Koresha umwimerere",
+      "backgroundPresets": "Amavu n'amavuko",
+      "none": "Nta na kimwe",
+      "uploadBackground": "Kuramo Amavu n'amavuko",
+      "cancel": "Kureka",
+      "savePhoto": "Bika Ifoto",
+      "zoom": "Kuzamura",
+      "rotationTilt": "Kuzunguruka & Kugoreka",
+      "resetRotation": "Subira kuri 0 °",
+      "center": "Ikigo",
+      "rotateLeft": "Kuzunguruka -90 °",
+      "rotateRight": "Kuzenguruka + 90 °",
+      "removeBackground": "Kuraho Amavu n'amavuko",
+      "processing": "Gutunganya ishusho yawe, nyamuneka utegereze ..."
+    },
+    "cvPreview": {
+      "title": "CV Yerekana",
+      "downloadCv": "Kuramo CV",
+      "download": "Kuramo",
+      "wordCannotPreview": "Inyandiko zijambo (.doc / .docx) ntizishobora kurebwa kavukire muri mushakisha. ",
+      "downloadFile": "Kuramo dosiye ya CV",
+      "back": "Inyuma",
+      "mobileMessage": "Nyamuneka kura dosiye ya CV kugirango uyirebe.",
+      "preview": "Reba CV",
+      "wordPreviewTitle": "Ijambo ryibanze",
+      "wordPreviewMessage": "Inyandiko zijambo (.doc / .docx) ntizishobora kurebwa kavukire muri mushakisha. Nyamuneka kura dosiye kugirango uyirebe."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Andika ibisobanuro bigufi kuri wewe, inyungu, n'intego z'umwuga ..."
+    },
+    "skills": {
+      "placeholder": "Andika izina ry'ubuhanga ...",
+      "add": "Ongeraho",
+      "enterToAdd": "Kanda Enter kugirango wongere",
+      "noSkills": "Nta buhanga bwongeyeho."
+    },
+    "projects": {
+      "projectName": "Izina ry'umushinga",
+      "projectNamePlaceholder": "urugero ",
+      "projectUrl": "URL y'umushinga",
+      "projectUrlPlaceholder": "https: // ...",
+      "duration": "Ikiringo",
+      "startMonth": "Ukwezi gutangira",
+      "startYear": "Umwaka wo gutangira",
+      "endMonth": "Ukwezi kurangira",
+      "endYear": "Umwaka wanyuma",
+      "currentlyWorking": "Kuri ubu urimo gukora kuri ibi",
+      "description": "Ibisobanuro",
+      "descriptionPlaceholder": "Sobanura umushinga, uruhare rwawe, n'ibimaze kugerwaho ...",
+      "technologies": "Ikoranabuhanga ryakoreshejwe",
+      "addProject": "Ongeraho Umushinga",
+      "image": "Ishusho Umushinga",
+      "removeImage": "Kuraho Ishusho",
+      "uploadImage": "Kanda kugirango ushireho ishusho"
+    },
+    "work": {
+      "company": "Isosiyete / Ikigo",
+      "companyPlaceholder": "Izina ryisosiyete ...",
+      "role": "Uruhare / Umwanya",
+      "rolePlaceholder": "Umwanya wawe ...",
+      "jobType": "Ubwoko bw'akazi",
+      "selectJobType": "Hitamo ubwoko",
+      "fullTime": "Igihe cyose",
+      "partTime": "Igihe gito",
+      "contract": "Amasezerano",
+      "internship": "Kwimenyereza umwuga",
+      "freelance": "Freelance",
+      "location": "Aho biherereye",
+      "locationPlaceholder": "urugero ",
+      "duration": "Ikiringo",
+      "currentlyWorking": "Ubu ukora hano",
+      "description": "Ibisobanuro by'akazi",
+      "descriptionPlaceholder": "Sobanura inshingano zawe z'ingenzi n'ibyo wagezeho ...",
+      "skills": "Ubuhanga bwihariye",
+      "addExperience": "Ongeraho Uburambe"
+    },
+    "org": {
+      "organization": "Izina ryumuryango",
+      "organizationPlaceholder": "Izina ry'umuryango ...",
+      "role": "Uruhare / Umwanya",
+      "rolePlaceholder": "urugero ",
+      "duration": "Ikiringo",
+      "periodFormat": "cyangwa Imiterere y'Ubuntu (urugero: 2020 - 2022)",
+      "periodPlaceholder": "urugero ",
+      "currentlyActive": "Kugeza ubu",
+      "description": "Ibisobanuro",
+      "descriptionPlaceholder": "Sobanura ibikorwa byawe cyangwa imisanzu ...",
+      "addExperience": "Ongeraho Uburambe"
+    },
+    "education": {
+      "institution": "Izina ryikigo",
+      "institutionPlaceholder": "Izina ry'ishuri cyangwa kaminuza ...",
+      "degree": "Impamyabumenyi / Urwego",
+      "degreePlaceholder": "urugero ",
+      "major": "Icyiciro / Umwanya wo Kwiga",
+      "majorPlaceholder": "urugero ",
+      "gpa": "GPA / Icyiciro",
+      "gpaPlaceholder": "urugero ",
+      "duration": "Igihe cyo kwiga",
+      "periodFormat": "cyangwa Imiterere y'Ubuntu (urugero: 2018 - 2022)",
+      "periodPlaceholder": "urugero ",
+      "currentlyStudying": "Ubu wiga hano",
+      "description": "Ibikorwa / Icyubahiro",
+      "descriptionPlaceholder": "Sobanura ibikorwa byamasomo, amashyirahamwe, cyangwa icyubahiro cyakiriwe ...",
+      "addEducation": "Ongeraho Uburezi"
+    },
+    "cert": {
+      "name": "Izina ry'icyemezo",
+      "namePlaceholder": "urugero ",
+      "issuer": "Gutanga Ishirahamwe",
+      "issuerPlaceholder": "urugero ",
+      "issueDate": "Itariki yo gutanga",
+      "expiryDate": "Byemewe Kugeza",
+      "noExpiry": "Iyi mpamyabumenyi ntabwo irangira",
+      "yearPlaceholder": "cyangwa Umwaka (urugero 2023)",
+      "credentialUrl": "URL yemewe",
+      "credentialUrlPlaceholder": "https: // ...",
+      "skills": "Ubuhanga Bifitanye isano",
+      "addCertification": "Ongeraho Icyemezo",
+      "image": "Ishusho / Ikirangantego",
+      "removeImage": "Kuraho Ishusho",
+      "uploadImage": "Kanda kugirango ushireho ishusho"
+    },
+    "common": {
+      "months": {
+        "1": "Mutarama",
+        "2": "Gashyantare",
+        "3": "Werurwe",
+        "4": "Mata",
+        "5": "Gicurasi",
+        "6": "Kamena",
+        "7": "Nyakanga",
+        "8": "Kanama",
+        "9": "Nzeri",
+        "10": "Ukwakira",
+        "11": "Ugushyingo",
+        "12": "Kigarama"
+      },
+      "month": "Ukwezi",
+      "year": "Umwaka",
+      "invalidDate": "Ukwezi kurangira",
+      "words": "amagambo"
+    }
+  },
+  "settings": {
+    "title": "Igenamiterere",
+    "subtitle": "Gucunga umwirondoro wawe wa portfolio hamwe nibyo ukunda",
+    "tabs": {
+      "profile": "Umwirondoro wanjye",
+      "security": "Umutekano",
+      "personalization": "Kwishyira ukizana"
+    },
+    "profile": {
+      "infoTitle": "Amakuru Yibanze",
+      "photo": "Ifoto Yumwirondoro",
+      "uploadPhoto": "Hindura Ifoto",
+      "fullName": "Izina ryuzuye",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Aderesi ya imeri",
+      "emailPlaceholder": "john@urugero.com",
+      "emailHelp": "Imeri ikoreshwa mukwinjira kandi ntabwo igaragara kumugaragaro.",
+      "portfolioUrl": "URL ya Portfolio",
+      "saveProfile": "Bika Umwirondoro",
+      "save": "Bika Umwirondoro",
+      "accountCreated": "Konti Yakozwe",
+      "lastLogin": "Ifashayinjira rya nyuma",
+      "oauthNotice": "Uyu mwirondoro uhujwe na konte yawe {{utanga}}. Guhindura umwirondoro bigomba gukorwa binyuze mubitanga serivisi."
+    },
+    "security": {
+      "changePassword": "Hindura ijambo ryibanga",
+      "currentPassword": "Ijambobanga ryubu",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Ijambobanga Rishya",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Emeza ijambo ryibanga rishya",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Nibura inyuguti 8",
+        "uppercase": "Inyuguti imwe nini (A-Z)",
+        "number": "Umubare umwe (0-9)",
+        "symbol": "Ikimenyetso kimwe (! @ # $% ^ & *)"
+      },
+      "passwordTitle": "Ijambobanga",
+      "updatePassword": "Kuvugurura ijambo ryibanga",
+      "additionalSecurity": "Umutekano w'inyongera",
+      "twoFactor": "Kwemeza Ibintu bibiri (2FA)",
+      "twoFactorDesc": "Kurinda konte yawe ukoresheje kode yinyongera ya OTP.",
+      "activeSessions": "Amasomo akomeye",
+      "activeSessionsDesc": "Buri gihe wemere gukurikirana ibikoresho byinjiye.",
+      "publicVisibility": "Kugaragara kwa rubanda",
+      "hideFromSearch": "Hisha Portfolio muri moteri ishakisha",
+      "hideFromSearchDesc": "Irinde Google kwerekana urutonde rwa page rusange.",
+      "disable2fa": {
+        "title": "Hagarika 2FA",
+        "description": "Uzi neza ko ushaka kuzimya ibintu bibiri byemewe?",
+        "confirmPasswordLabel": "Injira ijambo ryibanga kugirango wemeze",
+        "currentPasswordPlaceholder": "Ijambobanga ryubu",
+        "cancelButton": "Kureka",
+        "confirmButton": "Hagarika 2FA",
+        "incorrectPassword": "Ijambobanga ritari ryo."
+      },
+      "setup2fa": {
+        "step1Title": "1. Sikana Kode ya QR",
+        "step1Desc": "Fungura porogaramu yawe yemewe hanyuma usuzume code ya QR ikurikira:",
+        "unableToScan": "Ntushobora gusikana? Koresha urufunguzo",
+        "step2Title": "2. Kugenzura Kode",
+        "step2Desc": "Injira kode 6 yimibare yakozwe na porogaramu yawe:",
+        "cancelButton": "Kureka",
+        "enableButton": "Gushoboza 2FA",
+        "invalidLength": "Nyamuneka andika kode 6.",
+        "invalidCode": "Kode yo kugenzura itemewe. Nyamuneka gerageza."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kugenzura Ururimi",
+      "appLanguage": "Ururimi",
+      "layoutTitle": "Imiterere & Imyandikire",
+      "layoutStyle": "Imiterere",
+      "layoutModern": "Imiterere igezweho (Default)",
+      "layoutClassic": "Imiterere ya kera",
+      "layoutMinimalist": "Imiterere ya Minimalist",
+      "fontSize": "Ingano yimyandikire",
+      "fontSmall": "Ntoya",
+      "fontNormal": "Bisanzwe (Hagati)",
+      "fontLarge": "Kinini",
+      "searchLanguage": "Shakisha ururimi ...",
+      "languageNotFound": "Ururimi ntiruboneka",
+      "layoutElegant": "Uburyo bwiza"
+    },
+    "saveChanges": "Bika Impinduka",
+    "cancel": "Kureka",
+    "appSettings": "Igenamiterere rya porogaramu",
+    "logoutConfirmTitle": "Emeza kwinjira",
+    "logoutConfirmDesc": "Uzi neza ko ushaka kuva muri sisitemu?",
+    "logoutConfirmYes": "Nibyo, Logout",
+    "generalError": "Habayeho ikosa. ",
+    "success": "Intsinzi",
+    "preferencesSaved": "Ibyifuzo bya porogaramu byabitswe neza.",
+    "header": "Igenamiterere rya porogaramu",
+    "logout": {
+      "title": "Kwemeza kwinjira",
+      "message": "Uzi neza ko ushaka kuva muri sisitemu?",
+      "confirm": "Nibyo, Logout"
+    },
+    "about": {
+      "title": "Ibyerekeye Gusaba",
+      "subtitle": "Ihuriro ryubaka Portfolio",
+      "version": "Inyandiko",
+      "description": "DevFolio nuburyo bugezweho bwubaka portfolio yagenewe abitezimbere, abashushanya, hamwe nabashinzwe umwuga. ",
+      "license": "Uruhushya & Uburenganzira",
+      "copyright": "© 2026 DevFolio Inc. Uburenganzira bwose burasubitswe.",
+      "developer": "Iterambere",
+      "developedBy": "Byakozwe na Team ya DevFolio"
+    },
+    "deleteAccount": {
+      "title": "Siba Konti burundu",
+      "menuItem": "Siba Konti",
+      "successTitle": "Intsinzi",
+      "successMessage": "Imeri yemeza gusiba konte yoherejwe.",
+      "errorTitle": "Kunanirwa",
+      "errorMessage": "Kunanirwa kohereza imeri yemeza.",
+      "confirmationMessage": "Uzi neza ko ushaka gusiba konte yawe burundu?",
+      "warningMessage1": "Uzakira imeri kugirango wemeze gusiba konti.",
+      "warningMessage2": "Niba byemejwe, amakuru yose (portfolio, imishinga, imibare) azasibwa burundu kandi ntashobora kugarurwa.",
+      "cancel": "Yahagaritswe",
+      "confirm": "Kwemeza"
+    },
+    "toasts": {
+      "toastError": "Ikosa",
+      "toastSuccess": "Intsinzi",
+      "toastSetup2FAFailed": "Kunanirwa gushiraho 2FA. Nyamuneka gerageza.",
+      "toast2FAEnabled": "Kwemeza ibintu bibiri byashobotse.",
+      "toast2FADisabled": "Kwemeza ibintu bibiri byahagaritswe.",
+      "toastSessionEnabled": "Igenzura rifatika ryakorewe.",
+      "toastSessionDisabled": "Igenzura rifatika ryahagaritswe.",
+      "toastSetupKeyCopied": "Gushiraho urufunguzo rwimuwe kuri clip clip."
+    },
+    "privacy": {
+      "title": "Politiki Yibanga",
+      "updateDate": "Ibiherutse kuvugururwa: 15 Nyakanga 2026",
+      "intro": "Iyi Politiki Yibanga isobanura uburyo DevFolio ikusanya, ikoresha, kandi ikarinda amakuru yawe bwite mugihe ukoresha serivisi zacu.",
+      "section1Title": "1. Amakuru dukusanya",
+      "section1Content": "Turakusanya amakuru utanga mugihe cyo gukora konti, kubaka portfolio, no kuvugana ninkunga yacu. ",
+      "section2Title": "2. Gukoresha Amakuru",
+      "section2Content": "Amakuru yawe akoreshwa mugukora, kubungabunga, no gutanga ibiranga serivisi zacu, kimwe no kuvugana nawe kubyerekeye konte yawe cyangwa serivisi.",
+      "section3Title": "3. Umutekano wamakuru",
+      "section3Content": "Dushyira mubikorwa ingamba zumutekano zifatika kugirango turinde amakuru yawe kutabifitiye uburenganzira, kumenyekanisha, cyangwa kurimbuka."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ikimenyetso cyemeza nticyabonetse.",
+    "defaultError": "Kunanirwa gusiba konti. Ikimenyetso gishobora kuba cyararangiye.",
+    "loadingTitle": "Gusiba Konti ...",
+    "loadingMessage": "Nyamuneka tegereza, turimo gutunganya icyifuzo cyawe.",
+    "successTitle": "Konti Yasibwe neza",
+    "successMessage": "Amakuru yawe yose yasibwe burundu. Uzoherezwa ...",
+    "errorTitle": "Kunanirwa gusiba konti",
+    "backToHome": "Garuka Murugo"
+  },
+  "forgotPassword": {
+    "minutes": "umunota",
+    "seconds": "kabiri",
+    "success": "Intsinzi",
+    "otpSentToEmail": "Kode ya OTP yoherejwe kuri imeri yawe.",
+    "failed": "Kunanirwa",
+    "emailNotFound": "Imeri ntabwo yabonetse.",
+    "emailThirdParty": "Iyi imeri yanditswe binyuze mugice cya gatatu.",
+    "genericError": "Hano hari ikosa. Nyamuneka gerageza.",
+    "otpVerified": "Kode ya OTP yagenzuwe neza.",
+    "otpExpired": "Kode ya OTP yararangiye. Nyamuneka saba kode nshya.",
+    "otpInvalid": "Kode ya OTP itemewe.",
+    "otpResent": "Kode nshya ya OTP yoherejwe kuri imeri yawe.",
+    "otpResendFailed": "Kunanirwa kohereza kode ya OTP. Nyamuneka gerageza.",
+    "passwordResetSuccess": "Ijambobanga gusubiramo neza. Nyamuneka andika ijambo ryibanga rishya.",
+    "passwordResetFailed": "Kunanirwa gusubiramo ijambo ryibanga.",
+    "backToLogin": "Garuka Kwinjira",
+    "back": "Garuka",
+    "title": "Wibagiwe ijambo ryibanga",
+    "description": "Injiza aderesi imeri yanditse kuri konte yawe. Tuzohereza kode ya OTP kugirango dusubize ijambo ryibanga.",
+    "emailLabel": "Aderesi imeri",
+    "sending": "Ohereza ...",
+    "sendOtp": "Kohereza OTP Kode",
+    "verifyOtpTitle": "Kugenzura Kode ya OTP",
+    "verifyOtpDesc": "Injira kode 6 yoherejwe kuri imeri yawe kugirango wemeze umwirondoro wawe.",
+    "verifying": "Kugenzura ...",
+    "verifyOtp": "Kugenzura OTP",
+    "resending": "Ohereza ...",
+    "resendOtp": "Ohereza Kode ya OTP",
+    "resendCodeIn": "Ohereza kode y'imbere",
+    "newPasswordTitle": "Kora ijambo ryibanga rishya",
+    "newPasswordDesc": "Kora ijambo ryibanga rishya, rikomeye kugirango urinde konti yawe.",
+    "newPasswordLabel": "Ijambobanga Rishya",
+    "min8Chars": "Nibura inyuguti 8",
+    "oneUpperCase": "Inyuguti nkuru 1 (A-Z)",
+    "oneNumber": "Umubare 1 (0-9)",
+    "oneSymbol": "Ikimenyetso 1 (! @ # $% ^ & *)",
+    "confirmPasswordLabel": "Emeza ijambo ryibanga",
+    "passwordsDoNotMatch": "Ijambobanga ntirihuye.",
+    "resettingPassword": "Kugarura ijambo ryibanga ...",
+    "resetPassword": "Ongera usubize ijambo ryibanga"
+  },
+  "verifyEmail": {
+    "resendError": "Kunanirwa kohereza imeri yo kugenzura. Nyamuneka gerageza.",
+    "checkingStatus": "Kugenzura imiterere yo kugenzura ...",
+    "title": "Reba imeri yawe",
+    "description": "Twohereje imeri yo kugenzura kuri aderesi imeri yawe. Nyamuneka fungura imeri hanyuma ukande buto <1> \"Emeza Konti\" </1> kugirango ukoreshe konti yawe.",
+    "stepsTitle": "Intambwe",
+    "step1": "Fungura imeri yawe imeri (Gmail, Yahoo, nibindi)",
+    "step2": "Shakisha imeri ivuye muri DevFolio ifite ingingo \"Gukora Konti\"",
+    "step3": "Kanda buto \"Kwemeza Konti\" muri imeri",
+    "step4": "Uzoherezwa kurupapuro rwinjira kugirango winjire",
+    "resendSuccess": "Imeri yo kugenzura yarakaye!",
+    "resending": "Ohereza ...",
+    "resendButton": "Ohereza imeri yo kugenzura",
+    "backToLogin": "Garuka kurupapuro rwinjira",
+    "footerNote": "Ntabwo wakiriye imeri? Reba ububiko bwa <1> Spam </1> cyangwa <2> Ububiko </2> muri imeri yawe. Ihuza ryo kugenzura rifite agaciro kuri <3> amasaha 24 </3>."
+  }
+}

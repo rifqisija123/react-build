@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ngā āhuatanga",
+    "templates": "Nga tauira",
+    "pricing": "Te utu",
+    "login": "Takiuru",
+    "getStarted": "Tīmatahia",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ko te tino kaihanga kōpaki mo nga kaihanga",
+    "title1": "Hanga to ngaio",
+    "title2": "kōpaki i roto",
+    "titleHighlight": "hēkona.",
+    "subtitle": "Ko nga mea katoa e hiahia ana koe ki te whakaatu i o pukenga, kaupapa, me to wheako. ",
+    "startBuilding": "Tīmata Hanga Inaianei",
+    "viewTemplates": "Tirohia nga tauira",
+    "fastDeployment": "Te Tukunga Tere",
+    "liveStatus": "username.dev kei te ora!",
+    "featuresTitle": "Nga waahanga kaha",
+    "featuresSubtitle": "Ka whakaratohia e matou nga taputapu katoa e hiahia ana koe ki te tu atu i te mano me te tuku i to mahi moemoea.",
+    "feature1Title": "Toia & Whakataka Kaihanga",
+    "feature1Desc": "Maamaa te whakarite i o waahanga, kaupapa, me o pukenga me to maatau ētita ataata.",
+    "feature2Title": "Kaupapa Ritenga",
+    "feature2Desc": "Whiriwhiria mai i nga tauira tauira i hangaia e te hunga ngaio, hanga ranei i to ake ahua ahurei.",
+    "feature3Title": "Nga tātaritanga wa-tūturu",
+    "feature3Desc": "Aroturuki i o manuhiri, tirohia ko wai nga kaupapa e aro nui ana, me etahi atu."
+  },
+  "auth": {
+    "welcomeBack": "Nau mai hoki mai",
+    "loginToContinue": "Takiuru ki tō pūkete ki te haere tonu",
+    "createAccount": "Waihanga Pūkete",
+    "joinCommunity": "Hono atu ki nga mano o etahi atu kaihanga",
+    "fullName": "Ingoa Katoa",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Wāhitau Īmēra",
+    "emailPlaceholder": "koe@example.com",
+    "password": "Kupuhipa",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Kia mahara ki ahau",
+    "forgotPassword": "Kua wareware te kupuhipa?",
+    "signIn": "Waitohu Mai",
+    "signingIn": "Waitohu Mai...",
+    "signUp": "Waitohu",
+    "signingUp": "Waitohu ake...",
+    "noAccount": "Karekau he kaute?",
+    "hasAccount": "He pūkete kē?",
+    "passwordRules": {
+      "title": "Me whakauru te kupuhipa:",
+      "length": "I te iti rawa 8 pūāhua",
+      "uppercase": "Kotahi te pūmatua (A-Z)",
+      "number": "Kotahi te nama (0-9)",
+      "symbol": "Kotahi te tohu (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Kaihanga Kōpaki",
+      "templates": "Tātauira & Kaupapa",
+      "settings": "Tautuhinga",
+      "collapse": "Tiango Paetaha",
+      "overview": "Tirohanga",
+      "profileSettings": "Tautuhinga Kōtaha",
+      "customDomain": "Rohe Ritenga",
+      "feedback": "Urupare"
+    },
+    "header": {
+      "viewLive": "Tirohia Ora",
+      "welcome": "Nau mai,",
+      "logout": "Takiputa",
+      "builder": "Kaihanga",
+      "livePortfolio": "Kōpaki Ora",
+      "live": "Ora"
+    },
+    "logoutModal": {
+      "title": "Takiputa",
+      "message": "Kei te tino hiahia koe ki te takiputa atu i to putea? ",
+      "cancel": "Whakakore",
+      "confirm": "Ae, Takiputa"
+    },
+    "slugModal": {
+      "title": "Kōwhirihia to URL Portfolio",
+      "message": "Ko tenei URL te hono ahurei ki to putea. ",
+      "slugPlaceholder": "tou ingoa",
+      "availability": "Wāteatanga:",
+      "available": "Kei te waatea",
+      "unavailable": "Kāore i te wātea",
+      "checking": "Takitaki ana...",
+      "mustFormat": "Ka taea anake te pupuri i nga reta, tau, me nga tohu (-)",
+      "cancel": "Whakakore",
+      "save": "Tiaki URL",
+      "usernameUrl": "URL Ingoa Kaiwhakamahi",
+      "helpText": "Nga reta iti, nga nama, me nga tohu. ",
+      "validation": {
+        "empty": "Kaore e taea te noho putua.",
+        "min3": "3 pūāhua iti rawa.",
+        "max30": "Mōrahi 30 pūāhua.",
+        "format": "Ko nga reta iti anake, nga tau, me nga tohu (-). "
+      }
+    },
+    "loadingPortfolio": "Uta ana i nga raraunga kōpaki...",
+    "overview": {
+      "greetings": {
+        "morning": "Ataata pai",
+        "afternoon": "Kia pai te ahiahi",
+        "evening": "Kia pai te ahiahi",
+        "night": "Po pai"
+      },
+      "welcome": {
+        "hi": "Kia ora,",
+        "creator": "Kaihanga",
+        "desc1": "Nau mai ki te papatohu DevFolio. Kua tirohia to kōpaki e",
+        "desc2": "tangata. Mahi tonu!",
+        "editPortfolio": "Whakatika Kōpaki"
+      },
+      "stats": {
+        "totalVisitors": "Katoa nga Manuhiri",
+        "projectViews": "Tirohanga (Kaupapa)",
+        "activeSessions": "Wātū Hohe",
+        "totalLabel": "Tapeke"
+      },
+      "setup": {
+        "title": "Te Kaunuku Tatūnga",
+        "completed": "Kua oti to putea! 🎉",
+        "inProgress": "Nga hikoi ki te kōpaki tino pai.",
+        "profile": {
+          "title": "Whakaotia te Kōtaha",
+          "desc": "Tāpiri ingoa, koiora me te whakaahua kōtaha."
+        },
+        "section": {
+          "title": "Tāpiri Wāhanga",
+          "desc": "Whakahohe kia 1 te waahanga kei roto i te kōpaki."
+        },
+        "project": {
+          "title": "Tāpiri Kaupapa",
+          "desc": "Whakauruhia kia 1 o au kaupapa pai rawa atu."
+        },
+        "publish": {
+          "title": "Whakaputa Pukapaki",
+          "desc": "Whakatakotoria he URL ritenga kia taea ai e te marea te uru atu."
+        }
+      },
+      "topProjects": {
+        "title": "Ko nga kaupapa tino rongonui",
+        "desc": "Ko te mahi o to mahi i te tirohanga a nga manuhiri.",
+        "viewAll": "Tirohia Katoa",
+        "empty": "Karekau he raraunga tirohanga mo to kaupapa."
+      }
+    },
+    "themes": {
+      "title": "Tātauira & Kaupapa",
+      "subtitle": "Whakaritea te ahua me te ahua o to putea whanui.",
+      "reset": "Tautuhi Taunoa",
+      "save": "Tiaki Huringa",
+      "saving": "Tiaki ana...",
+      "chooseTemplate": "Kōwhiria he Tātauira",
+      "primaryColor": "Tae Tuatahi",
+      "typography": "Kuputuhi",
+      "appearance": "Te ahua",
+      "corners": "Kokonga & Taitapa",
+      "successTitle": "Angitu",
+      "successMessage": "I pai te whakahou i nga manakohanga kaupapa",
+      "errorTitle": "Hapa",
+      "errorMessage": "I rahua te tiaki i nga manakohanga kaupapa",
+      "templates": {
+        "minimalist": {
+          "name": "He iti",
+          "desc": "He hoahoa maamaa me te ngawari e arotahi ana ki nga ihirangi."
+        },
+        "developerDark": {
+          "name": "Kaiwhakawhanake pouri",
+          "desc": "Ko te kaupapa pouri he tino pai mo te whakaatu i nga waehere me nga kohinga hangarau."
+        },
+        "creative": {
+          "name": "Waihanga",
+          "desc": "Ko te whakatakotoranga hihiri me te karakara mo nga kaihoahoa me nga mahi auaha."
+        },
+        "executive": {
+          "name": "Kaiwhakahaere",
+          "desc": "Ngaio me te whakatakotoranga okawa mo nga tohunga ngaio pakihi."
+        },
+        "bentoGrid": {
+          "name": "Mātiti Bento",
+          "desc": "Ko te whakatakotoranga matiti momo Apple hou e whakaatu pai ana i nga pukenga rereke."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Ko nga taitapa maia me nga tae tino rereke mo te ahua huatau me te kore pouri."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Nga paanga karaihe hukapapa ki runga i nga rōnaki karakara mo te UI hou kikorangi."
+        },
+        "linkInBio": {
+          "name": "Hononga kei Bio",
+          "desc": "Tahora poutū kiato kua arotauhia mo nga mata pūkoro me te paapori pāpori."
+        }
+      },
+      "appearances": {
+        "light": "Maama",
+        "dark": "pouri",
+        "system": "Pūnaha"
+      },
+      "cornersOptions": {
+        "sharp": "Koi",
+        "rounded": "Whakaawhiwhi",
+        "pill": "Pire"
+      }
+    },
+    "feedback": {
+      "title": "Tuku Urupare",
+      "subtitle": "Awhina mai ki a matou kia pai ake ma te tuku whakaaro, whakahee, me te tuku korero i nga pepeha mo tenei tono.",
+      "categoryLabel": "Kāwai Urupare",
+      "messageLabel": "Nga Taipitopito Karere",
+      "messagePlaceholder": "Korerohia mai ki ahau mo nga urupare e hiahia ana koe ki te whakaputa...",
+      "imageLabel": "Āpitihanga Atahanga (Kōwhiringa)",
+      "imagePlaceholder": "Paatohia ki te tuku ake i te ahua, i te whakaahua whakaahua ranei",
+      "submitting": "Te tuku...",
+      "submitBtn": "Tuku Urupare",
+      "categories": {
+        "suggestion": "Huatau & Whakaaro",
+        "bug": "Pūrongo Bug / Hapa",
+        "criticism": "Whakakino",
+        "other": "Ētahi atu"
+      },
+      "imageErrorTitle": "Hapa",
+      "imageErrorMessage": "Ka paopaohia etahi konae na te mea kaore i te tautokohia nga whakatakotoranga whakaahua (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Angitu",
+      "successMessage": "Mauruuru koe mo to urupare! Kua tukuna he ripoata.",
+      "submitErrorTitle": "I rahua",
+      "submitErrorMessage": "I puta he hapa i te tuku urupare. Me ngana ano."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Mō ahau",
+      "skills": "Pukenga",
+      "projects": "Kaupapa",
+      "workExperience": "Wheako Mahi",
+      "orgExperience": "Te wheako whakahaere",
+      "education": "Mātauranga",
+      "certifications": "Whakangungu me nga Tiwhikete",
+      "contact": "Whakapā Mai"
+    },
+    "editor": {
+      "profileInfo": "Kōtaha Kōtaha",
+      "saving": "Tiaki ana...",
+      "profilePhoto": "Whakaahua Whakaahua",
+      "clickToUpload": "Pāwhiri ki te tukuake (JPG, PNG)",
+      "fullName": "Ingoa Katoa",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Koiora",
+      "bioPlaceholder": "Fullstack Kaiwhakawhanake me te kaingākau ki te hanga taupānga tukutuku hou...",
+      "location": "Tauwāhi",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Ira tangata",
+      "selectGender": "Tīpakohia te Ira",
+      "male": "Tane",
+      "female": "Wahine",
+      "custom": "Ritenga",
+      "customPlaceholder": "Patohia to ira tangata ritenga...",
+      "uploadCv": "Tukuna CV",
+      "cvFormat": "(DOC PDF ranei)",
+      "preview": "Arokite",
+      "remove": "Tango",
+      "clickToUploadCv": "Pāwhiri ki te tukuake PDF, DOC ranei",
+      "sections": "Nga waahanga",
+      "removeSelected": "Tango kua tohua",
+      "confirmRemove": "Whakaū Tango",
+      "addSection": "Tāpiri Wāhanga",
+      "addAllSections": "Tāpirihia nga waahanga katoa",
+      "noSections": "Kaore ano he waahanga",
+      "clickToAdd": "Pāwhiritia \"+ Tāpiri Wāhanga\" ki te tīmata",
+      "selectAll": "Tīpakohia Katoa",
+      "selected": "Kua tohua",
+      "dragToReorder": "Tōia ki te whakaraupapa anō i ngā wāhanga",
+      "livePreview": "Arokite Ora",
+      "addSectionsToBuild": "Tāpirihia ngā wāhanga hei hanga i tō kōpaki",
+      "now": "Inaianei",
+      "current": "o nāianei",
+      "noExpiry": "Karekau he paunga",
+      "see": "Tirohia",
+      "position": "Turanga",
+      "degree": "Tohu",
+      "certification": "Tiwhikete",
+      "sectionsForm": {
+        "about": {
+          "label": "Whakaahuatanga o koe",
+          "placeholder": "Korerohia mai mo koe, to ahuatanga, o hiahia me o pukenga..."
+        },
+        "skills": {
+          "addPlaceholder": "Patohia te pukenga ka pehi i te Enter..."
+        },
+        "projects": {
+          "title": "Ingoa Kaupapa",
+          "titlePlaceholder": "Ingoa kaupapa...",
+          "url": "URL Kaupapa",
+          "description": "Whakaahuatanga",
+          "descriptionPlaceholder": "He korero poto mo te kaupapa...",
+          "uploadThumbnail": "Whakaahua Kaupapa",
+          "addProject": "Tāpiri Kaupapa",
+          "projectNum": "Kaupapa #",
+          "currentProject": "He kaupapa tenei e mahi ana ahau"
+        },
+        "work": {
+          "company": "Kamupene/Apokapü",
+          "companyPlaceholder": "Ingoa kamupene...",
+          "position": "Turanga/Taitara",
+          "positionPlaceholder": "To turanga...",
+          "employmentType": "Momo mahi",
+          "location": "Tauwāhi",
+          "locationPlaceholder": "Taone, Whenua...",
+          "startDate": "Tīmata",
+          "endDate": "Kua oti",
+          "currentWork": "Kei te mahi tonu ahau i tenei wa",
+          "description": "Whakaahuatanga",
+          "descriptionPlaceholder": "Whakaahuatanga mahi me nga kawenga...",
+          "skills": "Pukenga",
+          "addExperience": "Tāpirihia he wheako mahi",
+          "experienceNum": "Wheako #",
+          "dateError": "Ko te ra mutunga kaore e taea i mua ake i te ra tiimata"
+        },
+        "org": {
+          "organization": "Ingoa Whakahaere",
+          "orgPlaceholder": "Te Whare Wananga o BEM...",
+          "role": "Tūnga/Tuhinga",
+          "rolePlaceholder": "Tumuaki Tiwihana...",
+          "addOrg": "Tāpirihia he wheako whakahaere",
+          "orgNum": "Whakahaere #"
+        },
+        "edu": {
+          "institution": "Nga Whare Matauranga",
+          "institutionPlaceholder": "Ingoa o te puni kura ranei...",
+          "degree": "Taitara",
+          "degreePlaceholder": "S1, kura tuarua, etc...",
+          "major": "Te Tari/Matauranga Akoranga",
+          "majorPlaceholder": "Hangarau Hangarau...",
+          "gpa": "GPA (kōwhiringa)",
+          "currentStudy": "Kei te ako tonu ahau i konei",
+          "descriptionPlaceholder": "Nga mahi me nga whakatutukitanga i te wa e ako ana...",
+          "addEdu": "Tāpiri Mātauranga",
+          "eduNum": "Mātauranga #"
+        },
+        "cert": {
+          "name": "Ingoa o te Tiwhikete / Whakangungu",
+          "namePlaceholder": "Ingoa Tiwhikete...",
+          "issuer": "Kaiwhakaputa",
+          "issuerPlaceholder": "He whare whakaputa...",
+          "issueDate": "Tīmata (Rā Whakaputa)",
+          "issueDatePlaceholder": "Tīpakohia te rā tānga...",
+          "expiryDate": "Kua Oti (Wā Whaimana)",
+          "expiryDatePlaceholder": "Tīpakohia te rā paunga...",
+          "noExpiry": "Karekau he ra paunga o tenei tiwhikete",
+          "url": "URL Whaimana",
+          "uploadThumbnail": "Tiwhikete / Whakaahua Whakangungu",
+          "uploadThumbnailLimit": "Tukuake te whakaahua tiwhikete (JPG/PNG/WEBP, 2MB teitei)",
+          "addCert": "Tāpiri Tiwhikete",
+          "certNum": "Tiwhikete #"
+        },
+        "contact": {
+          "contactNum": "Whakapā #",
+          "platform": "Paerewa",
+          "displayText": "Whakaatu Kuputuhi",
+          "displayTextPlaceholder": "hei tauira, you@email.com or @username",
+          "url": "Hononga (URL)",
+          "urlPlaceholderWhatsapp": "hei tauira, 62812... (kaore he arahi 0)",
+          "urlPlaceholderEmail": "hei tauira, you@email.com",
+          "urlPlaceholderWebsite": "hei tauira, https://...",
+          "urlPlaceholderDefault": "hei tauira, ingoa kaiwhakamahi",
+          "addContact": "Tāpiri Hoapā"
+        },
+        "common": {
+          "months": {
+            "1": "Hanuere",
+            "2": "Pepuere",
+            "3": "Maehe",
+            "4": "Aperira",
+            "5": "Mei",
+            "6": "Hune",
+            "7": "Hōngongoi",
+            "8": "Akuhata",
+            "9": "Hepetema",
+            "10": "Oketopa",
+            "11": "Noema",
+            "12": "Hakihea"
+          },
+          "month": "Marama",
+          "year": "Tau",
+          "invalidDate": "Muhu Whakamutunga Marama",
+          "words": "kupu"
+        }
+      },
+      "sure": "Pono",
+      "deletePhotoTitle": "Mukua te Whakaahua Whakaahua?",
+      "deletePhotoMessage": "Me muku tenei whakaahua kōtaha?",
+      "cancel": "Whakakore",
+      "delete": "Mukua"
+    },
+    "cropper": {
+      "chooseBackground": "Kōwhiri Papamuri",
+      "cropPhoto": "Porohia to Whakaahua",
+      "useOriginal": "Whakamahia te taketake",
+      "backgroundPresets": "Tatūkē Papamuri",
+      "none": "Karekau",
+      "uploadBackground": "Tukuake Papamuri",
+      "cancel": "Whakakore",
+      "savePhoto": "Tiaki Whakaahua",
+      "zoom": "Topa",
+      "rotationTilt": "Te Hurihuri me te Hunga",
+      "resetRotation": "Tautuhi ki te 0°",
+      "center": "Pokapū",
+      "rotateLeft": "Hurihia -90°",
+      "rotateRight": "Huri +90°",
+      "removeBackground": "Tango Papamuri",
+      "processing": "Kei te tukatuka i to ahua, tatari koa..."
+    },
+    "cvPreview": {
+      "title": "Arokite CV",
+      "downloadCv": "Tikiake CV",
+      "download": "Tikiake",
+      "wordCannotPreview": "Ko nga tuhinga Word (.doc/.docx) kaore e taea te arokite maori i roto i te tirotiro. ",
+      "downloadFile": "Tangohia te Kōnae CV",
+      "back": "Whakamuri",
+      "mobileMessage": "Tangohia koa te konae CV hei arokite.",
+      "preview": "Arokite CV",
+      "wordPreviewTitle": "Arokite Tuhinga Kupu",
+      "wordPreviewMessage": "Ko nga tuhinga Word (.doc/.docx) kaore e taea te arokite maori i roto i te tirotiro. Tena koa tikina te konae hei tiro."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Tuhia he whakamaarama poto mo koe, nga hiahia, me nga whaainga umanga..."
+    },
+    "skills": {
+      "placeholder": "Pato ingoa pukenga...",
+      "add": "Tāpiri",
+      "enterToAdd": "Patohia te Enter hei taapiri",
+      "noSkills": "Karekau ano nga pukenga i tapirihia."
+    },
+    "projects": {
+      "projectName": "Ingoa Kaupapa",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL Kaupapa",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Roanga",
+      "startMonth": "Marama Timata",
+      "startYear": "Tau Timata",
+      "endMonth": "Marama Whakamutunga",
+      "endYear": "Tau Whakamutunga",
+      "currentlyWorking": "Kei te mahi i tenei wa",
+      "description": "Whakaahuatanga",
+      "descriptionPlaceholder": "Whakaahuahia te kaupapa, to mahi, me nga whakatutukitanga...",
+      "technologies": "Hangarau Whakamahia",
+      "addProject": "Tāpiri Kaupapa",
+      "image": "Whakaahua Kaupapa",
+      "removeImage": "Tango Atahanga",
+      "uploadImage": "Pāwhiri ki te tukuake whakaahua"
+    },
+    "work": {
+      "company": "Kamupene/Whakahaere",
+      "companyPlaceholder": "Ingoa kamupene...",
+      "role": "Tūnga/Tuhinga",
+      "rolePlaceholder": "To turanga...",
+      "jobType": "Momo Mahi",
+      "selectJobType": "Tīpakohia te momo",
+      "fullTime": "Wā-katoa",
+      "partTime": "Wahi-waahi",
+      "contract": "kirimana",
+      "internship": "Te whakangungu",
+      "freelance": "Kaituku",
+      "location": "Tauwāhi",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Roanga",
+      "currentlyWorking": "Kei te mahi i konei inaianei",
+      "description": "Whakaahuatanga Mahi",
+      "descriptionPlaceholder": "Whakaahuahia o kawenga matua me o whakatutukitanga...",
+      "skills": "Pukenga Tauwhāiti",
+      "addExperience": "Tāpiri wheako"
+    },
+    "org": {
+      "organization": "Ingoa Whakahaere",
+      "organizationPlaceholder": "Ingoa whakahaere...",
+      "role": "Tūnga/Tuhinga",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Roanga",
+      "periodFormat": "Hōputu Free ranei (hei tauira 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Kei te kaha inaianei",
+      "description": "Whakaahuatanga Mahi",
+      "descriptionPlaceholder": "Whakaahuahia o mahi, koha ranei...",
+      "addExperience": "Tāpiri wheako"
+    },
+    "education": {
+      "institution": "Ingoa Whare",
+      "institutionPlaceholder": "Ingoa kura, whare wananga ranei...",
+      "degree": "Tohu / Taumata",
+      "degreePlaceholder": "e.g. ",
+      "major": "Matua/Matauranga Akoranga",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Kōeke",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Te Roa o te Matauranga",
+      "periodFormat": "Hōputu Free ranei (hei tauira 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Kei konei e ako ana inaianei",
+      "description": "Nga Mahi / Honore",
+      "descriptionPlaceholder": "Whakaahuahia nga mahi matauranga, whakahaere, honore ranei i whakawhiwhia...",
+      "addEducation": "Tāpiri Mātauranga"
+    },
+    "cert": {
+      "name": "Ingoa Tiwhikete",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Whakahaere Tuku",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Te Ra Putanga",
+      "expiryDate": "Whai Mana Tae noa",
+      "noExpiry": "Ko tenei tiwhikete kaore e pau",
+      "yearPlaceholder": "Tau ranei (hei tauira 2023)",
+      "credentialUrl": "URL Whaimana",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Nga Pukenga e Pa ana",
+      "addCertification": "Tāpiri Tiwhikete",
+      "image": "Atahanga/Moko",
+      "removeImage": "Tango Atahanga",
+      "uploadImage": "Pāwhiri ki te tukuake whakaahua"
+    },
+    "common": {
+      "months": {
+        "1": "Hanuere",
+        "2": "Pepuere",
+        "3": "Maehe",
+        "4": "Aperira",
+        "5": "Mei",
+        "6": "Hune",
+        "7": "Hōngongoi",
+        "8": "Akuhata",
+        "9": "Hepetema",
+        "10": "Oketopa",
+        "11": "Noema",
+        "12": "Hakihea"
+      },
+      "month": "Marama",
+      "year": "Tau",
+      "invalidDate": "Muhu Whakamutunga Marama",
+      "words": "kupu"
+    }
+  },
+  "settings": {
+    "title": "Tautuhinga",
+    "subtitle": "Whakahaerehia to kōtaha kōpaki me ō manakohanga",
+    "tabs": {
+      "profile": "Taku Kōtaha",
+      "security": "Haumarutanga",
+      "personalization": "Whakawhaiaro"
+    },
+    "profile": {
+      "infoTitle": "Nga korero taketake",
+      "photo": "Whakaahua Whakaahua",
+      "uploadPhoto": "Huri Whakaahua",
+      "fullName": "Ingoa Katoa",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Wāhitau Īmēra",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Ka whakamahia te imeera mo te takiuru, kaore i te whakaatuhia ki te whanui.",
+      "portfolioUrl": "Kōpaki URL",
+      "saveProfile": "Tiaki Kōtaha",
+      "save": "Tiaki Kōtaha",
+      "accountCreated": "Kaute i Waihanga",
+      "lastLogin": "Takiuru Whakamutunga",
+      "oauthNotice": "Kua hono tenei kōtaha ki tō pūkete {{provider}}. Me huri nga korero ma te kaiwhakarato ratonga."
+    },
+    "security": {
+      "changePassword": "Huri Kupuhipa",
+      "currentPassword": "Kupuhipa o nāianei",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Kupuhipa Hou",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Whakaū Kupuhipa Hou",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "I te iti rawa 8 pūāhua",
+        "uppercase": "Kotahi te pūmatua (A-Z)",
+        "number": "Kotahi te nama (0-9)",
+        "symbol": "Kotahi te tohu (!@#$%^&*)"
+      },
+      "passwordTitle": "Kupuhipa",
+      "updatePassword": "Whakahou Kupuhipa",
+      "additionalSecurity": "Haumarutanga taapiri",
+      "twoFactor": "Motuhēhēnga-rua (2FA)",
+      "twoFactorDesc": "Whakaorangia to putea ma te whakamahi i tetahi atu waehere OTP.",
+      "activeSessions": "Wātū Hohe",
+      "activeSessionsDesc": "Whakaaetia i nga wa katoa te aro turuki i nga taputapu kua takiuru.",
+      "publicVisibility": "Te Tirohanga mo te Matanui",
+      "hideFromSearch": "Huna Pukapaki mai i nga Miihini Rapu",
+      "hideFromSearchDesc": "Aukati a Google ki te tohu i to wharangi kopaki mo te iwi.",
+      "disable2fa": {
+        "title": "Monokia te 2FA",
+        "description": "Me whakaweto te motuhēhēnga-rua?",
+        "confirmPasswordLabel": "Whakauruhia to kupuhipa hei whakau",
+        "currentPasswordPlaceholder": "Kupuhipa o naianei",
+        "cancelButton": "Whakakore",
+        "confirmButton": "Monokia te 2FA",
+        "incorrectPassword": "Kupuhipa hē."
+      },
+      "setup2fa": {
+        "step1Title": "1. Matawai Waehere QR",
+        "step1Desc": "Whakatuwherahia to taupānga motuhēhē ka matawai i te waehere QR e whai ake nei:",
+        "unableToScan": "Kaore e taea te matawai? Whakamahia te kī tatūnga",
+        "step2Title": "2. Manatoko Waehere",
+        "step2Desc": "Whakauruhia te waehere mati 6 i hangaia e to taupānga:",
+        "cancelButton": "Whakakore",
+        "enableButton": "Whakahohehia te 2FA",
+        "invalidLength": "Whakauruhia koa he waehere 6-mati.",
+        "invalidCode": "Waehere manatoko muhu. Me ngana ano."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Mana Reo",
+      "appLanguage": "Reo Taupānga",
+      "layoutTitle": "Tahora me te momotuhi",
+      "layoutStyle": "Kāhua Tahora",
+      "layoutModern": "Kāhua Hou (Taunoa)",
+      "layoutClassic": "Kāhua Tauhira",
+      "layoutMinimalist": "Kāhua Minimalist",
+      "fontSize": "Rahi Momotuhi Taupānga",
+      "fontSmall": "Iti",
+      "fontNormal": "Pūnoa (Waenga)",
+      "fontLarge": "Nui",
+      "searchLanguage": "Rapu reo...",
+      "languageNotFound": "Kaore i kitea te reo",
+      "layoutElegant": "Kāhua Huatau"
+    },
+    "saveChanges": "Tiaki Huringa",
+    "cancel": "Whakakore",
+    "appSettings": "Tautuhinga Taupānga",
+    "logoutConfirmTitle": "Whakaū Takiputa",
+    "logoutConfirmDesc": "Kei te tino hiahia koe ki te takiputa atu i te punaha?",
+    "logoutConfirmYes": "Ae, Takiputa",
+    "generalError": "I puta he hapa. ",
+    "success": "Angitu",
+    "preferencesSaved": "Kua tiakina pai nga manakohanga taupānga.",
+    "header": "Tautuhinga Taupānga",
+    "logout": {
+      "title": "Te Whakaaetanga Motuputa",
+      "message": "Kei te tino hiahia koe ki te takiputa atu i te punaha?",
+      "confirm": "Ae, Takiputa"
+    },
+    "about": {
+      "title": "Mo te tono",
+      "subtitle": "Papahanga Kaihanga Poari",
+      "version": "Putanga",
+      "description": "Ko DevFolio he papahanga hanga kōpaki hou i hangaia mo nga kaiwhakawhanake, kaihoahoa, me nga kaihanga ngaio. ",
+      "license": "Raihana me te mana pupuri",
+      "copyright": "© 2026 DevFolio Inc. Pūmau te mana.",
+      "developer": "Kaihanga",
+      "developedBy": "I whakawhanakehia e Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Muku Pūkete",
+      "menuItem": "Muku Pūkete",
+      "successTitle": "Angitu",
+      "successMessage": "Kua tukuna he īmēra whakaū mo te mukunga pūkete.",
+      "errorTitle": "I rahua",
+      "errorMessage": "I rahua te tuku īmēra whakaū.",
+      "confirmationMessage": "Me muku tonu to putea?",
+      "warningMessage1": "Ka whiwhi koe i tetahi imeera hei whakaū i te mukunga o te kaute.",
+      "warningMessage2": "Mena ka whakamanahia, ka mukua nga raraunga katoa (pukapuka, kaupapa, tatauranga) ka kore e taea te whakaora.",
+      "cancel": "Whakakore",
+      "confirm": "Whakapumautanga"
+    },
+    "toasts": {
+      "toastError": "Hapa",
+      "toastSuccess": "Angitu",
+      "toastSetup2FAFailed": "I rahua te tatūnga 2FA. Me ngana ano.",
+      "toast2FAEnabled": "Kua whakahohea te motuhēhēnga-rua.",
+      "toast2FADisabled": "Kua monoa te motuhēhēnga-rua.",
+      "toastSessionEnabled": "Kua whakahohea te aroturuki wātū hohe.",
+      "toastSessionDisabled": "Kua monokia te aro turuki i te watū.",
+      "toastSetupKeyCopied": "Kua tāruahia te kī tatū ki te papatopenga."
+    },
+    "privacy": {
+      "title": "Kaupapahere Tūmataiti",
+      "updateDate": "Whakahōu Mutunga: Hōngongoi 15, 2026",
+      "intro": "Ko tenei Kaupapahere Whaiaro e whakamarama ana me pehea te kohikohi, te whakamahi, me te tiaki a DevFolio i o korero whaiaro ina whakamahi ana i a maatau ratonga.",
+      "section1Title": "1. Nga korero ka kohia e matou",
+      "section1Content": "Ka kohia e matou nga korero ka tukuna tika e koe i te wa e hanga ana i tetahi kaute, te hanga putea, me te whakapiri atu ki a maatau tautoko. ",
+      "section2Title": "2. Te Whakamahinga Korero",
+      "section2Content": "Ka whakamahia o korero ki te whakahaere, ki te pupuri, ki te whakarato i nga ahuatanga o a maatau ratonga, me te korero ki a koe mo to putea, ratonga ranei.",
+      "section3Title": "3. Haumarutanga Raraunga",
+      "section3Content": "Ka whakatinanahia e matou nga tikanga haumaru tika hei tiaki i o korero mai i te urunga kore mana, te whakaatu, te whakangaro ranei."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Kaore i kitea te tohu tohu.",
+    "defaultError": "I rahua te muku pūkete. Kua pau pea te tohu.",
+    "loadingTitle": "Muku Pūkete...",
+    "loadingMessage": "Tatari koa, kei te tukatuka matou i to tono.",
+    "successTitle": "Kua Momo te Muku Pūkete",
+    "successMessage": "Kua mukua katoa o raraunga. Ka tukuna ano koe...",
+    "errorTitle": "I rahua te Mukua Pūkete",
+    "backToHome": "Hoki ki te Kainga"
+  },
+  "forgotPassword": {
+    "minutes": "meneti",
+    "seconds": "hēkona",
+    "success": "Angitu",
+    "otpSentToEmail": "Kua tukuna he waehere OTP ki to imeera.",
+    "failed": "I rahua",
+    "emailNotFound": "Kaore i kitea te imeera.",
+    "emailThirdParty": "Kua rehitatia tenei imeera ma tetahi tuatoru.",
+    "genericError": "He he. Me ngana ano.",
+    "otpVerified": "Kua manatoko pai te waehere OTP.",
+    "otpExpired": "Kua pau te waehere OTP. Tonoa he waehere hou.",
+    "otpInvalid": "Waehere OTP muhu.",
+    "otpResent": "Kua tukuna he waehere OTP hou ki to imeera.",
+    "otpResendFailed": "I rahua te tuku ano i te waehere OTP. Me ngana ano.",
+    "passwordResetSuccess": "I angitu te tautuhi i te kupuhipa. Tena koa takiuru me to kupuhipa hou.",
+    "passwordResetFailed": "I rahua te tautuhi i te kupuhipa.",
+    "backToLogin": "Hoki ki te Takiuru",
+    "back": "Hoki",
+    "title": "Wareware Kupuhipa",
+    "description": "Enter the email address registered on your account. Ka tukuna he waehere OTP hei tautuhi i te kupuhipa.",
+    "emailLabel": "Wāhitau Īmēra",
+    "sending": "Te tuku...",
+    "sendOtp": "Tuku Waehere OTP",
+    "verifyOtpTitle": "Manatoko Waehere OTP",
+    "verifyOtpDesc": "Enter the 6 digit code that has been sent to your email to confirm your identity.",
+    "verifying": "Manatoko ana...",
+    "verifyOtp": "Manatoko OTP",
+    "resending": "Tukua ano...",
+    "resendOtp": "Tukua ano te Waehere OTP",
+    "resendCodeIn": "Tukua ano te waehere ki",
+    "newPasswordTitle": "Waihanga Kupuhipa Hou",
+    "newPasswordDesc": "Create a new, strong password to secure your account.",
+    "newPasswordLabel": "Kupuhipa Hou",
+    "min8Chars": "Kia 8 ngā pūāhua",
+    "oneUpperCase": "1 pūmatua (A-Z)",
+    "oneNumber": "1 tau (0-9)",
+    "oneSymbol": "1 tohu (!@#$%^&*)",
+    "confirmPasswordLabel": "Whakaū Kupuhipa",
+    "passwordsDoNotMatch": "Karekau nga kupuhipa e taurite.",
+    "resettingPassword": "Te Tautuhi Kupuhipa...",
+    "resetPassword": "Tautuhi Kupuhipa"
+  },
+  "verifyEmail": {
+    "resendError": "I rahua te tuku ano i te imeera whakaū. Me ngana ano.",
+    "checkingStatus": "Kei te taki i te mana manatoko...",
+    "title": "Tirohia To Īmēra",
+    "description": "Kua tukuna e matou he īmēra whakaū ki tō wāhitau īmēra. Whakatuwheratia te imeera ka paato i te paatene <1>\"Whakaū Kaute\"</1> hei whakahohe i to putea.",
+    "stepsTitle": "Hipanga",
+    "step1": "Whakatuwherahia to tono imeera (Gmail, Yahoo, aha atu)",
+    "step2": "Rapua he imeera mai i DevFolio me te kaupapa \"Whakahohenga Pūkete\"",
+    "step3": "Patohia te paatene \"Whakapumau Pūkete\" i te imeera",
+    "step4": "Ka tukuna koe ki te wharangi takiuru ki te whakauru",
+    "resendSuccess": "Kua tukuna ano te imeera manatoko!",
+    "resending": "Tukua ano...",
+    "resendButton": "Tukua Anō te Īmēra Manatoko",
+    "backToLogin": "Hoki ki te Whārangi Takiuru",
+    "footerNote": "Kaore i whiwhi i te imeera? Tirohia te <1>Spam</1> ranei <2>Junk</2> kōpaki i roto i to īmēra. He mana te hono manatoko mo <3>24 haora</3>."
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Izici",
+    "templates": "Izifanekiso",
+    "pricing": "Intengo",
+    "login": "Ngena ngemvume",
+    "getStarted": "Qalisa",
+    "title": "I-DevFolio"
+  },
+  "landing": {
+    "badge": "Umakhi wokugcina wephothifoliyo wabathuthukisi",
+    "title1": "Yakha uchwepheshe wakho",
+    "title2": "iphothifoliyo ku",
+    "titleHighlight": "imizuzwana.",
+    "subtitle": "Konke okudingayo ukuze ubonise amakhono akho, amaphrojekthi, nolwazi. ",
+    "startBuilding": "Qala Ukwakha Manje",
+    "viewTemplates": "Buka Izifanekiso",
+    "fastDeployment": "Ukuthunyelwa Okusheshayo",
+    "liveStatus": "Igama lomsebenzisi.dev libukhoma!",
+    "featuresTitle": "Izici Ezinamandla",
+    "featuresSubtitle": "Sikunikeza wonke amathuluzi owadingayo ukuze ugqame esixukwini futhi uthole umsebenzi wamaphupho akho.",
+    "feature1Title": "Hudula & Udedele Umakhi",
+    "feature1Desc": "Hlela kalula izigaba zakho, amaphrojekthi, namakhono ngomhleli wethu obonakalayo obonakalayo.",
+    "feature2Title": "Izindikimba ngokwezifiso",
+    "feature2Desc": "Khetha kuzifanekiso eziklanywe ngobungcweti noma dala ukubukeka kwakho okuhlukile.",
+    "feature3Title": "Izibalo zesikhathi sangempela",
+    "feature3Desc": "Landelela izivakashi zakho, ubone ukuthi imaphi amaphrojekthi athola ukunakwa kakhulu, nokuningi."
+  },
+  "auth": {
+    "welcomeBack": "Siyakwamukela",
+    "loginToContinue": "Ngena ngemvume ku-akhawunti yakho ukuze uqhubeke",
+    "createAccount": "Yenza i-akhawunti",
+    "joinCommunity": "Joyina izinkulungwane zabanye onjiniyela",
+    "fullName": "Igama eligcwele",
+    "fullNamePlaceholder": "isib. ",
+    "email": "Ikheli le-imeyili",
+    "emailPlaceholder": "you@example.com",
+    "password": "Iphasiwedi",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Ngikhumbule",
+    "forgotPassword": "Ukhohlwe iphasiwedi?",
+    "signIn": "Ngena ngemvume",
+    "signingIn": "Ingena Ngemvume...",
+    "signUp": "Bhalisela",
+    "signingUp": "Iyabhalisa...",
+    "noAccount": "Awunayo i-akhawunti?",
+    "hasAccount": "Usuvele unayo i-akhawunti?",
+    "passwordRules": {
+      "title": "Iphasiwedi kumele iqukathe:",
+      "length": "Okungenani izinhlamvu ezingu-8",
+      "uppercase": "Uhlamvu olulodwa olukhulu (A-Z)",
+      "number": "Inombolo eyodwa (0-9)",
+      "symbol": "Uphawu olulodwa (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Umakhi wephothifoliyo",
+      "templates": "Izifanekiso nezindikimba",
+      "settings": "Izilungiselelo",
+      "collapse": "Goqa Ibha eseceleni",
+      "overview": "Uhlolojikelele",
+      "profileSettings": "Izilungiselelo Zephrofayela",
+      "customDomain": "Isizinda Ngokwezifiso",
+      "feedback": "Impendulo"
+    },
+    "header": {
+      "viewLive": "Buka Bukhoma",
+      "welcome": "Siyakwamukela,",
+      "logout": "Phuma",
+      "builder": "Umakhi",
+      "livePortfolio": "Live Portfolio",
+      "live": "Phila"
+    },
+    "logoutModal": {
+      "title": "Phuma",
+      "message": "Uqinisekile ukuthi ufuna ukuphuma ku-akhawunti yakho? ",
+      "cancel": "Khansela",
+      "confirm": "Yebo, Phuma"
+    },
+    "slugModal": {
+      "title": "Khetha i-URL yephothifoliyo yakho",
+      "message": "Le URL izoba isixhumanisi esiyingqayizivele sephothifoliyo yakho. ",
+      "slugPlaceholder": "igama lakho",
+      "availability": "Ukutholakala:",
+      "available": "Iyatholakala",
+      "unavailable": "Ayitholakali",
+      "checking": "Iyahlola...",
+      "mustFormat": "Ingaqukatha kuphela izinhlamvu, izinombolo, namadeshi (-)",
+      "cancel": "Khansela",
+      "save": "Londoloza i-URL",
+      "usernameUrl": "I-URL yegama lomsebenzisi",
+      "helpText": "Izinhlamvu ezincane, izinombolo, namadeshi. ",
+      "validation": {
+        "empty": "I-slug ayikwazi ukungabi nalutho.",
+        "min3": "Ubuncane bezinhlamvu ezi-3.",
+        "max30": "Ubuningi bezinhlamvu ezingu-30.",
+        "format": "Izinhlamvu ezincane kuphela, izinombolo, namadeshi (-). "
+      }
+    },
+    "loadingPortfolio": "Ilayisha idatha yephothifoliyo...",
+    "overview": {
+      "greetings": {
+        "morning": "Sawubona",
+        "afternoon": "Ntambama Enhle",
+        "evening": "Ntambama Enhle",
+        "night": "Ubusuku obuhle"
+      },
+      "welcome": {
+        "hi": "Sawubona,",
+        "creator": "Mdali",
+        "desc1": "Siyakwamukela kudeshibhodi ye-DevFolio. Iphothifoliyo yakho ibukwe ngu",
+        "desc2": "umuntu. Qhubeka nokusebenza!",
+        "editPortfolio": "Hlela Iphothifoliyo"
+      },
+      "stats": {
+        "totalVisitors": "Ingqikithi Yezivakashi",
+        "projectViews": "Ibukiwe (Iphrojekthi)",
+        "activeSessions": "Iseshini Esebenzayo",
+        "totalLabel": "Ingqikithi"
+      },
+      "setup": {
+        "title": "Setha Inqubekelaphambili",
+        "completed": "Iphothifoliyo yakho iphelele! 🎉",
+        "inProgress": "Izinyathelo eziya kuphothifoliyo ephelele.",
+        "profile": {
+          "title": "Gcwalisa Iphrofayili",
+          "desc": "Engeza igama, umlando kanye nesithombe sephrofayela."
+        },
+        "section": {
+          "title": "Engeza Izigaba",
+          "desc": "Sebenzisa okungenani isigaba esi-1 kuphothifoliyo."
+        },
+        "project": {
+          "title": "Engeza iphrojekthi",
+          "desc": "Faka okungenani iphrojekthi yakho engu-1 ehamba phambili."
+        },
+        "publish": {
+          "title": "Shicilela Iphothifoliyo",
+          "desc": "Setha i-URL yangokwezifiso ukuze ikwazi ukufinyelelwa ngumphakathi."
+        }
+      },
+      "topProjects": {
+        "title": "Amaphrojekthi Aziwa Kakhulu",
+        "desc": "Ukusebenza komsebenzi wakho emehlweni ezivakashi.",
+        "viewAll": "Bona Konke",
+        "empty": "Ayikho idatha yokubuka yephrojekthi yakho okwamanje."
+      }
+    },
+    "themes": {
+      "title": "Izifanekiso nezindikimba",
+      "subtitle": "Yenza ngokwezifiso ukubukeka nomuzwa wephothifoliyo yakho yomphakathi.",
+      "reset": "Setha kabusha Okuzenzakalelayo",
+      "save": "Londoloza Izinguquko",
+      "saving": "Iyalondoloza...",
+      "chooseTemplate": "Khetha Isifanekiso",
+      "primaryColor": "Umbala Oyinhloko",
+      "typography": "Ukuthayipha",
+      "appearance": "Ukubukeka",
+      "corners": "Amakhona & Nemingcele",
+      "successTitle": "Impumelelo",
+      "successMessage": "Okuncanyelwayo kwetimu kubuyekezwe ngempumelelo",
+      "errorTitle": "Iphutha",
+      "errorMessage": "Yehlulekile ukulondoloza okuncamelayo kwetimu",
+      "templates": {
+        "minimalist": {
+          "name": "I-Minimalist",
+          "desc": "Idizayini ehlanzekile nelula egxile kokuqukethwe."
+        },
+        "developerDark": {
+          "name": "Umnyama Kanjiniyela",
+          "desc": "Itimu emnyama ilungele ukubonisa amakhodi nezitaki zobuchwepheshe."
+        },
+        "creative": {
+          "name": "Ubuciko",
+          "desc": "Isakhiwo esinempilo nesinemibala sabaklami nabadali."
+        },
+        "executive": {
+          "name": "Isikhulu",
+          "desc": "Isakhiwo esisebenzayo nesisemthethweni sochwepheshe bebhizinisi."
+        },
+        "bentoGrid": {
+          "name": "I-Bento Grid",
+          "desc": "Isakhiwo segridi yesitayela se-Apple samanje esigqamisa amakhono ahlukene kahle."
+        },
+        "neoBrutalism": {
+          "name": "I-Neo-Brutalism",
+          "desc": "Imingcele egqamile nemibala egqamile ephezulu yokubukeka okusemfashinini, okungahambisani nokucasuka."
+        },
+        "glassmorphism": {
+          "name": "I-Glassmorphism",
+          "desc": "Imiphumela yengilazi eqhwaqhwa phezu kwamagradient anemibala ye-UI yesimanjemanje."
+        },
+        "linkInBio": {
+          "name": "Xhumanisa ku-Bio",
+          "desc": "Isakhiwo esiqondile esihlangene sithuthukiselwe izikrini zamaselula kanye nenkundla yezokuxhumana."
+        }
+      },
+      "appearances": {
+        "light": "Ukukhanya",
+        "dark": "Kumnyama",
+        "system": "Uhlelo"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Okuyindilinga",
+        "pill": "Iphilisi"
+      }
+    },
+    "feedback": {
+      "title": "Thumela Impendulo",
+      "subtitle": "Sisize siyenze ibe ngcono ngokunikeza iziphakamiso, ukugxeka, noma ukubika iziphazamisi kulolu hlelo lokusebenza.",
+      "categoryLabel": "Isigaba Sempendulo",
+      "messageLabel": "Imininingwane Yomlayezo",
+      "messagePlaceholder": "Ngitshele kabanzi mayelana nempendulo ofuna ukuyidlulisela...",
+      "imageLabel": "Okunamathiselwe Kwesithombe (Ongakukhetha)",
+      "imagePlaceholder": "Chofoza ukuze ulayishe isithombe noma isithombe-skrini",
+      "submitting": "Iyathumela...",
+      "submitBtn": "Thumela Impendulo",
+      "categories": {
+        "suggestion": "Iziphakamiso & Imibono",
+        "bug": "Umbiko Wesiphazamisi / Wephutha",
+        "criticism": "Ukugxeka",
+        "other": "Abanye"
+      },
+      "imageErrorTitle": "Iphutha",
+      "imageErrorMessage": "Amanye amafayela enqatshiwe ngenxa yokuthi awasekelwa amafomethi ezithombe (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Impumelelo",
+      "successMessage": "Siyabonga ngempendulo yakho! Umbiko uthunyelwe.",
+      "submitErrorTitle": "Yehlulekile",
+      "submitErrorMessage": "Kwenzeke iphutha ngenkathi kuthunyelwa impendulo. Sicela uzame futhi."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Mayelana nami",
+      "skills": "Amakhono",
+      "projects": "Amaphrojekthi",
+      "workExperience": "Isipiliyoni somsebenzi",
+      "orgExperience": "Okuhlangenwe nakho Kwenhlangano",
+      "education": "Imfundo",
+      "certifications": "Ukuqeqeshwa & Izitifiketi",
+      "contact": "Thinta mina"
+    },
+    "editor": {
+      "profileInfo": "Ulwazi Lwephrofayela",
+      "saving": "Iyalondoloza...",
+      "profilePhoto": "Isithombe Sephrofayela",
+      "clickToUpload": "Chofoza ukuze ulayishe (JPG, PNG)",
+      "fullName": "Igama eligcwele",
+      "fullNamePlaceholder": "isib. ",
+      "bio": "I-Bio",
+      "bioPlaceholder": "I-Fullstack Developer enothando lokwakha izinhlelo zokusebenza zewebhu zesimanje...",
+      "location": "Indawo",
+      "locationPlaceholder": "isib. ",
+      "gender": "Ubulili",
+      "selectGender": "Khetha Ubulili",
+      "male": "Owesilisa",
+      "female": "Owesifazane",
+      "custom": "Ngokwezifiso",
+      "customPlaceholder": "Thayipha ubulili bakho bangokwezifiso...",
+      "uploadCv": "Layisha i-CV",
+      "cvFormat": "(i-DOC noma i-PDF)",
+      "preview": "Buka kuqala",
+      "remove": "Susa",
+      "clickToUploadCv": "Chofoza ukuze ulayishe i-PDF noma i-DOC",
+      "sections": "Izigaba",
+      "removeSelected": "Susa Okukhethiwe",
+      "confirmRemove": "Qinisekisa Susa",
+      "addSection": "Engeza Isigaba",
+      "addAllSections": "Engeza Zonke Izigaba",
+      "noSections": "Azikho izigaba okwamanje",
+      "clickToAdd": "Chofoza okuthi \"+ Engeza Isigaba\" ukuze uqalise",
+      "selectAll": "Khetha Konke",
+      "selected": "Ikhethiwe",
+      "dragToReorder": "Hudula ukuze uhlele kabusha izigaba",
+      "livePreview": "Bukhoma Buka kuqala",
+      "addSectionsToBuild": "Engeza izigaba ukuze wakhe iphothifoliyo yakho",
+      "now": "Manje",
+      "current": "Okwamanje",
+      "noExpiry": "Akukho Ukuphelelwa yisikhathi",
+      "see": "Bheka",
+      "position": "Isikhundla",
+      "degree": "Iziqu",
+      "certification": "Isitifiketi",
+      "sectionsForm": {
+        "about": {
+          "label": "Incazelo ngawe",
+          "placeholder": "Sitshele ngawe, imvelaphi yakho, izinto ozithandayo namakhono..."
+        },
+        "skills": {
+          "addPlaceholder": "Thayipha ikhono bese ucindezela u-Enter..."
+        },
+        "projects": {
+          "title": "Igama lephrojekthi",
+          "titlePlaceholder": "Igama lephrojekthi...",
+          "url": "I-URL yephrojekthi",
+          "description": "Incazelo",
+          "descriptionPlaceholder": "Incazelo emfushane yephrojekthi...",
+          "uploadThumbnail": "Isithombe sephrojekthi",
+          "addProject": "Engeza iphrojekthi",
+          "projectNum": "Iphrojekthi #",
+          "currentProject": "Lena iphrojekthi engisebenza kuyo"
+        },
+        "work": {
+          "company": "Inkampani/I-Ejensi",
+          "companyPlaceholder": "Igama Lenkampani...",
+          "position": "Isikhundla/Isihloko",
+          "positionPlaceholder": "Isikhundla sakho...",
+          "employmentType": "Uhlobo lomsebenzi",
+          "location": "Indawo",
+          "locationPlaceholder": "Idolobha, Izwe...",
+          "startDate": "Qala",
+          "endDate": "Kuqediwe",
+          "currentWork": "Ngisasebenza okwamanje",
+          "description": "Incazelo",
+          "descriptionPlaceholder": "Incazelo yomsebenzi kanye nezibopho...",
+          "skills": "Ikhono",
+          "addExperience": "Engeza Umuzwa Womsebenzi",
+          "experienceNum": "Isipiliyoni #",
+          "dateError": "Idethi yokuphela ayikwazi ukuba ngaphambi kwedethi yokuqala"
+        },
+        "org": {
+          "organization": "Igama lenhlangano",
+          "orgPlaceholder": "I-BEM University...",
+          "role": "Indima/Isikhundla",
+          "rolePlaceholder": "Inhloko yoPhiko...",
+          "addOrg": "Engeza Okuhlangenwe nakho Kwenhlangano",
+          "orgNum": "Inhlangano #"
+        },
+        "edu": {
+          "institution": "Izikhungo Zezemfundo",
+          "institutionPlaceholder": "Igama lekhampasi noma lesikole...",
+          "degree": "Isihloko",
+          "degreePlaceholder": "I-S1, isikole samabanga aphezulu, njll...",
+          "major": "Umnyango/Umkhakha Wokufunda",
+          "majorPlaceholder": "Ubunjiniyela be-Informatics...",
+          "gpa": "I-GPA (uyazikhethela)",
+          "currentStudy": "Ngisafunda lapha",
+          "descriptionPlaceholder": "Imisebenzi kanye nezimpumelelo ngesikhathi sokufunda...",
+          "addEdu": "Engeza Imfundo",
+          "eduNum": "Imfundo #"
+        },
+        "cert": {
+          "name": "Igama Lesitifiketi / Ukuqeqeshwa",
+          "namePlaceholder": "Igama lesitifiketi...",
+          "issuer": "Umshicileli",
+          "issuerPlaceholder": "Isikhungo sokushicilela...",
+          "issueDate": "Qala (Usuku Lokushicilela)",
+          "issueDatePlaceholder": "Khetha idethi yokushicilela...",
+          "expiryDate": "Kuqediwe (Isikhathi Esivumelekile)",
+          "expiryDatePlaceholder": "Khetha idethi yokuphelelwa yisikhathi...",
+          "noExpiry": "Lesi sitifiketi asinalo usuku lokuphelelwa yisikhathi",
+          "url": "I-URL yokuqinisekisa",
+          "uploadThumbnail": "Isithombe sesitifiketi / sokuqeqesha",
+          "uploadThumbnailLimit": "Layisha isithombe sesitifiketi (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Engeza Isitifiketi",
+          "certNum": "Isitifiketi #"
+        },
+        "contact": {
+          "contactNum": "Xhumana naye #",
+          "platform": "Inkundla",
+          "displayText": "Bonisa Umbhalo",
+          "displayTextPlaceholder": "isb., you@email.com noma @igama lomsebenzisi",
+          "url": "Isixhumanisi (URL)",
+          "urlPlaceholderWhatsapp": "isb., 62812... (ngaphandle kokuhola u-0)",
+          "urlPlaceholderEmail": "isb., you@email.com",
+          "urlPlaceholderWebsite": "isb., https://...",
+          "urlPlaceholderDefault": "isb., igama lomsebenzisi",
+          "addContact": "Engeza Othintana Naye"
+        },
+        "common": {
+          "months": {
+            "1": "January",
+            "2": "February",
+            "3": "Mashi",
+            "4": "April",
+            "5": "Meyi",
+            "6": "Juni",
+            "7": "July",
+            "8": "Agasti",
+            "9": "September",
+            "10": "Okthoba",
+            "11": "Novemba",
+            "12": "Disemba"
+          },
+          "month": "Inyanga",
+          "year": "Unyaka",
+          "invalidDate": "Inyanga Yokuphela Engavumelekile",
+          "words": "amazwi"
+        }
+      },
+      "sure": "Impela",
+      "deletePhotoTitle": "Susa Isithombe Sephrofayela?",
+      "deletePhotoMessage": "Uqinisekile ukuthi ufuna ukususa lesi sithombe sephrofayela?",
+      "cancel": "Khansela",
+      "delete": "Susa"
+    },
+    "cropper": {
+      "chooseBackground": "Khetha Ingemuva",
+      "cropPhoto": "Nqampuna Isithombe Sakho",
+      "useOriginal": "Sebenzisa okwangempela",
+      "backgroundPresets": "Ukusetha Ngaphambili Kwangemuva",
+      "none": "Lutho",
+      "uploadBackground": "Layisha Ingemuva",
+      "cancel": "Khansela",
+      "savePhoto": "Londoloza Isithombe",
+      "zoom": "Sondeza",
+      "rotationTilt": "Ukuzungezisa nokutshekisa",
+      "resetRotation": "Setha kabusha ku-0°",
+      "center": "Isikhungo",
+      "rotateLeft": "Zungezisa -90°",
+      "rotateRight": "Zungezisa +90°",
+      "removeBackground": "Susa Ingemuva",
+      "processing": "Icubungula isithombe sakho, sicela ulinde..."
+    },
+    "cvPreview": {
+      "title": "Ukubuka kuqala kwe-CV",
+      "downloadCv": "Landa i-CV",
+      "download": "Landa",
+      "wordCannotPreview": "Amadokhumenti e-Word (.doc/.docx) awakwazi ukubukwa kuqala ngokomdabu esipheqululini. ",
+      "downloadFile": "Landa ifayela le-CV",
+      "back": "Emuva",
+      "mobileMessage": "Sicela ulande ifayela le-CV ukuze ulibuke kuqala.",
+      "preview": "Buka kuqala i-CV",
+      "wordPreviewTitle": "Ukuhlola Kuqala Kwedokhumenti Yegama",
+      "wordPreviewMessage": "Amadokhumenti e-Word (.doc/.docx) awakwazi ukubukwa kuqala ngokomdabu esipheqululini. Sicela ulande ifayela ukuze ulibuke."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Bhala incazelo emfushane ngawe, izintshisekelo zakho, kanye nemigomo yemisebenzi..."
+    },
+    "skills": {
+      "placeholder": "Thayipha igama lekhono...",
+      "add": "Engeza",
+      "enterToAdd": "Cindezela u-Enter ukuze wengeze",
+      "noSkills": "Awekho amakhono angeziwe okwamanje."
+    },
+    "projects": {
+      "projectName": "Igama lephrojekthi",
+      "projectNamePlaceholder": "isib. ",
+      "projectUrl": "I-URL yephrojekthi",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Ubude besikhathi",
+      "startMonth": "Inyanga yokuqala",
+      "startYear": "Unyaka Wokuqala",
+      "endMonth": "Inyanga Yokuphela",
+      "endYear": "Unyaka Wokuphela",
+      "currentlyWorking": "Okwamanje usebenza kulokhu",
+      "description": "Incazelo",
+      "descriptionPlaceholder": "Chaza iphrojekthi, indima yakho, kanye nezimpumelelo...",
+      "technologies": "Ubuchwepheshe obusetshenzisiwe",
+      "addProject": "Engeza iphrojekthi",
+      "image": "Isithombe sephrojekthi",
+      "removeImage": "Susa Isithombe",
+      "uploadImage": "Chofoza ukuze ulayishe isithombe"
+    },
+    "work": {
+      "company": "Inkampani/Isikhungo",
+      "companyPlaceholder": "Igama Lenkampani...",
+      "role": "Indima/Isikhundla",
+      "rolePlaceholder": "Isikhundla sakho...",
+      "jobType": "Uhlobo lomsebenzi",
+      "selectJobType": "Khetha uhlobo",
+      "fullTime": "Isikhathi esigcwele",
+      "partTime": "Okwesikhashana",
+      "contract": "Inkontileka",
+      "internship": "I-Internship",
+      "freelance": "Ezizimele",
+      "location": "Indawo",
+      "locationPlaceholder": "isib. ",
+      "duration": "Ubude besikhathi",
+      "currentlyWorking": "Okwamanje usebenza lapha",
+      "description": "Incazelo yomsebenzi",
+      "descriptionPlaceholder": "Chaza izibopho zakho ezibalulekile nezimpumelelo...",
+      "skills": "Amakhono Akhethekile",
+      "addExperience": "Engeza Okuhlangenwe nakho"
+    },
+    "org": {
+      "organization": "Igama lenhlangano",
+      "organizationPlaceholder": "Igama lenhlangano...",
+      "role": "Indima/Isikhundla",
+      "rolePlaceholder": "isib. ",
+      "duration": "Ubude besikhathi",
+      "periodFormat": "noma Ifomethi Yamahhala (isb. 2020 - 2022)",
+      "periodPlaceholder": "isib. ",
+      "currentlyActive": "Okwamanje iyasebenza",
+      "description": "Incazelo Yomsebenzi",
+      "descriptionPlaceholder": "Chaza imisebenzi yakho noma iminikelo yakho...",
+      "addExperience": "Engeza Okuhlangenwe nakho"
+    },
+    "education": {
+      "institution": "Igama lesikhungo",
+      "institutionPlaceholder": "Igama lesikole noma lenyuvesi...",
+      "degree": "Idigri/Izinga",
+      "degreePlaceholder": "isib. ",
+      "major": "Okukhulu/Umkhakha Wokufunda",
+      "majorPlaceholder": "isib. ",
+      "gpa": "I-GPA / Ibanga",
+      "gpaPlaceholder": "isib. ",
+      "duration": "Ubude bemfundo",
+      "periodFormat": "noma Ifomethi Yamahhala (isb. 2018 - 2022)",
+      "periodPlaceholder": "isib. ",
+      "currentlyStudying": "Njengamanje ngifunda lapha",
+      "description": "Imisebenzi / Ukuhlonishwa",
+      "descriptionPlaceholder": "Chaza imisebenzi yezemfundo, izinhlangano, noma ukuhlonishwa okutholiwe...",
+      "addEducation": "Engeza Imfundo"
+    },
+    "cert": {
+      "name": "Igama lesitifiketi",
+      "namePlaceholder": "isib. ",
+      "issuer": "Ikhipha Inhlangano",
+      "issuerPlaceholder": "isib. ",
+      "issueDate": "Usuku okukhululwa ngalo",
+      "expiryDate": "Ingasebenze kuze kube",
+      "noExpiry": "Lokhu kuqinisekisa akuphelelwa yisikhathi",
+      "yearPlaceholder": "noma Unyaka (isb. 2023)",
+      "credentialUrl": "I-URL yokuqinisekisa",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Amakhono Ahlobene",
+      "addCertification": "Engeza Isitifiketi",
+      "image": "Isithombe/Ilogo",
+      "removeImage": "Susa Isithombe",
+      "uploadImage": "Chofoza ukuze ulayishe isithombe"
+    },
+    "common": {
+      "months": {
+        "1": "January",
+        "2": "February",
+        "3": "Mashi",
+        "4": "April",
+        "5": "Meyi",
+        "6": "Juni",
+        "7": "July",
+        "8": "Agasti",
+        "9": "September",
+        "10": "Okthoba",
+        "11": "Novemba",
+        "12": "Disemba"
+      },
+      "month": "Inyanga",
+      "year": "Unyaka",
+      "invalidDate": "Inyanga Yokuphela Engavumelekile",
+      "words": "amazwi"
+    }
+  },
+  "settings": {
+    "title": "Izilungiselelo",
+    "subtitle": "Phatha iphrofayela yakho yephothifoliyo kanye nezintandokazi zakho",
+    "tabs": {
+      "profile": "Iphrofayela Yami",
+      "security": "Ezokuphepha",
+      "personalization": "Ukwenza kube ngokwakho"
+    },
+    "profile": {
+      "infoTitle": "Ulwazi Oluyisisekelo",
+      "photo": "Isithombe Sephrofayela",
+      "uploadPhoto": "Shintsha Isithombe",
+      "fullName": "Igama eligcwele",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Ikheli le-imeyili",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "I-imeyili isetshenziselwa ukungena ngemvume futhi ayiboniswa esidlangalaleni.",
+      "portfolioUrl": "I-URL yephothifoliyo",
+      "saveProfile": "Londoloza Iphrofayela",
+      "save": "Londoloza Iphrofayela",
+      "accountCreated": "I-akhawunti Yakhiwe",
+      "lastLogin": "Ukungena Kokugcina",
+      "oauthNotice": "Le phrofayela ixhunywe ku-akhawunti yakho ye-{{provider}}. Izinguquko zephrofayela kufanele zenziwe ngomhlinzeki wesevisi."
+    },
+    "security": {
+      "changePassword": "SHINTSHA iphasiwedi",
+      "currentPassword": "I-password Yamanje",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Iphasiwedi Entsha",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Qinisekisa Iphasiwedi Entsha",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Okungenani izinhlamvu ezingu-8",
+        "uppercase": "Uhlamvu olulodwa olukhulu (A-Z)",
+        "number": "Inombolo eyodwa (0-9)",
+        "symbol": "Uphawu olulodwa (!@#$%^&*)"
+      },
+      "passwordTitle": "Iphasiwedi",
+      "updatePassword": "Buyekeza Iphasiwedi",
+      "additionalSecurity": "Ukuphepha Okungeziwe",
+      "twoFactor": "Ukuqinisekiswa Kwezinto Ezimbili (2FA)",
+      "twoFactorDesc": "Vikela i-akhawunti yakho usebenzisa ikhodi ye-OTP eyengeziwe.",
+      "activeSessions": "Amaseshini Asebenzayo",
+      "activeSessionsDesc": "Hlala uvumela ukugadwa kwamadivayisi angene ngemvume.",
+      "publicVisibility": "Ukubonakala Komphakathi",
+      "hideFromSearch": "Fihla Iphothifoliyo kokuthi Izinjini Zokusesha",
+      "hideFromSearchDesc": "Vimbela i-Google ekukhombeni ikhasi lakho lephothifoliyo yomphakathi.",
+      "disable2fa": {
+        "title": "Khubaza i-2FA",
+        "description": "Uqinisekile ukuthi ufuna ukuvala ukuqinisekiswa kwezinto ezimbili?",
+        "confirmPasswordLabel": "Faka iphasiwedi yakho ukuze uqinisekise",
+        "currentPasswordPlaceholder": "Iphasiwedi yamanje",
+        "cancelButton": "Khansela",
+        "confirmButton": "Khubaza i-2FA",
+        "incorrectPassword": "Iphasiwedi engalungile."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skena Ikhodi ye-QR",
+        "step1Desc": "Vula uhlelo lwakho lokusebenza lokufakazela ubuqiniso futhi uskene ikhodi ye-QR elandelayo:",
+        "unableToScan": "Awukwazi ukuskena? Sebenzisa ukhiye wokusetha",
+        "step2Title": "2. Qinisekisa Ikhodi",
+        "step2Desc": "Faka ikhodi enamadijithi angu-6 ekhiqizwe uhlelo lwakho lokusebenza:",
+        "cancelButton": "Khansela",
+        "enableButton": "Nika amandla i-2FA",
+        "invalidLength": "Sicela ufake ikhodi enamadijithi angu-6.",
+        "invalidCode": "Ikhodi yokuqinisekisa engavumelekile. Sicela uzame futhi."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Izilawuli Zolimi",
+      "appLanguage": "Ulimi Lokusebenza",
+      "layoutTitle": "Isakhiwo & Ukuthayipha",
+      "layoutStyle": "Isitayela Sesakhiwo",
+      "layoutModern": "Isitayela Sesimanje (Okuzenzakalelayo)",
+      "layoutClassic": "Isitayela Sakudala",
+      "layoutMinimalist": "Isitayela Esincane",
+      "fontSize": "Usayizi Wefonti Yohlelo Lokusebenza",
+      "fontSmall": "Encane",
+      "fontNormal": "Okujwayelekile (Okumaphakathi)",
+      "fontLarge": "Okukhulu",
+      "searchLanguage": "Sesha ulimi...",
+      "languageNotFound": "Ulimi alutholakali",
+      "layoutElegant": "Isitayela Esinhle"
+    },
+    "saveChanges": "Londoloza Izinguquko",
+    "cancel": "Khansela",
+    "appSettings": "Izilungiselelo zohlelo lokusebenza",
+    "logoutConfirmTitle": "Qinisekisa Phuma",
+    "logoutConfirmDesc": "Uqinisekile ukuthi ufuna ukuphuma ohlelweni?",
+    "logoutConfirmYes": "Yebo, Phuma",
+    "generalError": "Kwenzeke iphutha. ",
+    "success": "Impumelelo",
+    "preferencesSaved": "Izintandokazi zohlelo lokusebenza zilondolozwe ngempumelelo.",
+    "header": "Izilungiselelo zohlelo lokusebenza",
+    "logout": {
+      "title": "Phuma Ukuqinisekisa",
+      "message": "Uqinisekile ukuthi ufuna ukuphuma ohlelweni?",
+      "confirm": "Yebo, Phuma"
+    },
+    "about": {
+      "title": "Mayelana nesicelo",
+      "subtitle": "I-Portfolio Builder Platform",
+      "version": "Inguqulo",
+      "description": "I-DevFolio iyinkundla yabakhi bephothifoliyo yesimanje eyenzelwe onjiniyela, abaklami, nabadali abangochwepheshe. ",
+      "license": "Ilayisensi & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Wonke amalungelo agodliwe.",
+      "developer": "Unjiniyela",
+      "developedBy": "Kuthuthukiswe Ithimba le-DevFolio"
+    },
+    "deleteAccount": {
+      "title": "Susa Unomphela I-akhawunti",
+      "menuItem": "Susa i-Akhawunti",
+      "successTitle": "Impumelelo",
+      "successMessage": "I-imeyili yokuqinisekisa ukusulwa kwe-akhawunti ithunyelwe.",
+      "errorTitle": "Yehlulekile",
+      "errorMessage": "Yehlulekile ukuthumela i-imeyili yokuqinisekisa.",
+      "confirmationMessage": "Ingabe uqinisekile ukuthi ufuna ukususa i-akhawunti yakho unaphakade?",
+      "warningMessage1": "Uzothola i-imeyili yokuqinisekisa ukususwa kwe-akhawunti.",
+      "warningMessage2": "Uma kuqinisekisiwe, yonke idatha (iphothifoliyo, amaphrojekthi, izibalo) izosuswa unomphela futhi ngeke ikwazi ukuphinda itholwe.",
+      "cancel": "Khansela",
+      "confirm": "Ukuqinisekisa"
+    },
+    "toasts": {
+      "toastError": "Iphutha",
+      "toastSuccess": "Impumelelo",
+      "toastSetup2FAFailed": "Yehlulekile ukusetha i-2FA. Sicela uzame futhi.",
+      "toast2FAEnabled": "Ukufakazela ubuqiniso kwezinto ezimbili kunikwe amandla.",
+      "toast2FADisabled": "Ukufakazela ubuqiniso kwezinto ezimbili kukhutshaziwe.",
+      "toastSessionEnabled": "Ukuqapha kweseshini okusebenzayo kunikwe amandla.",
+      "toastSessionDisabled": "Ukuqapha kweseshini okusebenzayo kukhutshaziwe.",
+      "toastSetupKeyCopied": "Ukhiye wokusetha ukopishwe ebhodini lokunamathisela."
+    },
+    "privacy": {
+      "title": "Inqubomgomo yobumfihlo",
+      "updateDate": "Kugcine ukubuyekezwa: Julayi 15, 2026",
+      "intro": "Le Nqubomgomo Yobumfihlo ichaza ukuthi i-DevFolio iqoqa, isebenzise, ​​futhi ivikele kanjani ulwazi lwakho lomuntu siqu lapho usebenzisa amasevisi ethu.",
+      "section1Title": "1. Ulwazi Esiluqoqayo",
+      "section1Content": "Siqoqa ulwazi olunikeza ngokuqondile lapho udala i-akhawunti, sakha iphothifoliyo, futhi sithinta ukwesekwa kwethu. ",
+      "section2Title": "2. Ukusetshenziswa Kolwazi",
+      "section2Content": "Ulwazi lwakho lusetshenziselwa ukusebenza, ukunakekela, nokuhlinzeka ngezici zezinsizakalo zethu, kanye nokuxhumana nawe mayelana ne-akhawunti noma amasevisi akho.",
+      "section3Title": "3. Ukuphepha Kwedatha",
+      "section3Content": "Sisebenzisa izindlela zokuphepha eziphusile ukuze sivikele ulwazi lwakho ekufinyeleleni okungagunyaziwe, ukudalulwa, noma ukonakaliswa."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ithokheni yokuqinisekisa ayitholakali.",
+    "defaultError": "Yehlulekile ukususa i-akhawunti. Ithokheni kungenzeka iphelelwe yisikhathi.",
+    "loadingTitle": "Isusa i-Akhawunti...",
+    "loadingMessage": "Sicela ulinde, sicubungula isicelo sakho.",
+    "successTitle": "I-akhawunti Isuswe Ngempumelelo",
+    "successMessage": "Yonke idatha yakho isuswe unomphela. Uzoqondiswa kabusha...",
+    "errorTitle": "Yehlulekile Ukususa I-akhawunti",
+    "backToHome": "Buyela Ekhaya"
+  },
+  "forgotPassword": {
+    "minutes": "umzuzu",
+    "seconds": "okwesibili",
+    "success": "Uphumelele",
+    "otpSentToEmail": "Ikhodi ye-OTP ithunyelwe ku-imeyili yakho.",
+    "failed": "Yehlulekile",
+    "emailNotFound": "I-imeyili ayitholakali.",
+    "emailThirdParty": "Le imeyili ibhaliswe ngomuntu wesithathu.",
+    "genericError": "Kunephutha. Sicela uzame futhi.",
+    "otpVerified": "Ikhodi ye-OTP iqinisekiswe ngempumelelo.",
+    "otpExpired": "Ikhodi ye-OTP iphelelwe yisikhathi. Sicela ucele ikhodi entsha.",
+    "otpInvalid": "Ikhodi ye-OTP engavumelekile.",
+    "otpResent": "Ikhodi entsha ye-OTP ithunyelwe ku-imeyili yakho.",
+    "otpResendFailed": "Yehlulekile ukuthumela kabusha ikhodi ye-OTP. Sicela uzame futhi.",
+    "passwordResetSuccess": "Iphasiwedi isethwe kabusha ngempumelelo. Sicela ungene ngemvume ngephasiwedi yakho entsha.",
+    "passwordResetFailed": "Yehlulekile ukusetha kabusha iphasiwedi.",
+    "backToLogin": "Buyela kokuthi Ngena",
+    "back": "Buyela",
+    "title": "Ukhohlwe iphasiwedi",
+    "description": "Faka ikheli le-imeyili elibhaliswe ku-akhawunti yakho. Sizothumela ikhodi ye-OTP ukusetha kabusha iphasiwedi.",
+    "emailLabel": "Ikheli le-imeyili",
+    "sending": "Thumela...",
+    "sendOtp": "Thumela Ikhodi ye-OTP",
+    "verifyOtpTitle": "Qinisekisa Ikhodi ye-OTP",
+    "verifyOtpDesc": "Faka ikhodi enezinhlamvu ezingu-6 ethunyelwe ku-imeyili yakho ukuze uqinisekise ubuwena.",
+    "verifying": "Iyaqinisekisa...",
+    "verifyOtp": "Ukuqinisekiswa kwe-OTP",
+    "resending": "Thumela kabusha...",
+    "resendOtp": "Thumela kabusha Ikhodi ye-OTP",
+    "resendCodeIn": "Thumela kabusha ikhodi yangaphakathi",
+    "newPasswordTitle": "Dala Iphasiwedi Entsha",
+    "newPasswordDesc": "Dala iphasiwedi entsha, eqinile ukuze uvikele i-akhawunti yakho.",
+    "newPasswordLabel": "Iphasiwedi Entsha",
+    "min8Chars": "Ubuncane bezinhlamvu eziyisi-8",
+    "oneUpperCase": "1 ufeleba omkhulu (A-Z)",
+    "oneNumber": "inombolo engu-1 (0-9)",
+    "oneSymbol": "1 uphawu (!@#$%^&*)",
+    "confirmPasswordLabel": "Qinisekisa Iphasiwedi",
+    "passwordsDoNotMatch": "Amagama-mfihlo awafani.",
+    "resettingPassword": "Isetha kabusha iphasiwedi...",
+    "resetPassword": "Setha kabusha Iphasiwedi"
+  },
+  "verifyEmail": {
+    "resendError": "Yehlulekile ukuthumela kabusha i-imeyili yokuqinisekisa. Sicela uzame futhi.",
+    "checkingStatus": "Ihlola isimo sokuqinisekisa...",
+    "title": "Bheka I-imeyili Yakho",
+    "description": "Sithumele i-imeyili yokuqinisekisa ekhelini lakho le-imeyili. Sicela uvule i-imeyili bese uchofoza inkinobho ethi <1>\"Qinisekisa I-akhawunti\"</1> ukuze wenze i-akhawunti yakho isebenze.",
+    "stepsTitle": "Izinyathelo",
+    "step1": "Vula uhlelo lwakho lwe-imeyili (i-Gmail, Yahoo, njll)",
+    "step2": "Bheka i-imeyili evela ku-DevFolio enesihloko esithi \"Account Activation\"",
+    "step3": "Chofoza inkinobho ethi \"Qinisekisa I-akhawunti\" ku-imeyili",
+    "step4": "Uzoqondiswa ekhasini lokungena ukuze ufake",
+    "resendSuccess": "I-imeyili yokuqinisekisa ithunyelwe kabusha!",
+    "resending": "Ithumela kabusha...",
+    "resendButton": "Thumela kabusha I-imeyili Yokuqinisekisa",
+    "backToLogin": "Buyela Ekhasini Lokungena Ngemvume",
+    "footerNote": "Awuzange uthole i-imeyili? Hlola ifolda ethi <1>Ugaxekile</1> noma <2>Okungafuneki</2> ku-imeyili yakho. Isixhumanisi sokuqinisekisa sivumeleke <3>amahora angu-24</3>."
+  }
+}

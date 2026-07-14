@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Vipengele",
+    "templates": "Violezo",
+    "pricing": "Bei",
+    "login": "Ingia",
+    "getStarted": "Anza",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Mjenzi wa mwisho wa kwingineko kwa wasanidi programu",
+    "title1": "Jenga mtaalamu wako",
+    "title2": "kwingineko ndani",
+    "titleHighlight": "sekunde.",
+    "subtitle": "Kila kitu unachohitaji ili kuonyesha ujuzi wako, miradi, na uzoefu. ",
+    "startBuilding": "Anza Kujenga Sasa",
+    "viewTemplates": "Tazama Violezo",
+    "fastDeployment": "Usambazaji wa Haraka",
+    "liveStatus": "username.dev iko hewani!",
+    "featuresTitle": "Vipengele vyenye Nguvu",
+    "featuresSubtitle": "Tunatoa zana zote unazohitaji ili ujitofautishe na umati na upate kazi ya ndoto yako.",
+    "feature1Title": "Buruta & Achia Kijenzi",
+    "feature1Desc": "Panga sehemu, miradi na ujuzi wako kwa urahisi ukitumia kihariri chetu cha kuona.",
+    "feature2Title": "Mandhari Maalum",
+    "feature2Desc": "Chagua kutoka kwa violezo vilivyoundwa kitaalamu au uunde mwonekano wako wa kipekee.",
+    "feature3Title": "Uchanganuzi wa wakati halisi",
+    "feature3Desc": "Fuatilia wageni wako, angalia ni miradi ipi inayovutiwa zaidi, na zaidi."
+  },
+  "auth": {
+    "welcomeBack": "Karibu tena",
+    "loginToContinue": "Ingia kwenye akaunti yako ili kuendelea",
+    "createAccount": "Fungua Akaunti",
+    "joinCommunity": "Jiunge na maelfu ya wasanidi programu wengine",
+    "fullName": "Jina Kamili",
+    "fullNamePlaceholder": "k.m. ",
+    "email": "Anwani ya Barua Pepe",
+    "emailPlaceholder": "wewe@mfano.com",
+    "password": "Nenosiri",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Nikumbuke",
+    "forgotPassword": "Umesahau nenosiri?",
+    "signIn": "Ingia",
+    "signingIn": "Inaingia...",
+    "signUp": "Jisajili",
+    "signingUp": "Unajisajili...",
+    "noAccount": "Je, huna akaunti?",
+    "hasAccount": "Je, tayari una akaunti?",
+    "passwordRules": {
+      "title": "Nenosiri lazima liwe na:",
+      "length": "Angalau herufi 8",
+      "uppercase": "Herufi kubwa moja (A-Z)",
+      "number": "Nambari moja (0-9)",
+      "symbol": "Alama moja (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Violezo na Mandhari",
+      "settings": "Mipangilio",
+      "collapse": "Kunja Upau wa kando",
+      "overview": "Muhtasari",
+      "profileSettings": "Mipangilio ya Wasifu",
+      "customDomain": "Kikoa Maalum",
+      "feedback": "Maoni"
+    },
+    "header": {
+      "viewLive": "Tazama Moja kwa Moja",
+      "welcome": "Karibu,",
+      "logout": "Ondoka",
+      "builder": "Mjenzi",
+      "livePortfolio": "Kuishi Kwingineko",
+      "live": "Ishi"
+    },
+    "logoutModal": {
+      "title": "Ondoka",
+      "message": "Je, una uhakika unataka kuondoka kwenye akaunti yako? ",
+      "cancel": "Ghairi",
+      "confirm": "Ndiyo, Ondoka"
+    },
+    "slugModal": {
+      "title": "Chagua URL Yako ya Kwingineko",
+      "message": "URL hii itakuwa kiungo cha kipekee cha kwingineko yako. ",
+      "slugPlaceholder": "jina lako",
+      "availability": "Upatikanaji:",
+      "available": "Inapatikana",
+      "unavailable": "Haipatikani",
+      "checking": "Inaangalia...",
+      "mustFormat": "Inaweza tu kuwa na herufi, nambari, na deshi (-)",
+      "cancel": "Ghairi",
+      "save": "Hifadhi URL",
+      "usernameUrl": "URL ya jina la mtumiaji",
+      "helpText": "Herufi ndogo, nambari na deshi. ",
+      "validation": {
+        "empty": "Slug haiwezi kuwa tupu.",
+        "min3": "Angalau herufi 3.",
+        "max30": "Upeo wa herufi 30.",
+        "format": "Herufi ndogo, nambari na deshi pekee (-). "
+      }
+    },
+    "loadingPortfolio": "Inapakia data ya kwingineko...",
+    "overview": {
+      "greetings": {
+        "morning": "Habari za Asubuhi",
+        "afternoon": "Mchana Mwema",
+        "evening": "Mchana Mwema",
+        "night": "Usiku Mwema"
+      },
+      "welcome": {
+        "hi": "Habari,",
+        "creator": "Muumba",
+        "desc1": "Karibu kwenye dashibodi ya DevFolio. Kwingineko yako imetazamwa na",
+        "desc2": "mtu. Endelea kufanya kazi!",
+        "editPortfolio": "Hariri Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Jumla ya Wageni",
+        "projectViews": "Imetazamwa (Mradi)",
+        "activeSessions": "Kipindi Amilifu",
+        "totalLabel": "Jumla"
+      },
+      "setup": {
+        "title": "Maendeleo ya Kuanzisha",
+        "completed": "Kwingineko yako imekamilika! 🎉",
+        "inProgress": "Hatua za kwingineko kamili.",
+        "profile": {
+          "title": "Kamilisha Wasifu",
+          "desc": "Ongeza jina, wasifu na picha ya wasifu."
+        },
+        "section": {
+          "title": "Ongeza Sehemu",
+          "desc": "Washa angalau sehemu 1 kwenye jalada."
+        },
+        "project": {
+          "title": "Ongeza Mradi",
+          "desc": "Weka angalau mradi mmoja bora zaidi."
+        },
+        "publish": {
+          "title": "Chapisha Kwingineko",
+          "desc": "Weka URL maalum ili iweze kufikiwa na umma."
+        }
+      },
+      "topProjects": {
+        "title": "Miradi Maarufu zaidi",
+        "desc": "Utendaji wa kazi yako machoni pa wageni.",
+        "viewAll": "Tazama Yote",
+        "empty": "Bado hakuna data ya kutazamwa kwa mradi wako."
+      }
+    },
+    "themes": {
+      "title": "Violezo na Mandhari",
+      "subtitle": "Geuza kukufaa mwonekano na hisia za jalada lako la umma.",
+      "reset": "Weka upya Chaguomsingi",
+      "save": "Hifadhi Mabadiliko",
+      "saving": "Inahifadhi...",
+      "chooseTemplate": "Chagua Kiolezo",
+      "primaryColor": "Rangi ya Msingi",
+      "typography": "Uchapaji",
+      "appearance": "Muonekano",
+      "corners": "Pembe na Mipaka",
+      "successTitle": "Mafanikio",
+      "successMessage": "Mapendeleo ya mandhari yalisasishwa kwa mafanikio",
+      "errorTitle": "Hitilafu",
+      "errorMessage": "Imeshindwa kuhifadhi mapendeleo ya mandhari",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Safi na muundo rahisi unaozingatia maudhui."
+        },
+        "developerDark": {
+          "name": "Giza la Msanidi",
+          "desc": "Mandhari meusi yanafaa kwa ajili ya kuonyesha msimbo na stakabadhi za teknolojia."
+        },
+        "creative": {
+          "name": "Ubunifu",
+          "desc": "Mpangilio mahiri na wa kupendeza kwa wabunifu na wabunifu."
+        },
+        "executive": {
+          "name": "Mtendaji",
+          "desc": "Mpangilio wa kitaaluma na rasmi kwa wataalamu wa biashara."
+        },
+        "bentoGrid": {
+          "name": "Gridi ya Bento",
+          "desc": "Mpangilio wa kisasa wa gridi ya mtindo wa Apple unaoangazia ujuzi tofauti kwa ufanisi."
+        },
+        "neoBrutalism": {
+          "name": "Ukatili Mamboleo",
+          "desc": "Mipaka nzito na rangi za utofautishaji wa juu kwa mwonekano wa kisasa, usio na huruma."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Athari za glasi iliyoganda juu ya gradient za rangi kwa UI maridadi ya kisasa."
+        },
+        "linkInBio": {
+          "name": "Unganisha kwenye Bio",
+          "desc": "Mpangilio thabiti wa wima ulioboreshwa kwa skrini za simu na mitandao ya kijamii."
+        }
+      },
+      "appearances": {
+        "light": "Mwanga",
+        "dark": "Giza",
+        "system": "Mfumo"
+      },
+      "cornersOptions": {
+        "sharp": "Mkali",
+        "rounded": "Mviringo",
+        "pill": "Kidonge"
+      }
+    },
+    "feedback": {
+      "title": "Tuma Maoni",
+      "subtitle": "Tusaidie kuifanya kuwa bora zaidi kwa kutoa mapendekezo, ukosoaji au kuripoti hitilafu kwenye programu hii.",
+      "categoryLabel": "Kitengo cha Maoni",
+      "messageLabel": "Maelezo ya Ujumbe",
+      "messagePlaceholder": "Niambie kwa undani kuhusu maoni unayotaka kuwasilisha...",
+      "imageLabel": "Kiambatisho cha Picha (Si lazima)",
+      "imagePlaceholder": "Bofya ili kupakia picha au picha ya skrini",
+      "submitting": "Inatuma...",
+      "submitBtn": "Tuma Maoni",
+      "categories": {
+        "suggestion": "Mapendekezo & Mawazo",
+        "bug": "Ripoti ya Hitilafu / Hitilafu",
+        "criticism": "Ukosoaji",
+        "other": "Wengine"
+      },
+      "imageErrorTitle": "Hitilafu",
+      "imageErrorMessage": "Baadhi ya faili zimekataliwa kwa sababu hazitumiki kwa miundo ya picha (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Mafanikio",
+      "successMessage": "Asante kwa maoni yako! Ripoti imetumwa.",
+      "submitErrorTitle": "Imeshindwa",
+      "submitErrorMessage": "Hitilafu ilitokea wakati wa kutuma maoni. Tafadhali jaribu tena."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Kuhusu Mimi",
+      "skills": "Ujuzi",
+      "projects": "Miradi",
+      "workExperience": "Uzoefu wa Kazi",
+      "orgExperience": "Uzoefu wa Shirika",
+      "education": "Elimu",
+      "certifications": "Mafunzo na Vyeti",
+      "contact": "Wasiliana Nami"
+    },
+    "editor": {
+      "profileInfo": "Maelezo ya Wasifu",
+      "saving": "Inahifadhi...",
+      "profilePhoto": "Picha ya Wasifu",
+      "clickToUpload": "Bofya ili kupakia (JPG, PNG)",
+      "fullName": "Jina Kamili",
+      "fullNamePlaceholder": "k.m. ",
+      "bio": "Wasifu",
+      "bioPlaceholder": "Fullstack Developer mwenye shauku ya kuunda programu za kisasa za wavuti...",
+      "location": "Mahali",
+      "locationPlaceholder": "k.m. ",
+      "gender": "Jinsia",
+      "selectGender": "Chagua Jinsia",
+      "male": "Mwanaume",
+      "female": "Mwanamke",
+      "custom": "Desturi",
+      "customPlaceholder": "Andika jinsia yako maalum...",
+      "uploadCv": "Pakia CV",
+      "cvFormat": "(DOC au PDF)",
+      "preview": "Hakiki",
+      "remove": "Ondoa",
+      "clickToUploadCv": "Bofya ili kupakia PDF au DOC",
+      "sections": "Sehemu",
+      "removeSelected": "Ondoa Iliyochaguliwa",
+      "confirmRemove": "Thibitisha Ondoa",
+      "addSection": "Ongeza Sehemu",
+      "addAllSections": "Ongeza Sehemu Zote",
+      "noSections": "Bado hakuna sehemu",
+      "clickToAdd": "Bofya \"+ Ongeza Sehemu\" ili kuanza",
+      "selectAll": "Chagua Zote",
+      "selected": "Imechaguliwa",
+      "dragToReorder": "Buruta ili kupanga upya sehemu",
+      "livePreview": "Hakiki ya Moja kwa Moja",
+      "addSectionsToBuild": "Ongeza sehemu ili kuunda kwingineko yako",
+      "now": "Sasa",
+      "current": "Ya sasa",
+      "noExpiry": "Hakuna Muda wa Kuisha",
+      "see": "Tazama",
+      "position": "Nafasi",
+      "degree": "Shahada",
+      "certification": "Uthibitisho",
+      "sectionsForm": {
+        "about": {
+          "label": "Maelezo yako mwenyewe",
+          "placeholder": "Tuambie kuhusu wewe mwenyewe, historia yako, mambo yanayokuvutia na ujuzi..."
+        },
+        "skills": {
+          "addPlaceholder": "Andika ujuzi kisha ubonyeze Enter..."
+        },
+        "projects": {
+          "title": "Jina la Mradi",
+          "titlePlaceholder": "Jina la mradi...",
+          "url": "URL ya mradi",
+          "description": "Maelezo",
+          "descriptionPlaceholder": "Maelezo mafupi ya mradi...",
+          "uploadThumbnail": "Picha ya Mradi",
+          "addProject": "Ongeza Mradi",
+          "projectNum": "Mradi #",
+          "currentProject": "Huu ni mradi ninaoufanyia kazi"
+        },
+        "work": {
+          "company": "Kampuni/Wakala",
+          "companyPlaceholder": "Jina la kampuni...",
+          "position": "Nafasi/Kichwa",
+          "positionPlaceholder": "Msimamo wako...",
+          "employmentType": "Aina ya kazi",
+          "location": "Mahali",
+          "locationPlaceholder": "Jiji, Nchi...",
+          "startDate": "Anza",
+          "endDate": "Imekamilika",
+          "currentWork": "Bado ninafanya kazi kwa sasa",
+          "description": "Maelezo",
+          "descriptionPlaceholder": "Maelezo ya kazi na majukumu ...",
+          "skills": "Ujuzi",
+          "addExperience": "Ongeza Uzoefu wa Kazi",
+          "experienceNum": "Uzoefu #",
+          "dateError": "Tarehe ya mwisho haiwezi kuwa mapema kuliko tarehe ya kuanza"
+        },
+        "org": {
+          "organization": "Jina la shirika",
+          "orgPlaceholder": "Chuo kikuu cha BEM...",
+          "role": "Wajibu/Nafasi",
+          "rolePlaceholder": "Mkuu wa Kitengo...",
+          "addOrg": "Ongeza Uzoefu wa Shirika",
+          "orgNum": "Shirika #"
+        },
+        "edu": {
+          "institution": "Taasisi za Elimu",
+          "institutionPlaceholder": "Jina la chuo au shule...",
+          "degree": "Kichwa",
+          "degreePlaceholder": "S1, shule ya upili, nk...",
+          "major": "Idara/Shamba la Utafiti",
+          "majorPlaceholder": "Uhandisi wa Habari...",
+          "gpa": "GPA (si lazima)",
+          "currentStudy": "Bado najifunza hapa",
+          "descriptionPlaceholder": "Shughuli na mafanikio wakati wa masomo...",
+          "addEdu": "Ongeza Elimu",
+          "eduNum": "Elimu #"
+        },
+        "cert": {
+          "name": "Jina la Cheti / Mafunzo",
+          "namePlaceholder": "Jina la uthibitisho...",
+          "issuer": "Mchapishaji",
+          "issuerPlaceholder": "Taasisi ya uchapishaji...",
+          "issueDate": "Anza (Tarehe ya Kuchapisha)",
+          "issueDatePlaceholder": "Chagua tarehe ya kuchapishwa...",
+          "expiryDate": "Imekamilika (Kipindi Halali)",
+          "expiryDatePlaceholder": "Chagua tarehe ya mwisho wa matumizi...",
+          "noExpiry": "Cheti hiki hakina tarehe ya mwisho wa matumizi",
+          "url": "URL ya kitambulisho",
+          "uploadThumbnail": "Picha ya Cheti / Mafunzo",
+          "uploadThumbnailLimit": "Pakia picha ya cheti (JPG/PNG/WEBP, upeo wa 2MB)",
+          "addCert": "Ongeza Udhibitisho",
+          "certNum": "Uthibitishaji #"
+        },
+        "contact": {
+          "contactNum": "Anwani #",
+          "platform": "Jukwaa",
+          "displayText": "Onyesha Maandishi",
+          "displayTextPlaceholder": "k.m., wewe@email.com au @jina la mtumiaji",
+          "url": "Kiungo (URL)",
+          "urlPlaceholderWhatsapp": "k.m., 62812... (bila kuongoza 0)",
+          "urlPlaceholderEmail": "k.m., wewe@email.com",
+          "urlPlaceholderWebsite": "k.m., https://...",
+          "urlPlaceholderDefault": "k.m., jina la mtumiaji",
+          "addContact": "Ongeza Anwani"
+        },
+        "common": {
+          "months": {
+            "1": "Januari",
+            "2": "Februari",
+            "3": "Machi",
+            "4": "Aprili",
+            "5": "Mei",
+            "6": "Juni",
+            "7": "Julai",
+            "8": "Agosti",
+            "9": "Septemba",
+            "10": "Oktoba",
+            "11": "Novemba",
+            "12": "Desemba"
+          },
+          "month": "Mwezi",
+          "year": "Mwaka",
+          "invalidDate": "Mwezi wa Mwisho Batili",
+          "words": "maneno"
+        }
+      },
+      "sure": "Hakika",
+      "deletePhotoTitle": "Ungependa kufuta Picha ya Wasifu?",
+      "deletePhotoMessage": "Je, una uhakika unataka kufuta picha hii ya wasifu?",
+      "cancel": "Ghairi",
+      "delete": "Futa"
+    },
+    "cropper": {
+      "chooseBackground": "Chagua Mandharinyuma",
+      "cropPhoto": "Punguza Picha Yako",
+      "useOriginal": "Tumia asili",
+      "backgroundPresets": "Mipangilio ya awali ya Mandharinyuma",
+      "none": "Hakuna",
+      "uploadBackground": "Pakia Mandharinyuma",
+      "cancel": "Ghairi",
+      "savePhoto": "Hifadhi Picha",
+      "zoom": "Kuza",
+      "rotationTilt": "Mzunguko na Tilt",
+      "resetRotation": "Weka upya hadi 0°",
+      "center": "Kituo",
+      "rotateLeft": "Zungusha -90 °",
+      "rotateRight": "Zungusha +90°",
+      "removeBackground": "Ondoa Mandharinyuma",
+      "processing": "Inachakata picha yako, tafadhali subiri..."
+    },
+    "cvPreview": {
+      "title": "Muhtasari wa CV",
+      "downloadCv": "Pakua CV",
+      "download": "Pakua",
+      "wordCannotPreview": "Hati za Neno (.doc/.docx) haziwezi kuchunguliwa kienyeji katika kivinjari. ",
+      "downloadFile": "Pakua faili ya CV",
+      "back": "Nyuma",
+      "mobileMessage": "Tafadhali pakua faili ya CV ili kuihakiki.",
+      "preview": "Hakiki CV",
+      "wordPreviewTitle": "Hakiki ya Hati ya Neno",
+      "wordPreviewMessage": "Hati za Neno (.doc/.docx) haziwezi kuchunguliwa kienyeji katika kivinjari. Tafadhali pakua faili ili kuitazama."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Andika maelezo mafupi kukuhusu wewe, mambo yanayokuvutia, na malengo ya kazi..."
+    },
+    "skills": {
+      "placeholder": "Andika jina la ujuzi...",
+      "add": "Ongeza",
+      "enterToAdd": "Bonyeza Enter ili kuongeza",
+      "noSkills": "Bado hakuna ujuzi ulioongezwa."
+    },
+    "projects": {
+      "projectName": "Jina la Mradi",
+      "projectNamePlaceholder": "k.m. ",
+      "projectUrl": "URL ya mradi",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Muda",
+      "startMonth": "Mwezi wa Kuanza",
+      "startYear": "Mwaka wa Kuanza",
+      "endMonth": "Mwisho wa Mwezi",
+      "endYear": "Mwisho wa Mwaka",
+      "currentlyWorking": "Hivi sasa inafanya kazi juu ya hili",
+      "description": "Maelezo",
+      "descriptionPlaceholder": "Eleza mradi, jukumu lako, na mafanikio...",
+      "technologies": "Teknolojia Zinazotumika",
+      "addProject": "Ongeza Mradi",
+      "image": "Picha ya Mradi",
+      "removeImage": "Ondoa Picha",
+      "uploadImage": "Bofya ili kupakia picha"
+    },
+    "work": {
+      "company": "Kampuni/Taasisi",
+      "companyPlaceholder": "Jina la kampuni...",
+      "role": "Wajibu/Nafasi",
+      "rolePlaceholder": "Msimamo wako...",
+      "jobType": "Aina ya Kazi",
+      "selectJobType": "Chagua aina",
+      "fullTime": "Muda kamili",
+      "partTime": "Muda wa muda",
+      "contract": "Mkataba",
+      "internship": "Mafunzo ya ndani",
+      "freelance": "Kujitegemea",
+      "location": "Mahali",
+      "locationPlaceholder": "k.m. ",
+      "duration": "Muda",
+      "currentlyWorking": "Hivi sasa inafanya kazi hapa",
+      "description": "Maelezo ya Kazi",
+      "descriptionPlaceholder": "Eleza majukumu yako muhimu na mafanikio...",
+      "skills": "Ujuzi Maalum",
+      "addExperience": "Ongeza Uzoefu"
+    },
+    "org": {
+      "organization": "Jina la shirika",
+      "organizationPlaceholder": "Jina la shirika...",
+      "role": "Wajibu/Nafasi",
+      "rolePlaceholder": "k.m. ",
+      "duration": "Muda",
+      "periodFormat": "au Umbizo Bila Malipo (k.m. 2020 - 2022)",
+      "periodPlaceholder": "k.m. ",
+      "currentlyActive": "Inatumika kwa sasa",
+      "description": "Maelezo ya Shughuli",
+      "descriptionPlaceholder": "Eleza shughuli au michango yako...",
+      "addExperience": "Ongeza Uzoefu"
+    },
+    "education": {
+      "institution": "Jina la Taasisi",
+      "institutionPlaceholder": "Jina la shule au chuo kikuu...",
+      "degree": "Shahada/Ngazi",
+      "degreePlaceholder": "k.m. ",
+      "major": "Meja/Shamba la Utafiti",
+      "majorPlaceholder": "k.m. ",
+      "gpa": "GPA / Daraja",
+      "gpaPlaceholder": "k.m. ",
+      "duration": "Muda wa Elimu",
+      "periodFormat": "au Umbizo Bila Malipo (k.m. 2018 - 2022)",
+      "periodPlaceholder": "k.m. ",
+      "currentlyStudying": "Hivi sasa anasoma hapa",
+      "description": "Shughuli / Heshima",
+      "descriptionPlaceholder": "Eleza shughuli za kitaaluma, mashirika, au heshima ulizopokea...",
+      "addEducation": "Ongeza Elimu"
+    },
+    "cert": {
+      "name": "Jina la Cheti",
+      "namePlaceholder": "k.m. ",
+      "issuer": "Shirika la Kutoa",
+      "issuerPlaceholder": "k.m. ",
+      "issueDate": "Tarehe ya Kutolewa",
+      "expiryDate": "Inatumika Hadi",
+      "noExpiry": "Kitambulisho hiki hakiisha muda wake",
+      "yearPlaceholder": "au Mwaka (k.m. 2023)",
+      "credentialUrl": "URL ya kitambulisho",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Ujuzi Unaohusiana",
+      "addCertification": "Ongeza Udhibitisho",
+      "image": "Picha/Nembo",
+      "removeImage": "Ondoa Picha",
+      "uploadImage": "Bofya ili kupakia picha"
+    },
+    "common": {
+      "months": {
+        "1": "Januari",
+        "2": "Februari",
+        "3": "Machi",
+        "4": "Aprili",
+        "5": "Mei",
+        "6": "Juni",
+        "7": "Julai",
+        "8": "Agosti",
+        "9": "Septemba",
+        "10": "Oktoba",
+        "11": "Novemba",
+        "12": "Desemba"
+      },
+      "month": "Mwezi",
+      "year": "Mwaka",
+      "invalidDate": "Mwezi wa Mwisho Batili",
+      "words": "maneno"
+    }
+  },
+  "settings": {
+    "title": "Mipangilio",
+    "subtitle": "Dhibiti wasifu wako wa kwingineko na mapendeleo",
+    "tabs": {
+      "profile": "Wasifu Wangu",
+      "security": "Usalama",
+      "personalization": "Ubinafsishaji"
+    },
+    "profile": {
+      "infoTitle": "Taarifa za Msingi",
+      "photo": "Picha ya Wasifu",
+      "uploadPhoto": "Badilisha Picha",
+      "fullName": "Jina Kamili",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Anwani ya Barua Pepe",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Barua pepe inatumika kuingia na haionyeshwi hadharani.",
+      "portfolioUrl": "URL ya kwingineko",
+      "saveProfile": "Hifadhi Wasifu",
+      "save": "Hifadhi Wasifu",
+      "accountCreated": "Akaunti Imeundwa",
+      "lastLogin": "Mwisho wa Kuingia",
+      "oauthNotice": "Wasifu huu umeunganishwa kwenye akaunti yako ya {{provider}}. Mabadiliko ya wasifu lazima yafanywe kupitia mtoa huduma."
+    },
+    "security": {
+      "changePassword": "Badilisha Nenosiri",
+      "currentPassword": "Nenosiri la Sasa",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Nenosiri Mpya",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Thibitisha Nenosiri Jipya",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Angalau herufi 8",
+        "uppercase": "Herufi kubwa moja (A-Z)",
+        "number": "Nambari moja (0-9)",
+        "symbol": "Alama moja (!@#$%^&*)"
+      },
+      "passwordTitle": "Nenosiri",
+      "updatePassword": "Sasisha Nenosiri",
+      "additionalSecurity": "Usalama wa Ziada",
+      "twoFactor": "Uthibitishaji wa Mambo Mbili (2FA)",
+      "twoFactorDesc": "Linda akaunti yako kwa kutumia msimbo wa ziada wa OTP.",
+      "activeSessions": "Vipindi Amilifu",
+      "activeSessionsDesc": "Ruhusu ufuatiliaji wa vifaa vilivyoingia kila wakati.",
+      "publicVisibility": "Mwonekano wa Umma",
+      "hideFromSearch": "Ficha Portfolio kutoka kwa Injini za Utafutaji",
+      "hideFromSearchDesc": "Zuia Google kuorodhesha ukurasa wako wa kwingineko wa umma.",
+      "disable2fa": {
+        "title": "Zima 2FA",
+        "description": "Je, una uhakika unataka kuzima uthibitishaji wa vipengele viwili?",
+        "confirmPasswordLabel": "Weka nenosiri lako ili kuthibitisha",
+        "currentPasswordPlaceholder": "Nenosiri la sasa",
+        "cancelButton": "Ghairi",
+        "confirmButton": "Zima 2FA",
+        "incorrectPassword": "Nenosiri si sahihi."
+      },
+      "setup2fa": {
+        "step1Title": "1. Changanua Msimbo wa QR",
+        "step1Desc": "Fungua programu yako ya uthibitishaji na uchanganue msimbo ufuatao wa QR:",
+        "unableToScan": "Je, umeshindwa kuchanganua? Tumia ufunguo wa kuanzisha",
+        "step2Title": "2. Thibitisha Msimbo",
+        "step2Desc": "Weka msimbo wa tarakimu 6 unaozalishwa na programu yako:",
+        "cancelButton": "Ghairi",
+        "enableButton": "Washa 2FA",
+        "invalidLength": "Tafadhali weka msimbo wa tarakimu 6.",
+        "invalidCode": "Nambari ya uthibitishaji si sahihi. Tafadhali jaribu tena."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Vidhibiti vya Lugha",
+      "appLanguage": "Lugha ya Programu",
+      "layoutTitle": "Muundo na Uchapaji",
+      "layoutStyle": "Mtindo wa Mpangilio",
+      "layoutModern": "Mtindo wa Kisasa (Chaguomsingi)",
+      "layoutClassic": "Mtindo wa Kisasa",
+      "layoutMinimalist": "Mtindo mdogo",
+      "fontSize": "Ukubwa wa herufi ya Programu",
+      "fontSmall": "Ndogo",
+      "fontNormal": "Kawaida (Kati)",
+      "fontLarge": "Kubwa",
+      "searchLanguage": "Tafuta lugha...",
+      "languageNotFound": "Lugha haipatikani",
+      "layoutElegant": "Mtindo wa Kifahari"
+    },
+    "saveChanges": "Hifadhi Mabadiliko",
+    "cancel": "Ghairi",
+    "appSettings": "Mipangilio ya Programu",
+    "logoutConfirmTitle": "Thibitisha Toka",
+    "logoutConfirmDesc": "Je, una uhakika unataka kuondoka kwenye mfumo?",
+    "logoutConfirmYes": "Ndiyo, Ondoka",
+    "generalError": "Hitilafu imetokea. ",
+    "success": "Mafanikio",
+    "preferencesSaved": "Mapendeleo ya programu yamehifadhiwa.",
+    "header": "Mipangilio ya Programu",
+    "logout": {
+      "title": "Uthibitisho wa Kuondoka",
+      "message": "Je, una uhakika unataka kuondoka kwenye mfumo?",
+      "confirm": "Ndiyo, Ondoka"
+    },
+    "about": {
+      "title": "Kuhusu Maombi",
+      "subtitle": "Portfolio Builder Jukwaa",
+      "version": "Toleo",
+      "description": "DevFolio ni jukwaa la kisasa la kuunda jalada lililoundwa kwa ajili ya wasanidi programu, wabunifu na waundaji wataalamu. ",
+      "license": "Leseni na Hakimiliki",
+      "copyright": "© 2026 DevFolio Inc. Haki zote zimehifadhiwa.",
+      "developer": "Msanidi",
+      "developedBy": "Imetengenezwa na Timu ya DevFolio"
+    },
+    "deleteAccount": {
+      "title": "Futa Akaunti",
+      "menuItem": "Futa Akaunti",
+      "successTitle": "Mafanikio",
+      "successMessage": "Barua pepe ya uthibitishaji wa kufuta akaunti imetumwa.",
+      "errorTitle": "Imeshindwa",
+      "errorMessage": "Imeshindwa kutuma barua pepe ya uthibitishaji.",
+      "confirmationMessage": "Je, una uhakika unataka kufuta akaunti yako kabisa?",
+      "warningMessage1": "Utapokea barua pepe ili kuthibitisha kufutwa kwa akaunti.",
+      "warningMessage2": "Ikithibitishwa, data yote (kwingineko, miradi, takwimu) itafutwa kabisa na haiwezi kurejeshwa.",
+      "cancel": "Ghairi",
+      "confirm": "Uthibitisho"
+    },
+    "toasts": {
+      "toastError": "Hitilafu",
+      "toastSuccess": "Mafanikio",
+      "toastSetup2FAFailed": "Imeshindwa kusanidi 2FA. Tafadhali jaribu tena.",
+      "toast2FAEnabled": "Uthibitishaji wa vipengele viwili umewezeshwa.",
+      "toast2FADisabled": "Uthibitishaji wa vipengele viwili umezimwa.",
+      "toastSessionEnabled": "Ufuatiliaji wa kipindi amilifu umewezeshwa.",
+      "toastSessionDisabled": "Ufuatiliaji wa kipindi unaotumika umezimwa.",
+      "toastSetupKeyCopied": "Kitufe cha kusanidi kimenakiliwa kwenye ubao wa kunakili."
+    },
+    "privacy": {
+      "title": "Sera ya Faragha",
+      "updateDate": "Ilisasishwa Mwisho: Julai 15, 2026",
+      "intro": "Sera hii ya Faragha inafafanua jinsi DevFolio inavyokusanya, kutumia na kulinda maelezo yako ya kibinafsi unapotumia huduma zetu.",
+      "section1Title": "1. Taarifa Tunazokusanya",
+      "section1Content": "Tunakusanya maelezo unayotoa moja kwa moja wakati wa kuunda akaunti, kuunda jalada, na kuwasiliana na usaidizi wetu. ",
+      "section2Title": "2. Matumizi ya Taarifa",
+      "section2Content": "Taarifa zako hutumiwa kufanya kazi, kudumisha, na kutoa vipengele vya huduma zetu, na pia kuwasiliana nawe kuhusu akaunti au huduma zako.",
+      "section3Title": "3. Usalama wa Data",
+      "section3Content": "Tunatekeleza hatua zinazofaa za usalama ili kulinda maelezo yako dhidi ya ufikiaji, ufichuzi au uharibifu usioidhinishwa."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Tokeni ya uthibitishaji haijapatikana.",
+    "defaultError": "Imeshindwa kufuta akaunti. Tokeni inaweza kuwa imeisha muda wake.",
+    "loadingTitle": "Inafuta Akaunti...",
+    "loadingMessage": "Tafadhali subiri, tunachakata ombi lako.",
+    "successTitle": "Akaunti Imefaulu Kufutwa",
+    "successMessage": "Data yako yote imefutwa kabisa. Utaelekezwa kwingine...",
+    "errorTitle": "Imeshindwa Kufuta Akaunti",
+    "backToHome": "Rudi Nyumbani"
+  },
+  "forgotPassword": {
+    "minutes": "dakika",
+    "seconds": "sekunde",
+    "success": "Mafanikio",
+    "otpSentToEmail": "Msimbo wa OTP umetumwa kwa barua pepe yako.",
+    "failed": "Imeshindwa",
+    "emailNotFound": "Barua pepe haikupatikana.",
+    "emailThirdParty": "Barua pepe hii imesajiliwa kupitia mtu wa tatu.",
+    "genericError": "Kuna hitilafu. Tafadhali jaribu tena.",
+    "otpVerified": "Msimbo wa OTP umethibitishwa.",
+    "otpExpired": "Msimbo wa OTP umekwisha muda. Tafadhali omba nambari mpya ya kuthibitisha.",
+    "otpInvalid": "Msimbo wa OTP si sahihi.",
+    "otpResent": "Msimbo mpya wa OTP umetumwa kwa barua pepe yako.",
+    "otpResendFailed": "Imeshindwa kutuma tena msimbo wa OTP. Tafadhali jaribu tena.",
+    "passwordResetSuccess": "Nenosiri limewekwa upya. Tafadhali ingia na nenosiri lako jipya.",
+    "passwordResetFailed": "Imeshindwa kuweka upya nenosiri.",
+    "backToLogin": "Rudi kwa Ingia",
+    "back": "Nyuma",
+    "title": "Umesahau Nenosiri",
+    "description": "Ingiza anwani ya barua pepe iliyosajiliwa kwenye akaunti yako. Tutatuma msimbo wa OTP ili kuweka upya nenosiri.",
+    "emailLabel": "Anwani ya Barua Pepe",
+    "sending": "Inatuma...",
+    "sendOtp": "Tuma Msimbo wa OTP",
+    "verifyOtpTitle": "Thibitisha Msimbo wa OTP",
+    "verifyOtpDesc": "Weka msimbo wa tarakimu 6 ambao umetumwa kwa barua pepe yako ili kuthibitisha utambulisho wako.",
+    "verifying": "Inathibitisha...",
+    "verifyOtp": "Thibitisha OTP",
+    "resending": "Inatuma tena...",
+    "resendOtp": "Tuma tena Msimbo wa OTP",
+    "resendCodeIn": "Tuma tena msimbo katika",
+    "newPasswordTitle": "Unda Nenosiri Jipya",
+    "newPasswordDesc": "Unda nenosiri jipya, thabiti ili kulinda akaunti yako.",
+    "newPasswordLabel": "Nenosiri Mpya",
+    "min8Chars": "Angalau herufi 8",
+    "oneUpperCase": "herufi 1 kubwa (A-Z)",
+    "oneNumber": "Nambari 1 (0-9)",
+    "oneSymbol": "Alama 1 (!@#$%^&*)",
+    "confirmPasswordLabel": "Thibitisha Nenosiri",
+    "passwordsDoNotMatch": "Manenosiri hayalingani.",
+    "resettingPassword": "Inaweka upya Nenosiri...",
+    "resetPassword": "Weka upya Nenosiri"
+  },
+  "verifyEmail": {
+    "resendError": "Imeshindwa kutuma tena barua pepe ya uthibitishaji. Tafadhali jaribu tena.",
+    "checkingStatus": "Inakagua hali ya uthibitishaji...",
+    "title": "Angalia Barua pepe Yako",
+    "description": "Tumetuma barua pepe ya uthibitishaji kwa anwani yako ya barua pepe. Tafadhali fungua barua pepe na ubofye kitufe cha <1>\"Thibitisha Akaunti\"</1> ili kuamilisha akaunti yako.",
+    "stepsTitle": "Hatua",
+    "step1": "Fungua programu yako ya barua pepe (Gmail, Yahoo, nk)",
+    "step2": "Tafuta barua pepe kutoka kwa DevFolio yenye mada \"Uwezeshaji wa Akaunti\"",
+    "step3": "Bofya kitufe cha \"Thibitisha Akaunti\" katika barua pepe",
+    "step4": "Utaelekezwa kwenye ukurasa wa kuingia ili kuingia",
+    "resendSuccess": "Barua pepe ya uthibitishaji imetumwa tena!",
+    "resending": "Inatuma tena...",
+    "resendButton": "Tuma tena Barua pepe ya Uthibitishaji",
+    "backToLogin": "Rudi kwa Ukurasa wa Kuingia",
+    "footerNote": "Hukupokea barua pepe? Angalia folda ya <1>Taka</1> au <2>Taka</2> katika barua pepe yako. Kiungo cha uthibitishaji ni halali kwa <3>saa 24</3>."
+  }
+}

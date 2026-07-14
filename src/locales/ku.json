@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Features",
+    "templates": "Şablonên",
+    "pricing": "Pricing",
+    "login": "Login",
+    "getStarted": "Dest pê bike",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ji bo pêşdebiran çêkera paşîn a portfoliyoyê",
+    "title1": "Profesyoneliya xwe ava bikin",
+    "title2": "portfolio di",
+    "titleHighlight": "seconds.",
+    "subtitle": "Her tiştê ku hûn hewce ne ku hûn jêhatîbûn, proje û ezmûna xwe nîşan bidin. ",
+    "startBuilding": "Niha Dest bi Avakirinê bikin",
+    "viewTemplates": "View Şablonên",
+    "fastDeployment": "Fast Deployment",
+    "liveStatus": "username.dev zindî ye!",
+    "featuresTitle": "Taybetmendiyên Hêzdar",
+    "featuresSubtitle": "Em hemî amûrên ku hûn hewce ne peyda dikin da ku hûn ji nav elaletê derkevin û karê xewna xwe bi cih bînin.",
+    "feature1Title": "Bikişîne & Drop Builder",
+    "feature1Desc": "Bi edîtorê meya dîtbarî ya bînbar re bi hêsanî beş, proje û jêhatîyên xwe organîze bikin.",
+    "feature2Title": "Mijarên Xweser",
+    "feature2Desc": "Ji şablonên profesyonel ên sêwirandî hilbijêrin an dîmena xweya bêhempa biafirînin.",
+    "feature3Title": "Analytics-a-time",
+    "feature3Desc": "Ziyaretvanên xwe bişopînin, bibînin ka kîjan proje herî zêde balê dikişînin, û hêj bêtir."
+  },
+  "auth": {
+    "welcomeBack": "Duabre bixêr bên",
+    "loginToContinue": "Têkeve hesabê xwe da ku berdewam bike",
+    "createAccount": "Hesab biafirîne",
+    "joinCommunity": "Tevlî bi hezaran pêşdebirên din bibin",
+    "fullName": "Navê tam",
+    "fullNamePlaceholder": "wek mînak. ",
+    "email": "Navnîşana emailê",
+    "emailPlaceholder": "you@example.com",
+    "password": "Şîfre",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Min bîne bîra xwe",
+    "forgotPassword": "Şîfre ji bîr kir?",
+    "signIn": "Têketin",
+    "signingIn": "Têkeve...",
+    "signUp": "Tomar kirin",
+    "signingUp": "Îmzekirin...",
+    "noAccount": "Hesabê we tune?",
+    "hasAccount": "Jixwe hesabek heye?",
+    "passwordRules": {
+      "title": "Divê şîfre hebe:",
+      "length": "Bi kêmanî 8 tîp",
+      "uppercase": "Yek tîpek mezin (A-Z)",
+      "number": "Yek hejmar (0-9)",
+      "symbol": "Yek sembol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Şablon & Mijar",
+      "settings": "Settings",
+      "collapse": "Hilweşîna kêlekê",
+      "overview": "Têgihiştinî",
+      "profileSettings": "Mîhengên Profîl",
+      "customDomain": "Domain Custom",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Binêre Live",
+      "welcome": "Bi xêr hatî,",
+      "logout": "Derkeve",
+      "builder": "Avaker",
+      "livePortfolio": "Portfolio Live",
+      "live": "Jîyan"
+    },
+    "logoutModal": {
+      "title": "Derkeve",
+      "message": "Ma tu bi rastî dixwazî ​​ji hesabê xwe derkevî? ",
+      "cancel": "Bişûndekirin",
+      "confirm": "Erê, Derketin"
+    },
+    "slugModal": {
+      "title": "Portfolio URL-ya xwe hilbijêrin",
+      "message": "Ev URL dê bibe girêdana yekta ya portfoliyoya we. ",
+      "slugPlaceholder": "navê te",
+      "availability": "Berdestbûnî:",
+      "available": "Berdeste",
+      "unavailable": "Unavailable",
+      "checking": "Kontrolkirin...",
+      "mustFormat": "Dikare tenê tîp, jimar, û daçekan bigire (-)",
+      "cancel": "Bişûndekirin",
+      "save": "URL tomar bike",
+      "usernameUrl": "Navê bikarhêner URL",
+      "helpText": "Tîpên biçûk, jimar û daçek. ",
+      "validation": {
+        "empty": "Slug nikare vala be.",
+        "min3": "Herî kêm 3 karakter.",
+        "max30": "Herî zêde 30 tîp.",
+        "format": "Tenê tîpên piçûk, jimar û daçek (-). "
+      }
+    },
+    "loadingPortfolio": "Daneyên portfoliyoyê tê barkirin...",
+    "overview": {
+      "greetings": {
+        "morning": "Rojbaş",
+        "afternoon": "Rojbaş",
+        "evening": "Rojbaş",
+        "night": "Şev baş"
+      },
+      "welcome": {
+        "hi": "Silav",
+        "creator": "Afirînerê",
+        "desc1": "Hûn bi xêr hatin tabloya DevFolio. Portfoloya we ji hêla ve hatî dîtin",
+        "desc2": "şexs. Karê xwe bidomînin!",
+        "editPortfolio": "Portfolio biguherîne"
+      },
+      "stats": {
+        "totalVisitors": "Tevahiya Ziyaretvan",
+        "projectViews": "Dîtin (Proje)",
+        "activeSessions": "Rûniştina Çalak",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Pêşveçûn Setup",
+        "completed": "Portfolio we temam e! 🎉",
+        "inProgress": "Gavên berbi portfoliyoya bêkêmasî.",
+        "profile": {
+          "title": "Profîla Temam",
+          "desc": "Nav, bio û wêneya profîlê zêde bikin."
+        },
+        "section": {
+          "title": "Beşan zêde bikin",
+          "desc": "Di portofolê de herî kêm 1 beş çalak bikin."
+        },
+        "project": {
+          "title": "Projeyê zêde bikin",
+          "desc": "Bi kêmanî 1 ji projeyên xwe yên çêtirîn têkevin."
+        },
+        "publish": {
+          "title": "Publish Portfolio",
+          "desc": "URLek xwerû destnîşan bikin da ku ji hêla gel ve were gihîştin."
+        }
+      },
+      "topProjects": {
+        "title": "Projeyên herî populer",
+        "desc": "Performansa karê we li ber çavên mêvanan.",
+        "viewAll": "Hemî bibînin",
+        "empty": "Ji bo projeya we hêj daneyên dîtinê tune."
+      }
+    },
+    "themes": {
+      "title": "Şablon & Mijar",
+      "subtitle": "Awir û hesta portfolioya xweya giştî xweş bikin.",
+      "reset": "Vegerîna Pêşniyarê",
+      "save": "Guherandinên Save",
+      "saving": "Saving...",
+      "chooseTemplate": "Şablonek hilbijêre",
+      "primaryColor": "Rengê Sereke",
+      "typography": "Tîpografi",
+      "appearance": "Xuyabûn",
+      "corners": "Quncik & Sînor",
+      "successTitle": "Serkeftin",
+      "successMessage": "Vebijêrkên mijarê bi serkeftî hatin nûve kirin",
+      "errorTitle": "Çewtî",
+      "errorMessage": "Hilbijartina tercihên mijarê bi ser neket",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Sêwirana paqij û hêsan ku li ser naverokê hûr dibe."
+        },
+        "developerDark": {
+          "name": "Developer Dark",
+          "desc": "Mijara tarî ji bo nîşandana kod û stekên teknolojiyê bêkêmasî ye."
+        },
+        "creative": {
+          "name": "Afirîner",
+          "desc": "Ji bo sêwiraner û afirîner sêwirana zindî û rengîn."
+        },
+        "executive": {
+          "name": "Rêveber",
+          "desc": "Plansaziya pîşeyî û fermî ji bo pisporên karsaziyê."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Plansaziya torê ya nûjen a bi şêwaza Apple-ê ku jêhatîbûnên cihêreng bi bandor ronî dike."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalîzm",
+          "desc": "Sînorên stûr û rengên berevajî yên bilind ji bo awirek trendî, ne lêborîn."
+        },
+        "glassmorphism": {
+          "name": "Glassmorfîzm",
+          "desc": "Ji bo UI-ya nûjen a şirîn bandorên cama qeşagirtî li ser pêlên rengîn."
+        },
+        "linkInBio": {
+          "name": "Girêdana di Bio de",
+          "desc": "Plansaziya vertîkal a kompakt ji bo ekranên mobîl û medyaya civakî xweşbîn e."
+        }
+      },
+      "appearances": {
+        "light": "Ronahî",
+        "dark": "Tarî",
+        "system": "Pergal"
+      },
+      "cornersOptions": {
+        "sharp": "Tûj",
+        "rounded": "Girêdayî",
+        "pill": "Heb"
+      }
+    },
+    "feedback": {
+      "title": "Send Feedback",
+      "subtitle": "Bi pêşkêşkirina pêşniyar, rexne, an raporkirina xeletiyên li ser vê serîlêdanê ji me re bibin alîkar ku em wê çêtir bikin.",
+      "categoryLabel": "Kategorî Feedback",
+      "messageLabel": "Agahiyên Peyamê",
+      "messagePlaceholder": "Ji min re bi hûrgulî li ser nerînên ku hûn dixwazin ragihînin...",
+      "imageLabel": "Pêveka Wêne (Bijarte)",
+      "imagePlaceholder": "Ji bo barkirina wêne an dîmenderê bikirtînin",
+      "submitting": "Dişîne...",
+      "submitBtn": "Send Feedback",
+      "categories": {
+        "suggestion": "Pêşniyar & Raman",
+        "bug": "Bûka / Rapora Çewtiyê",
+        "criticism": "Rexne",
+        "other": "Yên din"
+      },
+      "imageErrorTitle": "Çewtî",
+      "imageErrorMessage": "Hin pel têne red kirin ji ber ku ew ne formatên wêneyê piştgirî ne (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Serkeftin",
+      "successMessage": "Spas ji bo nêrîna we! Rapor hat şandin.",
+      "submitErrorTitle": "Biserneket",
+      "submitErrorMessage": "Di dema şandina nerînê de xeletiyek derket. Ji kerema xwe dîsa biceribîne."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Dexistin",
+      "skills": "Skills",
+      "projects": "Projects",
+      "workExperience": "Tecrûbeya Kar",
+      "orgExperience": "Tecrubeya Rêxistinî",
+      "education": "Zanyarî",
+      "certifications": "Perwerde & Sertîfîka",
+      "contact": "Têkilî Me"
+    },
+    "editor": {
+      "profileInfo": "Agahdariya Profîl",
+      "saving": "Sazkirin...",
+      "profilePhoto": "Wêne Profîl",
+      "clickToUpload": "Ji bo barkirinê bikirtînin (JPG, PNG)",
+      "fullName": "Navê tam",
+      "fullNamePlaceholder": "wek mînak. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Pêşdebirê Fullstack bi hewesa avakirina sepanên webê yên nûjen...",
+      "location": "Cîh",
+      "locationPlaceholder": "wek mînak. ",
+      "gender": "Zayendî",
+      "selectGender": "Cinsîyet hilbijêrin",
+      "male": "Nêrî",
+      "female": "Mê",
+      "custom": "Hûnbunî",
+      "customPlaceholder": "Zayenda xweya xwerû binivîsin...",
+      "uploadCv": "CV barkirin",
+      "cvFormat": "(DOC an PDF)",
+      "preview": "Pêşnerîn",
+      "remove": "Dûrxistin",
+      "clickToUploadCv": "Ji bo barkirina PDF an DOC bikirtînin",
+      "sections": "Beşên",
+      "removeSelected": "Hilbijartî jêbirin",
+      "confirmRemove": "Piştrast bike Rake",
+      "addSection": "Beşê zêde bikin",
+      "addAllSections": "Hemî beşan zêde bikin",
+      "noSections": "Hîn beş nînin",
+      "clickToAdd": "Bikirtînin \"+ Beşê lê zêde bikin\" da ku dest pê bikin",
+      "selectAll": "Hemî Hilbijêre",
+      "selected": "Hilbijartin",
+      "dragToReorder": "Kaş bikin da ku beşan ji nû ve rêz bikin",
+      "livePreview": "Pêşdîtina Zindî",
+      "addSectionsToBuild": "Ji bo avakirina portfolioya xwe beşan zêde bikin",
+      "now": "Niha",
+      "current": "Vêga",
+      "noExpiry": "No Expiration",
+      "see": "Dîtin",
+      "position": "Rewş",
+      "degree": "Derece",
+      "certification": "Şehadet",
+      "sectionsForm": {
+        "about": {
+          "label": "Danasîna xwe",
+          "placeholder": "Ji me re behsa xwe, paşeroj, berjewendî û jêhatîbûna xwe bike..."
+        },
+        "skills": {
+          "addPlaceholder": "skill binivîsin paşê Enter bikirtînin..."
+        },
+        "projects": {
+          "title": "Navê Projeyê",
+          "titlePlaceholder": "Navê projeyê...",
+          "url": "Projeya URL",
+          "description": "Terîf",
+          "descriptionPlaceholder": "Kurte şirovekirina projeyê...",
+          "uploadThumbnail": "Wêne Projeyê",
+          "addProject": "Projeyê zêde bikin",
+          "projectNum": "Proje #",
+          "currentProject": "Ev projeyek e ku ez li ser dixebitim"
+        },
+        "work": {
+          "company": "Şîrket / Ajans",
+          "companyPlaceholder": "Navê şirket ...",
+          "position": "Position / Sernav",
+          "positionPlaceholder": "Helwesta te...",
+          "employmentType": "Cureyê kar",
+          "location": "Cîh",
+          "locationPlaceholder": "Bajar, Welat...",
+          "startDate": "Destpêkirin",
+          "endDate": "Qediya",
+          "currentWork": "Ez niha jî dixebitim",
+          "description": "Terîf",
+          "descriptionPlaceholder": "Danasîna kar û berpirsiyarî...",
+          "skills": "Jîrî",
+          "addExperience": "Tecrûbeya Karê zêde bikin",
+          "experienceNum": "Tecrûbe #",
+          "dateError": "Dîroka dawî nikare ji roja destpêkê zûtir be"
+        },
+        "org": {
+          "organization": "Navê Rêxistinê",
+          "orgPlaceholder": "Zanîngeha BEM ...",
+          "role": "Rol / Position",
+          "rolePlaceholder": "Serokê beşa...",
+          "addOrg": "Tecrûbeya Rêxistinê zêde bikin",
+          "orgNum": "Rêxistina #"
+        },
+        "edu": {
+          "institution": "Saziyên Perwerdehiyê",
+          "institutionPlaceholder": "Navê kampusê an dibistanê ...",
+          "degree": "Nav",
+          "degreePlaceholder": "S1, lîse, hwd...",
+          "major": "Beşa / Qada Lêkolînê",
+          "majorPlaceholder": "Endezyariya Înformatîk...",
+          "gpa": "GPA (vebijarkî)",
+          "currentStudy": "Ez hîn jî li vir fêr dibim",
+          "descriptionPlaceholder": "Çalakî û destkeftiyên di dema xwendinê de ...",
+          "addEdu": "Perwerdehiyê zêde bikin",
+          "eduNum": "Perwerde #"
+        },
+        "cert": {
+          "name": "Navê Sertîfîkayê / Perwerdehiyê",
+          "namePlaceholder": "Navê sertîfîkayê...",
+          "issuer": "Çapemend",
+          "issuerPlaceholder": "Saziya weşan...",
+          "issueDate": "Destpêk (Dîroka Weşandinê)",
+          "issueDatePlaceholder": "Dîroka weşanê hilbijêrin...",
+          "expiryDate": "Qediya (Dema Derbasdar)",
+          "expiryDatePlaceholder": "Dîroka qedandinê hilbijêrin...",
+          "noExpiry": "Dîroka vê sertîfîkayê tune ye",
+          "url": "URL-ya pêbaweriyê",
+          "uploadThumbnail": "Sertîfîka / Wêneyê Perwerdehiyê",
+          "uploadThumbnailLimit": "Wêneyê sertîfîkayê barkirin (JPG/PNG/WEBP, herî zêde 2 MB)",
+          "addCert": "Sertîfîkayê zêde bikin",
+          "certNum": "Sertîfîka #"
+        },
+        "contact": {
+          "contactNum": "Têkilî #",
+          "platform": "Rawesta axaftevan",
+          "displayText": "Nîşana Nivîsar",
+          "displayTextPlaceholder": "mînak, you@email.com an @username",
+          "url": "Girêdan (URL)",
+          "urlPlaceholderWhatsapp": "Mînak, 62812... (bêyî 0 sereke)",
+          "urlPlaceholderEmail": "mînak, you@email.com",
+          "urlPlaceholderWebsite": "mînak, https://...",
+          "urlPlaceholderDefault": "mînak, navê bikarhêner",
+          "addContact": "Têkilî lê zêde bike"
+        },
+        "common": {
+          "months": {
+            "1": "Rêbendan",
+            "2": "Reşemî",
+            "3": "Adar",
+            "4": "Avrêl",
+            "5": "Gulan",
+            "6": "Pûşper",
+            "7": "Tîrmeh",
+            "8": "Tebax",
+            "9": "Îlon",
+            "10": "Cotmeh",
+            "11": "Mijdar",
+            "12": "Berfanbar"
+          },
+          "month": "Meh",
+          "year": "Sal",
+          "invalidDate": "Meha Dawî ya Nederbasdar",
+          "words": "peyvên"
+        }
+      },
+      "sure": "Emîn",
+      "deletePhotoTitle": "Wêneya Profîlê jê bibe?",
+      "deletePhotoMessage": "Ma tu bi rastî dixwazî ​​vê wêneya profîlê jê bibî?",
+      "cancel": "Bişûndekirin",
+      "delete": "Jêbirin"
+    },
+    "cropper": {
+      "chooseBackground": "Paşnavê hilbijêrin",
+      "cropPhoto": "Wêneya xwe bibire",
+      "useOriginal": "Orjînal bikar bînin",
+      "backgroundPresets": "Pêşniyarên paşnavê",
+      "none": "Netû",
+      "uploadBackground": "Barkirin Paşnav",
+      "cancel": "Bişûndekirin",
+      "savePhoto": "Wêne tomar bike",
+      "zoom": "Zoom",
+      "rotationTilt": "Zivirandin & Tilt",
+      "resetRotation": "Vegere 0°",
+      "center": "Navîne",
+      "rotateLeft": "Bizivirîne -90°",
+      "rotateRight": "Bizivirîne +90°",
+      "removeBackground": "Paşnavê jêbirin",
+      "processing": "Wêneyê we tê xebitandin, ji kerema xwe li bendê bin..."
+    },
+    "cvPreview": {
+      "title": "Pêşdîtina CV",
+      "downloadCv": "CV dakêşin",
+      "download": "Download",
+      "wordCannotPreview": "Belgeyên Wordê (.doc/.docx) di gerokê de bi xwemalî nayên pêşdîtin. ",
+      "downloadFile": "Pelê CV dakêşin",
+      "back": "Paş",
+      "mobileMessage": "Ji kerema xwe pelê CV-ê dakêşin ku pêşdîtin bikin.",
+      "preview": "Pêşdîtina CV",
+      "wordPreviewTitle": "Pêşdîtina Belgeya Peyv",
+      "wordPreviewMessage": "Belgeyên Wordê (.doc/.docx) di gerokê de bi xwemalî nayên pêşdîtin. Ji kerema xwe pelê ji bo dîtina wê dakêşin."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Li ser xwe, berjewendî, û armancên kariyerê kurte ravekek binivîsin..."
+    },
+    "skills": {
+      "placeholder": "Navê jêhatîbûnê binivîse...",
+      "add": "Lêzêdekirin",
+      "enterToAdd": "Ji bo lê zêde bike Enter bitikîne",
+      "noSkills": "Hîn jêhatî nehat zêdekirin."
+    },
+    "projects": {
+      "projectName": "Navê Projeyê",
+      "projectNamePlaceholder": "wek mînak. ",
+      "projectUrl": "Projeya URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Demajok",
+      "startMonth": "Meha Destpêkê",
+      "startYear": "Sala Destpêkê",
+      "endMonth": "Meha Dawî",
+      "endYear": "Dawiya Salê",
+      "currentlyWorking": "Niha li ser vê yekê dixebitin",
+      "description": "Terîf",
+      "descriptionPlaceholder": "Proje, rola xwe û destkeftiyên xwe vebêjin...",
+      "technologies": "Teknolojiyên Bikaranîn",
+      "addProject": "Projeyê zêde bikin",
+      "image": "Wêne Projeyê",
+      "removeImage": "Wêne jêbirin",
+      "uploadImage": "Ji bo barkirina wêneyê bikirtînin"
+    },
+    "work": {
+      "company": "Şîrket / Sazîya",
+      "companyPlaceholder": "Navê şirket ...",
+      "role": "Rol / Position",
+      "rolePlaceholder": "Helwesta te...",
+      "jobType": "Tîpa Kar",
+      "selectJobType": "Cureyê hilbijêre",
+      "fullTime": "Dijwar lîstin",
+      "partTime": "Nîvdem",
+      "contract": "Peyman",
+      "internship": "Internship",
+      "freelance": "Freelance",
+      "location": "Cîh",
+      "locationPlaceholder": "wek mînak. ",
+      "duration": "Demajok",
+      "currentlyWorking": "Niha li vir dixebite",
+      "description": "Danasîna Kar",
+      "descriptionPlaceholder": "Berpirsiyarî û destkeftiyên xwe yên sereke vebêjin...",
+      "skills": "Skills Taybet",
+      "addExperience": "Tecrûbeya zêde bikin"
+    },
+    "org": {
+      "organization": "Navê Rêxistinê",
+      "organizationPlaceholder": "Navê rêxistinê...",
+      "role": "Rol / Position",
+      "rolePlaceholder": "wek mînak. ",
+      "duration": "Demajok",
+      "periodFormat": "an Forma Belaş (mînak 2020 - 2022)",
+      "periodPlaceholder": "wek mînak. ",
+      "currentlyActive": "Niha çalak e",
+      "description": "Danasîna Çalakiyê",
+      "descriptionPlaceholder": "Çalakî an beşdariyên xwe vebêjin...",
+      "addExperience": "Tecrûbeya zêde bikin"
+    },
+    "education": {
+      "institution": "Navê saziyê",
+      "institutionPlaceholder": "Navê dibistan an zanîngehê ...",
+      "degree": "Derec / Asta",
+      "degreePlaceholder": "wek mînak. ",
+      "major": "Major / Qada Lêkolînê",
+      "majorPlaceholder": "wek mînak. ",
+      "gpa": "GPA / Not",
+      "gpaPlaceholder": "wek mînak. ",
+      "duration": "Perwerde Duration",
+      "periodFormat": "an Forma Belaş (mînak 2018 - 2022)",
+      "periodPlaceholder": "wek mînak. ",
+      "currentlyStudying": "Niha li vir dixwîne",
+      "description": "Çalakî / Rûmet",
+      "descriptionPlaceholder": "Çalakiyên akademîk, rêxistin, an rûmetên ku hatine wergirtin vebêjin ...",
+      "addEducation": "Perwerdehiyê zêde bikin"
+    },
+    "cert": {
+      "name": "Navê Sertîfîkayê",
+      "namePlaceholder": "wek mînak. ",
+      "issuer": "Rêxistina Weşandinê",
+      "issuerPlaceholder": "wek mînak. ",
+      "issueDate": "Dîroka Issue",
+      "expiryDate": "Derbasdar Heta",
+      "noExpiry": "Ev pêbawerî naqede",
+      "yearPlaceholder": "an Sal (mînak. 2023)",
+      "credentialUrl": "URL-ya pêbaweriyê",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Related Skills",
+      "addCertification": "Sertîfîkayê zêde bikin",
+      "image": "Wêne/Logo",
+      "removeImage": "Wêne jêbirin",
+      "uploadImage": "Ji bo barkirina wêneyê bikirtînin"
+    },
+    "common": {
+      "months": {
+        "1": "Rêbendan",
+        "2": "Reşemî",
+        "3": "Adar",
+        "4": "Avrêl",
+        "5": "Gulan",
+        "6": "Pûşper",
+        "7": "Tîrmeh",
+        "8": "Tebax",
+        "9": "Îlon",
+        "10": "Cotmeh",
+        "11": "Mijdar",
+        "12": "Berfanbar"
+      },
+      "month": "Meh",
+      "year": "Sal",
+      "invalidDate": "Meha Dawî ya Nederbasdar",
+      "words": "peyvên"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Profîl û vebijarkên portfoliyoya xwe birêve bibin",
+    "tabs": {
+      "profile": "Profîla min",
+      "security": "Ewlekarî",
+      "personalization": "Personalization"
+    },
+    "profile": {
+      "infoTitle": "Agahiyên bingehîn",
+      "photo": "Wêne Profîl",
+      "uploadPhoto": "Wêne biguherînin",
+      "fullName": "Navê tam",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Navnîşana emailê",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-name ji bo têketinê tê bikar anîn û bi gelemperî nayê xuyang kirin.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Profile hilînin",
+      "save": "Profile hilînin",
+      "accountCreated": "Account Created",
+      "lastLogin": "Têketina Dawî",
+      "oauthNotice": "Ev profîl bi hesabê weya {{pêşkêş}} ve girêdayî ye. Guhertinên profîlê divê bi riya pêşkêşkarê karûbarê bêne çêkirin."
+    },
+    "security": {
+      "changePassword": "Şîfre biguherînin",
+      "currentPassword": "Şîfreya heyî",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Şîfreya Nû",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Şîfreya Nû piştrast bikin",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Bi kêmanî 8 tîp",
+        "uppercase": "Yek tîpek mezin (A-Z)",
+        "number": "Yek hejmar (0-9)",
+        "symbol": "Yek sembol (!@#$%^&*)"
+      },
+      "passwordTitle": "Şîfre",
+      "updatePassword": "Şîfreyê nûve bikin",
+      "additionalSecurity": "Ewlekariya Additional",
+      "twoFactor": "Nasnameya Du Faktorî (2FA)",
+      "twoFactorDesc": "Hesabê xwe bi karanîna kodek OTP-ê ya zêde ewle bikin.",
+      "activeSessions": "Rûniştinên Çalak",
+      "activeSessionsDesc": "Her gav destûrê bide çavdêriya amûrên têketinê.",
+      "publicVisibility": "Visibility Public",
+      "hideFromSearch": "Portfolio ji motorên lêgerînê veşêre",
+      "hideFromSearchDesc": "Pêşîlêgirtina Google-ê ji navnîşkirina rûpela portfoloya weya giştî bigire.",
+      "disable2fa": {
+        "title": "2FA neçalak bike",
+        "description": "Ma hûn pê ewle ne ku hûn dixwazin piştrastkirina du-faktorî vekin?",
+        "confirmPasswordLabel": "Ji bo piştrastkirinê şîfreya xwe binivîse",
+        "currentPasswordPlaceholder": "Şîfreya niha",
+        "cancelButton": "Betal bike",
+        "confirmButton": "2FA neçalak bike",
+        "incorrectPassword": "Şîfreya çewt."
+      },
+      "setup2fa": {
+        "step1Title": "1. Koda QR Scan",
+        "step1Desc": "Serlêdana xweya rastgir vekin û koda QR ya jêrîn bişopînin:",
+        "unableToScan": "Nikarin bişopînin? Bişkojka sazkirinê bikar bînin",
+        "step2Title": "2. Verify Code",
+        "step2Desc": "Koda 6-hejmarî ya ku ji hêla sepana we ve hatî çêkirin binivîse:",
+        "cancelButton": "Bişûndekirin",
+        "enableButton": "2FA çalak bike",
+        "invalidLength": "Ji kerema xwe kodek 6-reqemî binivîse.",
+        "invalidCode": "Koda verastkirinê nederbasdar e. Ji kerema xwe dîsa biceribîne."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kontrolên Ziman",
+      "appLanguage": "Ziman App",
+      "layoutTitle": "Layout & Tîpografiya",
+      "layoutStyle": "Layout Style",
+      "layoutModern": "Şêweya Nûjen (Destpêk)",
+      "layoutClassic": "Klasîk Style",
+      "layoutMinimalist": "Style Minimalist",
+      "fontSize": "Mezinahiya Curenivîsa App",
+      "fontSmall": "Biçûk",
+      "fontNormal": "Normal (Navîn)",
+      "fontLarge": "Mezin",
+      "searchLanguage": "Ziman bigerin...",
+      "languageNotFound": "Ziman nehat dîtin",
+      "layoutElegant": "Style Elegant"
+    },
+    "saveChanges": "Save Changes",
+    "cancel": "Bişûndekirin",
+    "appSettings": "Settings App",
+    "logoutConfirmTitle": "Derketinê piştrast bikin",
+    "logoutConfirmDesc": "Ma tu bi rastî dixwazî ​​ji pergalê derkevî?",
+    "logoutConfirmYes": "Erê, Derketin",
+    "generalError": "Çewtiyek derket. ",
+    "success": "Serketinî",
+    "preferencesSaved": "Vebijêrkên sepanê bi serkeftî hatin tomarkirin.",
+    "header": "Mîhengên Serlêdanê",
+    "logout": {
+      "title": "Pejirandina Derketinê",
+      "message": "Ma tu bi rastî dixwazî ​​ji pergalê derkevî?",
+      "confirm": "Erê, Derketin"
+    },
+    "about": {
+      "title": "Derbarê Serlêdanê",
+      "subtitle": "Platforma Avakera Portfolio",
+      "version": "Awa",
+      "description": "DevFolio platformek avakerê portfoliyoyek nûjen e ku ji bo pêşdebir, sêwiraner û afirînerên profesyonel hatî çêkirin. ",
+      "license": "License & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Hemû maf parastî ne.",
+      "developer": "Developer",
+      "developedBy": "Ji hêla Rifqi Naradata ve hatî pêşve xistin"
+    },
+    "deleteAccount": {
+      "title": "Bi Daîmî Hesabê Jê Bike",
+      "menuItem": "Hesabê jêbirin",
+      "successTitle": "Serkeftin",
+      "successMessage": "E-nameyek pejirandina jêbirina hesabê hat şandin.",
+      "errorTitle": "Biserneket",
+      "errorMessage": "E-nameya pejirandinê nehat şandin.",
+      "confirmationMessage": "Ma hûn guman dikin ku hûn dixwazin hesabê xwe herdem jêbirin?",
+      "warningMessage1": "Hûn ê e-nameyek bistînin ku jêbirina hesabê piştrast bikin.",
+      "warningMessage2": "Ger were pejirandin, hemî dane (portfolio, proje, statîstîk) dê bi domdarî werin jêbirin û nekarin werin vegerandin.",
+      "cancel": "Betal bike",
+      "confirm": "Tesdîq"
+    },
+    "toasts": {
+      "toastError": "Şaşî",
+      "toastSuccess": "Serketinî",
+      "toastSetup2FAFailed": "Sazkirina 2FA bi ser neket. Ji kerema xwe dîsa biceribîne.",
+      "toast2FAEnabled": "Nasnameya du-faktorî hate çalak kirin.",
+      "toast2FADisabled": "Nasnameya du-faktorî hate neçalak kirin.",
+      "toastSessionEnabled": "Çavdêriya danişînê ya çalak hate çalak kirin.",
+      "toastSessionDisabled": "Şopandina danişînê ya çalak hate asteng kirin.",
+      "toastSetupKeyCopied": "Bişkojka sazkirinê li clipboard hate kopî kirin."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "updateDate": "Nûvekirina Dawîn: 15 Tîrmeh, 2026",
+      "intro": "Ev Siyaseta Nepenîtiyê diyar dike ka DevFolio dema ku karûbarên me bikar tîne çawa agahdariya kesane ya we berhev dike, bikar tîne û diparêze.",
+      "section1Title": "1. Agahiyên ku em berhev dikin",
+      "section1Content": "Em agahdariya ku hûn rasterast didin dema ku hûn hesabek çêbikin, portfolio ava bikin û bi piştgiriya me re têkilî daynin berhev dikin. ",
+      "section2Title": "2. Bikaranîna Agahdariyê",
+      "section2Content": "Agahdariya we ji bo xebitandin, parastin û peydakirina taybetmendiyên karûbarên me, û her weha ji bo danûstandina bi we re di derbarê hesab an karûbarên we de tê bikar anîn.",
+      "section3Title": "3. Ewlekariya Daneyên",
+      "section3Content": "Em tedbîrên ewlehiyê yên maqûl pêk tînin da ku agahdariya we ji gihîştina bêdestûr, eşkerekirin, an hilweşandin biparêzin."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Nîşana piştrastkirinê nehat dîtin.",
+    "defaultError": "Hesab jêbirin bi ser neket. Dibe ku nîşanek qediyaye.",
+    "loadingTitle": "Hesabê jêbirin...",
+    "loadingMessage": "Ji kerema xwe li bendê bin, em daxwaza we dimeşînin.",
+    "successTitle": "Hesab bi serketî hat jêbirin",
+    "successMessage": "Hemî daneyên we bi domdarî hatine jêbirin. Hûn ê beralî bibin...",
+    "errorTitle": "Hesab jêbirin",
+    "backToHome": "Vegere Malê"
+  },
+  "forgotPassword": {
+    "minutes": "deqîqe",
+    "seconds": "çirk",
+    "success": "Serkeftin",
+    "otpSentToEmail": "Kodek OTP ji e-nameya we re hat şandin.",
+    "failed": "Biserneket",
+    "emailNotFound": "Email nehat dîtin.",
+    "emailThirdParty": "Ev e-name bi riya partiyek sêyemîn ve hatî tomar kirin.",
+    "genericError": "Çewtiyek heye. Ji kerema xwe dîsa biceribîne.",
+    "otpVerified": "Koda OTP bi serfirazî hate verast kirin.",
+    "otpExpired": "Koda OTP qediyaye. Ji kerema xwe kodek nû bixwaze.",
+    "otpInvalid": "Koda OTP nederbasdar e.",
+    "otpResent": "Kodek OTP ya nû ji e-nameya we re hat şandin.",
+    "otpResendFailed": "Koda OTP ji nû ve şandin. Ji kerema xwe dîsa biceribîne.",
+    "passwordResetSuccess": "Şîfre bi serketî vegere. Ji kerema xwe bi şîfreya xwe ya nû têkeve.",
+    "passwordResetFailed": "Vegerandina şîfreyê bi ser neket.",
+    "backToLogin": "Vegere Têketinê",
+    "back": "Vegere",
+    "title": "Şîfre ji bîr kir",
+    "description": "Navnîşana e-nameya ku li ser hesabê xwe qeydkirî binivîse. Em ê kodek OTP-ê bişînin da ku şîfreyê vegerînin.",
+    "emailLabel": "Navnîşana E-nameyê",
+    "sending": "Dişîne...",
+    "sendOtp": "Koda OTP bişîne",
+    "verifyOtpTitle": "Koda OTP piştrast bikin",
+    "verifyOtpDesc": "Koda 6 reqemî ya ku ji e-nameya we re hatî şandin binivîse ku nasnameya xwe piştrast bike.",
+    "verifying": "Verastkirin...",
+    "verifyOtp": "OTP piştrast bikin",
+    "resending": "Ji nû ve şandin...",
+    "resendOtp": "Koda OTP ji nû ve bişîne",
+    "resendCodeIn": "Kodê ji nû ve bişîne",
+    "newPasswordTitle": "Şîfreyek Nû Biafirîne",
+    "newPasswordDesc": "Ji bo ewlehiya hesabê xwe şîfreyek nû, bihêz biafirînin.",
+    "newPasswordLabel": "Şîfreya Nû",
+    "min8Chars": "Kêmtirîn 8 tîp",
+    "oneUpperCase": "1 tîpên mezin (A-Z)",
+    "oneNumber": "1 hejmar (0-9)",
+    "oneSymbol": "1 sembol (!@#$%^&*)",
+    "confirmPasswordLabel": "Şîfreyê piştrast bike",
+    "passwordsDoNotMatch": "Şîfre li hev nayên.",
+    "resettingPassword": "Vegerandina Şîfreyê...",
+    "resetPassword": "Şîfreyê Vegerîne"
+  },
+  "verifyEmail": {
+    "resendError": "E-nameya verastkirinê dîsa nehat şandin. Ji kerema xwe dîsa biceribîne.",
+    "checkingStatus": "Kontrolkirina rewşa verastkirinê...",
+    "title": "E-nameya xwe kontrol bikin",
+    "description": "Me e-nameyek verastkirinê ji navnîşana e-nameya we re şandiye. Ji kerema xwe e-nameyê vekin û bişkoja <1>\"Pêşdarkirin Hesabê\"</1> bikirtînin da ku hesabê xwe çalak bikin.",
+    "stepsTitle": "Gavên",
+    "step1": "Serlêdana e-nameya xwe (Gmail, Yahoo, hwd.) vekin",
+    "step2": "Li e-nameyek ji DevFolio bi mijara \"Çalakkirina Hesab\"",
+    "step3": "bigerin Bişkojka \"Perastkirina Hesabê\" di e-nameyê de bikirtînin",
+    "step4": "Hûn ê bibin rûpela têketinê ku têkevin",
+    "resendSuccess": "Emaila verastkirinê ji nû ve hat şandin!",
+    "resending": "Ji nû ve şandin...",
+    "resendButton": "E-nameya Verastkirinê ji nû ve bişîne",
+    "backToLogin": "Vegere Rûpelê Têketinê",
+    "footerNote": "E-name wernegirtiye? Peldanka <1>Spam</1> an <2>Junk</2> di e-nameya xwe de kontrol bikin. Girêdana verastkirinê <3>24 saetan</3> derbasdar e."
+  }
+}

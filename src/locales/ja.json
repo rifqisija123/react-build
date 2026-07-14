@@ -1,0 +1,762 @@
+{
+  "navbar": {
+    "features": "特徴",
+    "templates": "テンプレート",
+    "pricing": "価格設定",
+    "login": "ログイン",
+    "getStarted": "始めましょう",
+    "title": "開発フォリオ"
+  },
+  "landing": {
+    "badge": "開発者向けの究極のポートフォリオビルダー",
+    "title1": "プロフェッショナルを構築する",
+    "title2": "のポートフォリオ",
+    "titleHighlight": "秒。",
+    "subtitle": "あなたのスキル、プロジェクト、経験を披露するために必要なものがすべて揃っています。",
+    "startBuilding": "今すぐ構築を開始",
+    "viewTemplates": "テンプレートの表示",
+    "fastDeployment": "迅速な導入",
+    "liveStatus": "ユーザー名.dev はライブです!",
+    "featuresTitle": "強力な機能",
+    "featuresSubtitle": "私たちは、あなたが群衆の中で目立ち、夢の仕事を獲得するために必要なすべてのツールを提供します。",
+    "feature1Title": "ドラッグ＆ドロップビルダー",
+    "feature1Desc": "直感的なビジュアルエディターを使用して、セクション、プロジェクト、スキルを簡単に整理できます。",
+    "feature2Title": "カスタムテーマ",
+    "feature2Desc": "プロがデザインしたテンプレートから選択するか、独自のユニークな外観を作成します。",
+    "feature3Title": "リアルタイム分析",
+    "feature3Desc": "訪問者を追跡し、どのプロジェクトが最も注目を集めているかを確認します。"
+  },
+  "auth": {
+    "welcomeBack": "おかえり",
+    "loginToContinue": "続行するにはアカウントにログインしてください",
+    "createAccount": "アカウントを作成する",
+    "joinCommunity": "他の何千人もの開発者に加わりましょう",
+    "fullName": "フルネーム",
+    "fullNamePlaceholder": "例えば",
+    "email": "電子メールアドレス",
+    "emailPlaceholder": "you@example.com",
+    "password": "パスワード",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "私を覚えてますか",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "signIn": "サインイン",
+    "signingIn": "サインイン中...",
+    "signUp": "サインアップ",
+    "signingUp": "サインアップ中...",
+    "noAccount": "アカウントをお持ちでない場合は、",
+    "hasAccount": "すでにアカウントをお持ちですか?",
+    "passwordRules": {
+      "title": "パスワードには以下を含める必要があります:",
+      "length": "少なくとも 8 文字",
+      "uppercase": "大文字 1 文字 (A ～ Z)",
+      "number": "1 つの数字 (0 ～ 9)",
+      "symbol": "1 つの記号 (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "ポートフォリオビルダー",
+      "templates": "テンプレートとテーマ",
+      "settings": "設定",
+      "collapse": "サイドバーを折りたたむ",
+      "loadingPortfolio": "ポートフォリオデータを読み込んでいます...",
+      "overview": "概要",
+      "profileSettings": "プロファイル設定",
+      "customDomain": "カスタムドメイン",
+      "feedback": "フィードバック"
+    },
+    "header": {
+      "viewLive": "ライブを見る",
+      "welcome": "いらっしゃいませ、",
+      "logout": "ログアウト",
+      "builder": "ビルダー",
+      "livePortfolio": "ライブポートフォリオ",
+      "live": "ライブ"
+    },
+    "logoutModal": {
+      "title": "ログアウト",
+      "message": "アカウントからログアウトしてもよろしいですか?",
+      "cancel": "キャンセル",
+      "confirm": "はい、ログアウトします"
+    },
+    "slugModal": {
+      "title": "ポートフォリオの URL を選択してください",
+      "message": "この URL はポートフォリオへの一意のリンクになります。",
+      "slugPlaceholder": "あなたの名前",
+      "availability": "可用性：",
+      "available": "利用可能",
+      "unavailable": "利用不可",
+      "checking": "チェック中...",
+      "mustFormat": "文字、数字、ダッシュ (-) のみを含めることができます",
+      "cancel": "キャンセル",
+      "save": "URLを保存",
+      "usernameUrl": "ユーザー名 URL",
+      "helpText": "小文字、数字、ダッシュ。",
+      "validation": {
+        "empty": "スラグを空にすることはできません。",
+        "min3": "最低 3 文字。",
+        "max30": "最大 30 文字。",
+        "format": "小文字、数字、ダッシュ (-) のみ。"
+      }
+    },
+    "loadingPortfolio": "ポートフォリオ データを読み込み中...",
+    "overview": {
+      "greetings": {
+        "morning": "おはようございます",
+        "afternoon": "こんにちは",
+        "evening": "こんにちは",
+        "night": "おやすみ"
+      },
+      "welcome": {
+        "hi": "こんにちは。",
+        "creator": "クリエイター",
+        "desc1": "DevFolio ダッシュボードへようこそ。あなたのポートフォリオを閲覧した人",
+        "desc2": "人。働き続けてください！",
+        "editPortfolio": "ポートフォリオの編集"
+      },
+      "stats": {
+        "totalVisitors": "総来場者数",
+        "projectViews": "閲覧済み (プロジェクト)",
+        "activeSessions": "アクティブなセッション",
+        "totalLabel": "合計"
+      },
+      "setup": {
+        "title": "セットアップの進行状況",
+        "completed": "ポートフォリオが完成しました！ 🎉",
+        "inProgress": "完璧なポートフォリオへのステップ。",
+        "profile": {
+          "title": "完全なプロフィール",
+          "desc": "名前、プロフィール、プロフィール写真を追加します。"
+        },
+        "section": {
+          "title": "セクションの追加",
+          "desc": "ポートフォリオ内の少なくとも 1 つのセクションをアクティブ化します。"
+        },
+        "project": {
+          "title": "プロジェクトの追加",
+          "desc": "あなたの最高のプロジェクトを少なくとも 1 つ入力してください。"
+        },
+        "publish": {
+          "title": "ポートフォリオの公開",
+          "desc": "一般ユーザーがアクセスできるようにカスタム URL を設定します。"
+        }
+      },
+      "topProjects": {
+        "title": "最も人気のあるプロジェクト",
+        "desc": "訪問者の目に映るあなたの作品のパフォーマンス。",
+        "viewAll": "すべて見る",
+        "empty": "プロジェクトのビュー データはまだありません。"
+      }
+    },
+    "themes": {
+      "title": "テンプレートとテーマ",
+      "subtitle": "公開ポートフォリオの外観と雰囲気をカスタマイズします。",
+      "reset": "デフォルトにリセット",
+      "save": "変更を保存",
+      "saving": "保存中...",
+      "chooseTemplate": "テンプレートを選択してください",
+      "primaryColor": "原色",
+      "typography": "タイポグラフィ",
+      "appearance": "外観",
+      "corners": "コーナーとボーダー",
+      "successTitle": "成功",
+      "successMessage": "テーマ設定が正常に更新されました",
+      "errorTitle": "エラー",
+      "errorMessage": "テーマ設定の保存に失敗しました",
+      "templates": {
+        "minimalist": {
+          "name": "ミニマリスト",
+          "desc": "コンテンツを重視したクリーンでシンプルなデザイン。"
+        },
+        "developerDark": {
+          "name": "デベロッパーダーク",
+          "desc": "コードや技術スタックを紹介するのに最適なダークテーマ。"
+        },
+        "creative": {
+          "name": "クリエイティブ",
+          "desc": "デザイナーやクリエイティブ向けの活気に満ちたカラフルなレイアウト。"
+        },
+        "executive": {
+          "name": "エグゼクティブ",
+          "desc": "ビジネスプロフェッショナル向けのプロフェッショナルでフォーマルなレイアウト。"
+        },
+        "bentoGrid": {
+          "name": "お弁当グリッド",
+          "desc": "さまざまなスキルを効率的に強調する最新の Apple スタイルのグリッド レイアウト。"
+        },
+        "neoBrutalism": {
+          "name": "ネオブルータリズム",
+          "desc": "大胆なボーダーとハイコントラストのカラーが、トレンディで気取らない雰囲気を演出します。"
+        },
+        "glassmorphism": {
+          "name": "ガラスモーフィズム",
+          "desc": "洗練されたモダンな UI のためのカラフルなグラデーション上の曇りガラス効果。"
+        },
+        "linkInBio": {
+          "name": "略歴内のリンク",
+          "desc": "モバイル画面やソーシャルメディアに最適化されたコンパクトな縦型レイアウト。"
+        }
+      },
+      "appearances": {
+        "light": "ライト",
+        "dark": "暗い",
+        "system": "システム"
+      },
+      "cornersOptions": {
+        "sharp": "シャープ",
+        "rounded": "丸い",
+        "pill": "ピル"
+      }
+    },
+    "feedback": {
+      "title": "フィードバックを送信する",
+      "subtitle": "このアプリケーションに関する提案、批判、またはバグの報告を提供して、アプリケーションの改善にご協力ください。",
+      "categoryLabel": "フィードバックのカテゴリ",
+      "messageLabel": "注文の詳細",
+      "messagePlaceholder": "伝えたいフィードバックについて詳しく教えてください...",
+      "imageLabel": "画像添付（オプション）",
+      "imagePlaceholder": "クリックして画像またはスクリーンショットをアップロードします",
+      "submitting": "送信...",
+      "submitBtn": "フィードバックを送信する",
+      "categories": {
+        "suggestion": "提案とアイデア",
+        "bug": "バグ/エラーレポート",
+        "criticism": "批判",
+        "other": "他の"
+      },
+      "imageErrorTitle": "エラー",
+      "imageErrorMessage": "一部のファイルはサポートされていない画像形式 (JPG、PNG、GIF、WEBP) であるため拒否されます。",
+      "successTitle": "成功",
+      "successMessage": "フィードバックをいただきありがとうございます。レポートが送信されました。",
+      "submitErrorTitle": "失敗",
+      "submitErrorMessage": "フィードバックの送信中にエラーが発生しました。もう一度試してください。"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "私について",
+      "skills": "スキル",
+      "projects": "プロジェクト",
+      "workExperience": "実務経験",
+      "orgExperience": "組織的な経験",
+      "education": "教育",
+      "certifications": "トレーニングと認定資格",
+      "contact": "連絡してください"
+    },
+    "editor": {
+      "profileInfo": "プロフィール情報",
+      "saving": "保存中...",
+      "profilePhoto": "プロフィール写真",
+      "clickToUpload": "クリックしてアップロード (JPG、PNG)",
+      "fullName": "フルネーム",
+      "fullNamePlaceholder": "例えば",
+      "bio": "バイオ",
+      "bioPlaceholder": "最新の Web アプリの構築に情熱を注ぐフルスタック開発者...",
+      "location": "位置",
+      "locationPlaceholder": "例えば",
+      "gender": "性別",
+      "selectGender": "性別を選択してください",
+      "male": "男",
+      "female": "女性",
+      "custom": "カスタム",
+      "customPlaceholder": "カスタムの性別を入力してください...",
+      "uploadCv": "履歴書のアップロード",
+      "cvFormat": "(ドキュメントまたは PDF)",
+      "preview": "プレビュー",
+      "remove": "取り除く",
+      "clickToUploadCv": "クリックして PDF または DOC をアップロードします",
+      "sections": "セクション",
+      "removeSelected": "選択したものを削除",
+      "confirmRemove": "削除の確認",
+      "addSection": "セクションの追加",
+      "addAllSections": "すべてのセクションを追加",
+      "noSections": "まだセクションがありません",
+      "clickToAdd": "「+ セクションを追加」をクリックして開始します",
+      "selectAll": "すべて選択",
+      "selected": "選択済み",
+      "dragToReorder": "ドラッグしてセクションを並べ替えます",
+      "livePreview": "ライブプレビュー",
+      "addSectionsToBuild": "セクションを追加してポートフォリオを構築する",
+      "now": "今",
+      "current": "現在",
+      "noExpiry": "有効期限なし",
+      "see": "見る",
+      "position": "位置",
+      "degree": "程度",
+      "certification": "認証",
+      "sectionsForm": {
+        "about": {
+          "label": "自己紹介",
+          "placeholder": "あなた自身、あなたの経歴、興味、スキルについて教えてください..."
+        },
+        "skills": {
+          "addPlaceholder": "「スキル」と入力して Enter キーを押します..."
+        },
+        "projects": {
+          "title": "プロジェクト名",
+          "titlePlaceholder": "プロジェクト名...",
+          "url": "プロジェクトURL",
+          "description": "説明",
+          "descriptionPlaceholder": "プロジェクトの簡単な説明...",
+          "uploadThumbnail": "プロジェクトイメージ",
+          "addProject": "プロジェクトの追加",
+          "projectNum": "プロジェクト ＃",
+          "currentProject": "これは私が取り組んでいるプロジェクトです"
+        },
+        "work": {
+          "company": "会社/代理店",
+          "companyPlaceholder": "会社名...",
+          "position": "役職・役職",
+          "positionPlaceholder": "あなたの立場は...",
+          "employmentType": "仕事の種類",
+          "location": "位置",
+          "locationPlaceholder": "都市、田舎...",
+          "startDate": "始める",
+          "endDate": "終了した",
+          "currentWork": "現在も仕事を続けています",
+          "description": "説明",
+          "descriptionPlaceholder": "仕事内容と責任...",
+          "skills": "スキル",
+          "addExperience": "職歴を追加する",
+          "experienceNum": "経験 ＃",
+          "dateError": "終了日を開始日より前にすることはできません"
+        },
+        "org": {
+          "organization": "組織名",
+          "orgPlaceholder": "BEM大学...",
+          "role": "役割・役職",
+          "rolePlaceholder": "部長…",
+          "addOrg": "組織の経験を追加する",
+          "orgNum": "組織 ＃"
+        },
+        "edu": {
+          "institution": "教育機関",
+          "institutionPlaceholder": "キャンパス名や学校名...",
+          "degree": "タイトル",
+          "degreePlaceholder": "S1、高校など…",
+          "major": "学科・分野",
+          "majorPlaceholder": "情報工学...",
+          "gpa": "GPA (オプション)",
+          "currentStudy": "私はまだここで学んでいます",
+          "descriptionPlaceholder": "在学中の活動や成果など・・・",
+          "addEdu": "教育を追加する",
+          "eduNum": "教育 ＃"
+        },
+        "cert": {
+          "name": "認定資格/トレーニングの名前",
+          "namePlaceholder": "認定名...",
+          "issuer": "出版社",
+          "issuerPlaceholder": "出版機関...",
+          "issueDate": "開始 (発行日)",
+          "issueDatePlaceholder": "発行日を選択してください...",
+          "expiryDate": "完了（有効期間）",
+          "expiryDatePlaceholder": "有効期限を選択してください...",
+          "noExpiry": "この証明書には有効期限がありません",
+          "url": "認証情報の URL",
+          "uploadThumbnail": "証明書/トレーニング画像",
+          "uploadThumbnailLimit": "証明書画像のアップロード (JPG/PNG/WEBP、最大 2MB)",
+          "addCert": "認定の追加",
+          "certNum": "認証 ＃"
+        },
+        "contact": {
+          "contactNum": "接触 ＃",
+          "platform": "プラットフォーム",
+          "displayText": "表示テキスト",
+          "displayTextPlaceholder": "例: you@email.com または @ユーザー名",
+          "url": "リンク（URL）",
+          "urlPlaceholderWhatsapp": "例: 62812... (先頭の 0 なし)",
+          "urlPlaceholderEmail": "例: you@email.com",
+          "urlPlaceholderWebsite": "例: https://...",
+          "urlPlaceholderDefault": "例: ユーザー名",
+          "addContact": "連絡先を追加"
+        },
+        "common": {
+          "months": {
+            "1": "1月",
+            "2": "2月",
+            "3": "行進",
+            "4": "4月",
+            "5": "5月",
+            "6": "6月",
+            "7": "7月",
+            "8": "8月",
+            "9": "9月",
+            "10": "10月",
+            "11": "11月",
+            "12": "12月"
+          },
+          "month": "月",
+          "year": "年",
+          "invalidDate": "無効な終了月です",
+          "words": "言葉"
+        }
+      },
+      "sure": "もちろん",
+      "deletePhotoTitle": "プロフィール写真を削除しますか?",
+      "deletePhotoMessage": "このプロフィール写真を削除してもよろしいですか?",
+      "cancel": "キャンセル",
+      "delete": "消去"
+    },
+    "cropper": {
+      "chooseBackground": "背景の選択",
+      "cropPhoto": "写真をトリミングする",
+      "useOriginal": "オリジナルを使用",
+      "backgroundPresets": "背景のプリセット",
+      "none": "なし",
+      "uploadBackground": "背景をアップロードする",
+      "cancel": "キャンセル",
+      "savePhoto": "写真を保存",
+      "zoom": "ズーム",
+      "rotationTilt": "回転と傾き",
+      "resetRotation": "0°にリセット",
+      "center": "中心",
+      "rotateLeft": "-90°回転",
+      "rotateRight": "+90°回転",
+      "removeBackground": "背景を削除する",
+      "processing": "画像を処理しています。お待ちください..."
+    },
+    "cvPreview": {
+      "title": "履歴書のプレビュー",
+      "downloadCv": "履歴書をダウンロード",
+      "download": "ダウンロード",
+      "wordCannotPreview": "Word 文書 (.doc/.docx) はブラウザーでネイティブにプレビューできません。",
+      "downloadFile": "履歴書ファイルをダウンロード",
+      "back": "戻る",
+      "mobileMessage": "CV ファイルをダウンロードしてプレビューしてください。",
+      "preview": "履歴書のプレビュー",
+      "wordPreviewTitle": "Word文書のプレビュー",
+      "wordPreviewMessage": "Word 文書 (.doc/.docx) はブラウザーでネイティブにプレビューできません。ファイルをダウンロードしてご覧ください。"
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "あなた自身、興味、キャリアの目標について簡単に説明してください..."
+    },
+    "skills": {
+      "placeholder": "スキル名を入力...",
+      "add": "追加",
+      "enterToAdd": "Enterを押して追加します",
+      "noSkills": "まだスキルは追加されていません。"
+    },
+    "projects": {
+      "projectName": "プロジェクト名",
+      "projectNamePlaceholder": "例えば",
+      "projectUrl": "プロジェクトURL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "間隔",
+      "startMonth": "開始月",
+      "startYear": "開始年",
+      "endMonth": "終了月",
+      "endYear": "年末",
+      "currentlyWorking": "現在これに取り組んでいます",
+      "description": "説明",
+      "descriptionPlaceholder": "プロジェクト、あなたの役割、成果について説明してください...",
+      "technologies": "使用されている技術",
+      "addProject": "プロジェクトの追加",
+      "image": "プロジェクトイメージ",
+      "removeImage": "画像の削除",
+      "uploadImage": "クリックして画像をアップロード"
+    },
+    "work": {
+      "company": "企業・団体",
+      "companyPlaceholder": "会社名...",
+      "role": "役割・役職",
+      "rolePlaceholder": "あなたの立場は...",
+      "jobType": "職種",
+      "selectJobType": "タイプを選択してください",
+      "fullTime": "フルタイム",
+      "partTime": "パートタイム",
+      "contract": "契約",
+      "internship": "インターンシップ",
+      "freelance": "フリーランス",
+      "location": "位置",
+      "locationPlaceholder": "例えば",
+      "duration": "間隔",
+      "currentlyWorking": "現在ここで働いています",
+      "description": "仕事内容",
+      "descriptionPlaceholder": "あなたの主な責任と業績について説明してください...",
+      "skills": "特定のスキル",
+      "addExperience": "経験の追加"
+    },
+    "org": {
+      "organization": "組織名",
+      "organizationPlaceholder": "組織名...",
+      "role": "役割・役職",
+      "rolePlaceholder": "例えば",
+      "duration": "間隔",
+      "periodFormat": "または自由形式 (例: 2020 - 2022)",
+      "periodPlaceholder": "例えば",
+      "currentlyActive": "現在活動中",
+      "description": "活動の説明",
+      "descriptionPlaceholder": "あなたの活動や貢献について説明してください...",
+      "addExperience": "経験の追加"
+    },
+    "education": {
+      "institution": "機関名",
+      "institutionPlaceholder": "学校名や大学名...",
+      "degree": "学位・レベル",
+      "degreePlaceholder": "例えば",
+      "major": "専攻・研究分野",
+      "majorPlaceholder": "例えば",
+      "gpa": "GPA / 成績",
+      "gpaPlaceholder": "例えば",
+      "duration": "教育期間",
+      "periodFormat": "または自由形式 (例: 2018 - 2022)",
+      "periodPlaceholder": "例えば",
+      "currentlyStudying": "現在ここで勉強中",
+      "description": "活動 / 栄誉",
+      "descriptionPlaceholder": "学術活動、組織、または受賞した栄誉について説明してください...",
+      "addEducation": "教育を追加する"
+    },
+    "cert": {
+      "name": "認証名",
+      "namePlaceholder": "例えば",
+      "issuer": "発行組織",
+      "issuerPlaceholder": "例えば",
+      "issueDate": "発行日",
+      "expiryDate": "有効期限",
+      "noExpiry": "この資格情報には有効期限がありません",
+      "yearPlaceholder": "または年 (例: 2023)",
+      "credentialUrl": "認証情報の URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "関連スキル",
+      "addCertification": "認定の追加",
+      "image": "画像・ロゴ",
+      "removeImage": "画像の削除",
+      "uploadImage": "クリックして画像をアップロード"
+    },
+    "common": {
+      "months": {
+        "1": "1月",
+        "2": "2月",
+        "3": "行進",
+        "4": "4月",
+        "5": "5月",
+        "6": "6月",
+        "7": "7月",
+        "8": "8月",
+        "9": "9月",
+        "10": "10月",
+        "11": "11月",
+        "12": "12月"
+      },
+      "month": "月",
+      "year": "年",
+      "invalidDate": "無効な終了月です",
+      "words": "言葉"
+    }
+  },
+  "settings": {
+    "title": "設定",
+    "subtitle": "ポートフォリオのプロファイルと設定を管理する",
+    "tabs": {
+      "profile": "私のプロフィール",
+      "security": "安全",
+      "personalization": "パーソナライゼーション"
+    },
+    "profile": {
+      "infoTitle": "基本情報",
+      "photo": "プロフィール写真",
+      "uploadPhoto": "写真を変更する",
+      "fullName": "フルネーム",
+      "fullNamePlaceholder": "ジョン・ドゥ",
+      "email": "電子メールアドレス",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "ログインには電子メールが使用され、公開されることはありません。",
+      "portfolioUrl": "ポートフォリオのURL",
+      "saveProfile": "プロファイルの保存",
+      "save": "プロファイルの保存",
+      "accountCreated": "アカウントが作成されました",
+      "lastLogin": "最終ログイン",
+      "oauthNotice": "このプロフィールはあなたの {{provider}} アカウントに接続されています。プロファイルの変更はサービスプロバイダーを通じて行う必要があります。"
+    },
+    "security": {
+      "changePassword": "パスワードを変更する",
+      "currentPassword": "現在のパスワード",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "新しいパスワード",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "新しいパスワードを確認する",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "少なくとも 8 文字",
+        "uppercase": "大文字 1 文字 (A ～ Z)",
+        "number": "1 つの数字 (0 ～ 9)",
+        "symbol": "1 つの記号 (!@#$%^&*)"
+      },
+      "passwordTitle": "パスワード",
+      "updatePassword": "パスワードを更新する",
+      "additionalSecurity": "追加のセキュリティ",
+      "twoFactor": "二要素認証 (2FA)",
+      "twoFactorDesc": "追加の OTP コードを使用してアカウントを保護します。",
+      "activeSessions": "アクティブなセッション",
+      "activeSessionsDesc": "ログインしたデバイスの監視を常に許可します。",
+      "publicVisibility": "一般公開",
+      "hideFromSearch": "検索エンジンからポートフォリオを非表示にする",
+      "hideFromSearchDesc": "Google が公開ポートフォリオ ページのインデックスを作成しないようにします。",
+      "disable2fa": {
+        "title": "2FA を無効にする",
+        "description": "二要素認証をオフにしてもよろしいですか?",
+        "confirmPasswordLabel": "確認のためにパスワードを入力してください",
+        "currentPasswordPlaceholder": "現在のパスワード",
+        "cancelButton": "キャンセル",
+        "confirmButton": "2FA を無効にする",
+        "incorrectPassword": "パスワードが間違っています。"
+      },
+      "setup2fa": {
+        "step1Title": "1. QRコードをスキャンします",
+        "step1Desc": "認証アプリを開き、次の QR コードをスキャンします。",
+        "unableToScan": "スキャンできませんか?セットアップキーを使用する",
+        "step2Title": "2. コードの検証",
+        "step2Desc": "アプリによって生成された 6 桁のコードを入力します。",
+        "cancelButton": "キャンセル",
+        "enableButton": "2FA を有効にする",
+        "invalidLength": "6桁のコードを入力してください。",
+        "invalidCode": "無効な確認コードです。もう一度試してください。"
+      }
+    },
+    "personalization": {
+      "languageTitle": "言語コントロール",
+      "appLanguage": "アプリの言語",
+      "layoutTitle": "レイアウトとタイポグラフィー",
+      "layoutStyle": "レイアウトスタイル",
+      "layoutModern": "モダンスタイル (デフォルト)",
+      "layoutClassic": "クラシックなスタイル",
+      "layoutMinimalist": "ミニマリストスタイル",
+      "fontSize": "アプリのフォントサイズ",
+      "fontSmall": "小さい",
+      "fontNormal": "ノーマル(中)",
+      "fontLarge": "大きい",
+      "searchLanguage": "言語を検索...",
+      "languageNotFound": "言語が見つかりません",
+      "layoutElegant": "エレガントなスタイル"
+    },
+    "saveChanges": "変更を保存",
+    "cancel": "キャンセル",
+    "appSettings": "アプリの設定",
+    "logoutConfirmTitle": "ログアウトの確認",
+    "logoutConfirmDesc": "システムからログアウトしてもよろしいですか?",
+    "logoutConfirmYes": "はい、ログアウトします",
+    "generalError": "エラーが発生しました。",
+    "success": "成功",
+    "preferencesSaved": "アプリの設定が正常に保存されました。",
+    "header": "アプリケーション設定",
+    "logout": {
+      "title": "ログアウトの確認",
+      "message": "システムからログアウトしてもよろしいですか?",
+      "confirm": "はい、ログアウトします"
+    },
+    "about": {
+      "title": "申込みについて",
+      "subtitle": "ポートフォリオビルダープラットフォーム",
+      "version": "バージョン",
+      "description": "DevFolio は、開発者、デザイナー、プロのクリエイター向けに設計された最新のポートフォリオ ビルダー プラットフォームです。 ",
+      "license": "ライセンスと著作権",
+      "copyright": "© 2026 DevFolio Inc. 無断複写・転載を禁じます。",
+      "developer": "開発者",
+      "developedBy": "リフキ・ナラデータによって開発されました"
+    },
+    "deleteAccount": {
+      "title": "アカウントを完全に削除",
+      "menuItem": "アカウントの削除",
+      "successTitle": "成功",
+      "successMessage": "アカウント削除確認メールを送信しました。",
+      "errorTitle": "失敗",
+      "errorMessage": "確認メールの送信に失敗しました。",
+      "confirmationMessage": "アカウントを完全に削除してもよろしいですか?",
+      "warningMessage1": "アカウントの削除を確認する電子メールが届きます。",
+      "warningMessage2": "確認すると、すべてのデータ (ポートフォリオ、プロジェクト、統計) が完全に削除され、復元できなくなります。",
+      "cancel": "キャンセル",
+      "confirm": "確認"
+    },
+    "toasts": {
+      "toastError": "エラー",
+      "toastSuccess": "成功",
+      "toastSetup2FAFailed": "2FA のセットアップに失敗しました。もう一度試してください。",
+      "toast2FAEnabled": "二要素認証が有効になりました。",
+      "toast2FADisabled": "二要素認証が無効になっています。",
+      "toastSessionEnabled": "アクティブセッション監視が有効になりました。",
+      "toastSessionDisabled": "アクティブセッションの監視が無効になっています。",
+      "toastSetupKeyCopied": "セットアップ キーがクリップボードにコピーされました。"
+    },
+    "privacy": {
+      "title": "プライバシーポリシー",
+      "updateDate": "最終更新日: 2026 年 7 月 15 日",
+      "intro": "このプライバシー ポリシーでは、DevFolio がサービスを使用する際にお客様の個人情報をどのように収集、使用、保護するかについて説明します。",
+      "section1Title": "1. 当社が収集する情報",
+      "section1Content": "当社は、アカウントの作成時、ポートフォリオの構築時、サポートへの連絡時にお客様が直接提供した情報を収集します。",
+      "section2Title": "2. 情報の利用",
+      "section2Content": "お客様の情報は、当社サービスの機能を運営、維持、提供するため、またお客様のアカウントまたはサービスに関してお客様と通信するために使用されます。",
+      "section3Title": "3. データセキュリティ",
+      "section3Content": "当社は、お客様の情報を不正なアクセス、開示、または破壊から保護するために合理的なセキュリティ対策を実施しています。"
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "確認トークンが見つかりません。",
+    "defaultError": "アカウントの削除に失敗しました。トークンの有効期限が切れている可能性があります。",
+    "loadingTitle": "アカウントを削除しています...",
+    "loadingMessage": "お待ちください。リクエストを処理中です。",
+    "successTitle": "アカウントは正常に削除されました",
+    "successMessage": "すべてのデータは完全に削除されました。リダイレクトされます...",
+    "errorTitle": "アカウントの削除に失敗しました",
+    "backToHome": "ホームに戻る"
+  },
+  "forgotPassword": {
+    "minutes": "分",
+    "seconds": "2番",
+    "success": "成功する",
+    "otpSentToEmail": "OTP コードがメールに送信されました。",
+    "failed": "失敗",
+    "emailNotFound": "電子メールが見つかりません。",
+    "emailThirdParty": "この電子メールはサードパーティを通じて登録されています。",
+    "genericError": "エラーがあります。もう一度試してください。",
+    "otpVerified": "OTP コードは正常に検証されました。",
+    "otpExpired": "OTP コードの有効期限が切れています。新しいコードをリクエストしてください。",
+    "otpInvalid": "無効な OTP コードです。",
+    "otpResent": "新しい OTP コードがメールに送信されました。",
+    "otpResendFailed": "OTP コードの再送信に失敗しました。もう一度試してください。",
+    "passwordResetSuccess": "パスワードが正常にリセットされました。新しいパスワードでログインしてください。",
+    "passwordResetFailed": "パスワードのリセットに失敗しました。",
+    "backToLogin": "ログインに戻る",
+    "back": "戻る",
+    "title": "パスワードを忘れた場合",
+    "description": "アカウントに登録されているメールアドレスを入力します。パスワードをリセットするための OTP コードを送信します。",
+    "emailLabel": "電子メールアドレス",
+    "sending": "送信...",
+    "sendOtp": "OTP コードを送信する",
+    "verifyOtpTitle": "OTPコードの検証",
+    "verifyOtpDesc": "本人確認のため、電子メールに送信された 6 桁のコードを入力してください。",
+    "verifying": "確認中...",
+    "verifyOtp": "OTP 検証",
+    "resending": "再送信...",
+    "resendOtp": "OTPコードを再送信する",
+    "resendCodeIn": "内部コードを再送信する",
+    "newPasswordTitle": "新しいパスワードを作成する",
+    "newPasswordDesc": "アカウントを保護するために、新しい強力なパスワードを作成します。",
+    "newPasswordLabel": "新しいパスワード",
+    "min8Chars": "最低 8 文字",
+    "oneUpperCase": "大文字 1 文字 (A ～ Z)",
+    "oneNumber": "1 つの数字 (0 ～ 9)",
+    "oneSymbol": "1 つの記号 (!@#$%^&*)",
+    "confirmPasswordLabel": "パスワードを認証する",
+    "passwordsDoNotMatch": "パスワードが一致しません。",
+    "resettingPassword": "パスワードをリセットしています...",
+    "resetPassword": "パスワードのリセット"
+  },
+  "verifyEmail": {
+    "resendError": "確認メールの再送信に失敗しました。もう一度試してください。",
+    "checkingStatus": "検証ステータスを確認しています...",
+    "title": "メールを確認してください",
+    "description": "あなたのメールアドレスに確認メールを送信しました。メールを開き、<1>[アカウントを確認]</1> ボタンをクリックしてアカウントを有効にしてください。",
+    "stepsTitle": "ステップ",
+    "step1": "電子メール アプリケーション (Gmail、Yahoo など) を開きます。",
+    "step2": "DevFolio からの「アカウントのアクティベーション」という件名のメールを探します。",
+    "step3": "メール内の「アカウントを確認する」ボタンをクリックします",
+    "step4": "ログインページにリダイレクトされ、ログインします。",
+    "resendSuccess": "確認メールが再送信されました。",
+    "resending": "再送信...",
+    "resendButton": "確認メールを再送信する",
+    "backToLogin": "ログインページに戻る",
+    "footerNote": "メールを受信しませんでしたか?電子メール内の <1>スパム</1> または <2>ジャンク</2> フォルダを確認してください。確認リンクは<3>24 時間</3>有効です。"
+  }
+}

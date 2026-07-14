@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "መለለይታት",
+    "templates": "ቅጥዕታት",
+    "pricing": "ዋጋ ምውሳን",
+    "login": "መእተዊ",
+    "getStarted": "ጀምር",
+    "title": "ደቭፎሊዮ"
+  },
+  "landing": {
+    "badge": "ንደቨሎፐራት ናይ መወዳእታ ሃናጺ ፖርትፎሊዮ",
+    "title1": "ሞያኻ ሃነጽ",
+    "title2": "ፖርትፎሊዮ ኣብ...",
+    "titleHighlight": "ካልኢት።",
+    "subtitle": "ክእለትካን ፕሮጀክትካን ተመኩሮኻን ንምርኣይ ዘድልየካ ኩሉ። ",
+    "startBuilding": "ሕጂ ህንጸት ጀምር",
+    "viewTemplates": "ቅጥዕታት ርአ",
+    "fastDeployment": "ቅልጡፍ ምውፋር",
+    "liveStatus": "username.dev ብቐጥታ ኣሎ!",
+    "featuresTitle": "Powerful Features",
+    "featuresSubtitle": "ካብቲ ህዝቢ ክትፍለዩን ናይ ሕልሚ ስራሕኩም ክትዓልቡን ዘድልዩኹም ኩሎም መሳርሒታት ነቕርብ።",
+    "feature1Title": "ስሕበትን ምውራድን ሃናጺ",
+    "feature1Desc": "ብቐሊሉ ክፍልታትኩም፡ ፕሮጀክትታትኩምን ክእለትኩምን በቲ ንጹር ዝኾነ ስእላዊ ኣርታዒና ውደቡ።",
+    "feature2Title": "ብሕታዊ ቴማታት",
+    "feature2Desc": "ካብ ብሞያ ዝተነድፉ ቅጥዕታት ምረጽ ወይ ድማ ናይ ገዛእ ርእስኻ ፍሉይ መልክዕ ፍጠር።",
+    "feature3Title": "ኣብ ሓቀኛ ግዜ ትንታነታት",
+    "feature3Desc": "በጻሕትኻ ተኸታተል፣ ኣየኖት ፕሮጀክትታት ዝያዳ ኣቓልቦ ከም ዝረኽቡን ካልእን ርአ።"
+  },
+  "auth": {
+    "welcomeBack": "እንቋዕ ብደሓን መጻእኩም",
+    "loginToContinue": "ንምቕጻል ናብ ኣካውንትካ እቶ",
+    "createAccount": "ኣካውንት ምፍጣር",
+    "joinCommunity": "ምስ ካልኦት ኣሽሓት ዲቨሎፐራት ተጸንበሩ",
+    "fullName": "ምሉእ ስም",
+    "fullNamePlaceholder": "ንኣብነት። ",
+    "email": "ናይ ኢመይል ኣድራሻ",
+    "emailPlaceholder": "you@example.com ዝብል ጽሑፍ ኣሎ።",
+    "password": "መሕለፊ ቓል",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "ዘክሩኒ።",
+    "forgotPassword": "ፓስዎርድ ረሲዕካ?",
+    "signIn": "Sign In",
+    "signingIn": "ምእታው ምእታው...",
+    "signUp": "ተመዝገብ",
+    "signingUp": "ምዝገባ...",
+    "noAccount": "ኣካውንት የብልካን?",
+    "hasAccount": "ድሮ ኣካውንት ኣለካ ድዩ?",
+    "passwordRules": {
+      "title": "ፓስዎርድ ክሕዝ ኣለዎ፤",
+      "length": "እንተወሓደ 8 ፊደላት",
+      "uppercase": "ሓደ ዓቢ ፊደል (A-Z)",
+      "number": "ሓደ ቁጽሪ (0-9)",
+      "symbol": "ሓደ ምልክት (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "ፖርትፎሊዮ ሃናጺ",
+      "templates": "ቅጥዕታትን ቴማታትን",
+      "settings": "ቅጥዕታት",
+      "collapse": "ምፍራስ ጎድናዊ መስመር",
+      "overview": "ሓፈሻዊ ትሕዝቶ",
+      "profileSettings": "ቅጥዕታት ፕሮፋይል",
+      "customDomain": "ብሕታዊ ዓውዲ",
+      "feedback": "ርእይቶ"
+    },
+    "header": {
+      "viewLive": "Live ርአ",
+      "welcome": "እንኳዕ ደሓን መፁ፣",
+      "logout": "ኣውት ኣውት",
+      "builder": "ሃናጺ",
+      "livePortfolio": "ቀጥታዊ ፖርትፎሊዮ",
+      "live": "ንበር"
+    },
+    "logoutModal": {
+      "title": "ኣውት ኣውት",
+      "message": "ካብ ኣካውንትካ ክትወጽእ ከም እትደሊ ርግጸኛ ዲኻ? ",
+      "cancel": "ሰርዝ",
+      "confirm": "እወ ሎውኣውት።"
+    },
+    "slugModal": {
+      "title": "ናትካ ፖርትፎሊዮ URL ምረጽ",
+      "message": "እዚ URL እዚ ፍሉይ መላግቦ ናብ ፖርትፎሊዮኻ ክኸውን እዩ። ",
+      "slugPlaceholder": "ናትካ-ስም",
+      "availability": "ምህላው፤",
+      "available": "ቅሩብ",
+      "unavailable": "ዘይርከብ",
+      "checking": "ምፍታሽ...",
+      "mustFormat": "ፊደላት፣ ቁጽርታትን ስርዝ ድልዝን ጥራይ ክሕዝ ይኽእል (-)",
+      "cancel": "ሰርዝ",
+      "save": "URL ምዕቃብ",
+      "usernameUrl": "URL ስም ተጠቃሚ",
+      "helpText": "ንኣሽቱ ፊደላት፡ ቁጽርታትን ስርዝ ድልዝታትን። ",
+      "validation": {
+        "empty": "ስሉግ ባዶ ክኸውን ኣይክእልን እዩ።",
+        "min3": "እንተወሓደ 3 ፊደላት።",
+        "max30": "እንተበዝሐ 30 ፊደላት።",
+        "format": "ንኣሽቱ ፊደላት፡ ቁጽርታትን ስርዝ ድልዝን (-) ጥራይ። "
+      }
+    },
+    "loadingPortfolio": "ዳታ ፖርትፎሊዮ ኣብ ምጽዓን...",
+    "overview": {
+      "greetings": {
+        "morning": "ሰናይ ንጉሆ",
+        "afternoon": "ሰናይ ድሕሪ ቀትሪ",
+        "evening": "ሰናይ ድሕሪ ቀትሪ",
+        "night": "ሰናይ ለይቲ"
+      },
+      "welcome": {
+        "hi": "ሰላም፡",
+        "creator": "ፈጣሪ",
+        "desc1": "እንቋዕ ናብ ዳሽቦርድ DevFolio ብደሓን መጻእኩም። ፖርትፎሊዮኻ ብ...",
+        "desc2": "ሰብ። ስራሕካ ቀጽል!",
+        "editPortfolio": "ፖርትፎሊዮ ኣርትዕ"
+      },
+      "stats": {
+        "totalVisitors": "ጠቕላላ በጻሕቲ",
+        "projectViews": "ዝተራእየ (ፕሮጀክት)",
+        "activeSessions": "ንጡፍ ክፍለ ግዜ",
+        "totalLabel": "ጠቕላላ"
+      },
+      "setup": {
+        "title": "ምዕባለ ምድላው",
+        "completed": "ፖርትፎሊዮኻ ምሉእ እዩ! 🎉",
+        "inProgress": "ናብ ፍጹም ፖርትፎሊዮ ዝወስድ ስጉምትታት።",
+        "profile": {
+          "title": "ምሉእ ፕሮፋይል",
+          "desc": "ስም፣ ባዮን ፕሮፋይል ፎቶን ወስኹሉ።"
+        },
+        "section": {
+          "title": "ክፍልታት ምውሳኽ",
+          "desc": "ኣብቲ ፖርትፎሊዮ እንተወሓደ 1 ክፍሊ ኣንቀሳቕስ።"
+        },
+        "project": {
+          "title": "ፕሮጀክት ምውሳኽ",
+          "desc": "እንተወሓደ 1 ካብቶም ዝበለጹ ፕሮጀክትታትካ ኣእቱ።"
+        },
+        "publish": {
+          "title": "ፖርትፎሊዮ ምሕታም",
+          "desc": "ህዝቢ ንኽረኽቦ ብሕታዊ URL ኣቐምጥ።"
+        }
+      },
+      "topProjects": {
+        "title": "ዝበዝሑ ተፈተውቲ ፕሮጀክትታት",
+        "desc": "ኣፈፃፅማ ስራሕካ ኣብ ዓይኒ በጻሕቲ።",
+        "viewAll": "ኩሉ ርአ",
+        "empty": "ክሳብ ሕጂ ንፕሮጀክትኩም ዝኸውን ናይ ምርኣይ ዳታ የለን።"
+      }
+    },
+    "themes": {
+      "title": "ቅጥዕታትን ቴማታትን",
+      "subtitle": "መልክዕን ስምዒትን ህዝባዊ ፖርትፎሊዮኻ ብዝጥዕመካ ኣመዓራርዮ።",
+      "reset": "ነባሪ ዳግማይ ምትካል",
+      "save": "ለውጢ ምዕቃብ",
+      "saving": "ዕቋር...",
+      "chooseTemplate": "ቅጥዒ ምረጽ",
+      "primaryColor": "ቀዳማይ ሕብሪ",
+      "typography": "ታይፖግራፊ",
+      "appearance": "ቁመና",
+      "corners": "ኩርናዓትን ዶባትን",
+      "successTitle": "ዓወት",
+      "successMessage": "ምርጫታት ቴማ ብዓወት ተሓዲሱ",
+      "errorTitle": "ስሕተት",
+      "errorMessage": "ምርጫታት ቴማ ክዕቅብ ኣይከኣለን",
+      "templates": {
+        "minimalist": {
+          "name": "ምናልባሽነት (minimalist)",
+          "desc": "ኣብ ትሕዝቶ ዘተኮረ ጽሩይን ቀሊልን ዲዛይን።"
+        },
+        "developerDark": {
+          "name": "ዲቨሎፐር ዳርክ",
+          "desc": "ጸሊም ቴማ ንኮድን ቴክ ስታክስን ንምርኣይ ፍጹም እዩ።"
+        },
+        "creative": {
+          "name": "ናይ ፈጠራ ክእለት ዘለዎ",
+          "desc": "ንዲዛይነራትን ፈጠርትን ዝኸውን ንጡፍን ሕብራዊን ኣቀማምጣ።"
+        },
+        "executive": {
+          "name": "ኣካያዲ ስራሕ",
+          "desc": "ሞያውን ወግዓውን ኣቀማምጣ ንሰብ ሞያ ንግዲ።"
+        },
+        "bentoGrid": {
+          "name": "ቤንቶ ግሪድ",
+          "desc": "ዝተፈላለዩ ክእለታት ብብቕዓት ዘጉልሕ ዘመናዊ ኣፕል-ቅዲ ሽቦ ኣቀማምጣ።"
+        },
+        "neoBrutalism": {
+          "name": "ኒዮ-ብሩታሊዝም",
+          "desc": "ደፋር ዶባትን ልዑል ንጽጽር ዘለዎም ሕብርታትን ንትራንዲ፡ ይቕሬታ ​​ዘይሓትት መልክዕ።"
+        },
+        "glassmorphism": {
+          "name": "ግላስሞርፊዝም",
+          "desc": "ፍሮስትድ ብርጭቆ ጽልዋታት ኣብ ልዕሊ ሕብራዊ ምዕባለታት ንሓደ ስሉጥ ዘመናዊ UI።"
+        },
+        "linkInBio": {
+          "name": "ሊንክ ኣብ ባዮ",
+          "desc": "ንሞባይል ስክሪናትን ማሕበራዊ መራኸቢታትን ዝተመቻቸወ ውሱን ቀጥታዊ ኣቀማምጣ።"
+        }
+      },
+      "appearances": {
+        "light": "ብርሃን",
+        "dark": "ፀልማት",
+        "system": "ስርዓት"
+      },
+      "cornersOptions": {
+        "sharp": "በሊሕ",
+        "rounded": "ዝተኸበበ",
+        "pill": "ከኒና"
+      }
+    },
+    "feedback": {
+      "title": "ርእይቶ ስደዱ",
+      "subtitle": "ኣብዚ ኣፕሊኬሽን ሓሳባት፡ ነቐፌታ፡ ወይ ብልሽት ብምሕባር ዝሓሸ ንኽንከውን ሓግዙና።",
+      "categoryLabel": "ምድብ ግብረ መልሲ",
+      "messageLabel": "ዝርዝር መልእኽቲ",
+      "messagePlaceholder": "ብዛዕባ እቲ ከተመሓላልፍዎ እትደልዩ ግብረ መልሲ ብዝርዝር ንገሩኒ...",
+      "imageLabel": "ምስሊ ምትእስሳር (ኣማራጺ)",
+      "imagePlaceholder": "ምስሊ ወይ ስክሪን ሾት ንምስቃል ጠውቑ",
+      "submitting": "ምልኣኽ...",
+      "submitBtn": "ርእይቶ ስደዱ",
+      "categories": {
+        "suggestion": "ሓሳባትን ሓሳባትን",
+        "bug": "ጸብጻብ ስሕተት / ጌጋ",
+        "criticism": "ነቐፌታ",
+        "other": "ካልኦት"
+      },
+      "imageErrorTitle": "ጌጋ",
+      "imageErrorMessage": "ገለ ፋይላት ዝድገፉ ቅርጺ ምስሊ (JPG, PNG, GIF, WEBP)",
+      "successTitle": "ስለዘይኮኑ ይንጸጉ ዓወት",
+      "successMessage": "ንዝሃብኩምና ርእይቶ የቐንየልና! ጸብጻብ ተላኢኹ ኣሎ።",
+      "submitErrorTitle": "ፈሺሉ",
+      "submitErrorMessage": "ርእይቶ ኣብ ምልኣኽ ጌጋ ኣጋጢሙ። በጃኹም ደጊምኩም ፈትኑ።"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "ብዛዕባይ",
+      "skills": "ክእለታት",
+      "projects": "ፕሮጀክትታት",
+      "workExperience": "ናይ ስራሕ ተመኩሮ",
+      "orgExperience": "ናይ ውዳበ ተመኩሮ",
+      "education": "ትምህርቲ",
+      "certifications": "ስልጠና & ምስክር ወረቐት",
+      "contact": "ርኸቡኒ"
+    },
+    "editor": {
+      "profileInfo": "ሓበሬታ ፕሮፋይል",
+      "saving": "ዕቋር...",
+      "profilePhoto": "ፕሮፋይል ፎቶ",
+      "clickToUpload": "ንምስቃል ጠውቑ (JPG, PNG)",
+      "fullName": "ምሉእ ስም",
+      "fullNamePlaceholder": "ንኣብነት። ",
+      "bio": "ባዮ",
+      "bioPlaceholder": "ዘመናዊ ዌብ ኣፕስ ንምህናጽ ፍቕሪ ዘለዎ Fullstack Developer...",
+      "location": "ኣንፈት",
+      "locationPlaceholder": "ንኣብነት። ",
+      "gender": "ፆታ",
+      "selectGender": "ጾታ ምረጽ",
+      "male": "ተባዕታይ",
+      "female": "ኣንስተይቲ",
+      "custom": "ቅቡል ልምዲ",
+      "customPlaceholder": "ናትካ ልሙድ ጾታ ጽሓፍ...",
+      "uploadCv": "ሲቪ ስቐል",
+      "cvFormat": "(DOC ወይ PDF)",
+      "preview": "ቅድመ ምርኢት",
+      "remove": "ኣወግድ",
+      "clickToUploadCv": "PDF ወይ DOC ንምስቃል ጠውቑ",
+      "sections": "ክፍልታት",
+      "removeSelected": "ዝተመርጸ ምእላይ",
+      "confirmRemove": "ምእላይ ኣረጋግጽ",
+      "addSection": "ክፍሊ ምውሳኽ",
+      "addAllSections": "ኩሉ ክፍልታት ወስኹ",
+      "noSections": "ክሳብ ሕጂ ክፍልታት የለን",
+      "clickToAdd": "ንምጅማር \"+ Add Section\" ዝብል ጠውቕ",
+      "selectAll": "ኩሉ ምረጽ",
+      "selected": "ተመሪጹ",
+      "dragToReorder": "ክፍልታት ዳግማይ ንምስራዕ ስሓብ",
+      "livePreview": "ቀጥታዊ ቅድመ ምርኢት",
+      "addSectionsToBuild": "ፖርትፎሊዮኻ ንምህናጽ ክፍልታት ወስኽ",
+      "now": "ሕዚ",
+      "current": "እዋናዊ",
+      "noExpiry": "ግዜ ምውዳእ የለን",
+      "see": "ረአ",
+      "position": "ቦታ",
+      "degree": "መዐቀኒ",
+      "certification": "ምስክር ወረቐት ምሃብ",
+      "sectionsForm": {
+        "about": {
+          "label": "መግለጺ ነብስኻ",
+          "placeholder": "ብዛዕባ ነብስኻን ድሕረ ባይታኻን ድሌታትካን ክእለትካን ንገረና..."
+        },
+        "skills": {
+          "addPlaceholder": "skill ኢልና ንጽሕፍ ድሕሪኡ Enter ንጽቀጥ..."
+        },
+        "projects": {
+          "title": "ስም ፕሮጀክት",
+          "titlePlaceholder": "ስም ፕሮጀክት...",
+          "url": "ናይ ፕሮጀክት URL",
+          "description": "መግለፂ",
+          "descriptionPlaceholder": "ሓጺር መግለጺ ናይቲ ፕሮጀክት...",
+          "uploadThumbnail": "ፕሮጀክት ምስሊ",
+          "addProject": "ፕሮጀክት ምውሳኽ",
+          "projectNum": "ፕሮጀክት #",
+          "currentProject": "እዚ ኣነ ዝሰርሓሉ ዘለኹ ፕሮጀክት እዩ።"
+        },
+        "work": {
+          "company": "ኩባንያ/ኤጀንሲ",
+          "companyPlaceholder": "ስም ትካል...",
+          "position": "መርገጺ/መዓርግ",
+          "positionPlaceholder": "መርገጺኻ...",
+          "employmentType": "ዓይነት ስራሕ",
+          "location": "ኣንፈት",
+          "locationPlaceholder": "ከተማ፡ ሃገር...",
+          "startDate": "ጀምር",
+          "endDate": "ዝተወደአ",
+          "currentWork": "ኣብዚ ሕጂ እዋን ገና ይሰርሕ ኣለኹ",
+          "description": "መግለፂ",
+          "descriptionPlaceholder": "መግለጺ ስራሕን ሓላፍነትን...",
+          "skills": "ክእለት",
+          "addExperience": "ናይ ስራሕ ተመኩሮ ምውሳኽ",
+          "experienceNum": "ተሞክሮ #",
+          "dateError": "እቲ ናይ መወዳእታ ዕለት ካብቲ ናይ ምጅማር ዕለት ኣቐዲሙ ክኸውን ኣይክእልን እዩ።"
+        },
+        "org": {
+          "organization": "ስም ትካል",
+          "orgPlaceholder": "ዩኒቨርሲቲ ቢኢኤም...",
+          "role": "ተራ/መርገጺ",
+          "rolePlaceholder": "ሓላፊ ክፍለ ሰራዊት...",
+          "addOrg": "ውዳበኣዊ ተመኩሮ ምውሳኽ",
+          "orgNum": "ውድብ #"
+        },
+        "edu": {
+          "institution": "ትካላት ትምህርቲ",
+          "institutionPlaceholder": "ስም ቀጽሪ ወይ ቤት ትምህርቲ...",
+          "degree": "ርእሲ",
+          "degreePlaceholder": "S1, ካልኣይ ደረጃ ቤት ትምህርቲ ወዘተ...",
+          "major": "ክፍሊ/ዓውዲ መጽናዕቲ",
+          "majorPlaceholder": "ኢንፎርሜቲክስ ምህንድስና...",
+          "gpa": "GPA (ኣማራጺ)",
+          "currentStudy": "ሕጂ ውን ኣብዚ ይመሃር ኣለኹ",
+          "descriptionPlaceholder": "ኣብ እዋን መጽናዕቲ ዝረኣዩ ንጥፈታትን ዓወታትን...",
+          "addEdu": "ትምህርቲ ወስኽ",
+          "eduNum": "ትምህርቲ #"
+        },
+        "cert": {
+          "name": "ስም ሰርቲፊኬት / ስልጠና",
+          "namePlaceholder": "ናይ ምስክር ወረቐት ስም...",
+          "issuer": "ኣሕታሚ",
+          "issuerPlaceholder": "ትካል ሕትመት...",
+          "issueDate": "ምጅማር (ዕለት ምሕታም)",
+          "issueDatePlaceholder": "ዕለት ሕትመት ምረጽ...",
+          "expiryDate": "ዝተዛዘመ (ቅኑዕ ግዜ)",
+          "expiryDatePlaceholder": "ናይ ምውዳእ መዓልቲ ምረጽ...",
+          "noExpiry": "እዚ ምስክር ወረቐት ናይ ምውዳእ ዕለት የብሉን",
+          "url": "መረጋገጺ URL",
+          "uploadThumbnail": "ምስክር ወረቐት / ናይ ስልጠና ምስሊ",
+          "uploadThumbnailLimit": "ምስሊ ምስክር ወረቐት ምጽዓን (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "ምስክር ወረቐት ምውሳኽ",
+          "certNum": "ምስክር ወረቐት #"
+        },
+        "contact": {
+          "contactNum": "መርከቢ #",
+          "platform": "ንድፊ",
+          "displayText": "ጽሑፍ ምርኣይ",
+          "displayTextPlaceholder": "ንኣብነት you@email.com ወይ @username",
+          "url": "ሊንክ (URL)",
+          "urlPlaceholderWhatsapp": "ንኣብነት 62812... (ብዘይ መሪሕነት 0)",
+          "urlPlaceholderEmail": "ንኣብነት you@email.com ዝብል ጽሑፍ ኣሎ።",
+          "urlPlaceholderWebsite": "ንኣብነት https://...",
+          "urlPlaceholderDefault": "ንኣብነት ስም ተጠቃሚ",
+          "addContact": "ርክብ ምውሳኽ"
+        },
+        "common": {
+          "months": {
+            "1": "ጥሪ",
+            "2": "ለካቲት",
+            "3": "መጋቢት",
+            "4": "ጉንበት",
+            "5": "ተዝኸዉን",
+            "6": "ሰነ",
+            "7": "ሓምለ",
+            "8": "ነሓሰ",
+            "9": "መስከረም",
+            "10": "ጥቅምቲ",
+            "11": "ሕዳር",
+            "12": "ታሕሳስ"
+          },
+          "month": "ወርሒ",
+          "year": "ዓመት",
+          "invalidDate": "ዘይሕጋዊ ናይ መወዳእታ ወርሒ",
+          "words": "ቃላት"
+        }
+      },
+      "sure": "እርግፀኛ",
+      "deletePhotoTitle": "ፕሮፋይል ፎቶ ምድምሳስ?",
+      "deletePhotoMessage": "ርግጸኛ ዲኻ ነዚ ናይ ፕሮፋይል ስእሊ ክትድምስሶ ትደሊ?",
+      "cancel": "ሰርዝ",
+      "delete": "ምድምሳስ"
+    },
+    "cropper": {
+      "chooseBackground": "ድሕረ ባይታ ምረጽ",
+      "cropPhoto": "ስእልኻ ቆሪጽካ ምቑራጽ",
+      "useOriginal": "ኦርጅናል ተጠቐም",
+      "backgroundPresets": "ድሕረ ባይታ ቅድመ-ምድላዋት",
+      "none": "ዋላ ሓደ",
+      "uploadBackground": "ድሕረ ባይታ ምጽዓን።",
+      "cancel": "ሰርዝ",
+      "savePhoto": "ስእሊ ምዕቃብ",
+      "zoom": "ዙም ምግባር",
+      "rotationTilt": "ምዝዋርን ምግልባጥን (Rotation & Tilt)",
+      "resetRotation": "ናብ 0° ዳግማይ ምቕማጥ",
+      "center": "ማእኸል",
+      "rotateLeft": "-90° ምዝዋር",
+      "rotateRight": "+90° ምዝዋር",
+      "removeBackground": "ድሕረ ባይታ ምእላይ",
+      "processing": "ምስልኹም ኣብ ምምስራሕ፡ በጃኹም ተጸበዩ..."
+    },
+    "cvPreview": {
+      "title": "ሲቪ ቅድመ ምርኢት",
+      "downloadCv": "ሲቪ ኣውርድ",
+      "download": "ምውራድ",
+      "wordCannotPreview": "ሰነዳት ቃል (.doc/.docx) ኣብ መርበብ ሓበሬታ ብመበቆል ቅድመ-ምርኢት ክግበረሎም ኣይክእልን እዩ። ",
+      "downloadFile": "ሲቪ ፋይል ኣውርድ",
+      "back": "ዝባን",
+      "mobileMessage": "በጃኹም ነቲ ሲቪ ፋይል ኣውሪድኩም ቅድመ ምርኢት ክትገብሩሉ ትኽእሉ ኢኹም።",
+      "preview": "ቅድመ ምርኢት ሲቪ",
+      "wordPreviewTitle": "ቅድመ ምርኢት ሰነድ ወርድ",
+      "wordPreviewMessage": "ሰነዳት ቃል (.doc/.docx) ኣብ መርበብ ሓበሬታ ብመበቆል ቅድመ-ምርኢት ክግበረሎም ኣይክእልን እዩ። ንኽትርእይዎ በጃኹም ነቲ ፋይል ኣውርድዎ።"
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "ብዛዕባ ገዛእ ርእስኻን ድሌታትካን ዕላማታት ሞያኻን ሓጺር መግለጺ ጽሓፍ..."
+    },
+    "skills": {
+      "placeholder": "ስም ክእለት ጽሓፍ...",
+      "add": "ምድማር",
+      "enterToAdd": "ንምውሳኽ Enter ንጽቀጥ",
+      "noSkills": "ክሳብ ሕጂ ዝኾነ ክእለት ኣይተወሰኸን።"
+    },
+    "projects": {
+      "projectName": "ስም ፕሮጀክት",
+      "projectNamePlaceholder": "ንኣብነት። ",
+      "projectUrl": "ናይ ፕሮጀክት URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "ጻንሒት",
+      "startMonth": "ወርሒ ምጅማር",
+      "startYear": "ዓመት ምጅማር",
+      "endMonth": "ወርሒ መወዳእታ",
+      "endYear": "መወዳእታ ዓመት",
+      "currentlyWorking": "ኣብዚ ሕዚ እዋን ኣብዚ ዝሰርሕ ዘሎ",
+      "description": "መግለፂ",
+      "descriptionPlaceholder": "ነቲ ፕሮጀክት፡ ተራኻን ዓወታትካን ግለጽ...",
+      "technologies": "ኣብ ጥቕሚ ዝወዓሉ ቴክኖሎጂታት",
+      "addProject": "ፕሮጀክት ምውሳኽ",
+      "image": "ፕሮጀክት ምስሊ",
+      "removeImage": "ምስሊ ኣወግድ",
+      "uploadImage": "ምስሊ ንምስቃል ጠውቑ"
+    },
+    "work": {
+      "company": "ኩባንያ/ትካል",
+      "companyPlaceholder": "ስም ትካል...",
+      "role": "ተራ/መርገጺ",
+      "rolePlaceholder": "መርገጺኻ...",
+      "jobType": "ዓይነት ስራሕ",
+      "selectJobType": "ዓይነት ምረጽ",
+      "fullTime": "ምሉእ ግዜ",
+      "partTime": "ናይ ክፍለ ግዜ",
+      "contract": "ውዕሊ",
+      "internship": "ልምምድ",
+      "freelance": "ናጻ ስራሕ",
+      "location": "ኣንፈት",
+      "locationPlaceholder": "ንኣብነት። ",
+      "duration": "ጻንሒት",
+      "currentlyWorking": "ኣብዚ ሕዚ እዋን ኣብዚ ዝሰርሕ ዘሎ",
+      "description": "መግለጺ ስራሕ",
+      "descriptionPlaceholder": "ቁልፊ ሓላፍነታትካን ዓወታትካን ግለጽ...",
+      "skills": "ፍሉይ ክእለት።",
+      "addExperience": "ተመኩሮ ወስኽ"
+    },
+    "org": {
+      "organization": "ስም ትካል",
+      "organizationPlaceholder": "ስም ትካል...",
+      "role": "ተራ/መርገጺ",
+      "rolePlaceholder": "ንኣብነት። ",
+      "duration": "ጻንሒት",
+      "periodFormat": "ወይ ነጻ ቅርጺ (ንኣብነት 2020 - 2022)",
+      "periodPlaceholder": "ንኣብነት። ",
+      "currentlyActive": "ኣብዚ ሕጂ እዋን ንጡፍ",
+      "description": "መግለጺ ንጥፈት",
+      "descriptionPlaceholder": "ንጥፈታትኩም ወይ ኣበርክቶኹም ግለጹ...",
+      "addExperience": "ተመኩሮ ወስኽ"
+    },
+    "education": {
+      "institution": "ስም ትካል",
+      "institutionPlaceholder": "ስም ቤት ትምህርቲ ወይ ዩኒቨርሲቲ...",
+      "degree": "ዲግሪ/ደረጃ",
+      "degreePlaceholder": "ንኣብነት። ",
+      "major": "ዓቢ/ዓውዲ መጽናዕቲ",
+      "majorPlaceholder": "ንኣብነት። ",
+      "gpa": "GPA / ነጥቢ",
+      "gpaPlaceholder": "ንኣብነት። ",
+      "duration": "ንውሓት ግዜ ትምህርቲ",
+      "periodFormat": "ወይ ነጻ ቅርጺ (ንኣብነት 2018 - 2022)",
+      "periodPlaceholder": "ንኣብነት። ",
+      "currentlyStudying": "ኣብዚ ሕጂ እዋን ኣብዚ ይመሃር ኣለኹ",
+      "description": "ንጥፈታት / ክብሪ",
+      "descriptionPlaceholder": "ኣካዳሚያዊ ንጥፈታት፡ ትካላት፡ ወይ ዝረኸብካዮም ክብሪታት ግለጽ...",
+      "addEducation": "ትምህርቲ ወስኽ"
+    },
+    "cert": {
+      "name": "ስም ምስክር ወረቐት",
+      "namePlaceholder": "ንኣብነት። ",
+      "issuer": "ኣውጻኢ ትካል",
+      "issuerPlaceholder": "ንኣብነት። ",
+      "issueDate": "ዕለት ሕታም",
+      "expiryDate": "ክሳብ...",
+      "noExpiry": "እዚ መረጋገጺ ፍቓድ እዚ ግዜኡ ኣይውዳእን እዩ።",
+      "yearPlaceholder": "ወይ ዓመት (ንኣብነት 2023)",
+      "credentialUrl": "መረጋገጺ URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "ተዛመድቲ ክእለታት",
+      "addCertification": "ምስክር ወረቐት ምውሳኽ",
+      "image": "ምስሊ/ኣርማ",
+      "removeImage": "ምስሊ ኣወግድ",
+      "uploadImage": "ምስሊ ንምስቃል ጠውቑ"
+    },
+    "common": {
+      "months": {
+        "1": "ጥሪ",
+        "2": "ለካቲት",
+        "3": "መጋቢት",
+        "4": "ጉንበት",
+        "5": "ተዝኸዉን",
+        "6": "ሰነ",
+        "7": "ሓምለ",
+        "8": "ነሓሰ",
+        "9": "መስከረም",
+        "10": "ጥቅምቲ",
+        "11": "ሕዳር",
+        "12": "ታሕሳስ"
+      },
+      "month": "ወርሒ",
+      "year": "ዓመት",
+      "invalidDate": "ዘይሕጋዊ ናይ መወዳእታ ወርሒ",
+      "words": "ቃላት"
+    }
+  },
+  "settings": {
+    "title": "ቅጥዕታት",
+    "subtitle": "ፖርትፎሊዮ ፕሮፋይልካን ምርጫታትካን ኣመሓድር",
+    "tabs": {
+      "profile": "ፕሮፋይለይ",
+      "security": "ድሕንነት",
+      "personalization": "ውልቃዊ ምግባር"
+    },
+    "profile": {
+      "infoTitle": "መሰረታዊ ሓበሬታ",
+      "photo": "ፕሮፋይል ፎቶ",
+      "uploadPhoto": "ስእሊ ምቕያር",
+      "fullName": "ምሉእ ስም",
+      "fullNamePlaceholder": "ጆን ዶይ",
+      "email": "ናይ ኢመይል ኣድራሻ",
+      "emailPlaceholder": "john@example.com ዝብል ጽሑፍ ኣሎ።",
+      "emailHelp": "ኢመይል ንመእተዊ ዝውዕል ኮይኑ ብህዝቢ ኣይርአን እዩ።",
+      "portfolioUrl": "ፖርትፎሊዮ URL",
+      "saveProfile": "ፕሮፋይል ምዕቃብ",
+      "save": "ፕሮፋይል ምዕቃብ",
+      "accountCreated": "ኣካውንት ተፈጢሩ",
+      "lastLogin": "ናይ መወዳእታ መእተዊ",
+      "oauthNotice": "እዚ ፕሮፋይል ምስ {{provider}} ኣካውንትካ ዝተኣሳሰር እዩ። ናይ ፕሮፋይል ለውጢ ብመንገዲ እቲ ወሃቢ ኣገልግሎት ክግበር ኣለዎ።"
+    },
+    "security": {
+      "changePassword": "ፓስዎርድ ምቕያር",
+      "currentPassword": "ናይ ሕጂ ምልክት ቃል",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "ሓድሽ ፓስዎርድ",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "ሓድሽ ምልክት ቃል ኣረጋግጽ",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "እንተወሓደ 8 ፊደላት",
+        "uppercase": "ሓደ ዓቢ ፊደል (A-Z)",
+        "number": "ሓደ ቁጽሪ (0-9)",
+        "symbol": "ሓደ ምልክት (!@#$%^&*)"
+      },
+      "passwordTitle": "መሕለፊ ቓል",
+      "updatePassword": "ፓስዎርድ ኣዘምንዎ።",
+      "additionalSecurity": "ተወሳኺ ድሕንነት",
+      "twoFactor": "ክልተ ረቛሒታት ዘለዎ ምርግጋጽ ምርግጋጽ (2FA)",
+      "twoFactorDesc": "ተወሳኺ OTP ኮድ ተጠቒምካ ኣካውንትካ ውሑስ ግበሮ።",
+      "activeSessions": "ንጡፍ ክፍለ ግዜታት",
+      "activeSessionsDesc": "ኩሉ ግዜ ምክትታል ናይ ዝኣተዉ መሳርሒታት ፍቐድ።",
+      "publicVisibility": "ህዝባዊ ርኡይነት",
+      "hideFromSearch": "ፖርትፎሊዮ ካብ ሰርች ኢንጅናት ምሕባእ",
+      "hideFromSearchDesc": "Google ንገጽ ህዝባዊ ፖርትፎሊዮኻ ኢንዴክስ ከይገብር ምክልኻል።",
+      "disable2fa": {
+        "title": "2FA ኣሰናኽል",
+        "description": "ክልተ ረቛሒታት ዘለዎ ምርግጋጽ ምርግጋጽ ከተጥፍእ ከም እትደሊ ርግጸኛ ዲኻ?",
+        "confirmPasswordLabel": "ንምርግጋጽ ፓስዎርድካ ኣእቱ",
+        "currentPasswordPlaceholder": "ናይ ሕጂ ምልክት ቃል",
+        "cancelButton": "ስርዝ ድልዝ",
+        "confirmButton": "2FA ኣሰናኽል",
+        "incorrectPassword": "ጌጋ ምልክት ቃል።"
+      },
+      "setup2fa": {
+        "step1Title": "1. ስካን QR Code ምግባር",
+        "step1Desc": "ናይ ምርግጋጽ መተግበሪኻ ከፊትካ ነዚ ዝስዕብ QR ኮድ ስካን ግበሮ፤",
+        "unableToScan": "ስካን ክገብር ኣይከኣለን? መፍትሕ ምድላው ተጠቐም",
+        "step2Title": "2. ኮድ ምርግጋጽ",
+        "step2Desc": "ብኣፕካ ዝፍጠር 6 ኣሃዝ ዘለዎ ኮድ ኣእቱ፤",
+        "cancelButton": "ሰርዝ",
+        "enableButton": "2FA ኣኽእሎ",
+        "invalidLength": "በጃኹም 6 ኣሃዝ ዘለዎ ኮድ ኣእትዉ።",
+        "invalidCode": "ዘይሕጋዊ ናይ ምርግጋጽ ኮድ። በጃኹም ደጊምኩም ፈትኑ።"
+      }
+    },
+    "personalization": {
+      "languageTitle": "ቁጽጽር ቋንቋ",
+      "appLanguage": "ኣፕ ቋንቋ",
+      "layoutTitle": "ኣቀማምጣን ታይፖግራፊን።",
+      "layoutStyle": "ቅዲ ኣቀማምጣ",
+      "layoutModern": "ዘመናዊ ቅዲ (ነባሪ)",
+      "layoutClassic": "ክላሲካል ቅዲ",
+      "layoutMinimalist": "ምናልባሽ ቅዲ",
+      "fontSize": "ኣፕ ቅርጺ ቅርጺ",
+      "fontSmall": "ንኡስ",
+      "fontNormal": "ንቡር (ማእከላይ)",
+      "fontLarge": "ገዚፍ",
+      "searchLanguage": "ቋንቋ ድለዩ...",
+      "languageNotFound": "ቋንቋ ኣይተረኽበን።",
+      "layoutElegant": "ውቁብ ቅዲ"
+    },
+    "saveChanges": "ለውጢ ምዕቃብ",
+    "cancel": "ሰርዝ",
+    "appSettings": "ቅጥዕታት ኣፕ",
+    "logoutConfirmTitle": "Logout ኣረጋግጽ",
+    "logoutConfirmDesc": "ካብቲ ስርዓት ክትወጽእ ከም እትደሊ ርግጸኛ ዲኻ?",
+    "logoutConfirmYes": "እወ ሎውኣውት።",
+    "generalError": "ጌጋ ኣጋጢሙ። ",
+    "success": "ዓወት",
+    "preferencesSaved": "ምርጫታት ኣፕ ብዓወት ተዓቂቦም።",
+    "header": "ቅጥዕታት መተግበሪ",
+    "logout": {
+      "title": "ምርግጋጽ ምውጻእ",
+      "message": "ካብቲ ስርዓት ክትወጽእ ከም እትደሊ ርግጸኛ ዲኻ?",
+      "confirm": "እወ ሎውኣውት።"
+    },
+    "about": {
+      "title": "ብዛዕባ ኣፕሊኬሽን",
+      "subtitle": "ፖርትፎሊዮ ሃናጺ መድረኽ",
+      "version": "ሕታም",
+      "description": "DevFolio ንዲቨሎፐራት፣ ዲዛይነራትን ፕሮፌሽናል ፈጠርትን ዝተዳለወ ዘመናዊ ፖርትፎሊዮ ሃናጺ መድረኽ እዩ። ",
+      "license": "ፍቓድን መሰል ቅዳሕን",
+      "copyright": "© 2026 DevFolio Inc. ኩሉ መሰላት ዝተሓለወ እዩ።",
+      "developer": "ዲቨሎፐር",
+      "developedBy": "ብ DevFolio Team ዝተዳለወ እዩ።"
+    },
+    "deleteAccount": {
+      "title": "ንሓዋሩ ኣካውንት ምድምሳስ",
+      "menuItem": "ኣካውንት ምድምሳስ",
+      "successTitle": "ዓወት",
+      "successMessage": "ናይ ኣካውንት ምድምሳስ መረጋገጺ ኢመይል ተላኢኹ ኣሎ።",
+      "errorTitle": "ፈሺሉ",
+      "errorMessage": "ናይ ምርግጋጽ ኢመይል ምልኣኽ ኣይከኣለን።",
+      "confirmationMessage": "ርግጸኛ ዲኻ ኣካውንትካ ንሓዋሩ ክትድምስሶ ከም እትደሊ?",
+      "warningMessage1": "ናይ ኣካውንት ምድምሳስ ንምርግጋጽ ኢመይል ክመጸካ እዩ።",
+      "warningMessage2": "እንተተረጋጊጹ ኩሉ ዳታ (ፖርትፎሊዮ፣ ፕሮጀክትታት፣ ስታቲስቲክስ) ንሓዋሩ ክስረዝን ክምለስ ኣይክእልን እዩ።",
+      "cancel": "ስርዝ ድልዝ",
+      "confirm": "ምርግጋጽ"
+    },
+    "toasts": {
+      "toastError": "ስሕተት",
+      "toastSuccess": "ዓወት",
+      "toastSetup2FAFailed": "2FA ምድላው ኣይከኣለን። በጃኹም ደጊምኩም ፈትኑ።",
+      "toast2FAEnabled": "ክልተ ረቛሒታት ዘለዎ ምርግጋጽ ምርግጋጽ ተኸፊቱ ኣሎ።",
+      "toast2FADisabled": "ክልተ ረቛሒታት ዘለዎ ምርግጋጽ ምርግጋጽ ተሰናኺሉ ኣሎ።",
+      "toastSessionEnabled": "ንጡፍ ምክትታል ክፍለ ግዜ ተኸፊቱ ኣሎ።",
+      "toastSessionDisabled": "ንጡፍ ምክትታል ክፍለ ግዜ ተሰናኺሉ ኣሎ።",
+      "toastSetupKeyCopied": "መፍትሕ ምድላው ናብ ቅንጥብጣብ ሰሌዳ ተቐዲሑ።"
+    },
+    "privacy": {
+      "title": "ፖሊሲ ውልቃዊ ሓበሬታ",
+      "updateDate": "መወዳእታ ዝተሓደሰሉ ዕለት፡ 15 ሓምለ 2026",
+      "intro": "እዚ ፖሊሲ ውልቃዊ ሓበሬታ፡ DevFolio ኣገልግሎታትና ኣብ እትጥቀመሉ እዋን ውልቃዊ ሓበሬታኻ ብኸመይ ከም ዝእክብ፡ ከም ዝጥቀመሉን ከም ዝሕልዎን ይገልጽ።",
+      "section1Title": "1. ንእክቦ ሓበሬታ",
+      "section1Content": "ኣካውንት ክትፈጥር ከለኻ፡ ፖርትፎሊዮ ክትሃንጽ ከለኻን ንደገፍና ክንራኸብ ከለኻን ብቐጥታ እትህቦ ሓበሬታ ንእክብ። ",
+      "section2Title": "2. ኣጠቓቕማ ሓበሬታ",
+      "section2Content": "ሓበሬታኻ ንባህርያት ኣገልግሎታትና ንምስራሕ፡ ንምሕላውን ንምሃብን፡ ከምኡ’ውን ብዛዕባ ኣካውንትካ ወይ ኣገልግሎታትካ ምሳኻ ንምርድዳእ ይጥቀመሉ።",
+      "section3Title": "3. ድሕንነት መረዳእታ",
+      "section3Content": "ሓበሬታኻ ካብ ዘይተፈቕደ ምእታው፡ ምግላጽ ወይ ምጥፋእ ንምክልኻል ርትዓዊ ስጉምትታት ጸጥታ ነተግብር።"
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "ናይ ምርግጋጽ ምልክት ኣይተረኽበን።",
+    "defaultError": "ኣካውንት ምድምሳስ ኣይከኣለን። እቲ ቶከን ግዜኡ ኣኺሉ ክኸውን ይኽእል እዩ።",
+    "loadingTitle": "ኣካውንት ምድምሳስ...",
+    "loadingMessage": "በጃኹም ተጸበዩ፡ ሕቶኹም ኣብ መስርሕ ኣለና።",
+    "successTitle": "ኣካውንት ብዓወት ተደምሲሱ",
+    "successMessage": "ኩሉ ዳታኻ ንሓዋሩ ተደምሲሱ ኣሎ። ኣንፈት ክትቅይር ኢኻ...",
+    "errorTitle": "ኣካውንት ምድምሳስ ኣይተኻእለን",
+    "backToHome": "ናብ ገዛና ተመለስ"
+  },
+  "forgotPassword": {
+    "minutes": "ደቒቓ",
+    "seconds": "ካልኣይ",
+    "success": "ዕውት",
+    "otpSentToEmail": "ናብ ኢመይልካ ናይ OTP ኮድ ተላኢኹ ኣሎ።",
+    "failed": "ምውዳቕ",
+    "emailNotFound": "ኢመይል ኣይተረኽበን።",
+    "emailThirdParty": "እዚ ኢመይል ብሳልሳይ ወገን ኣቢሉ እዩ ዝምዝገብ።",
+    "genericError": "ጌጋ ኣሎ። በጃኹም ደጊምኩም ፈትኑ።",
+    "otpVerified": "እቲ ናይ ኦቲፒ ኮድ ብዓወት ተረጋጊጹ ኣሎ።",
+    "otpExpired": "እቲ ናይ ኦቲፒ ኮድ ግዜኡ ሓሊፉ ኣሎ። ሓድሽ ኮድ ክትሓቱ ንላቦ።",
+    "otpInvalid": "ዘይሕጋዊ ናይ ኦቲፒ ኮድ።",
+    "otpResent": "ሓድሽ ናይ OTP ኮድ ናብ ኢመይልካ ተላኢኹ ኣሎ።",
+    "otpResendFailed": "ናይ ኦቲፒ ኮድ ዳግማይ ምልኣኽ ኣይከኣለን። በጃኹም ደጊምኩም ፈትኑ።",
+    "passwordResetSuccess": "ፓስዎርድ ብዓወት ዳግማይ ምትካል። በጃኹም ብሓድሽ ፓስዎርድኩም እቶ።",
+    "passwordResetFailed": "ፓስዎርድ ዳግማይ ምትካል ኣይከኣለን።",
+    "backToLogin": "ናብ መእተዊ ተመለስ",
+    "back": "ተመለስ",
+    "title": "ፓስዎርድ ረሲዐዮ",
+    "description": "ኣብ ኣካውንትካ ዝተመዝገበ ኢመይል ኣድራሻ ኣእቱ። ነቲ ፓስዎርድ ዳግማይ ንምስራዕ OTP ኮድ ክንሰድድ ኢና።",
+    "emailLabel": "ናይ ኢመይል ኣድራሻ",
+    "sending": "ስደድ...",
+    "sendOtp": "OTP ኮድ ስደዱ",
+    "verifyOtpTitle": "ናይ ኦቲፒ ኮድ ምርግጋጽ",
+    "verifyOtpDesc": "መንነትካ ንምርግጋጽ ናብ ኢመይልካ ዝተላእከ 6 ኣሃዝ ዘለዎ ኮድ ኣእቱ።",
+    "verifying": "ምርግጋጽ...",
+    "verifyOtp": "ናይ ኦቲፒ ምርግጋጽ",
+    "resending": "ዳግማይ ስደድ...",
+    "resendOtp": "OTP ኮድ ዳግማይ ምልኣኽ",
+    "resendCodeIn": "ውሽጣዊ ኮድ ዳግማይ ምልኣኽ",
+    "newPasswordTitle": "ሓድሽ ፓስዎርድ ምፍጣር",
+    "newPasswordDesc": "ንኣካውንትካ ውሑስ ንምግባር ሓድሽን ድልዱልን ፓስዎርድ ፍጠር።",
+    "newPasswordLabel": "ሓድሽ ፓስዎርድ",
+    "min8Chars": "እንተወሓደ 8 ፊደላት",
+    "oneUpperCase": "1 ዓቢ ፊደል (A-Z)",
+    "oneNumber": "1 ቁጽሪ (0-9)",
+    "oneSymbol": "1 ምልክት (!@#$%^&*)",
+    "confirmPasswordLabel": "ፓስዎርድ ኣረጋግጽ",
+    "passwordsDoNotMatch": "ፓስዎርድታት ኣይሰማምዑን እዮም።",
+    "resettingPassword": "ፓስዎርድ ዳግማይ ምትካል...",
+    "resetPassword": "ፓስዎርድ ዳግማይ ምትካል"
+  },
+  "verifyEmail": {
+    "resendError": "ናይ ምርግጋጽ ኢመይል ዳግማይ ምልኣኽ ኣይከኣለን። በጃኹም ደጊምኩም ፈትኑ።",
+    "checkingStatus": "ናይ ምርግጋጽ ኩነታት ምፍታሽ...",
+    "title": "ኢመይልካ ምፍታሽ",
+    "description": "ናብ ኢመይልኩም ናይ ምርግጋጽ ኢመይል ሰዲድና ኣለና። በጃኹም ነቲ ኢመይል ከፊትኩም ነቲ <1>\"ኣረጋግጽ ኣካውንት\"</1> ዝብል ቁልፊ ብምጥዋቕ ኣካውንትኩም ኣንቀሳቕሱ።",
+    "stepsTitle": "ስጉምትታት",
+    "step1": "ናይ ኢመይል መተግበሪኻ (ጂሜይል፡ ያሁ ወዘተ) ክፈት",
+    "step2": "ካብ DevFolio \"Account Activation\"",
+    "step3": "ዝብል ኣርእስቲ ዘለዎ ኢመይል ድለዩ። ኣብቲ ኢመይል",
+    "step4": "\"Confirm Account\" ዝብል ቁልፊ ጠውቕ ናብ መእተዊ ገጽ ክትቀንዕ ኢኻ ናብ",
+    "resendSuccess": "ክትኣቱ እቲ ናይ ምርግጋጽ ኢመይል ዳግማይ ተላኢኹ ኣሎ!",
+    "resending": "ዳግማይ ምልኣኽ...",
+    "resendButton": "ናይ ምርግጋጽ ኢመይል ዳግማይ ምልኣኽ",
+    "backToLogin": "ናብ መእተዊ ገጽ ተመለስ",
+    "footerNote": "እቲ ኢመይል ኣይተቐበልካን ድዩ? ኣብ ኢመይልካ <1>ስፓም</1> ወይ <2>ጃንክ</2> ዝብል ኣቃፊራ ምልክት ግበር። እቲ ናይ ምርግጋጽ መላግቦ ን<3>24 ሰዓታት</3> ዝጸንሕ እዩ።"
+  }
+}

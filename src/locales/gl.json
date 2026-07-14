@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Características",
+    "templates": "Modelos",
+    "pricing": "Prezos",
+    "login": "Iniciar sesión",
+    "getStarted": "Comeza",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "O creador de carteira definitivo para desenvolvedores",
+    "title1": "Constrúe o teu profesional",
+    "title2": "carteira en",
+    "titleHighlight": "segundos.",
+    "subtitle": "Todo o que necesitas para mostrar as túas habilidades, proxectos e experiencia. ",
+    "startBuilding": "Comeza a construír agora",
+    "viewTemplates": "Ver modelos",
+    "fastDeployment": "Implementación rápida",
+    "liveStatus": "username.dev está en directo!",
+    "featuresTitle": "Poderosas características",
+    "featuresSubtitle": "Ofrecemos todas as ferramentas que necesitas para destacar entre a multitude e conseguir o traballo dos teus soños.",
+    "feature1Title": "Creador de arrastrar e soltar",
+    "feature1Desc": "Organiza facilmente as túas seccións, proxectos e habilidades co noso editor visual intuitivo.",
+    "feature2Title": "Temas personalizados",
+    "feature2Desc": "Escolle entre modelos deseñados profesionalmente ou crea o teu propio aspecto único.",
+    "feature3Title": "Analítica en tempo real",
+    "feature3Desc": "Fai un seguimento dos teus visitantes, mira que proxectos reciben máis atención e moito máis."
+  },
+  "auth": {
+    "welcomeBack": "Benvido de novo",
+    "loginToContinue": "Inicia sesión na túa conta para continuar",
+    "createAccount": "Crear conta",
+    "joinCommunity": "Únete a outros miles de desenvolvedores",
+    "fullName": "Nome completo",
+    "fullNamePlaceholder": "p.ex. ",
+    "email": "Enderezo de correo electrónico",
+    "emailPlaceholder": "ti@example.com",
+    "password": "Contrasinal",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Lémbrame",
+    "forgotPassword": "Esqueciches o contrasinal?",
+    "signIn": "Iniciar sesión",
+    "signingIn": "Iniciando sesión...",
+    "signUp": "Rexístrate",
+    "signingUp": "Rexistrando...",
+    "noAccount": "Non tes unha conta?",
+    "hasAccount": "Xa tes unha conta?",
+    "passwordRules": {
+      "title": "O contrasinal debe conter:",
+      "length": "Polo menos 8 caracteres",
+      "uppercase": "Unha letra maiúscula (A-Z)",
+      "number": "Un número (0-9)",
+      "symbol": "Un símbolo (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Creador de carteiras",
+      "templates": "Modelos e temas",
+      "settings": "Configuración",
+      "collapse": "Contraer a barra lateral",
+      "overview": "Visión xeral",
+      "profileSettings": "Configuración do perfil",
+      "customDomain": "Dominio personalizado",
+      "feedback": "Comentarios"
+    },
+    "header": {
+      "viewLive": "Ver en directo",
+      "welcome": "Benvido,",
+      "logout": "Pechar sesión",
+      "builder": "Construtor",
+      "livePortfolio": "Carteira en directo",
+      "live": "En directo"
+    },
+    "logoutModal": {
+      "title": "Pechar sesión",
+      "message": "Estás seguro de que queres pechar sesión na túa conta? ",
+      "cancel": "Cancelar",
+      "confirm": "Si, Logout"
+    },
+    "slugModal": {
+      "title": "Escolla o URL da súa carteira",
+      "message": "Este URL será a ligazón única á túa carteira. ",
+      "slugPlaceholder": "o teu nome",
+      "availability": "Dispoñibilidade:",
+      "available": "Dispoñible",
+      "unavailable": "Non dispoñible",
+      "checking": "Comprobando...",
+      "mustFormat": "Só pode conter letras, números e guións (-)",
+      "cancel": "Cancelar",
+      "save": "Gardar URL",
+      "usernameUrl": "URL do nome de usuario",
+      "helpText": "Letras minúsculas, números e guións. ",
+      "validation": {
+        "empty": "A babosa non pode estar baleira.",
+        "min3": "Mínimo 3 caracteres.",
+        "max30": "Máximo 30 caracteres.",
+        "format": "Só letras minúsculas, números e guións (-). "
+      }
+    },
+    "loadingPortfolio": "Cargando datos da carteira...",
+    "overview": {
+      "greetings": {
+        "morning": "Bos días",
+        "afternoon": "Boas tardes",
+        "evening": "Boas tardes",
+        "night": "Boa noite"
+      },
+      "welcome": {
+        "hi": "Ola,",
+        "creator": "Creador",
+        "desc1": "Benvido ao panel de control de DevFolio. A túa carteira foi vista por",
+        "desc2": "persoa. Seguide traballando!",
+        "editPortfolio": "Editar carteira"
+      },
+      "stats": {
+        "totalVisitors": "Total de visitantes",
+        "projectViews": "Visto (proxecto)",
+        "activeSessions": "Sesión activa",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Progreso da configuración",
+        "completed": "A túa carteira está completa! 🎉",
+        "inProgress": "Pasos para a carteira perfecta.",
+        "profile": {
+          "title": "Perfil completo",
+          "desc": "Engade nome, biografía e foto de perfil."
+        },
+        "section": {
+          "title": "Engadir seccións",
+          "desc": "Activa polo menos 1 sección na carteira."
+        },
+        "project": {
+          "title": "Engadir proxecto",
+          "desc": "Introduce polo menos 1 dos teus mellores proxectos."
+        },
+        "publish": {
+          "title": "Publicar portafolio",
+          "desc": "Establece un URL personalizado para que o público poida acceder a el."
+        }
+      },
+      "topProjects": {
+        "title": "Proxectos máis populares",
+        "desc": "A interpretación do teu traballo aos ollos dos visitantes.",
+        "viewAll": "Ver Todo",
+        "empty": "Aínda non hai datos de visualización do teu proxecto."
+      }
+    },
+    "themes": {
+      "title": "Modelos e temas",
+      "subtitle": "Personaliza o aspecto da túa carteira pública.",
+      "reset": "Restablecer valores predeterminados",
+      "save": "Gardar cambios",
+      "saving": "Gardando...",
+      "chooseTemplate": "Escolla un modelo",
+      "primaryColor": "Cor primaria",
+      "typography": "Tipografía",
+      "appearance": "Aspecto",
+      "corners": "Cantos e Bordes",
+      "successTitle": "Éxito",
+      "successMessage": "As preferencias do tema actualizáronse correctamente",
+      "errorTitle": "Erro",
+      "errorMessage": "Non se puideron gardar as preferencias do tema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Deseño limpo e sinxelo centrado no contido."
+        },
+        "developerDark": {
+          "name": "Desenvolvedor Dark",
+          "desc": "Tema escuro perfecto para mostrar código e pilas de tecnoloxía."
+        },
+        "creative": {
+          "name": "Creativo",
+          "desc": "Disposición vibrante e colorida para deseñadores e creativos."
+        },
+        "executive": {
+          "name": "Executivo",
+          "desc": "Maquetación profesional e formal para profesionais da empresa."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Disposición de cuadrícula moderna ao estilo de Apple que destaca diferentes habilidades de forma eficiente."
+        },
+        "neoBrutalism": {
+          "name": "Neobrutalismo",
+          "desc": "Bordes atrevidos e cores de alto contraste para un aspecto moderno e sen perdón."
+        },
+        "glassmorphism": {
+          "name": "Vidromorfismo",
+          "desc": "Efectos de vidro esmerilado sobre degradados de cores para unha interface de usuario moderna e elegante."
+        },
+        "linkInBio": {
+          "name": "Link na Bio",
+          "desc": "Disposición vertical compacta optimizada para pantallas móbiles e redes sociais."
+        }
+      },
+      "appearances": {
+        "light": "Luz",
+        "dark": "Escuro",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Redondeado",
+        "pill": "Pílula"
+      }
+    },
+    "feedback": {
+      "title": "Enviar comentarios",
+      "subtitle": "Axúdanos a melloralo proporcionando suxestións, críticas ou informando de erros nesta aplicación.",
+      "categoryLabel": "Categoría de comentarios",
+      "messageLabel": "Detalles da mensaxe",
+      "messagePlaceholder": "Cóntame en detalle os comentarios que queres transmitir...",
+      "imageLabel": "Anexo de imaxe (opcional)",
+      "imagePlaceholder": "Fai clic para cargar imaxe ou captura de pantalla",
+      "submitting": "Enviando...",
+      "submitBtn": "Enviar comentarios",
+      "categories": {
+        "suggestion": "Suxestións e Ideas",
+        "bug": "Informe de erros/erros",
+        "criticism": "Crítica",
+        "other": "Outros"
+      },
+      "imageErrorTitle": "Erro",
+      "imageErrorMessage": "Algúns ficheiros rexéitanse porque non son compatibles con formatos de imaxe (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Éxito",
+      "successMessage": "Grazas polos teus comentarios! Enviouse o informe.",
+      "submitErrorTitle": "Fallou",
+      "submitErrorMessage": "Produciuse un erro ao enviar comentarios. Téntao de novo."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Sobre min",
+      "skills": "Habilidades",
+      "projects": "Proxectos",
+      "workExperience": "Experiencia Laboral",
+      "orgExperience": "Experiencia organizativa",
+      "education": "Educación",
+      "certifications": "Formación e Certificacións",
+      "contact": "Contacta comigo"
+    },
+    "editor": {
+      "profileInfo": "Información do perfil",
+      "saving": "Gardando...",
+      "profilePhoto": "Foto de perfil",
+      "clickToUpload": "Fai clic para cargar (JPG, PNG)",
+      "fullName": "Nome completo",
+      "fullNamePlaceholder": "p.ex. ",
+      "bio": "biografía",
+      "bioPlaceholder": "Desenvolvedor Fullstack apaixonado por crear aplicacións web modernas...",
+      "location": "Localización",
+      "locationPlaceholder": "p.ex. ",
+      "gender": "Xénero",
+      "selectGender": "Seleccione Sexo",
+      "male": "Masculino",
+      "female": "Feminino",
+      "custom": "Personalizado",
+      "customPlaceholder": "Escribe o teu sexo personalizado...",
+      "uploadCv": "Cargar CV",
+      "cvFormat": "(DOC ou PDF)",
+      "preview": "Vista previa",
+      "remove": "Eliminar",
+      "clickToUploadCv": "Fai clic para cargar PDF ou DOC",
+      "sections": "Seccións",
+      "removeSelected": "Eliminar seleccionados",
+      "confirmRemove": "Confirma Eliminar",
+      "addSection": "Engadir sección",
+      "addAllSections": "Engadir todas as seccións",
+      "noSections": "Aínda non hai seccións",
+      "clickToAdd": "Fai clic en \"+ Engadir sección\" para comezar",
+      "selectAll": "Seleccione Todo",
+      "selected": "Seleccionado",
+      "dragToReorder": "Arrastre para reordenar as seccións",
+      "livePreview": "Vista previa en directo",
+      "addSectionsToBuild": "Engade seccións para crear a túa carteira",
+      "now": "Agora",
+      "current": "Actual",
+      "noExpiry": "Sen caducidade",
+      "see": "Vexa",
+      "position": "Posición",
+      "degree": "Grao",
+      "certification": "Certificación",
+      "sectionsForm": {
+        "about": {
+          "label": "Descrición de si mesmo",
+          "placeholder": "Fálanos de ti, dos teus antecedentes, intereses e habilidades..."
+        },
+        "skills": {
+          "addPlaceholder": "Escriba habilidade e prema Intro..."
+        },
+        "projects": {
+          "title": "Nome do proxecto",
+          "titlePlaceholder": "Nome do proxecto...",
+          "url": "URL do proxecto",
+          "description": "Descrición",
+          "descriptionPlaceholder": "Breve descrición do proxecto...",
+          "uploadThumbnail": "Imaxe do proxecto",
+          "addProject": "Engadir proxecto",
+          "projectNum": "Proxecto #",
+          "currentProject": "Este é un proxecto no que estou a traballar"
+        },
+        "work": {
+          "company": "Empresa/Axencia",
+          "companyPlaceholder": "Nome da empresa...",
+          "position": "Cargo/Título",
+          "positionPlaceholder": "A túa posición...",
+          "employmentType": "Tipo de traballo",
+          "location": "Localización",
+          "locationPlaceholder": "Cidade, País...",
+          "startDate": "Comeza",
+          "endDate": "Rematado",
+          "currentWork": "Aínda estou traballando neste momento",
+          "description": "Descrición",
+          "descriptionPlaceholder": "Descrición do traballo e responsabilidades...",
+          "skills": "Habilidade",
+          "addExperience": "Engadir experiencia laboral",
+          "experienceNum": "Experiencia #",
+          "dateError": "A data de finalización non pode ser anterior á data de inicio"
+        },
+        "org": {
+          "organization": "Nome da organización",
+          "orgPlaceholder": "Universidade BEM...",
+          "role": "Papel/Posición",
+          "rolePlaceholder": "Xefe de División...",
+          "addOrg": "Engadir experiencia organizativa",
+          "orgNum": "Organización #"
+        },
+        "edu": {
+          "institution": "Institucións educativas",
+          "institutionPlaceholder": "Nome do campus ou escola...",
+          "degree": "Título",
+          "degreePlaceholder": "S1, secundaria, etc...",
+          "major": "Departamento/Ámbito de estudo",
+          "majorPlaceholder": "Enxeñaría Informática...",
+          "gpa": "GPA (opcional)",
+          "currentStudy": "Aínda estou aprendendo aquí",
+          "descriptionPlaceholder": "Actividades e logros durante o estudo...",
+          "addEdu": "Engadir Educación",
+          "eduNum": "Educación #"
+        },
+        "cert": {
+          "name": "Nome da certificación/formación",
+          "namePlaceholder": "Nome da certificación...",
+          "issuer": "Editora",
+          "issuerPlaceholder": "Institución editorial...",
+          "issueDate": "Inicio (Data de publicación)",
+          "issueDatePlaceholder": "Selecciona a data de publicación...",
+          "expiryDate": "Completado (período válido)",
+          "expiryDatePlaceholder": "Selecciona a data de caducidade...",
+          "noExpiry": "Este certificado non ten data de caducidade",
+          "url": "URL da credencial",
+          "uploadThumbnail": "Certificado / Imaxe de Formación",
+          "uploadThumbnailLimit": "Cargar imaxe do certificado (JPG/PNG/WEBP, máximo 2 MB)",
+          "addCert": "Engadir certificación",
+          "certNum": "Certificación #"
+        },
+        "contact": {
+          "contactNum": "Contacto #",
+          "platform": "Plataforma",
+          "displayText": "Mostrar texto",
+          "displayTextPlaceholder": "por exemplo, you@email.com ou @username",
+          "url": "Ligazón (URL)",
+          "urlPlaceholderWhatsapp": "por exemplo, 62812... (sen 0 inicial)",
+          "urlPlaceholderEmail": "por exemplo, ti@email.com",
+          "urlPlaceholderWebsite": "por exemplo, https://...",
+          "urlPlaceholderDefault": "por exemplo, nome de usuario",
+          "addContact": "Engadir contacto"
+        },
+        "common": {
+          "months": {
+            "1": "xaneiro",
+            "2": "febreiro",
+            "3": "marzo",
+            "4": "abril",
+            "5": "maio",
+            "6": "Xuño",
+            "7": "xullo",
+            "8": "agosto",
+            "9": "setembro",
+            "10": "Outubro",
+            "11": "novembro",
+            "12": "decembro"
+          },
+          "month": "Mes",
+          "year": "Ano",
+          "invalidDate": "Mes de finalización non válido",
+          "words": "palabras"
+        }
+      },
+      "sure": "Claro",
+      "deletePhotoTitle": "Queres eliminar a foto do perfil?",
+      "deletePhotoMessage": "Estás seguro de que queres eliminar esta foto de perfil?",
+      "cancel": "Cancelar",
+      "delete": "Eliminar"
+    },
+    "cropper": {
+      "chooseBackground": "Escolla Fondo",
+      "cropPhoto": "Recorta a túa foto",
+      "useOriginal": "Usa orixinal",
+      "backgroundPresets": "Predefinidos de fondo",
+      "none": "Ningún",
+      "uploadBackground": "Cargar fondo",
+      "cancel": "Cancelar",
+      "savePhoto": "Gardar foto",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotación e inclinación",
+      "resetRotation": "Restablecer a 0°",
+      "center": "Centro",
+      "rotateLeft": "Xirar -90°",
+      "rotateRight": "Xirar +90°",
+      "removeBackground": "Eliminar fondo",
+      "processing": "Procesando a túa imaxe, agarda..."
+    },
+    "cvPreview": {
+      "title": "Vista previa do CV",
+      "downloadCv": "Descargar CV",
+      "download": "Descargar",
+      "wordCannotPreview": "Os documentos de Word (.doc/.docx) non se poden previsualizar de forma nativa no navegador. ",
+      "downloadFile": "Descargar ficheiro CV",
+      "back": "De volta",
+      "mobileMessage": "Descarga o ficheiro CV para previsualizar.",
+      "preview": "Vista previa do CV",
+      "wordPreviewTitle": "Vista previa de documentos de Word",
+      "wordPreviewMessage": "Os documentos de Word (.doc/.docx) non se poden previsualizar de forma nativa no navegador. Descarga o ficheiro para velo."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Escribe unha breve descrición sobre ti mesmo, intereses e obxectivos profesionais..."
+    },
+    "skills": {
+      "placeholder": "Escribe o nome da habilidade...",
+      "add": "Engadir",
+      "enterToAdd": "Preme Intro para engadir",
+      "noSkills": "Aínda non hai habilidades engadidas."
+    },
+    "projects": {
+      "projectName": "Nome do proxecto",
+      "projectNamePlaceholder": "p.ex. ",
+      "projectUrl": "URL do proxecto",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Duración",
+      "startMonth": "Mes de inicio",
+      "startYear": "Ano de inicio",
+      "endMonth": "Fin de mes",
+      "endYear": "Fin de ano",
+      "currentlyWorking": "Actualmente traballando nisto",
+      "description": "Descrición",
+      "descriptionPlaceholder": "Describe o proxecto, o teu papel e os logros...",
+      "technologies": "Tecnoloxías utilizadas",
+      "addProject": "Engadir proxecto",
+      "image": "Imaxe do proxecto",
+      "removeImage": "Eliminar imaxe",
+      "uploadImage": "Fai clic para cargar a imaxe"
+    },
+    "work": {
+      "company": "Empresa/Institución",
+      "companyPlaceholder": "Nome da empresa...",
+      "role": "Papel/Posición",
+      "rolePlaceholder": "A túa posición...",
+      "jobType": "Tipo de traballo",
+      "selectJobType": "Seleccione o tipo",
+      "fullTime": "Xornada completa",
+      "partTime": "Xornada parcial",
+      "contract": "Contrato",
+      "internship": "Prácticas",
+      "freelance": "Autónomo",
+      "location": "Localización",
+      "locationPlaceholder": "p.ex. ",
+      "duration": "Duración",
+      "currentlyWorking": "Actualmente traballando aquí",
+      "description": "Descrición do posto de traballo",
+      "descriptionPlaceholder": "Describe as túas principais responsabilidades e logros...",
+      "skills": "Habilidades específicas",
+      "addExperience": "Engade experiencia"
+    },
+    "org": {
+      "organization": "Nome da organización",
+      "organizationPlaceholder": "Nome da organización...",
+      "role": "Papel/Posición",
+      "rolePlaceholder": "p.ex. ",
+      "duration": "Duración",
+      "periodFormat": "ou formato gratuíto (por exemplo, 2020-2022)",
+      "periodPlaceholder": "p.ex. ",
+      "currentlyActive": "Actualmente activo",
+      "description": "Descrición da actividade",
+      "descriptionPlaceholder": "Describe as túas actividades ou contribucións...",
+      "addExperience": "Engade experiencia"
+    },
+    "education": {
+      "institution": "Nome da institución",
+      "institutionPlaceholder": "Nome da escola ou universidade...",
+      "degree": "Grao/Nivel",
+      "degreePlaceholder": "p.ex. ",
+      "major": "Maior/Ámbito de estudo",
+      "majorPlaceholder": "p.ex. ",
+      "gpa": "GPA / Grao",
+      "gpaPlaceholder": "p.ex. ",
+      "duration": "Duración da educación",
+      "periodFormat": "ou formato gratuíto (por exemplo, 2018-2022)",
+      "periodPlaceholder": "p.ex. ",
+      "currentlyStudying": "Actualmente estudando aquí",
+      "description": "Actividades / Honras",
+      "descriptionPlaceholder": "Describe actividades académicas, organizacións ou honores recibidos...",
+      "addEducation": "Engadir Educación"
+    },
+    "cert": {
+      "name": "Nome da certificación",
+      "namePlaceholder": "p.ex. ",
+      "issuer": "Organización emisora",
+      "issuerPlaceholder": "p.ex. ",
+      "issueDate": "Data de emisión",
+      "expiryDate": "Válido ata",
+      "noExpiry": "Esta credencial non caduca",
+      "yearPlaceholder": "ou Ano (por exemplo, 2023)",
+      "credentialUrl": "URL da credencial",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Habilidades relacionadas",
+      "addCertification": "Engadir certificación",
+      "image": "Imaxe/Logotipo",
+      "removeImage": "Eliminar imaxe",
+      "uploadImage": "Fai clic para cargar a imaxe"
+    },
+    "common": {
+      "months": {
+        "1": "xaneiro",
+        "2": "febreiro",
+        "3": "marzo",
+        "4": "abril",
+        "5": "maio",
+        "6": "Xuño",
+        "7": "xullo",
+        "8": "agosto",
+        "9": "setembro",
+        "10": "Outubro",
+        "11": "novembro",
+        "12": "decembro"
+      },
+      "month": "Mes",
+      "year": "Ano",
+      "invalidDate": "Mes de finalización non válido",
+      "words": "palabras"
+    }
+  },
+  "settings": {
+    "title": "Configuración",
+    "subtitle": "Xestiona o teu perfil e as preferencias da carteira",
+    "tabs": {
+      "profile": "O meu perfil",
+      "security": "Seguridade",
+      "personalization": "Personalización"
+    },
+    "profile": {
+      "infoTitle": "Información básica",
+      "photo": "Foto de perfil",
+      "uploadPhoto": "Cambiar foto",
+      "fullName": "Nome completo",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Enderezo de correo electrónico",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "O correo electrónico úsase para iniciar sesión e non se mostra publicamente.",
+      "portfolioUrl": "URL da carteira",
+      "saveProfile": "Gardar o perfil",
+      "save": "Gardar o perfil",
+      "accountCreated": "Conta creada",
+      "lastLogin": "Último inicio de sesión",
+      "oauthNotice": "Este perfil está conectado á túa conta de {{provedor}}. Os cambios no perfil deben facerse a través do fornecedor de servizos."
+    },
+    "security": {
+      "changePassword": "Cambiar contrasinal",
+      "currentPassword": "Contrasinal actual",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Contrasinal novo",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Confirme o novo contrasinal",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Polo menos 8 caracteres",
+        "uppercase": "Unha letra maiúscula (A-Z)",
+        "number": "Un número (0-9)",
+        "symbol": "Un símbolo (!@#$%^&*)"
+      },
+      "passwordTitle": "Contrasinal",
+      "updatePassword": "Actualizar contrasinal",
+      "additionalSecurity": "Seguridade Adicional",
+      "twoFactor": "Autenticación de dous factores (2FA)",
+      "twoFactorDesc": "Protexe a túa conta usando un código OTP adicional.",
+      "activeSessions": "Sesións activas",
+      "activeSessionsDesc": "Permitir sempre a monitorización dos dispositivos conectados.",
+      "publicVisibility": "Visibilidade Pública",
+      "hideFromSearch": "Ocultar a carteira dos buscadores",
+      "hideFromSearchDesc": "Evita que Google indexe a túa páxina de carteira pública.",
+      "disable2fa": {
+        "title": "Desactivar 2FA",
+        "description": "Estás seguro de que queres desactivar a autenticación de dous factores?",
+        "confirmPasswordLabel": "Introduce o teu contrasinal para confirmar",
+        "currentPasswordPlaceholder": "Contrasinal actual",
+        "cancelButton": "Cancelar",
+        "confirmButton": "Desactivar 2FA",
+        "incorrectPassword": "Contrasinal incorrecto."
+      },
+      "setup2fa": {
+        "step1Title": "1. Escanear o código QR",
+        "step1Desc": "Abre a túa aplicación de autenticación e escanea o seguinte código QR:",
+        "unableToScan": "Non se pode escanear? Use a tecla de configuración",
+        "step2Title": "2. Verifica o código",
+        "step2Desc": "Introduce o código de 6 díxitos xerado pola túa aplicación:",
+        "cancelButton": "Cancelar",
+        "enableButton": "Activar 2FA",
+        "invalidLength": "Introduce un código de 6 díxitos.",
+        "invalidCode": "Código de verificación non válido. Téntao de novo."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Controis lingüísticos",
+      "appLanguage": "Idioma da aplicación",
+      "layoutTitle": "Maquetación e tipografía",
+      "layoutStyle": "Estilo de deseño",
+      "layoutModern": "Estilo moderno (predeterminado)",
+      "layoutClassic": "Estilo Clásico",
+      "layoutMinimalist": "Estilo minimalista",
+      "fontSize": "Tamaño da fonte da aplicación",
+      "fontSmall": "Pequeno",
+      "fontNormal": "Normal (Medio)",
+      "fontLarge": "Grande",
+      "searchLanguage": "Buscar idioma...",
+      "languageNotFound": "Non se atopou o idioma",
+      "layoutElegant": "Estilo elegante"
+    },
+    "saveChanges": "Gardar cambios",
+    "cancel": "Cancelar",
+    "appSettings": "Configuración da aplicación",
+    "logoutConfirmTitle": "Confirmar a saída",
+    "logoutConfirmDesc": "Estás seguro de que queres pechar a sesión do sistema?",
+    "logoutConfirmYes": "Si, Logout",
+    "generalError": "Produciuse un erro. ",
+    "success": "Éxito",
+    "preferencesSaved": "As preferencias da aplicación gardáronse correctamente.",
+    "header": "Configuración da aplicación",
+    "logout": {
+      "title": "Confirmación de saída",
+      "message": "Estás seguro de que queres pechar a sesión do sistema?",
+      "confirm": "Si, Saír"
+    },
+    "about": {
+      "title": "Sobre a aplicación",
+      "subtitle": "Plataforma de creación de carteiras",
+      "version": "Versión",
+      "description": "DevFolio é unha plataforma moderna de creación de carteiras deseñada para desenvolvedores, deseñadores e creadores profesionais. ",
+      "license": "Licenza e Copyright",
+      "copyright": "© 2026 DevFolio Inc. Todos os dereitos reservados.",
+      "developer": "Desenvolvedor",
+      "developedBy": "Desenvolvido por Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Eliminar permanentemente a conta",
+      "menuItem": "Eliminar conta",
+      "successTitle": "Éxito",
+      "successMessage": "Enviouse un correo electrónico de confirmación da eliminación da conta.",
+      "errorTitle": "Fallou",
+      "errorMessage": "Produciuse un erro ao enviar o correo electrónico de confirmación.",
+      "confirmationMessage": "Estás seguro de que queres eliminar a túa conta permanentemente?",
+      "warningMessage1": "Recibirás un correo electrónico para confirmar a eliminación da conta.",
+      "warningMessage2": "Se se confirma, todos os datos (cartera, proxectos, estatísticas) eliminaranse permanentemente e non se poderán recuperar.",
+      "cancel": "Cancelar",
+      "confirm": "Confirmación"
+    },
+    "toasts": {
+      "toastError": "Erro",
+      "toastSuccess": "Éxito",
+      "toastSetup2FAFailed": "Produciuse un erro ao configurar 2FA. Téntao de novo.",
+      "toast2FAEnabled": "Activouse a autenticación de dous factores.",
+      "toast2FADisabled": "Desactivouse a autenticación de dous factores.",
+      "toastSessionEnabled": "Activouse o seguimento activo da sesión.",
+      "toastSessionDisabled": "Desactivouse a supervisión activa da sesión.",
+      "toastSetupKeyCopied": "Copiouse a tecla de configuración no portapapeis."
+    },
+    "privacy": {
+      "title": "Política de privacidade",
+      "updateDate": "Última actualización: 15 de xullo de 2026",
+      "intro": "Esta Política de Privacidade explica como DevFolio recolle, usa e protexe a súa información persoal cando utiliza os nosos servizos.",
+      "section1Title": "1. Información que recompilamos",
+      "section1Content": "Recopilamos a información que proporcionas directamente ao crear unha conta, crear unha carteira e contactar co noso servizo de asistencia. ",
+      "section2Title": "2. Uso da Información",
+      "section2Content": "A súa información utilízase para operar, manter e proporcionar as funcións dos nosos servizos, así como para comunicarse contigo en relación coa túa conta ou servizos.",
+      "section3Title": "3. Seguridade dos datos",
+      "section3Content": "Implementamos medidas de seguridade razoables para protexer a súa información do acceso, divulgación ou destrución non autorizados."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Non se atopou o token de confirmación.",
+    "defaultError": "Produciuse un erro ao eliminar a conta. É posible que o token caducou.",
+    "loadingTitle": "Eliminando conta...",
+    "loadingMessage": "Agarde, estamos procesando a súa solicitude.",
+    "successTitle": "A conta eliminouse correctamente",
+    "successMessage": "Elimináronse permanentemente todos os teus datos. Serás redirixido...",
+    "errorTitle": "Produciuse un erro ao eliminar a conta",
+    "backToHome": "Volver á casa"
+  },
+  "forgotPassword": {
+    "minutes": "minutos",
+    "seconds": "segundos",
+    "success": "Éxito",
+    "otpSentToEmail": "Enviouse un código OTP ao teu correo electrónico.",
+    "failed": "Fallou",
+    "emailNotFound": "Non se atopou o correo electrónico.",
+    "emailThirdParty": "Este correo electrónico está rexistrado a través dun terceiro.",
+    "genericError": "Hai un erro. Téntao de novo.",
+    "otpVerified": "Verificouse correctamente o código OTP.",
+    "otpExpired": "O código OTP caducou. Solicita un novo código.",
+    "otpInvalid": "Código OTP non válido.",
+    "otpResent": "Enviouse un novo código OTP ao teu correo electrónico.",
+    "otpResendFailed": "Produciuse un erro ao reenviar o código OTP. Téntao de novo.",
+    "passwordResetSuccess": "O contrasinal restablecido correctamente. Inicia sesión co teu novo contrasinal.",
+    "passwordResetFailed": "Produciuse un erro ao restablecer o contrasinal.",
+    "backToLogin": "Volver ao inicio de sesión",
+    "back": "Atrás",
+    "title": "Esquecín o contrasinal",
+    "description": "Introduza o enderezo de correo electrónico rexistrado na súa conta. Enviaremos un código OTP para restablecer o contrasinal.",
+    "emailLabel": "Enderezo de correo electrónico",
+    "sending": "Enviando...",
+    "sendOtp": "Enviar código OTP",
+    "verifyOtpTitle": "Verifique o código OTP",
+    "verifyOtpDesc": "Introduce o código de 6 díxitos que se enviou ao teu correo electrónico para confirmar a túa identidade.",
+    "verifying": "Verificando...",
+    "verifyOtp": "Verificar OTP",
+    "resending": "Reenviando...",
+    "resendOtp": "Reenviar o código OTP",
+    "resendCodeIn": "Reenviar o código en",
+    "newPasswordTitle": "Crear un novo contrasinal",
+    "newPasswordDesc": "Crea un contrasinal novo e seguro para protexer a túa conta.",
+    "newPasswordLabel": "Contrasinal novo",
+    "min8Chars": "Mínimo 8 caracteres",
+    "oneUpperCase": "1 maiúscula (A-Z)",
+    "oneNumber": "1 número (0-9)",
+    "oneSymbol": "1 símbolo (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirmar o contrasinal",
+    "passwordsDoNotMatch": "Os contrasinais non coinciden.",
+    "resettingPassword": "Restablecendo o contrasinal...",
+    "resetPassword": "Restablecer o contrasinal"
+  },
+  "verifyEmail": {
+    "resendError": "Produciuse un erro ao reenviar o correo electrónico de verificación. Téntao de novo.",
+    "checkingStatus": "Comprobando o estado da verificación...",
+    "title": "Consulte o seu correo electrónico",
+    "description": "Enviamos un correo electrónico de verificación ao teu enderezo de correo electrónico. Abre o correo electrónico e fai clic no botón <1>\"Confirmar conta\"</1> para activar a túa conta.",
+    "stepsTitle": "Pasos",
+    "step1": "Abre a túa aplicación de correo electrónico (Gmail, Yahoo, etc.)",
+    "step2": "Busca un correo electrónico de DevFolio co asunto \"Activación da conta\"",
+    "step3": "Fai clic no botón \"Confirmar conta\" no correo electrónico",
+    "step4": "Dirixirase á páxina de inicio de sesión para ingresar",
+    "resendSuccess": "O correo electrónico de verificación foi enviado de novo.",
+    "resending": "Reenviando...",
+    "resendButton": "Reenviar correo electrónico de verificación",
+    "backToLogin": "Volver á páxina de inicio de sesión",
+    "footerNote": "Non recibiches o correo electrónico? Comprobe o cartafol <1>Spam</1> ou <2>Correo lixo</2> no seu correo electrónico. A ligazón de verificación é válida durante <3>24 horas</3>."
+  }
+}

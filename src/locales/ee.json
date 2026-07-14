@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Ŋutinuwo",
+    "templates": "Kpɔɖeŋuwo",
+    "pricing": "Ga home si woaxe",
+    "login": "Ge ɖe eme",
+    "getStarted": "Dze Egɔme",
+    "title": "DevFolio ƒe agbalẽ"
+  },
+  "landing": {
+    "badge": "Portfolio tutula mamlɛtɔ na dɔwɔlawo",
+    "title1": "Tu wò dɔnyala ɖo",
+    "title2": "portfolio le",
+    "titleHighlight": "sɛkɛndwo.",
+    "subtitle": "Nusianu si nèhiã be nàtsɔ aɖe wò aɖaŋuwo, dɔwo, kple nuteƒekpɔkpɔwo afia. ",
+    "startBuilding": "Dze Xɔtutu Gɔme Fifia",
+    "viewTemplates": "Kpɔ Templatewo ɖa",
+    "fastDeployment": "Dɔwɔwɔ Kabakaba",
+    "liveStatus": "username.dev le agbe!",
+    "featuresTitle": "Nusiwo Ŋu Ŋusẽ Le",
+    "featuresSubtitle": "Míenaa dɔwɔnu siwo katã nèhiã be nàto vovo tso amehawo dome eye nàdze wò drɔ̃eƒedɔa gɔme.",
+    "feature1Title": "He & Drop Xɔtula",
+    "feature1Desc": "Ðo wò akpawo, dɔwo, kple aɖaŋuwo ɖe ɖoɖo nu bɔbɔe kple míaƒe nukpɔkpɔ ƒe nuŋlɔla si me kɔ nyuie.",
+    "feature2Title": "Tanya Siwo Wowɔ Ðe Ðoɖo Nu",
+    "feature2Desc": "Tia tso nɔnɔmetata siwo wowɔ nyuie me alo wɔ wò ŋutɔ wò dzedzeme tɔxɛ.",
+    "feature3Title": "Ɣeyiɣi ŋutɔŋutɔ me Numekuku",
+    "feature3Desc": "Lé ŋku ɖe wò amedzrowo ŋu, kpɔ dɔ siwo ŋu amewo ƒe susu le wu, kple bubuwo."
+  },
+  "auth": {
+    "welcomeBack": "Míexɔe nyuie le Trɔgbɔ",
+    "loginToContinue": "Ge ɖe wò akɔnta me be nàyi edzi",
+    "createAccount": "Wɔ Akɔntabubu",
+    "joinCommunity": "Wɔ ɖeka kple dɔwɔƒe akpe geɖe bubu siwo wɔa dɔ",
+    "fullName": "Ŋkɔ Bliboa",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Email Adrɛs",
+    "emailPlaceholder": "wò@kpɔɖeŋu.com",
+    "password": "Safuinya",
+    "passwordPlaceholder": "••••••••------------------------------------------------------------------------------------------------------------------------",
+    "rememberMe": "Ðo ŋku dzinye",
+    "forgotPassword": "Èŋlɔ nyagbe ɣaɣla bea?",
+    "signIn": "De asi ete",
+    "signingIn": "De asi ete...",
+    "signUp": "De asi agbalẽ te",
+    "signingUp": "De asi agbalẽ te...",
+    "noAccount": "Akɔntabubu aɖeke mele asiwò oa?",
+    "hasAccount": "Akɔntabubu le asiwò xoxoa?",
+    "passwordRules": {
+      "title": "Ele be:",
+      "length": "Ne mede ɖeke o la, ŋɔŋlɔdzesi 8 ya teti",
+      "uppercase": "Ŋɔŋlɔdzesi gã ɖeka (A-Z) .",
+      "number": "Xexlẽdzesi ɖeka (0-9) .",
+      "symbol": "Dzesi ɖeka (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Dɔwɔƒe si Kpɔa Dɔwɔnyawo Gbɔ",
+      "templates": "Templates & Tanyawo",
+      "settings": "Ðoɖowo",
+      "collapse": "Collapse Axadzinuŋɔŋlɔ",
+      "overview": "Kpɔɖeŋu bliboa",
+      "profileSettings": "Profile ƒe Ðoɖowo",
+      "customDomain": "Domenyinyi si Wowɔ Ðe Ðoɖo Nu",
+      "feedback": "Nutsotso"
+    },
+    "header": {
+      "viewLive": "Kpɔ Live",
+      "welcome": "Woezɔ̃,",
+      "logout": "Do go le eme",
+      "builder": "Xɔtula",
+      "livePortfolio": "Live Portfolio",
+      "live": "Nɔ agbe"
+    },
+    "logoutModal": {
+      "title": "Do go le eme",
+      "message": "Èka ɖe edzi be yedi be yeado le yeƒe akɔnta mea? ",
+      "cancel": "Te fli ɖe eme",
+      "confirm": "Ẽ, Do go"
+    },
+    "slugModal": {
+      "title": "Tia Wò Dɔwɔƒea ƒe URL",
+      "message": "URL sia anye kadodo tɔxɛ si ayi wò portfolio gbɔ. ",
+      "slugPlaceholder": "wò-ŋkɔ",
+      "availability": "Nusiwo li:",
+      "available": "Eli",
+      "unavailable": "Womekpɔe o",
+      "checking": "Le ŋku lém ɖe...",
+      "mustFormat": "Ŋɔŋlɔdzesiwo, xexlẽdzesiwo, kple flitetewo (-) koe ate ŋu anɔ eme .",
+      "cancel": "Te fli ɖe eme",
+      "save": "Dzra URL la ɖo",
+      "usernameUrl": "Zãla ƒe ŋkɔ URL",
+      "helpText": "Ŋɔŋlɔdzesi suewo, xexlẽdzesiwo, kple flitetewo. ",
+      "validation": {
+        "empty": "Slug mate ŋu anye ƒuƒlu o.",
+        "min3": "Ŋɔŋlɔdzesi 3 ya teti.",
+        "max30": "Ŋɔŋlɔdzesi 30 ya teti.",
+        "format": "Ŋɔŋlɔdzesi suewo, xexlẽdzesiwo, kple flitetewo (-) koe. "
+      }
+    },
+    "loadingPortfolio": "Wole portfolio ƒe nyatakakawo tsɔm...",
+    "overview": {
+      "greetings": {
+        "morning": "Ŋdi na wò",
+        "afternoon": "Ŋdɔ nyui na wò",
+        "evening": "Ŋdɔ nyui na wò",
+        "night": "Zã Nyui"
+      },
+      "welcome": {
+        "hi": "Hi, .",
+        "creator": "Wɔla",
+        "desc1": "Míexɔ mi nyuie ɖe DevFolio ƒe dashboard la dzi. Wokpɔ wò portfolio la to...",
+        "desc2": "ame. Yi edzi nànɔ dɔ wɔm!",
+        "editPortfolio": "Trɔ asi le Portfolio ŋu"
+      },
+      "stats": {
+        "totalVisitors": "Amedzrowo Katã",
+        "projectViews": "Wokpɔe (Dɔwɔwɔ) .",
+        "activeSessions": "Dɔwɔwɔ ƒe Session",
+        "totalLabel": "Wo katã ƒe xexlẽme"
+      },
+      "setup": {
+        "title": "Ðoɖowɔwɔ ƒe Ŋgɔyiyi",
+        "completed": "Wò agbalẽdzraɖoƒea de blibo! 🎉",
+        "inProgress": "Afɔɖeɖe siwo yia portfolio deblibo la gbɔ.",
+        "profile": {
+          "title": "Profile Bliboe",
+          "desc": "Tsɔ ŋkɔ, bio kple profile photo kpee."
+        },
+        "section": {
+          "title": "Tsɔ Akpawo Kpe Ðe Eŋu",
+          "desc": "Wɔ akpa 1 ya teti ŋudɔ le agbalẽdzraɖoƒea."
+        },
+        "project": {
+          "title": "Tsɔ Dɔwɔɖoɖoa kpee",
+          "desc": "Ŋlɔ wò dɔ nyuitɔwo dometɔ 1 ya teti ɖe eme."
+        },
+        "publish": {
+          "title": "Ta Dɔwɔƒea ƒe Agbalẽdzraɖoƒe",
+          "desc": "Ðo URL tɔxɛ aɖe ale be dukɔa nate ŋu age ɖe eme."
+        }
+      },
+      "topProjects": {
+        "title": "Dɔ Siwo Ame Xɔlɔ̃ Wu",
+        "desc": "Wò dɔa wɔwɔ le amedzrowo ŋkume.",
+        "viewAll": "Kpɔ Wo Katã",
+        "empty": "View data aɖeke meli na wò dɔa haɖe o."
+      }
+    },
+    "themes": {
+      "title": "Templates & Tanyawo",
+      "subtitle": "Trɔ asi le wò dutoƒo agbalẽdzraɖoƒea ƒe dzedzeme kple alesi wòase le eɖokui ŋui ŋu.",
+      "reset": "Gbugbɔ ɖo Default",
+      "save": "Dzra Tɔtrɔwo ɖo",
+      "saving": "Dzraɖoƒe...",
+      "chooseTemplate": "Tia Nɔnɔmetata aɖe",
+      "primaryColor": "Amadede Gbãtɔ",
+      "typography": "Agbalẽtata ƒe nuŋɔŋlɔ",
+      "appearance": "Dzedzeme",
+      "corners": "Dzogoewo & Liƒowo",
+      "successTitle": "Dzidzedzekpɔkpɔ",
+      "successMessage": "Wotrɔ asi le tanya ƒe tiatiawɔblɔɖe ŋu dzidzedzetɔe",
+      "errorTitle": "Vodada",
+      "errorMessage": "Do kpo tanya ƒe tiatiawɔblɔɖewo dzadzraɖo",
+      "templates": {
+        "minimalist": {
+          "name": "Nu suetɔ kekeake",
+          "desc": "Aɖaŋu si le dzadzɛ eye wòle bɔbɔe si léa fɔ ɖe emenyawo ŋu."
+        },
+        "developerDark": {
+          "name": "Developer Viviti",
+          "desc": "Viviti tanya deblibo na ɖeɖefia code kple tech stacks."
+        },
+        "creative": {
+          "name": "Nuwɔwɔ",
+          "desc": "Ðoɖo si me dzo le eye wòle amadede vovovowo me na atsyãwɔlawo kple nutovɛlawo."
+        },
+        "executive": {
+          "name": "Dɔdzikpɔlagã",
+          "desc": "Dɔnyala kple ɖoɖo si wowɔ le se nu na asitsala bibiwo."
+        },
+        "bentoGrid": {
+          "name": "Bento ƒe Grid",
+          "desc": "Egbegbe Apple ƒe atsyã ƒe grid ɖoɖo si te gbe ɖe aɖaŋu vovovowo dzi nyuie."
+        },
+        "neoBrutalism": {
+          "name": "Ŋutasẽnuwɔwɔ Yeye",
+          "desc": "Liƒo siwo me kɔ kple amadede siwo to vovo ŋutɔ na dzedzeme si le tsia dzi, si meɖe kuku o."
+        },
+        "glassmorphism": {
+          "name": "Glass ƒe nɔnɔme",
+          "desc": "Frosted glass ŋusẽkpɔɖeamedziwo le amadede ƒe gradients dzi na egbegbe UI si le blɔ."
+        },
+        "linkInBio": {
+          "name": "Kadodo le Bio",
+          "desc": "Compact vertical layout si wowɔ wòsɔ nyuie na asitelefon ƒe screenwo kple hadomenyatakakadzraɖoƒewo."
+        }
+      },
+      "appearances": {
+        "light": "Kekeli",
+        "dark": "Viviti",
+        "system": "Ðoɖo"
+      },
+      "cornersOptions": {
+        "sharp": "Nu ɖaɖɛ",
+        "rounded": "Woƒo xlãe",
+        "pill": "Atikekui"
+      }
+    },
+    "feedback": {
+      "title": "Ðo Nyaŋuɖoɖowo ɖa",
+      "subtitle": "Kpe ɖe mía ŋu míawɔe wòanyo wu to aɖaŋuɖoɖowo nana, ɖeklemiɖeɖe, alo nyatakaka tso vodadawo ŋu le dɔwɔnu sia dzi me.",
+      "categoryLabel": "Nyaŋuɖoɖo ƒe hatsotso",
+      "messageLabel": "Gbedasɛ Ŋuti Nyatakakawo",
+      "messagePlaceholder": "Gblɔ nyaŋuɖoɖo siwo nèdi be yeagblɔ nam tsitotsito...",
+      "imageLabel": "Nɔnɔmetata ƒe Kpekpeɖeŋu (Ne èdi)",
+      "imagePlaceholder": "Zi edzi be nàda nɔnɔmetata alo screenshot",
+      "submitting": "Woɖoe ɖa...",
+      "submitBtn": "Ðo Nyaŋuɖoɖowo ɖa",
+      "categories": {
+        "suggestion": "Aɖaŋuɖoɖowo & Susuwo",
+        "bug": "Bug / Vodada ƒe Nyatakaka",
+        "criticism": "Ðeklemiɖeɖe",
+        "other": "Ame bubuwo"
+      },
+      "imageErrorTitle": "Vodada",
+      "imageErrorMessage": "Wogbe faɛl aɖewo elabena womedo alɔ nɔnɔmetata ƒe nɔnɔmewo o (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Dzidzedzekpɔkpɔ",
+      "successMessage": "Akpe na mi ɖe miaƒe nyaŋuɖoɖo ta! Woɖo nyatakaka ɖa.",
+      "submitErrorTitle": "Do kpo nu",
+      "submitErrorMessage": "Vodada aɖe dzɔ esime wole nyaŋuɖoɖowo ɖom ɖa. Taflatse gadze agbagba ake."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Tso Nye Ŋu",
+      "skills": "Aɖaŋuwɔwɔ",
+      "projects": "Dɔwɔnawo",
+      "workExperience": "Dɔwɔwɔ Ŋuti Nuteƒekpɔkpɔ",
+      "orgExperience": "Habɔbɔ ƒe Nuteƒekpɔkpɔ",
+      "education": "Susᴐsrɔ̃",
+      "certifications": "Hehenana & Ðaseɖigbalẽwo",
+      "contact": "Te Ðe Ŋunye"
+    },
+    "editor": {
+      "profileInfo": "Nyatakakawo Ŋuti Nyatakakawo",
+      "saving": "Dzraɖoƒe...",
+      "profilePhoto": "Profile Photo",
+      "clickToUpload": "Zi edzi be nàdae ɖe Internet dzi (JPG, PNG)",
+      "fullName": "Ŋkɔ Bliboa",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer si ƒe didi vevie le egbegbe web apps tutu me...",
+      "location": "Teƒe",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Na",
+      "selectGender": "Tia Ŋutsu alo nyɔnu nyenye",
+      "male": "Atsu",
+      "female": "Asi",
+      "custom": "Dekᴐnu",
+      "customPlaceholder": "Ŋlɔ wò ŋutsu alo nyɔnu nyenye si nèwɔ ɖe ɖoɖo nu...",
+      "uploadCv": "Tsɔ CV da ɖe Internet dzi",
+      "cvFormat": "(DOC alo PDF)",
+      "preview": "Kpɔe do ŋgɔ",
+      "remove": "Ɖee le eme",
+      "clickToUploadCv": "Zi edzi be nàda PDF alo DOC ɖe edzi",
+      "sections": "Akpawo",
+      "removeSelected": "Ðe Nusiwo Wotia ɖa",
+      "confirmRemove": "Ðo kpe edzi be Ðee",
+      "addSection": "Tsɔ Akpa Kpe Ðe Eŋu",
+      "addAllSections": "Tsɔ Akpaawo Katã Tsɔe Kpe Ðe Eŋu",
+      "noSections": "Akpa aɖeke meli haɖe o",
+      "clickToAdd": "Zi \"+ Add Section\" dzi be nàdze egɔme",
+      "selectAll": "Tia Wo Katã",
+      "selected": "Wotiae",
+      "dragToReorder": "Hee be nàgbugbɔ aɖo akpaawo ɖe ɖoɖo nu",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Tsɔ akpawo kpee be nàtu wò agbalẽdzraɖoƒea",
+      "now": "Fifia",
+      "current": "Fifia",
+      "noExpiry": "Nuwuwu aɖeke Meli o",
+      "see": "Kpɔ",
+      "position": "Ɖoƒe",
+      "degree": "Ɖoƒe",
+      "certification": "Ðaseɖigbalẽ nana",
+      "sectionsForm": {
+        "about": {
+          "label": "Wò ŋutɔ ɖokuiwò ŋuti numeɖeɖe",
+          "placeholder": "Gblɔ wò ŋutɔ, wò nɔnɔme, nusiwo me nètsɔ ɖe le kple aɖaŋuwo na mí..."
+        },
+        "skills": {
+          "addPlaceholder": "Ŋlɔ aɖaŋu emegbe nàzi Enter dzi..."
+        },
+        "projects": {
+          "title": "Dɔa ƒe Ŋkɔ",
+          "titlePlaceholder": "Dɔa ƒe ŋkɔ...",
+          "url": "Dɔa ƒe URL",
+          "description": "Nuɖᴐɖᴐ",
+          "descriptionPlaceholder": "Dɔa ŋuti numeɖeɖe kpui aɖe...",
+          "uploadThumbnail": "Dɔa ƒe Nɔnɔmetata",
+          "addProject": "Tsɔ Dɔwɔɖoɖo kpee",
+          "projectNum": "Dɔwɔna #",
+          "currentProject": "Esia nye dɔ aɖe si ŋu mele dɔ wɔm le"
+        },
+        "work": {
+          "company": "Dɔwɔƒe/Dɔwɔƒe",
+          "companyPlaceholder": "Dɔwɔƒea ƒe ŋkɔ...",
+          "position": "Ðoƒe/Tanya",
+          "positionPlaceholder": "Wò ɖoƒe...",
+          "employmentType": "Dɔwɔwɔ ƒomevi",
+          "location": "Teƒe",
+          "locationPlaceholder": "Du, Dukɔ...",
+          "startDate": "Dze egᴐme",
+          "endDate": "Wu enu",
+          "currentWork": "Megale dɔ wɔm fifia",
+          "description": "Nuɖᴐɖᴐ",
+          "descriptionPlaceholder": "Dɔwɔwɔ ŋuti nuŋlɔɖi kple agbanɔamedziwo...",
+          "skills": "Aɖaŋuwɔwɔ",
+          "addExperience": "Tsɔ Dɔwɔwɔ Ŋuti Nuteƒekpɔkpɔ Kpe Ðe Eŋu",
+          "experienceNum": "Nuteƒekpɔkpɔ #",
+          "dateError": "Ɣletiŋkeke si dzi woawu enu mate ŋu ado ŋgɔ na ŋkeke si dzi woadze egɔme o"
+        },
+        "org": {
+          "organization": "Habɔbɔa ƒe Ŋkɔ",
+          "orgPlaceholder": "BEM Yunivɛsiti...",
+          "role": "Akpa si Wòwɔna/Ðoƒe",
+          "rolePlaceholder": "Division ƒe Tatɔ...",
+          "addOrg": "Tsɔ Habɔbɔ ƒe Nuteƒekpɔkpɔ kpee",
+          "orgNum": "Nu ɖoɖo #"
+        },
+        "edu": {
+          "institution": "Sukudede Dɔwɔƒewo",
+          "institutionPlaceholder": "Sukuxɔ alo suku ƒe ŋkɔ...",
+          "degree": "Tanya",
+          "degreePlaceholder": "S1, sekɛndrisuku, kple bubuawo...",
+          "major": "Dɔwɔƒe/Nusɔsrɔ̃ ƒe Agble",
+          "majorPlaceholder": "Nyatakakawo Ŋuti Mɔ̃ɖaŋununya...",
+          "gpa": "GPA (si woate ŋu awɔ le wo ɖokui si) .",
+          "currentStudy": "Megale nu srɔ̃m le afisia kokoko",
+          "descriptionPlaceholder": "Dɔwɔnawo kple nusiwo wowɔ le nusɔsrɔ̃ me...",
+          "addEdu": "Tsɔ Hehenana kpee",
+          "eduNum": "Susᴐsrɔ̃ #"
+        },
+        "cert": {
+          "name": "Ŋkɔ na Ðaseɖigbalẽ / Hehenaƒe",
+          "namePlaceholder": "Ðaseɖigbalẽ ƒe ŋkɔ...",
+          "issuer": "Gbeƒãɖela",
+          "issuerPlaceholder": "Agbalẽtaƒe...",
+          "issueDate": "Dze egɔme (Ŋkeke si Wotae) .",
+          "issueDatePlaceholder": "Tia ŋkeke si dzi woatae...",
+          "expiryDate": "Wowu enu (Ɣeyiɣi si Sɔ) .",
+          "expiryDatePlaceholder": "Tia ŋkeke si dzi wòawu enu...",
+          "noExpiry": "Ɣletiŋkeke aɖeke mele ɖaseɖigbalẽ sia ƒe nuwuwu o",
+          "url": "Ðaseɖigbalẽ ƒe URL",
+          "uploadThumbnail": "Ðaseɖigbalẽ / Hehenaƒe ƒe Nɔnɔmetata",
+          "uploadThumbnailLimit": "Tsɔ ɖaseɖigbalẽ ƒe nɔnɔmetata (JPG/PNG/WEBP, max 2MB) da ɖe afima",
+          "addCert": "Tsɔ Ðaseɖigbalẽ kpee",
+          "certNum": "Ðaseɖigbalẽ # ."
+        },
+        "contact": {
+          "contactNum": "Kadodo #",
+          "platform": "Nugbadza",
+          "displayText": "Ðe Nuŋɔŋlɔwo Fia",
+          "displayTextPlaceholder": "e.g., wò@email.com alo @zãla ƒe ŋkɔ",
+          "url": "Kadodo (URL) .",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (kplɔla 0 manɔmee) .",
+          "urlPlaceholderEmail": "e.g., wò@email.com",
+          "urlPlaceholderWebsite": "e.g., https://...",
+          "urlPlaceholderDefault": "e.g., zãla ƒe ŋkɔ",
+          "addContact": "Tsɔ Kadodo kpee"
+        },
+        "common": {
+          "months": {
+            "1": "Dzove",
+            "2": "Dzodze",
+            "3": "Ɖe zɔ̃",
+            "4": "Afɔfie",
+            "5": "Ate ŋu",
+            "6": "Masa",
+            "7": "Siamlɔm",
+            "8": "Dasiamime",
+            "9": "Anyɔnyɔ",
+            "10": "Kele",
+            "11": "Adamekpɔxɛ",
+            "12": "Dzome"
+          },
+          "month": "Ɣleti",
+          "year": "Ƒe",
+          "invalidDate": "Nuwuwu Ɣleti si mesɔ o",
+          "words": "nyawo"
+        }
+      },
+      "sure": "Ka ɖe edzi",
+      "deletePhotoTitle": "Tsɔ Profile Photo tutu ɖaa?",
+      "deletePhotoMessage": "Èka ɖe edzi be yeatutu yeƒe profile photo sia ɖaa?",
+      "cancel": "Te fli ɖe eme",
+      "delete": "Ɖe ɖa"
+    },
+    "cropper": {
+      "chooseBackground": "Tia Megbenyawo",
+      "cropPhoto": "Kplɔ Wò Fotoa",
+      "useOriginal": "Zã gbãtɔ",
+      "backgroundPresets": "Megbenyawo ƒe Ðoɖowo",
+      "none": "Ɖeke o",
+      "uploadBackground": "Upload Background",
+      "cancel": "Te fli ɖe eme",
+      "savePhoto": "Dzra Fotoa Ðo",
+      "zoom": "Zoom na wò",
+      "rotationTilt": "Trɔtrɔ & Tilt",
+      "resetRotation": "Gbugbɔ ɖoe ɖe 0° dzi",
+      "center": "Titina",
+      "rotateLeft": "Trɔe -90°",
+      "rotateRight": "Trɔ +90°",
+      "removeBackground": "Ðe Megbenyawo ɖa",
+      "processing": "Le wò nɔnɔmetata la ŋu dɔ wɔm la, taflatse lala..."
+    },
+    "cvPreview": {
+      "title": "CV ƒe ŋgɔdonya",
+      "downloadCv": "Wɔ CV ƒe kɔpi",
+      "download": "Hee ɖa anyi",
+      "wordCannotPreview": "Womateŋu akpɔ nyawo ƒe nuŋlɔɖiwo (.doc/.docx) do ŋgɔ le wo ɖokui si le web-kpɔkplɔa me o. ",
+      "downloadFile": "Wɔ CV Fail ƒe kɔpi",
+      "back": "Megbe",
+      "mobileMessage": "Taflatse wɔ CV faɛl la ƒe kɔpi be nàkpɔe do ŋgɔ.",
+      "preview": "Kpɔ CV do ŋgɔ",
+      "wordPreviewTitle": "Word Document ƒe Kpɔɖeŋu",
+      "wordPreviewMessage": "Womateŋu akpɔ nyawo ƒe nuŋlɔɖiwo (.doc/.docx) do ŋgɔ le wo ɖokui si le web-kpɔkplɔa me o. Taflatse wɔ faɛl la ƒe kɔpi be nàkpɔe."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Write a brief description about yourself, interests, and career goals..."
+    },
+    "skills": {
+      "placeholder": "Type skill name...",
+      "add": "Kpee ɖe eŋu",
+      "enterToAdd": "Zi Enter dzi be nàtsɔe akpe ɖe eŋu",
+      "noSkills": "Wometsɔ aɖaŋu aɖeke kpee haɖe o."
+    },
+    "projects": {
+      "projectName": "Dɔa ƒe Ŋkɔ",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "Dɔa ƒe URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Ɣeyiɣi didime",
+      "startMonth": "Ɣleti si Dze Egɔme",
+      "startYear": "Ƒe Gɔmedzedze",
+      "endMonth": "Ɣletia ƒe Nuwuwu",
+      "endYear": "Ƒe Nuwuwu",
+      "currentlyWorking": "Fifia wole dɔ wɔm tso esia ŋu",
+      "description": "Nuɖᴐɖᴐ",
+      "descriptionPlaceholder": "Ðe dɔa, akpa si nèwɔ, kple nusiwo nèwɔ la me...",
+      "technologies": "Mɔ̃ɖaŋununya Siwo Wozã",
+      "addProject": "Tsɔ Dɔwɔɖoɖo kpee",
+      "image": "Dɔa ƒe Nɔnɔmetata",
+      "removeImage": "Ðe Nɔnɔmetata la ɖa",
+      "uploadImage": "Zi edzi be nàda nɔnɔmetata la ɖe Internet dzi"
+    },
+    "work": {
+      "company": "Dɔwɔƒe/Dɔwɔƒe",
+      "companyPlaceholder": "Dɔwɔƒea ƒe ŋkɔ...",
+      "role": "Akpa si Wòwɔna/Ðoƒe",
+      "rolePlaceholder": "Wò ɖoƒe...",
+      "jobType": "Dɔwɔwɔ Ƒomevi",
+      "selectJobType": "Tia ƒomevi",
+      "fullTime": "Ɣeyiɣiawo katã ƒe dɔwɔwɔ",
+      "partTime": "Ɣeyiɣi aɖe ƒe dɔwɔwɔ",
+      "contract": "Nubabla",
+      "internship": "Dɔsɔsrɔ̃",
+      "freelance": "Dɔwɔwɔ le eɖokui si",
+      "location": "Teƒe",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Ɣeyiɣi didime",
+      "currentlyWorking": "Fifia mele dɔ wɔm le afisia",
+      "description": "Dɔa Ŋuti Numeɖeɖe",
+      "descriptionPlaceholder": "Ðe wò agbanɔamedzi veviwo kple nusiwo nèwɔ la me...",
+      "skills": "Aɖaŋu Tɔxɛwo",
+      "addExperience": "Tsɔ Nuteƒekpɔkpɔ Tsɔ kpee"
+    },
+    "org": {
+      "organization": "Habɔbɔa ƒe Ŋkɔ",
+      "organizationPlaceholder": "Habɔbɔa ƒe ŋkɔ...",
+      "role": "Akpa si Wòwɔna/Ðoƒe",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Ɣeyiɣi didime",
+      "periodFormat": "alo Femaxee ƒe Nɔnɔme (e.g. 2020 - 2022) .",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Fifia ele dɔ dzi",
+      "description": "Dɔwɔwɔ ƒe Numeɖeɖe",
+      "descriptionPlaceholder": "Ðe wò dɔwɔnawo alo nudzɔdzɔwo me...",
+      "addExperience": "Tsɔ Nuteƒekpɔkpɔ Tsɔ kpee"
+    },
+    "education": {
+      "institution": "Dɔwɔƒea ƒe Ŋkɔ",
+      "institutionPlaceholder": "Suku alo yunivɛsiti ƒe ŋkɔ...",
+      "degree": "Diplome/Dzeside",
+      "degreePlaceholder": "e.g. ",
+      "major": "Nusɔsrɔ̃ ƒe Nusɔsrɔ̃ Gã/Aƒe",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Dzeside",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Sukudede ƒe Ɣeyiɣi Didime",
+      "periodFormat": "alo Femaxee ƒe Nɔnɔme (e.g. 2018 - 2022) .",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Fifia mele nu srɔ̃m le afisia",
+      "description": "Dɔwɔnawo / Bubudede Ame Ŋu",
+      "descriptionPlaceholder": "Ðe sukudɔwo, habɔbɔwo, alo bubu siwo woxɔ me...",
+      "addEducation": "Tsɔ Hehenana kpee"
+    },
+    "cert": {
+      "name": "Ðaseɖigbalẽ ƒe Ŋkɔ",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Habɔbɔ si Naa Nuwo",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Ɣletiŋkeke si dzi Woɖee Ðe Go",
+      "expiryDate": "Ewɔa dɔ Vaseɖe",
+      "noExpiry": "Ðaseɖigbalẽ sia mewu enu o",
+      "yearPlaceholder": "alo Ƒe (e.g. 2023) .",
+      "credentialUrl": "Ðaseɖigbalẽ ƒe URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Aɖaŋu Siwo Do Ƒome Kplii",
+      "addCertification": "Tsɔ Ðaseɖigbalẽ kpee",
+      "image": "Nɔnɔmetata/Adzesi",
+      "removeImage": "Ðe Nɔnɔmetata la ɖa",
+      "uploadImage": "Zi edzi be nàda nɔnɔmetata la ɖe Internet dzi"
+    },
+    "common": {
+      "months": {
+        "1": "Dzove",
+        "2": "Dzodze",
+        "3": "Ɖe zɔ̃",
+        "4": "Afɔfie",
+        "5": "Ate ŋu",
+        "6": "Masa",
+        "7": "Siamlɔm",
+        "8": "Dasiamime",
+        "9": "Anyɔnyɔ",
+        "10": "Kele",
+        "11": "Adamekpɔxɛ",
+        "12": "Dzome"
+      },
+      "month": "Ɣleti",
+      "year": "Ƒe",
+      "invalidDate": "Nuwuwu Ɣleti si mesɔ o",
+      "words": "nyawo"
+    }
+  },
+  "settings": {
+    "title": "Ðoɖowo",
+    "subtitle": "Dzra wò portfolio profile kple nusiwo nèlɔ̃ dzi",
+    "tabs": {
+      "profile": "Nye Nyatakakawo",
+      "security": "Dedienɔnɔ",
+      "personalization": "Ame ŋutɔ ƒe nɔnɔme"
+    },
+    "profile": {
+      "infoTitle": "Nyatakaka Veviwo",
+      "photo": "Profile Photo",
+      "uploadPhoto": "Trɔ Fotoa",
+      "fullName": "Ŋkɔ Bliboa",
+      "fullNamePlaceholder": "John Doe ƒe agbalẽa",
+      "email": "Email Adrɛs",
+      "emailPlaceholder": "john@kpɔɖeŋu.com",
+      "emailHelp": "Wozãa e-mail tsɔ gena ɖe eme eye womeɖenɛ fiana le dutoƒo o.",
+      "portfolioUrl": "Portfolio ƒe URL",
+      "saveProfile": "Dzra Profile la ɖo",
+      "save": "Dzra Profile la ɖo",
+      "accountCreated": "Wowɔ Akɔntabubu",
+      "lastLogin": "Geɖe Mamlɛtɔ",
+      "oauthNotice": "Wodo ƒome kple wò {{provider}} akɔnta. Ele be woawɔ tɔtrɔ le amewo ƒe nyatakakawo ŋu to dɔwɔƒea dzi."
+    },
+    "security": {
+      "changePassword": "Trɔ Nyagbe si Wozãna",
+      "currentPassword": "Nyagbe si Wozãna Fifia",
+      "currentPasswordPlaceholder": "••••••••------------------------------------------------------------------------------------------------------------------------",
+      "newPassword": "Nyagbe Yeye",
+      "newPasswordPlaceholder": "••••••••------------------------------------------------------------------------------------------------------------------------",
+      "confirmPassword": "Ðo kpe Nyagbe Yeye dzi",
+      "confirmPasswordPlaceholder": "••••••••------------------------------------------------------------------------------------------------------------------------",
+      "passwordRules": {
+        "length": "Ne mede ɖeke o la, ŋɔŋlɔdzesi 8 ya teti",
+        "uppercase": "Ŋɔŋlɔdzesi gã ɖeka (A-Z) .",
+        "number": "Xexlẽdzesi ɖeka (0-9) .",
+        "symbol": "Dzesi ɖeka (!@#$%^&*)"
+      },
+      "passwordTitle": "Safuinya",
+      "updatePassword": "Trɔ Asi Le Nyagbea Ŋu",
+      "additionalSecurity": "Dedienɔnɔ Bubuwo",
+      "twoFactor": "Nu Eve ƒe Dzesidede (2FA) .",
+      "twoFactorDesc": "Zã OTP-kɔda bubu nàtsɔ akpɔ wò akɔnta ta.",
+      "activeSessions": "Sessions Siwo Wowɔa Dɔ Le",
+      "activeSessionsDesc": "Ðe mɔ ɣesiaɣi be woalé ŋku ɖe mɔ̃ siwo ge ɖe eme ŋu.",
+      "publicVisibility": "Dutoƒonukpɔkpɔ",
+      "hideFromSearch": "Ɣla Portfolio tso Mɔ̃ Siwo Dia Nyatakakawo Me",
+      "hideFromSearchDesc": "Xɔ mɔ na Google be wòagawɔ wò dutoƒo portfolio ƒe axaa ƒe index o.",
+      "disable2fa": {
+        "title": "Trɔ asi le 2FA ŋu",
+        "description": "Èka ɖe edzi be yeadi be yeatsi nu eve ƒe kpeɖodzinana?",
+        "confirmPasswordLabel": "Ŋlɔ wò nyagbe ɣaɣla be nàɖo kpe edzi",
+        "currentPasswordPlaceholder": "Nyagbe ɣaɣla si li fifia",
+        "cancelButton": "Te fli ɖe eme",
+        "confirmButton": "Trɔ asi le 2FA ŋu",
+        "incorrectPassword": "Nyagbe ɣaɣla si mesɔ o."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code la",
+        "step1Desc": "Ʋu wò authenticator app eye nàwɔ QR code si gbɔna la ƒe scan:",
+        "unableToScan": "Mète ŋu le scan wɔm oa? Zã ɖoɖowɔɖi ƒe safuia",
+        "step2Title": "2. Kpɔ Sededea Dzi",
+        "step2Desc": "Ŋlɔ xexlẽdzesi 6 ƒe kɔda si wò dɔwɔnua wɔ:",
+        "cancelButton": "Te fli ɖe eme",
+        "enableButton": "Na 2FA nawɔ dɔ",
+        "invalidLength": "Taflatse ŋlɔ xexlẽdzesi 6 ƒe kɔda.",
+        "invalidCode": "Kpeɖodzinya si mesɔ o. Taflatse gadze agbagba ake."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Gbegbɔgblɔ Dzi Kpɔkpɔ",
+      "appLanguage": "App Gbegbɔgblɔ",
+      "layoutTitle": "Ðoɖowɔwɔ & Agbalẽŋɔŋlɔ",
+      "layoutStyle": "Ðoɖowɔwɔ ƒe Atsyã",
+      "layoutModern": "Egbegbe Atsyã (Default) .",
+      "layoutClassic": "Klasik Atsyã",
+      "layoutMinimalist": "Atsyã si me wowɔa nu sue aɖe ko le",
+      "fontSize": "App Font ƒe Agbɔsɔsɔme",
+      "fontSmall": "Sue",
+      "fontNormal": "Nusi sɔ (Medium) .",
+      "fontLarge": "Lolo",
+      "searchLanguage": "Di gbegbɔgblɔ...",
+      "languageNotFound": "Gbegbɔgblɔ si womekpɔ o",
+      "layoutElegant": "Atsyã Dzeani aɖe"
+    },
+    "saveChanges": "Dzra Tɔtrɔwo Ðo",
+    "cancel": "Te fli ɖe eme",
+    "appSettings": "App ƒe Ðoɖowo",
+    "logoutConfirmTitle": "Ðo kpe Logout dzi",
+    "logoutConfirmDesc": "Èka ɖe edzi be yedi be yeado le ɖoɖoa mea?",
+    "logoutConfirmYes": "Ẽ, Do go",
+    "generalError": "Vodada aɖe dzɔ. ",
+    "success": "Dzidzedzekpᴐkpᴐ",
+    "preferencesSaved": "Wodzra app ƒe tiatiawɔblɔɖewo ɖo dzidzedzetɔe.",
+    "header": "Dɔdamɔnu ƒe Ðoɖowo",
+    "logout": {
+      "title": "Logout ƒe Kpeɖodzinya",
+      "message": "Èka ɖe edzi be yedi be yeado le ɖoɖoa mea?",
+      "confirm": "Ẽ, Do go"
+    },
+    "about": {
+      "title": "Ku Ðe Dɔwɔwɔ Ŋu",
+      "subtitle": "Portfolio Tula ƒe Nuƒolanɔƒe",
+      "version": "Nukpɔkpɔ",
+      "description": "DevFolio nye egbegbe portfolio tutu ƒe mɔnu si wowɔ na dɔwɔlawo, aɖaŋuwɔlawo, kple dɔwɔla bibiwo. ",
+      "license": "Mɔɖegbalẽ & Nutata ƒe Gomenɔamesi",
+      "copyright": "© 2026 DevFolio Inc. Gomenɔamesiwo katã le esi.",
+      "developer": "Dɔwɔla",
+      "developedBy": "Rifqi Naradata ye to esia vɛ"
+    },
+    "deleteAccount": {
+      "title": "Tutu Akɔntabubu Tegbee",
+      "menuItem": "Tsɔ Akɔntabubua ɖa",
+      "successTitle": "Dzidzedzekpɔkpɔ",
+      "successMessage": "Woɖo e-mail si ɖo kpe akɔntabubua tutu ɖa dzi ɖa.",
+      "errorTitle": "Do kpo nu",
+      "errorMessage": "Do kpo kpeɖodzinana ƒe e-mail ɖoɖo ɖa.",
+      "confirmationMessage": "Èka ɖe edzi be yedi be yeatutu yeƒe akɔntabubua ɖa tegbeea?",
+      "warningMessage1": "Àxɔ e-mail aɖe atsɔ aɖo kpe akɔntabubua tutu dzi.",
+      "warningMessage2": "Ne woɖo kpe edzi la, woatutu nyatakakawo katã (portfolio, projects, statistics) ɖa tegbee eye womate ŋu axɔ wo o.",
+      "cancel": "Te fli ɖe eme",
+      "confirm": "Kpeɖodzinya"
+    },
+    "toasts": {
+      "toastError": "Vodada",
+      "toastSuccess": "Dzidzedzekpᴐkpᴐ",
+      "toastSetup2FAFailed": "Do kpo ɖoɖowɔwɔ ɖe 2FA ŋu. Taflatse gadze agbagba ake.",
+      "toast2FAEnabled": "Wowɔ nu eve ƒe kpeɖodzinana ŋudɔ.",
+      "toast2FADisabled": "Wowɔ nu eve ƒe kpeɖodzinana nuwɔametɔe.",
+      "toastSessionEnabled": "Wowɔ active session monitoring ŋudɔ.",
+      "toastSessionDisabled": "Wotɔ te ɣeyiɣia ƒe ŋkuléle ɖe nu ŋu le dɔwɔwɔ me.",
+      "toastSetupKeyCopied": "Setup key si wogbugbɔ ŋlɔ ɖe clipboard dzi."
+    },
+    "privacy": {
+      "title": "Ameŋunyatakakawo Ŋuti Ðoɖo",
+      "updateDate": "Wotrɔ asi le eŋu zi mamlɛtɔ: July 15, 2026",
+      "intro": "Ameŋunyatakakawo Ŋuti Ðoɖo sia ɖe ale si DevFolio ƒoa wò nyatakakawo nu ƒu, zãa wo, hekpɔa wo ta ne ele míaƒe dɔwɔnawo zãm la me.",
+      "section1Title": "1. Nyatakaka siwo Míeƒoa Ƒu",
+      "section1Content": "Míeƒoa nyatakaka siwo nèna la nu ƒu tẽ ne èle akɔnta wɔm, le gaxɔgbalẽvi tum, eye nèle kadodo me kple míaƒe kpekpeɖeŋunalawo. ",
+      "section2Title": "2. Nyatakakawo Zazã",
+      "section2Content": "Wozãa wò nyatakakawo tsɔ wɔa míaƒe dɔwɔnawo ŋudɔ, léa be na wo, eye míenaa wo, eye míezãa wò nyatakakawo tsɔ ɖoa ​​dze kpli wò ku ɖe wò akɔntabubu alo dɔwɔnawo ŋu.",
+      "section3Title": "3. Nyatakakawo ƒe Dedienɔnɔ",
+      "section3Content": "Míewɔa dedienɔnɔ ƒe ɖoɖo siwo sɔ tsɔ kpɔa wò nyatakakawo ta tso ame siwo ŋu womeɖe mɔ ɖo o ƒe gege ɖe wo me, wo ɖeɖe ɖe go, alo wo tsɔtsrɔ̃ me."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Womekpɔ kpeɖodzi ƒe dzesi o.",
+    "defaultError": "Do kpo akɔntabubua tutu. Ðewohĩ dzesia ƒe ɣeyiɣia wu enu.",
+    "loadingTitle": "Akɔntabubu Tututu...",
+    "loadingMessage": "Taflatse lala, míele wò biabiaa ŋu dɔ wɔm.",
+    "successTitle": "Wotutu Akɔntabubua Dzidzedzekpɔkpɔ",
+    "successMessage": "Wotutu wò nyatakakawo katã ɖa tegbee. Woatrɔ mɔ na wò...",
+    "errorTitle": "Do kpo Akɔntabubu Tututu",
+    "backToHome": "Trɔ Yi Aƒeme"
+  },
+  "forgotPassword": {
+    "minutes": "miniti",
+    "seconds": "sɛkɛnd",
+    "success": "Dzidzedzekpɔkpɔ",
+    "otpSentToEmail": "Woɖo OTP-kɔda aɖe ɖe wò e-mail.",
+    "failed": "Do kpo nu",
+    "emailNotFound": "Womekpɔ e-mail o.",
+    "emailThirdParty": "Woŋlɔa e-mail sia to ame bubu aɖe dzi.",
+    "genericError": "Vodada aɖe li. Taflatse gadze agbagba ake.",
+    "otpVerified": "Woɖo kpe OTP ƒe kɔpi la dzi dzidzedzetɔe.",
+    "otpExpired": "OTP ƒe kɔpi la ƒe ɣeyiɣia wu enu. Taflatse bia kɔda yeye aɖe.",
+    "otpInvalid": "OTP ƒe kɔpi si mesɔ o.",
+    "otpResent": "Woɖo OTP-kɔda yeye ɖe wò e-mail.",
+    "otpResendFailed": "Do kpo OTP ƒe kɔpi gbugbɔɖoɖo ɖa. Taflatse gadze agbagba ake.",
+    "passwordResetSuccess": "Password gbugbɔ ɖoe dzidzedzetɔe. Taflatse tsɔ wò nyagbe yeyea ge ɖe eme.",
+    "passwordResetFailed": "Do kpo nyagbe ɣaɣla gbugbɔɖoɖo.",
+    "backToLogin": "Trɔ yi Gege ɖe eme",
+    "back": "Trɔ yi megbe",
+    "title": "Ŋlɔ Nyagbe si Wozãna Be",
+    "description": "Ŋlɔ e-mail adrɛs si woŋlɔ ɖe wò akɔnta me. Míaɖo OTP-kɔda aɖe ɖa be míagbugbɔ aɖo nyagbea.",
+    "emailLabel": "Email Adrɛs",
+    "sending": "Woɖoe ɖa...",
+    "sendOtp": "Ðo OTP Kɔda",
+    "verifyOtpTitle": "Kpɔ OTP ƒe Kpeɖodzinya ɖa",
+    "verifyOtpDesc": "Ŋlɔ xexlẽdzesi 6 ƒe kɔda si woɖo ɖe wò e-mail be nàtsɔ aɖo kpe wò amenyenye dzi.",
+    "verifying": "Wole kpeɖodzi nam...",
+    "verifyOtp": "Kpɔ OTP ɖa",
+    "resending": "Wogbugbɔ ɖoe ɖa...",
+    "resendOtp": "Gbugbɔ ɖo OTP ƒe Kɔda",
+    "resendCodeIn": "Gbugbɔ ɖo kɔdasia ɖe",
+    "newPasswordTitle": "Wɔ Nyagbe Yeye",
+    "newPasswordDesc": "Wɔ nyagbe yeye sesẽ aɖe be nàtsɔ akpɔ wò akɔnta ta.",
+    "newPasswordLabel": "Nyagbe Yeye",
+    "min8Chars": "Ŋɔŋlɔdzesi 8 ya teti",
+    "oneUpperCase": "1 ŋɔŋlɔdzesi gãwo (A-Z)",
+    "oneNumber": "1 xexlẽdzesi (0-9)",
+    "oneSymbol": "1 dzesi (!@#$%^&*)",
+    "confirmPasswordLabel": "Ðo kpe Nyagbea dzi",
+    "passwordsDoNotMatch": "Nyagbe ɣaɣlawo mewɔ ɖeka o.",
+    "resettingPassword": "Gbugbɔgaɖoa Nyagbea...",
+    "resetPassword": "Gbugbɔ Ðo Nyagbea Ðo"
+  },
+  "verifyEmail": {
+    "resendError": "Do kpo kpeɖodzinana ƒe e-mail gbugbɔɖoɖo ɖa. Taflatse gadze agbagba ake.",
+    "checkingStatus": "Wole ɖaseɖiɖi ƒe nɔnɔme me dzrom...",
+    "title": "Kpɔ Wò Email ɖa",
+    "description": "Míeɖo kpeɖodzinana ƒe e-mail ɖe wò e-mail adrɛs. Taflatse ʋu e-mail la eye nàzi <1>\"Kpe Akɔntabubu Dzi\"</1> ƒe dzesi dzi be nàwɔ wò akɔnta la ŋudɔ.",
+    "stepsTitle": "Afɔɖeɖewo",
+    "step1": "Ʋu wò e-mail dɔwɔɖoɖo (Gmail, Yahoo, kple bubuawo)",
+    "step2": "Di email tso DevFolio si ƒe tanyae nye \"Account Activation\"",
+    "step3": "Zi \"Kpe Ðe Akɔnta Ŋu\" ƒe dzesi dzi le e-mail",
+    "step4": "Woafia mɔ wò ayi axa si dzi nàge ɖo be nàge ɖe",
+    "resendSuccess": "Wogbugbɔ ɖo kpeɖodzinana ƒe e-mail la ɖa!",
+    "resending": "Wogbugbɔ ɖoe ɖa...",
+    "resendButton": "Gbugbɔ Ðo Kpeɖodzi Email ɖa",
+    "backToLogin": "Trɔ yi Axa si Woge Ðe Eme",
+    "footerNote": "Ðe mèxɔ e-mail la oa? Kpɔ <1>Spam</1> alo <2>Junk</2> ƒe agbalẽdzraɖoƒe si le wò e-mail me. Dzesidede kadodoa le dɔ wɔm na <3>gaƒoƒo 24</3>."
+  }
+}

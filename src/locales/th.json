@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "คุณสมบัติ",
+    "templates": "เทมเพลต",
+    "pricing": "ราคา",
+    "login": "เข้าสู่ระบบ",
+    "getStarted": "เริ่มต้นเลย",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "สุดยอดเครื่องมือสร้างพอร์ตโฟลิโอสำหรับนักพัฒนา",
+    "title1": "สร้างมืออาชีพของคุณ",
+    "title2": "ผลงานใน",
+    "titleHighlight": "วินาที",
+    "subtitle": "ทุกสิ่งที่คุณต้องการเพื่อแสดงทักษะ โครงการ และประสบการณ์ของคุณ ",
+    "startBuilding": "เริ่มสร้างเลย",
+    "viewTemplates": "ดูเทมเพลต",
+    "fastDeployment": "การปรับใช้ที่รวดเร็ว",
+    "liveStatus": "user.dev ใช้งานได้แล้ว!",
+    "featuresTitle": "คุณสมบัติอันทรงพลัง",
+    "featuresSubtitle": "เรามีเครื่องมือทั้งหมดที่คุณต้องการเพื่อให้โดดเด่นจากคนอื่นๆ และได้งานในฝันของคุณ",
+    "feature1Title": "ตัวสร้างลากและวาง",
+    "feature1Desc": "จัดระเบียบส่วน โครงการ และทักษะของคุณได้อย่างง่ายดายด้วยโปรแกรมแก้ไขภาพที่ใช้งานง่ายของเรา",
+    "feature2Title": "ธีมที่กำหนดเอง",
+    "feature2Desc": "เลือกจากเทมเพลตที่ออกแบบอย่างมืออาชีพหรือสร้างรูปลักษณ์ที่เป็นเอกลักษณ์ของคุณเอง",
+    "feature3Title": "การวิเคราะห์แบบเรียลไทม์",
+    "feature3Desc": "ติดตามผู้เยี่ยมชมของคุณ ดูว่าโครงการใดได้รับความสนใจมากที่สุด และอื่นๆ อีกมากมาย"
+  },
+  "auth": {
+    "welcomeBack": "ยินดีต้อนรับกลับ",
+    "loginToContinue": "เข้าสู่บัญชีของคุณเพื่อดำเนินการต่อ",
+    "createAccount": "สร้างบัญชี",
+    "joinCommunity": "เข้าร่วมกับนักพัฒนาอื่น ๆ นับพันราย",
+    "fullName": "ชื่อเต็ม",
+    "fullNamePlaceholder": "เช่น ",
+    "email": "ที่อยู่อีเมล",
+    "emailPlaceholder": "you@example.com",
+    "password": "รหัสผ่าน",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "จำฉันไว้",
+    "forgotPassword": "ลืมรหัสผ่าน?",
+    "signIn": "เข้าสู่ระบบ",
+    "signingIn": "กำลังลงชื่อเข้าใช้...",
+    "signUp": "ลงทะเบียน",
+    "signingUp": "ลงทะเบียน...",
+    "noAccount": "ยังไม่มีบัญชี?",
+    "hasAccount": "มีบัญชีอยู่แล้ว?",
+    "passwordRules": {
+      "title": "รหัสผ่านจะต้องมี:",
+      "length": "อย่างน้อย 8 ตัวอักษร",
+      "uppercase": "ตัวพิมพ์ใหญ่หนึ่งตัว (A-Z)",
+      "number": "หนึ่งหมายเลข (0-9)",
+      "symbol": "หนึ่งสัญลักษณ์ (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "เครื่องมือสร้างพอร์ตโฟลิโอ",
+      "templates": "เทมเพลตและธีม",
+      "settings": "การตั้งค่า",
+      "collapse": "ยุบแถบด้านข้าง",
+      "overview": "ภาพรวม",
+      "profileSettings": "การตั้งค่าโปรไฟล์",
+      "customDomain": "โดเมนที่กำหนดเอง",
+      "feedback": "ข้อเสนอแนะ"
+    },
+    "header": {
+      "viewLive": "ดูสด",
+      "welcome": "ยินดีต้อนรับ,",
+      "logout": "ออกจากระบบ",
+      "builder": "ช่างก่อสร้าง",
+      "livePortfolio": "ผลงานสด",
+      "live": "สด"
+    },
+    "logoutModal": {
+      "title": "ออกจากระบบ",
+      "message": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบบัญชีของคุณ? ",
+      "cancel": "ยกเลิก",
+      "confirm": "ใช่ ออกจากระบบ"
+    },
+    "slugModal": {
+      "title": "เลือก URL ผลงานของคุณ",
+      "message": "URL นี้จะเป็นลิงก์เฉพาะไปยังพอร์ตโฟลิโอของคุณ ",
+      "slugPlaceholder": "ชื่อของคุณ",
+      "availability": "มีจำหน่าย:",
+      "available": "มีอยู่",
+      "unavailable": "ไม่พร้อมใช้งาน",
+      "checking": "กำลังตรวจสอบ...",
+      "mustFormat": "มีได้เฉพาะตัวอักษร ตัวเลข และขีดกลาง (-)",
+      "cancel": "ยกเลิก",
+      "save": "บันทึก URL",
+      "usernameUrl": "URL ชื่อผู้ใช้",
+      "helpText": "ตัวอักษรตัวพิมพ์เล็ก ตัวเลข และขีดกลาง ",
+      "validation": {
+        "empty": "Slug ไม่สามารถเว้นว่างได้",
+        "min3": "ขั้นต่ำ 3 ตัวอักษร",
+        "max30": "สูงสุด 30 ตัวอักษร",
+        "format": "เฉพาะตัวอักษรพิมพ์เล็ก ตัวเลข และขีดกลาง (-) "
+      }
+    },
+    "loadingPortfolio": "กำลังโหลดข้อมูลพอร์ตโฟลิโอ...",
+    "overview": {
+      "greetings": {
+        "morning": "สวัสดีตอนเช้า",
+        "afternoon": "สวัสดีตอนบ่าย",
+        "evening": "สวัสดีตอนบ่าย",
+        "night": "ราตรีสวัสดิ์"
+      },
+      "welcome": {
+        "hi": "สวัสดี",
+        "creator": "ผู้สร้าง",
+        "desc1": "ยินดีต้อนรับสู่แดชบอร์ด DevFolio ผลงานของคุณถูกดูโดย",
+        "desc2": "บุคคล. ทำงานต่อไป!",
+        "editPortfolio": "แก้ไขพอร์ตโฟลิโอ"
+      },
+      "stats": {
+        "totalVisitors": "ผู้เข้าชมทั้งหมด",
+        "projectViews": "ดูแล้ว (โครงการ)",
+        "activeSessions": "เซสชันที่ใช้งานอยู่",
+        "totalLabel": "รวม"
+      },
+      "setup": {
+        "title": "ความคืบหน้าในการตั้งค่า",
+        "completed": "ผลงานของคุณเสร็จสมบูรณ์แล้ว! 🎉",
+        "inProgress": "ขั้นตอนสู่พอร์ตโฟลิโอที่สมบูรณ์แบบ",
+        "profile": {
+          "title": "โปรไฟล์ที่สมบูรณ์",
+          "desc": "เพิ่มชื่อ ประวัติ และรูปโปรไฟล์"
+        },
+        "section": {
+          "title": "เพิ่มส่วน",
+          "desc": "เปิดใช้งานอย่างน้อย 1 ส่วนในพอร์ตโฟลิโอ"
+        },
+        "project": {
+          "title": "เพิ่มโครงการ",
+          "desc": "ป้อนโครงการที่ดีที่สุดของคุณอย่างน้อย 1 โครงการ"
+        },
+        "publish": {
+          "title": "เผยแพร่ผลงาน",
+          "desc": "ตั้งค่า URL ที่กำหนดเองเพื่อให้สาธารณะสามารถเข้าถึงได้"
+        }
+      },
+      "topProjects": {
+        "title": "โครงการยอดนิยม",
+        "desc": "ประสิทธิภาพการทำงานของคุณในสายตาของผู้เยี่ยมชม",
+        "viewAll": "ดูทั้งหมด",
+        "empty": "ยังไม่มีข้อมูลการดูสำหรับโครงการของคุณ"
+      }
+    },
+    "themes": {
+      "title": "เทมเพลตและธีม",
+      "subtitle": "ปรับแต่งรูปลักษณ์ของพอร์ตโฟลิโอสาธารณะของคุณ",
+      "reset": "รีเซ็ตค่าเริ่มต้น",
+      "save": "บันทึกการเปลี่ยนแปลง",
+      "saving": "ประหยัด...",
+      "chooseTemplate": "เลือกเทมเพลต",
+      "primaryColor": "สีหลัก",
+      "typography": "วิชาการพิมพ์",
+      "appearance": "รูปร่าง",
+      "corners": "มุมและเส้นขอบ",
+      "successTitle": "ความสำเร็จ",
+      "successMessage": "อัปเดตการตั้งค่าธีมสำเร็จแล้ว",
+      "errorTitle": "ข้อผิดพลาด",
+      "errorMessage": "ไม่สามารถบันทึกการตั้งค่าธีมได้",
+      "templates": {
+        "minimalist": {
+          "name": "มินิมอลลิสต์",
+          "desc": "การออกแบบที่สะอาดและเรียบง่ายโดยเน้นที่เนื้อหา"
+        },
+        "developerDark": {
+          "name": "นักพัฒนา Dark",
+          "desc": "ธีมสีเข้มเหมาะสำหรับการจัดแสดงโค้ดและสแต็คเทคโนโลยี"
+        },
+        "creative": {
+          "name": "ความคิดสร้างสรรค์",
+          "desc": "เค้าโครงที่มีชีวิตชีวาและมีสีสันสำหรับนักออกแบบและนักสร้างสรรค์"
+        },
+        "executive": {
+          "name": "ผู้บริหาร",
+          "desc": "รูปแบบมืออาชีพและเป็นทางการสำหรับนักธุรกิจ"
+        },
+        "bentoGrid": {
+          "name": "เบนโตะกริด",
+          "desc": "เค้าโครงตารางสไตล์ Apple สมัยใหม่ที่เน้นทักษะต่างๆ ได้อย่างมีประสิทธิภาพ"
+        },
+        "neoBrutalism": {
+          "name": "นีโอบรูทัลลิสม์",
+          "desc": "ขอบหนาและสีคอนทราสต์สูงเพื่อลุคที่ทันสมัยและไร้ตำหนิ"
+        },
+        "glassmorphism": {
+          "name": "สัณฐานแก้ว",
+          "desc": "เอฟเฟกต์กระจกฝ้าเหนือการไล่ระดับสีที่มีสีสันสำหรับ UI ที่ทันสมัยทันสมัย"
+        },
+        "linkInBio": {
+          "name": "ลิงค์ในไบโอ",
+          "desc": "เค้าโครงแนวตั้งขนาดกะทัดรัดปรับให้เหมาะกับหน้าจอมือถือและโซเชียลมีเดีย"
+        }
+      },
+      "appearances": {
+        "light": "แสงสว่าง",
+        "dark": "มืด",
+        "system": "ระบบ"
+      },
+      "cornersOptions": {
+        "sharp": "คม",
+        "rounded": "โค้งมน",
+        "pill": "ยา"
+      }
+    },
+    "feedback": {
+      "title": "ส่งคำติชม",
+      "subtitle": "ช่วยเราทำให้ดีขึ้นด้วยการให้คำแนะนำ วิจารณ์ หรือรายงานจุดบกพร่องในแอปพลิเคชันนี้",
+      "categoryLabel": "หมวดหมู่คำติชม",
+      "messageLabel": "รายละเอียดข้อความ",
+      "messagePlaceholder": "บอกรายละเอียดเกี่ยวกับข้อเสนอแนะที่คุณต้องการสื่อ...",
+      "imageLabel": "ไฟล์แนบรูปภาพ (ไม่บังคับ)",
+      "imagePlaceholder": "คลิกเพื่ออัพโหลดภาพหรือภาพหน้าจอ",
+      "submitting": "กำลังส่ง...",
+      "submitBtn": "ส่งคำติชม",
+      "categories": {
+        "suggestion": "คำแนะนำและแนวคิด",
+        "bug": "รายงานข้อผิดพลาด / ข้อผิดพลาด",
+        "criticism": "วิจารณ์",
+        "other": "อื่นๆ"
+      },
+      "imageErrorTitle": "เกิดข้อผิดพลาด",
+      "imageErrorMessage": "ไฟล์บางไฟล์ถูกปฏิเสธเนื่องจากไม่รองรับรูปแบบรูปภาพ (JPG, PNG, GIF, WEBP)",
+      "successTitle": "สำเร็จ",
+      "successMessage": "ขอบคุณสำหรับคำติชมของคุณ! รายงานถูกส่งไปแล้ว",
+      "submitErrorTitle": "ล้มเหลว",
+      "submitErrorMessage": "เกิดข้อผิดพลาดขณะส่งข้อเสนอแนะ โปรดลองอีกครั้ง"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "เกี่ยวกับฉัน",
+      "skills": "ทักษะ",
+      "projects": "โครงการ",
+      "workExperience": "ประสบการณ์การทำงาน",
+      "orgExperience": "ประสบการณ์องค์กร",
+      "education": "การศึกษา",
+      "certifications": "การฝึกอบรมและการรับรอง",
+      "contact": "ติดต่อฉัน"
+    },
+    "editor": {
+      "profileInfo": "ข้อมูลโปรไฟล์",
+      "saving": "ประหยัด...",
+      "profilePhoto": "รูปโปรไฟล์",
+      "clickToUpload": "คลิกเพื่ออัพโหลด (JPG, PNG)",
+      "fullName": "ชื่อเต็ม",
+      "fullNamePlaceholder": "เช่น ",
+      "bio": "ไบโอ",
+      "bioPlaceholder": "Fullstack Developer ที่มีความหลงใหลในการสร้างเว็บแอปที่ทันสมัย...",
+      "location": "ที่ตั้ง",
+      "locationPlaceholder": "เช่น ",
+      "gender": "เพศ",
+      "selectGender": "เลือกเพศ",
+      "male": "ชาย",
+      "female": "หญิง",
+      "custom": "กำหนดเอง",
+      "customPlaceholder": "พิมพ์เพศที่คุณกำหนดเอง...",
+      "uploadCv": "อัพโหลด CV",
+      "cvFormat": "(เอกสารหรือ PDF)",
+      "preview": "ดูตัวอย่าง",
+      "remove": "ลบ",
+      "clickToUploadCv": "คลิกเพื่ออัปโหลด PDF หรือ DOC",
+      "sections": "ส่วนต่างๆ",
+      "removeSelected": "ลบรายการที่เลือก",
+      "confirmRemove": "ยืนยันการลบ",
+      "addSection": "เพิ่มส่วน",
+      "addAllSections": "เพิ่มทุกส่วน",
+      "noSections": "ยังไม่มีส่วน",
+      "clickToAdd": "คลิก \"+ เพิ่มส่วน\" เพื่อเริ่มต้น",
+      "selectAll": "เลือกทั้งหมด",
+      "selected": "เลือกแล้ว",
+      "dragToReorder": "ลากเพื่อจัดลำดับส่วนใหม่",
+      "livePreview": "ดูตัวอย่างสด",
+      "addSectionsToBuild": "เพิ่มส่วนเพื่อสร้างผลงานของคุณ",
+      "now": "ตอนนี้",
+      "current": "ปัจจุบัน",
+      "noExpiry": "ไม่มีวันหมดอายุ",
+      "see": "ดู",
+      "position": "ตำแหน่ง",
+      "degree": "ระดับ",
+      "certification": "การรับรอง",
+      "sectionsForm": {
+        "about": {
+          "label": "คำอธิบายเกี่ยวกับตัวคุณเอง",
+          "placeholder": "บอกเราเกี่ยวกับตัวคุณ ภูมิหลัง ความสนใจ และทักษะของคุณ..."
+        },
+        "skills": {
+          "addPlaceholder": "พิมพ์ทักษะแล้วกด Enter..."
+        },
+        "projects": {
+          "title": "ชื่อโครงการ",
+          "titlePlaceholder": "ชื่อโครงการ...",
+          "url": "URL โครงการ",
+          "description": "คำอธิบาย",
+          "descriptionPlaceholder": "คำอธิบายโดยย่อของโครงการ...",
+          "uploadThumbnail": "ภาพโครงการ",
+          "addProject": "เพิ่มโครงการ",
+          "projectNum": "โครงการ #",
+          "currentProject": "นี่เป็นโครงการที่ฉันกำลังทำอยู่"
+        },
+        "work": {
+          "company": "บริษัท/เอเจนซี่",
+          "companyPlaceholder": "ชื่อบริษัท...",
+          "position": "ตำแหน่ง/ตำแหน่ง",
+          "positionPlaceholder": "ตำแหน่งของคุณ...",
+          "employmentType": "ประเภทของงาน",
+          "location": "ที่ตั้ง",
+          "locationPlaceholder": "เมือง ประเทศ...",
+          "startDate": "เริ่ม",
+          "endDate": "ที่เสร็จเรียบร้อย",
+          "currentWork": "ฉันยังคงทำงานอยู่ในขณะนี้",
+          "description": "คำอธิบาย",
+          "descriptionPlaceholder": "ลักษณะงานและความรับผิดชอบ...",
+          "skills": "ทักษะ",
+          "addExperience": "เพิ่มประสบการณ์การทำงาน",
+          "experienceNum": "ประสบการณ์ #",
+          "dateError": "วันที่สิ้นสุดต้องไม่อยู่ก่อนวันที่เริ่มต้น"
+        },
+        "org": {
+          "organization": "ชื่อองค์กร",
+          "orgPlaceholder": "มหาวิทยาลัยบีอีเอ็ม...",
+          "role": "บทบาท/ตำแหน่ง",
+          "rolePlaceholder": "หัวหน้าส่วน...",
+          "addOrg": "เพิ่มประสบการณ์องค์กร",
+          "orgNum": "องค์กร #"
+        },
+        "edu": {
+          "institution": "สถาบันการศึกษา",
+          "institutionPlaceholder": "ชื่อวิทยาเขตหรือโรงเรียน...",
+          "degree": "ชื่อ",
+          "degreePlaceholder": "S1, มัธยมปลาย ฯลฯ...",
+          "major": "ภาควิชา/สาขาวิชา",
+          "majorPlaceholder": "วิศวกรรมสารสนเทศ...",
+          "gpa": "เกรดเฉลี่ย (ไม่จำเป็น)",
+          "currentStudy": "ฉันยังคงเรียนอยู่ที่นี่",
+          "descriptionPlaceholder": "กิจกรรมและผลงานระหว่างเรียน...",
+          "addEdu": "เพิ่มการศึกษา",
+          "eduNum": "การศึกษา #"
+        },
+        "cert": {
+          "name": "ชื่อการรับรอง / การฝึกอบรม",
+          "namePlaceholder": "ชื่อรับรอง...",
+          "issuer": "สำนักพิมพ์",
+          "issuerPlaceholder": "สำนักพิมพ์...",
+          "issueDate": "เริ่มต้น (วันที่เผยแพร่)",
+          "issueDatePlaceholder": "เลือกวันที่ตีพิมพ์...",
+          "expiryDate": "เสร็จสมบูรณ์ (ระยะเวลาที่ถูกต้อง)",
+          "expiryDatePlaceholder": "เลือกวันหมดอายุ...",
+          "noExpiry": "ใบรับรองนี้ไม่มีวันหมดอายุ",
+          "url": "URL ข้อมูลรับรอง",
+          "uploadThumbnail": "ประกาศนียบัตร/ภาพการอบรม",
+          "uploadThumbnailLimit": "อัปโหลดภาพใบรับรอง (JPG/PNG/WEBP สูงสุด 2MB)",
+          "addCert": "เพิ่มการรับรอง",
+          "certNum": "ใบรับรอง #"
+        },
+        "contact": {
+          "contactNum": "ติดต่อ #",
+          "platform": "แพลตฟอร์ม",
+          "displayText": "ข้อความที่แสดง",
+          "displayTextPlaceholder": "เช่น you@email.com หรือ @username",
+          "url": "ลิงค์ (URL)",
+          "urlPlaceholderWhatsapp": "เช่น 62812... (ไม่มี 0 นำหน้า)",
+          "urlPlaceholderEmail": "เช่น you@email.com",
+          "urlPlaceholderWebsite": "เช่น https://...",
+          "urlPlaceholderDefault": "เช่น ชื่อผู้ใช้",
+          "addContact": "เพิ่มผู้ติดต่อ"
+        },
+        "common": {
+          "months": {
+            "1": "มกราคม",
+            "2": "กุมภาพันธ์",
+            "3": "มีนาคม",
+            "4": "เมษายน",
+            "5": "อาจ",
+            "6": "มิถุนายน",
+            "7": "กรกฎาคม",
+            "8": "สิงหาคม",
+            "9": "กันยายน",
+            "10": "ตุลาคม",
+            "11": "พฤศจิกายน",
+            "12": "ธันวาคม"
+          },
+          "month": "เดือน",
+          "year": "ปี",
+          "invalidDate": "เดือนสิ้นสุดไม่ถูกต้อง",
+          "words": "คำ"
+        }
+      },
+      "sure": "แน่นอน",
+      "deletePhotoTitle": "ลบรูปโปรไฟล์ใช่ไหม",
+      "deletePhotoMessage": "คุณแน่ใจหรือไม่ว่าต้องการลบรูปโปรไฟล์นี้",
+      "cancel": "ยกเลิก",
+      "delete": "ลบ"
+    },
+    "cropper": {
+      "chooseBackground": "เลือกพื้นหลัง",
+      "cropPhoto": "ครอบตัดรูปภาพของคุณ",
+      "useOriginal": "ใช้ต้นฉบับ",
+      "backgroundPresets": "ค่าที่ตั้งล่วงหน้าพื้นหลัง",
+      "none": "ไม่มี",
+      "uploadBackground": "อัพโหลดพื้นหลัง",
+      "cancel": "ยกเลิก",
+      "savePhoto": "บันทึกรูปภาพ",
+      "zoom": "ซูม",
+      "rotationTilt": "การหมุนและการเอียง",
+      "resetRotation": "รีเซ็ตเป็น 0°",
+      "center": "ศูนย์",
+      "rotateLeft": "หมุน -90°",
+      "rotateRight": "หมุน +90°",
+      "removeBackground": "ลบพื้นหลัง",
+      "processing": "กำลังประมวลผลภาพของคุณ โปรดรอสักครู่..."
+    },
+    "cvPreview": {
+      "title": "ดูตัวอย่าง CV",
+      "downloadCv": "ดาวน์โหลดประวัติย่อ",
+      "download": "ดาวน์โหลด",
+      "wordCannotPreview": "ไม่สามารถดูตัวอย่างเอกสาร Word (.doc/.docx) ได้ในเบราว์เซอร์ ",
+      "downloadFile": "ดาวน์โหลดไฟล์ CV",
+      "back": "กลับ",
+      "mobileMessage": "กรุณาดาวน์โหลดไฟล์ CV เพื่อดูตัวอย่าง",
+      "preview": "ดูตัวอย่าง CV",
+      "wordPreviewTitle": "การแสดงตัวอย่างเอกสาร Word",
+      "wordPreviewMessage": "ไม่สามารถดูตัวอย่างเอกสาร Word (.doc/.docx) ได้ในเบราว์เซอร์ กรุณาดาวน์โหลดไฟล์เพื่อดู"
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "เขียนคำอธิบายสั้นๆ เกี่ยวกับตัวคุณเอง ความสนใจ และเป้าหมายในอาชีพ..."
+    },
+    "skills": {
+      "placeholder": "พิมพ์ชื่อทักษะ...",
+      "add": "เพิ่ม",
+      "enterToAdd": "กด Enter เพื่อเพิ่ม",
+      "noSkills": "ยังไม่มีทักษะเพิ่ม"
+    },
+    "projects": {
+      "projectName": "ชื่อโครงการ",
+      "projectNamePlaceholder": "เช่น ",
+      "projectUrl": "URL โครงการ",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "ระยะเวลา",
+      "startMonth": "เริ่มต้นเดือน",
+      "startYear": "เริ่มต้นปี",
+      "endMonth": "สิ้นเดือน",
+      "endYear": "สิ้นปี",
+      "currentlyWorking": "ขณะนี้กำลังทำงานเกี่ยวกับเรื่องนี้",
+      "description": "คำอธิบาย",
+      "descriptionPlaceholder": "อธิบายโครงการ บทบาทของคุณ และความสำเร็จ...",
+      "technologies": "เทคโนโลยีที่ใช้",
+      "addProject": "เพิ่มโครงการ",
+      "image": "ภาพโครงการ",
+      "removeImage": "ลบรูปภาพ",
+      "uploadImage": "คลิกเพื่ออัพโหลดภาพ"
+    },
+    "work": {
+      "company": "บริษัท/สถาบัน",
+      "companyPlaceholder": "ชื่อบริษัท...",
+      "role": "บทบาท/ตำแหน่ง",
+      "rolePlaceholder": "ตำแหน่งของคุณ...",
+      "jobType": "ประเภทงาน",
+      "selectJobType": "เลือกประเภท",
+      "fullTime": "เต็มเวลา",
+      "partTime": "งานพาร์ทไทม์",
+      "contract": "สัญญา",
+      "internship": "ฝึกงาน",
+      "freelance": "อิสระ",
+      "location": "ที่ตั้ง",
+      "locationPlaceholder": "เช่น ",
+      "duration": "ระยะเวลา",
+      "currentlyWorking": "ปัจจุบันทำงานที่นี่",
+      "description": "รายละเอียดงาน",
+      "descriptionPlaceholder": "อธิบายความรับผิดชอบและความสำเร็จที่สำคัญของคุณ...",
+      "skills": "ทักษะเฉพาะ",
+      "addExperience": "เพิ่มประสบการณ์"
+    },
+    "org": {
+      "organization": "ชื่อองค์กร",
+      "organizationPlaceholder": "ชื่อองค์กร...",
+      "role": "บทบาท/ตำแหน่ง",
+      "rolePlaceholder": "เช่น ",
+      "duration": "ระยะเวลา",
+      "periodFormat": "หรือรูปแบบอิสระ (เช่น 2020 - 2022)",
+      "periodPlaceholder": "เช่น ",
+      "currentlyActive": "ใช้งานอยู่ในปัจจุบัน",
+      "description": "คำอธิบายกิจกรรม",
+      "descriptionPlaceholder": "อธิบายกิจกรรมหรือการมีส่วนร่วมของคุณ...",
+      "addExperience": "เพิ่มประสบการณ์"
+    },
+    "education": {
+      "institution": "ชื่อสถาบัน",
+      "institutionPlaceholder": "ชื่อโรงเรียนหรือมหาวิทยาลัย...",
+      "degree": "ปริญญา/ระดับ",
+      "degreePlaceholder": "เช่น ",
+      "major": "สาขาวิชา/สาขาวิชา",
+      "majorPlaceholder": "เช่น ",
+      "gpa": "เกรดเฉลี่ย/เกรด",
+      "gpaPlaceholder": "เช่น ",
+      "duration": "ระยะเวลาการศึกษา",
+      "periodFormat": "หรือรูปแบบอิสระ (เช่น 2018 - 2022)",
+      "periodPlaceholder": "เช่น ",
+      "currentlyStudying": "ปัจจุบันกำลังศึกษาอยู่ที่นี่",
+      "description": "กิจกรรม/เกียรติบัตร",
+      "descriptionPlaceholder": "บรรยายกิจกรรมทางวิชาการ องค์กร หรือเกียรตินิยมที่ได้รับ...",
+      "addEducation": "เพิ่มการศึกษา"
+    },
+    "cert": {
+      "name": "ชื่อใบรับรอง",
+      "namePlaceholder": "เช่น ",
+      "issuer": "องค์กรที่ออก",
+      "issuerPlaceholder": "เช่น ",
+      "issueDate": "วันที่ออก",
+      "expiryDate": "ใช้ได้ถึงวันที่",
+      "noExpiry": "ข้อมูลประจำตัวนี้ไม่มีวันหมดอายุ",
+      "yearPlaceholder": "หรือปี (เช่น 2023)",
+      "credentialUrl": "URL ข้อมูลรับรอง",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "ทักษะที่เกี่ยวข้อง",
+      "addCertification": "เพิ่มการรับรอง",
+      "image": "รูปภาพ/โลโก้",
+      "removeImage": "ลบรูปภาพ",
+      "uploadImage": "คลิกเพื่ออัพโหลดภาพ"
+    },
+    "common": {
+      "months": {
+        "1": "มกราคม",
+        "2": "กุมภาพันธ์",
+        "3": "มีนาคม",
+        "4": "เมษายน",
+        "5": "อาจ",
+        "6": "มิถุนายน",
+        "7": "กรกฎาคม",
+        "8": "สิงหาคม",
+        "9": "กันยายน",
+        "10": "ตุลาคม",
+        "11": "พฤศจิกายน",
+        "12": "ธันวาคม"
+      },
+      "month": "เดือน",
+      "year": "ปี",
+      "invalidDate": "เดือนสิ้นสุดไม่ถูกต้อง",
+      "words": "คำ"
+    }
+  },
+  "settings": {
+    "title": "การตั้งค่า",
+    "subtitle": "จัดการโปรไฟล์พอร์ตโฟลิโอและการตั้งค่าของคุณ",
+    "tabs": {
+      "profile": "โปรไฟล์ของฉัน",
+      "security": "ความปลอดภัย",
+      "personalization": "การปรับเปลี่ยนในแบบของคุณ"
+    },
+    "profile": {
+      "infoTitle": "ข้อมูลพื้นฐาน",
+      "photo": "รูปโปรไฟล์",
+      "uploadPhoto": "เปลี่ยนรูปถ่าย",
+      "fullName": "ชื่อเต็ม",
+      "fullNamePlaceholder": "จอห์น โด",
+      "email": "ที่อยู่อีเมล",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "อีเมลใช้สำหรับเข้าสู่ระบบและไม่แสดงต่อสาธารณะ",
+      "portfolioUrl": "URL ผลงาน",
+      "saveProfile": "บันทึกโปรไฟล์",
+      "save": "บันทึกโปรไฟล์",
+      "accountCreated": "สร้างบัญชีแล้ว",
+      "lastLogin": "เข้าสู่ระบบครั้งล่าสุด",
+      "oauthNotice": "โปรไฟล์นี้เชื่อมต่อกับบัญชี {{provider}} ของคุณ การเปลี่ยนแปลงโปรไฟล์จะต้องดำเนินการผ่านผู้ให้บริการ"
+    },
+    "security": {
+      "changePassword": "เปลี่ยนรหัสผ่าน",
+      "currentPassword": "รหัสผ่านปัจจุบัน",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "รหัสผ่านใหม่",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "ยืนยันรหัสผ่านใหม่",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "อย่างน้อย 8 ตัวอักษร",
+        "uppercase": "ตัวพิมพ์ใหญ่หนึ่งตัว (A-Z)",
+        "number": "หนึ่งหมายเลข (0-9)",
+        "symbol": "หนึ่งสัญลักษณ์ (!@#$%^&*)"
+      },
+      "passwordTitle": "รหัสผ่าน",
+      "updatePassword": "อัปเดตรหัสผ่าน",
+      "additionalSecurity": "การรักษาความปลอดภัยเพิ่มเติม",
+      "twoFactor": "การรับรองความถูกต้องด้วยสองปัจจัย (2FA)",
+      "twoFactorDesc": "รักษาความปลอดภัยบัญชีของคุณโดยใช้รหัส OTP เพิ่มเติม",
+      "activeSessions": "เซสชันที่ใช้งานอยู่",
+      "activeSessionsDesc": "อนุญาตการตรวจสอบอุปกรณ์ที่เข้าสู่ระบบเสมอ",
+      "publicVisibility": "การมองเห็นของสาธารณะ",
+      "hideFromSearch": "ซ่อนผลงานจากเครื่องมือค้นหา",
+      "hideFromSearchDesc": "ป้องกันไม่ให้ Google จัดทำดัชนีหน้าผลงานสาธารณะของคุณ",
+      "disable2fa": {
+        "title": "ปิดการใช้งาน 2FA",
+        "description": "คุณแน่ใจหรือไม่ว่าต้องการปิดการตรวจสอบสิทธิ์แบบสองปัจจัย",
+        "confirmPasswordLabel": "ป้อนรหัสผ่านของคุณเพื่อยืนยัน",
+        "currentPasswordPlaceholder": "รหัสผ่านปัจจุบัน",
+        "cancelButton": "ยกเลิก",
+        "confirmButton": "ปิดการใช้งาน 2FA",
+        "incorrectPassword": "รหัสผ่านไม่ถูกต้อง"
+      },
+      "setup2fa": {
+        "step1Title": "1. สแกนรหัส QR",
+        "step1Desc": "เปิดแอปยืนยันตัวตนของคุณแล้วสแกนโค้ด QR ต่อไปนี้:",
+        "unableToScan": "ไม่สามารถสแกนได้? ใช้คีย์การตั้งค่า",
+        "step2Title": "2. ตรวจสอบรหัส",
+        "step2Desc": "ป้อนรหัส 6 หลักที่สร้างโดยแอปของคุณ:",
+        "cancelButton": "ยกเลิก",
+        "enableButton": "เปิดใช้งาน 2FA",
+        "invalidLength": "กรุณากรอกรหัส 6 หลัก",
+        "invalidCode": "รหัสยืนยันไม่ถูกต้อง โปรดลองอีกครั้ง"
+      }
+    },
+    "personalization": {
+      "languageTitle": "การควบคุมภาษา",
+      "appLanguage": "ภาษาของแอป",
+      "layoutTitle": "เค้าโครงและการพิมพ์",
+      "layoutStyle": "สไตล์เค้าโครง",
+      "layoutModern": "สไตล์โมเดิร์น (ค่าเริ่มต้น)",
+      "layoutClassic": "สไตล์คลาสสิก",
+      "layoutMinimalist": "สไตล์มินิมอล",
+      "fontSize": "ขนาดตัวอักษรของแอป",
+      "fontSmall": "เล็ก",
+      "fontNormal": "ปกติ (ปานกลาง)",
+      "fontLarge": "ใหญ่",
+      "searchLanguage": "ค้นหาภาษา...",
+      "languageNotFound": "ไม่พบภาษา",
+      "layoutElegant": "สไตล์หรูหรา"
+    },
+    "saveChanges": "บันทึกการเปลี่ยนแปลง",
+    "cancel": "ยกเลิก",
+    "appSettings": "การตั้งค่าแอพ",
+    "logoutConfirmTitle": "ยืนยันการออกจากระบบ",
+    "logoutConfirmDesc": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?",
+    "logoutConfirmYes": "ใช่ ออกจากระบบ",
+    "generalError": "เกิดข้อผิดพลาด ",
+    "success": "ความสำเร็จ",
+    "preferencesSaved": "บันทึกการตั้งค่าแอปเรียบร้อยแล้ว",
+    "header": "การตั้งค่าแอปพลิเคชัน",
+    "logout": {
+      "title": "ยืนยันการออกจากระบบ",
+      "message": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?",
+      "confirm": "ใช่ ออกจากระบบ"
+    },
+    "about": {
+      "title": "เกี่ยวกับการสมัคร",
+      "subtitle": "แพลตฟอร์มสร้างผลงาน",
+      "version": "เวอร์ชัน",
+      "description": "DevFolio เป็นแพลตฟอร์มสร้างพอร์ตโฟลิโอสมัยใหม่ที่ออกแบบมาสำหรับนักพัฒนา นักออกแบบ และผู้สร้างมืออาชีพ ",
+      "license": "ใบอนุญาตและลิขสิทธิ์",
+      "copyright": "© 2026 DevFolio Inc. สงวนลิขสิทธิ์",
+      "developer": "นักพัฒนา",
+      "developedBy": "พัฒนาโดย Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "ลบบัญชีอย่างถาวร",
+      "menuItem": "ลบบัญชี",
+      "successTitle": "สำเร็จ",
+      "successMessage": "ส่งอีเมลยืนยันการลบบัญชีแล้ว",
+      "errorTitle": "ล้มเหลว",
+      "errorMessage": "ไม่สามารถส่งอีเมลยืนยันได้",
+      "confirmationMessage": "คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณอย่างถาวร?",
+      "warningMessage1": "คุณจะได้รับอีเมลเพื่อยืนยันการลบบัญชี",
+      "warningMessage2": "หากได้รับการยืนยัน ข้อมูลทั้งหมด (พอร์ตโฟลิโอ โครงการ สถิติ) จะถูกลบอย่างถาวรและไม่สามารถกู้คืนได้",
+      "cancel": "ยกเลิก",
+      "confirm": "การยืนยัน"
+    },
+    "toasts": {
+      "toastError": "ข้อผิดพลาด",
+      "toastSuccess": "ความสำเร็จ",
+      "toastSetup2FAFailed": "ไม่สามารถตั้งค่า 2FA โปรดลองอีกครั้ง",
+      "toast2FAEnabled": "เปิดใช้งานการรับรองความถูกต้องด้วยสองปัจจัยแล้ว",
+      "toast2FADisabled": "การรับรองความถูกต้องด้วยสองปัจจัยถูกปิดใช้งาน",
+      "toastSessionEnabled": "เปิดใช้งานการตรวจสอบเซสชันที่ใช้งานอยู่",
+      "toastSessionDisabled": "การตรวจสอบเซสชันที่ใช้งานอยู่ถูกปิดใช้งาน",
+      "toastSetupKeyCopied": "คัดลอกคีย์การตั้งค่าไปยังคลิปบอร์ดแล้ว"
+    },
+    "privacy": {
+      "title": "นโยบายความเป็นส่วนตัว",
+      "updateDate": "อัปเดตล่าสุด: 15 กรกฎาคม 2026",
+      "intro": "นโยบายความเป็นส่วนตัวนี้อธิบายว่า DevFolio รวบรวม ใช้ และปกป้องข้อมูลส่วนบุคคลของคุณอย่างไรเมื่อใช้บริการของเรา",
+      "section1Title": "1. ข้อมูลที่เรารวบรวม",
+      "section1Content": "เรารวบรวมข้อมูลที่คุณให้ไว้โดยตรงเมื่อสร้างบัญชี สร้างพอร์ตโฟลิโอ และติดต่อฝ่ายสนับสนุนของเรา ",
+      "section2Title": "2. การใช้ข้อมูล",
+      "section2Content": "ข้อมูลของคุณจะถูกใช้เพื่อดำเนินการ บำรุงรักษา และนำเสนอคุณลักษณะของบริการของเรา ตลอดจนเพื่อสื่อสารกับคุณเกี่ยวกับบัญชีหรือบริการของคุณ",
+      "section3Title": "3. ความปลอดภัยของข้อมูล",
+      "section3Content": "เราใช้มาตรการรักษาความปลอดภัยที่เหมาะสมเพื่อปกป้องข้อมูลของคุณจากการเข้าถึง การเปิดเผย หรือการทำลายโดยไม่ได้รับอนุญาต"
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "ไม่พบโทเค็นการยืนยัน",
+    "defaultError": "ไม่สามารถลบบัญชีได้ โทเค็นอาจหมดอายุแล้ว",
+    "loadingTitle": "กำลังลบบัญชี...",
+    "loadingMessage": "กรุณารอสักครู่ เรากำลังดำเนินการตามคำขอของคุณ",
+    "successTitle": "ลบบัญชีเรียบร้อยแล้ว",
+    "successMessage": "ข้อมูลทั้งหมดของคุณถูกลบอย่างถาวรแล้ว คุณจะถูกเปลี่ยนเส้นทาง...",
+    "errorTitle": "ไม่สามารถลบบัญชี",
+    "backToHome": "กลับไปที่บ้าน"
+  },
+  "forgotPassword": {
+    "minutes": "นาที",
+    "seconds": "วินาที",
+    "success": "สำเร็จ",
+    "otpSentToEmail": "รหัส OTP ถูกส่งไปยังอีเมลของคุณแล้ว",
+    "failed": "ล้มเหลว",
+    "emailNotFound": "ไม่พบอีเมล",
+    "emailThirdParty": "อีเมลนี้ลงทะเบียนผ่านบุคคลที่สาม",
+    "genericError": "มีข้อผิดพลาด โปรดลองอีกครั้ง",
+    "otpVerified": "รหัส OTP ได้รับการยืนยันเรียบร้อยแล้ว",
+    "otpExpired": "รหัส OTP หมดอายุแล้ว กรุณาขอรหัสใหม่",
+    "otpInvalid": "รหัส OTP ไม่ถูกต้อง",
+    "otpResent": "รหัส OTP ใหม่ได้ถูกส่งไปยังอีเมลของคุณแล้ว",
+    "otpResendFailed": "ไม่สามารถส่งรหัส OTP อีกครั้ง โปรดลองอีกครั้ง",
+    "passwordResetSuccess": "รีเซ็ตรหัสผ่านเรียบร้อยแล้ว กรุณาเข้าสู่ระบบด้วยรหัสผ่านใหม่ของคุณ",
+    "passwordResetFailed": "ไม่สามารถรีเซ็ตรหัสผ่านได้",
+    "backToLogin": "กลับไปเข้าสู่ระบบ",
+    "back": "กลับ",
+    "title": "ลืมรหัสผ่าน",
+    "description": "ป้อนที่อยู่อีเมลที่ลงทะเบียนไว้ในบัญชีของคุณ เราจะส่งรหัส OTP เพื่อรีเซ็ตรหัสผ่าน",
+    "emailLabel": "ที่อยู่อีเมล",
+    "sending": "กำลังส่ง...",
+    "sendOtp": "ส่งรหัส OTP",
+    "verifyOtpTitle": "ตรวจสอบรหัส OTP",
+    "verifyOtpDesc": "ป้อนรหัส 6 หลักที่ส่งไปยังอีเมลของคุณเพื่อยืนยันตัวตนของคุณ",
+    "verifying": "กำลังยืนยัน...",
+    "verifyOtp": "ยืนยัน OTP",
+    "resending": "กำลังส่งอีกครั้ง...",
+    "resendOtp": "ส่งรหัส OTP อีกครั้ง",
+    "resendCodeIn": "ส่งรหัสอีกครั้งใน",
+    "newPasswordTitle": "สร้างรหัสผ่านใหม่",
+    "newPasswordDesc": "สร้างรหัสผ่านใหม่ที่รัดกุมเพื่อรักษาความปลอดภัยให้กับบัญชีของคุณ",
+    "newPasswordLabel": "รหัสผ่านใหม่",
+    "min8Chars": "ขั้นต่ำ 8 ตัวอักษร",
+    "oneUpperCase": "1 ตัวพิมพ์ใหญ่ (A-Z)",
+    "oneNumber": "1 หมายเลข (0-9)",
+    "oneSymbol": "1 สัญลักษณ์ (!@#$%^&*)",
+    "confirmPasswordLabel": "ยืนยันรหัสผ่าน",
+    "passwordsDoNotMatch": "รหัสผ่านไม่ตรงกัน",
+    "resettingPassword": "กำลังรีเซ็ตรหัสผ่าน...",
+    "resetPassword": "รีเซ็ตรหัสผ่าน"
+  },
+  "verifyEmail": {
+    "resendError": "ไม่สามารถส่งอีเมลยืนยันอีกครั้ง โปรดลองอีกครั้ง",
+    "checkingStatus": "กำลังตรวจสอบสถานะการยืนยัน...",
+    "title": "ตรวจสอบอีเมลของคุณ",
+    "description": "เราได้ส่งอีเมลยืนยันไปยังที่อยู่อีเมลของคุณแล้ว โปรดเปิดอีเมลและคลิกปุ่ม <1>\"ยืนยันบัญชี\"</1> เพื่อเปิดใช้งานบัญชีของคุณ",
+    "stepsTitle": "ขั้นตอน",
+    "step1": "เปิดแอปพลิเคชันอีเมลของคุณ (Gmail, Yahoo ฯลฯ )",
+    "step2": "ค้นหาอีเมลจาก DevFolio ที่มีหัวเรื่อง \"การเปิดใช้งานบัญชี\"",
+    "step3": "คลิกปุ่ม \"ยืนยันบัญชี\" ในอีเมล",
+    "step4": "คุณจะถูกนำไปที่หน้าเข้าสู่ระบบเพื่อเข้าสู่ระบบ",
+    "resendSuccess": "ส่งอีเมลยืนยันแล้ว!",
+    "resending": "ส่งอีกครั้ง...",
+    "resendButton": "ส่งอีเมลยืนยันอีกครั้ง",
+    "backToLogin": "กลับไปที่หน้าเข้าสู่ระบบ",
+    "footerNote": "ไม่ได้รับอีเมล์? ตรวจสอบโฟลเดอร์ <1>สแปม</1> หรือ <2>ขยะ</2> ในอีเมลของคุณ ลิงก์ยืนยันใช้งานได้ <3>24 ชั่วโมง</3>"
+  }
+}

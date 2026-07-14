@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Tici",
+    "templates": "Tifanekiso",
+    "pricing": "Intsengo",
+    "login": "Ngena ngemvume",
+    "getStarted": "Cala",
+    "title": "Lifoliyo"
+  },
+  "landing": {
+    "badge": "Umakhi wephothifoliyo wekugcina webatfutfukisi",
+    "title1": "Yakha bucwepheshe bakho",
+    "title2": "iphothifoliyo ku",
+    "titleHighlight": "imizuzwane.",
+    "subtitle": "Konkhe lokudzingako kute ukhombise emakhono akho, emaphrojekthi, kanye nesipiliyoni. ",
+    "startBuilding": "Cala Kwakha Nyalo",
+    "viewTemplates": "Buka Emathempulethi",
+    "fastDeployment": "Kusetjentiswa Ngekushesha",
+    "liveStatus": "ligama lemsebentisi.dev liyaphila!",
+    "featuresTitle": "Timphawu letinemandla",
+    "featuresSubtitle": "Siniketa onkhe emathulusi lowadzingako kute uvelele esicukwini futsi utfole umsebenti wakho wemaphupho.",
+    "feature1Title": "Dvonsa & Uwise Umakhi",
+    "feature1Desc": "Hlela kalula tincenye takho, emaphrojekthi, kanye nemakhono nge-editha yetfu lebonakalako lebonakalako.",
+    "feature2Title": "Ingcikitsi Lekhetsekile",
+    "feature2Desc": "Khetsa kumathempulethi lakhiwe ngebungcweti noma udale kubukeka kwakho lokuhlukile.",
+    "feature3Title": "Kuhlatiya ngesikhatsi sangempela",
+    "feature3Desc": "Landzela tivakashi takho, ubone kutsi ngumaphi emaphrojekthi latfola kunakwa kakhulu, kanye nalokunye."
+  },
+  "auth": {
+    "welcomeBack": "Siyakwemukela",
+    "loginToContinue": "Ngena ngemvume ku-akhawunti yakho kute uchubeke",
+    "createAccount": "Dala i-akhawunti",
+    "joinCommunity": "Hlanganyela netinkhulungwane talabanye batfutfukisi",
+    "fullName": "Ligama leliphelele",
+    "fullNamePlaceholder": "sib. ",
+    "email": "Likheli le-imeyili",
+    "emailPlaceholder": "wena@sibonelo.com",
+    "password": "Iphasiwedi",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Ngikhumbule",
+    "forgotPassword": "Ukhohliwe iphasiwedi?",
+    "signIn": "Ngena ngemvume",
+    "signingIn": "Kungena ngemvume...",
+    "signUp": "Bhalisa",
+    "signingUp": "Kubhalisa...",
+    "noAccount": "Awunayo yini i-akhawunti?",
+    "hasAccount": "Sewuvele une-akhawunti?",
+    "passwordRules": {
+      "title": "Iphasiwedi kumele ibe na:",
+      "length": "Okungenani tinhlavu letingu-8",
+      "uppercase": "Luhlavugama lunye lolukhulu (A-Z)",
+      "number": "Inombolo yinye (0-9)",
+      "symbol": "Luphawu lunye (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Umakhi wephothifoliyo",
+      "templates": "Tifanekiso & Tingcikitsi",
+      "settings": "Tilungiselelo",
+      "collapse": "Gulisa ibha leseceleni",
+      "overview": "Kubuka konkhe",
+      "profileSettings": "Tilungiselelo tephrofayela",
+      "customDomain": "Sizinda lesikhetsiwe",
+      "feedback": "Umbiko"
+    },
+    "header": {
+      "viewLive": "Buka bukhoma",
+      "welcome": "Kwemukela,",
+      "logout": "Phuma",
+      "builder": "Umakhi",
+      "livePortfolio": "Iphothifoliyo lebukhoma",
+      "live": "Kuphila"
+    },
+    "logoutModal": {
+      "title": "Phuma",
+      "message": "Ucinisekile yini kutsi ufuna kuphuma ku-akhawunti yakho? ",
+      "cancel": "Khansela",
+      "confirm": "Yebo, Phuma"
+    },
+    "slugModal": {
+      "title": "Khetsa i-URL yePhothifoliyo yakho",
+      "message": "Le-URL itawuba sixhumanisi lesisezingeni lelisetulu sephothifoliyo yakho. ",
+      "slugPlaceholder": "ligama lakho",
+      "availability": "Kutfolakala:",
+      "available": "Tfolakala",
+      "unavailable": "Akutfolakali",
+      "checking": "Ngihlola...",
+      "mustFormat": "Ingacuketse tinhlavugama, tinombolo, kanye nemadashi (-) kuphela",
+      "cancel": "Khansela",
+      "save": "Gcina i-URL",
+      "usernameUrl": "Ligama lemsebentisi URL",
+      "helpText": "Tinhlavu letincane, tinombolo, kanye nemadeshi. ",
+      "validation": {
+        "empty": "Slug angeke ibe yintfo lengenalutfo.",
+        "min3": "Lokungenani tinhlavu letingu-3.",
+        "max30": "Tinhlavu letingetulu kwa-30.",
+        "format": "Tinhlavugama letincane kuphela, tinombolo, kanye nemadashi (-). "
+      }
+    },
+    "loadingPortfolio": "Kulayisha idatha yephothifoliyo...",
+    "overview": {
+      "greetings": {
+        "morning": "Kusile",
+        "afternoon": "Sawubona ntambama",
+        "evening": "Sawubona ntambama",
+        "night": "Busuku lobuhle"
+      },
+      "welcome": {
+        "hi": "Sawubona,",
+        "creator": "Mdali",
+        "desc1": "Siyakwemukela kudeshibhodi ye-DevFolio. Iphothifoliyo yakho ibukwe ngu",
+        "desc2": "muntfu. Chubekani nisebenta!",
+        "editPortfolio": "Hlela iphothifoliyo"
+      },
+      "stats": {
+        "totalVisitors": "Linani Leliphelele Letivakashi",
+        "projectViews": "Kubukwe (Iphrojekthi)",
+        "activeSessions": "Sikhatsi lesisebentako",
+        "totalLabel": "Linani selilonkhe"
+      },
+      "setup": {
+        "title": "Inchubekelembili yekusetha",
+        "completed": "Iphothifoliyo yakho seyiphelile! 🎉",
+        "inProgress": "Tinyatselo letiya ephothifoliyo lephelele.",
+        "profile": {
+          "title": "Gcwalisa iphrofayili",
+          "desc": "Ngeta ligama, i-bio kanye nesitfombe sephrofayela."
+        },
+        "section": {
+          "title": "Ngeta Tigaba",
+          "desc": "Kusebentisa lokungenani sigaba sinye kuphothifoliyo."
+        },
+        "project": {
+          "title": "Ngeta Iphrojekthi",
+          "desc": "Faka lokungenani 1 wemaphrojekthi akho lamahle kakhulu."
+        },
+        "publish": {
+          "title": "Shicilela iphothifoliyo",
+          "desc": "Setha i-URL yesiko kute sive siyifinyelele."
+        }
+      },
+      "topProjects": {
+        "title": "Emaphrojekthi Lathandwa Kakhulu",
+        "desc": "Kusebenta kwemsebenti wakho emehlweni etivakashi.",
+        "viewAll": "Bona Konkhe",
+        "empty": "Kute idatha yekubuka yephrojekthi yakho okwamanje."
+      }
+    },
+    "themes": {
+      "title": "Tifanekiso & Tingcikitsi",
+      "subtitle": "Yenta ngendlela loyifunako kubukeka nekutiva kwephothifoliyo yakho yemmango.",
+      "reset": "Setha kabusha Lokujwayelekile",
+      "save": "Gcina Tingucuko",
+      "saving": "Konga...",
+      "chooseTemplate": "Khetsa Sifanekiso",
+      "primaryColor": "Umbala Loyinhloko",
+      "typography": "Indlela yekuthayipha",
+      "appearance": "Kubukeka",
+      "corners": "Emakhona & Imingcele",
+      "successTitle": "Impumelelo",
+      "successMessage": "Tintfo letikhetsiwe tengcikitsi tibuyeketwe ngemphumelelo",
+      "errorTitle": "Liphutsa",
+      "errorMessage": "Kwehlulekile kugcina lokukhetsako kwengcikitsi",
+      "templates": {
+        "minimalist": {
+          "name": "Lokuncane",
+          "desc": "Umklamo lohlantekile futsi lolula ugcile ekucuketfweni."
+        },
+        "developerDark": {
+          "name": "Umsunguli Umnyama",
+          "desc": "Ingcikitsi lemnyama lelungele kukhombisa ikhodi kanye netincumbi tebuchwepheshe."
+        },
+        "creative": {
+          "name": "Kudala",
+          "desc": "Layout lephilako nalemibalabala yebakhi kanye nebasunguli."
+        },
+        "executive": {
+          "name": "Sigungu Lesiphetse",
+          "desc": "Kuhleleka kwebungcweti nalokusemtsetfweni kwebungcweti bebhizinisi."
+        },
+        "bentoGrid": {
+          "name": "Igridi yeBento",
+          "desc": "Layout yegridi yesitayela se-Apple yesimanje lekhombisa emakhono lehlukene ngendlela lefanele."
+        },
+        "neoBrutalism": {
+          "name": "Budlova lobusha",
+          "desc": "Imingcele lenesibindzi kanye nemibala leyehlukene kakhulu yekubukeka lokuhamba embili, lokungacolisi."
+        },
+        "glassmorphism": {
+          "name": "Kufana nengilazi",
+          "desc": "Imiphumela yengilazi lenesithwathwa ngetulu kwema-gradient lambalabala ye-UI yesimanje lebusheleleti."
+        },
+        "linkInBio": {
+          "name": "Sixhumanisi ku Bio",
+          "desc": "Layout lemile lencane leyentelwe tikrini temakhalekhikhini kanye netinsita tekuchumana."
+        }
+      },
+      "appearances": {
+        "light": "Kukhanya",
+        "dark": "Kumnyama",
+        "system": "Luhlelo"
+      },
+      "cornersOptions": {
+        "sharp": "Kuhlaba",
+        "rounded": "Kuyindingilizi",
+        "pill": "Iphilisi"
+      }
+    },
+    "feedback": {
+      "title": "Tfumela Imphendvulo",
+      "subtitle": "Sisite sente kutsi kube ncono ngekuniketa tiphakamiso, kugceka, noma kubika timbungulu kuloluhlelo lokusebenta.",
+      "categoryLabel": "Sigaba Semphendvulo",
+      "messageLabel": "Imininingwane Yemlayeto",
+      "messagePlaceholder": "Ngitjele kabanti ngemphendvulo lofuna kuyidlulisela...",
+      "imageLabel": "Kunamatsiselwe Sitfombe (Kukhetsa)",
+      "imagePlaceholder": "Chafata kute ulayishe sitfombe nobe sitfombe sesikrini",
+      "submitting": "Kutfumela...",
+      "submitBtn": "Tfumela Imphendvulo",
+      "categories": {
+        "suggestion": "Tiphakamiso & Imibono",
+        "bug": "Umbiko Weliphutsa / Bug",
+        "criticism": "Kugcekwa",
+        "other": "Labanye"
+      },
+      "imageErrorTitle": "Liphutsa",
+      "imageErrorMessage": "Lamanye emafayela ayalahlwa ngoba awasekelwa emafomethi etitfombe (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Impumelelo",
+      "successMessage": "Siyabonga ngemphendvulo yakho! Umbiko sewutfunyelwe.",
+      "submitErrorTitle": "Kwehlulekile",
+      "submitErrorMessage": "Kwenteke liphutsa ngesikhatsi kutfunyelwa imphendvulo. Sicela uphindze uzame futsi."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Ngami",
+      "skills": "Emakhono",
+      "projects": "Emaphrojekthi",
+      "workExperience": "Sipiliyoni Semsebenti",
+      "orgExperience": "Sipiliyoni Senhlangano",
+      "education": "Imfundvo",
+      "certifications": "Kuceceshwa & Titifiketi",
+      "contact": "Xhumana nami"
+    },
+    "editor": {
+      "profileInfo": "Lwati lwephrofayili",
+      "saving": "Konga...",
+      "profilePhoto": "Sitfombe sephrofayela",
+      "clickToUpload": "Chafata kute ulayishe (JPG, PNG)",
+      "fullName": "Ligama leliphelele",
+      "fullNamePlaceholder": "sib. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Umsunguli we-Fullstack lonenshisekelo yekwakha tinhlelo tekusebenta tewebhu tesimanje...",
+      "location": "Indzawo",
+      "locationPlaceholder": "sib. ",
+      "gender": "Bulili",
+      "selectGender": "Khetsa Bulili",
+      "male": "Lomdvuna",
+      "female": "Umsikati",
+      "custom": "Umkhuba",
+      "customPlaceholder": "Thayipha bulili bakho...",
+      "uploadCv": "Layisha i-CV",
+      "cvFormat": "(i-DOC nobe i-PDF)",
+      "preview": "Kubuka ngaphambilini",
+      "remove": "Susa",
+      "clickToUploadCv": "Chafata kute ulayishe i-PDF nobe i-DOC",
+      "sections": "Tigaba",
+      "removeSelected": "Susa lokukhetsiwe",
+      "confirmRemove": "Cinisekisa Susa",
+      "addSection": "Ngeta Sigaba",
+      "addAllSections": "Ngeta Tonkhe Tigaba",
+      "noSections": "Kute tincenye",
+      "clickToAdd": "Chafata \"+ Ngeta Sigaba\" kute ucale",
+      "selectAll": "Khetsa Konkhe",
+      "selected": "Kukhetsiwe",
+      "dragToReorder": "Dvonsa kute uhlele kabusha tincenye",
+      "livePreview": "Kubuka ngaphambilini bukhoma",
+      "addSectionsToBuild": "Ngeta tincenye kute wakhe iphothifoliyo yakho",
+      "now": "Nyalo",
+      "current": "Kwanyalo",
+      "noExpiry": "Kute kuphelelwa sikhatsi",
+      "see": "Bona",
+      "position": "Sikhundla",
+      "degree": "Lizinga",
+      "certification": "Sitifiketi",
+      "sectionsForm": {
+        "about": {
+          "label": "Inchazelo yakho",
+          "placeholder": "Sitjele ngawe, imvelaphi yakho, tintfo lotitsandzako kanye nemakhono..."
+        },
+        "skills": {
+          "addPlaceholder": "Thayipha likhono bese ucindetela Faka..."
+        },
+        "projects": {
+          "title": "Ligama Lephrojekthi",
+          "titlePlaceholder": "Ligama lephrojekthi...",
+          "url": "I-URL yephrojekthi",
+          "description": "Incazelo",
+          "descriptionPlaceholder": "Incazelo lemfisha yalephrojekthi...",
+          "uploadThumbnail": "Sitfombe sephrojekthi",
+          "addProject": "Ngeta Iphrojekthi",
+          "projectNum": "Liphrojekthi #",
+          "currentProject": "Lena yiphrojekthi lengisebenta kuyo ."
+        },
+        "work": {
+          "company": "Inkampani/I-Ejensi",
+          "companyPlaceholder": "Ligama lenkampani...",
+          "position": "Sikhundla/Sihloko",
+          "positionPlaceholder": "Sikhundla sakho...",
+          "employmentType": "Luhlobo lwemsebenti",
+          "location": "Indzawo",
+          "locationPlaceholder": "Lidolobhakati, Live...",
+          "startDate": "Cala",
+          "endDate": "Cedzile",
+          "currentWork": "Ngisasebenta ngalesikhatsi",
+          "description": "Incazelo",
+          "descriptionPlaceholder": "Incazelo yemsebenti kanye nemitfwalo...",
+          "skills": "Likhono",
+          "addExperience": "Ngeta Sipiliyoni Semsebenti",
+          "experienceNum": "Lokwentekile #",
+          "dateError": "Lusuku lwekuphela angeke lube ngaphambi kwelusuku lwekucala"
+        },
+        "org": {
+          "organization": "Ligama leNhlangano",
+          "orgPlaceholder": "Inyuvesi yase-BEM...",
+          "role": "Indzima/Sikhundla",
+          "rolePlaceholder": "Inhloko Yeluhlangotsi...",
+          "addOrg": "Ngeta Sipiliyoni Senhlangano",
+          "orgNum": "Inhlangano #"
+        },
+        "edu": {
+          "institution": "Tikhungo teMfundvo",
+          "institutionPlaceholder": "Ligama lekhampasi noma lesikolwa...",
+          "degree": "Sihloko",
+          "degreePlaceholder": "S1, esikolweni lesisetulu, njll...",
+          "major": "Litiko/Indzawo Yekufundza",
+          "majorPlaceholder": "Bunjiniyela Belwatiso...",
+          "gpa": "GPA (ungakhetsa)",
+          "currentStudy": "Ngisafundza lapha .",
+          "descriptionPlaceholder": "Imisebenti kanye nemiphumela ngesikhatsi sekufundzela...",
+          "addEdu": "Ngeta Imfundvo",
+          "eduNum": "Imfundvo #"
+        },
+        "cert": {
+          "name": "Ligama leSitifiketi / Kuceceshwa",
+          "namePlaceholder": "Ligama lesitifiketi...",
+          "issuer": "Umshicileli",
+          "issuerPlaceholder": "Sikhungo sekushicilela...",
+          "issueDate": "Cala (Lusuku Lwekushicilela)",
+          "issueDatePlaceholder": "Khetsa lilanga lekushicilelwa...",
+          "expiryDate": "Kucedziwe (Sikhatsi Lesisebentako)",
+          "expiryDatePlaceholder": "Khetsa lilanga lekuphelelwa sikhatsi...",
+          "noExpiry": "Lesitifiketi asinalo lilanga lekuphelelwa sikhatsi",
+          "url": "I-URL yebufakazi",
+          "uploadThumbnail": "Sitfombe Sesitifiketi / Sekuceceshwa",
+          "uploadThumbnailLimit": "Layisha sitfombe sesitifiketi (JPG/PNG/WEBP, ngetulu kwa-2MB)",
+          "addCert": "Ngeta Sitifiketi",
+          "certNum": "Sitifiketi #"
+        },
+        "contact": {
+          "contactNum": "Tsintsa #",
+          "platform": "Inkundla",
+          "displayText": "Khombisa Umbhalo",
+          "displayTextPlaceholder": "sibonelo, wena@imeyili.com noma @ligama lemsebentisi",
+          "url": "Sixhumanisi (i-URL)",
+          "urlPlaceholderWhatsapp": "sibonelo, 62812... (ngaphandle kwekuhola 0)",
+          "urlPlaceholderEmail": "sibonelo, wena@imeyili.com",
+          "urlPlaceholderWebsite": "sibonelo, https://...",
+          "urlPlaceholderDefault": "sibonelo, ligama lemsebentisi",
+          "addContact": "Ngeta Lotsintsana naye"
+        },
+        "common": {
+          "months": {
+            "1": "Januwari",
+            "2": "Februwari",
+            "3": "Mashi",
+            "4": "Ephuleli",
+            "5": "Kungase",
+            "6": "Juni",
+            "7": "Julayi",
+            "8": "Agasti",
+            "9": "Ngongoni",
+            "10": "Okthoba",
+            "11": "Novemba",
+            "12": "Desemba"
+          },
+          "month": "Inyanga",
+          "year": "Mnyaka",
+          "invalidDate": "Inyanga Yekugcina Lengasebenti",
+          "words": "emavi"
+        }
+      },
+      "sure": "Cinisekile",
+      "deletePhotoTitle": "Cisha Sitfombe Sephrofayili?",
+      "deletePhotoMessage": "Ucinisekile yini kutsi ufuna kucisha lesitfombe sephrofayela?",
+      "cancel": "Khansela",
+      "delete": "Sula"
+    },
+    "cropper": {
+      "chooseBackground": "Khetsa Imvelaphi",
+      "cropPhoto": "Sika Sitfombe Sakho",
+      "useOriginal": "Sebentisa lokuyinhloko",
+      "backgroundPresets": "Emasethi langemuva",
+      "none": "Kute",
+      "uploadBackground": "Layisha imvelaphi",
+      "cancel": "Khansela",
+      "savePhoto": "Gcina Sitfombe",
+      "zoom": "Zoom",
+      "rotationTilt": "Kujikeleta & Kujika",
+      "resetRotation": "Setha kabusha ku 0°",
+      "center": "Sikhungo",
+      "rotateLeft": "Jikisa -90°",
+      "rotateRight": "Jikisa +90°",
+      "removeBackground": "Susa imvelaphi",
+      "processing": "Kucubungula sitfombe sakho, sicela ulindze..."
+    },
+    "cvPreview": {
+      "title": "Kubuka ngaphambilini kwe-CV",
+      "downloadCv": "Landza i-CV",
+      "download": "Downiloda",
+      "wordCannotPreview": "Emadokhumenti e-Word (.doc/.docx) angeke abukwe ngaphambilini ngekwemdzabu kusiphequluli. ",
+      "downloadFile": "Landza lifayela le-CV",
+      "back": "Ngemuva",
+      "mobileMessage": "Sicela ulandzele lifayela le-CV kute ulibuke ngaphambilini.",
+      "preview": "Buka ngaphambilini i-CV",
+      "wordPreviewTitle": "Kubuka ngaphambilini kwedokhumenti ye-Word",
+      "wordPreviewMessage": "Emadokhumenti e-Word (.doc/.docx) angeke abukwe ngaphambilini ngekwemdzabu kusiphequluli. Ucelwa kutsi ulandze lelifayela kute ulibuke."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Bhala inchazelo lemfisha ngawe, tintfo lotitsandzako, kanye nemigomo yemsebenti..."
+    },
+    "skills": {
+      "placeholder": "Thayipha ligama lelikhono...",
+      "add": "Hlanganisa",
+      "enterToAdd": "Cindzetela Faka kuze wengete",
+      "noSkills": "Kute emakhono langetiwe kwanyalo."
+    },
+    "projects": {
+      "projectName": "Ligama Lephrojekthi",
+      "projectNamePlaceholder": "sib. ",
+      "projectUrl": "I-URL yephrojekthi",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Budze besikhatsi",
+      "startMonth": "Inyanga Yekucala",
+      "startYear": "Umnyaka wekucala",
+      "endMonth": "Inyanga Yekuphela",
+      "endYear": "Umnyaka Wekuphela",
+      "currentlyWorking": "Kwanyalo ngisebenta ngaloku",
+      "description": "Incazelo",
+      "descriptionPlaceholder": "Chaza lephrojekthi, indzima yakho, kanye nemiphumela...",
+      "technologies": "Buchwepheshe Lobusetjentisiwe",
+      "addProject": "Ngeta Iphrojekthi",
+      "image": "Sitfombe sephrojekthi",
+      "removeImage": "Susa sitfombe",
+      "uploadImage": "Chafata kute ulayishe sitfombe"
+    },
+    "work": {
+      "company": "Inkampani/Sikhungo",
+      "companyPlaceholder": "Ligama lenkampani...",
+      "role": "Indzima/Sikhundla",
+      "rolePlaceholder": "Sikhundla sakho...",
+      "jobType": "Luhlobo Lwemsebenti",
+      "selectJobType": "Khetsa luhlobo",
+      "fullTime": "Sikhatsi sonkhe",
+      "partTime": "Sikhashana",
+      "contract": "Sivumelwano",
+      "internship": "Kufundzela umsebenti",
+      "freelance": "Umsebenti lotisebentako",
+      "location": "Indzawo",
+      "locationPlaceholder": "sib. ",
+      "duration": "Budze besikhatsi",
+      "currentlyWorking": "Kwanyalo ngisebenta lapha",
+      "description": "Incazelo Yemsebenti",
+      "descriptionPlaceholder": "Chaza imisebenti yakho lebalulekile kanye nemiphumela yakho...",
+      "skills": "Emakhono Lakhetsekile",
+      "addExperience": "Ngeta Sipiliyoni"
+    },
+    "org": {
+      "organization": "Ligama leNhlangano",
+      "organizationPlaceholder": "Ligama lenhlangano...",
+      "role": "Indzima/Sikhundla",
+      "rolePlaceholder": "sib. ",
+      "duration": "Budze besikhatsi",
+      "periodFormat": "noma Ifomethi Yamahhala (sib. 2020 - 2022)",
+      "periodPlaceholder": "sib. ",
+      "currentlyActive": "Kuyasebenta kwanyalo",
+      "description": "Incazelo Yemsebenti",
+      "descriptionPlaceholder": "Chaza imisebenti yakho noma iminikelo yakho...",
+      "addExperience": "Ngeta Sipiliyoni"
+    },
+    "education": {
+      "institution": "Ligama Lesikhungo",
+      "institutionPlaceholder": "Ligama lesikolwa noma lenyuvesi...",
+      "degree": "Lizinga/Lizinga",
+      "degreePlaceholder": "sib. ",
+      "major": "Umkhakha Lomkhulu/Wekufundza",
+      "majorPlaceholder": "sib. ",
+      "gpa": "GPA / Libanga",
+      "gpaPlaceholder": "sib. ",
+      "duration": "Sikhatsi Semfundvo",
+      "periodFormat": "noma Indlela Yamahhala (sib. 2018 - 2022)",
+      "periodPlaceholder": "sib. ",
+      "currentlyStudying": "Kwanyalo ngifundza lapha",
+      "description": "Imisebenti / Tihlonipho",
+      "descriptionPlaceholder": "Chaza imisebenti yetemfundvo, tinhlangano, noma kuhlonishwa lokutfoliwe...",
+      "addEducation": "Ngeta Imfundvo"
+    },
+    "cert": {
+      "name": "Ligama Lesitifiketi",
+      "namePlaceholder": "sib. ",
+      "issuer": "Inhlangano Lekhiphako",
+      "issuerPlaceholder": "sib. ",
+      "issueDate": "Lusuku Lwekukhishwa",
+      "expiryDate": "Kusebenta Kuze kube ngu-2019.",
+      "noExpiry": "Lesicinisekiso asiphelelwa sikhatsi",
+      "yearPlaceholder": "noma Umnyaka (sib. 2023)",
+      "credentialUrl": "I-URL yebufakazi",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Emakhono Lahlobene",
+      "addCertification": "Ngeta Sitifiketi",
+      "image": "Sitfombe/Logo",
+      "removeImage": "Susa sitfombe",
+      "uploadImage": "Chafata kute ulayishe sitfombe"
+    },
+    "common": {
+      "months": {
+        "1": "Januwari",
+        "2": "Februwari",
+        "3": "Mashi",
+        "4": "Ephuleli",
+        "5": "Kungase",
+        "6": "Juni",
+        "7": "Julayi",
+        "8": "Agasti",
+        "9": "Ngongoni",
+        "10": "Okthoba",
+        "11": "Novemba",
+        "12": "Desemba"
+      },
+      "month": "Inyanga",
+      "year": "Mnyaka",
+      "invalidDate": "Inyanga Yekugcina Lengasebenti",
+      "words": "emavi"
+    }
+  },
+  "settings": {
+    "title": "Tilungiselelo",
+    "subtitle": "Lawula iphrofayili yakho yephothifoliyo kanye netintfo lotitsandzako",
+    "tabs": {
+      "profile": "Iphrofayili yami",
+      "security": "Kuvikeleka",
+      "personalization": "Kwenta ngekwemuntfu"
+    },
+    "profile": {
+      "infoTitle": "Lwati Lolusisekelo",
+      "photo": "Sitfombe sephrofayela",
+      "uploadPhoto": "Shintja Sitfombe",
+      "fullName": "Ligama leliphelele",
+      "fullNamePlaceholder": "Johane",
+      "email": "Likheli le-imeyili",
+      "emailPlaceholder": "johane@sibonelo.com",
+      "emailHelp": "I-imeyili isetjentiselwa kungena ngemvume futsi ayikhonjiswa esidlangalaleni.",
+      "portfolioUrl": "I-URL yephothifoliyo",
+      "saveProfile": "Gcina iphrofayili",
+      "save": "Gcina iphrofayili",
+      "accountCreated": "I-akhawunti yakhiwe",
+      "lastLogin": "Ngena Kwekugcina",
+      "oauthNotice": "Lephrofayili ixhumene ne-akhawunti yakho {{umhlinzeki}}. Tingucuko tephrofayili kumele tenteke ngekusebentisa umhlinzeki wensita."
+    },
+    "security": {
+      "changePassword": "Shintja iphasiwedi",
+      "currentPassword": "Iphasiwedi yamanje",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Iphasiwedi lensha",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Cinisekisa iphasiwedi lensha",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "Okungenani tinhlavu letingu-8",
+        "uppercase": "Luhlavugama lunye lolukhulu (A-Z)",
+        "number": "Inombolo yinye (0-9)",
+        "symbol": "Luphawu lunye (!@#$%^&*)"
+      },
+      "passwordTitle": "Iphasiwedi",
+      "updatePassword": "Vuselela iphasiwedi",
+      "additionalSecurity": "Kuphepha Lokwengetiwe",
+      "twoFactor": "Kucinisekisa Ngetintfo Letimbili (2FA)",
+      "twoFactorDesc": "Vikela i-akhawunti yakho usebentisa ikhodi ye-OTP lengetiwe.",
+      "activeSessions": "Tikhatsi letisebentako",
+      "activeSessionsDesc": "Ngaso sonkhe sikhatsi vumela kugadza emadivayisi langene ngemvume.",
+      "publicVisibility": "Kubonakala Emmangweni",
+      "hideFromSearch": "Fihla iphothifoliyo ku Tinjini Tekuphenya",
+      "hideFromSearchDesc": "Vimbela iGoogle kutsi ingafaki inkhomba yelikhasi lakho lephothifoliyo yemmango.",
+      "disable2fa": {
+        "title": "Khubaza i-2FA",
+        "description": "Ucinisekile yini kutsi ufuna kucisha kucinisekiswa kwetintfo letimbili?",
+        "confirmPasswordLabel": "Faka iphasiwedi yakho kute ucinisekise",
+        "currentPasswordPlaceholder": "Iphasiwedi yamanje",
+        "cancelButton": "Khansela",
+        "confirmButton": "Khubaza i-2FA",
+        "incorrectPassword": "Iphasiwedi lengakalungi."
+      },
+      "setup2fa": {
+        "step1Title": "1. Skena ikhodi ye-QR",
+        "step1Desc": "Vula i-app yakho yekucinisekisa bese uskena le-QR code lelandzelako:",
+        "unableToScan": "Awukhoni kuskena? Sebentisa likhiye lekusetha",
+        "step2Title": "2. Cinisekisa ikhodi",
+        "step2Desc": "Faka ikhodi lenemadijithi lasitfupha leyakhiwe yi-app yakho:",
+        "cancelButton": "Khansela",
+        "enableButton": "Nika emandla i-2FA",
+        "invalidLength": "Ucelwa kutsi ufake ikhodi lenemadijithi langu-6.",
+        "invalidCode": "Ikhodi yekucinisekisa lengasebenti. Sicela uphindze uzame futsi."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Tilawuli Telulwimi",
+      "appLanguage": "Lulwimi Lwe-app",
+      "layoutTitle": "Kuhleleka & Kuthayipha",
+      "layoutStyle": "Sitayela Sekuma",
+      "layoutModern": "Sitayela sesimanje (lesijwayelekile)",
+      "layoutClassic": "Sitayela Seklasikhi",
+      "layoutMinimalist": "Sitayela sebuncane",
+      "fontSize": "Usayizi Wefonti Yeluhlelo",
+      "fontSmall": "Lencane",
+      "fontNormal": "Lokujwayelekile (Kusemkhatsini)",
+      "fontLarge": "Khulu",
+      "searchLanguage": "Lulwimi lwekusesha...",
+      "languageNotFound": "Lulwimi alutfolakali",
+      "layoutElegant": "Sitayela Lesihle"
+    },
+    "saveChanges": "Gcina tingucuko",
+    "cancel": "Khansela",
+    "appSettings": "Emasethingi e-app",
+    "logoutConfirmTitle": "Cinisekisa kuphuma",
+    "logoutConfirmDesc": "Ucinisekile yini kutsi ufuna kuphuma kuloluhlelo?",
+    "logoutConfirmYes": "Yebo, Phuma",
+    "generalError": "Kwenteke liphutsa. ",
+    "success": "Impumelelo",
+    "preferencesSaved": "Tintfo letikhetsiwe te-app tigcinwe ngemphumelelo.",
+    "header": "Tilungiselelo teluhlelo",
+    "logout": {
+      "title": "Sicinisekiso sekuphuma",
+      "message": "Ucinisekile yini kutsi ufuna kuphuma kuloluhlelo?",
+      "confirm": "Yebo, Phuma"
+    },
+    "about": {
+      "title": "Mayelana nesicelo",
+      "subtitle": "Ipulatifomu Yekwakha Iphothifoliyo",
+      "version": "Luhlobo",
+      "description": "I-DevFolio yipulatifomu yesimanje yekwakha iphothifoliyo leyentelwe batfutfukisi, baklami, kanye nebadali labafundzisiwe. ",
+      "license": "Lilayisensi & Lilungelo Lekushicilela",
+      "copyright": "© 2026 DevFolio Inc. Onkhe emalungelo agcinwe.",
+      "developer": "Umsunguli",
+      "developedBy": "Yakhiwe Licembu le-DevFolio"
+    },
+    "deleteAccount": {
+      "title": "Cisha i-akhawunti unomphela",
+      "menuItem": "Cisha i-akhawunti",
+      "successTitle": "Impumelelo",
+      "successMessage": "Kutfunyelwe i-imeyili yekucinisekisa kususwa kwe-akhawunti.",
+      "errorTitle": "Kwehlulekile",
+      "errorMessage": "Kwehlulekile kutfumela i-imeyili yekucinisekisa.",
+      "confirmationMessage": "Ucinisekile yini kutsi ufuna kucisha i-akhawunti yakho unomphela?",
+      "warningMessage1": "Utawutfola i-imeyili yekucinisekisa kutsi i-akhawunti isusiwe.",
+      "warningMessage2": "Uma kucinisekisiwe, yonkhe idatha (iphothifoliyo, emaphrojekthi, tibalo) itawususwa unomphela futsi angeke ibuyiselwe.",
+      "cancel": "Khansela",
+      "confirm": "Sicinisekiso"
+    },
+    "toasts": {
+      "toastError": "Liphutsa",
+      "toastSuccess": "Impumelelo",
+      "toastSetup2FAFailed": "Kwehlulekile kusetha i-2FA. Sicela uphindze uzame futsi.",
+      "toast2FAEnabled": "Kucinisekiswa ngetindlela letimbili kunikwe emandla.",
+      "toast2FADisabled": "Kucinisekiswa kwetintfo letimbili sekukhubatekile.",
+      "toastSessionEnabled": "Kuniketwe emandla kugadza seshini lesebentako.",
+      "toastSessionDisabled": "Kugadza seshini lesebentako kukhubatekile.",
+      "toastSetupKeyCopied": "Ikhiye yekusetha ikopishwe ebhodini lekunamatsisela."
+    },
+    "privacy": {
+      "title": "Inchubomgomo Yetimfihlo",
+      "updateDate": "Kugcine kubuyeketwa: Julayi 15, 2026",
+      "intro": "LeNchubomgomo Yetimfihlo ichaza kutsi i-DevFolio ibutsela ndzawonye njani, isebentise njani, futsi ivikele njani lwati lwakho loluphatselene nawe nawusebentisa tinsita tetfu.",
+      "section1Title": "1. Lwati Lesilubutsela ndzawonye",
+      "section1Content": "Sibutsela ndzawonye lwati loluniketa ngco nawudala i-akhawunti, wakha iphothifoliyo, futsi utsintsana nebasekeli betfu. ",
+      "section2Title": "2. Kusebentisa Lwati",
+      "section2Content": "Lwati lwakho lusetjentiselwa kusebenta, kugcina, kanye nekuniketa timphawu tetinsita tetfu, kanye nekukhulumisana nawe mayelana ne-akhawunti yakho nobe tinsita.",
+      "section3Title": "3. Kuphepha kwemininingwane",
+      "section3Content": "Sisebentisa tindlela tekuphepha letifanele kute sivikele lwati lwakho kutsi lungafinyeleleki, lungavetwa nobe lungabhujiswa ngumuntfu longakagunyatwa."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ithokheni yekucinisekisa ayitfolakali.",
+    "defaultError": "Kwehlulekile kucisha i-akhawunti. Kungenteka kutsi lelithokheni seliphelelwe sikhatsi.",
+    "loadingTitle": "Kususa i-akhawunti...",
+    "loadingMessage": "Sicela ulindze, siyasicubungula sicelo sakho.",
+    "successTitle": "I-akhawunti isuswe ngemphumelelo",
+    "successMessage": "Yonkhe imininingwane yakho isuswe unomphela. Utawucondziswa kabusha...",
+    "errorTitle": "Kwehlulekile kucisha i-akhawunti",
+    "backToHome": "Buyela ekhaya"
+  },
+  "forgotPassword": {
+    "minutes": "imizuzu",
+    "seconds": "imizuzwane",
+    "success": "Impumelelo",
+    "otpSentToEmail": "Ikhodi ye-OTP itfunyelwe ku-imeyili yakho.",
+    "failed": "Kwehlulekile",
+    "emailNotFound": "I-imeyili ayikatfolakali.",
+    "emailThirdParty": "Le-imeyili ibhalisiwe ngekusebentisa umuntfu wesitsatfu.",
+    "genericError": "Kukhona liphutsa. Sicela uphindze uzame futsi.",
+    "otpVerified": "Ikhodi ye-OTP icinisekisiwe ngemphumelelo.",
+    "otpExpired": "Ikhodi ye-OTP seyiphelelwe sikhatsi. Ngicela ucele ikhodi lensha.",
+    "otpInvalid": "Ikhodi ye-OTP lengasebenti.",
+    "otpResent": "Ikhodi lensha ye-OTP itfunyelwe ku-imeyili yakho.",
+    "otpResendFailed": "Kwehlulekile kutfumela kabusha ikhodi ye-OTP. Sicela uphindze uzame futsi.",
+    "passwordResetSuccess": "Iphasiwedi isethwe kabusha ngemphumelelo. Ucelwa kutsi ungene ngemvume ngephasiwedi yakho lensha.",
+    "passwordResetFailed": "Kwehlulekile kusetha kabusha iphasiwedi.",
+    "backToLogin": "Buyela ku Login",
+    "back": "Emuva",
+    "title": "Ngikhohlwe Iphasiwedi",
+    "description": "Faka likheli le-imeyili lelibhalisiwe ku-akhawunti yakho. Sitawutfumela ikhodi ye-OTP kute usethe kabusha iphasiwedi.",
+    "emailLabel": "Likheli le-imeyili",
+    "sending": "Kutfumela...",
+    "sendOtp": "Tfumela ikhodi ye-OTP",
+    "verifyOtpTitle": "Cinisekisa ikhodi ye-OTP",
+    "verifyOtpDesc": "Faka ikhodi lenemadijithi lasitfupha letfunyelwe ku-imeyili yakho kucinisekisa kutsi ungubani.",
+    "verifying": "Kucinisekisa...",
+    "verifyOtp": "Cinisekisa i-OTP",
+    "resending": "Kutfumela kabusha...",
+    "resendOtp": "Tfumela kabusha ikhodi ye-OTP",
+    "resendCodeIn": "Phindza utfumele ikhodi ku",
+    "newPasswordTitle": "Dala Iphasiwedi Lensha",
+    "newPasswordDesc": "Dala iphasiwedi lensha, lecinile kute uvikele i-akhawunti yakho.",
+    "newPasswordLabel": "Iphasiwedi Lensha",
+    "min8Chars": "Tinhlavu letingu-8 letingenani",
+    "oneUpperCase": "1 emagama lamakhulu (A-Z)",
+    "oneNumber": "1 inombolo (0-9)",
+    "oneSymbol": "1 luphawu (!@#$%^&*)",
+    "confirmPasswordLabel": "Cinisekisa Iphasiwedi",
+    "passwordsDoNotMatch": "Emaphasiwedi akahambisani.",
+    "resettingPassword": "Kusetha kabusha iPhasiwedi...",
+    "resetPassword": "Setha kabusha iphasiwedi"
+  },
+  "verifyEmail": {
+    "resendError": "Kwehlulekile kutfumela kabusha i-imeyili yekucinisekisa. Sicela uphindze uzame futsi.",
+    "checkingStatus": "Kuhlola simo sekucinisekisa...",
+    "title": "Hlola I-imeyili Yakho",
+    "description": "Sitfumele i-imeyili yekucinisekisa ekhelini lakho le-imeyili. Ucelwa kutsi uvule le-imeyili bese uchafata inkinobho letsi <1>\"Cinisekisa i-akhawunti\"</1> kute uvule i-akhawunti yakho.",
+    "stepsTitle": "Tinyatselo",
+    "step1": "Vula luhlelo lwakho lwe-imeyili (Gmail, Yahoo, njll)",
+    "step2": "Funa i-imeyili levela ku-DevFolio lenesihloko lesitsi \"Kusebenta kwe-akhawunti\"",
+    "step3": "Chafata inkinobho letsi \"Cinisekisa i-akhawunti\" ku-imeyili",
+    "step4": "Utawucondziswa ekhasini lekungena ngemvume kute ufake",
+    "resendSuccess": "I-imeyili yekucinisekisa itfunyelwe kabusha!",
+    "resending": "Kutfumela kabusha...",
+    "resendButton": "Phindze utfumele i-imeyili yekucinisekisa",
+    "backToLogin": "Buyela ekhasini lekungena",
+    "footerNote": "Awukayitfoli yini le-imeyili? Hlola ifolda letsi <1>I-Spam</1> nobe <2>I-Junk</2> ku-imeyili yakho. Sixhumanisi sekucinisekisa sisebenta <3>emahora langu-24</3>."
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Teko",
+    "templates": "Plantillas rehegua",
+    "pricing": "Precios rehegua",
+    "login": "Eike",
+    "getStarted": "Eñepyrũ",
+    "title": "DevFolio rehegua"
+  },
+  "landing": {
+    "badge": "Pe cartera apoha paha umi desarrollador-pe guarã",
+    "title1": "Emopu’ã nde profesional",
+    "title2": "cartera en",
+    "titleHighlight": "segundos-pe.",
+    "subtitle": "Opa mba’e reikotevẽva rehechauka haĝua nde katupyry, proyecto ha experiencia. ",
+    "startBuilding": "Eñepyrũ Emopu’ã Ko’áĝa",
+    "viewTemplates": "Ojehechakuaa Plantilla-kuéra",
+    "fastDeployment": "Despliegue Pya’e rehegua",
+    "liveStatus": "username.dev ha'e en vivo!",
+    "featuresTitle": "Mba’e Ipu’akapáva",
+    "featuresSubtitle": "Rome’ẽ opa tembiporu reikotevẽva rejedestaca haĝua hetaiterei tapicha apytégui ha re’aterrisa haĝua nde rembiapo reipotaitéva.",
+    "feature1Title": "Arrastrar & Drop Constructor rehegua",
+    "feature1Desc": "Emohenda pya’e ne sección, proyecto ha katupyry ore editor visual intuitivo rupive.",
+    "feature2Title": "Temas Personalizados rehegua",
+    "feature2Desc": "Eiporavo umi plantilla ojejapóva profesionalmente térã ejapo nde jehecha ijojaha’ỹva.",
+    "feature3Title": "Análisis tiempo real rehegua",
+    "feature3Desc": "Ejesareko nde visitante-kuérape, ehecha mba’e proyecto-pa ohupytyve atención ha hetave mba’e."
+  },
+  "auth": {
+    "welcomeBack": "Peju jey jey",
+    "loginToContinue": "Eike nde cuenta-pe eñepyrũ hag̃ua",
+    "createAccount": "Ojapo Cuenta",
+    "joinCommunity": "Eike miles ambue moheñóiharakuéra ndive",
+    "fullName": "Téra tee",
+    "fullNamePlaceholder": "p.e. ",
+    "email": "Dirección de Correo Electrónico",
+    "emailPlaceholder": "nde@techapyrã.com",
+    "password": "Taiñomi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Penemandu'áke cherehe",
+    "forgotPassword": "¿Hesarái piko contraseña?",
+    "signIn": "Eike",
+    "signingIn": "Oike haguã...",
+    "signUp": "Ejeregistra",
+    "signingUp": "Oñeinskrivívo...",
+    "noAccount": "¿Ndereguerekói piko peteĩ cuenta?",
+    "hasAccount": "¿Reguerekómapa peteĩ cuenta?",
+    "passwordRules": {
+      "title": "Ñe’ẽñemi oguerekova’erã:",
+      "length": "Por lo menos 8 tai",
+      "uppercase": "Peteĩ tai tuicháva (A-Z) .",
+      "number": "Peteĩ papapy (0-9) .",
+      "symbol": "Peteĩ símbolo (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Cartera Mopu’ãhára",
+      "templates": "Plantillas & Temas rehegua",
+      "settings": "Ñemboheko",
+      "collapse": "Colapso Barra lateral rehegua",
+      "overview": "Tembiecharã",
+      "profileSettings": "Perfil Ñemboheko",
+      "customDomain": "Dominio Personalizado rehegua",
+      "feedback": "Mandu'arãjey"
+    },
+    "header": {
+      "viewLive": "Ojehecha En vivo",
+      "welcome": "Tapeg̃uahẽporãite,",
+      "logout": "Osẽvo",
+      "builder": "Omopu’ãva",
+      "livePortfolio": "Cartera en vivo rehegua",
+      "live": "Ko"
+    },
+    "logoutModal": {
+      "title": "Osẽvo",
+      "message": "¿Eĩpa seguro resẽseha nde cuenta-gui? ",
+      "cancel": "Heja",
+      "confirm": "Heẽ, Osẽ"
+    },
+    "slugModal": {
+      "title": "Eiporavo Nde Cartera URL",
+      "message": "Ko URL ha’éta pe enlace ijojaha’ỹva nde cartera-pe. ",
+      "slugPlaceholder": "nde-héra",
+      "availability": "Ojeguereko haguã:",
+      "available": "Oĩ",
+      "unavailable": "Ndojeguerekói",
+      "checking": "Ojesarekóva...",
+      "mustFormat": "Ikatu oguereko tai, papapy ha guión (-) añoite .",
+      "cancel": "Heja",
+      "save": "Eñongatu URL",
+      "usernameUrl": "Usuario réra URL",
+      "helpText": "Tai michĩva, papapy ha guión. ",
+      "validation": {
+        "empty": "Slug cannot be empty.",
+        "min3": "Mínimo 3 tai.",
+        "max30": "Máximo 30 tai.",
+        "format": "Tai michĩva, papapy ha guión (-) añoite. "
+      }
+    },
+    "loadingPortfolio": "Ojekargávo umi dato cartera rehegua...",
+    "overview": {
+      "greetings": {
+        "morning": "Pyhareve porã",
+        "afternoon": "Asaje porã",
+        "evening": "Asaje porã",
+        "night": "Pyhare porã"
+      },
+      "welcome": {
+        "hi": "Hi, .",
+        "creator": "Apohare",
+        "desc1": "Peju porãite DevFolio panel-pe. Nde cartera ojehechava’ekue",
+        "desc2": "yvypóra. ¡Esegíkena embaʼapo!",
+        "editPortfolio": "Editar Cartera rehegua"
+      },
+      "stats": {
+        "totalVisitors": "Total Visitante-kuéra rehegua",
+        "projectViews": "Ojehecha (Proyecto) .",
+        "activeSessions": "Sesión Activa rehegua",
+        "totalLabel": "Total rehegua"
+      },
+      "setup": {
+        "title": "Ñemohenda Progreso rehegua",
+        "completed": "¡Oñembotýma nde cartera! 🎉 rehegua",
+        "inProgress": "Umi paso cartera perfecta-pe guarã.",
+        "profile": {
+          "title": "Perfil completo rehegua",
+          "desc": "Emoĩ héra, bio ha ta’anga perfil rehegua."
+        },
+        "section": {
+          "title": "Oñemoĩve umi Sección",
+          "desc": "Ojeactiva por lo menos 1 sección cartera-pe."
+        },
+        "project": {
+          "title": "Oñemoĩve Proyecto rehegua",
+          "desc": "Emoinge por lo menos 1 nde proyecto iporãvévagui."
+        },
+        "publish": {
+          "title": "Omoherakuã Cartera",
+          "desc": "Emohenda peteĩ URL jeporupyre ikatu hag̃uáicha oike tavayguakuéra."
+        }
+      },
+      "topProjects": {
+        "title": "Umi Proyecto Ojeguerohoryvéva",
+        "desc": "Nde rembiapo jejapópe umi visitante resa renondépe.",
+        "viewAll": "Ehecha Opa mba'e",
+        "empty": "Ndaipóri gueteri dato jehechaukarã nde proyecto-pe g̃uarã."
+      }
+    },
+    "themes": {
+      "title": "Plantillas & Temas",
+      "subtitle": "Emohenda nde cartera pública jehecha ha ñeñandu.",
+      "reset": "Reset Por defecto",
+      "save": "Oñongatu Ñemoambue",
+      "saving": "Oñongatu...",
+      "chooseTemplate": "Eiporavo peteĩ Plantilla",
+      "primaryColor": "Color Primaria",
+      "typography": "Tipografía rehegua",
+      "appearance": "Apariencia",
+      "corners": "Esquinas & Fronteras",
+      "successTitle": "Éxito",
+      "successMessage": "Tema jeporavopyre oñembopyahu porã",
+      "errorTitle": "Ojejavy",
+      "errorMessage": "Ndojejapói oñeñongatu hag̃ua umi tema jeporavopyre",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalista",
+          "desc": "Diseño ipotĩ ha isensíllova oñecentráva contenido-pe."
+        },
+        "developerDark": {
+          "name": "Ñemoheñói Pytũmby",
+          "desc": "Tema iñypytûva perfecto ojehechauka haguã código ha pilas tecnológicas."
+        },
+        "creative": {
+          "name": "Creativo",
+          "desc": "Disposición vibrante ha colorida umi diseñador ha creativo-kuérape guarã."
+        },
+        "executive": {
+          "name": "Ejecutivo",
+          "desc": "Disposición profesional ha formal umi profesional empresarial-pe guarã."
+        },
+        "bentoGrid": {
+          "name": "Rejilla Bento rehegua",
+          "desc": "Diseño de rejilla estilo Apple moderno omomba’eguasúva katupyry iñambuéva eficientemente."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalismo rehegua",
+          "desc": "Umi frontera audaz ha umi color contraste yvate peteĩ jehecha de moda, sin disculpa-pe ĝuarã."
+        },
+        "glassmorphism": {
+          "name": "Vidriomorfismo rehegua",
+          "desc": "Umi efecto vidrio helado rehegua umi gradiente colorido ári peteĩ UI moderno iporãvape g̃uarã."
+        },
+        "linkInBio": {
+          "name": "Enlace oĩva Bio-pe",
+          "desc": "Disposición vertical compacto optimizado pantalla móvil ha medios sociales-pe guarã."
+        }
+      },
+      "appearances": {
+        "light": "Tesape",
+        "dark": "Pytũmby",
+        "system": "Sistema"
+      },
+      "cornersOptions": {
+        "sharp": "Haimbe",
+        "rounded": "Redondeado",
+        "pill": "Píldora rehegua"
+      }
+    },
+    "feedback": {
+      "title": "Omondo Ñe’ẽñemi",
+      "subtitle": "Orepytyvõkena romoporãve hag̃ua rome’ẽvo sugerencia, crítica térã romombe’úvo mba’e’oka ko aplicación-pe.",
+      "categoryLabel": "Ñe’ẽñemi Categoría",
+      "messageLabel": "Marandu Detalles",
+      "messagePlaceholder": "Emombe'u chéve detalle reheve umi retroalimentación rembohasaséva rehegua...",
+      "imageLabel": "Taꞌãngamýi Ñembojoaju (Ojeporavóva)",
+      "imagePlaceholder": "Emboguejy emboguejy hag̃ua ta'ãnga térã pantalla",
+      "submitting": "Omondo...",
+      "submitBtn": "Omondo Ñe’ẽñemi",
+      "categories": {
+        "suggestion": "Ñe’ẽñemi & Temiandu",
+        "bug": "Mba’e’oka / Jejavy rehegua marandu",
+        "criticism": "Crítica rehegua",
+        "other": "Ambuekuéra"
+      },
+      "imageErrorTitle": "Ojejavy",
+      "imageErrorMessage": "Oĩ vore oñemboykéva ndojeguerohorýigui taꞌãngamýi formato (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Éxito",
+      "successMessage": "Aguyje peẽme pene remiandu rehe! Oñemondóma marandu.",
+      "submitErrorTitle": "Ndoikói",
+      "submitErrorMessage": "Oiko peteĩ jejavy oñemondo jave ñe’ẽñemi. Eñeha’ã jey."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Che rehegua",
+      "skills": "Katupyrykuéra",
+      "projects": "Proyecto-kuéra rehegua",
+      "workExperience": "Tembiapo Jeikove",
+      "orgExperience": "Experiencia Organizacional rehegua",
+      "education": "Tekombo'e",
+      "certifications": "Ñembokatupyry & Certificación rehegua",
+      "contact": "Eñe’ẽ Chendive"
+    },
+    "editor": {
+      "profileInfo": "Marandu Perfil rehegua",
+      "saving": "Oñongatúvo...",
+      "profilePhoto": "Ta'anga Perfil rehegua",
+      "clickToUpload": "Emboguejy emboguejy hag̃ua (JPG, PNG)",
+      "fullName": "Téra tee",
+      "fullNamePlaceholder": "p.e. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Desarrollador orekóva pasión omopu’ãvo umi aplicación web moderna...",
+      "location": "Ñeimeha",
+      "locationPlaceholder": "p.e. ",
+      "gender": "Meña",
+      "selectGender": "Eiporavo Género rehegua",
+      "male": "Kuimba'e",
+      "female": "Kuña",
+      "custom": "Jepokuaa",
+      "customPlaceholder": "Ehai nde género personalizado...",
+      "uploadCv": "Ojeguerahauka CV",
+      "cvFormat": "(DOC térã PDF)",
+      "preview": "Tembiecharã tenondegua",
+      "remove": "Pe'a",
+      "clickToUploadCv": "Emboguejy emboguejy hag̃ua PDF térã DOC",
+      "sections": "Sección-kuéra rehegua",
+      "removeSelected": "Ojepe’a Ojeporavóva",
+      "confirmRemove": "Omoañete Ojepe’a",
+      "addSection": "Oñemoĩve Sección",
+      "addAllSections": "Oñemoĩve Opaite Sección",
+      "noSections": "Ndaipóri gueteri sección",
+      "clickToAdd": "Emboguejy \"+ Agregar Sección\" eñepyrũ hag̃ua",
+      "selectAll": "Eiporavo Opavave",
+      "selected": "Ojeporavóva",
+      "dragToReorder": "Emoinge emohenda jey hag̃ua umi sección",
+      "livePreview": "Tembiecharã oikovéva",
+      "addSectionsToBuild": "Emoĩ sección emopu’ã haĝua nde cartera",
+      "now": "Ko'ág̃a",
+      "current": "Ko'ag̃agua",
+      "noExpiry": "Ndaipóri Vencimiento",
+      "see": "Hecha",
+      "position": "Ñeĩha",
+      "degree": "Jehupive",
+      "certification": "Certificación rehegua",
+      "sectionsForm": {
+        "about": {
+          "label": "Descripción ndejehegui",
+          "placeholder": "Emombe'u oréve ndejehegui, nde rekove, ndegustáva ha nde katupyry..."
+        },
+        "skills": {
+          "addPlaceholder": "Ehai katupyry upéi eity Enter..."
+        },
+        "projects": {
+          "title": "Proyecto réra",
+          "titlePlaceholder": "Proyecto réra...",
+          "url": "Proyecto URL rehegua",
+          "description": "Techaukaha",
+          "descriptionPlaceholder": "Ñemombe’u mbykymi ko tembiaporã rehegua...",
+          "uploadThumbnail": "Proyecto Ta’ãnga",
+          "addProject": "Oñemoĩve Proyecto rehegua",
+          "projectNum": "Apopyrã #",
+          "currentProject": "Kóva ha’e peteĩ proyecto amba’apóva hína"
+        },
+        "work": {
+          "company": "Empresa/Agencia rehegua",
+          "companyPlaceholder": "Empresa réra...",
+          "position": "Cargo/Título rehegua",
+          "positionPlaceholder": "Nde posición...",
+          "employmentType": "Mba’eichagua tembiapo",
+          "location": "Ñeimeha",
+          "locationPlaceholder": "Táva, Tetã...",
+          "startDate": "Ñepyrũ",
+          "endDate": "Opa",
+          "currentWork": "Che amba'apo gueteri ko'ã momento-pe",
+          "description": "Techaukaha",
+          "descriptionPlaceholder": "Descripción de trabajo ha responsabilidad-kuéra rehegua...",
+          "skills": "Katupyry",
+          "addExperience": "Ombojoapy Tembiapo Experiencia",
+          "experienceNum": "Tembiasa #",
+          "dateError": "Pe ára paha ndaikatúi oñemotenonde pe ára oñepyrũhagui"
+        },
+        "org": {
+          "organization": "Organización Réra",
+          "orgPlaceholder": "Mbo'ehaovusu BEM...",
+          "role": "Papel/Posición rehegua",
+          "rolePlaceholder": "División Motenondehára...",
+          "addOrg": "Oñemoĩve Experiencia Organizacional rehegua",
+          "orgNum": "Mohendakuaa #"
+        },
+        "edu": {
+          "institution": "Tekombo’e Tekombo’e rehegua",
+          "institutionPlaceholder": "Campus térã mbo’ehao réra...",
+          "degree": "Myakãha",
+          "degreePlaceholder": "S1, mbo'ehao secundaria, hamba'e...",
+          "major": "Departamento/Campo de Estudio rehegua",
+          "majorPlaceholder": "Ingeniería Informática rehegua...",
+          "gpa": "GPA (ojeporavóva) .",
+          "currentStudy": "Che aikuaa gueteri ko'ápe",
+          "descriptionPlaceholder": "Tembiaporã ha jehupytyrã ojestudia aja...",
+          "addEdu": "Oñemoĩve Tekombo’e",
+          "eduNum": "Tekombo'e #"
+        },
+        "cert": {
+          "name": "Certificación / Ñembokatupyry réra",
+          "namePlaceholder": "Certificación réra...",
+          "issuer": "Editor",
+          "issuerPlaceholder": "Institución editorial...",
+          "issueDate": "Oñepyrũ (Ojekuaauka ára) .",
+          "issueDatePlaceholder": "Eiporavo ára ojekuaauka haguã...",
+          "expiryDate": "Oñemohu’ã (Período Válido) .",
+          "expiryDatePlaceholder": "Eiporavo ára oñemohu'ã haguã...",
+          "noExpiry": "Ko certificado ndorekói fecha de vencimiento",
+          "url": "URL credencial rehegua",
+          "uploadThumbnail": "Certificado / Ñembokatupyry Ta’ãnga",
+          "uploadThumbnailLimit": "Emboguejy kuatia’atã ra’ãnga (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Oñemoĩve Certificación rehegua",
+          "certNum": "Certificación rehegua # ."
+        },
+        "contact": {
+          "contactNum": "Jekuaaverã #",
+          "platform": "Pyendavusu",
+          "displayText": "Jehaipyre jehechauka",
+          "displayTextPlaceholder": "techapyrã, nde@email.com térã @usuario réra",
+          "url": "Enlace (URL) rehegua .",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (oñemotenonde’ỹre 0) .",
+          "urlPlaceholderEmail": "techapyrã, nde@email.com",
+          "urlPlaceholderWebsite": "techapyrã, https://...",
+          "urlPlaceholderDefault": "techapyrã, puruhára réra",
+          "addContact": "Oñemoĩve Contacto"
+        },
+        "common": {
+          "months": {
+            "1": "jasyteĩ",
+            "2": "Jasykõi",
+            "3": "Jasyapy",
+            "4": "Jasyrundy",
+            "5": "Mayo",
+            "6": "Jasypoteĩ",
+            "7": "Jasypokõi",
+            "8": "Jasypoapy",
+            "9": "Jasyporundy",
+            "10": "Jasypa",
+            "11": "Jasypateĩ",
+            "12": "Jasypakõi"
+          },
+          "month": "Jasy",
+          "year": "Ary",
+          "invalidDate": "Jasy Paha ndojeporúiva",
+          "words": "ñe'ẽnguéra"
+        }
+      },
+      "sure": "Upeichaite",
+      "deletePhotoTitle": "¿Embogue ta'anga Perfil rehegua?",
+      "deletePhotoMessage": "¿Ere piko remboguese ko ta'anga perfil rehegua?",
+      "cancel": "Heja",
+      "delete": "Mboje'oha"
+    },
+    "cropper": {
+      "chooseBackground": "Eiporavo Fondo",
+      "cropPhoto": "Eikytĩ Nde Ta’ãngamýi",
+      "useOriginal": "Eipuru original",
+      "backgroundPresets": "Presets de fondo",
+      "none": "Avave",
+      "uploadBackground": "Ojeguerahauka hagua Fondo",
+      "cancel": "Heja",
+      "savePhoto": "Eñongatu Ta’ãngamýi",
+      "zoom": "Zoom rehegua",
+      "rotationTilt": "Rotación & Inclinación rehegua",
+      "resetRotation": "Oñemohenda jey 0°-pe",
+      "center": "Mombyte",
+      "rotateLeft": "Ojere -90°",
+      "rotateRight": "Ojere +90° rehe",
+      "removeBackground": "Ojepe’a Fondo",
+      "processing": "Oprocesávo nde ra'ãnga, eha'arõmi..."
+    },
+    "cvPreview": {
+      "title": "CV jehechaukarã",
+      "downloadCv": "Emboguejy CV",
+      "download": "Mboguejy",
+      "wordCannotPreview": "Word kuatiakuéra (.doc/.docx) ndaikatúi ojehecha mboyve nativamente kundahárape. ",
+      "downloadFile": "Emboguejy Archivo CV rehegua",
+      "back": "Kupe",
+      "mobileMessage": "Emboguejy pe archivo CV rehecha hag̃ua.",
+      "preview": "Ojesareko mboyve CV",
+      "wordPreviewTitle": "Word Kuatia Ñembohekorã",
+      "wordPreviewMessage": "Word kuatiakuéra (.doc/.docx) ndaikatúi ojehecha mboyve nativamente kundahárape. Emboguejy pe vore rehecha hag̃ua."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Ehai peteĩ descripción mbykymi ndejehegui, umi mba’e ndegustáva ha umi mba’e rehupytyséva nde carrera-pe..."
+    },
+    "skills": {
+      "placeholder": "Ehai katupyry réra...",
+      "add": "Moinge",
+      "enterToAdd": "Emboguapy Enter emoĩve hag̃ua",
+      "noSkills": "Ndaipóri gueteri katupyry oñembojoapýva."
+    },
+    "projects": {
+      "projectName": "Proyecto réra",
+      "projectNamePlaceholder": "p.e. ",
+      "projectUrl": "Proyecto URL rehegua",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Hi'arekue",
+      "startMonth": "Jasy Ñepyrũrã",
+      "startYear": "Ary Ñepyrũrã",
+      "endMonth": "Jasy Paha",
+      "endYear": "Ary paha",
+      "currentlyWorking": "Ko’ágã omba’apo ko mba’ére",
+      "description": "Techaukaha",
+      "descriptionPlaceholder": "Emombe’u pe proyecto, nde rembiapo ha umi mba’e rehupytyva’ekue...",
+      "technologies": "Umi Tecnología Ojepuruva’ekue",
+      "addProject": "Oñemoĩve Proyecto",
+      "image": "Proyecto Ta’ãnga",
+      "removeImage": "Ojepe’a Ta’ãnga",
+      "uploadImage": "Emboguejy emboguejy hag̃ua ta’ãnga"
+    },
+    "work": {
+      "company": "Empresa/Institución rehegua",
+      "companyPlaceholder": "Empresa réra...",
+      "role": "Papel/Posición rehegua",
+      "rolePlaceholder": "Nde posición...",
+      "jobType": "Tembiaporã Tipo",
+      "selectJobType": "Eiporavo tipo",
+      "fullTime": "Tiempo pukukue",
+      "partTime": "A tiempo parcial rehegua",
+      "contract": "Ñoñe'ẽme'ẽ",
+      "internship": "Hasyñenóva",
+      "freelance": "Freelance rehegua",
+      "location": "Ñeimeha",
+      "locationPlaceholder": "p.e. ",
+      "duration": "Hi'arekue",
+      "currentlyWorking": "Ko’áĝa omba’apo ko’ápe",
+      "description": "Tembiaporã rehegua",
+      "descriptionPlaceholder": "Emombe’u umi nde responsabilidad ha jehupytyrã clave...",
+      "skills": "Katupyry Específico rehegua",
+      "addExperience": "Ombojoapy Experiencia"
+    },
+    "org": {
+      "organization": "Organización Réra",
+      "organizationPlaceholder": "Organización réra...",
+      "role": "Papel/Posición rehegua",
+      "rolePlaceholder": "p.e. ",
+      "duration": "Hi'arekue",
+      "periodFormat": "térã Formato Libre (e.g. 2020 - 2022) .",
+      "periodPlaceholder": "p.e. ",
+      "currentlyActive": "Ko’áĝa omba’apo",
+      "description": "Tembiaporã Ñemombe’u",
+      "descriptionPlaceholder": "Emombe'u ne rembiapo térã ne aporte...",
+      "addExperience": "Ombojoapy Experiencia"
+    },
+    "education": {
+      "institution": "Institución réra",
+      "institutionPlaceholder": "Mbo'ehao térã mbo'ehaovusu réra...",
+      "degree": "Grado/Nivel rehegua",
+      "degreePlaceholder": "p.e. ",
+      "major": "Mayor/Campo de Estudio rehegua",
+      "majorPlaceholder": "p.e. ",
+      "gpa": "GPA / Grado rehegua",
+      "gpaPlaceholder": "p.e. ",
+      "duration": "Tekombo’e Ipukukue",
+      "periodFormat": "térã Formato Libre (e.g. 2018 - 2022) .",
+      "periodPlaceholder": "p.e. ",
+      "currentlyStudying": "Ko’áĝa oñemoarandúva ko’ápe",
+      "description": "Tembiaporã / Ñemomba’eguasu",
+      "descriptionPlaceholder": "Emombe’u umi tembiapo académico, organización térã honor ojehupytýva...",
+      "addEducation": "Oñemoĩve Tekombo’e"
+    },
+    "cert": {
+      "name": "Certificación rehegua Téra",
+      "namePlaceholder": "p.e. ",
+      "issuer": "Organización Emisor rehegua",
+      "issuerPlaceholder": "p.e. ",
+      "issueDate": "Fecha de Emisión",
+      "expiryDate": "Válido Peve",
+      "noExpiry": "Ko credencial ndovenséi",
+      "yearPlaceholder": "térã Ary (e.g. 2023) .",
+      "credentialUrl": "URL credencial rehegua",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Katupyry ojoajúva hese",
+      "addCertification": "Oñemoĩve Certificación rehegua",
+      "image": "Ta’ãnga/Logotipo",
+      "removeImage": "Ojepe’a Ta’ãnga",
+      "uploadImage": "Emboguejy emboguejy hag̃ua ta’ãnga"
+    },
+    "common": {
+      "months": {
+        "1": "jasyteĩ",
+        "2": "Jasykõi",
+        "3": "Jasyapy",
+        "4": "Jasyrundy",
+        "5": "Mayo",
+        "6": "Jasypoteĩ",
+        "7": "Jasypokõi",
+        "8": "Jasypoapy",
+        "9": "Jasyporundy",
+        "10": "Jasypa",
+        "11": "Jasypateĩ",
+        "12": "Jasypakõi"
+      },
+      "month": "Jasy",
+      "year": "Ary",
+      "invalidDate": "Jasy Paha ndojeporúiva",
+      "words": "ñe'ẽnguéra"
+    }
+  },
+  "settings": {
+    "title": "Ñemboheko",
+    "subtitle": "Emohenda nde perfil cartera rehegua ha umi mba’e reipotáva",
+    "tabs": {
+      "profile": "Che Perfil",
+      "security": "Kyhyje'ỹ",
+      "personalization": "Personalización rehegua"
+    },
+    "profile": {
+      "infoTitle": "Marandu tenondegua",
+      "photo": "Ta'anga Perfil rehegua",
+      "uploadPhoto": "Omoambue Ta'anga",
+      "fullName": "Téra tee",
+      "fullNamePlaceholder": "Juan Doe rehegua",
+      "email": "Dirección de Correo Electrónico",
+      "emailPlaceholder": "john@techapyrã.com",
+      "emailHelp": "Correo electrónico ojepuru ojeike hag̃ua ha ndojehechaukái opavave renondépe.",
+      "portfolioUrl": "URL cartera rehegua",
+      "saveProfile": "Oñongatu Perfil",
+      "save": "Oñongatu Perfil",
+      "accountCreated": "Cuenta Ojejapova’ekue",
+      "lastLogin": "Oike paha",
+      "oauthNotice": "Ko perfil oñembojoaju ne kundaha {{provider}} ndive. Umi ñemoambue perfil rehegua ojejapova’erã pe servicio ome’ẽva rupive."
+    },
+    "security": {
+      "changePassword": "Emoambue Ñe’ẽñemi",
+      "currentPassword": "Ñe’ẽñemi ko’áĝagua",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Ñe’ẽñemi pyahu",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Emoañete Ñe’ẽñemi Pyahu",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Por lo menos 8 tai",
+        "uppercase": "Peteĩ tai tuicháva (A-Z) .",
+        "number": "Peteĩ papapy (0-9) .",
+        "symbol": "Peteĩ símbolo (!@#$%^&*)"
+      },
+      "passwordTitle": "Taiñomi",
+      "updatePassword": "Embopyahu Ñe’ẽñemi",
+      "additionalSecurity": "Seguridad Adicional rehegua",
+      "twoFactor": "Mokõi Factor jekuaauka (2FA) .",
+      "twoFactorDesc": "Eñangareko ne kundaha rehe eipuruhápe peteĩ código OTP ambuéva.",
+      "activeSessions": "Sesiones Activas rehegua",
+      "activeSessionsDesc": "Akóinte eheja ojesareko umi tembipuru ojeikeva’ekue rehe.",
+      "publicVisibility": "Visibilidad Pública rehegua",
+      "hideFromSearch": "Oñomi Cartera umi Motor de Búsqueda-gui",
+      "hideFromSearchDesc": "Ejoko Google-pe oindexa hag̃ua nde página cartera pública rehegua.",
+      "disable2fa": {
+        "title": "Ombogue 2FA",
+        "description": "¿Eime seguro embogueseha mokõi factor jekuaauka?",
+        "confirmPasswordLabel": "Emoinge ne ñe’ẽñemi emoañete hag̃ua",
+        "currentPasswordPlaceholder": "Ñe’ẽñemi ko’ag̃agua",
+        "cancelButton": "Ombogue",
+        "confirmButton": "Ombogue 2FA",
+        "incorrectPassword": "Ñe’ẽñemi hendape’ỹva."
+      },
+      "setup2fa": {
+        "step1Title": "1. Jajesareko Código QR rehe",
+        "step1Desc": "Eipe’a ne app autenticación rehegua ha eescanea ko’ã código QR:",
+        "unableToScan": "¿Ndaikatúi ojeescanea? Eipuru tecla de configuración",
+        "step2Title": "2. Omoañete Código",
+        "step2Desc": "Emoinge pe código 6 dígito omoheñóiva nde app:",
+        "cancelButton": "Heja",
+        "enableButton": "Emboguata 2FA rehegua",
+        "invalidLength": "Emoinge peteĩ código 6 dígito rehegua.",
+        "invalidCode": "Código verificación ndojeporúiva. Eñeha’ã jey."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Ñe’ẽ Ñemboguatarã",
+      "appLanguage": "App Ñe’ẽ",
+      "layoutTitle": "Diseño & Tipografía rehegua",
+      "layoutStyle": "Estilo de Diseño rehegua",
+      "layoutModern": "Estilo Moderno (Predeterminado) .",
+      "layoutClassic": "Estilo Clásico rehegua",
+      "layoutMinimalist": "Estilo Minimalista rehegua",
+      "fontSize": "App Fuente tuichakue",
+      "fontSmall": "Michĩ",
+      "fontNormal": "Normal (Mbytegua) .",
+      "fontLarge": "Tuicha",
+      "searchLanguage": "Ñe’ẽ jeheka...",
+      "languageNotFound": "Ñe’ẽ ndojejuhúi",
+      "layoutElegant": "Estilo Elegante rehegua"
+    },
+    "saveChanges": "Oñongatu umi ñemoambue",
+    "cancel": "Heja",
+    "appSettings": "App Ñemboheko",
+    "logoutConfirmTitle": "Omoañete Salida",
+    "logoutConfirmDesc": "¿Eĩpa seguro resẽseha pe sistema-gui?",
+    "logoutConfirmYes": "Heẽ, Osẽ",
+    "generalError": "Oiko peteĩ jejavy. ",
+    "success": "Ñesẽporã",
+    "preferencesSaved": "Umi app jeporavopyre oñeñongatu porã.",
+    "header": "Aplicación Ñemboheko",
+    "logout": {
+      "title": "Osẽ haguã Ñemoañete",
+      "message": "¿Eĩpa seguro resẽseha pe sistema-gui?",
+      "confirm": "Heẽ, Osẽ"
+    },
+    "about": {
+      "title": "Aplicación rehegua",
+      "subtitle": "Plataforma Constructora de Cartera rehegua",
+      "version": "Je'eháicha",
+      "description": "DevFolio haꞌehína peteĩ plataforma cartera apoha moderna ojejapóva umi desarrollador, diseñador ha profesional creador-kuérape g̃uarã. ",
+      "license": "Licencia & Derecho de Autor",
+      "copyright": "© 2026 DevFolio Inc. Opaite mba’e ojejapóva.",
+      "developer": "Ñemoheñói",
+      "developedBy": "Omoheñóiva Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Permanentemente Ombogue Cuenta",
+      "menuItem": "Ombogue Cuenta",
+      "successTitle": "Éxito",
+      "successMessage": "Oñemondóma peteĩ correo electrónico omoañete hag̃ua cuenta ñembogue.",
+      "errorTitle": "Ndoikói",
+      "errorMessage": "Ndoikói omondo haguã correo electrónico moañeterã.",
+      "confirmationMessage": "¿Eĩpa seguro embogueseha nde cuenta tapiaite g̃uarã?",
+      "warningMessage1": "Rehupytýta peteĩ correo electrónico emoañete hag̃ua cuenta ñembogue.",
+      "warningMessage2": "Oñemoañete ramo, opaite dato (cartera, proyecto, estadística) oñembogueta permanentemente ha ndikatúi ojerekupera.",
+      "cancel": "Ombogue",
+      "confirm": "Ñemoañete"
+    },
+    "toasts": {
+      "toastError": "Jejavy",
+      "toastSuccess": "Ñesẽporã",
+      "toastSetup2FAFailed": "Ndojejapói omohenda haguã 2FA. Eñeha’ã jey.",
+      "toast2FAEnabled": "Ojehejáma mokõi factor jekuaauka.",
+      "toast2FADisabled": "Ojejoko mokõi factor jekuaauka.",
+      "toastSessionEnabled": "Ojehecháma sesión jesareko activo.",
+      "toastSessionDisabled": "Ojejoko pe sesión jesareko activo.",
+      "toastSetupKeyCopied": "Tecla de configuración ojekopia portapapeles-pe."
+    },
+    "privacy": {
+      "title": "Polítika Privasida rehegua",
+      "updateDate": "Oñemoambue ipahaitépe: 15 jasypoteĩ ary 2026-pe",
+      "intro": "Ko Polítika Privasida rehegua omyesakã mba’éichapa DevFolio ombyaty, oipuru ha oñangareko ne marandu personal oiporúvo ore servicio.",
+      "section1Title": "1. Marandu Ñambyatýva",
+      "section1Content": "Rombyaty marandu reme’ẽva directamente remoheñóivo peteĩ cuenta, remopu’ãvo peteĩ cartera ha reñe’ẽvo ore pytyvõ ndive. ",
+      "section2Title": "2. Marandu jeporu",
+      "section2Content": "Ne marandu ojepuru oñemboguata, oñeñangareko ha oñeme’ẽ hag̃ua ore servicio-kuéra mba’ekuaarã, avei oñemongeta hag̃ua nendive ne cuenta térã servicio rehegua.",
+      "section3Title": "3. Datokuéra Ñeñangareko rehegua",
+      "section3Content": "Romoĩ umi medida de seguridad razonable roñangareko hag̃ua ne marandu rehe ani hag̃ua ojeike, ojekuaauka térã oñehundi hag̃ua ndojeautorisáiva."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Token de confirmación ndojejuhúi.",
+    "defaultError": "Ndoikói ombogue haguã cuenta. Ikatu pe token ovenséma.",
+    "loadingTitle": "Ojepe'ávo Cuenta...",
+    "loadingMessage": "Eha’arõmi, romba’apo hína ne mba’ejerure rehe.",
+    "successTitle": "Cuenta Oñembogue porã",
+    "successMessage": "Opaite ne dato oñembogue tapiaite g̃uarã. Nde reñembohasáta...",
+    "errorTitle": "Ndoikói oñembogue haguã cuenta",
+    "backToHome": "Ejevy Ógape"
+  },
+  "forgotPassword": {
+    "minutes": "aravo'i",
+    "seconds": "mokõiha",
+    "success": "Hupyty",
+    "otpSentToEmail": "Oñemondóma peteĩ código OTP nde correo electrónico-pe.",
+    "failed": "Meg̃ua",
+    "emailNotFound": "Correo electrónico ndojejuhúi.",
+    "emailThirdParty": "Ko correo electrónico ojeregistra mbohapýha tapicha rupive.",
+    "genericError": "Oĩ peteĩ jejavy. Eñeha’ã jey.",
+    "otpVerified": "Pe código OTP ojehechauka porãma.",
+    "otpExpired": "Pe código OTP rehegua oñemohu’ãma. Ejerure peteĩ código pyahu.",
+    "otpInvalid": "Código OTP ndojeporúiva.",
+    "otpResent": "Oñemondóma peteĩ código OTP pyahu nde correo electrónico-pe.",
+    "otpResendFailed": "Ndojejapói omondo jey haguã código OTP. Eñeha’ã jey.",
+    "passwordResetSuccess": "Ñe’ẽñemi oñembopyahu porã. Eike ne ñe’ẽñemi pyahúpe.",
+    "passwordResetFailed": "Ndojejapói omoĩjey hag̃ua ñe’ẽñemi.",
+    "backToLogin": "Ejevy Eikehápe",
+    "back": "Jujey",
+    "title": "Hesarái ñe’ẽñemigui",
+    "description": "Emoinge pe dirección de correo electrónico ojeregistráva nde cuenta-pe. Ñamondóta peteĩ código OTP ñamohendajey hag̃ua ñe’ẽñemi.",
+    "emailLabel": "Dirección de correo electrónico",
+    "sending": "Rahauka...",
+    "sendOtp": "Omondo Código OTP",
+    "verifyOtpTitle": "Emoañete Código OTP rehegua",
+    "verifyOtpDesc": "Emoinge pe código 6 dígito oñemondova’ekue ne correo electrónico-pe emoañete hag̃ua nde identidad.",
+    "verifying": "Omoañetevo...",
+    "verifyOtp": "OTP jehechauka",
+    "resending": "Omondo jey...",
+    "resendOtp": "Omondo jey Código OTP",
+    "resendCodeIn": "Emondo jey código hyepypegua",
+    "newPasswordTitle": "Ejapo peteĩ Ñe’ẽñemi Pyahu",
+    "newPasswordDesc": "Ejapo peteĩ ñe’ẽñemi pyahu ha imbaretéva eñangareko hag̃ua ne kundaha rehe.",
+    "newPasswordLabel": "Ñe’ẽñemi pyahu",
+    "min8Chars": "Mínimo 8 tai",
+    "oneUpperCase": "1 tai tuicháva (A-Z) .",
+    "oneNumber": "1 papapy (0-9) .",
+    "oneSymbol": "1 techaukaha (!@#$%^&*) .",
+    "confirmPasswordLabel": "Omoañete Ñe’ẽñemi",
+    "passwordsDoNotMatch": "Umi ñe’ẽñemi ndojoajúi.",
+    "resettingPassword": "Oñemohendajeývo Ñe’ẽñemi...",
+    "resetPassword": "Reset Ñe’ẽñemi"
+  },
+  "verifyEmail": {
+    "resendError": "Ndojejapói omondo jey hag̃ua correo electrónico verificación rehegua. Eñeha’ã jey.",
+    "checkingStatus": "Ojesarekóva verificación reko rehe...",
+    "title": "Ehecháke Nde Correo electrónico",
+    "description": "Romondo peteĩ correo electrónico verificación rehegua nde dirección de correo electrónico-pe. Eipe’a ñe’ẽmondo ha eity <1>\"Emoañete kundaha\"</1> vore emomba'apo hag̃ua ne kundaha.",
+    "stepsTitle": "Umi mba’e ojejapóva",
+    "step1": "Eipe’a ne kundaha renda (Gmail, Yahoo, ha mba’e)",
+    "step2": "Eheka peteĩ correo electrónico DevFolio-gui orekóva tema \"Activación de cuenta\"",
+    "step3": "Emboguejy \"Emoañete cuenta\" vore oĩva correo electrónico-pe",
+    "step4": "Ojeguerahaukáta ndéve pe página jeikerãme reike hag̃ua",
+    "resendSuccess": "¡Pe correo electrónico verificación rehegua oñemondo jey!",
+    "resending": "Omondo jey...",
+    "resendButton": "Emondo jey Correo electrónico Verificación rehegua",
+    "backToLogin": "Ejevy Página de Inicio-pe",
+    "footerNote": "¿Ndohupytýi piko pe correo electrónico? Ehecháke <1>Spam</1> térã <2>Junk</2> ryru nde kuatiañe’ẽme. Pe enlace verificación rehegua ovale <3>24 aravo</3> aja."
+  }
+}

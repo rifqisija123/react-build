@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Funktioner",
+    "templates": "Skabeloner",
+    "pricing": "Prissætning",
+    "login": "Log ind",
+    "getStarted": "Kom i gang",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Den ultimative porteføljebygger for udviklere",
+    "title1": "Byg din professionelle",
+    "title2": "portefølje i",
+    "titleHighlight": "sekunder.",
+    "subtitle": "Alt hvad du behøver for at vise dine færdigheder, projekter og erfaring. ",
+    "startBuilding": "Begynd at bygge nu",
+    "viewTemplates": "Se skabeloner",
+    "fastDeployment": "Hurtig implementering",
+    "liveStatus": "username.dev er live!",
+    "featuresTitle": "Kraftige funktioner",
+    "featuresSubtitle": "Vi leverer alle de værktøjer, du skal bruge for at skille dig ud fra mængden og få dit drømmejob.",
+    "feature1Title": "Træk og slip Builder",
+    "feature1Desc": "Organiser nemt dine sektioner, projekter og færdigheder med vores intuitive visuelle editor.",
+    "feature2Title": "Brugerdefinerede temaer",
+    "feature2Desc": "Vælg mellem professionelt designede skabeloner eller skab dit eget unikke look.",
+    "feature3Title": "Realtidsanalyse",
+    "feature3Desc": "Spor dine besøgende, se, hvilke projekter der får mest opmærksomhed og mere."
+  },
+  "auth": {
+    "welcomeBack": "Velkommen tilbage",
+    "loginToContinue": "Log ind på din konto for at fortsætte",
+    "createAccount": "Opret konto",
+    "joinCommunity": "Slut dig til tusindvis af andre udviklere",
+    "fullName": "Fuldt navn",
+    "fullNamePlaceholder": "f.eks. ",
+    "email": "Email adresse",
+    "emailPlaceholder": "dig@eksempel.com",
+    "password": "Adgangskode",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Husk mig",
+    "forgotPassword": "Glemt adgangskode?",
+    "signIn": "Log ind",
+    "signingIn": "Logger ind...",
+    "signUp": "Tilmeld dig",
+    "signingUp": "Tilmelder dig...",
+    "noAccount": "Har du ikke en konto?",
+    "hasAccount": "Har du allerede en konto?",
+    "passwordRules": {
+      "title": "Adgangskoden skal indeholde:",
+      "length": "Mindst 8 tegn",
+      "uppercase": "Et stort bogstav (A-Z)",
+      "number": "Et tal (0-9)",
+      "symbol": "Et symbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Porteføljebygger",
+      "templates": "Skabeloner og temaer",
+      "settings": "Indstillinger",
+      "collapse": "Skjul sidepanelet",
+      "overview": "Oversigt",
+      "profileSettings": "Profilindstillinger",
+      "customDomain": "Brugerdefineret domæne",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Se live",
+      "welcome": "Velkomst,",
+      "logout": "Log ud",
+      "builder": "Bygmester",
+      "livePortfolio": "Live Portfolio",
+      "live": "Levende"
+    },
+    "logoutModal": {
+      "title": "Log ud",
+      "message": "Er du sikker på, at du vil logge ud af din konto? ",
+      "cancel": "Ophæve",
+      "confirm": "Ja, log ud"
+    },
+    "slugModal": {
+      "title": "Vælg din portefølje-URL",
+      "message": "Denne URL vil være det unikke link til din portefølje. ",
+      "slugPlaceholder": "dit navn",
+      "availability": "Tilgængelighed:",
+      "available": "Tilgængelig",
+      "unavailable": "Ikke tilgængelig",
+      "checking": "Tjekker...",
+      "mustFormat": "Kan kun indeholde bogstaver, tal og bindestreger (-)",
+      "cancel": "Ophæve",
+      "save": "Gem URL",
+      "usernameUrl": "Brugernavn URL",
+      "helpText": "Små bogstaver, tal og bindestreger. ",
+      "validation": {
+        "empty": "Slug må ikke være tom.",
+        "min3": "Minimum 3 tegn.",
+        "max30": "Maksimalt 30 tegn.",
+        "format": "Kun små bogstaver, tal og bindestreger (-). "
+      }
+    },
+    "loadingPortfolio": "Indlæser porteføljedata...",
+    "overview": {
+      "greetings": {
+        "morning": "Godmorgen",
+        "afternoon": "God eftermiddag",
+        "evening": "God eftermiddag",
+        "night": "Godnat"
+      },
+      "welcome": {
+        "hi": "Hej",
+        "creator": "Skaber",
+        "desc1": "Velkommen til DevFolio-dashboardet. Din portefølje er blevet set af",
+        "desc2": "person. Fortsæt med at arbejde!",
+        "editPortfolio": "Rediger portefølje"
+      },
+      "stats": {
+        "totalVisitors": "Samlet antal besøgende",
+        "projectViews": "Set (projekt)",
+        "activeSessions": "Aktiv session",
+        "totalLabel": "I alt"
+      },
+      "setup": {
+        "title": "Opsætningsfremskridt",
+        "completed": "Din portefølje er færdig! 🎉",
+        "inProgress": "Trin til den perfekte portefølje.",
+        "profile": {
+          "title": "Komplet profil",
+          "desc": "Tilføj navn, bio og profilbillede."
+        },
+        "section": {
+          "title": "Tilføj sektioner",
+          "desc": "Aktiver mindst 1 sektion i porteføljen."
+        },
+        "project": {
+          "title": "Tilføj projekt",
+          "desc": "Indtast mindst 1 af dine bedste projekter."
+        },
+        "publish": {
+          "title": "Udgiv Portfolio",
+          "desc": "Indstil en brugerdefineret URL, så den kan tilgås af offentligheden."
+        }
+      },
+      "topProjects": {
+        "title": "Mest populære projekter",
+        "desc": "Udførelsen af ​​dit arbejde i de besøgendes øjne.",
+        "viewAll": "Se alle",
+        "empty": "Der er endnu ingen visningsdata for dit projekt."
+      }
+    },
+    "themes": {
+      "title": "Skabeloner og temaer",
+      "subtitle": "Tilpas udseendet og følelsen af ​​din offentlige portefølje.",
+      "reset": "Nulstil standard",
+      "save": "Gem ændringer",
+      "saving": "Gemmer...",
+      "chooseTemplate": "Vælg en skabelon",
+      "primaryColor": "Primær farve",
+      "typography": "Typografi",
+      "appearance": "Udseende",
+      "corners": "Hjørner og grænser",
+      "successTitle": "Succes",
+      "successMessage": "Temapræferencer blev opdateret",
+      "errorTitle": "Fejl",
+      "errorMessage": "Kunne ikke gemme temapræferencer",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalistisk",
+          "desc": "Rent og enkelt design med fokus på indhold."
+        },
+        "developerDark": {
+          "name": "Udvikler Dark",
+          "desc": "Mørkt tema perfekt til at vise kode og teknologiske stakke."
+        },
+        "creative": {
+          "name": "Kreativ",
+          "desc": "Levende og farverigt layout til designere og kreative."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Professionelt og formelt layout for erhvervsfolk."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Moderne gitterlayout i Apple-stil, der fremhæver forskellige færdigheder effektivt."
+        },
+        "neoBrutalism": {
+          "name": "Neo-brutalisme",
+          "desc": "Fed kanter og farver med høj kontrast for et trendy, uundskyldende look."
+        },
+        "glassmorphism": {
+          "name": "Glasmorfisme",
+          "desc": "Frostet glaseffekter over farverige gradienter for en elegant, moderne brugerflade."
+        },
+        "linkInBio": {
+          "name": "Link i bio",
+          "desc": "Kompakt lodret layout optimeret til mobilskærme og sociale medier."
+        }
+      },
+      "appearances": {
+        "light": "Lys",
+        "dark": "Mørk",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Skarp",
+        "rounded": "Afrundet",
+        "pill": "Pille"
+      }
+    },
+    "feedback": {
+      "title": "Send feedback",
+      "subtitle": "Hjælp os med at gøre det bedre ved at give forslag, kritik eller rapportere fejl på denne applikation.",
+      "categoryLabel": "Feedback Kategori",
+      "messageLabel": "Meddelelsesdetaljer",
+      "messagePlaceholder": "Fortæl mig detaljeret om den feedback, du ønsker at formidle...",
+      "imageLabel": "Billedvedhæftning (valgfrit)",
+      "imagePlaceholder": "Klik for at uploade billede eller skærmbillede",
+      "submitting": "Sender...",
+      "submitBtn": "Send feedback",
+      "categories": {
+        "suggestion": "Forslag og ideer",
+        "bug": "Fejl/fejlrapport",
+        "criticism": "Kritik",
+        "other": "Andre"
+      },
+      "imageErrorTitle": "Fejl",
+      "imageErrorMessage": "Nogle filer afvises, fordi de ikke er understøttede billedformater (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Succes",
+      "successMessage": "Tak for din feedback! Rapport er sendt.",
+      "submitErrorTitle": "Mislykkedes",
+      "submitErrorMessage": "Der opstod en fejl under afsendelse af feedback. Prøv venligst igen."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Om mig",
+      "skills": "Færdigheder",
+      "projects": "Projekter",
+      "workExperience": "Erhvervserfaring",
+      "orgExperience": "Organisatorisk erfaring",
+      "education": "Undervisning",
+      "certifications": "Uddannelse og certificeringer",
+      "contact": "Kontakt mig"
+    },
+    "editor": {
+      "profileInfo": "Profiloplysninger",
+      "saving": "Gemmer...",
+      "profilePhoto": "Profilbillede",
+      "clickToUpload": "Klik for at uploade (JPG, PNG)",
+      "fullName": "Fuldt navn",
+      "fullNamePlaceholder": "f.eks. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack-udvikler med en passion for at bygge moderne webapps...",
+      "location": "Beliggenhed",
+      "locationPlaceholder": "f.eks. ",
+      "gender": "Køn",
+      "selectGender": "Vælg køn",
+      "male": "Han",
+      "female": "Kvinde",
+      "custom": "Skik",
+      "customPlaceholder": "Indtast dit tilpassede køn...",
+      "uploadCv": "Upload CV",
+      "cvFormat": "(DOC eller PDF)",
+      "preview": "Forhåndsvisning",
+      "remove": "Fjerne",
+      "clickToUploadCv": "Klik for at uploade PDF eller DOC",
+      "sections": "Afsnit",
+      "removeSelected": "Fjern valgte",
+      "confirmRemove": "Bekræft Fjern",
+      "addSection": "Tilføj sektion",
+      "addAllSections": "Tilføj alle sektioner",
+      "noSections": "Ingen sektioner endnu",
+      "clickToAdd": "Klik på \"+ Tilføj sektion\" for at komme i gang",
+      "selectAll": "Vælg alle",
+      "selected": "Valgt",
+      "dragToReorder": "Træk for at omarrangere sektioner",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Tilføj sektioner for at opbygge din portefølje",
+      "now": "Nu",
+      "current": "Strøm",
+      "noExpiry": "Ingen udløb",
+      "see": "Se",
+      "position": "Position",
+      "degree": "Grad",
+      "certification": "Certificering",
+      "sectionsForm": {
+        "about": {
+          "label": "Beskrivelse af dig selv",
+          "placeholder": "Fortæl os om dig selv, din baggrund, interesser og færdigheder..."
+        },
+        "skills": {
+          "addPlaceholder": "Indtast færdighed og tryk derefter på Enter..."
+        },
+        "projects": {
+          "title": "Projektnavn",
+          "titlePlaceholder": "Projektnavn...",
+          "url": "Projekt URL",
+          "description": "Beskrivelse",
+          "descriptionPlaceholder": "Kort beskrivelse af projektet...",
+          "uploadThumbnail": "Projektbillede",
+          "addProject": "Tilføj projekt",
+          "projectNum": "Projekt #",
+          "currentProject": "Det er et projekt jeg arbejder på"
+        },
+        "work": {
+          "company": "Virksomhed/bureau",
+          "companyPlaceholder": "Firmanavn...",
+          "position": "Stilling/titel",
+          "positionPlaceholder": "Din position...",
+          "employmentType": "Type arbejde",
+          "location": "Beliggenhed",
+          "locationPlaceholder": "By, land...",
+          "startDate": "Starte",
+          "endDate": "Færdig",
+          "currentWork": "Jeg arbejder stadig i øjeblikket",
+          "description": "Beskrivelse",
+          "descriptionPlaceholder": "Jobbeskrivelse og ansvar...",
+          "skills": "Dygtighed",
+          "addExperience": "Tilføj erhvervserfaring",
+          "experienceNum": "Erfaring #",
+          "dateError": "Slutdatoen må ikke være tidligere end startdatoen"
+        },
+        "org": {
+          "organization": "Organisationens navn",
+          "orgPlaceholder": "BEM University...",
+          "role": "Rolle/stilling",
+          "rolePlaceholder": "divisionschef...",
+          "addOrg": "Tilføj organisatorisk erfaring",
+          "orgNum": "Organisationsnummer"
+        },
+        "edu": {
+          "institution": "Uddannelsesinstitutioner",
+          "institutionPlaceholder": "Navn på campus eller skole...",
+          "degree": "Titel",
+          "degreePlaceholder": "S1, gymnasiet osv...",
+          "major": "Institut/studieretning",
+          "majorPlaceholder": "Informatikteknik...",
+          "gpa": "GPA (valgfrit)",
+          "currentStudy": "Jeg lærer stadig her",
+          "descriptionPlaceholder": "Aktiviteter og præstationer under studiet...",
+          "addEdu": "Tilføj uddannelse",
+          "eduNum": "Uddannelse #"
+        },
+        "cert": {
+          "name": "Navn på certificering/uddannelse",
+          "namePlaceholder": "Certificeringsnavn...",
+          "issuer": "Forlægger",
+          "issuerPlaceholder": "Udgiver institution...",
+          "issueDate": "Start (udgivelsesdato)",
+          "issueDatePlaceholder": "Vælg udgivelsesdato...",
+          "expiryDate": "Udført (gyldig periode)",
+          "expiryDatePlaceholder": "Vælg udløbsdato...",
+          "noExpiry": "Dette certifikat har ingen udløbsdato",
+          "url": "Oplysningsoplysninger URL",
+          "uploadThumbnail": "Certifikat / Træningsbillede",
+          "uploadThumbnailLimit": "Upload certifikatbillede (JPG/PNG/WEBP, maks. 2 MB)",
+          "addCert": "Tilføj certificering",
+          "certNum": "Certificeringsnummer"
+        },
+        "contact": {
+          "contactNum": "Kontakt #",
+          "platform": "Platform",
+          "displayText": "Vis tekst",
+          "displayTextPlaceholder": "f.eks. dig@email.com eller @brugernavn",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "f.eks. 62812... (uden foran 0)",
+          "urlPlaceholderEmail": "f.eks. dig@email.com",
+          "urlPlaceholderWebsite": "f.eks. https://...",
+          "urlPlaceholderDefault": "f.eks. brugernavn",
+          "addContact": "Tilføj kontakt"
+        },
+        "common": {
+          "months": {
+            "1": "januar",
+            "2": "februar",
+            "3": "marts",
+            "4": "april",
+            "5": "maj",
+            "6": "juni",
+            "7": "juli",
+            "8": "august",
+            "9": "september",
+            "10": "oktober",
+            "11": "november",
+            "12": "december"
+          },
+          "month": "Måned",
+          "year": "År",
+          "invalidDate": "Ugyldig slutmåned",
+          "words": "ord"
+        }
+      },
+      "sure": "Sikker",
+      "deletePhotoTitle": "Vil du slette profilbillede?",
+      "deletePhotoMessage": "Er du sikker på, at du vil slette dette profilbillede?",
+      "cancel": "Ophæve",
+      "delete": "Slet"
+    },
+    "cropper": {
+      "chooseBackground": "Vælg Baggrund",
+      "cropPhoto": "Beskær dit billede",
+      "useOriginal": "Brug original",
+      "backgroundPresets": "Forudindstillinger for baggrund",
+      "none": "Ingen",
+      "uploadBackground": "Upload baggrund",
+      "cancel": "Ophæve",
+      "savePhoto": "Gem billede",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation & Tilt",
+      "resetRotation": "Nulstil til 0°",
+      "center": "Centrum",
+      "rotateLeft": "Drej -90°",
+      "rotateRight": "Drej +90°",
+      "removeBackground": "Fjern baggrund",
+      "processing": "Behandler dit billede, vent venligst..."
+    },
+    "cvPreview": {
+      "title": "Forhåndsvisning af CV",
+      "downloadCv": "Hent CV",
+      "download": "Download",
+      "wordCannotPreview": "Word-dokumenter (.doc/.docx) kan ikke forhåndsvises i browseren. ",
+      "downloadFile": "Hent CV-fil",
+      "back": "Tilbage",
+      "mobileMessage": "Download venligst CV-filen for at se den.",
+      "preview": "Forhåndsvisning af CV",
+      "wordPreviewTitle": "Forhåndsvisning af Word-dokument",
+      "wordPreviewMessage": "Word-dokumenter (.doc/.docx) kan ikke forhåndsvises i browseren. Download venligst filen for at se den."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Skriv en kort beskrivelse af dig selv, interesser og karrieremål..."
+    },
+    "skills": {
+      "placeholder": "Indtast færdighedsnavn...",
+      "add": "Tilføje",
+      "enterToAdd": "Tryk på Enter for at tilføje",
+      "noSkills": "Ingen færdigheder tilføjet endnu."
+    },
+    "projects": {
+      "projectName": "Projektnavn",
+      "projectNamePlaceholder": "f.eks. ",
+      "projectUrl": "Projekt URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Varighed",
+      "startMonth": "Start måned",
+      "startYear": "Startår",
+      "endMonth": "Slutmåned",
+      "endYear": "Slutår",
+      "currentlyWorking": "Arbejder i øjeblikket på dette",
+      "description": "Beskrivelse",
+      "descriptionPlaceholder": "Beskriv projektet, din rolle og resultater...",
+      "technologies": "Anvendte teknologier",
+      "addProject": "Tilføj projekt",
+      "image": "Projektbillede",
+      "removeImage": "Fjern billede",
+      "uploadImage": "Klik for at uploade billede"
+    },
+    "work": {
+      "company": "Virksomhed/Institution",
+      "companyPlaceholder": "Firmanavn...",
+      "role": "Rolle/stilling",
+      "rolePlaceholder": "Din position...",
+      "jobType": "Jobtype",
+      "selectJobType": "Vælg type",
+      "fullTime": "Fuldtid",
+      "partTime": "Deltid",
+      "contract": "Kontrakt",
+      "internship": "Praktik",
+      "freelance": "Freelance",
+      "location": "Beliggenhed",
+      "locationPlaceholder": "f.eks. ",
+      "duration": "Varighed",
+      "currentlyWorking": "Arbejder her i øjeblikket",
+      "description": "Jobbeskrivelse",
+      "descriptionPlaceholder": "Beskriv dine vigtigste ansvarsområder og resultater...",
+      "skills": "Specifikke færdigheder",
+      "addExperience": "Tilføj oplevelse"
+    },
+    "org": {
+      "organization": "Organisationens navn",
+      "organizationPlaceholder": "Organisationens navn...",
+      "role": "Rolle/stilling",
+      "rolePlaceholder": "f.eks. ",
+      "duration": "Varighed",
+      "periodFormat": "eller frit format (f.eks. 2020 - 2022)",
+      "periodPlaceholder": "f.eks. ",
+      "currentlyActive": "Aktuelt aktiv",
+      "description": "Aktivitetsbeskrivelse",
+      "descriptionPlaceholder": "Beskriv dine aktiviteter eller bidrag...",
+      "addExperience": "Tilføj oplevelse"
+    },
+    "education": {
+      "institution": "Institutions navn",
+      "institutionPlaceholder": "Navn på skole eller universitet...",
+      "degree": "Grad/niveau",
+      "degreePlaceholder": "f.eks. ",
+      "major": "Hovedfag/studieretning",
+      "majorPlaceholder": "f.eks. ",
+      "gpa": "GPA / karakter",
+      "gpaPlaceholder": "f.eks. ",
+      "duration": "Uddannelsens varighed",
+      "periodFormat": "eller frit format (f.eks. 2018 - 2022)",
+      "periodPlaceholder": "f.eks. ",
+      "currentlyStudying": "Studerer her i øjeblikket",
+      "description": "Aktiviteter / Udmærkelser",
+      "descriptionPlaceholder": "Beskriv akademiske aktiviteter, organisationer eller udmærkelser modtaget...",
+      "addEducation": "Tilføj uddannelse"
+    },
+    "cert": {
+      "name": "Certificeringsnavn",
+      "namePlaceholder": "f.eks. ",
+      "issuer": "Udstedende organisation",
+      "issuerPlaceholder": "f.eks. ",
+      "issueDate": "Udstedelsesdato",
+      "expiryDate": "Gælder til",
+      "noExpiry": "Denne legitimation udløber ikke",
+      "yearPlaceholder": "eller år (f.eks. 2023)",
+      "credentialUrl": "Oplysningsoplysninger URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Relaterede færdigheder",
+      "addCertification": "Tilføj certificering",
+      "image": "Billede/logo",
+      "removeImage": "Fjern billede",
+      "uploadImage": "Klik for at uploade billede"
+    },
+    "common": {
+      "months": {
+        "1": "januar",
+        "2": "februar",
+        "3": "marts",
+        "4": "april",
+        "5": "maj",
+        "6": "juni",
+        "7": "juli",
+        "8": "august",
+        "9": "september",
+        "10": "oktober",
+        "11": "november",
+        "12": "december"
+      },
+      "month": "Måned",
+      "year": "År",
+      "invalidDate": "Ugyldig slutmåned",
+      "words": "ord"
+    }
+  },
+  "settings": {
+    "title": "Indstillinger",
+    "subtitle": "Administrer din porteføljeprofil og præferencer",
+    "tabs": {
+      "profile": "Min profil",
+      "security": "Sikkerhed",
+      "personalization": "Personalisering"
+    },
+    "profile": {
+      "infoTitle": "Grundlæggende information",
+      "photo": "Profilbillede",
+      "uploadPhoto": "Skift foto",
+      "fullName": "Fuldt navn",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email adresse",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "E-mail bruges til login og vises ikke offentligt.",
+      "portfolioUrl": "Portefølje-URL",
+      "saveProfile": "Gem profil",
+      "save": "Gem profil",
+      "accountCreated": "Konto oprettet",
+      "lastLogin": "Sidste login",
+      "oauthNotice": "Denne profil er knyttet til din {{provider}}-konto. Profilændringer skal foretages gennem tjenesteudbyderen."
+    },
+    "security": {
+      "changePassword": "Skift adgangskode",
+      "currentPassword": "Nuværende adgangskode",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Ny adgangskode",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Bekræft ny adgangskode",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Mindst 8 tegn",
+        "uppercase": "Et stort bogstav (A-Z)",
+        "number": "Et tal (0-9)",
+        "symbol": "Et symbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Adgangskode",
+      "updatePassword": "Opdater adgangskode",
+      "additionalSecurity": "Yderligere sikkerhed",
+      "twoFactor": "To-faktor-godkendelse (2FA)",
+      "twoFactorDesc": "Beskyt din konto med en ekstra OTP-kode.",
+      "activeSessions": "Aktive sessioner",
+      "activeSessionsDesc": "Tillad altid overvågning af loggede enheder.",
+      "publicVisibility": "Offentlig synlighed",
+      "hideFromSearch": "Skjul portefølje fra søgemaskiner",
+      "hideFromSearchDesc": "Forhindre Google i at indeksere din offentlige porteføljeside.",
+      "disable2fa": {
+        "title": "Deaktiver 2FA",
+        "description": "Er du sikker på, at du vil slå tofaktorgodkendelse fra?",
+        "confirmPasswordLabel": "Indtast din adgangskode for at bekræfte",
+        "currentPasswordPlaceholder": "Nuværende adgangskode",
+        "cancelButton": "Annuller",
+        "confirmButton": "Deaktiver 2FA",
+        "incorrectPassword": "Forkert adgangskode."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR-koden",
+        "step1Desc": "Åbn din autentificeringsapp og scan følgende QR-kode:",
+        "unableToScan": "Kan du ikke scanne? Brug opsætningstasten",
+        "step2Title": "2. Bekræft kode",
+        "step2Desc": "Indtast den 6-cifrede kode, der er genereret af din app:",
+        "cancelButton": "Ophæve",
+        "enableButton": "Aktiver 2FA",
+        "invalidLength": "Indtast venligst en 6-cifret kode.",
+        "invalidCode": "Ugyldig bekræftelseskode. Prøv venligst igen."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Sprogkontrol",
+      "appLanguage": "App sprog",
+      "layoutTitle": "Layout og typografi",
+      "layoutStyle": "Layout stil",
+      "layoutModern": "Moderne stil (standard)",
+      "layoutClassic": "Klassisk stil",
+      "layoutMinimalist": "Minimalistisk stil",
+      "fontSize": "App skriftstørrelse",
+      "fontSmall": "Lille",
+      "fontNormal": "Normal (medium)",
+      "fontLarge": "Stor",
+      "searchLanguage": "Søg sprog...",
+      "languageNotFound": "Sprog ikke fundet",
+      "layoutElegant": "Elegant stil"
+    },
+    "saveChanges": "Gem ændringer",
+    "cancel": "Ophæve",
+    "appSettings": "App-indstillinger",
+    "logoutConfirmTitle": "Bekræft Log ud",
+    "logoutConfirmDesc": "Er du sikker på, at du vil logge ud af systemet?",
+    "logoutConfirmYes": "Ja, log ud",
+    "generalError": "Der opstod en fejl. ",
+    "success": "Succes",
+    "preferencesSaved": "Apppræferencer blev gemt.",
+    "header": "Applikationsindstillinger",
+    "logout": {
+      "title": "Logout bekræftelse",
+      "message": "Er du sikker på, at du vil logge ud af systemet?",
+      "confirm": "Ja, log ud"
+    },
+    "about": {
+      "title": "Om ansøgning",
+      "subtitle": "Portfolio Builder platform",
+      "version": "Version",
+      "description": "DevFolio er en moderne porteføljebyggerplatform designet til udviklere, designere og professionelle skabere. ",
+      "license": "Licens og ophavsret",
+      "copyright": "© 2026 DevFolio Inc. Alle rettigheder forbeholdes.",
+      "developer": "Udvikler",
+      "developedBy": "Udviklet af Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Slet konto permanent",
+      "menuItem": "Slet konto",
+      "successTitle": "Succes",
+      "successMessage": "En bekræftelses-e-mail til kontosletning er blevet sendt.",
+      "errorTitle": "Mislykkedes",
+      "errorMessage": "Kunne ikke sende bekræftelsesmail.",
+      "confirmationMessage": "Er du sikker på, at du vil slette din konto permanent?",
+      "warningMessage1": "Du vil modtage en e-mail for at bekræfte sletning af konto.",
+      "warningMessage2": "Hvis bekræftet, vil alle data (portefølje, projekter, statistik) blive slettet permanent og kan ikke gendannes.",
+      "cancel": "Annuller",
+      "confirm": "Bekræftelse"
+    },
+    "toasts": {
+      "toastError": "Fejl",
+      "toastSuccess": "Succes",
+      "toastSetup2FAFailed": "Kunne ikke konfigurere 2FA. Prøv venligst igen.",
+      "toast2FAEnabled": "To-faktor-godkendelse er blevet aktiveret.",
+      "toast2FADisabled": "To-faktor-godkendelse er blevet deaktiveret.",
+      "toastSessionEnabled": "Aktiv sessionsovervågning er blevet aktiveret.",
+      "toastSessionDisabled": "Aktiv sessionsovervågning er blevet deaktiveret.",
+      "toastSetupKeyCopied": "Opsætningsnøgle kopieret til udklipsholder."
+    },
+    "privacy": {
+      "title": "Privatlivspolitik",
+      "updateDate": "Sidst opdateret: 15. juli 2026",
+      "intro": "Denne privatlivspolitik forklarer, hvordan DevFolio indsamler, bruger og beskytter dine personlige oplysninger, når du bruger vores tjenester.",
+      "section1Title": "1. Oplysninger, vi indsamler",
+      "section1Content": "Vi indsamler oplysninger, du giver direkte, når du opretter en konto, bygger en portefølje og kontakter vores support. ",
+      "section2Title": "2. Brug af information",
+      "section2Content": "Dine oplysninger bruges til at drive, vedligeholde og levere funktionerne i vores tjenester, samt til at kommunikere med dig vedrørende din konto eller tjenester.",
+      "section3Title": "3. Datasikkerhed",
+      "section3Content": "Vi implementerer rimelige sikkerhedsforanstaltninger for at beskytte dine oplysninger mod uautoriseret adgang, offentliggørelse eller ødelæggelse."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Bekræftelsestoken blev ikke fundet.",
+    "defaultError": "Kontoen kunne ikke slettes. Tokenet kan være udløbet.",
+    "loadingTitle": "Sletter konto...",
+    "loadingMessage": "Vent venligst, vi behandler din anmodning.",
+    "successTitle": "Kontoen blev slettet",
+    "successMessage": "Alle dine data er blevet permanent slettet. Du vil blive omdirigeret...",
+    "errorTitle": "Kunne ikke slette konto",
+    "backToHome": "Vend tilbage til Hjemmet"
+  },
+  "forgotPassword": {
+    "minutes": "minutter",
+    "seconds": "sekunder",
+    "success": "Succes",
+    "otpSentToEmail": "En OTP-kode er blevet sendt til din e-mail.",
+    "failed": "Mislykkedes",
+    "emailNotFound": "E-mail ikke fundet.",
+    "emailThirdParty": "Denne e-mail er registreret gennem en tredjepart.",
+    "genericError": "Der er en fejl. Prøv venligst igen.",
+    "otpVerified": "OTP-koden er blevet bekræftet.",
+    "otpExpired": "OTP-koden er udløbet. Anmod om en ny kode.",
+    "otpInvalid": "Ugyldig OTP-kode.",
+    "otpResent": "En ny OTP-kode er blevet sendt til din e-mail.",
+    "otpResendFailed": "Kunne ikke sende engangskode igen. Prøv venligst igen.",
+    "passwordResetSuccess": "Adgangskoden blev nulstillet. Log venligst ind med din nye adgangskode.",
+    "passwordResetFailed": "Kunne ikke nulstille adgangskoden.",
+    "backToLogin": "Tilbage til Login",
+    "back": "Tilbage",
+    "title": "Glemt adgangskode",
+    "description": "Enter the email address registered on your account. Vi sender en OTP-kode for at nulstille adgangskoden.",
+    "emailLabel": "E-mail-adresse",
+    "sending": "Sender...",
+    "sendOtp": "Send engangskode",
+    "verifyOtpTitle": "Bekræft engangskode",
+    "verifyOtpDesc": "Enter the 6 digit code that has been sent to your email to confirm your identity.",
+    "verifying": "Bekræfter...",
+    "verifyOtp": "Bekræft OTP",
+    "resending": "Gensender...",
+    "resendOtp": "Send engangskode igen",
+    "resendCodeIn": "Send koden igen i",
+    "newPasswordTitle": "Opret en ny adgangskode",
+    "newPasswordDesc": "Create a new, strong password to secure your account.",
+    "newPasswordLabel": "Ny adgangskode",
+    "min8Chars": "Minimum 8 tegn",
+    "oneUpperCase": "1 stort (A-Z)",
+    "oneNumber": "1 tal (0-9)",
+    "oneSymbol": "1 symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Bekræft adgangskode",
+    "passwordsDoNotMatch": "Adgangskoder stemmer ikke overens.",
+    "resettingPassword": "Nulstiller adgangskode...",
+    "resetPassword": "Nulstil adgangskode"
+  },
+  "verifyEmail": {
+    "resendError": "Kunne ikke sende bekræftelsesmail igen. Prøv venligst igen.",
+    "checkingStatus": "Kontrollerer bekræftelsesstatus...",
+    "title": "Tjek din e-mail",
+    "description": "Vi har sendt en bekræftelses-e-mail til din e-mailadresse. Åbn venligst e-mailen og klik på knappen <1>\"Bekræft konto\"</1> for at aktivere din konto.",
+    "stepsTitle": "Trin",
+    "step1": "Åbn dit e-mail-program (Gmail, Yahoo osv.)",
+    "step2": "Se efter en e-mail fra DevFolio med emnet \"Kontoaktivering\"",
+    "step3": "Klik på knappen \"Bekræft konto\" i e-mailen",
+    "step4": "Du vil blive dirigeret til login-siden for at indtaste",
+    "resendSuccess": "Bekræftelsesmailen er blevet sendt igen!",
+    "resending": "Gensender...",
+    "resendButton": "Send bekræftelses-e-mail igen",
+    "backToLogin": "Vend tilbage til login-siden",
+    "footerNote": "Modtog du ikke e-mailen? Tjek mappen <1>Spam</1> eller <2>Junk</2> i din e-mail. Bekræftelseslinket er gyldigt i <3>24 timer</3>."
+  }
+}

@@ -1,0 +1,738 @@
+{
+  "navbar": {
+    "features": "Features",
+    "templates": "Templates",
+    "pricing": "Pricing",
+    "login": "Login",
+    "getStarted": "Get Started",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "The ultimate portfolio builder for developers",
+    "title1": "Build your professional",
+    "title2": "portfolio in",
+    "titleHighlight": "seconds.",
+    "subtitle": "Everything you need to showcase your skills, projects, and experience. No coding required. Just your talent, beautifully displayed.",
+    "startBuilding": "Start Building Now",
+    "viewTemplates": "View Templates",
+    "fastDeployment": "Fast Deployment",
+    "liveStatus": "username.dev is live!",
+    "featuresTitle": "Powerful Features",
+    "featuresSubtitle": "We provide all the tools you need to stand out from the crowd and land your dream job.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Easily organize your sections, projects, and skills with our intuitive visual editor.",
+    "feature2Title": "Custom Themes",
+    "feature2Desc": "Choose from professionally designed templates or create your own unique look.",
+    "feature3Title": "Real-time Analytics",
+    "feature3Desc": "Track your visitors, see which projects get the most attention, and more."
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "loginToContinue": "Log in to your account to continue",
+    "createAccount": "Create Account",
+    "joinCommunity": "Join thousands of other developers",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "e.g. John Doe",
+    "email": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing In...",
+    "signUp": "Sign Up",
+    "signingUp": "Signing Up...",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "passwordRules": {
+      "title": "Password must contain:",
+      "length": "At least 8 characters",
+      "uppercase": "One uppercase letter (A-Z)",
+      "number": "One number (0-9)",
+      "symbol": "One symbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Templates & Themes",
+      "settings": "Settings",
+      "overview": "Overview",
+      "profileSettings": "Profile Settings",
+      "customDomain": "Custom Domain",
+      "feedback": "Feedback",
+      "collapse": "Collapse Sidebar"
+    },
+    "loadingPortfolio": "Loading portfolio data...",
+    "header": {
+      "viewLive": "View Live",
+      "welcome": "Welcome,",
+      "logout": "Logout"
+    },
+    "logoutModal": {
+      "title": "Logout",
+      "message": "Are you sure you want to log out of your account? You will need to log back in to access your portfolio builder.",
+      "cancel": "Cancel",
+      "confirm": "Yes, Logout"
+    },
+    "slugModal": {
+      "title": "Choose Your Portfolio URL",
+      "message": "This URL will be the unique link to your portfolio. You can only set this once.",
+      "slugPlaceholder": "your-name",
+      "availability": "Availability:",
+      "available": "Available",
+      "unavailable": "Unavailable",
+      "checking": "Checking...",
+      "mustFormat": "Can only contain letters, numbers, and dashes (-)",
+      "cancel": "Cancel",
+      "save": "Save URL",
+      "usernameUrl": "Username URL",
+      "helpText": "Lowercase letters, numbers, and dashes. Example: ",
+      "validation": {
+        "empty": "Slug cannot be empty.",
+        "min3": "Minimum 3 characters.",
+        "max30": "Maximum 30 characters.",
+        "format": "Only lowercase letters, numbers, and dashes (-). Cannot start/end with a dash."
+      }
+    },
+    "overview": {
+      "greetings": {
+        "morning": "Good Morning",
+        "afternoon": "Good Afternoon",
+        "evening": "Good Afternoon",
+        "night": "Good Night"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Creator",
+        "desc1": "Welcome to the DevFolio dashboard. Your portfolio has been viewed by",
+        "desc2": "person. Keep working!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Visitors",
+        "projectViews": "Viewed (Project)",
+        "activeSessions": "Active Session",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Setup Progress",
+        "completed": "Your portfolio is complete! 🎉",
+        "inProgress": "Steps to the perfect portfolio.",
+        "profile": {
+          "title": "Complete Profile",
+          "desc": "Add name, bio and profile photo."
+        },
+        "section": {
+          "title": "Add Sections",
+          "desc": "Activate at least 1 section in the portfolio."
+        },
+        "project": {
+          "title": "Add Project",
+          "desc": "Enter at least 1 of your best projects."
+        },
+        "publish": {
+          "title": "Publish Portfolio",
+          "desc": "Set a custom URL so that it can be accessed by the public."
+        }
+      },
+      "topProjects": {
+        "title": "Most Popular Projects",
+        "desc": "The performance of your work in the eyes of visitors.",
+        "viewAll": "See All",
+        "empty": "There is no view data for your project yet."
+      }
+    },
+    "themes": {
+      "title": "Templates & Themes",
+      "subtitle": "Customize the look and feel of your public portfolio.",
+      "reset": "Reset Default",
+      "save": "Save Changes",
+      "saving": "Saving...",
+      "chooseTemplate": "Choose a Template",
+      "primaryColor": "Primary Color",
+      "typography": "Typography",
+      "appearance": "Appearance",
+      "corners": "Corners & Borders",
+      "successTitle": "Success",
+      "successMessage": "Theme preferences updated successfully",
+      "errorTitle": "Error",
+      "errorMessage": "Failed to save theme preferences",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Clean and simple design focusing on content."
+        },
+        "developerDark": {
+          "name": "Developer Dark",
+          "desc": "Dark theme perfect for showcasing code and tech stacks."
+        },
+        "creative": {
+          "name": "Creative",
+          "desc": "Vibrant and colorful layout for designers and creatives."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Professional and formal layout for business professionals."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Modern Apple-style grid layout that highlights different skills efficiently."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Bold borders and high contrast colors for a trendy, unapologetic look."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Frosted glass effects over colorful gradients for a sleek modern UI."
+        },
+        "linkInBio": {
+          "name": "Link in Bio",
+          "desc": "Compact vertical layout optimized for mobile screens and social media."
+        }
+      },
+      "appearances": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Rounded",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Send Feedback",
+      "subtitle": "Help us make it better by providing suggestions, criticism, or reporting bugs on this application.",
+      "categoryLabel": "Feedback Category",
+      "messageLabel": "Message Details",
+      "messagePlaceholder": "Tell me in detail about the feedback you want to convey...",
+      "imageLabel": "Image Attachment (Optional)",
+      "imagePlaceholder": "Click to upload image or screenshot",
+      "submitting": "Sending...",
+      "submitBtn": "Send Feedback",
+      "categories": {
+        "suggestion": "Suggestions & Ideas",
+        "bug": "Bug / Error Report",
+        "criticism": "Criticism",
+        "other": "Others"
+      },
+      "imageErrorTitle": "Error",
+      "imageErrorMessage": "Some files are rejected because they are not supported image formats (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Success",
+      "successMessage": "Thank you for your feedback! Report has been sent.",
+      "submitErrorTitle": "Failed",
+      "submitErrorMessage": "An error occurred while sending feedback. Please try again."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "About Me",
+      "skills": "Skills",
+      "projects": "Projects",
+      "workExperience": "Work Experience",
+      "orgExperience": "Organizational Experience",
+      "education": "Education",
+      "certifications": "Training & Certifications",
+      "contact": "Contact Me"
+    },
+    "editor": {
+      "profileInfo": "Profile Information",
+      "saving": "Saving...",
+      "profilePhoto": "Profile Photo",
+      "clickToUpload": "Click to upload (JPG, PNG)",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "e.g. John Doe",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer with a passion for building modern web apps...",
+      "location": "Location",
+      "locationPlaceholder": "e.g. Jakarta, Indonesia",
+      "gender": "Gender",
+      "selectGender": "Select Gender",
+      "male": "Male",
+      "female": "Female",
+      "custom": "Custom",
+      "customPlaceholder": "Type your custom gender...",
+      "uploadCv": "Upload CV",
+      "cvFormat": "(DOC or PDF)",
+      "preview": "Preview",
+      "remove": "Remove",
+      "clickToUploadCv": "Click to upload PDF or DOC",
+      "sections": "Sections",
+      "removeSelected": "Remove Selected",
+      "confirmRemove": "Confirm Remove",
+      "addSection": "Add Section",
+      "addAllSections": "Add All Sections",
+      "noSections": "No sections yet",
+      "clickToAdd": "Click \"+ Add Section\" to get started",
+      "sure": "Sure",
+      "selectAll": "Select All",
+      "selected": "Selected",
+      "dragToReorder": "Drag to reorder sections",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Add sections to build your portfolio",
+      "now": "Now",
+      "current": "Current",
+      "noExpiry": "No Expiration",
+      "see": "See",
+      "position": "Position",
+      "degree": "Degree",
+      "certification": "Certification",
+      "sectionsForm": {
+        "about": {
+          "label": "Description about yourself",
+          "placeholder": "Tell us about yourself, your background, interests, and skills..."
+        },
+        "skills": {
+          "addPlaceholder": "Type skill then press Enter..."
+        },
+        "projects": {
+          "title": "Project Title",
+          "titlePlaceholder": "Example: E-Commerce App",
+          "url": "Project URL (optional)",
+          "description": "Short Description",
+          "descriptionPlaceholder": "Brief description of the project...",
+          "uploadThumbnail": "Upload Image",
+          "addProject": "Add Project",
+          "projectNum": "Project #",
+          "currentProject": "This is a project I am currently working on"
+        },
+        "work": {
+          "company": "Company / Institution",
+          "companyPlaceholder": "Company name...",
+          "position": "Role / Position",
+          "positionPlaceholder": "Your position...",
+          "employmentType": "Employment Type",
+          "location": "Location",
+          "locationPlaceholder": "City, Country...",
+          "startDate": "Start",
+          "endDate": "End",
+          "currentWork": "I currently work here",
+          "description": "Description",
+          "descriptionPlaceholder": "Job description and responsibilities...",
+          "skills": "Skills",
+          "addExperience": "Add Work Experience",
+          "experienceNum": "Experience #",
+          "dateError": "End date cannot be earlier than start date"
+        },
+        "org": {
+          "organization": "Organization Name",
+          "orgPlaceholder": "University Student Council...",
+          "role": "Role",
+          "rolePlaceholder": "Head of Division...",
+          "addOrg": "Add Organization Experience",
+          "orgNum": "Organization #"
+        },
+        "contact": {
+          "contactNum": "Contact #",
+          "platform": "Platform",
+          "displayText": "Display Text",
+          "displayTextPlaceholder": "e.g., you@email.com or @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (without leading 0)",
+          "urlPlaceholderEmail": "e.g., you@email.com",
+          "urlPlaceholderWebsite": "e.g., https://...",
+          "urlPlaceholderDefault": "e.g., username",
+          "addContact": "Add Contact"
+        },
+        "edu": {
+          "institution": "Educational Institution",
+          "institutionPlaceholder": "University name...",
+          "degree": "Degree",
+          "degreePlaceholder": "Bachelor's, High School, etc...",
+          "major": "Major / Field of Study",
+          "majorPlaceholder": "Computer Science...",
+          "gpa": "GPA (optional)",
+          "currentStudy": "I am currently studying here",
+          "descriptionPlaceholder": "Activities and achievements during study...",
+          "addEdu": "Add Education",
+          "eduNum": "Education #"
+        },
+        "cert": {
+          "name": "Certification / Training Name",
+          "namePlaceholder": "Certification name...",
+          "issuer": "Issuer",
+          "issuerPlaceholder": "Issuing organization...",
+          "issueDate": "Start (Issue Date)",
+          "issueDatePlaceholder": "Select issue date...",
+          "expiryDate": "End (Expiry Date)",
+          "expiryDatePlaceholder": "Select expiry date...",
+          "noExpiry": "This certification does not expire",
+          "url": "Credential URL",
+          "uploadThumbnail": "Certification / Training Image",
+          "uploadThumbnailLimit": "Upload certificate image (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Add Certification",
+          "certNum": "Certification #"
+        }
+      },
+      "deletePhotoTitle": "Delete Profile Photo?",
+      "deletePhotoMessage": "Are you sure you want to delete this profile photo?",
+      "cancel": "Cancel",
+      "delete": "Delete"
+    },
+    "cropper": {
+      "chooseBackground": "Choose Background",
+      "cropPhoto": "Crop Your Photo",
+      "useOriginal": "Use original",
+      "backgroundPresets": "Background Presets",
+      "none": "None",
+      "uploadBackground": "Upload Background",
+      "cancel": "Cancel",
+      "savePhoto": "Save Photo",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation & Tilt",
+      "resetRotation": "Reset to 0°",
+      "center": "Center",
+      "rotateLeft": "Rotate -90°",
+      "rotateRight": "Rotate +90°",
+      "removeBackground": "Remove Background",
+      "processing": "Processing your image, please wait..."
+    },
+    "cvPreview": {
+      "title": "CV Preview",
+      "downloadCv": "Download CV",
+      "download": "Download",
+      "wordCannotPreview": "Word documents (.doc/.docx) cannot be previewed natively in the browser. Please download the file to view it.",
+      "downloadFile": "Download CV File",
+      "back": "Back",
+      "mobileMessage": "Please download the CV file to preview it.",
+      "preview": "Preview CV",
+      "wordPreviewTitle": "Word Document Preview",
+      "wordPreviewMessage": "Word documents (.doc/.docx) cannot be previewed natively in the browser. Please download the file to view it."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Write a brief description about yourself, interests, and career goals..."
+    },
+    "skills": {
+      "placeholder": "Type skill name...",
+      "add": "Add",
+      "enterToAdd": "Press Enter to add",
+      "noSkills": "No skills added yet."
+    },
+    "projects": {
+      "projectName": "Project Name",
+      "projectNamePlaceholder": "e.g. E-Commerce App",
+      "projectUrl": "Project URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Duration",
+      "startMonth": "Start Month",
+      "startYear": "Start Year",
+      "endMonth": "End Month",
+      "endYear": "End Year",
+      "currentlyWorking": "Currently working on this",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe the project, your role, and achievements...",
+      "technologies": "Technologies Used",
+      "addProject": "Add Project",
+      "image": "Project Image",
+      "removeImage": "Remove Image",
+      "uploadImage": "Click to upload image"
+    },
+    "work": {
+      "company": "Company/Institution",
+      "companyPlaceholder": "Company name...",
+      "role": "Role/Position",
+      "rolePlaceholder": "Your position...",
+      "jobType": "Job Type",
+      "selectJobType": "Select type",
+      "fullTime": "Full-time",
+      "partTime": "Part-time",
+      "contract": "Contract",
+      "internship": "Internship",
+      "freelance": "Freelance",
+      "location": "Location",
+      "locationPlaceholder": "e.g. Jakarta / Remote",
+      "duration": "Duration",
+      "currentlyWorking": "Currently working here",
+      "description": "Job Description",
+      "descriptionPlaceholder": "Describe your key responsibilities and achievements...",
+      "skills": "Specific Skills",
+      "addExperience": "Add Experience"
+    },
+    "org": {
+      "organization": "Organization Name",
+      "organizationPlaceholder": "Organization name...",
+      "role": "Role/Position",
+      "rolePlaceholder": "e.g. President, Member...",
+      "duration": "Duration",
+      "periodFormat": "or Free Format (e.g. 2020 - 2022)",
+      "periodPlaceholder": "e.g. 2020 - 2022",
+      "currentlyActive": "Currently active",
+      "description": "Activity Description",
+      "descriptionPlaceholder": "Describe your activities or contributions...",
+      "addExperience": "Add Experience"
+    },
+    "education": {
+      "institution": "Institution Name",
+      "institutionPlaceholder": "School or university name...",
+      "degree": "Degree/Level",
+      "degreePlaceholder": "e.g. Bachelor, High School...",
+      "major": "Major/Field of Study",
+      "majorPlaceholder": "e.g. Computer Science...",
+      "gpa": "GPA / Grade",
+      "gpaPlaceholder": "e.g. 3.85 / 4.00",
+      "duration": "Education Duration",
+      "periodFormat": "or Free Format (e.g. 2018 - 2022)",
+      "periodPlaceholder": "e.g. 2018 - 2022",
+      "currentlyStudying": "Currently studying here",
+      "description": "Activities / Honors",
+      "descriptionPlaceholder": "Describe academic activities, organizations, or honors received...",
+      "addEducation": "Add Education"
+    },
+    "cert": {
+      "name": "Certification Name",
+      "namePlaceholder": "e.g. AWS Certified Developer...",
+      "issuer": "Issuing Organization",
+      "issuerPlaceholder": "e.g. Amazon Web Services...",
+      "issueDate": "Issue Date",
+      "expiryDate": "Valid Until",
+      "noExpiry": "This credential does not expire",
+      "yearPlaceholder": "or Year (e.g. 2023)",
+      "credentialUrl": "Credential URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Related Skills",
+      "addCertification": "Add Certification",
+      "image": "Image/Logo",
+      "removeImage": "Remove Image",
+      "uploadImage": "Click to upload image"
+    },
+    "common": {
+      "months": {
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+      },
+      "month": "Month",
+      "year": "Year",
+      "invalidDate": "Invalid End Month",
+      "words": "words"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your portfolio profile and preferences",
+    "tabs": {
+      "profile": "Account Settings",
+      "security": "Privacy & Security",
+      "personalization": "Personalization"
+    },
+    "profile": {
+      "infoTitle": "Basic Information",
+      "photo": "Profile Photo",
+      "uploadPhoto": "Change Photo",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Email is used for login and is not displayed publicly.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Save Profile",
+      "save": "Save Profile",
+      "accountCreated": "Account Created",
+      "lastLogin": "Last Login",
+      "oauthNotice": "This profile is connected to your {{provider}} account. Profile changes must be made through the service provider."
+    },
+    "security": {
+      "changePassword": "Change Password",
+      "currentPassword": "Current Password",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "New Password",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Confirm New Password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "At least 8 characters",
+        "uppercase": "One uppercase letter (A-Z)",
+        "number": "One number (0-9)",
+        "symbol": "One symbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Password",
+      "updatePassword": "Update Password",
+      "additionalSecurity": "Additional Security",
+      "twoFactor": "Two-Factor Authentication (2FA)",
+      "twoFactorDesc": "Secure your account using an additional OTP code.",
+      "activeSessions": "Active Sessions",
+      "activeSessionsDesc": "Always allow monitoring of logged-in devices.",
+      "publicVisibility": "Public Visibility",
+      "hideFromSearch": "Hide Portfolio from Search Engines",
+      "hideFromSearchDesc": "Prevent Google from indexing your public portfolio page.",
+      "disable2fa": {
+        "title": "Disable 2FA",
+        "description": "Are you sure you want to turn off two-factor authentication?",
+        "confirmPasswordLabel": "Enter your password to confirm",
+        "currentPasswordPlaceholder": "Current password",
+        "cancelButton": "Cancel",
+        "confirmButton": "Disable 2FA",
+        "incorrectPassword": "Incorrect password."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code",
+        "step1Desc": "Open your authenticator app and scan the following QR code:",
+        "unableToScan": "Unable to scan? Use setup key",
+        "step2Title": "2. Verify Code",
+        "step2Desc": "Enter the 6-digit code generated by your app:",
+        "cancelButton": "Cancel",
+        "enableButton": "Enable 2FA",
+        "invalidLength": "Please enter a 6-digit code.",
+        "invalidCode": "Invalid verification code. Please try again."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Language Controls",
+      "appLanguage": "App Language",
+      "layoutTitle": "Layout & Typography",
+      "layoutStyle": "Layout Style",
+      "layoutModern": "Modern Style (Default)",
+      "layoutClassic": "Classic Style",
+      "layoutMinimalist": "Minimalist Style",
+      "fontSize": "App Font Size",
+      "fontSmall": "Small",
+      "fontNormal": "Normal (Medium)",
+      "fontLarge": "Large",
+      "searchLanguage": "Search language...",
+      "languageNotFound": "Language not found",
+      "layoutElegant": "Elegant Style"
+    },
+    "about": {
+      "title": "About Application",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "Version",
+      "description": "DevFolio is a modern portfolio builder platform designed for developers, designers, and professional creators. With DevFolio, you can quickly and easily build and publish your portfolio.",
+      "license": "License & Copyright",
+      "copyright": "© 2026 DevFolio Inc. All rights reserved.",
+      "developer": "Developer",
+      "developedBy": "Developed by DevFolio Team"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "updateDate": "Last Updated: July 15, 2026",
+      "intro": "This Privacy Policy explains how DevFolio collects, uses, and protects your personal information when using our services.",
+      "section1Title": "1. Information We Collect",
+      "section1Content": "We collect information you provide directly when creating an account, building a portfolio, and contacting our support. This includes your name, email, and professional data.",
+      "section2Title": "2. Use of Information",
+      "section2Content": "Your information is used to operate, maintain, and provide the features of our services, as well as to communicate with you regarding your account or services.",
+      "section3Title": "3. Data Security",
+      "section3Content": "We implement reasonable security measures to protect your information from unauthorized access, disclosure, or destruction."
+    },
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "appSettings": "App Settings",
+    "logoutConfirmTitle": "Confirm Logout",
+    "logoutConfirmDesc": "Are you sure you want to log out of the system?",
+    "logoutConfirmYes": "Yes, Logout",
+    "generalError": "An error occurred. Please try again.",
+    "success": "Success",
+    "preferencesSaved": "App preferences saved successfully.",
+    "header": "Application Settings",
+    "logout": {
+      "title": "Logout Confirmation",
+      "message": "Are you sure you want to log out of the system?",
+      "confirm": "Yes, Logout"
+    },
+    "deleteAccount": {
+      "title": "Permanently Delete Account",
+      "menuItem": "Delete Account",
+      "successTitle": "Success",
+      "successMessage": "An account deletion confirmation email has been sent.",
+      "errorTitle": "Failed",
+      "errorMessage": "Failed to send confirmation email.",
+      "confirmationMessage": "Are you sure you want to delete your account permanently?",
+      "warningMessage1": "You will receive an email to confirm account deletion.",
+      "warningMessage2": "If confirmed, all data (portfolio, projects, statistics) will be permanently deleted and cannot be recovered.",
+      "cancel": "Cancel",
+      "confirm": "Confirmation"
+    },
+    "toasts": {
+      "toastError": "Error",
+      "toastSuccess": "Success",
+      "toastSetup2FAFailed": "Failed to setup 2FA. Please try again.",
+      "toast2FAEnabled": "Two-factor authentication has been enabled.",
+      "toast2FADisabled": "Two-factor authentication has been disabled.",
+      "toastSessionEnabled": "Active session monitoring has been enabled.",
+      "toastSessionDisabled": "Active session monitoring has been disabled.",
+      "toastSetupKeyCopied": "Setup key copied to clipboard."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Confirmation token not found.",
+    "defaultError": "Failed to delete account. The token may have expired.",
+    "loadingTitle": "Deleting Account...",
+    "loadingMessage": "Please wait, we are processing your request.",
+    "successTitle": "Account Successfully Deleted",
+    "successMessage": "All your data has been permanently deleted. You will be redirected...",
+    "errorTitle": "Failed to Delete Account",
+    "backToHome": "Return to Home"
+  },
+  "forgotPassword": {
+    "minutes": "minutes",
+    "seconds": "seconds",
+    "success": "Success",
+    "otpSentToEmail": "An OTP code has been sent to your email.",
+    "failed": "Failed",
+    "emailNotFound": "Email not found.",
+    "emailThirdParty": "This email is registered through a third party.",
+    "genericError": "There is an error. Please try again.",
+    "otpVerified": "The OTP code has been successfully verified.",
+    "otpExpired": "The OTP code has expired. Please request a new code.",
+    "otpInvalid": "Invalid OTP code.",
+    "otpResent": "A new OTP code has been sent to your email.",
+    "otpResendFailed": "Failed to resend OTP code. Please try again.",
+    "passwordResetSuccess": "Password successfully reset. Please log in with your new password.",
+    "passwordResetFailed": "Failed to reset password.",
+    "backToLogin": "Return to Login",
+    "back": "Back",
+    "title": "Forgot Password",
+    "description": "Enter the email address registered on your account. We will send an OTP code to reset the password.",
+    "emailLabel": "Email Address",
+    "sending": "Sending...",
+    "sendOtp": "Send OTP Code",
+    "verifyOtpTitle": "Verify OTP Code",
+    "verifyOtpDesc": "Enter the 6 digit code that has been sent to your email to confirm your identity.",
+    "verifying": "Verifying...",
+    "verifyOtp": "Verify OTP",
+    "resending": "Resending...",
+    "resendOtp": "Resend OTP Code",
+    "resendCodeIn": "Resend the code in",
+    "newPasswordTitle": "Create a New Password",
+    "newPasswordDesc": "Create a new, strong password to secure your account.",
+    "newPasswordLabel": "New Password",
+    "min8Chars": "Minimum 8 characters",
+    "oneUpperCase": "1 uppercase (A-Z)",
+    "oneNumber": "1 number (0-9)",
+    "oneSymbol": "1 symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirm Password",
+    "passwordsDoNotMatch": "Passwords do not match.",
+    "resettingPassword": "Resetting Password...",
+    "resetPassword": "Reset Password"
+  },
+  "verifyEmail": {
+    "resendError": "Failed to resend verification email. Please try again.",
+    "checkingStatus": "Checking verification status...",
+    "title": "Check Your Email",
+    "description": "We have sent a verification email to your email address. Please open the email and click the <1>\"Confirm Account\"</1> button to activate your account.",
+    "stepsTitle": "Steps",
+    "step1": "Open your email application (Gmail, Yahoo, etc)",
+    "step2": "Look for an email from DevFolio with the subject \"Account Activation\"",
+    "step3": "Click the \"Confirm Account\" button in the email",
+    "step4": "You will be directed to the login page to enter",
+    "resendSuccess": "The verification email has been resent!",
+    "resending": "Resending...",
+    "resendButton": "Resend Verification Email",
+    "backToLogin": "Return to Login Page",
+    "footerNote": "Didn't receive the email? Check the <1>Spam</1> or <2>Junk</2> folder in your email. The verification link is valid for <3>24 hours</3>."
+  }
+}

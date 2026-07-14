@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Toetoetra",
+    "templates": "iombonana",
+    "pricing": "Pricing",
+    "login": "Hiditra",
+    "getStarted": "Manomboha",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ny mpamorona portfolio farany indrindra ho an'ny mpamorona",
+    "title1": "Amboary ny matihaninao",
+    "title2": "portfolio in",
+    "titleHighlight": "segondra.",
+    "subtitle": "Ny zavatra rehetra ilainao hanehoana ny fahaizanao, ny tetikasanao ary ny traikefanao. ",
+    "startBuilding": "Manomboka manorina izao",
+    "viewTemplates": "Jereo ny Templates",
+    "fastDeployment": "Fametrahana haingana",
+    "liveStatus": "username.dev velona!",
+    "featuresTitle": "Endri-javatra mahery vaika",
+    "featuresSubtitle": "Manome ny fitaovana rehetra ilainao izahay mba hiavaka amin'ny vahoaka ary hametraka ny asa nofinofinao.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Mandamina mora foana ny fizaranao, ny tetikasanao ary ny fahaizanao miaraka amin'ny tonian-dahatsoratra hita maso intuitive.",
+    "feature2Title": "Lohahevitra manokana",
+    "feature2Desc": "Misafidiana amin'ny maodely novolavolain'ny matihanina na mamorona endrikao manokana.",
+    "feature3Title": "Real-time Analytics",
+    "feature3Desc": "Araho ny mpitsidika anao, jereo hoe iza amin'ireo tetikasa no tena mahasarika ny saina, sy ny maro hafa."
+  },
+  "auth": {
+    "welcomeBack": "Tongasoa indray",
+    "loginToContinue": "Midira ao amin'ny kaontinao hanohy",
+    "createAccount": "Hamorona kaonty",
+    "joinCommunity": "Midira amin'ny mpamorona an'arivony hafa",
+    "fullName": "Anarana feno",
+    "fullNamePlaceholder": "oh. ",
+    "email": "Adiresy mailaka",
+    "emailPlaceholder": "you@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Tsarovy aho",
+    "forgotPassword": "Hadino ny tenimiafina?",
+    "signIn": "Hiditra",
+    "signingIn": "Miditra...",
+    "signUp": "Hiditra Mpikambana",
+    "signingUp": "Misoratra anarana...",
+    "noAccount": "Tsy manana kaonty?",
+    "hasAccount": "Efa manana kaonty?",
+    "passwordRules": {
+      "title": "Tsy maintsy misy ny tenimiafina:",
+      "length": "8 farafahakeliny",
+      "uppercase": "Litera lehibe iray (A-Z)",
+      "number": "Isa iray (0-9)",
+      "symbol": "marika iray (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Mpanamboatra portfolio",
+      "templates": "Templates & Lohahevitra",
+      "settings": "Fikirana",
+      "collapse": "Atsaharo ny Sidebar",
+      "overview": "Overview",
+      "profileSettings": "Fikirana mombamomba",
+      "customDomain": "Domain manokana",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "Jereo mivantana",
+      "welcome": "Tongasoa eto,",
+      "logout": "Hivoaka",
+      "builder": "mpanao trano",
+      "livePortfolio": "Portfolio mivantana",
+      "live": "velona"
+    },
+    "logoutModal": {
+      "title": "Hivoaka",
+      "message": "Tena te-hivoaka amin'ny kaontinao tokoa ve ianao? ",
+      "cancel": "hanafoana",
+      "confirm": "Eny, mivoaka"
+    },
+    "slugModal": {
+      "title": "Fidio ny URL portfolio-nao",
+      "message": "Ity URL ity dia ho rohy tokana mankany amin'ny portfolio-nao. ",
+      "slugPlaceholder": "ny anaranao",
+      "availability": "misy:",
+      "available": "Available",
+      "unavailable": "Tsy vonona",
+      "checking": "Manamarina...",
+      "mustFormat": "Tsy misy afa-tsy litera, isa ary tsipika (-)",
+      "cancel": "hanafoana",
+      "save": "Tehirizo ny URL",
+      "usernameUrl": "URL anarana",
+      "helpText": "Litera kely, isa ary tsipi-pitsipika. ",
+      "validation": {
+        "empty": "Tsy mety foana ny sifotra.",
+        "min3": "tarehintsoratra 3 farafahakeliny.",
+        "max30": "30 tarehintsoratra ambony indrindra.",
+        "format": "Litera kely sy isa ary tsipika (-) ihany. "
+      }
+    },
+    "loadingPortfolio": "Mametraka angona portfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Tsara maraina",
+        "afternoon": "Tsara tolakandro",
+        "evening": "Tsara tolakandro",
+        "night": "Tsara alina"
+      },
+      "welcome": {
+        "hi": "Salama,",
+        "creator": "Mpamorona",
+        "desc1": "Tongasoa eto amin'ny dashboard DevFolio. Ny portfolio-nao dia nojeren'i",
+        "desc2": "olona. Mazotoa miasa!",
+        "editPortfolio": "Ahitsio Portofolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Visitors",
+        "projectViews": "Nojerena (Tetikasa)",
+        "activeSessions": "Fivoriana mavitrika",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Fandrosoana fanamboarana",
+        "completed": "Vita ny portfolio-nao! 🎉",
+        "inProgress": "Dingana mankany amin'ny portfolio tonga lafatra.",
+        "profile": {
+          "title": "Profile feno",
+          "desc": "Ampio anarana, bio ary sary mombamomba."
+        },
+        "section": {
+          "title": "Ampio fizarana",
+          "desc": "Ampidiro fizarana 1 farafahakeliny ao amin'ny portfolio."
+        },
+        "project": {
+          "title": "Ampio tetikasa",
+          "desc": "Ampidiro farafahakeliny 1 amin'ireo tetikasanao tsara indrindra."
+        },
+        "publish": {
+          "title": "Publish Portfolio",
+          "desc": "Mametraha URL manokana mba ho azon'ny besinimaro idirana."
+        }
+      },
+      "topProjects": {
+        "title": "Tetikasa malaza indrindra",
+        "desc": "Ny fanatanterahana ny asanao eo imason'ny mpitsidika.",
+        "viewAll": "Jereo Rehetra",
+        "empty": "Tsy mbola misy angona fijerena ny tetikasanao."
+      }
+    },
+    "themes": {
+      "title": "Modely & Lohahevitra",
+      "subtitle": "Amboary ny endrika sy ny endriky ny portfolio-bahoaka.",
+      "reset": "Reset Default",
+      "save": "Save Changes",
+      "saving": "Mitahiry...",
+      "chooseTemplate": "Mifidiana môdely",
+      "primaryColor": "Loko voalohany",
+      "typography": "Typography",
+      "appearance": "Fisehoana",
+      "corners": "Zoro & sisintany",
+      "successTitle": "Fahombiazana",
+      "successMessage": "Nohavaozina soa aman-tsara ny safidin'ny lohahevitra",
+      "errorTitle": "Hadisoana",
+      "errorMessage": "Tsy voatahiry ny safidin'ny lohahevitra",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Famolavolana madio sy tsotra mifantoka amin'ny atiny."
+        },
+        "developerDark": {
+          "name": "Developer Dark",
+          "desc": "Lohahevitra maizina tonga lafatra amin'ny fampisehoana kaody sy stacks teknolojia."
+        },
+        "creative": {
+          "name": "Mamorona",
+          "desc": "Fandrindrana mavitrika sy miloko ho an'ny mpamorona sy ny mpamorona."
+        },
+        "executive": {
+          "name": "Mpanatanteraka",
+          "desc": "Famolavolana matihanina sy ofisialy ho an'ny matihanina amin'ny fandraharahana."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Famolavolana grid-style Apple maoderina izay manasongadina fahaiza-manao samihafa amin'ny fomba mahomby."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Sisiny matevina sy loko mifanohitra avo ho an'ny endrika lamaody sy tsy misy tsiny."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Fiarahan'ny fitaratra mangatsiaka amin'ny gradient miloko ho an'ny UI maoderina kanto."
+        },
+        "linkInBio": {
+          "name": "Rohy ao amin'ny bio",
+          "desc": "Ny rindran-damina mitsangana miorim-paka natao ho an'ny efijery finday sy media sosialy."
+        }
+      },
+      "appearances": {
+        "light": "Fahazavana",
+        "dark": "Maizina",
+        "system": "Rafitra"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Boribory",
+        "pill": "levitra"
+      }
+    },
+    "feedback": {
+      "title": "Alefaso ny hevitra",
+      "subtitle": "Ampio izahay hanatsara izany amin'ny fanomezana soso-kevitra, fanakianana, na mitatitra ny bibikely amin'ity fampiharana ity.",
+      "categoryLabel": "Sokajy",
+      "messageLabel": "Hafatra antsipirihan'ny",
+      "messagePlaceholder": "Lazao ahy amin'ny antsipiriany ny hevitra tianao ampitaina...",
+      "imageLabel": "Sary Attachment (Tsy voatery)",
+      "imagePlaceholder": "Tsindrio raha hampiakatra sary na pikantsary",
+      "submitting": "Mandefa...",
+      "submitBtn": "Alefaso ny hevitra",
+      "categories": {
+        "suggestion": "Soso-kevitra & Hevitra",
+        "bug": "Tatitra momba ny bug / Error",
+        "criticism": "Fanakianana",
+        "other": "Ny hafa"
+      },
+      "imageErrorTitle": "Hadisoana",
+      "imageErrorMessage": "Ny rakitra sasany dia nolavina satria tsy tohanana endrika sary (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Fahombiazana",
+      "successMessage": "Misaotra anao tamin'ny hevitrao! Nalefa ny tatitra.",
+      "submitErrorTitle": "Tsy nahomby",
+      "submitErrorMessage": "Nisy hadisoana nitranga teo am-pandefasana tamberina. Andramo indray azafady."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Momba ahy",
+      "skills": "fahaiza-manao",
+      "projects": "TETIKASA",
+      "workExperience": "Traikefa amin'ny asa",
+      "orgExperience": "Experience momba ny fandaminana",
+      "education": "FAMPIANARANA",
+      "certifications": "Fanofanana & Fanamarinana",
+      "contact": "Contact Me"
+    },
+    "editor": {
+      "profileInfo": "mombamomba ny mombamomba",
+      "saving": "Mitahiry...",
+      "profilePhoto": "Sary mombamomba",
+      "clickToUpload": "Tsindrio raha hampiditra (JPG, PNG)",
+      "fullName": "Anarana feno",
+      "fullNamePlaceholder": "oh. ",
+      "bio": "mombamomba",
+      "bioPlaceholder": "Fullstack Developer miaraka amin'ny fientanam-po amin'ny fananganana fampiharana tranonkala maoderina...",
+      "location": "Toerana",
+      "locationPlaceholder": "oh. ",
+      "gender": "lahy sy ny vavy",
+      "selectGender": "Safidio ny lahy sy ny vavy",
+      "male": "Lahy",
+      "female": "vehivavy",
+      "custom": "fanao",
+      "customPlaceholder": "Soraty ny maha-lahy na maha-vavy anao...",
+      "uploadCv": "Ampidiro ny CV",
+      "cvFormat": "(DOC na PDF)",
+      "preview": "TOPI-MASO",
+      "remove": "esory",
+      "clickToUploadCv": "Tsindrio raha hampiditra PDF na DOC",
+      "sections": "Fizarana",
+      "removeSelected": "Esory ny voafantina",
+      "confirmRemove": "Hamafiso Esory",
+      "addSection": "Ampio fizarana",
+      "addAllSections": "Ampio ny fizarana rehetra",
+      "noSections": "Tsy mbola misy fizarana",
+      "clickToAdd": "Kitiho ny \"+ Add Section\" hanombohana",
+      "selectAll": "Select All",
+      "selected": "voafantina",
+      "dragToReorder": "Tariho handamina indray ny fizarana",
+      "livePreview": "Preview mivantana",
+      "addSectionsToBuild": "Ampio fizarana hanamboarana ny portfolio-nao",
+      "now": "ankehitriny",
+      "current": "amin'izao fotoana izao",
+      "noExpiry": "Tsy misy lany daty",
+      "see": "JEREO NY",
+      "position": "Toerana",
+      "degree": "ANTONONY",
+      "certification": "Certification",
+      "sectionsForm": {
+        "about": {
+          "label": "Famaritana ny tenanao",
+          "placeholder": "Lazao anay ny momba anao, ny fiavianao, ny zavatra mahaliana anao ary ny fahaizanao..."
+        },
+        "skills": {
+          "addPlaceholder": "Soraty ny fahaizana dia tsindrio ny Enter..."
+        },
+        "projects": {
+          "title": "Anaran'ny tetikasa",
+          "titlePlaceholder": "Anaran'ny tetikasa...",
+          "url": "URL tetikasa",
+          "description": "Description",
+          "descriptionPlaceholder": "Famaritana fohy momba ny tetikasa...",
+          "uploadThumbnail": "Sary tetikasa",
+          "addProject": "Ampio tetikasa",
+          "projectNum": "Tetikasa #",
+          "currentProject": "Tetik'asa asaiko ity"
+        },
+        "work": {
+          "company": "Orinasa/Sampan-draharaha",
+          "companyPlaceholder": "Anaran'ny orinasa...",
+          "position": "Toerana/Lohateny",
+          "positionPlaceholder": "Ny toeranao...",
+          "employmentType": "Karazana asa",
+          "location": "Toerana",
+          "locationPlaceholder": "Tanàna, firenena...",
+          "startDate": "fanombohana",
+          "endDate": "vita",
+          "currentWork": "Mbola miasa aho amin'izao fotoana izao",
+          "description": "Description",
+          "descriptionPlaceholder": "Famaritana ny asa sy andraikitra...",
+          "skills": "FAHAIZANA",
+          "addExperience": "Ampio traikefa momba ny asa",
+          "experienceNum": "traikefa #",
+          "dateError": "Ny daty fiafarana dia tsy tokony ho aloha kokoa noho ny daty fanombohana"
+        },
+        "org": {
+          "organization": "Anaran'ny fikambanana",
+          "orgPlaceholder": "Oniversite BEM...",
+          "role": "Andraikitra/toerana",
+          "rolePlaceholder": "Lehiben’ny sampana...",
+          "addOrg": "Ampio traikefa momba ny fandaminana",
+          "orgNum": "Fikambanana #"
+        },
+        "edu": {
+          "institution": "Andrim-pampianarana",
+          "institutionPlaceholder": "Anaran'ny campus na sekoly...",
+          "degree": "Lohateny",
+          "degreePlaceholder": "S1, lycée, sns...",
+          "major": "Departemanta/Sahan'ny Fianarana",
+          "majorPlaceholder": "Injeniera informatika...",
+          "gpa": "GPA (tsy voatery)",
+          "currentStudy": "Mbola mianatra eto aho",
+          "descriptionPlaceholder": "Hetsika sy zava-bita nandritra ny fianarana...",
+          "addEdu": "Add Education",
+          "eduNum": "Fanabeazana #"
+        },
+        "cert": {
+          "name": "Anaran'ny Certification / Training",
+          "namePlaceholder": "Anarana fanamarinana...",
+          "issuer": "MPITORY",
+          "issuerPlaceholder": "Andrim-panontana...",
+          "issueDate": "Manomboka (Daty namoahana)",
+          "issueDatePlaceholder": "Safidio ny daty famoahana...",
+          "expiryDate": "Vita (Fe-potoana manan-kery)",
+          "expiryDatePlaceholder": "Safidio ny daty lany daty...",
+          "noExpiry": "Tsy misy daty lany daty io taratasy fanamarinana io",
+          "url": "URL fahazoan-dàlana",
+          "uploadThumbnail": "Sary fanamarinana / fanofanana",
+          "uploadThumbnailLimit": "Mampiakara sary fanamarinana (JPG/PNG/WEBP, 2MB ambony indrindra)",
+          "addCert": "Add Certification",
+          "certNum": "Fanamarinana #"
+        },
+        "contact": {
+          "contactNum": "Contact #",
+          "platform": "Platform",
+          "displayText": "Asehoy ny lahatsoratra",
+          "displayTextPlaceholder": "oh., you@email.com na @username",
+          "url": "Rohy (URL)",
+          "urlPlaceholderWhatsapp": "oh., 62812... (tsy misy mitarika 0)",
+          "urlPlaceholderEmail": "oh., you@email.com",
+          "urlPlaceholderWebsite": "ohatra, https://...",
+          "urlPlaceholderDefault": "oh., solon'anarana",
+          "addContact": "Add Contact"
+        },
+        "common": {
+          "months": {
+            "1": "Janoary",
+            "2": "février",
+            "3": "MARTSA",
+            "4": "Aprily",
+            "5": "MEY",
+            "6": "Jona",
+            "7": "JOLAY",
+            "8": "Aogositra",
+            "9": "septembre",
+            "10": "OKTOBRA",
+            "11": "Novambra",
+            "12": "Desambra"
+          },
+          "month": "VOLANA",
+          "year": "TAOM-",
+          "invalidDate": "Tsy mety ny faran'ny volana",
+          "words": "teny"
+        }
+      },
+      "sure": "Azo antoka",
+      "deletePhotoTitle": "Fafao ny sary mombamomba?",
+      "deletePhotoMessage": "Tena te-hamafa ity sarin'ny mombamomba ity ve ianao?",
+      "cancel": "hanafoana",
+      "delete": "Mamafa"
+    },
+    "cropper": {
+      "chooseBackground": "Mifidiana Background",
+      "cropPhoto": "Hetezo ny sarinao",
+      "useOriginal": "Ampiasao ny original",
+      "backgroundPresets": "Preset background",
+      "none": "tsy misy",
+      "uploadBackground": "Ampidiro ny background",
+      "cancel": "hanafoana",
+      "savePhoto": "Save Photo",
+      "zoom": "Zoom",
+      "rotationTilt": "Fihodinana & Fitongilana",
+      "resetRotation": "Avereno amin'ny 0°",
+      "center": "CENTRE",
+      "rotateLeft": "Mihodina -90°",
+      "rotateRight": "Mihodina +90°",
+      "removeBackground": "Esory ny Background",
+      "processing": "Mikarakara ny sarinao, andraso azafady..."
+    },
+    "cvPreview": {
+      "title": "CV Preview",
+      "downloadCv": "Download CV",
+      "download": "DOWNLOAD",
+      "wordCannotPreview": "Ny antontan-taratasy Word (.doc/.docx) dia tsy azo jerena ao amin'ny navigateur. ",
+      "downloadFile": "Ampidino ny rakitra CV",
+      "back": "indray",
+      "mobileMessage": "Alefaso azafady ny rakitra CV mba hijerena azy.",
+      "preview": "Preview CV",
+      "wordPreviewTitle": "Word Document Preview",
+      "wordPreviewMessage": "Ny antontan-taratasy Word (.doc/.docx) dia tsy azo jerena amin'ny navigateur. Alefaso azafady ny rakitra hijerena azy."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Manorata famaritana fohy momba ny tenanao, ny zavatra mahaliana ary ny tanjon'ny asa..."
+    },
+    "skills": {
+      "placeholder": "Soraty anarana fahaizana...",
+      "add": "hametraka",
+      "enterToAdd": "Tsindrio ny Enter raha te hanampy",
+      "noSkills": "Tsy mbola nisy fahaizana nampiana."
+    },
+    "projects": {
+      "projectName": "Anaran'ny tetikasa",
+      "projectNamePlaceholder": "oh. ",
+      "projectUrl": "URL tetikasa",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Faharetana",
+      "startMonth": "Volana fanombohana",
+      "startYear": "Taona fanombohana",
+      "endMonth": "faran'ny volana",
+      "endYear": "faran'ny taona",
+      "currentlyWorking": "Miasa amin'izao fotoana izao",
+      "description": "Description",
+      "descriptionPlaceholder": "Farito ny tetikasa, ny anjara asanao ary ny zava-bita...",
+      "technologies": "Teknolojia ampiasaina",
+      "addProject": "Ampio tetikasa",
+      "image": "Sary tetikasa",
+      "removeImage": "Esory ny sary",
+      "uploadImage": "Kitiho raha te hampiditra sary"
+    },
+    "work": {
+      "company": "Orinasa/Institut",
+      "companyPlaceholder": "Anaran'ny orinasa...",
+      "role": "Andraikitra/toerana",
+      "rolePlaceholder": "Ny toeranao...",
+      "jobType": "Karazana asa",
+      "selectJobType": "Mifidiana karazana",
+      "fullTime": "Fotoana feno",
+      "partTime": "Tapak'andro",
+      "contract": "fifanarahana",
+      "internship": "Internship",
+      "freelance": "mahaleotena",
+      "location": "Toerana",
+      "locationPlaceholder": "oh. ",
+      "duration": "Faharetana",
+      "currentlyWorking": "Miasa eto amin'izao fotoana izao",
+      "description": "Famariparitana ny asa",
+      "descriptionPlaceholder": "Farito ny andraikitrao lehibe sy ny zava-bitanao...",
+      "skills": "Fahaizana manokana",
+      "addExperience": "Ampio traikefa"
+    },
+    "org": {
+      "organization": "Anaran'ny fikambanana",
+      "organizationPlaceholder": "Anaran'ny fikambanana...",
+      "role": "Andraikitra/toerana",
+      "rolePlaceholder": "oh. ",
+      "duration": "Faharetana",
+      "periodFormat": "na endrika maimaim-poana (oh. 2020 - 2022)",
+      "periodPlaceholder": "oh. ",
+      "currentlyActive": "Mavitrika amin'izao fotoana izao",
+      "description": "Famariparitana hetsika",
+      "descriptionPlaceholder": "Lazao ny hetsika na ny fandraisanao anjara...",
+      "addExperience": "Ampio traikefa"
+    },
+    "education": {
+      "institution": "Anaran'ny andrim-panjakana",
+      "institutionPlaceholder": "Anaran'ny sekoly na oniversite...",
+      "degree": "Diplaoma/Ambaratonga",
+      "degreePlaceholder": "oh. ",
+      "major": "Lehibe/Sehatra fianarana",
+      "majorPlaceholder": "oh. ",
+      "gpa": "GPA / naoty",
+      "gpaPlaceholder": "oh. ",
+      "duration": "Faharetan'ny fampianarana",
+      "periodFormat": "na endrika maimaim-poana (oh. 2018 - 2022)",
+      "periodPlaceholder": "oh. ",
+      "currentlyStudying": "Mianatra eto izao",
+      "description": "Hetsika / Voninahitra",
+      "descriptionPlaceholder": "Farito ny hetsika akademika, fikambanana, na voninahitra azo...",
+      "addEducation": "Add Education"
+    },
+    "cert": {
+      "name": "Anarana fanamarinana",
+      "namePlaceholder": "oh. ",
+      "issuer": "Fikambanana namoaka",
+      "issuerPlaceholder": "oh. ",
+      "issueDate": "Daty namoahana",
+      "expiryDate": "Manan-kery hatramin'ny",
+      "noExpiry": "Tsy lany daty io fahazoan-dàlana io",
+      "yearPlaceholder": "na Taona (oh. 2023)",
+      "credentialUrl": "URL fahazoan-dàlana",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Fahaizana mifandraika",
+      "addCertification": "Add Certification",
+      "image": "Sary/Logo",
+      "removeImage": "Esory ny sary",
+      "uploadImage": "Kitiho raha te hampiditra sary"
+    },
+    "common": {
+      "months": {
+        "1": "Janoary",
+        "2": "février",
+        "3": "MARTSA",
+        "4": "Aprily",
+        "5": "MEY",
+        "6": "Jona",
+        "7": "JOLAY",
+        "8": "Aogositra",
+        "9": "septembre",
+        "10": "OKTOBRA",
+        "11": "Novambra",
+        "12": "Desambra"
+      },
+      "month": "VOLANA",
+      "year": "TAOM-",
+      "invalidDate": "Tsy mety ny faran'ny volana",
+      "words": "teny"
+    }
+  },
+  "settings": {
+    "title": "Fikirana",
+    "subtitle": "Tantano ny mombamomba ny portfolio-nao sy ny safidinao",
+    "tabs": {
+      "profile": "Ny mombamomba ahy",
+      "security": "ARO",
+      "personalization": "Personalization"
+    },
+    "profile": {
+      "infoTitle": "Fampahalalana fototra",
+      "photo": "Sary mombamomba",
+      "uploadPhoto": "Hanova sary",
+      "fullName": "Anarana feno",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adiresy mailaka",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Ny mailaka dia ampiasaina amin'ny fidirana ary tsy aseho ampahibemaso.",
+      "portfolioUrl": "URL portfolio",
+      "saveProfile": "Save Profile",
+      "save": "Save Profile",
+      "accountCreated": "Kaonty noforonina",
+      "lastLogin": "Login farany",
+      "oauthNotice": "Ity mombamomba ity dia mifandray amin'ny kaontinao {{provider}}. Ny fanovana ny mombamomba dia tsy maintsy atao amin'ny alàlan'ny mpanome tolotra."
+    },
+    "security": {
+      "changePassword": "Hanova tenimiafina",
+      "currentPassword": "Tenimiafina ankehitriny",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Tenimiafina vaovao",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Hamafiso ny tenimiafina vaovao",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "8 farafahakeliny",
+        "uppercase": "Litera lehibe iray (A-Z)",
+        "number": "Isa iray (0-9)",
+        "symbol": "marika iray (!@#$%^&*)"
+      },
+      "passwordTitle": "Password",
+      "updatePassword": "Fanavaozana ny tenimiafina",
+      "additionalSecurity": "Fiarovana fanampiny",
+      "twoFactor": "Fanamarinana roa lafin-javatra (2FA)",
+      "twoFactorDesc": "Arovy ny kaontinao amin'ny fampiasana kaody OTP fanampiny.",
+      "activeSessions": "Sessions mavitrika",
+      "activeSessionsDesc": "Avelao foana ny fanaraha-maso ireo fitaovana miditra.",
+      "publicVisibility": "Fahitana ampahibemaso",
+      "hideFromSearch": "Afeno ny Portfolio amin'ny Search Engines",
+      "hideFromSearchDesc": "Sakano ny Google tsy hanisy marika ny pejin'ny portfolio-nao.",
+      "disable2fa": {
+        "title": "Atsaharo ny 2FA",
+        "description": "Tena tianao ve ny hamono ny fanamarinana misy anton-javatra roa?",
+        "confirmPasswordLabel": "Ampidiro ny tenimiafinao hanamarina",
+        "currentPasswordPlaceholder": "Tenimiafina ankehitriny",
+        "cancelButton": "Manafoana",
+        "confirmButton": "Atsaharo ny 2FA",
+        "incorrectPassword": "Diso tenimiafina."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code",
+        "step1Desc": "Sokafy ny fampiharana authenticator anao ary diniho ity kaody QR manaraka ity:",
+        "unableToScan": "Tsy afaka mi-scan? Ampiasao ny fanalahidin'ny setup",
+        "step2Title": "2. Hamarino ny Kaody",
+        "step2Desc": "Ampidiro ny kaody 6 isa novokarin'ny fampiharanao:",
+        "cancelButton": "hanafoana",
+        "enableButton": "Alefaso ny 2FA",
+        "invalidLength": "Ampidiro kaody 6 isa azafady.",
+        "invalidCode": "Kaody fanamarinana tsy mety. Andramo indray azafady."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Fifehezana fiteny",
+      "appLanguage": "App Language",
+      "layoutTitle": "Layout & Typography",
+      "layoutStyle": "Layout Style",
+      "layoutModern": "Fomba maoderina (Default)",
+      "layoutClassic": "Classic Style",
+      "layoutMinimalist": "Minimalist Style",
+      "fontSize": "Haben'ny endritsoratra App",
+      "fontSmall": "KELY",
+      "fontNormal": "Normal (Salantsalany)",
+      "fontLarge": "ankamaroan'ireo",
+      "searchLanguage": "Fiteny fikarohana...",
+      "languageNotFound": "Fiteny tsy hita",
+      "layoutElegant": "Style kanto"
+    },
+    "saveChanges": "Save Changes",
+    "cancel": "hanafoana",
+    "appSettings": "App Settings",
+    "logoutConfirmTitle": "Hamafiso ny fivoahana",
+    "logoutConfirmDesc": "Tena te-hivoaka amin'ny rafitra ve ianao?",
+    "logoutConfirmYes": "Eny, mivoaka",
+    "generalError": "Nisy hadisoana nitranga. ",
+    "success": "FETY",
+    "preferencesSaved": "Voatahiry soa aman-tsara ny safidin'ny fampiharana.",
+    "header": "Fametrahana fampiharana",
+    "logout": {
+      "title": "Logout Confirmation",
+      "message": "Tena te-hivoaka amin'ny rafitra ve ianao?",
+      "confirm": "Eny, mivoaka"
+    },
+    "about": {
+      "title": "Momba ny Application",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "Malagasy Bible",
+      "description": "DevFolio dia sehatra fananganana portfolio maoderina natao ho an'ny mpamorona, mpamorona ary mpamorona matihanina. ",
+      "license": "Fahazoan-dàlana & Zon'ny mpamorona",
+      "copyright": "© 2026 DevFolio Inc. Zo rehetra voatokana.",
+      "developer": "Developer",
+      "developedBy": "Novolavolain'i Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Famafana Maharitra Kaonty",
+      "menuItem": "Fafao ny kaonty",
+      "successTitle": "Fahombiazana",
+      "successMessage": "Nisy mailaka fanamafisana famafana kaonty nalefa.",
+      "errorTitle": "Tsy nahomby",
+      "errorMessage": "Tsy nahavita nandefa mailaka fanamafisana.",
+      "confirmationMessage": "Tena te-hamafa tanteraka ny kaontinao ve ianao?",
+      "warningMessage1": "Hahazo mailaka ianao hanamafisana ny famafana ny kaonty.",
+      "warningMessage2": "Raha voamarina dia ho voafafa tanteraka ny angona rehetra (portofolio, tetikasa, antontan'isa) ary tsy azo averina.",
+      "cancel": "Manafoana",
+      "confirm": "ny fandraisana ho mpikambana"
+    },
+    "toasts": {
+      "toastError": "fahadisoana",
+      "toastSuccess": "FETY",
+      "toastSetup2FAFailed": "Tsy nahomby ny fametrahana 2FA. Andramo indray azafady.",
+      "toast2FAEnabled": "Nalefa ny fanamarinana roa lafin-javatra.",
+      "toast2FADisabled": "Nesorina ny fanamarinana roa anton-javatra.",
+      "toastSessionEnabled": "Nalefa ny fanaraha-maso fivoriana mavitrika.",
+      "toastSessionDisabled": "Tsy mandeha ny fanaraha-maso ny session active.",
+      "toastSetupKeyCopied": "Ny fanalahidin'ny fametrahana dia nadika ho amin'ny solaitrabe."
+    },
+    "privacy": {
+      "title": "politika fiarovana fiainan'olona",
+      "updateDate": "Nohavaozina farany: 15 Jolay 2026",
+      "intro": "Ity Politika momba ny fiainana manokana ity dia manazava ny fomba fanangonana sy fampiasana ary fiarovana ny mombamomba anao manokana i DevFolio rehefa mampiasa ny serivisintsika.",
+      "section1Title": "1. Fampahalalana Angoninay",
+      "section1Content": "Manangona fampahalalana omenao mivantana izahay rehefa mamorona kaonty, manangana portfolio, ary mifandray amin'ny fanohananay. ",
+      "section2Title": "2. Fampiasana vaovao",
+      "section2Content": "Ny mombamomba anao dia ampiasaina amin'ny fampandehanana, fikojakojana, ary fanomezana ny endrik'ireo serivisinay, ary koa hifandraisana aminao momba ny kaontinao na serivisy.",
+      "section3Title": "3. Data Security",
+      "section3Content": "Manatanteraka fepetra fiarovana azo antoka izahay mba hiarovana ny mombamomba anao amin'ny fidirana tsy nahazoana alalana, fampahafantarana na fandravana."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Tsy hita ny mari-pamantarana fanamafisana.",
+    "defaultError": "Tsy voafafa ny kaonty. Mety ho lany daty ny token.",
+    "loadingTitle": "Famafana kaonty...",
+    "loadingMessage": "Andraso azafady, mikarakara ny fangatahanao izahay.",
+    "successTitle": "Voafafa soa aman-tsara ny kaonty",
+    "successMessage": "Voafafa tanteraka ny angonao rehetra. Havitrika ianao...",
+    "errorTitle": "Tsy nahomby ny famafana kaonty",
+    "backToHome": "Miverena any an-trano"
+  },
+  "forgotPassword": {
+    "minutes": "minitra",
+    "seconds": "segondra",
+    "success": "Fahombiazana",
+    "otpSentToEmail": "Nisy kaody OTP nalefa tany amin'ny mailakao.",
+    "failed": "Tsy nahomby",
+    "emailNotFound": "Tsy hita ny mailaka.",
+    "emailThirdParty": "Ity mailaka ity dia voasoratra amin'ny alàlan'ny antoko fahatelo.",
+    "genericError": "Misy lesoka. Andramo indray azafady.",
+    "otpVerified": "Nohamarinina soa aman-tsara ny kaody OTP.",
+    "otpExpired": "Lany daty ny kaody OTP. Mangataha kaody vaovao azafady.",
+    "otpInvalid": "Kaody OTP tsy mety.",
+    "otpResent": "Nisy kaody OTP vaovao nalefa tany amin'ny mailakao.",
+    "otpResendFailed": "Tsy nahavita namerina ny kaody OTP. Andramo indray azafady.",
+    "passwordResetSuccess": "Naverina soa aman-tsara ny tenimiafina. Midira miaraka amin'ny tenimiafinao vaovao azafady.",
+    "passwordResetFailed": "Tsy nahavita namerina ny tenimiafina.",
+    "backToLogin": "Miverena amin'ny fidirana",
+    "back": "Miverina",
+    "title": "Nanadino tenimiafina",
+    "description": "Ampidiro ny adiresy mailaka voasoratra ao amin'ny kaontinao. Handefa kaody OTP izahay hamerenana ny tenimiafina.",
+    "emailLabel": "Adiresy mailaka",
+    "sending": "Mandefa...",
+    "sendOtp": "Alefaso OTP Code",
+    "verifyOtpTitle": "Hamarino ny OTP Code",
+    "verifyOtpDesc": "Ampidiro ny kaody 6 isa izay nalefa tamin'ny mailakao mba hanamafisana ny maha-izy anao.",
+    "verifying": "Manamarina...",
+    "verifyOtp": "Hamarino ny OTP",
+    "resending": "Mandefa indray...",
+    "resendOtp": "Alefaso indray ny OTP Code",
+    "resendCodeIn": "Alefaso indray ny code amin'ny",
+    "newPasswordTitle": "Mamorona tenimiafina vaovao",
+    "newPasswordDesc": "Mamorona tenimiafina vaovao matanjaka mba hiarovana ny kaontinao.",
+    "newPasswordLabel": "Tenimiafina vaovao",
+    "min8Chars": "tarehintsoratra 8 farafahakeliny",
+    "oneUpperCase": "1 lehibe (A-Z)",
+    "oneNumber": "1 isa (0-9)",
+    "oneSymbol": "marika 1 (!@#$%^&*)",
+    "confirmPasswordLabel": "Hamafiso ny tenimiafina",
+    "passwordsDoNotMatch": "Tsy mifanentana ny tenimiafina.",
+    "resettingPassword": "Mamerina ny tenimiafina...",
+    "resetPassword": "Avereno ny tenimiafina"
+  },
+  "verifyEmail": {
+    "resendError": "Tsy nahomby ny fandefasana mailaka fanamarinana. Andramo indray azafady.",
+    "checkingStatus": "Mijery ny sata fanamarinana...",
+    "title": "Jereo ny mailakao",
+    "description": "Nandefa mailaka fanamarinana ny adiresy mailakao izahay. Sokafy azafady ny mailaka ary tsindrio ny bokotra <1>\"Hamarino ny kaonty\"</1> mba hampavitrika ny kaontinao.",
+    "stepsTitle": "Dingana",
+    "step1": "Sokafy ny fampiharana mailaka (Gmail, Yahoo, sns)",
+    "step2": "Mitadiava mailaka avy amin'ny DevFolio miaraka amin'ny loha-hevitra \"Account Activation\"",
+    "step3": "Tsindrio ny bokotra \"Hamarino ny kaonty\" ao amin'ny mailaka",
+    "step4": "Hotarihina any amin'ny pejy fidirana ianao hiditra",
+    "resendSuccess": "Naverina ny mailaka fanamarinana!",
+    "resending": "Mandefa indray...",
+    "resendButton": "Alefaso indray ny mailaka fanamarinana",
+    "backToLogin": "Miverena amin'ny pejy fidirana",
+    "footerNote": "Tsy naharay ny mailaka? Jereo ny fampirimana <1>Spam</1> na <2>Junk</2> ao amin'ny mailakao. Ny rohy fanamarinana dia manan-kery mandritra ny <3>24 ora</3>."
+  }
+}

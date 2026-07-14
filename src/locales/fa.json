@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "ویژگی ها",
+    "templates": "قالب ها",
+    "pricing": "قیمت گذاری",
+    "login": "وارد شوید",
+    "getStarted": "شروع کنید",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "سبد ساز نهایی برای توسعه دهندگان",
+    "title1": "حرفه ای خود را بسازید",
+    "title2": "نمونه کارها در",
+    "titleHighlight": "ثانیه",
+    "subtitle": "همه چیزهایی که برای نشان دادن مهارت ها، پروژه ها و تجربیات خود نیاز دارید. ",
+    "startBuilding": "اکنون ساختن را شروع کنید",
+    "viewTemplates": "مشاهده الگوها",
+    "fastDeployment": "استقرار سریع",
+    "liveStatus": "username.dev زنده است!",
+    "featuresTitle": "ویژگی های قدرتمند",
+    "featuresSubtitle": "ما تمام ابزارهایی را که برای متمایز شدن از دیگران و رسیدن به شغل رویایی خود نیاز دارید، در اختیار شما قرار می دهیم.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "با ویرایشگر بصری بصری ما، بخش ها، پروژه ها و مهارت های خود را به راحتی سازماندهی کنید.",
+    "feature2Title": "تم های سفارشی",
+    "feature2Desc": "از بین قالب های حرفه ای طراحی شده انتخاب کنید یا ظاهر منحصر به فرد خود را ایجاد کنید.",
+    "feature3Title": "تجزیه و تحلیل زمان واقعی",
+    "feature3Desc": "بازدیدکنندگان خود را ردیابی کنید، ببینید کدام پروژه ها بیشتر مورد توجه قرار می گیرند و موارد دیگر."
+  },
+  "auth": {
+    "welcomeBack": "خوش آمدید بازگشت",
+    "loginToContinue": "برای ادامه وارد حساب کاربری خود شوید",
+    "createAccount": "ایجاد حساب کاربری",
+    "joinCommunity": "به هزاران توسعه دهنده دیگر بپیوندید",
+    "fullName": "نام کامل",
+    "fullNamePlaceholder": "به عنوان مثال ",
+    "email": "آدرس ایمیل",
+    "emailPlaceholder": "you@example.com",
+    "password": "رمز عبور",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "مرا به خاطر بسپار",
+    "forgotPassword": "رمز عبور را فراموش کرده اید؟",
+    "signIn": "وارد شوید",
+    "signingIn": "ورود به سیستم...",
+    "signUp": "ثبت نام کنید",
+    "signingUp": "ثبت نام...",
+    "noAccount": "حساب کاربری ندارید؟",
+    "hasAccount": "از قبل حساب کاربری دارید؟",
+    "passwordRules": {
+      "title": "رمز عبور باید حاوی:",
+      "length": "حداقل 8 کاراکتر",
+      "uppercase": "یک حرف بزرگ (A-Z)",
+      "number": "یک عدد (0-9)",
+      "symbol": "یک نماد (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "نمونه کارها",
+      "templates": "قالب ها و تم ها",
+      "settings": "تنظیمات",
+      "collapse": "کوچک کردن نوار کناری",
+      "overview": "نمای کلی",
+      "profileSettings": "تنظیمات پروفایل",
+      "customDomain": "دامنه سفارشی",
+      "feedback": "بازخورد"
+    },
+    "header": {
+      "viewLive": "مشاهده زنده",
+      "welcome": "خوش آمدید،",
+      "logout": "خروج از سیستم",
+      "builder": "سازنده",
+      "livePortfolio": "نمونه کارها زنده",
+      "live": "زندگی کنید"
+    },
+    "logoutModal": {
+      "title": "خروج از سیستم",
+      "message": "آیا مطمئن هستید که می خواهید از حساب خود خارج شوید؟ ",
+      "cancel": "لغو کنید",
+      "confirm": "بله، خروج"
+    },
+    "slugModal": {
+      "title": "URL نمونه کار خود را انتخاب کنید",
+      "message": "این URL لینک منحصر به فرد نمونه کار شما خواهد بود. ",
+      "slugPlaceholder": "نام شما",
+      "availability": "در دسترس بودن:",
+      "available": "موجود است",
+      "unavailable": "در دسترس نیست",
+      "checking": "در حال بررسی...",
+      "mustFormat": "فقط می تواند شامل حروف، اعداد و خط تیره باشد (-)",
+      "cancel": "لغو کنید",
+      "save": "ذخیره URL",
+      "usernameUrl": "آدرس نام کاربری",
+      "helpText": "حروف کوچک، اعداد و خط تیره. ",
+      "validation": {
+        "empty": "Slug نمی تواند خالی باشد.",
+        "min3": "حداقل 3 کاراکتر",
+        "max30": "حداکثر 30 کاراکتر",
+        "format": "فقط حروف کوچک، اعداد و خط تیره (-). "
+      }
+    },
+    "loadingPortfolio": "در حال بارگیری داده های نمونه کارها...",
+    "overview": {
+      "greetings": {
+        "morning": "صبح بخیر",
+        "afternoon": "ظهر بخیر",
+        "evening": "ظهر بخیر",
+        "night": "شب بخیر"
+      },
+      "welcome": {
+        "hi": "سلام",
+        "creator": "خالق",
+        "desc1": "به داشبورد DevFolio خوش آمدید. نمونه کارها شما توسط",
+        "desc2": "شخص به کار خود ادامه دهید!",
+        "editPortfolio": "ویرایش نمونه کارها"
+      },
+      "stats": {
+        "totalVisitors": "کل بازدیدکنندگان",
+        "projectViews": "مشاهده شده (پروژه)",
+        "activeSessions": "جلسه فعال",
+        "totalLabel": "مجموع"
+      },
+      "setup": {
+        "title": "پیشرفت راه اندازی",
+        "completed": "نمونه کارها شما کامل است! 🎉",
+        "inProgress": "مراحل رسیدن به نمونه کارها عالی",
+        "profile": {
+          "title": "نمایه کامل",
+          "desc": "نام، بیوگرافی و عکس پروفایل را اضافه کنید."
+        },
+        "section": {
+          "title": "افزودن بخش ها",
+          "desc": "حداقل 1 بخش در نمونه کارها را فعال کنید."
+        },
+        "project": {
+          "title": "اضافه کردن پروژه",
+          "desc": "حداقل 1 مورد از بهترین پروژه های خود را وارد کنید."
+        },
+        "publish": {
+          "title": "انتشار نمونه کارها",
+          "desc": "یک URL سفارشی تنظیم کنید تا برای عموم قابل دسترسی باشد."
+        }
+      },
+      "topProjects": {
+        "title": "محبوب ترین پروژه ها",
+        "desc": "عملکرد کار شما از دید بازدیدکنندگان.",
+        "viewAll": "مشاهده همه",
+        "empty": "هنوز هیچ داده نمایشی برای پروژه شما وجود ندارد."
+      }
+    },
+    "themes": {
+      "title": "قالب ها و تم ها",
+      "subtitle": "ظاهر و احساس پورتفولیوی عمومی خود را سفارشی کنید.",
+      "reset": "تنظیم مجدد پیش فرض",
+      "save": "ذخیره تغییرات",
+      "saving": "ذخیره...",
+      "chooseTemplate": "یک الگو انتخاب کنید",
+      "primaryColor": "رنگ اصلی",
+      "typography": "تایپوگرافی",
+      "appearance": "ظاهر",
+      "corners": "گوشه ها و مرزها",
+      "successTitle": "موفقیت",
+      "successMessage": "تنظیمات برگزیده تم با موفقیت به روز شد",
+      "errorTitle": "خطا",
+      "errorMessage": "تنظیمات برگزیده تم ذخیره نشد",
+      "templates": {
+        "minimalist": {
+          "name": "مینیمالیست",
+          "desc": "طراحی تمیز و ساده با تمرکز بر محتوا."
+        },
+        "developerDark": {
+          "name": "توسعه دهنده Dark",
+          "desc": "تم تیره برای نمایش کدها و پشته های فناوری عالی است."
+        },
+        "creative": {
+          "name": "خلاق",
+          "desc": "چیدمان پر جنب و جوش و رنگارنگ برای طراحان و خلاقان."
+        },
+        "executive": {
+          "name": "اجرایی",
+          "desc": "چیدمان حرفه ای و رسمی برای حرفه ای های کسب و کار."
+        },
+        "bentoGrid": {
+          "name": "بنتو گرید",
+          "desc": "چیدمان شبکه ای مدرن به سبک اپل که مهارت های مختلف را به طور موثر برجسته می کند."
+        },
+        "neoBrutalism": {
+          "name": "نئوبروتالیسم",
+          "desc": "حاشیه‌های پررنگ و رنگ‌های کنتراست بالا برای ظاهری شیک و بدون عذرخواهی."
+        },
+        "glassmorphism": {
+          "name": "شکل شیشه ای",
+          "desc": "جلوه‌های شیشه‌ای مات بر روی شیب‌های رنگارنگ برای یک رابط کاربری مدرن براق."
+        },
+        "linkInBio": {
+          "name": "لینک در بیو",
+          "desc": "طرح عمودی فشرده بهینه شده برای صفحه نمایش موبایل و رسانه های اجتماعی."
+        }
+      },
+      "appearances": {
+        "light": "نور",
+        "dark": "تاریک",
+        "system": "سیستم"
+      },
+      "cornersOptions": {
+        "sharp": "شارپ",
+        "rounded": "گرد",
+        "pill": "قرص"
+      }
+    },
+    "feedback": {
+      "title": "ارسال بازخورد",
+      "subtitle": "با ارائه پیشنهادات، انتقاد یا گزارش اشکالات در این برنامه به ما کمک کنید تا آن را بهتر کنیم.",
+      "categoryLabel": "دسته بازخورد",
+      "messageLabel": "جزئیات پیام",
+      "messagePlaceholder": "درباره بازخوردی که می خواهید به من بگویید با جزئیات بگویید...",
+      "imageLabel": "پیوست تصویر (اختیاری)",
+      "imagePlaceholder": "برای آپلود تصویر یا اسکرین شات کلیک کنید",
+      "submitting": "ارسال...",
+      "submitBtn": "ارسال بازخورد",
+      "categories": {
+        "suggestion": "پیشنهادات و ایده ها",
+        "bug": "گزارش اشکال / خطا",
+        "criticism": "انتقاد",
+        "other": "دیگران"
+      },
+      "imageErrorTitle": "خطا",
+      "imageErrorMessage": "برخی از فایل‌ها به دلیل عدم پشتیبانی از فرمت‌های تصویر (JPG، PNG، GIF، WEBP) رد می‌شوند",
+      "successTitle": "موفقیت",
+      "successMessage": "با تشکر از شما برای بازخورد شما! گزارش ارسال شد",
+      "submitErrorTitle": "ناموفق",
+      "submitErrorMessage": "هنگام ارسال بازخورد خطایی روی داد. لطفا دوباره امتحان کنید."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "درباره من",
+      "skills": "مهارت ها",
+      "projects": "پروژه ها",
+      "workExperience": "تجربه کاری",
+      "orgExperience": "تجربه سازمانی",
+      "education": "آموزش و پرورش",
+      "certifications": "آموزش و گواهینامه ها",
+      "contact": "با من تماس بگیرید"
+    },
+    "editor": {
+      "profileInfo": "اطلاعات نمایه",
+      "saving": "در حال ذخیره...",
+      "profilePhoto": "عکس پروفایل",
+      "clickToUpload": "برای آپلود کلیک کنید (JPG، PNG)",
+      "fullName": "نام کامل",
+      "fullNamePlaceholder": "به عنوان مثال ",
+      "bio": "بیوگرافی",
+      "bioPlaceholder": "برنامه نویس Fullstack با علاقه به ساخت برنامه های وب مدرن...",
+      "location": "مکان",
+      "locationPlaceholder": "به عنوان مثال ",
+      "gender": "جنسیت",
+      "selectGender": "جنسیت را انتخاب کنید",
+      "male": "مرد",
+      "female": "زن",
+      "custom": "سفارشی",
+      "customPlaceholder": "جنسیت دلخواه خود را تایپ کنید...",
+      "uploadCv": "آپلود CV",
+      "cvFormat": "(DOC یا PDF)",
+      "preview": "پیش نمایش",
+      "remove": "حذف کنید",
+      "clickToUploadCv": "برای آپلود PDF یا DOC کلیک کنید",
+      "sections": "بخش ها",
+      "removeSelected": "حذف انتخاب شده",
+      "confirmRemove": "حذف را تایید کنید",
+      "addSection": "افزودن بخش",
+      "addAllSections": "همه بخش ها را اضافه کنید",
+      "noSections": "هنوز هیچ بخش وجود ندارد",
+      "clickToAdd": "برای شروع روی \"+ افزودن بخش\" کلیک کنید",
+      "selectAll": "همه را انتخاب کنید",
+      "selected": "انتخاب شده است",
+      "dragToReorder": "برای ترتیب دادن مجدد بخش ها را بکشید",
+      "livePreview": "پیش نمایش زنده",
+      "addSectionsToBuild": "برای ساخت نمونه کارها بخش هایی را اضافه کنید",
+      "now": "در حال حاضر",
+      "current": "فعلی",
+      "noExpiry": "بدون انقضا",
+      "see": "ببینید",
+      "position": "موقعیت",
+      "degree": "مدرک",
+      "certification": "گواهینامه",
+      "sectionsForm": {
+        "about": {
+          "label": "توصیف خودت",
+          "placeholder": "از خودتان، سوابق، علایق و مهارت‌هایتان بگویید..."
+        },
+        "skills": {
+          "addPlaceholder": "skill را تایپ کنید سپس Enter را فشار دهید..."
+        },
+        "projects": {
+          "title": "نام پروژه",
+          "titlePlaceholder": "نام پروژه ...",
+          "url": "آدرس پروژه",
+          "description": "توضیحات",
+          "descriptionPlaceholder": "شرح مختصری از پروژه ...",
+          "uploadThumbnail": "تصویر پروژه",
+          "addProject": "اضافه کردن پروژه",
+          "projectNum": "پروژه #",
+          "currentProject": "این پروژه ای است که من روی آن کار می کنم"
+        },
+        "work": {
+          "company": "شرکت / نمایندگی",
+          "companyPlaceholder": "نام شرکت ...",
+          "position": "سمت/عنوان",
+          "positionPlaceholder": "موقعیت شما...",
+          "employmentType": "نوع کار",
+          "location": "مکان",
+          "locationPlaceholder": "شهر، کشور ...",
+          "startDate": "شروع کنید",
+          "endDate": "تمام شد",
+          "currentWork": "من در حال حاضر هنوز کار می کنم",
+          "description": "توضیحات",
+          "descriptionPlaceholder": "شرح شغل و مسئولیت ...",
+          "skills": "مهارت",
+          "addExperience": "اضافه کردن تجربه کاری",
+          "experienceNum": "تجربه #",
+          "dateError": "تاریخ پایان نمی تواند زودتر از تاریخ شروع باشد"
+        },
+        "org": {
+          "organization": "نام سازمان",
+          "orgPlaceholder": "دانشگاه بی ام...",
+          "role": "نقش / موقعیت",
+          "rolePlaceholder": "رئیس بخش ...",
+          "addOrg": "اضافه کردن تجربه سازمانی",
+          "orgNum": "سازمان #"
+        },
+        "edu": {
+          "institution": "مؤسسات آموزشی",
+          "institutionPlaceholder": "نام دانشگاه یا مدرسه ...",
+          "degree": "عنوان",
+          "degreePlaceholder": "S1، دبیرستان و غیره ...",
+          "major": "گروه / رشته تحصیلی",
+          "majorPlaceholder": "مهندسی انفورماتیک ...",
+          "gpa": "معدل (اختیاری)",
+          "currentStudy": "من هنوز اینجا دارم یاد میگیرم",
+          "descriptionPlaceholder": "فعالیت ها و دستاوردهای دوران تحصیل ...",
+          "addEdu": "آموزش را اضافه کنید",
+          "eduNum": "تحصیلات #"
+        },
+        "cert": {
+          "name": "نام گواهینامه / آموزش",
+          "namePlaceholder": "نام گواهی ...",
+          "issuer": "ناشر",
+          "issuerPlaceholder": "موسسه انتشارات ...",
+          "issueDate": "شروع (تاریخ انتشار)",
+          "issueDatePlaceholder": "انتخاب تاریخ انتشار...",
+          "expiryDate": "تکمیل شده (دوره معتبر)",
+          "expiryDatePlaceholder": "انتخاب تاریخ انقضا...",
+          "noExpiry": "این گواهی تاریخ انقضا ندارد",
+          "url": "URL اعتبار",
+          "uploadThumbnail": "گواهینامه / تصویر آموزشی",
+          "uploadThumbnailLimit": "آپلود تصویر گواهی (JPG/PNG/WEBP، حداکثر 2 مگابایت)",
+          "addCert": "اضافه کردن گواهینامه",
+          "certNum": "گواهینامه #"
+        },
+        "contact": {
+          "contactNum": "شماره تماس",
+          "platform": "پلت فرم",
+          "displayText": "نمایش متن",
+          "displayTextPlaceholder": "به عنوان مثال، you@email.com یا @username",
+          "url": "پیوند (URL)",
+          "urlPlaceholderWhatsapp": "به عنوان مثال، 62812... (بدون 0 صفحه اول)",
+          "urlPlaceholderEmail": "به عنوان مثال، you@email.com",
+          "urlPlaceholderWebsite": "به عنوان مثال، https://...",
+          "urlPlaceholderDefault": "به عنوان مثال، نام کاربری",
+          "addContact": "افزودن مخاطب"
+        },
+        "common": {
+          "months": {
+            "1": "ژانویه",
+            "2": "فوریه",
+            "3": "مارس",
+            "4": "آوریل",
+            "5": "می",
+            "6": "ژوئن",
+            "7": "جولای",
+            "8": "مرداد",
+            "9": "سپتامبر",
+            "10": "اکتبر",
+            "11": "نوامبر",
+            "12": "دسامبر"
+          },
+          "month": "ماه",
+          "year": "سال",
+          "invalidDate": "ماه پایان نامعتبر است",
+          "words": "کلمات"
+        }
+      },
+      "sure": "مطمئنا",
+      "deletePhotoTitle": "عکس نمایه حذف شود؟",
+      "deletePhotoMessage": "آیا مطمئن هستید که می خواهید این عکس نمایه را حذف کنید؟",
+      "cancel": "لغو کنید",
+      "delete": "حذف کنید"
+    },
+    "cropper": {
+      "chooseBackground": "پس زمینه را انتخاب کنید",
+      "cropPhoto": "عکس خود را برش دهید",
+      "useOriginal": "از اورجینال استفاده کنید",
+      "backgroundPresets": "تنظیمات پیش‌زمینه",
+      "none": "هیچ کدام",
+      "uploadBackground": "آپلود پس زمینه",
+      "cancel": "لغو کنید",
+      "savePhoto": "ذخیره عکس",
+      "zoom": "بزرگنمایی ضربه بزنید؛",
+      "rotationTilt": "چرخش و شیب",
+      "resetRotation": "تنظیم مجدد به 0 درجه",
+      "center": "مرکز",
+      "rotateLeft": "چرخش -90 درجه",
+      "rotateRight": "چرخش +90 درجه",
+      "removeBackground": "حذف پس زمینه",
+      "processing": "در حال پردازش تصویر شما، لطفا صبر کنید..."
+    },
+    "cvPreview": {
+      "title": "پیش نمایش CV",
+      "downloadCv": "دانلود CV",
+      "download": "دانلود کنید",
+      "wordCannotPreview": "اسناد Word (.doc/.docx) را نمی توان به صورت بومی در مرورگر مشاهده کرد. ",
+      "downloadFile": "دانلود فایل CV",
+      "back": "برگشت",
+      "mobileMessage": "لطفا فایل CV را برای پیش نمایش دانلود کنید.",
+      "preview": "پیش نمایش CV",
+      "wordPreviewTitle": "پیش نمایش سند Word",
+      "wordPreviewMessage": "اسناد Word (.doc/.docx) را نمی توان به صورت بومی در مرورگر مشاهده کرد. لطفا برای مشاهده فایل را دانلود کنید."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "توضیح مختصری در مورد خودتان، علایق و اهداف شغلی بنویسید..."
+    },
+    "skills": {
+      "placeholder": "نام مهارت را تایپ کنید...",
+      "add": "اضافه کنید",
+      "enterToAdd": "برای افزودن اینتر را فشار دهید",
+      "noSkills": "هنوز هیچ مهارتی اضافه نشده است."
+    },
+    "projects": {
+      "projectName": "نام پروژه",
+      "projectNamePlaceholder": "به عنوان مثال ",
+      "projectUrl": "آدرس پروژه",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "مدت زمان",
+      "startMonth": "ماه شروع",
+      "startYear": "سال شروع",
+      "endMonth": "پایان ماه",
+      "endYear": "پایان سال",
+      "currentlyWorking": "در حال حاضر روی این موضوع کار می کنند",
+      "description": "توضیحات",
+      "descriptionPlaceholder": "پروژه، نقش و دستاوردهای خود را شرح دهید...",
+      "technologies": "فن آوری های مورد استفاده",
+      "addProject": "اضافه کردن پروژه",
+      "image": "تصویر پروژه",
+      "removeImage": "حذف تصویر",
+      "uploadImage": "برای آپلود تصویر کلیک کنید"
+    },
+    "work": {
+      "company": "شرکت/موسسه",
+      "companyPlaceholder": "نام شرکت ...",
+      "role": "نقش / موقعیت",
+      "rolePlaceholder": "موقعیت شما...",
+      "jobType": "نوع شغل",
+      "selectJobType": "نوع را انتخاب کنید",
+      "fullTime": "تمام وقت",
+      "partTime": "پاره وقت",
+      "contract": "قرارداد",
+      "internship": "کارآموزی",
+      "freelance": "آزادکار",
+      "location": "مکان",
+      "locationPlaceholder": "به عنوان مثال ",
+      "duration": "مدت زمان",
+      "currentlyWorking": "در حال حاضر اینجا کار می کند",
+      "description": "شرح شغل",
+      "descriptionPlaceholder": "مسئولیت ها و دستاوردهای کلیدی خود را شرح دهید...",
+      "skills": "مهارت های خاص",
+      "addExperience": "اضافه کردن تجربه"
+    },
+    "org": {
+      "organization": "نام سازمان",
+      "organizationPlaceholder": "نام سازمان ...",
+      "role": "نقش / موقعیت",
+      "rolePlaceholder": "به عنوان مثال ",
+      "duration": "مدت زمان",
+      "periodFormat": "یا فرمت رایگان (به عنوان مثال 2020 - 2022)",
+      "periodPlaceholder": "به عنوان مثال ",
+      "currentlyActive": "در حال حاضر فعال است",
+      "description": "شرح فعالیت",
+      "descriptionPlaceholder": "فعالیت ها یا مشارکت های خود را شرح دهید...",
+      "addExperience": "اضافه کردن تجربه"
+    },
+    "education": {
+      "institution": "نام موسسه",
+      "institutionPlaceholder": "نام مدرسه یا دانشگاه ...",
+      "degree": "مدرک/سطح",
+      "degreePlaceholder": "به عنوان مثال ",
+      "major": "رشته/رشته تحصیلی",
+      "majorPlaceholder": "به عنوان مثال ",
+      "gpa": "معدل / نمره",
+      "gpaPlaceholder": "به عنوان مثال ",
+      "duration": "مدت زمان تحصیل",
+      "periodFormat": "یا فرمت رایگان (به عنوان مثال 2018 - 2022)",
+      "periodPlaceholder": "به عنوان مثال ",
+      "currentlyStudying": "در حال حاضر در حال تحصیل در اینجا",
+      "description": "فعالیت ها / افتخارات",
+      "descriptionPlaceholder": "فعالیت های دانشگاهی، سازمان ها یا افتخارات دریافت شده را شرح دهید...",
+      "addEducation": "آموزش را اضافه کنید"
+    },
+    "cert": {
+      "name": "نام گواهینامه",
+      "namePlaceholder": "به عنوان مثال ",
+      "issuer": "سازمان صادر کننده",
+      "issuerPlaceholder": "به عنوان مثال ",
+      "issueDate": "تاریخ صدور",
+      "expiryDate": "معتبر تا",
+      "noExpiry": "این اعتبار منقضی نمی شود",
+      "yearPlaceholder": "یا سال (به عنوان مثال 2023)",
+      "credentialUrl": "URL اعتبار",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "مهارت های مرتبط",
+      "addCertification": "اضافه کردن گواهینامه",
+      "image": "تصویر/لوگو",
+      "removeImage": "حذف تصویر",
+      "uploadImage": "برای آپلود تصویر کلیک کنید"
+    },
+    "common": {
+      "months": {
+        "1": "ژانویه",
+        "2": "فوریه",
+        "3": "مارس",
+        "4": "آوریل",
+        "5": "می",
+        "6": "ژوئن",
+        "7": "جولای",
+        "8": "مرداد",
+        "9": "سپتامبر",
+        "10": "اکتبر",
+        "11": "نوامبر",
+        "12": "دسامبر"
+      },
+      "month": "ماه",
+      "year": "سال",
+      "invalidDate": "ماه پایان نامعتبر است",
+      "words": "کلمات"
+    }
+  },
+  "settings": {
+    "title": "تنظیمات",
+    "subtitle": "پروفایل نمونه کارها و تنظیمات برگزیده خود را مدیریت کنید",
+    "tabs": {
+      "profile": "نمایه من",
+      "security": "امنیت",
+      "personalization": "شخصی سازی"
+    },
+    "profile": {
+      "infoTitle": "اطلاعات پایه",
+      "photo": "عکس پروفایل",
+      "uploadPhoto": "تغییر عکس",
+      "fullName": "نام کامل",
+      "fullNamePlaceholder": "جان دو",
+      "email": "آدرس ایمیل",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "ایمیل برای ورود استفاده می شود و به صورت عمومی نمایش داده نمی شود.",
+      "portfolioUrl": "URL نمونه کارها",
+      "saveProfile": "ذخیره نمایه",
+      "save": "ذخیره نمایه",
+      "accountCreated": "حساب ایجاد شد",
+      "lastLogin": "آخرین ورود",
+      "oauthNotice": "این نمایه به حساب {{provider}} شما متصل است. تغییرات نمایه باید از طریق ارائه دهنده خدمات انجام شود."
+    },
+    "security": {
+      "changePassword": "رمز عبور را تغییر دهید",
+      "currentPassword": "رمز عبور فعلی",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "رمز عبور جدید",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "رمز عبور جدید را تأیید کنید",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "حداقل 8 کاراکتر",
+        "uppercase": "یک حرف بزرگ (A-Z)",
+        "number": "یک عدد (0-9)",
+        "symbol": "یک نماد (!@#$%^&*)"
+      },
+      "passwordTitle": "رمز عبور",
+      "updatePassword": "رمز عبور را به روز کنید",
+      "additionalSecurity": "امنیت اضافی",
+      "twoFactor": "احراز هویت دو مرحله ای (2FA)",
+      "twoFactorDesc": "با استفاده از یک کد OTP اضافی، حساب خود را ایمن کنید.",
+      "activeSessions": "جلسات فعال",
+      "activeSessionsDesc": "همیشه اجازه نظارت بر دستگاه های وارد شده را بدهید.",
+      "publicVisibility": "دید عمومی",
+      "hideFromSearch": "نمونه کارها را از موتورهای جستجو مخفی کنید",
+      "hideFromSearchDesc": "از ایندکس کردن صفحه پورتفولیوی عمومی توسط گوگل جلوگیری کنید.",
+      "disable2fa": {
+        "title": "2FA را غیرفعال کنید",
+        "description": "آیا مطمئن هستید که می خواهید احراز هویت دو مرحله ای را خاموش کنید؟",
+        "confirmPasswordLabel": "رمز عبور خود را برای تایید وارد کنید",
+        "currentPasswordPlaceholder": "رمز عبور فعلی",
+        "cancelButton": "لغو کنید",
+        "confirmButton": "2FA را غیرفعال کنید",
+        "incorrectPassword": "رمز عبور نادرست"
+      },
+      "setup2fa": {
+        "step1Title": "1. کد QR را اسکن کنید",
+        "step1Desc": "برنامه authenticator خود را باز کنید و کد QR زیر را اسکن کنید:",
+        "unableToScan": "نمی توانید اسکن کنید؟ از کلید تنظیم استفاده کنید",
+        "step2Title": "2. تأیید کد",
+        "step2Desc": "کد 6 رقمی ایجاد شده توسط برنامه خود را وارد کنید:",
+        "cancelButton": "لغو کنید",
+        "enableButton": "2FA را فعال کنید",
+        "invalidLength": "لطفا یک کد 6 رقمی وارد کنید.",
+        "invalidCode": "کد تأیید نامعتبر است. لطفا دوباره امتحان کنید."
+      }
+    },
+    "personalization": {
+      "languageTitle": "کنترل های زبان",
+      "appLanguage": "زبان برنامه",
+      "layoutTitle": "چیدمان و تایپوگرافی",
+      "layoutStyle": "سبک چیدمان",
+      "layoutModern": "سبک مدرن (پیش‌فرض)",
+      "layoutClassic": "سبک کلاسیک",
+      "layoutMinimalist": "سبک مینیمالیستی",
+      "fontSize": "اندازه قلم برنامه",
+      "fontSmall": "کوچک",
+      "fontNormal": "معمولی (متوسط)",
+      "fontLarge": "بزرگ",
+      "searchLanguage": "جستجوی زبان...",
+      "languageNotFound": "زبان پیدا نشد",
+      "layoutElegant": "سبک زیبا"
+    },
+    "saveChanges": "ذخیره تغییرات",
+    "cancel": "لغو کنید",
+    "appSettings": "تنظیمات برنامه",
+    "logoutConfirmTitle": "خروج از سیستم را تایید کنید",
+    "logoutConfirmDesc": "آیا مطمئن هستید که می خواهید از سیستم خارج شوید؟",
+    "logoutConfirmYes": "بله، خروج",
+    "generalError": "خطایی رخ داد. ",
+    "success": "موفقیت",
+    "preferencesSaved": "تنظیمات برگزیده برنامه با موفقیت ذخیره شد.",
+    "header": "تنظیمات برنامه",
+    "logout": {
+      "title": "تایید خروج",
+      "message": "آیا مطمئن هستید که می خواهید از سیستم خارج شوید؟",
+      "confirm": "بله، خروج"
+    },
+    "about": {
+      "title": "درباره برنامه",
+      "subtitle": "پلتفرم پورتفولیو ساز",
+      "version": "نسخه",
+      "description": "DevFolio یک پلت فرم مدرن نمونه کار است که برای توسعه دهندگان، طراحان و سازندگان حرفه ای طراحی شده است. ",
+      "license": "مجوز و حق چاپ",
+      "copyright": "© 2026 DevFolio Inc. کلیه حقوق محفوظ است.",
+      "developer": "توسعه دهنده",
+      "developedBy": "توسعه یافته توسط Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "حذف دائم حساب",
+      "menuItem": "حذف حساب",
+      "successTitle": "موفقیت",
+      "successMessage": "یک ایمیل تأیید حذف حساب ارسال شده است.",
+      "errorTitle": "ناموفق",
+      "errorMessage": "ایمیل تایید ارسال نشد.",
+      "confirmationMessage": "آیا مطمئن هستید که می خواهید حساب خود را برای همیشه حذف کنید؟",
+      "warningMessage1": "یک ایمیل برای تایید حذف حساب دریافت خواهید کرد.",
+      "warningMessage2": "در صورت تایید، تمام داده ها (پرتفولیو، پروژه ها، آمار) برای همیشه حذف می شوند و قابل بازیابی نیستند.",
+      "cancel": "لغو",
+      "confirm": "تایید"
+    },
+    "toasts": {
+      "toastError": "خطا",
+      "toastSuccess": "موفقیت",
+      "toastSetup2FAFailed": "راه اندازی 2FA ناموفق بود. لطفا دوباره امتحان کنید.",
+      "toast2FAEnabled": "احراز هویت دو مرحله ای فعال شده است.",
+      "toast2FADisabled": "احراز هویت دو مرحله ای غیرفعال شده است.",
+      "toastSessionEnabled": "نظارت فعال جلسه فعال شده است.",
+      "toastSessionDisabled": "نظارت فعال جلسه غیرفعال شده است.",
+      "toastSetupKeyCopied": "کلید راه اندازی در کلیپ بورد کپی شد."
+    },
+    "privacy": {
+      "title": "سیاست حفظ حریم خصوصی",
+      "updateDate": "آخرین به روز رسانی: 15 جولای 2026",
+      "intro": "این خط‌مشی رازداری توضیح می‌دهد که چگونه DevFolio اطلاعات شخصی شما را هنگام استفاده از خدمات ما جمع‌آوری، استفاده و محافظت می‌کند.",
+      "section1Title": "1. اطلاعاتی که ما جمع آوری می کنیم",
+      "section1Content": "ما اطلاعاتی را که هنگام ایجاد حساب کاربری، ساختن نمونه کارها و تماس با پشتیبانی ما مستقیماً ارائه می کنید، جمع آوری می کنیم. ",
+      "section2Title": "2. استفاده از اطلاعات",
+      "section2Content": "اطلاعات شما برای اجرا، نگهداری و ارائه ویژگی های خدمات ما و همچنین برای برقراری ارتباط با شما در مورد حساب یا خدمات شما استفاده می شود.",
+      "section3Title": "3. امنیت داده ها",
+      "section3Content": "ما اقدامات امنیتی معقولی را برای محافظت از اطلاعات شما در برابر دسترسی، افشا یا تخریب غیرمجاز اجرا می کنیم."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "نشانه تایید یافت نشد.",
+    "defaultError": "حذف حساب انجام نشد. توکن ممکن است منقضی شده باشد.",
+    "loadingTitle": "در حال حذف حساب...",
+    "loadingMessage": "لطفا صبر کنید، ما در حال پردازش درخواست شما هستیم.",
+    "successTitle": "حساب با موفقیت حذف شد",
+    "successMessage": "تمام داده های شما برای همیشه حذف شده است. شما هدایت می شوید...",
+    "errorTitle": "حذف حساب ناموفق",
+    "backToHome": "بازگشت به خانه"
+  },
+  "forgotPassword": {
+    "minutes": "دقیقه",
+    "seconds": "ثانیه",
+    "success": "موفقیت",
+    "otpSentToEmail": "یک کد OTP به ایمیل شما ارسال شده است.",
+    "failed": "ناموفق",
+    "emailNotFound": "ایمیل پیدا نشد",
+    "emailThirdParty": "این ایمیل از طریق شخص ثالث ثبت شده است.",
+    "genericError": "خطایی وجود دارد. لطفا دوباره امتحان کنید.",
+    "otpVerified": "کد OTP با موفقیت تأیید شد.",
+    "otpExpired": "کد OTP منقضی شده است. لطفا یک کد جدید درخواست کنید.",
+    "otpInvalid": "کد OTP نامعتبر است.",
+    "otpResent": "یک کد OTP جدید به ایمیل شما ارسال شده است.",
+    "otpResendFailed": "کد OTP دوباره ارسال نشد. لطفا دوباره امتحان کنید.",
+    "passwordResetSuccess": "رمز عبور با موفقیت بازنشانی شد. لطفا با رمز عبور جدید وارد شوید.",
+    "passwordResetFailed": "بازنشانی رمز عبور ناموفق بود.",
+    "backToLogin": "بازگشت به ورود",
+    "back": "برگشت",
+    "title": "رمز عبور را فراموش کرده اید",
+    "description": "آدرس ایمیل ثبت شده در حساب کاربری خود را وارد کنید. ما یک کد OTP برای تنظیم مجدد رمز عبور ارسال می کنیم.",
+    "emailLabel": "آدرس ایمیل",
+    "sending": "ارسال...",
+    "sendOtp": "ارسال کد OTP",
+    "verifyOtpTitle": "کد OTP را تأیید کنید",
+    "verifyOtpDesc": "کد 6 رقمی که به ایمیل شما ارسال شده است را وارد کنید تا هویت شما تایید شود.",
+    "verifying": "در حال تایید...",
+    "verifyOtp": "تأیید OTP",
+    "resending": "در حال ارسال مجدد...",
+    "resendOtp": "ارسال مجدد کد OTP",
+    "resendCodeIn": "دوباره کد را در",
+    "newPasswordTitle": "ارسال کنید ایجاد یک رمز عبور جدید",
+    "newPasswordDesc": "یک رمز عبور جدید و قوی برای ایمن سازی حساب خود ایجاد کنید.",
+    "newPasswordLabel": "رمز عبور جدید",
+    "min8Chars": "حداقل 8 کاراکتر",
+    "oneUpperCase": "1 حرف بزرگ (A-Z)",
+    "oneNumber": "1 عدد (0-9)",
+    "oneSymbol": "1 نماد (!@#$%^&*)",
+    "confirmPasswordLabel": "تایید رمز عبور",
+    "passwordsDoNotMatch": "گذرواژه ها مطابقت ندارند.",
+    "resettingPassword": "بازنشانی رمز عبور...",
+    "resetPassword": "بازنشانی رمز عبور"
+  },
+  "verifyEmail": {
+    "resendError": "ایمیل تأیید مجدد ارسال نشد. لطفا دوباره امتحان کنید.",
+    "checkingStatus": "بررسی وضعیت تأیید...",
+    "title": "ایمیل خود را بررسی کنید",
+    "description": "ما یک ایمیل تأیید به آدرس ایمیل شما ارسال کرده ایم. لطفاً ایمیل را باز کنید و روی دکمه <1>\"تأیید حساب\"</1> کلیک کنید تا حساب شما فعال شود.",
+    "stepsTitle": "مراحل",
+    "step1": "برنامه ایمیل خود (Gmail، Yahoo و غیره) را باز کنید",
+    "step2": "به دنبال ایمیلی از DevFolio با موضوع \"فعال سازی حساب\"",
+    "step3": "باشید روی دکمه \"تأیید حساب\" در ایمیل",
+    "step4": "کلیک کنید برای وارد کردن",
+    "resendSuccess": "به صفحه ورود هدایت می شوید ایمیل تأیید دوباره ارسال شد!",
+    "resending": "در حال ارسال مجدد...",
+    "resendButton": "ارسال مجدد ایمیل تایید",
+    "backToLogin": "بازگشت به صفحه ورود",
+    "footerNote": "ایمیل را دریافت نکردید؟ پوشه <1>هرزنامه</1> یا <2>ناخواسته</2> را در ایمیل خود بررسی کنید. پیوند تأیید برای <3>24 ساعت</3> معتبر است."
+  }
+}

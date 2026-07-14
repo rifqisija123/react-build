@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "ባህሪያት",
+    "templates": "አብነቶች",
+    "pricing": "የዋጋ አሰጣጥ",
+    "login": "ግባ",
+    "getStarted": "እንጀምር",
+    "title": "ዴቭፎሊዮ"
+  },
+  "landing": {
+    "badge": "ለገንቢዎች የመጨረሻው ፖርትፎሊዮ ገንቢ",
+    "title1": "ባለሙያዎን ይገንቡ",
+    "title2": "ፖርትፎሊዮ ውስጥ",
+    "titleHighlight": "ሰከንዶች.",
+    "subtitle": "የእርስዎን ችሎታዎች፣ ፕሮጀክቶች እና ተሞክሮ ለማሳየት የሚያስፈልግዎ ነገር ሁሉ። ",
+    "startBuilding": "አሁን መገንባት ይጀምሩ",
+    "viewTemplates": "አብነቶችን ይመልከቱ",
+    "fastDeployment": "ፈጣን ማሰማራት",
+    "liveStatus": "username.dev በቀጥታ ነው!",
+    "featuresTitle": "ኃይለኛ ባህሪያት",
+    "featuresSubtitle": "ከህዝቡ ጎልቶ ለመታየት እና የህልም ስራዎን ለማረም የሚያስፈልጉዎትን ሁሉንም መሳሪያዎች እናቀርባለን.",
+    "feature1Title": "ጎትት እና ገንቢ",
+    "feature1Desc": "የእርስዎን ክፍሎች፣ ፕሮጀክቶች እና ችሎታዎች በቀላሉ በሚታወቅ ምስላዊ አርታኢችን ያደራጁ።",
+    "feature2Title": "ብጁ ገጽታዎች",
+    "feature2Desc": "በሙያዊ ከተነደፉ አብነቶች ይምረጡ ወይም የራስዎን ልዩ ገጽታ ይፍጠሩ።",
+    "feature3Title": "የእውነተኛ ጊዜ ትንታኔ",
+    "feature3Desc": "ጎብኝዎችዎን ይከታተሉ፣ የትኛዎቹ ፕሮጀክቶች የበለጠ ትኩረት እንደሚያገኙ ይመልከቱ፣ እና ተጨማሪ።"
+  },
+  "auth": {
+    "welcomeBack": "እንኳን ደህና መጣህ",
+    "loginToContinue": "ለመቀጠል ወደ መለያዎ ይግቡ",
+    "createAccount": "መለያ ፍጠር",
+    "joinCommunity": "በሺዎች የሚቆጠሩ ሌሎች ገንቢዎችን ይቀላቀሉ",
+    "fullName": "ሙሉ ስም",
+    "fullNamePlaceholder": "ለምሳሌ. ",
+    "email": "ኢሜል አድራሻ",
+    "emailPlaceholder": "you@example.com",
+    "password": "የይለፍ ቃል",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "አስታውሰኝ",
+    "forgotPassword": "የይለፍ ቃል ረሱ?",
+    "signIn": "ይግቡ",
+    "signingIn": "በመግባት ላይ...",
+    "signUp": "ይመዝገቡ",
+    "signingUp": "በመመዝገብ ላይ...",
+    "noAccount": "መለያ የለህም?",
+    "hasAccount": "መለያ አለህ?",
+    "passwordRules": {
+      "title": "የይለፍ ቃል የሚከተሉትን መያዝ አለበት:",
+      "length": "ቢያንስ 8 ቁምፊዎች",
+      "uppercase": "አንድ አቢይ ሆሄ (A-Z)",
+      "number": "አንድ ቁጥር (0-9)",
+      "symbol": "አንድ ምልክት (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "ፖርትፎሊዮ ገንቢ",
+      "templates": "አብነቶች እና ገጽታዎች",
+      "settings": "ቅንብሮች",
+      "collapse": "የጎን አሞሌን ሰብስብ",
+      "overview": "አጠቃላይ እይታ",
+      "profileSettings": "የመገለጫ ቅንብሮች",
+      "customDomain": "ብጁ ጎራ",
+      "feedback": "ግብረ መልስ"
+    },
+    "header": {
+      "viewLive": "ቀጥታ ይመልከቱ",
+      "welcome": "እንኳን ደህና መጣህ፣",
+      "logout": "ውጣ",
+      "builder": "ገንቢ",
+      "livePortfolio": "የቀጥታ ፖርትፎሊዮ",
+      "live": "ቀጥታ"
+    },
+    "logoutModal": {
+      "title": "ውጣ",
+      "message": "እርግጠኛ ነህ ከመለያህ መውጣት ትፈልጋለህ? ",
+      "cancel": "ሰርዝ",
+      "confirm": "አዎ፣ ውጣ"
+    },
+    "slugModal": {
+      "title": "የእርስዎን ፖርትፎሊዮ URL ይምረጡ",
+      "message": "ይህ ዩአርኤል ወደ ፖርትፎሊዮዎ ልዩ አገናኝ ይሆናል። ",
+      "slugPlaceholder": "የእርስዎ-ስም",
+      "availability": "ተገኝነት፡-",
+      "available": "ይገኛል።",
+      "unavailable": "አይገኝም",
+      "checking": "በማጣራት ላይ...",
+      "mustFormat": "ፊደሎችን፣ ቁጥሮችን እና ሰረዞችን ብቻ መያዝ ይችላል (-)",
+      "cancel": "ሰርዝ",
+      "save": "URL አስቀምጥ",
+      "usernameUrl": "የተጠቃሚ ስም URL",
+      "helpText": "ንዑስ ሆሄያት፣ ቁጥሮች እና ሰረዞች። ",
+      "validation": {
+        "empty": "ስሎግ ባዶ ሊሆን አይችልም።",
+        "min3": "ቢያንስ 3 ቁምፊዎች።",
+        "max30": "ቢበዛ 30 ቁምፊዎች።",
+        "format": "ትንሽ ሆሄያት፣ ቁጥሮች እና ሰረዞች (-) ብቻ። "
+      }
+    },
+    "loadingPortfolio": "የፖርትፎሊዮ ውሂብን በመጫን ላይ...",
+    "overview": {
+      "greetings": {
+        "morning": "እንደምን አደሩ",
+        "afternoon": "ደህና ከሰአት",
+        "evening": "ደህና ከሰአት",
+        "night": "መልካም ምሽት"
+      },
+      "welcome": {
+        "hi": "ሰላም",
+        "creator": "ፈጣሪ",
+        "desc1": "እንኳን ወደ DevFolio ዳሽቦርድ በደህና መጡ። የእርስዎ ፖርትፎሊዮ በ ታይቷል።",
+        "desc2": "ሰው ። መስራትዎን ይቀጥሉ!",
+        "editPortfolio": "ፖርትፎሊዮ አርትዕ"
+      },
+      "stats": {
+        "totalVisitors": "ጠቅላላ ጎብኝዎች",
+        "projectViews": "ታይቷል (ፕሮጀክት)",
+        "activeSessions": "ንቁ ክፍለ ጊዜ",
+        "totalLabel": "ጠቅላላ"
+      },
+      "setup": {
+        "title": "የማዋቀር ሂደት",
+        "completed": "የእርስዎ ፖርትፎሊዮ ተጠናቅቋል! 🎉",
+        "inProgress": "ወደ ፍጹም ፖርትፎሊዮ የሚወስዱ ደረጃዎች።",
+        "profile": {
+          "title": "ሙሉ መገለጫ",
+          "desc": "ስም ፣ የህይወት ታሪክ እና የመገለጫ ፎቶ ያክሉ።"
+        },
+        "section": {
+          "title": "ክፍሎችን ያክሉ",
+          "desc": "በፖርትፎሊዮው ውስጥ ቢያንስ 1 ክፍልን ያግብሩ።"
+        },
+        "project": {
+          "title": "ፕሮጀክት አክል",
+          "desc": "ቢያንስ 1 ምርጥ ፕሮጀክቶችዎን ያስገቡ።"
+        },
+        "publish": {
+          "title": "ፖርትፎሊዮ ያትሙ",
+          "desc": "በሕዝብ ዘንድ እንዲደርስ ብጁ ዩአርኤል ያዘጋጁ።"
+        }
+      },
+      "topProjects": {
+        "title": "በጣም ታዋቂ ፕሮጀክቶች",
+        "desc": "የስራዎ አፈጻጸም በጎብኝዎች እይታ።",
+        "viewAll": "ሁሉንም ይመልከቱ",
+        "empty": "ለፕሮጀክትዎ እስካሁን ምንም የእይታ ውሂብ የለም።"
+      }
+    },
+    "themes": {
+      "title": "አብነቶች እና ገጽታዎች",
+      "subtitle": "የህዝብ ፖርትፎሊዮዎን መልክ እና ስሜት ያብጁ።",
+      "reset": "ነባሪውን ዳግም አስጀምር",
+      "save": "ለውጦችን ያስቀምጡ",
+      "saving": "በማስቀመጥ ላይ...",
+      "chooseTemplate": "አብነት ይምረጡ",
+      "primaryColor": "ዋና ቀለም",
+      "typography": "የፊደል አጻጻፍ",
+      "appearance": "መልክ",
+      "corners": "ማዕዘኖች እና ድንበሮች",
+      "successTitle": "ስኬት",
+      "successMessage": "የገጽታ ምርጫዎች በተሳካ ሁኔታ ተዘምነዋል",
+      "errorTitle": "ስህተት",
+      "errorMessage": "የገጽታ ምርጫዎችን ማስቀመጥ አልተሳካም።",
+      "templates": {
+        "minimalist": {
+          "name": "ዝቅተኛነት",
+          "desc": "በይዘት ላይ የሚያተኩር ንጹህ እና ቀላል ንድፍ።"
+        },
+        "developerDark": {
+          "name": "ገንቢ ጨለማ",
+          "desc": "የኮድ እና የቴክኖሎጂ ቁልል ለማሳየት ፍጹም ጥቁር ገጽታ።"
+        },
+        "creative": {
+          "name": "ፈጠራ",
+          "desc": "ለዲዛይነሮች እና ለፈጠራዎች ደማቅ እና በቀለማት ያሸበረቀ አቀማመጥ።"
+        },
+        "executive": {
+          "name": "ሥራ አስፈፃሚ",
+          "desc": "ለንግድ ባለሙያዎች ሙያዊ እና መደበኛ አቀማመጥ."
+        },
+        "bentoGrid": {
+          "name": "ቤንቶ ግሪድ",
+          "desc": "የተለያዩ ክህሎቶችን በብቃት የሚያጎላ ዘመናዊ የአፕል አይነት ፍርግርግ አቀማመጥ።"
+        },
+        "neoBrutalism": {
+          "name": "ኒዮ-ጨካኝነት",
+          "desc": "ደፋር ድንበሮች እና ከፍተኛ ንፅፅር ቀለሞች ለወቅታዊ ፣ ይቅርታ የለሽ እይታ።"
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "የቀዘቀዙ የመስታወት ውጤቶች በቀለማት ያሸበረቁ ቀስቶች ላይ ለቆንጆ ዘመናዊ UI።"
+        },
+        "linkInBio": {
+          "name": "በባዮ ውስጥ አገናኝ",
+          "desc": "ለሞባይል ስክሪኖች እና ማህበራዊ ሚዲያ የታመቀ አቀባዊ አቀማመጥ የተመቻቸ።"
+        }
+      },
+      "appearances": {
+        "light": "ብርሃን",
+        "dark": "ጨለማ",
+        "system": "ስርዓት"
+      },
+      "cornersOptions": {
+        "sharp": "ስለታም",
+        "rounded": "የተጠጋጋ",
+        "pill": "ክኒን"
+      }
+    },
+    "feedback": {
+      "title": "ግብረ መልስ ላክ",
+      "subtitle": "በዚህ መተግበሪያ ላይ የአስተያየት ጥቆማዎችን፣ ትችቶችን ወይም ስህተቶችን ሪፖርት በማድረግ የተሻለ እንድናደርግ ያግዙን።",
+      "categoryLabel": "የግብረመልስ ምድብ",
+      "messageLabel": "የትዕዛዝ ዝርዝሮች",
+      "messagePlaceholder": "ማስተላለፍ ስለሚፈልጉት አስተያየት በዝርዝር ንገረኝ...",
+      "imageLabel": "የምስል አባሪ (አማራጭ)",
+      "imagePlaceholder": "ምስል ወይም ቅጽበታዊ ገጽ እይታን ለመስቀል ጠቅ ያድርጉ",
+      "submitting": "ላክ...",
+      "submitBtn": "ግብረ መልስ ላክ",
+      "categories": {
+        "suggestion": "ጥቆማዎች እና ሀሳቦች",
+        "bug": "የሳንካ/የስህተት ሪፖርቶች",
+        "criticism": "ትችት",
+        "other": "ሌላ"
+      },
+      "imageErrorTitle": "ስህተት",
+      "imageErrorMessage": "አንዳንድ ፋይሎች የማይደገፉ የምስል ቅርጸቶች (JPG፣ PNG፣ GIF፣ WEBP) ስላልሆኑ ውድቅ ተደርገዋል።",
+      "successTitle": "ስኬት",
+      "successMessage": "ለአስተያየትዎ እናመሰግናለን! ሪፖርት ተልኳል።",
+      "submitErrorTitle": "አልተሳካም።",
+      "submitErrorMessage": "ግብረ መልስ በመላክ ላይ ስህተት ተከስቷል። እባክህ እንደገና ሞክር።"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "ስለ እኔ",
+      "skills": "ችሎታዎች",
+      "projects": "ፕሮጀክቶች",
+      "workExperience": "የስራ ልምድ",
+      "orgExperience": "ድርጅታዊ ልምድ",
+      "education": "ትምህርት",
+      "certifications": "ስልጠና እና የምስክር ወረቀቶች",
+      "contact": "አግኙኝ።"
+    },
+    "editor": {
+      "profileInfo": "የመገለጫ መረጃ",
+      "saving": "በማስቀመጥ ላይ...",
+      "profilePhoto": "የመገለጫ ፎቶ",
+      "clickToUpload": "ለመስቀል ጠቅ ያድርጉ (JPG፣ PNG)",
+      "fullName": "ሙሉ ስም",
+      "fullNamePlaceholder": "ለምሳሌ. ",
+      "bio": "ባዮ",
+      "bioPlaceholder": "ዘመናዊ የድር መተግበሪያዎችን የመገንባት ፍላጎት ያለው ሙሉስታክ ገንቢ...",
+      "location": "አካባቢ",
+      "locationPlaceholder": "ለምሳሌ. ",
+      "gender": "ጾታ",
+      "selectGender": "ጾታን ይምረጡ",
+      "male": "ወንድ",
+      "female": "ሴት",
+      "custom": "ብጁ",
+      "customPlaceholder": "ብጁ ጾታዎን ይተይቡ...",
+      "uploadCv": "ሲቪ ይስቀሉ",
+      "cvFormat": "(DOC ወይም PDF)",
+      "preview": "ቅድመ እይታ",
+      "remove": "አስወግድ",
+      "clickToUploadCv": "PDF ወይም DOC ለመስቀል ጠቅ ያድርጉ",
+      "sections": "ክፍሎች",
+      "removeSelected": "የተመረጠውን አስወግድ",
+      "confirmRemove": "ማስወገድን ያረጋግጡ",
+      "addSection": "ክፍል ጨምር",
+      "addAllSections": "ሁሉንም ክፍሎች አክል",
+      "noSections": "እስካሁን ምንም ክፍሎች የሉም",
+      "clickToAdd": "ለመጀመር \"+ ክፍል አክል\" ን ጠቅ ያድርጉ",
+      "selectAll": "ሁሉንም ይምረጡ",
+      "selected": "ተመርጧል",
+      "dragToReorder": "ክፍሎችን እንደገና ለመደርደር ይጎትቱ",
+      "livePreview": "የቀጥታ ቅድመ እይታ",
+      "addSectionsToBuild": "የእርስዎን ፖርትፎሊዮ ለመገንባት ክፍሎችን ያክሉ",
+      "now": "አሁን",
+      "current": "የአሁኑ",
+      "noExpiry": "የማለቂያ ጊዜ የለም።",
+      "see": "ተመልከት",
+      "position": "አቀማመጥ",
+      "degree": "ዲግሪ",
+      "certification": "ማረጋገጫ",
+      "sectionsForm": {
+        "about": {
+          "label": "የራስህ መግለጫ",
+          "placeholder": "ስለራስዎ፣የእርስዎ ታሪክ፣ፍላጎቶች እና ችሎታዎች ይንገሩን..."
+        },
+        "skills": {
+          "addPlaceholder": "ክህሎትን ይተይቡ እና አስገባን ይጫኑ..."
+        },
+        "projects": {
+          "title": "የፕሮጀክት ስም",
+          "titlePlaceholder": "የፕሮጀክት ስም...",
+          "url": "የፕሮጀክት URL",
+          "description": "መግለጫ",
+          "descriptionPlaceholder": "የፕሮጀክቱ አጭር መግለጫ...",
+          "uploadThumbnail": "የፕሮጀክት ምስል",
+          "addProject": "ፕሮጀክት አክል",
+          "projectNum": "ፕሮጀክት #",
+          "currentProject": "ይህ የምሰራበት ፕሮጀክት ነው።"
+        },
+        "work": {
+          "company": "ኩባንያ / ኤጀንሲ",
+          "companyPlaceholder": "የኩባንያው ስም...",
+          "position": "አቀማመጥ / ርዕስ",
+          "positionPlaceholder": "ያንተ አቋም...",
+          "employmentType": "የሥራ ዓይነት",
+          "location": "አካባቢ",
+          "locationPlaceholder": "ከተማ፣ ሀገር...",
+          "startDate": "ጀምር",
+          "endDate": "ጨርሷል",
+          "currentWork": "በአሁኑ ጊዜ አሁንም እየሰራሁ ነው።",
+          "description": "መግለጫ",
+          "descriptionPlaceholder": "የሥራ መግለጫ እና ኃላፊነቶች…",
+          "skills": "ችሎታ",
+          "addExperience": "የስራ ልምድ ጨምር",
+          "experienceNum": "ልምድ #",
+          "dateError": "የማብቂያው ቀን ከመጀመሪያው ቀን ቀደም ብሎ ሊሆን አይችልም"
+        },
+        "org": {
+          "organization": "የድርጅት ስም",
+          "orgPlaceholder": "BEM ዩኒቨርሲቲ...",
+          "role": "ሚና/ቦታ",
+          "rolePlaceholder": "ክፍል ኃላፊ...",
+          "addOrg": "ድርጅታዊ ልምድ ጨምር",
+          "orgNum": "ድርጅት #"
+        },
+        "edu": {
+          "institution": "የትምህርት ተቋማት",
+          "institutionPlaceholder": "የግቢው ወይም የትምህርት ቤቱ ስም...",
+          "degree": "ርዕስ",
+          "degreePlaceholder": "S1፣ ሁለተኛ ደረጃ ትምህርት ቤት፣ ወዘተ...",
+          "major": "ክፍል/የትምህርት መስክ",
+          "majorPlaceholder": "ኢንፎርማቲክስ ምህንድስና...",
+          "gpa": "GPA (አማራጭ)",
+          "currentStudy": "አሁንም እዚህ እየተማርኩ ነው።",
+          "descriptionPlaceholder": "በጥናት ወቅት የተከናወኑ ተግባራት እና ስኬቶች...",
+          "addEdu": "ትምህርት ጨምር",
+          "eduNum": "ትምህርት #"
+        },
+        "cert": {
+          "name": "የምስክር ወረቀት / ስልጠና ስም",
+          "namePlaceholder": "የማረጋገጫ ስም...",
+          "issuer": "አታሚ",
+          "issuerPlaceholder": "የህትመት ተቋም...",
+          "issueDate": "መጀመሪያ (የህትመት ቀን)",
+          "issueDatePlaceholder": "የህትመት ቀን ምረጥ...",
+          "expiryDate": "የተጠናቀቀ (የሚሰራ ጊዜ)",
+          "expiryDatePlaceholder": "የሚያበቃበትን ቀን ይምረጡ...",
+          "noExpiry": "ይህ የምስክር ወረቀት የሚያበቃበት ቀን የለውም",
+          "url": "የማረጋገጫ ዩአርኤል",
+          "uploadThumbnail": "የምስክር ወረቀት / የሥልጠና ምስል",
+          "uploadThumbnailLimit": "የእውቅና ማረጋገጫ ምስል ስቀል (JPG/PNG/WEBP፣ ቢበዛ 2ሜባ)",
+          "addCert": "የምስክር ወረቀት ያክሉ",
+          "certNum": "ማረጋገጫ #"
+        },
+        "contact": {
+          "contactNum": "እውቂያ #",
+          "platform": "መድረክ",
+          "displayText": "የማሳያ ጽሑፍ",
+          "displayTextPlaceholder": "ለምሳሌ፡ you@email.com ወይም @username",
+          "url": "አገናኝ (ዩአርኤል)",
+          "urlPlaceholderWhatsapp": "ለምሳሌ፡ 62812... (0 ሳይመራ)",
+          "urlPlaceholderEmail": "ለምሳሌ፡ you@email.com",
+          "urlPlaceholderWebsite": "ለምሳሌ https://...",
+          "urlPlaceholderDefault": "ለምሳሌ የተጠቃሚ ስም",
+          "addContact": "እውቂያ ያክሉ"
+        },
+        "common": {
+          "months": {
+            "1": "ጥር",
+            "2": "የካቲት",
+            "3": "መጋቢት",
+            "4": "ሚያዚያ",
+            "5": "ግንቦት",
+            "6": "ሰኔ",
+            "7": "ሀምሌ",
+            "8": "ነሐሴ",
+            "9": "መስከረም",
+            "10": "ጥቅምት",
+            "11": "ህዳር",
+            "12": "ታህሳስ"
+          },
+          "month": "ወር",
+          "year": "አመት",
+          "invalidDate": "ልክ ያልሆነ የመጨረሻ ወር",
+          "words": "ቃላት"
+        }
+      },
+      "sure": "በእርግጠኝነት",
+      "deletePhotoTitle": "የመገለጫ ፎቶ ይሰረዝ?",
+      "deletePhotoMessage": "እርግጠኛ ነዎት ይህን የመገለጫ ፎቶ መሰረዝ ይፈልጋሉ?",
+      "cancel": "ሰርዝ",
+      "delete": "ሰርዝ"
+    },
+    "cropper": {
+      "chooseBackground": "ዳራ ይምረጡ",
+      "cropPhoto": "ፎቶዎን ይከርክሙ",
+      "useOriginal": "ኦሪጅናል ተጠቀም",
+      "backgroundPresets": "የበስተጀርባ ቅድመ-ቅምጦች",
+      "none": "ምንም",
+      "uploadBackground": "ዳራ ስቀል",
+      "cancel": "ሰርዝ",
+      "savePhoto": "ፎቶ አስቀምጥ",
+      "zoom": "አጉላ",
+      "rotationTilt": "ማሽከርከር እና ማጋደል",
+      "resetRotation": "ወደ 0° ዳግም አስጀምር",
+      "center": "መሃል",
+      "rotateLeft": "አዙር -90 °",
+      "rotateRight": "+90° አሽከርክር",
+      "removeBackground": "ዳራ አስወግድ",
+      "processing": "ምስልዎን በመስራት ላይ፣ እባክዎ ይጠብቁ..."
+    },
+    "cvPreview": {
+      "title": "የሲቪ ቅድመ እይታ",
+      "downloadCv": "ሲቪ አውርድ",
+      "download": "አውርድ",
+      "wordCannotPreview": "የቃል ሰነዶች (.doc/.docx) በአሳሹ ውስጥ በቅድመ-እይታ ሊታዩ አይችሉም። ",
+      "downloadFile": "የሲቪ ፋይል ያውርዱ",
+      "back": "ተመለስ",
+      "mobileMessage": "እባኮትን ለማየት የሲቪ ፋይሉን ያውርዱ።",
+      "preview": "የሲቪ ቅድመ እይታ",
+      "wordPreviewTitle": "የቃል ሰነድ ቅድመ እይታ",
+      "wordPreviewMessage": "የቃል ሰነዶች (.doc/.docx) በአሳሹ ውስጥ በቅድመ-እይታ ሊታዩ አይችሉም። እባክዎ ለማየት ፋይሉን ያውርዱ።"
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "ስለራስዎ፣ ፍላጎቶች እና የስራ ግቦች አጭር መግለጫ ይጻፉ..."
+    },
+    "skills": {
+      "placeholder": "የክህሎት ስም ይተይቡ...",
+      "add": "አክል",
+      "enterToAdd": "ለመጨመር አስገባን ይጫኑ",
+      "noSkills": "እስካሁን ምንም ችሎታዎች አልተጨመሩም።"
+    },
+    "projects": {
+      "projectName": "የፕሮጀክት ስም",
+      "projectNamePlaceholder": "ለምሳሌ. ",
+      "projectUrl": "የፕሮጀክት URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "ቆይታ",
+      "startMonth": "መጀመሪያ ወር",
+      "startYear": "መጀመሪያ ዓመት",
+      "endMonth": "የመጨረሻ ወር",
+      "endYear": "የመጨረሻ ዓመት",
+      "currentlyWorking": "አሁን በዚህ ላይ እየሰራ ነው።",
+      "description": "መግለጫ",
+      "descriptionPlaceholder": "ፕሮጀክቱን፣ ሚናዎን እና ስኬቶችዎን ይግለጹ...",
+      "technologies": "ያገለገሉ ቴክኖሎጂዎች",
+      "addProject": "ፕሮጀክት አክል",
+      "image": "የፕሮጀክት ምስል",
+      "removeImage": "ምስልን ያስወግዱ",
+      "uploadImage": "ምስል ለመስቀል ይንኩ።"
+    },
+    "work": {
+      "company": "ኩባንያ / ተቋም",
+      "companyPlaceholder": "የኩባንያው ስም...",
+      "role": "ሚና/ቦታ",
+      "rolePlaceholder": "ያንተ አቋም...",
+      "jobType": "የሥራ ዓይነት",
+      "selectJobType": "ዓይነት ይምረጡ",
+      "fullTime": "የሙሉ ጊዜ",
+      "partTime": "የትርፍ ጊዜ",
+      "contract": "ውል",
+      "internship": "ልምምድ",
+      "freelance": "ፍሪላንስ",
+      "location": "አካባቢ",
+      "locationPlaceholder": "ለምሳሌ. ",
+      "duration": "ቆይታ",
+      "currentlyWorking": "በአሁኑ ጊዜ እዚህ እየሰራ ነው።",
+      "description": "የሥራ መግለጫ",
+      "descriptionPlaceholder": "ዋና ዋና ኃላፊነቶችዎን እና ስኬቶችዎን ይግለጹ…",
+      "skills": "ልዩ ችሎታዎች",
+      "addExperience": "ልምድ ጨምር"
+    },
+    "org": {
+      "organization": "የድርጅት ስም",
+      "organizationPlaceholder": "የድርጅት ስም...",
+      "role": "ሚና/ቦታ",
+      "rolePlaceholder": "ለምሳሌ. ",
+      "duration": "ቆይታ",
+      "periodFormat": "ወይም ነጻ ቅርጸት (ለምሳሌ 2020 - 2022)",
+      "periodPlaceholder": "ለምሳሌ. ",
+      "currentlyActive": "በአሁኑ ጊዜ ንቁ",
+      "description": "የእንቅስቃሴ መግለጫ",
+      "descriptionPlaceholder": "የእርስዎን እንቅስቃሴዎች ወይም አስተዋጽዖዎች ይግለጹ...",
+      "addExperience": "ልምድ ጨምር"
+    },
+    "education": {
+      "institution": "የተቋሙ ስም",
+      "institutionPlaceholder": "የትምህርት ቤት ወይም የዩኒቨርሲቲ ስም ...",
+      "degree": "ዲግሪ / ደረጃ",
+      "degreePlaceholder": "ለምሳሌ. ",
+      "major": "ዋና/የትምህርት መስክ",
+      "majorPlaceholder": "ለምሳሌ. ",
+      "gpa": "GPA / ደረጃ",
+      "gpaPlaceholder": "ለምሳሌ. ",
+      "duration": "የትምህርት ቆይታ",
+      "periodFormat": "ወይም ነጻ ቅርጸት (ለምሳሌ 2018 - 2022)",
+      "periodPlaceholder": "ለምሳሌ. ",
+      "currentlyStudying": "በአሁኑ ጊዜ እዚህ በማጥናት ላይ",
+      "description": "ተግባራት / ክብር",
+      "descriptionPlaceholder": "የተቀበሉትን አካዴሚያዊ እንቅስቃሴዎችን፣ ድርጅቶችን ወይም ክብርን ይግለጹ...",
+      "addEducation": "ትምህርት ጨምር"
+    },
+    "cert": {
+      "name": "የማረጋገጫ ስም",
+      "namePlaceholder": "ለምሳሌ. ",
+      "issuer": "ድርጅት ማውጣት",
+      "issuerPlaceholder": "ለምሳሌ. ",
+      "issueDate": "የወጣበት ቀን",
+      "expiryDate": "ድረስ የሚሰራ",
+      "noExpiry": "ይህ ምስክርነት ጊዜው አያበቃም።",
+      "yearPlaceholder": "ወይም ዓመት (ለምሳሌ 2023)",
+      "credentialUrl": "የማረጋገጫ ዩአርኤል",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "ተዛማጅ ችሎታዎች",
+      "addCertification": "የምስክር ወረቀት ያክሉ",
+      "image": "ምስል/አርማ",
+      "removeImage": "ምስልን ያስወግዱ",
+      "uploadImage": "ምስል ለመስቀል ይንኩ።"
+    },
+    "common": {
+      "months": {
+        "1": "ጥር",
+        "2": "የካቲት",
+        "3": "መጋቢት",
+        "4": "ሚያዚያ",
+        "5": "ግንቦት",
+        "6": "ሰኔ",
+        "7": "ሀምሌ",
+        "8": "ነሐሴ",
+        "9": "መስከረም",
+        "10": "ጥቅምት",
+        "11": "ህዳር",
+        "12": "ታህሳስ"
+      },
+      "month": "ወር",
+      "year": "አመት",
+      "invalidDate": "ልክ ያልሆነ የመጨረሻ ወር",
+      "words": "ቃላት"
+    }
+  },
+  "settings": {
+    "title": "ቅንብሮች",
+    "subtitle": "የእርስዎን ፖርትፎሊዮ መገለጫ እና ምርጫዎች ያስተዳድሩ",
+    "tabs": {
+      "profile": "የእኔ መገለጫ",
+      "security": "ደህንነት",
+      "personalization": "ግላዊነትን ማላበስ"
+    },
+    "profile": {
+      "infoTitle": "መሰረታዊ መረጃ",
+      "photo": "የመገለጫ ፎቶ",
+      "uploadPhoto": "ፎቶ ቀይር",
+      "fullName": "ሙሉ ስም",
+      "fullNamePlaceholder": "ጆን ዶ",
+      "email": "ኢሜል አድራሻ",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "ኢሜል ለመግቢያ ጥቅም ላይ ይውላል እና በይፋ አይታይም.",
+      "portfolioUrl": "ፖርትፎሊዮ URL",
+      "saveProfile": "መገለጫ አስቀምጥ",
+      "save": "መገለጫ አስቀምጥ",
+      "accountCreated": "መለያ ተፈጠረ",
+      "lastLogin": "የመጨረሻው መግቢያ",
+      "oauthNotice": "ይህ መገለጫ ከእርስዎ {{አቅራቢ}} መለያ ጋር የተገናኘ ነው። የመገለጫ ለውጦች በአገልግሎት ሰጪው በኩል መደረግ አለባቸው."
+    },
+    "security": {
+      "changePassword": "የይለፍ ቃል ቀይር",
+      "currentPassword": "የአሁኑ ሚስጥራዊ ማለፊያ ቁልፍ",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "አዲስ የይለፍ ቃል",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "አዲስ የይለፍ ቃል ያረጋግጡ",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "ቢያንስ 8 ቁምፊዎች",
+        "uppercase": "አንድ አቢይ ሆሄ (A-Z)",
+        "number": "አንድ ቁጥር (0-9)",
+        "symbol": "አንድ ምልክት (!@#$%^&*)"
+      },
+      "passwordTitle": "የይለፍ ቃል",
+      "updatePassword": "የይለፍ ቃል አዘምን",
+      "additionalSecurity": "ተጨማሪ ደህንነት",
+      "twoFactor": "ባለ ሁለት ደረጃ ማረጋገጫ (2ኤፍኤ)",
+      "twoFactorDesc": "ተጨማሪ የኦቲፒ ኮድ በመጠቀም የመለያዎን ደህንነት ይጠብቁ።",
+      "activeSessions": "ንቁ ክፍለ-ጊዜዎች",
+      "activeSessionsDesc": "ሁልጊዜ የገቡ መሳሪያዎችን መከታተል ፍቀድ።",
+      "publicVisibility": "የህዝብ ታይነት",
+      "hideFromSearch": "ፖርትፎሊዮን ከፍለጋ ሞተሮች ደብቅ",
+      "hideFromSearchDesc": "Google የእርስዎን ይፋዊ ፖርትፎሊዮ ገጽ እንዳይጠቁም ይከለክሉት።",
+      "disable2fa": {
+        "title": "2FA አሰናክል",
+        "description": "እርግጠኛ ነዎት ባለ ሁለት ደረጃ ማረጋገጫን ማጥፋት ይፈልጋሉ?",
+        "confirmPasswordLabel": "ለማረጋገጥ የይለፍ ቃልዎን ያስገቡ",
+        "currentPasswordPlaceholder": "የአሁኑ የይለፍ ቃል",
+        "cancelButton": "ሰርዝ",
+        "confirmButton": "2FA አሰናክል",
+        "incorrectPassword": "የተሳሳተ የይለፍ ቃል።"
+      },
+      "setup2fa": {
+        "step1Title": "1. የQR ኮድን ይቃኙ",
+        "step1Desc": "አረጋጋጭ መተግበሪያዎን ይክፈቱ እና የሚከተለውን QR ኮድ ይቃኙ፡",
+        "unableToScan": "መቃኘት አልተቻለም? የማዋቀር ቁልፍን ተጠቀም",
+        "step2Title": "2. ኮድ ያረጋግጡ",
+        "step2Desc": "በእርስዎ መተግበሪያ የመነጨውን ባለ 6-አሃዝ ኮድ ያስገቡ፡-",
+        "cancelButton": "ሰርዝ",
+        "enableButton": "2FA አንቃ",
+        "invalidLength": "እባክዎ ባለ 6-አሃዝ ኮድ ያስገቡ።",
+        "invalidCode": "ልክ ያልሆነ የማረጋገጫ ኮድ እባክህ እንደገና ሞክር።"
+      }
+    },
+    "personalization": {
+      "languageTitle": "የቋንቋ መቆጣጠሪያዎች",
+      "appLanguage": "የመተግበሪያ ቋንቋ",
+      "layoutTitle": "አቀማመጥ እና የፊደል አጻጻፍ",
+      "layoutStyle": "የአቀማመጥ ዘይቤ",
+      "layoutModern": "ዘመናዊ ቅጥ (ነባሪ)",
+      "layoutClassic": "ክላሲክ ዘይቤ",
+      "layoutMinimalist": "አነስተኛ ዘይቤ",
+      "fontSize": "የመተግበሪያ ቅርጸ-ቁምፊ መጠን",
+      "fontSmall": "ትንሽ",
+      "fontNormal": "መደበኛ (መካከለኛ)",
+      "fontLarge": "ትልቅ",
+      "searchLanguage": "ቋንቋ ፈልግ...",
+      "languageNotFound": "ቋንቋ አልተገኘም።",
+      "layoutElegant": "የሚያምር ዘይቤ"
+    },
+    "saveChanges": "ለውጦችን ያስቀምጡ",
+    "cancel": "ሰርዝ",
+    "appSettings": "የመተግበሪያ ቅንብሮች",
+    "logoutConfirmTitle": "መውጣቱን ያረጋግጡ",
+    "logoutConfirmDesc": "እርግጠኛ ነዎት ከስርዓቱ መውጣት ይፈልጋሉ?",
+    "logoutConfirmYes": "አዎ፣ ውጣ",
+    "generalError": "ስህተት ተከስቷል። ",
+    "success": "ስኬት",
+    "preferencesSaved": "የመተግበሪያ ምርጫዎች በተሳካ ሁኔታ ተቀምጠዋል።",
+    "header": "የመተግበሪያ ቅንብሮች",
+    "logout": {
+      "title": "የመውጣት ማረጋገጫ",
+      "message": "እርግጠኛ ነዎት ከስርዓቱ መውጣት ይፈልጋሉ?",
+      "confirm": "አዎ፣ ውጣ"
+    },
+    "about": {
+      "title": "ስለ መተግበሪያ",
+      "subtitle": "ፖርትፎሊዮ ገንቢ መድረክ",
+      "version": "ሥሪት",
+      "description": "DevFolio ለገንቢዎች፣ ዲዛይነሮች እና ሙያዊ ፈጣሪዎች የተነደፈ ዘመናዊ ፖርትፎሊዮ ገንቢ መድረክ ነው። ",
+      "license": "ፈቃድ እና የቅጂ መብት",
+      "copyright": "© 2026 DevFolio Inc. መብቱ በህግ የተጠበቀ ነው።",
+      "developer": "ገንቢ",
+      "developedBy": "በሪፍኪ ናራዳታ የተሰራ"
+    },
+    "deleteAccount": {
+      "title": "መለያን እስከመጨረሻው ሰርዝ",
+      "menuItem": "መለያ ሰርዝ",
+      "successTitle": "ስኬት",
+      "successMessage": "የመለያ ስረዛ ማረጋገጫ ኢሜይል ተልኳል።",
+      "errorTitle": "አልተሳካም።",
+      "errorMessage": "የማረጋገጫ ኢሜይል መላክ አልተሳካም።",
+      "confirmationMessage": "እርግጠኛ ነህ መለያህን እስከመጨረሻው መሰረዝ ትፈልጋለህ?",
+      "warningMessage1": "የመለያ መሰረዙን ለማረጋገጥ ኢሜይል ይደርስዎታል።",
+      "warningMessage2": "ከተረጋገጠ ሁሉም መረጃዎች (ፖርትፎሊዮ፣ ፕሮጀክቶች፣ ስታቲስቲክስ) እስከመጨረሻው ይሰረዛሉ እና ወደነበሩበት ሊመለሱ አይችሉም።",
+      "cancel": "ተሰርዟል።",
+      "confirm": "ማረጋገጫ"
+    },
+    "toasts": {
+      "toastError": "ስህተት",
+      "toastSuccess": "ስኬት",
+      "toastSetup2FAFailed": "2FA ማዋቀር አልተሳካም። እባክህ እንደገና ሞክር።",
+      "toast2FAEnabled": "ባለ ሁለት ደረጃ ማረጋገጥ ነቅቷል።",
+      "toast2FADisabled": "ባለ ሁለት ደረጃ ማረጋገጥ ተሰናክሏል።",
+      "toastSessionEnabled": "ንቁ የክፍለ ጊዜ ክትትል ነቅቷል።",
+      "toastSessionDisabled": "ንቁ የክፍለ ጊዜ ክትትል ተሰናክሏል።",
+      "toastSetupKeyCopied": "የማዋቀር ቁልፍ ወደ ቅንጥብ ሰሌዳ ተቀድቷል።"
+    },
+    "privacy": {
+      "title": "የግላዊነት ፖሊሲ",
+      "updateDate": "መጨረሻ የዘመነው፡ ጁላይ 15፣ 2026",
+      "intro": "ይህ የግላዊነት መመሪያ DevFolio አገልግሎቶቻችንን ሲጠቀም የእርስዎን የግል መረጃ እንዴት እንደሚሰበስብ፣ እንደሚጠቀም እና እንደሚጠብቅ ያብራራል።",
+      "section1Title": "1. የምንሰበስበው መረጃ",
+      "section1Content": "መለያ ሲፈጥሩ፣ ፖርትፎሊዮ ሲገነቡ እና የእኛን ድጋፍ ሲያነጋግሩ በቀጥታ ያቀረቡትን መረጃ እንሰበስባለን። ",
+      "section2Title": "2. የመረጃ አጠቃቀም",
+      "section2Content": "የእርስዎ መረጃ የአገልግሎቶቻችንን ባህሪያት ለመስራት፣ ለመጠገን እና ለማቅረብ እንዲሁም የእርስዎን መለያ ወይም አገልግሎቶችን በተመለከተ ከእርስዎ ጋር ለመገናኘት ይጠቅማል።",
+      "section3Title": "3. የውሂብ ደህንነት",
+      "section3Content": "መረጃዎን ካልተፈቀደ መዳረሻ፣ ይፋ ከማድረግ ወይም ከመጥፋት ለመጠበቅ ምክንያታዊ የደህንነት እርምጃዎችን እንተገብራለን።"
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "የማረጋገጫ ማስመሰያ አልተገኘም።",
+    "defaultError": "መለያ መሰረዝ አልተሳካም። ማስመሰያው ጊዜው አልፎበታል።",
+    "loadingTitle": "መለያን በመሰረዝ ላይ...",
+    "loadingMessage": "እባክህ ጠብቅ፣ ጥያቄህን እያስተናገድን ነው።",
+    "successTitle": "መለያ በተሳካ ሁኔታ ተሰርዟል።",
+    "successMessage": "ሁሉም ውሂብህ እስከመጨረሻው ተሰርዟል። ትመራለህ...",
+    "errorTitle": "መለያን መሰረዝ አልተሳካም።",
+    "backToHome": "ወደ ቤት ተመለስ"
+  },
+  "forgotPassword": {
+    "minutes": "ደቂቃ",
+    "seconds": "ሁለተኛ",
+    "success": "ተሳካ",
+    "otpSentToEmail": "የኦቲፒ ኮድ ወደ ኢሜልዎ ተልኳል።",
+    "failed": "አልተሳካም።",
+    "emailNotFound": "ኢሜይል አልተገኘም።",
+    "emailThirdParty": "ይህ ኢሜይል በሶስተኛ ወገን የተመዘገበ ነው።",
+    "genericError": "ስህተት አለ። እባክህ እንደገና ሞክር።",
+    "otpVerified": "የኦቲፒ ኮድ በተሳካ ሁኔታ ተረጋግጧል።",
+    "otpExpired": "የኦቲፒ ኮድ ጊዜው አልፎበታል። እባክዎ አዲስ ኮድ ይጠይቁ።",
+    "otpInvalid": "ልክ ያልሆነ የኦቲፒ ኮድ",
+    "otpResent": "አዲስ የኦቲፒ ኮድ ወደ ኢሜልዎ ተልኳል።",
+    "otpResendFailed": "የኦቲፒ ኮድን እንደገና መላክ አልተሳካም። እባክህ እንደገና ሞክር።",
+    "passwordResetSuccess": "የይለፍ ቃል በተሳካ ሁኔታ ዳግም ተጀምሯል። እባክዎ በአዲሱ የይለፍ ቃልዎ ይግቡ።",
+    "passwordResetFailed": "የይለፍ ቃል ዳግም ማስጀመር አልተሳካም።",
+    "backToLogin": "ወደ Login ተመለስ",
+    "back": "ተመለስ",
+    "title": "የይለፍ ቃሉን ረሳው",
+    "description": "በመለያዎ ላይ የተመዘገበውን የኢሜል አድራሻ ያስገቡ። የይለፍ ቃሉን እንደገና ለማስጀመር የኦቲፒ ኮድ እንልካለን።",
+    "emailLabel": "የኢሜል አድራሻ",
+    "sending": "ላክ...",
+    "sendOtp": "የኦቲፒ ኮድ ላክ",
+    "verifyOtpTitle": "የኦቲፒ ኮድ ያረጋግጡ",
+    "verifyOtpDesc": "ማንነትዎን ለማረጋገጥ ወደ ኢሜልዎ የተላከውን ባለ 6 አሃዝ ኮድ ያስገቡ።",
+    "verifying": "በማረጋገጥ ላይ...",
+    "verifyOtp": "የኦቲፒ ማረጋገጫ",
+    "resending": "እንደገና ላክ...",
+    "resendOtp": "የኦቲፒ ኮድን እንደገና ላክ",
+    "resendCodeIn": "የውስጥ ኮድ እንደገና ላክ",
+    "newPasswordTitle": "አዲስ የይለፍ ቃል ይፍጠሩ",
+    "newPasswordDesc": "መለያዎን ለመጠበቅ አዲስ ጠንካራ የይለፍ ቃል ይፍጠሩ።",
+    "newPasswordLabel": "አዲስ የይለፍ ቃል",
+    "min8Chars": "ቢያንስ 8 ቁምፊዎች",
+    "oneUpperCase": "1 አቢይ ሆሄ (A-Z)",
+    "oneNumber": "1 ቁጥር (0-9)",
+    "oneSymbol": "1 ምልክት (!@#$%^&*)",
+    "confirmPasswordLabel": "የይለፍ ቃል ያረጋግጡ",
+    "passwordsDoNotMatch": "የይለፍ ቃሎች አይዛመዱም።",
+    "resettingPassword": "የይለፍ ቃልን ዳግም በማስጀመር ላይ...",
+    "resetPassword": "የይለፍ ቃል ዳግም አስጀምር"
+  },
+  "verifyEmail": {
+    "resendError": "የማረጋገጫ ኢሜይል መላክ አልተሳካም። እባክህ እንደገና ሞክር።",
+    "checkingStatus": "የማረጋገጫ ሁኔታን በመፈተሽ ላይ...",
+    "title": "ኢሜልዎን ያረጋግጡ",
+    "description": "የማረጋገጫ ኢሜይል ወደ ኢሜል አድራሻዎ ልከናል። እባኮትን ኢሜይሉን ይክፈቱ እና መለያዎን ለማግበር <1>«መለያ ያረጋግጡ»</1> የሚለውን ቁልፍ ጠቅ ያድርጉ።",
+    "stepsTitle": "እርምጃዎች",
+    "step1": "የኢሜል ማመልከቻዎን ይክፈቱ (ጂሜል ፣ ያሁ ፣ ወዘተ)",
+    "step2": "\"መለያ ማግበር\" በሚል ርእስ ከDevFolio ኢሜይል ይፈልጉ",
+    "step3": "በኢሜል ውስጥ \"መለያ አረጋግጥ\" የሚለውን ቁልፍ ጠቅ ያድርጉ",
+    "step4": "ለመግባት ወደ የመግቢያ ገጹ ይዘዋወራሉ",
+    "resendSuccess": "የማረጋገጫ ኢሜይሉ ተልኳል!",
+    "resending": "እንደገና ላክ...",
+    "resendButton": "የማረጋገጫ ኢሜይልን እንደገና ላክ",
+    "backToLogin": "ወደ የመግቢያ ገጽ ተመለስ",
+    "footerNote": "ኢሜይሉ አልደረሰዎትም? በኢሜልዎ ውስጥ ያለውን የ<1>አይፈለጌ መልእክት</1> ወይም <2>Junk</2>ን ይመልከቱ። የማረጋገጫ ማገናኛው የሚሰራው ለ<3>24 ሰዓቶች</3> ነው።"
+  }
+}

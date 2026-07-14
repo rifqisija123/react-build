@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Anzene nzene ye",
+    "templates": "Modèle",
+    "pricing": "Prix",
+    "login": "Login",
+    "getStarted": "Komanse ti sara ni .",
+    "title": "Développement"
+  },
+  "landing": {
+    "badge": "A yeke nzoni ti leke portefeuille ti azo so ayeke sara développeur .",
+    "title1": "Bungbi professionnel ti mo .",
+    "title2": "portefeuille na",
+    "titleHighlight": "asegonde.",
+    "subtitle": "Aye kue so mo yeke na bezoin ni ti fa akode ti mo, akua ti mo nga na aye so mo hinga. ",
+    "startBuilding": "Komanse ti leke da ni fadeso .",
+    "viewTemplates": "Bâ a-modèle",
+    "fastDeployment": "Déploiement hio",
+    "liveStatus": "iri ti zo.dev ayeke na fini!",
+    "featuresTitle": "Akota ye so ayeke na yâ ni .",
+    "featuresSubtitle": "A mû na mo agbakuru kue so mo yeke na bezoin ni ti duti nde na popo ti azo nga ti wara kua so mo ye ti sara.",
+    "feature1Title": "Fade & Zia zo ti lekengo ye",
+    "feature1Desc": "A yeke ngangu pëpe ti leke ambage ti mo, akua ti mo nga na akode ti mo na lege ti éditeur visuel ti e so ayeke ngangu pëpe ti sara kua na ni.",
+    "feature2Title": "A-Thème ti zo oko oko",
+    "feature2Desc": "Soro na popo ti a-modèle so azo so ahinga kua ti ala nzoni aleke wala sara mbeni ye so ayeke nde.",
+    "feature3Title": "Analyse na ngoi ti tâ tënë",
+    "feature3Desc": "Bâ azo so aga ti bâ mo, bâ akua so azo ayeke bi bê mingi na ndo ni nga na ambeni ye nde."
+  },
+  "auth": {
+    "welcomeBack": "E yamba e nzoni",
+    "loginToContinue": "Zia iri ti mo na yâ ti compte ti mo ti ngbâ ti sara ni .",
+    "createAccount": "Sara mbeni compte",
+    "joinCommunity": "Join na ambeni développeur saki mingi .",
+    "fullName": "Iri ti lo kue",
+    "fullNamePlaceholder": "pn. ",
+    "email": "Adresse ti e-mail",
+    "emailPlaceholder": "mo@tapande.com",
+    "password": "Aye ti honde ngo ni",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Dabe ti mo na mbi .",
+    "forgotPassword": "Mo girisa mot de passe?",
+    "signIn": "Zia iri ti mo",
+    "signingIn": "Ti lï na yâ ni...",
+    "signUp": "Zia iri ti mo",
+    "signingUp": "Ti sû iri ti mo...",
+    "noAccount": "Mo yeke na mbeni compte pëpe?",
+    "hasAccount": "Mo yeke na mbeni compte awe?",
+    "passwordRules": {
+      "title": "A lingbi mot de passe ni aduti na:",
+      "length": "A yeke wara kamême atënë 8 .",
+      "uppercase": "Kota mbeti oko (A-Z) .",
+      "number": "Mbeni wungo (0-9)",
+      "symbol": "Mbeni fä (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Zo ti lekengo portefeuille",
+      "templates": "Modèles & Thèmes",
+      "settings": "Paramètres",
+      "collapse": "Barre ti mbage ti peko",
+      "overview": "Mbeni bango ndo na ndo ni",
+      "profileSettings": "Paramètre ti profil ti mo",
+      "customDomain": "Domaine ti zo mveni",
+      "feedback": "Kiri mu asango"
+    },
+    "header": {
+      "viewLive": "Bâ ni en direct",
+      "welcome": "Nzoni gangon,",
+      "logout": "Zia",
+      "builder": "Zo ti lekengo da",
+      "livePortfolio": "Portefeuille ti fini",
+      "live": "Lango"
+    },
+    "logoutModal": {
+      "title": "Zia",
+      "message": "Mo ye ti zi compte ti mo awe? ",
+      "cancel": "zi ni",
+      "confirm": "En, Zia"
+    },
+    "slugModal": {
+      "title": "Soro URL ti portefeuille ti mo .",
+      "message": "URL so ayeke duti ande lien so ayeke nde na portefeuille ti mo. ",
+      "slugPlaceholder": "iri ti mo",
+      "availability": "Ye so ayeke dä:",
+      "available": "Ayeke da",
+      "unavailable": "A yeke wara ni pëpe",
+      "checking": "Ti bâ...",
+      "mustFormat": "A lingbi ti wara gi alettre, a-numéro nga na a-trait (-)",
+      "cancel": "zi ni",
+      "save": "Bata URL",
+      "usernameUrl": "URL ti iri ti zo",
+      "helpText": "Akete lettre, a-numéro nga na a-trait. ",
+      "validation": {
+        "empty": "Slug alingbi ti duti senge pëpe.",
+        "min3": "Minimum ti atënë 3.",
+        "max30": "A yeke wara a-image 30.",
+        "format": "Gi akete lettre, a-numéro nga na a-trait (-). "
+      }
+    },
+    "loadingPortfolio": "A yeke zia asango ti portefeuille...",
+    "overview": {
+      "greetings": {
+        "morning": "Nzoni ndapre",
+        "afternoon": "Nzoni ndapre",
+        "evening": "Nzoni ndapre",
+        "night": "Nzoni bï"
+      },
+      "welcome": {
+        "hi": "Bonjour,",
+        "creator": "Wasarango ye",
+        "desc1": "A yeke na lege ni ti tene e sara kua na tableau ti DevFolio. A yeke bâ portefeuille ti mo na .",
+        "desc2": "zo. Ngbâ ti sara kua!",
+        "editPortfolio": "Mo leke portefeuille"
+      },
+      "stats": {
+        "totalVisitors": "Wungo ti azo kue so aga",
+        "projectViews": "A bâ ni (Projet)",
+        "activeSessions": "Session ti kusala",
+        "totalLabel": "Wungo ni kue"
+      },
+      "setup": {
+        "title": "Progrès ti lekengo ye",
+        "completed": "Portefeuille ti mo ayeke dä! 🎉",
+        "inProgress": "A-étape ti portefeuille so ayeke parfait.",
+        "profile": {
+          "title": "Profil ti mo kue",
+          "desc": "A zia iri, bio nga na foto ti profil ti mo."
+        },
+        "section": {
+          "title": "A zia ambeni mbage na ndo ni",
+          "desc": "A yeke wara kamême mbage 1 na yâ ti portefeuille ni."
+        },
+        "project": {
+          "title": "A zia na ndo ni mbeni projet",
+          "desc": "Zia kamême 1 ti anzoni kusala ti mo."
+        },
+        "publish": {
+          "title": "Zia portefeuille ti mo",
+          "desc": "Zia mbeni URL so mo leke ni nde tongaso si azo kue alingbi ti wara ni."
+        }
+      },
+      "topProjects": {
+        "title": "A-Projet so azo aye ni mingi",
+        "desc": "Salango kusala ti mo na lê ti azo so aga ti bâ mo.",
+        "viewAll": "Bâ aye kue",
+        "empty": "A yeke wara pëpe asango ti bango ndo na ndo ti projet ti mo."
+      }
+    },
+    "themes": {
+      "title": "Modèles & Thèmes",
+      "subtitle": "Personnalisé bango ndo ti portefeuille ti mo ti azo kue.",
+      "reset": "Réinitialiser par défaut",
+      "save": "Save achangement",
+      "saving": "Sauvegarde...",
+      "chooseTemplate": "Soro mbeni Modèle",
+      "primaryColor": "Couleur ti kozoni",
+      "typography": "Typographie",
+      "appearance": "Apparition",
+      "corners": "Acoin & Afrontière",
+      "successTitle": "Succès",
+      "successMessage": "A-préférence ti thème so a sara si a ga nzoni",
+      "errorTitle": "Erreur",
+      "errorMessage": "A lingbi ti bata a-préférence ti thème",
+      "templates": {
+        "minimalist": {
+          "name": "Azo ti kete ngoi",
+          "desc": "Design so ayeke propre nga so ayeke ngangu pëpe so aluti mingi na ndo ti atënë so ayeke na yâ ni."
+        },
+        "developerDark": {
+          "name": "Développeur ti Bingo",
+          "desc": "Thème ti bingo so ayeke parfait ti fa na gigi kode nga na a-étape ti tech."
+        },
+        "creative": {
+          "name": "Créatif",
+          "desc": "Layout so ayeke na fini nga so ayeke na couleur mingi ndali ti azo so ayeke leke aye nga na azo so ayeke sara ni."
+        },
+        "executive": {
+          "name": "Azo ti kua",
+          "desc": "Layout professionnel na formal teti azo ti dengo buze."
+        },
+        "bentoGrid": {
+          "name": "Grille ti Bento",
+          "desc": "A leke grille ti laso tongana ti Apple so afa na gigi akode nde nde nzoni."
+        },
+        "neoBrutalism": {
+          "name": "Néo-Brutalisme",
+          "desc": "A yeke wara afrontière so ayeke ngangu pëpe nga na acolore so ayeke nde mingi ndali ti mbeni bango ndo so ayeke na lege ni nga so ayeke hunda pardon pëpe."
+        },
+        "glassmorphism": {
+          "name": "Morphisme ti verre",
+          "desc": "A-effet ti verre so a sara ni na glace na ndö ti a-gradient ti couleur ndali ti mbeni pendere UI ti ngoi ti e."
+        },
+        "linkInBio": {
+          "name": "Lien na Bio",
+          "desc": "A leke ni nzoni ndali ti a-écran ti téléphone nga na aréseaux sociaux."
+        }
+      },
+      "appearances": {
+        "light": "Lumière",
+        "dark": "Bingo",
+        "system": "Système"
+      },
+      "cornersOptions": {
+        "sharp": "Akete",
+        "rounded": "Ronde",
+        "pill": "Pillule"
+      }
+    },
+    "feedback": {
+      "title": "Tokua acommentaire",
+      "subtitle": "Mû maboko na e ti sara si a ga nzoni na mungo awango, atënë ti zongo wala fango ambeni kpale so ayeke na yâ ti application so.",
+      "categoryLabel": "Catégorie ti kiringo tënë",
+      "messageLabel": "Asango ti tokua",
+      "messagePlaceholder": "Tene na mbi anzene nzene tënë na ndo ti atënë so mo ye ti fa...",
+      "imageLabel": "Image ti ziango na ndo ni (Na lege ti fä)",
+      "imagePlaceholder": "Cliqué na ndö ti image wala capture ti écran",
+      "submitting": "Ti tokua...",
+      "submitBtn": "Tokua acommentaire",
+      "categories": {
+        "suggestion": "Awango & apensé",
+        "bug": "Rapport ti erreur / erreur",
+        "criticism": "Critique",
+        "other": "Ambeni zo nde"
+      },
+      "imageErrorTitle": "Erreur",
+      "imageErrorMessage": "Ambeni fichier ni ayeke dä pëpe ndali ti so a yeke mû maboko na ala pëpe ti sara kua na a-image (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Succès",
+      "successMessage": "Merci so mo mû atënë ti bê ti mo! A tokua rapport ni awe.",
+      "submitErrorTitle": "A yeke",
+      "submitErrorMessage": "Mbeni faute asi na ngoi so a yeke tokua acommentaire. Pardon, kiri mo tara ni."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Na ndo ti mbi",
+      "skills": "Akode",
+      "projects": "A-projet",
+      "workExperience": "Expérience ti kua",
+      "orgExperience": "Ye so asi na yâ ti bungbi",
+      "education": "Fango mbeti",
+      "certifications": "Formation na a-attestation",
+      "contact": "Sara lisoro na mbi"
+    },
+    "editor": {
+      "profileInfo": "Asango na ndo ti zo",
+      "saving": "Ti bata...",
+      "profilePhoto": "Foto ti zo",
+      "clickToUpload": "Zia na ndo ni (JPG, PNG)",
+      "fullName": "Iri ti lo kue",
+      "fullNamePlaceholder": "pn. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Développeur so ayeke na nzara ti lekengo a-application ti web ti laso...",
+      "location": "Louengo ni",
+      "locationPlaceholder": "pn. ",
+      "gender": "Wali wala koli",
+      "selectGender": "Soro Gender .",
+      "male": "Koli",
+      "female": "Wali",
+      "custom": "Klient",
+      "customPlaceholder": "Sû genre ti mo wani...",
+      "uploadCv": "Zia CV ti mo",
+      "cvFormat": "(DOC wala PDF)",
+      "preview": "Aperçu",
+      "remove": "Zi ya ni",
+      "clickToUploadCv": "Click to upload PDF or DOC",
+      "sections": "Ambage .",
+      "removeSelected": "Zia aye so a soro .",
+      "confirmRemove": "Confirmé ti zi",
+      "addSection": "A zia Mbage ni .",
+      "addAllSections": "Zia ambage ni kue",
+      "noSections": "A yeke wara ambage pëpe .",
+      "clickToAdd": "Zia \"+ Ajouter une section\" ti komanse ti sara kua na ni .",
+      "selectAll": "Soro aye kue .",
+      "selected": "A soro ni",
+      "dragToReorder": "Fade a yeke kiri ti leke ambage ni .",
+      "livePreview": "Aperçu en direct",
+      "addSectionsToBuild": "Zia ambeni mbage ti leke na portefeuille ti mo .",
+      "now": "Fafadeso",
+      "current": "Fafadeso",
+      "noExpiry": "Expiration ayeke dä pëpe",
+      "see": "Ba",
+      "position": "Dutingo ti lo",
+      "degree": "Kota ti lo",
+      "certification": "Mbeti ti mungo mbeti",
+      "sectionsForm": {
+        "about": {
+          "label": "Fango nda ti tele ti mo .",
+          "placeholder": "Fa na e tënë ti mo wani, ndo so mo londo dä, aye so mo ye nga na akode ti mo..."
+        },
+        "skills": {
+          "addPlaceholder": "Sû skill ni na pekoni pika Enter..."
+        },
+        "projects": {
+          "title": "Iri ti kusala ni",
+          "titlePlaceholder": "Iri ti kusala ni...",
+          "url": "URL ti kusala ni",
+          "description": "Fango ye",
+          "descriptionPlaceholder": "Mbeni nduru tënë na ndo ti kua ni...",
+          "uploadThumbnail": "Image ti projet ni",
+          "addProject": "A zia na ndo ni mbeni projet",
+          "projectNum": "Kapa #",
+          "currentProject": "A yeke mbeni projet so mbi yeke sara kua na ndö ni ."
+        },
+        "work": {
+          "company": "Société/Agence",
+          "companyPlaceholder": "Iri ti ndokua ni...",
+          "position": "Kua/Titre",
+          "positionPlaceholder": "Position ti mo...",
+          "employmentType": "Mara ti kua .",
+          "location": "Louengo ni",
+          "locationPlaceholder": "Gbata, Kodoro...",
+          "startDate": "Tonda",
+          "endDate": "A hunzi",
+          "currentWork": "Mbi ngbâ ti sara kua na ngoi ni so .",
+          "description": "Fango ye",
+          "descriptionPlaceholder": "Fango nda ti kusala na akungba...",
+          "skills": "Kode",
+          "addExperience": "A yeke wara Expérience ti kua .",
+          "experienceNum": "Ndara ti kua #",
+          "dateError": "Lango ti hunzingo ni alingbi pëpe ti duti kozoni na lango ti tongo nda ni ."
+        },
+        "org": {
+          "organization": "Iri ti bungbi ni",
+          "orgPlaceholder": "Kota da-mbeti ti BEM...",
+          "role": "Kusala/Kodoro",
+          "rolePlaceholder": "Mokonzi ti Division...",
+          "addOrg": "A yeke wara Expérience ti bungbi .",
+          "orgNum": "Bungbi #"
+        },
+        "edu": {
+          "institution": "Akota ndokua ti fango mbeti",
+          "institutionPlaceholder": "Iri ti campus wala ti ekole...",
+          "degree": "Mama tene",
+          "degreePlaceholder": "S1, lycée, etc...",
+          "major": "Département/Ndo ti mandango ye",
+          "majorPlaceholder": "Ingénieur ti asango...",
+          "gpa": "GPA (mo soro)",
+          "currentStudy": "Mbi ngbâ ti manda ye ge .",
+          "descriptionPlaceholder": "Akusala nga na aye so zo awara na ngoi ti mandango ye...",
+          "addEdu": "Add Education",
+          "eduNum": "Fango mbeti #"
+        },
+        "cert": {
+          "name": "Iri ti mbeti ti mungo mbeti / formation .",
+          "namePlaceholder": "Iri ti mbeti ti fango na zo...",
+          "issuer": "Wafango tënë",
+          "issuerPlaceholder": "Ndokua ti sigingo na ambeti...",
+          "issueDate": "To nda ni (Lango ti sigingo na ni)",
+          "issueDatePlaceholder": "Soro lango ti sigingo na ni...",
+          "expiryDate": "A hunzi awe (Ngoi so ayeke na lege ni)",
+          "expiryDatePlaceholder": "Soro lango ti hunzingo ti kusala ni...",
+          "noExpiry": "Certificat so ayeke na lango ti hunzingo ni pëpe .",
+          "url": "URL ti mbeti ti hingango na zo",
+          "uploadThumbnail": "Image ti mbeti / formation",
+          "uploadThumbnailLimit": "Zia image ti mbeti ti mungo maboko (JPG/PNG/WEBP, ahon 2MB)",
+          "addCert": "A zia na ndo ni mbeni certificat",
+          "certNum": "Sertifikasi #"
+        },
+        "contact": {
+          "contactNum": "Asango ti zo #",
+          "platform": "Ndo ti kusala",
+          "displayText": "Fa atënë ti yâ ni",
+          "displayTextPlaceholder": "na tapande, mo@email.com wala @iri ti zo ti kua",
+          "url": "Lien (URL)",
+          "urlPlaceholderWhatsapp": "na tapande, 62812... (na ziango 0 na li ni pëpe)",
+          "urlPlaceholderEmail": "na tapande, mo@email.com",
+          "urlPlaceholderWebsite": "na tapande, http://...",
+          "urlPlaceholderDefault": "pn., iri ti zo",
+          "addContact": "Zia mbeni zo na ndo ni"
+        },
+        "common": {
+          "months": {
+            "1": "Nze ti Gnyenye",
+            "2": "Nze ti folondigui",
+            "3": "Nze ti mbango",
+            "4": "Ngu ti",
+            "5": "Mbi pe ti",
+            "6": "Nze ti",
+            "7": "Nze ti lengao",
+            "8": "Nze ti koukourou",
+            "9": "Nze ti mvouka",
+            "10": "Nze ti ngberere",
+            "11": "Nze ti nabandourou",
+            "12": "Nze ti kakaouka"
+          },
+          "month": "Nze",
+          "year": "Ngu",
+          "invalidDate": "Nze ti hunzingo ni ayeke na lege ni pëpe",
+          "words": "atene"
+        }
+      },
+      "sure": "Ni la",
+      "deletePhotoTitle": "Effacé foto ti profil ti mo?",
+      "deletePhotoMessage": "Mo ye ti supprimé foto ti profil ti mo so?",
+      "cancel": "zi ni",
+      "delete": "Zi ni"
+    },
+    "cropper": {
+      "chooseBackground": "Soro Fond .",
+      "cropPhoto": "Crop foto ti mo",
+      "useOriginal": "Lo yeke original .",
+      "backgroundPresets": "A-Présets ti peko",
+      "none": "Ye oko pepe",
+      "uploadBackground": "Téléchargez le fond",
+      "cancel": "zi ni",
+      "savePhoto": "Bata foto ni",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation & Inclinaison",
+      "resetRotation": "Zia na 0° .",
+      "center": "Kota ndokua ti kusala",
+      "rotateLeft": "Tourné -90°",
+      "rotateRight": "Tourné +90°",
+      "removeBackground": "Zia peko ti ye ni .",
+      "processing": "Ti sara kua na image ti mo, pardon ku..."
+    },
+    "cvPreview": {
+      "title": "Aperçu ti CV",
+      "downloadCv": "Téléchargé CV",
+      "download": "Mu aye",
+      "wordCannotPreview": "A lingbi ti bâ ambeti ti Word (.doc/.docx) pëpe na yâ ti navigateur ni. ",
+      "downloadFile": "Téléchargé fichier ti CV",
+      "back": "Kiri na peko",
+      "mobileMessage": "E hunda na mo ti téléchargé fichier ti CV ni ti bâ ni kozoni.",
+      "preview": "Bâ CV",
+      "wordPreviewTitle": "A-avant-première ti mbeti ti Word",
+      "wordPreviewMessage": "A lingbi ti bâ ambeti ti Word (.doc/.docx) pëpe na yâ ti navigateur ni. Zia e téléchargé fichier ni ti bâ ni."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Sû mbeni nduru tënë na ndo ti mo wani, aye so mo ye nga na aye so mo zia na gbele mo ti sara na yâ ti gigi ti mo..."
+    },
+    "skills": {
+      "placeholder": "Sû iri ti kode ni...",
+      "add": "Za da",
+      "enterToAdd": "Zia Enter ti zia .",
+      "noSkills": "A zia mbeni kode na ndo ni pëpe."
+    },
+    "projects": {
+      "projectName": "Iri ti kusala ni",
+      "projectNamePlaceholder": "pn. ",
+      "projectUrl": "URL ti kusala ni",
+      "projectUrlPlaceholder": "http://...",
+      "duration": "Ngoi so ayeke ninga",
+      "startMonth": "Nze ti tongo nda ni",
+      "startYear": "Ngu ti tongo nda ni .",
+      "endMonth": "Nze ti hunzingo",
+      "endYear": "Ngu ti hunzingo",
+      "currentlyWorking": "Fadeso, a yeke sara kua na ndo ti tënë so .",
+      "description": "Fango ye",
+      "descriptionPlaceholder": "Fa kusala ti mo, kusala ti mo, na aye so mo sala...",
+      "technologies": "A-technologie so a sara kua na ni .",
+      "addProject": "A zia na ndo ni mbeni projet",
+      "image": "Image ti projet ni",
+      "removeImage": "Zia image ni",
+      "uploadImage": "Cliqué na ndö ti image ni ."
+    },
+    "work": {
+      "company": "Kompani/Ndokua",
+      "companyPlaceholder": "Iri ti ndokua ni...",
+      "role": "Kusala/Kodoro",
+      "rolePlaceholder": "Position ti mo...",
+      "jobType": "Mara ti kua",
+      "selectJobType": "Soro mara ni .",
+      "fullTime": "Kua ti ngoi kue",
+      "partTime": "Na ngoi kete",
+      "contract": "Mango tere",
+      "internship": "Wamandango mbeti",
+      "freelance": "Zo so ayeke sara kua ti lo wani",
+      "location": "Louengo ni",
+      "locationPlaceholder": "pn. ",
+      "duration": "Ngoi so ayeke ninga",
+      "currentlyWorking": "Fadeso, mbi yeke sara kua ge .",
+      "description": "Tënë ti kusala",
+      "descriptionPlaceholder": "Fa akota kusala ti mo nga na aye so mo sara...",
+      "skills": "Ambilimbili kode",
+      "addExperience": "A yeke wara Expérience"
+    },
+    "org": {
+      "organization": "Iri ti bungbi ni",
+      "organizationPlaceholder": "Iri ti bungbi...",
+      "role": "Kusala/Kodoro",
+      "rolePlaceholder": "pn. ",
+      "duration": "Ngoi so ayeke ninga",
+      "periodFormat": "wala Format so ayeke senge senge (na tapande, 2020 - 2022)",
+      "periodPlaceholder": "pn. ",
+      "currentlyActive": "A yeke sara kua fadeso",
+      "description": "Fango nda ti kusala",
+      "descriptionPlaceholder": "Fa akusala ti mo wala a-offrande ti mo...",
+      "addExperience": "A yeke wara Expérience"
+    },
+    "education": {
+      "institution": "Iri ti ndokua ni",
+      "institutionPlaceholder": "Iri ti ekole wala ti kota da-mbeti...",
+      "degree": "Diplôme/Niveau",
+      "degreePlaceholder": "pn. ",
+      "major": "Kota/Ndo ti mandango ye",
+      "majorPlaceholder": "pn. ",
+      "gpa": "GPA / Note",
+      "gpaPlaceholder": "pn. ",
+      "duration": "Ngoi ti fango ye",
+      "periodFormat": "wala Format ti nginza pëpe (na tapande, 2018 - 2022)",
+      "periodPlaceholder": "pn. ",
+      "currentlyStudying": "Fadeso lo yeke manda ye ge .",
+      "description": "Akusala / A-Honor",
+      "descriptionPlaceholder": "Fa akusala ti mandango mbeti, abungbi, wala gonda so a wara...",
+      "addEducation": "Add Education"
+    },
+    "cert": {
+      "name": "Iri ti mbeti ti mungo maboko",
+      "namePlaceholder": "pn. ",
+      "issuer": "Bungbi so ayeke mû ambeti",
+      "issuerPlaceholder": "pn. ",
+      "issueDate": "Lango ti sigingo na ni",
+      "expiryDate": "A yeke sara kua juska na 2019.",
+      "noExpiry": "Crédentiel so ayeke hunzi pëpe .",
+      "yearPlaceholder": "wala Ngu (na tapande 2023)",
+      "credentialUrl": "URL ti mbeti ti hingango na zo",
+      "credentialUrlPlaceholder": "http://...",
+      "skills": "Akode so andu ni",
+      "addCertification": "A zia na ndo ni mbeni certificat",
+      "image": "Image/Logo",
+      "removeImage": "Zia image ni",
+      "uploadImage": "Cliqué na ndö ti image ni ."
+    },
+    "common": {
+      "months": {
+        "1": "Nze ti Gnyenye",
+        "2": "Nze ti folondigui",
+        "3": "Nze ti mbango",
+        "4": "Ngu ti",
+        "5": "Mbi pe ti",
+        "6": "Nze ti",
+        "7": "Nze ti lengao",
+        "8": "Nze ti koukourou",
+        "9": "Nze ti mvouka",
+        "10": "Nze ti ngberere",
+        "11": "Nze ti nabandourou",
+        "12": "Nze ti kakaouka"
+      },
+      "month": "Nze",
+      "year": "Ngu",
+      "invalidDate": "Nze ti hunzingo ni ayeke na lege ni pëpe",
+      "words": "atene"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Sara kua na profil ti portefeuille ti mo nga na aye so mo ye",
+    "tabs": {
+      "profile": "Profil ti mbi",
+      "security": "Batango ti aye",
+      "personalization": "Sarango ye alingbi na zo oko oko"
+    },
+    "profile": {
+      "infoTitle": "Akota tënë",
+      "photo": "Foto ti zo",
+      "uploadPhoto": "Changé foto ni",
+      "fullName": "Iri ti lo kue",
+      "fullNamePlaceholder": "Jean Doe",
+      "email": "Adresse ti e-mail",
+      "emailPlaceholder": "jean@tapande.com",
+      "emailHelp": "A yeke sara kua na a-email ti lï na yâ ni na a yeke fa ni na azo kue pëpe.",
+      "portfolioUrl": "URL ti portefeuille",
+      "saveProfile": "Bata profil ti mo",
+      "save": "Bata profil ti mo",
+      "accountCreated": "A leke mbeni compte",
+      "lastLogin": "Dernier login",
+      "oauthNotice": "Profil so ayeke na ndo ti compte ti mo {{fournisseur}}. A lingbi a sara achangement ti profil na lege ti zo so ayeke mû maboko na lo."
+    },
+    "security": {
+      "changePassword": "Changé mot de passe",
+      "currentPassword": "Mot de passe ti fadeso",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Fini mot de passe",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Confirmé fini mot de passe",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "A yeke wara kamême atënë 8 .",
+        "uppercase": "Kota mbeti oko (A-Z) .",
+        "number": "Mbeni wungo (0-9)",
+        "symbol": "Mbeni fä (!@#$%^&*)"
+      },
+      "passwordTitle": "Aye ti honde ngo ni",
+      "updatePassword": "Mot de passe",
+      "additionalSecurity": "Ambeni ye ti batango tele",
+      "twoFactor": "A-authentification so ayeke na lege ti aye use (2FA)",
+      "twoFactorDesc": "Securisé compte ti mo na lege ti mbeni kode OTP nde.",
+      "activeSessions": "Session so ayeke sara kua",
+      "activeSessionsDesc": "Zia lakue si a bâ lege ti a-appareil so mo lï na yâ ni.",
+      "publicVisibility": "Azo kue ayeke bâ ni",
+      "hideFromSearch": "Honde portefeuille ti mo na yâ ti a-moteur ti gingo ye .",
+      "hideFromSearchDesc": "Kanga lege na Google ti indexé alembeti ti portefeuille ti mo ti azo kue.",
+      "disable2fa": {
+        "title": "Desactivé 2FA",
+        "description": "Mo hinga biani so mo ye ti kanga lege na authentification so ayeke na akota ye use?",
+        "confirmPasswordLabel": "Zia mot de passe ti mo ti confirmé ni .",
+        "currentPasswordPlaceholder": "Mot de passe ti fadeso",
+        "cancelButton": "Annuler",
+        "confirmButton": "Desactivé 2FA",
+        "incorrectPassword": "Mot de passe so ayeke na lege ni pëpe."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scanné Code QR .",
+        "step1Desc": "Zia application ti authentificateur ti mo na scanner code QR so:",
+        "unableToScan": "Mo lingbi ti scanner ni ape? Lo sara kua na clé ti configuration .",
+        "step2Title": "2. Verifié Kode .",
+        "step2Desc": "Zia kode ti 6 so application ti mo asigigi na ni:",
+        "cancelButton": "zi ni",
+        "enableButton": "Zia si 2FA",
+        "invalidLength": "Zia mbeni kode so ayeke na chiffre 6.",
+        "invalidCode": "Kode ti vérification ni ayeke na lege ni pëpe. Pardon, kiri mo tara ni."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Ayanga ti kodoro",
+      "appLanguage": "Ayanga ti kodoro ti App",
+      "layoutTitle": "Layout na typographie",
+      "layoutStyle": "Style ti lekengo ye",
+      "layoutModern": "Style ti ngoi ti e (Par défaut)",
+      "layoutClassic": "Style ti classique",
+      "layoutMinimalist": "Style ti kete ye",
+      "fontSize": "Kota ti mbeti ti application",
+      "fontSmall": "Kete",
+      "fontNormal": "Normal (Moyen)",
+      "fontLarge": "Akono",
+      "searchLanguage": "Gi yanga ti kodoro...",
+      "languageNotFound": "A wara yanga ti kodoro ni pëpe .",
+      "layoutElegant": "Style ti élégant"
+    },
+    "saveChanges": "Bata achangement ni",
+    "cancel": "zi ni",
+    "appSettings": "Paramètre ti application",
+    "logoutConfirmTitle": "Confirmé so mo sigigi",
+    "logoutConfirmDesc": "Mo yeke na kite pëpe so mo ye ti sigigi na yâ ti système ni?",
+    "logoutConfirmYes": "En, Zia",
+    "generalError": "Mbeni faute asi. ",
+    "success": "Maingoni",
+    "preferencesSaved": "App ti préférences so a bata ni nzoni.",
+    "header": "Paramètre ti application ni",
+    "logout": {
+      "title": "Confirmation ti sigingo na yâ ni",
+      "message": "Mo yeke na kite pëpe so mo ye ti sigigi na yâ ti système ni?",
+      "confirm": "En, Zia"
+    },
+    "about": {
+      "title": "Na ndo ti demande",
+      "subtitle": "Plateforme ti lekengo portefeuille",
+      "version": "Mbeti",
+      "description": "DevFolio ayeke mbeni plateforme ti lekengo a-portefeuille ti ngoi ti e so a leke ni ndali ti azo so ayeke leke aye, azo so ayeke leke aye nga na azo so ayeke sara kua nzoni. ",
+      "license": "Licence & Droit d'auteur",
+      "copyright": "© 2026 DevFolio Inc. Azo kue ayeke na droit ti sara ni.",
+      "developer": "Wasalango ye",
+      "developedBy": "A leke ni na Équipe ti DevFolio ."
+    },
+    "deleteAccount": {
+      "title": "Effacé compte ti mo lakue lakue",
+      "menuItem": "Supprimer Compte",
+      "successTitle": "Succès",
+      "successMessage": "A tokua na mo mbeni email ti fa so mo supprimé compte ti mo awe.",
+      "errorTitle": "A yeke",
+      "errorMessage": "A lingbi ti tokua e-mail ti confirmation.",
+      "confirmationMessage": "Mo hinga biani so mo ye ti supprimé compte ti mo biani biani?",
+      "warningMessage1": "E yeke wara mbeni email ti fa so e supprimé compte ti e awe.",
+      "warningMessage2": "Tongana a confirmé ni, a yeke supprimé asango kue (portefeuille, a-projet, a-statistique) biani biani na a lingbi ti kiri ti wara ni pëpe.",
+      "cancel": "Annuler",
+      "confirm": "Confirmation"
+    },
+    "toasts": {
+      "toastError": "Tene ti mvene",
+      "toastSuccess": "Maingoni",
+      "toastSetup2FAFailed": "A lingbi ti sara kua na 2FA. Pardon, kiri mo tara ni.",
+      "toast2FAEnabled": "A sara si a yeke ngangu pëpe ti hinga zo ni.",
+      "toast2FADisabled": "A sara kua na authentification ti facteur use.",
+      "toastSessionEnabled": "A yeke sara si a yeke sara kua na surveillance ti session.",
+      "toastSessionDisabled": "A yeke sara kua na surveillance ti session active.",
+      "toastSetupKeyCopied": "Setup clé ti copié na clipboard."
+    },
+    "privacy": {
+      "title": "Mbele ti batango tënë ti zo",
+      "updateDate": "A sara ni na lango 15 ti juillet, ngu 2026",
+      "intro": "Mbeti so afa tongana nyen la DevFolio ayeke bungbi, ayeke sara kua na asango ti mo nga ayeke bata ni na ngoi so mo yeke sara kua na aservice ti e.",
+      "section1Title": "1. Asango so e yeke bungbi .",
+      "section1Content": "E yeke bungbi asango so mo mû gï na ngoi so mo sara mbeni compte, mo leke mbeni portefeuille nga mo sara lisoro na azo so ayeke mû maboko na e. ",
+      "section2Title": "2. Salango kusala na asango .",
+      "section2Content": "A yeke sara kua na asango ti mo ti sara kua na ni, ti bata ni nga ti mû na mo ambeni ye so ayeke na yâ ti aservice ti e, nga ti sara lisoro na mo na ndö ti compte ti mo wala aservice ti mo.",
+      "section3Title": "3. Securité ti asango .",
+      "section3Content": "E yeke sara kua na ambeni ye so alingbi ti bata asango ti mo si azo so amû lege na ala pëpe ti wara ni, ti fa ni wala ti futi ni pëpe."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "A wara pëpe fä ti confirmation.",
+    "defaultError": "A lingbi ti supprimé compte ti lo. Token ni alingbi ti hunzi awe.",
+    "loadingTitle": "Ti supprimé compte...",
+    "loadingMessage": "Pardon, ku, e yeke sara kua na demande ti mo.",
+    "successTitle": "Compte ti zo so a supprimé ni",
+    "successMessage": "A supprimé asango ti mo kue biani biani. A yeke kiri na mo...",
+    "errorTitle": "A lingbi ti supprimé compte ti mo",
+    "backToHome": "Kiri na yanga-da ."
+  },
+  "forgotPassword": {
+    "minutes": "penze-ngbonga",
+    "seconds": "asegonde",
+    "success": "Succès",
+    "otpSentToEmail": "A tokua mbeni kode ti OTP na e-mail ti mo.",
+    "failed": "A yeke",
+    "emailNotFound": "Email ni ayeke dä pëpe.",
+    "emailThirdParty": "A sû iri ti e-mail so na lege ti mbeni zo nde.",
+    "genericError": "Mbeni faute ayeke dä. Pardon, kiri mo tara ni.",
+    "otpVerified": "Kode ti OTP ni ayeke nzoni.",
+    "otpExpired": "Kode ti OTP ni ayeke dä. E hunda na mo ti hunda mbeni fini kode.",
+    "otpInvalid": "Kode ti OTP so ayeke na lege ni pëpe.",
+    "otpResent": "A tokua mbeni fini kode ti OTP na e-mail ti mo.",
+    "otpResendFailed": "A lingbi ti kiri ti tokua kode ti OTP. Pardon, kiri mo tara ni.",
+    "passwordResetSuccess": "Mot de passe ni ayeke nzoni. Zia e lï na yâ ni na fini mot de passe ti e.",
+    "passwordResetFailed": "A lingbi ti réinitialiser mot de passe.",
+    "backToLogin": "Kiri na ndo ti Login",
+    "back": "Na pekoni",
+    "title": "A girisa Mot de passe",
+    "description": "Zia adresse e-mail so a sû iri ti mo na ndo ti compte ti mo. A yeke tokua mbeni kode OTP ti kiri na mot de passe ni.",
+    "emailLabel": "Adresse ti email",
+    "sending": "Ti tokua...",
+    "sendOtp": "Kode ti OTP",
+    "verifyOtpTitle": "Verifié Kode ti OTP",
+    "verifyOtpDesc": "Zia kode ti 6 so a tokua na e-mail ti mo ti fa so mo yeke zo wa.",
+    "verifying": "Verifié...",
+    "verifyOtp": "Verifié OTP",
+    "resending": "Ti kiri ti tokua ni...",
+    "resendOtp": "Ti kiri ti tokua Kode ti OTP",
+    "resendCodeIn": "Reenvoir kode ni na",
+    "newPasswordTitle": "Sara mbeni fini mot de passe",
+    "newPasswordDesc": "Sara mbeni fini mot de passe so ayeke ngangu ti bata na compte ti mo.",
+    "newPasswordLabel": "Fini Mot de passe",
+    "min8Chars": "Minimum ti atënë 8",
+    "oneUpperCase": "1 kota mbeti (A-Z)",
+    "oneNumber": "1 wungo (0-9)",
+    "oneSymbol": "1 fä (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirmé Mot de passe",
+    "passwordsDoNotMatch": "A-mot de passe ayeke lingbi tere pëpe.",
+    "resettingPassword": "Ti kiri ti leke mot de passe...",
+    "resetPassword": "Réinitialiser mot de passe"
+  },
+  "verifyEmail": {
+    "resendError": "A lingbi ti kiri ti tokua a-email ti vérification. Pardon, kiri mo tara ni.",
+    "checkingStatus": "Ti bâ wala a yeke na lege ni...",
+    "title": "Bâ Email ti mo",
+    "description": "A tokua mbeni email ti vérification na adresse e-mail ti mo. Zia e-mail ni na cliqué na ndö ti bouton <1>\"Confirmer compte\"</1> ti sara si compte ti mo asara kua.",
+    "stepsTitle": "A-étape",
+    "step1": "Zia application ti e-mail ti mo (Gmail, Yahoo, na ambeni ye tongaso)",
+    "step2": "Gi mbeni email so alondo na DevFolio so tënë ni ayeke \"Activation ti compte\"",
+    "step3": "Zia \"Confirmer compte\" na yâ ti email ni",
+    "step4": "A yeke fa na mo lembeti ti lï na yâ ni ti lï na yâ ni",
+    "resendSuccess": "A kiri a tokua a-email ti vérification ni awe!",
+    "resending": "Ti kiri ti tokua ni...",
+    "resendButton": "Kiri mo tokua a-email ti vérification",
+    "backToLogin": "Kiri na Page ti lï na yâ ni",
+    "footerNote": "Mo wara email ni pëpe? Bâ dossier ti <1>Spam</1> wala <2>Junk</2> so ayeke na yâ ti a-email ti mo. Lien ti vérification ni ayeke sara kua teti <3>ngbonga 24</3>."
+  }
+}

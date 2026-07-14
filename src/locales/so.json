@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Astaamaha",
+    "templates": "Qaababka",
+    "pricing": "Qiimaha",
+    "login": "Soo gal",
+    "getStarted": "Bilow",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Dhisaha faylalka ugu dambeeya ee horumariyeyaasha",
+    "title1": "Dhis xirfadlahaaga",
+    "title2": "portfolio in",
+    "titleHighlight": "ilbiriqsi",
+    "subtitle": "Wax kasta oo aad u baahan tahay si aad u soo bandhigto xirfadahaaga, mashaariicdaada, iyo khibradaada. ",
+    "startBuilding": "Bilow Dhismaha Hadda",
+    "viewTemplates": "Daawo Qaababka",
+    "fastDeployment": "Degdega Shaqaynta",
+    "liveStatus": "username.dev waa nool yahay!",
+    "featuresTitle": "Tilmaamo Awood leh",
+    "featuresSubtitle": "Waxaan bixinaa dhammaan qalabka aad u baahan tahay si aad uga soo baxdo dadka oo aad u dejiso shaqadaada riyada.",
+    "feature1Title": "Jiid & Tuur Dhisaha",
+    "feature1Desc": "Si fudud u habayso qaybahaaga, mashaariicda, iyo xirfadahaaga tifaftirayaashayada muuqaalka leh.",
+    "feature2Title": "Mawduucyada gaarka ah",
+    "feature2Desc": "Ka dooro qaab-dhismeedka xirfadaysan ama samee muuqaal kuu gaar ah.",
+    "feature3Title": "Falanqaynta-waqtiga dhabta ah",
+    "feature3Desc": "Raad raac soo-booqdayaashaada, arag mashaariicda hel dareenka ugu badan, iyo in ka badan."
+  },
+  "auth": {
+    "welcomeBack": "Soo Dhawoow Soo Noqo",
+    "loginToContinue": "Gal akoonkaaga si aad u sii wadato",
+    "createAccount": "Abuur Account",
+    "joinCommunity": "Ku biir kumanaan horumariyayaal kale",
+    "fullName": "Magaca oo buuxa",
+    "fullNamePlaceholder": "tusaale. ",
+    "email": "Ciwaanka iimaylka",
+    "emailPlaceholder": "you@example.com",
+    "password": "Furaha",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "I xasuuso",
+    "forgotPassword": "Ilmaamay erayga sirta ah?",
+    "signIn": "Soo gal",
+    "signingIn": "Soo galitaanka...",
+    "signUp": "Isdiiwaangeli",
+    "signingUp": "Isdiiwaangalinta...",
+    "noAccount": "Xisaab ma lihid?",
+    "hasAccount": "Horeba akoon baad u leedahay?",
+    "passwordRules": {
+      "title": "Erayga sirta ah waa inuu ka kooban yahay:",
+      "length": "Ugu yaraan 8 xaraf",
+      "uppercase": "Hal xaraf oo waaweyn (A-Z)",
+      "number": "Hal lambar (0-9)",
+      "symbol": "Hal calaamad (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Dhisaha Portfolio",
+      "templates": "Qaababka & Mawduucyada",
+      "settings": "Dejinta",
+      "collapse": "Bur-bur sidebar",
+      "overview": "Dulmar",
+      "profileSettings": "Dejinta Xogta",
+      "customDomain": "Domain gaar ah",
+      "feedback": "Jawaab celin"
+    },
+    "header": {
+      "viewLive": "Daawo Live",
+      "welcome": "Soo dhawoow,",
+      "logout": "Ka bax",
+      "builder": "Wax dhise",
+      "livePortfolio": "Portfolio Live",
+      "live": "noolow"
+    },
+    "logoutModal": {
+      "title": "Ka bax",
+      "message": "Ma hubtaa inaad doonayso inaad ka baxdo akoonkaaga? ",
+      "cancel": "Jooji",
+      "confirm": "Haa, Ka bax"
+    },
+    "slugModal": {
+      "title": "Dooro URL-kaaga Portfolio",
+      "message": "URL-kani waxa uu noqon doonaa xidhiidhka gaarka ah ee faylalkaaga ",
+      "slugPlaceholder": "magacaaga",
+      "availability": "Helitaanka:",
+      "available": "La heli karo",
+      "unavailable": "Lama heli karo",
+      "checking": "Hubinta...",
+      "mustFormat": "Waxa uu ka koobnaan karaa xarfo, lambaro, iyo dashes (-)",
+      "cancel": "Jooji",
+      "save": "Keydi URL",
+      "usernameUrl": "Magaca isticmaale URL",
+      "helpText": "Xarfaha xarfaha yaryar, nambarada, iyo xarfaha. ",
+      "validation": {
+        "empty": "Slug ma noqon karto madhan.",
+        "min3": "Ugu yaraan 3 xaraf",
+        "max30": "Ugu badnaan 30 xaraf",
+        "format": "Kaliya xarfo yaryar, lambaro, iyo jajab (-). "
+      }
+    },
+    "loadingPortfolio": "Soodejinaya xogta faylalka...",
+    "overview": {
+      "greetings": {
+        "morning": "Subax Wacan",
+        "afternoon": "Galab Wacan",
+        "evening": "Galab Wacan",
+        "night": "Habeen Wanaagsan"
+      },
+      "welcome": {
+        "hi": "Hi,",
+        "creator": "Abuuray",
+        "desc1": "Ku soo dhawoow dashboardka DevFolio. faylalkaaga waa la daawaday",
+        "desc2": "qof. Sii wad shaqada!",
+        "editPortfolio": "Wax ka beddel faylalka"
+      },
+      "stats": {
+        "totalVisitors": "Wadarta Booqdayaasha",
+        "projectViews": "Eegay (Mashruuc)",
+        "activeSessions": "Fadhi Firfircoon",
+        "totalLabel": "Wadarta"
+      },
+      "setup": {
+        "title": "Horumarka Dejinta",
+        "completed": "Bootfooliyadaadu waa dhammaatay! 🎉",
+        "inProgress": "Tallaabooyinka loo maro faylalka ugu fiican.",
+        "profile": {
+          "title": "Profile Dhamaystiran",
+          "desc": "Ku dar magaca, noolaha iyo sawirka astaanta guud."
+        },
+        "section": {
+          "title": "Kudar Qaybaha",
+          "desc": "Daar ugu yaraan 1 qayb ee faylalka."
+        },
+        "project": {
+          "title": "Kudar Mashruuca",
+          "desc": "Geli ugu yaraan 1 ka mid ah mashaariicdaada ugu fiican."
+        },
+        "publish": {
+          "title": "Daabac Portfolio",
+          "desc": "Deji URL gaar ah si ay dadweynuhu u galaan."
+        }
+      },
+      "topProjects": {
+        "title": "Mashaariicda ugu caansan",
+        "desc": "Waxqabadka shaqadaada ee indhaha booqdayaasha.",
+        "viewAll": "Eeg Dhammaan",
+        "empty": "Weli ma jiro xog muuqaal ah oo mashruucaaga ah."
+      }
+    },
+    "themes": {
+      "title": "Qaababka & Mawduucyada",
+      "subtitle": "Habbee muuqaalka iyo dareenka faylalkaaga guud.",
+      "reset": "Dib u dabee Defaalka",
+      "save": "Badbaadada badbaadi",
+      "saving": "Badbaadinta...",
+      "chooseTemplate": "Dooro Template",
+      "primaryColor": "Midabka Koowaad",
+      "typography": "Qoraallada",
+      "appearance": "Muuqaal",
+      "corners": "geesaha & Xuduudaha",
+      "successTitle": "Guul",
+      "successMessage": "Dookhyada mawduuca si guul leh ayaa loo cusboonaysiiyay",
+      "errorTitle": "Khalad",
+      "errorMessage": "Ku guul daraystay inuu kaydiyo dookhyada mawduuca",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Naqshad nadiif ah oo fudud oo diiradda saareysa nuxurka."
+        },
+        "developerDark": {
+          "name": "Horumariye Madow",
+          "desc": "Mawduuca mugdiga ah ayaa ku habboon soo bandhigida koodka iyo xirmooyinka tignoolajiyada."
+        },
+        "creative": {
+          "name": "Halabuur",
+          "desc": "Nashqad firfircoon oo midab leh oo loogu talagalay naqshadeeyayaasha iyo hal-abuurka."
+        },
+        "executive": {
+          "name": "Fulinta",
+          "desc": "Qaabka xirfadeed iyo kan rasmiga ah ee xirfadlayaasha ganacsiga."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Qaabka casriga ah ee qaabka Apple-ka kaas oo si hufan u muujinaya xirfado kala duwan."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Xudduudaha adag iyo midabada isbarbardhiga sarreeya ee muuqaal casri ah, oo aan raalli ka ahayn."
+        },
+        "glassmorphism": {
+          "name": "Muraayadnimada",
+          "desc": "Saamaynta dhalada barafaysan ee midabada midabka leh ee UI casriga ah ee qurxoon."
+        },
+        "linkInBio": {
+          "name": "Link in Bio",
+          "desc": "Nashqada toosan ee is haysta ee loo habeeyay shaashadaha mobilada iyo warbaahinta bulshada."
+        }
+      },
+      "appearances": {
+        "light": "Iftiin",
+        "dark": "Madow",
+        "system": "Nidaamka"
+      },
+      "cornersOptions": {
+        "sharp": "Afsan",
+        "rounded": "Wareegay",
+        "pill": "Kiniiniga"
+      }
+    },
+    "feedback": {
+      "title": "Soo dir jawaab celin",
+      "subtitle": "Naga caawi sidii aan u wanaajin lahayn adiga oo soo jeedinaya talooyin, dhaleecayn, ama ka warbixinta cilladaha codsigan.",
+      "categoryLabel": "Qaybta jawaab celinta",
+      "messageLabel": "Faahfaahinta Fariinta",
+      "messagePlaceholder": "Si faahfaahsan iigu sheeg ra'yi-celinta aad rabto inaad gudbiso...",
+      "imageLabel": "Lifaaqa Sawirka (Ikhtiyaar)",
+      "imagePlaceholder": "Guji si aad u soo geliso sawirka ama sawirka",
+      "submitting": "Diraya...",
+      "submitBtn": "Soo dir jawaab celin",
+      "categories": {
+        "suggestion": "Talooyin & Fikrado",
+        "bug": "Khaladaadka / Warbixinta Khaladaadka",
+        "criticism": "Dhaliil",
+        "other": "Kuwo kale"
+      },
+      "imageErrorTitle": "Khalad",
+      "imageErrorMessage": "Faylasha qaar waa la diidaa sababtoo ah lama taageero qaababka sawirka (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Guul",
+      "successMessage": "Waad ku mahadsan tahay faallo celintaada! Warbixinta waa la diray",
+      "submitErrorTitle": "Fashilmay",
+      "submitErrorMessage": "Khalad ayaa dhacay markii la dirayey jawaab celin Fadlan isku day mar kale"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Aniga igu saabsan",
+      "skills": "Xirfadaha",
+      "projects": "Mashaariicda",
+      "workExperience": "Khibrad Shaqo",
+      "orgExperience": "Khibrad Urureed",
+      "education": "Waxbarashada",
+      "certifications": "Tababarka & Shahaadooyinka",
+      "contact": "ila soo xidhiidh"
+    },
+    "editor": {
+      "profileInfo": "Macluumaadka Profile",
+      "saving": "Keydinaya...",
+      "profilePhoto": "Sawirka Xogta",
+      "clickToUpload": "Guji si aad u soo dejiso (JPG, PNG)",
+      "fullName": "Magaca oo buuxa",
+      "fullNamePlaceholder": "tusaale. ",
+      "bio": "Biyo",
+      "bioPlaceholder": "Soo-saare Fullstack oo xamaasad u leh dhisidda abka shabakadda casriga ah...",
+      "location": "Goobta",
+      "locationPlaceholder": "tusaale. ",
+      "gender": "Jinsiga",
+      "selectGender": "Dooro Jinsiga",
+      "male": "Lab",
+      "female": "Dheddig",
+      "custom": "Caado",
+      "customPlaceholder": "Ku qor jinsigaaga caadada u ah...",
+      "uploadCv": "Soo rar CV",
+      "cvFormat": "(DOC ama PDF)",
+      "preview": "Horudhac",
+      "remove": "Ka saar",
+      "clickToUploadCv": "Guji si aad u soo rogto PDF ama DOC",
+      "sections": "Qaybaha",
+      "removeSelected": "Ka saar la doortay",
+      "confirmRemove": "Xaqiiji saar",
+      "addSection": "Kudar Qaybta",
+      "addAllSections": "Kudar Dhamaan Qaybaha",
+      "noSections": "Ma jiraan qaybo weli",
+      "clickToAdd": "Guji \"+ Add Section\" si aad u bilowdo",
+      "selectAll": "Dooro Dhammaan",
+      "selected": "la doortay",
+      "dragToReorder": "Jiid si aad u bedesho qaybaha",
+      "livePreview": "Muuqaal toos ah",
+      "addSectionsToBuild": "Ku dar qaybo si aad u dhisto faylalkaaga",
+      "now": "Hadda",
+      "current": "Hadda",
+      "noExpiry": "Ma dhacayso",
+      "see": "Eeg",
+      "position": "Booska",
+      "degree": "Degree",
+      "certification": "Shahaado",
+      "sectionsForm": {
+        "about": {
+          "label": "Sharaxaada naftaada",
+          "placeholder": "Wax nooga sheeg naftaada, taariikhdaada, xiisaha iyo xirfadaha..."
+        },
+        "skills": {
+          "addPlaceholder": "Nooca xirfada ka dibna taabo Gelida..."
+        },
+        "projects": {
+          "title": "Magaca Mashruuca",
+          "titlePlaceholder": "Magaca mashruuca...",
+          "url": "URL mashruuca",
+          "description": "Sharaxaada",
+          "descriptionPlaceholder": "Sharaxaad kooban oo ku saabsan mashruuca...",
+          "uploadThumbnail": "Sawirka Mashruuca",
+          "addProject": "Kudar Mashruuca",
+          "projectNum": "Mashruuca #",
+          "currentProject": "Kani waa mashruuc aan ka shaqaynayo"
+        },
+        "work": {
+          "company": "Shirkadda/Wakaalladda",
+          "companyPlaceholder": "Magaca shirkadda...",
+          "position": "Boos/Cuqaal",
+          "positionPlaceholder": "booskaaga...",
+          "employmentType": "Nooca shaqada",
+          "location": "Goobta",
+          "locationPlaceholder": "Magaalada, Dalka...",
+          "startDate": "Bilow",
+          "endDate": "Dhammaatay",
+          "currentWork": "Hadda waan shaqaynayaa",
+          "description": "Sharaxaada",
+          "descriptionPlaceholder": "Sharaxaada shaqada iyo waajibaadka...",
+          "skills": "Xirfad",
+          "addExperience": "Ku darso Khibrad Shaqo",
+          "experienceNum": "Khibrad #",
+          "dateError": "Taariikhda dhamaadka kama horayn karto taariikhda bilawga ah"
+        },
+        "org": {
+          "organization": "Magaca Ururka",
+          "orgPlaceholder": "Jaamacadda BEM...",
+          "role": "Doorka/Mawqifka",
+          "rolePlaceholder": "Madaxa qaybta...",
+          "addOrg": "Ku dar Khibrad Urureed",
+          "orgNum": "Ururka #"
+        },
+        "edu": {
+          "institution": "Machadyada Waxbarashada",
+          "institutionPlaceholder": "Magaca kambaska ama dugsiga...",
+          "degree": "Ciwaanka",
+          "degreePlaceholder": "S1, dugsiga sare, iwm...",
+          "major": "Waaxda/Goobta Waxbarasho",
+          "majorPlaceholder": "Injineerinka macluumaadka",
+          "gpa": "GPA (ikhtiyaar)",
+          "currentStudy": "Wali halkaan ayaan wax ku baranayaa",
+          "descriptionPlaceholder": "Hawlaha iyo guulaha laga gaaray daraasadda",
+          "addEdu": "Kudar Waxbarasho",
+          "eduNum": "Waxbarashada #"
+        },
+        "cert": {
+          "name": "Magaca Shahaadada / Tababarka",
+          "namePlaceholder": "Magaca shahaadada...",
+          "issuer": "Daabacaha",
+          "issuerPlaceholder": "Xarunta daabacaadda...",
+          "issueDate": "Bilawga (Taariikhda Daabicida)",
+          "issueDatePlaceholder": "Dooro taariikhda daabacaada...",
+          "expiryDate": "Dhammaystiran (Muddo ansax ah)",
+          "expiryDatePlaceholder": "Dooro taariikhda uu dhacayo...",
+          "noExpiry": "Shahaadadan ma laha taariikh ay dhacayso",
+          "url": "URL aqoonsiga",
+          "uploadThumbnail": "Shahaadada / Sawirka Tababarka",
+          "uploadThumbnailLimit": "Soo rar sawirka shahaadada (JPG/PNG/WEBP, ugu badnaan 2MB)",
+          "addCert": "Ku dar Shahaadada",
+          "certNum": "shahaado #"
+        },
+        "contact": {
+          "contactNum": "La xidhiidh #",
+          "platform": "Platform",
+          "displayText": "Muujinta Qoraalka",
+          "displayTextPlaceholder": "tusaale, you@email.com ama @username",
+          "url": "Isku xirka (URL)",
+          "urlPlaceholderWhatsapp": "tusaale, 62812... (adigoon hogaamin 0)",
+          "urlPlaceholderEmail": "tusaale, you@email.com",
+          "urlPlaceholderWebsite": "tusaale, https://...",
+          "urlPlaceholderDefault": "tusaale, username",
+          "addContact": "Kudar Xiriir"
+        },
+        "common": {
+          "months": {
+            "1": "Janaayo",
+            "2": "Febraayo",
+            "3": "Maarso",
+            "4": "Abriil",
+            "5": "May",
+            "6": "Juun",
+            "7": "Julaay",
+            "8": "Ogosto",
+            "9": "Sebtembar",
+            "10": "Oktoobar",
+            "11": "Nofeembar",
+            "12": "December"
+          },
+          "month": "Bisha",
+          "year": "Sannadka",
+          "invalidDate": "Bisha dhamaadka aan sax ahayn",
+          "words": "ereyo"
+        }
+      },
+      "sure": "Hubaal",
+      "deletePhotoTitle": "Ma tirtirtaa sawirka Profile?",
+      "deletePhotoMessage": "Ma hubtaa inaad rabto inaad tirtirto sawirka astaanta guud?",
+      "cancel": "Jooji",
+      "delete": "Tirtir"
+    },
+    "cropper": {
+      "chooseBackground": "Dooro Background",
+      "cropPhoto": "Dalag sawirkaaga",
+      "useOriginal": "Isticmaal asalka",
+      "backgroundPresets": "Horyaallada hore",
+      "none": "Midna",
+      "uploadBackground": "Soo rar asalka",
+      "cancel": "Jooji",
+      "savePhoto": "Kaydi sawirka",
+      "zoom": "Soo dhawoow",
+      "rotationTilt": "Wareegid & leexin",
+      "resetRotation": "Dib ugu celi 0°",
+      "center": "Xarunta",
+      "rotateLeft": "Wareeg -90°",
+      "rotateRight": "Wareeg +90°",
+      "removeBackground": "Ka saar asalka",
+      "processing": "Hagaajinta sawirkaaga, fadlan sug..."
+    },
+    "cvPreview": {
+      "title": "Horudhac CV",
+      "downloadCv": "Soo deji CV",
+      "download": "Download",
+      "wordCannotPreview": "Dukumentiyada ereyga (.doc/.docx) laguma eegi karo asal ahaan browserka dhexdiisa. ",
+      "downloadFile": "Soo deji faylka CV-ga",
+      "back": "Dib u noqo",
+      "mobileMessage": "Fadlan soo deji faylka CV-ga si aad u aragto.",
+      "preview": "Horudhac CV",
+      "wordPreviewTitle": "Horudhac Dukumentiga Word",
+      "wordPreviewMessage": "Dukumentiyada ereyga (.doc/.docx) laguma eegi karo asal ahaan browserka dhexdiisa. Fadlan soo deji faylka si aad u aragto."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Ka qor sharraxaad kooban oo ku saabsan naftaada, xiisaha, iyo yoolalka shaqo..."
+    },
+    "skills": {
+      "placeholder": "Nooca magaca xirfadda...",
+      "add": "Ku darso",
+      "enterToAdd": "Taabo Gelida si aad ugu darto",
+      "noSkills": "Weli xirfad laguma darin."
+    },
+    "projects": {
+      "projectName": "Magaca Mashruuca",
+      "projectNamePlaceholder": "tusaale. ",
+      "projectUrl": "URL mashruuca",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Muddada",
+      "startMonth": "Bilowga Bisha",
+      "startYear": "Bilowga Sanadka",
+      "endMonth": "Dhamaadka Bisha",
+      "endYear": "Dhamaadka sanadka",
+      "currentlyWorking": "Hadda ka shaqaynta tan",
+      "description": "Sharaxaada",
+      "descriptionPlaceholder": "Sharax mashruuca, doorkaaga, iyo guulahaaga...",
+      "technologies": "Tignoolajiyada La Isticmaalay",
+      "addProject": "Kudar Mashruuca",
+      "image": "Sawirka Mashruuca",
+      "removeImage": "Ka saar sawirka",
+      "uploadImage": "Guji si aad u soo rogto sawirka"
+    },
+    "work": {
+      "company": "Shirkadda/Hay'adda",
+      "companyPlaceholder": "Magaca shirkadda...",
+      "role": "Doorka/Mawqifka",
+      "rolePlaceholder": "booskaaga...",
+      "jobType": "Nooca Shaqada",
+      "selectJobType": "Dooro nooca",
+      "fullTime": "Wakhti buuxa",
+      "partTime": "Waqti-dhiman",
+      "contract": "Qandaraas",
+      "internship": "Tababar",
+      "freelance": "Madax banaan",
+      "location": "Goobta",
+      "locationPlaceholder": "tusaale. ",
+      "duration": "Muddada",
+      "currentlyWorking": "Hadda halkan ka shaqeeya",
+      "description": "Sharaxaada Shaqada",
+      "descriptionPlaceholder": "Sharax mas'uuliyaddaada muhiimka ah iyo guulahaaga...",
+      "skills": "Xirfado Gaar ah",
+      "addExperience": "Ku dar Khibrad"
+    },
+    "org": {
+      "organization": "Magaca Ururka",
+      "organizationPlaceholder": "Magaca ururka...",
+      "role": "Doorka/Mawqifka",
+      "rolePlaceholder": "tusaale. ",
+      "duration": "Muddada",
+      "periodFormat": "ama Qaab bilaash ah (tusaale 2020 - 2022)",
+      "periodPlaceholder": "tusaale. ",
+      "currentlyActive": "Hadda firfircoon",
+      "description": "Sharaxaada Hawsha",
+      "descriptionPlaceholder": "Sharax hawlahaaga ama wax ku biirintaada...",
+      "addExperience": "Ku dar Khibrad"
+    },
+    "education": {
+      "institution": "Magaca Hay'adda",
+      "institutionPlaceholder": "Magaca dugsiga ama jaamacadda...",
+      "degree": "Darajada/Heerka",
+      "degreePlaceholder": "tusaale. ",
+      "major": "Weyn/Deegaanka Waxbarashada",
+      "majorPlaceholder": "tusaale. ",
+      "gpa": "GPA / Fasalka",
+      "gpaPlaceholder": "tusaale. ",
+      "duration": "Mudada Waxbarasho",
+      "periodFormat": "ama Qaab bilaash ah (tusaale 2018 - 2022)",
+      "periodPlaceholder": "tusaale. ",
+      "currentlyStudying": "Hadda halkan wax ku baranaya",
+      "description": "Hawlaha / Maamuusyada",
+      "descriptionPlaceholder": "Sharaxaad ka bixi waxqabadyada akadeemiyadeed, ururada, ama sharafyada la helay...",
+      "addEducation": "Kudar Waxbarasho"
+    },
+    "cert": {
+      "name": "Magaca Shahaadada",
+      "namePlaceholder": "tusaale. ",
+      "issuer": "Soo saarida Ururka",
+      "issuerPlaceholder": "tusaale. ",
+      "issueDate": "Taariikhda la soo saaray",
+      "expiryDate": "Ansax ilaa",
+      "noExpiry": "Aqoonsigani ma dhacayo",
+      "yearPlaceholder": "ama Sannadka (tusaale ahaan 2023)",
+      "credentialUrl": "URL aqoonsiga",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Xirfadaha La Xiriira",
+      "addCertification": "Ku dar Shahaadada",
+      "image": "Sawirka/Logo",
+      "removeImage": "Ka saar sawirka",
+      "uploadImage": "Guji si aad u soo rogto sawirka"
+    },
+    "common": {
+      "months": {
+        "1": "Janaayo",
+        "2": "Febraayo",
+        "3": "Maarso",
+        "4": "Abriil",
+        "5": "May",
+        "6": "Juun",
+        "7": "Julaay",
+        "8": "Ogosto",
+        "9": "Sebtembar",
+        "10": "Oktoobar",
+        "11": "Nofeembar",
+        "12": "December"
+      },
+      "month": "Bisha",
+      "year": "Sannadka",
+      "invalidDate": "Bisha dhamaadka aan sax ahayn",
+      "words": "ereyo"
+    }
+  },
+  "settings": {
+    "title": "Dejinta",
+    "subtitle": "Maamul boggaga faylalka iyo dookhyada",
+    "tabs": {
+      "profile": "Profile-kayga",
+      "security": "Amniga",
+      "personalization": "Shakhsiyaynta"
+    },
+    "profile": {
+      "infoTitle": "Macluumaadka aasaasiga ah",
+      "photo": "Sawirka Xogta",
+      "uploadPhoto": "Beddel Sawirka",
+      "fullName": "Magaca oo buuxa",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Ciwaanka iimaylka",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Iimaylku waxa loo istcimaalaa galitaanka oo si guud looma soo bandhigin",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Keydi Profile",
+      "save": "Keydi Profile",
+      "accountCreated": "Akoonka La Sameeyey",
+      "lastLogin": "Gelidii u dambaysay",
+      "oauthNotice": "Boggagani waxa uu ku xidhan yahay akoonkaaga {{bixiyaha}} Isbeddelka xogta waa in lagu sameeyaa adeeg bixiyaha."
+    },
+    "security": {
+      "changePassword": "Beddel erayga sirta ah",
+      "currentPassword": "Furaha hadda jira",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Furaha cusub",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Xaqiiji erayga sirta ah ee cusub",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Ugu yaraan 8 xaraf",
+        "uppercase": "Hal xaraf oo waaweyn (A-Z)",
+        "number": "Hal lambar (0-9)",
+        "symbol": "Hal calaamad (!@#$%^&*)"
+      },
+      "passwordTitle": "Furaha",
+      "updatePassword": "Cusbooneysii erayga sirta ah",
+      "additionalSecurity": "Amniga Dheeraadka ah",
+      "twoFactor": "Xaqiijinta Laba-Factor (2FA)",
+      "twoFactorDesc": "Ku xafid akoonkaaga adigoo isticmaalaya koodka OTP ee dheeraadka ah.",
+      "activeSessions": "Fadhiyo Firfircoon",
+      "activeSessionsDesc": "Had iyo jeer oggolow la socodka aaladaha soo galay.",
+      "publicVisibility": "Muuqaalka Dadweynaha",
+      "hideFromSearch": "Ka qari Portfolio Matoorada Raadinta",
+      "hideFromSearchDesc": "Ka ilaali Google inuu tilmaamo boggaaga faylalka guud.",
+      "disable2fa": {
+        "title": "Dami 2FA",
+        "description": "Ma hubtaa inaad rabto inaad damiso xaqiijinta laba-factor?",
+        "confirmPasswordLabel": "Geli eraygaaga sirta ah si aad u xaqiijiso",
+        "currentPasswordPlaceholder": "Furaha hadda jira",
+        "cancelButton": "Jooji",
+        "confirmButton": "Dami 2FA",
+        "incorrectPassword": "Furaha sirta ah ee khaldan"
+      },
+      "setup2fa": {
+        "step1Title": "1. Sawir code-ka QR",
+        "step1Desc": "Fur abkaaga xaqiijinta oo sawir koodka QR ee soo socda:",
+        "unableToScan": "Ma awoodin in la iskaan karo? Isticmaal furaha dejinta",
+        "step2Title": "2. Xaqiiji Koodhka",
+        "step2Desc": "Geli summada 6-god ee uu soo saaray abkaaga:",
+        "cancelButton": "Jooji",
+        "enableButton": "Daar 2FA",
+        "invalidLength": "Fadlan geli kood 6-god ah.",
+        "invalidCode": "Koodhka xaqiijinta ee aan ansax ahayn Fadlan isku day mar kale"
+      }
+    },
+    "personalization": {
+      "languageTitle": "Xakamaynta Luuqadda",
+      "appLanguage": "Luuqada App-ka",
+      "layoutTitle": "Qaabka & Qoraalka",
+      "layoutStyle": "Qaabka Qaabka",
+      "layoutModern": "Habka Casriga ah (Talliga ah)",
+      "layoutClassic": "Qaabka caadiga ah",
+      "layoutMinimalist": "Habka ugu yar",
+      "fontSize": "Cabbirka Farta Abka",
+      "fontSmall": "Yar",
+      "fontNormal": "Caadi (dhexdhexaad)",
+      "fontLarge": "Weyn",
+      "searchLanguage": "Luqada raadi...",
+      "languageNotFound": "Luuqad lama helin",
+      "layoutElegant": "Qaab xarrago leh"
+    },
+    "saveChanges": "Badbaadada isbedelada",
+    "cancel": "Jooji",
+    "appSettings": "Dejinta Appka",
+    "logoutConfirmTitle": "Xaqiiji ka bixida",
+    "logoutConfirmDesc": "Ma hubtaa inaad doonayso inaad ka baxdo nidaamka?",
+    "logoutConfirmYes": "Haa, Ka bax",
+    "generalError": "Khalad ayaa dhacay ",
+    "success": "Guul",
+    "preferencesSaved": "Dookhyada abka si guul leh ayaa loo keydiyay.",
+    "header": "Dejinta Codsiga",
+    "logout": {
+      "title": "Xaqiijinta ka bixida",
+      "message": "Ma hubtaa inaad doonayso inaad ka baxdo nidaamka?",
+      "confirm": "Haa, Ka bax"
+    },
+    "about": {
+      "title": "Ku saabsan Codsiga",
+      "subtitle": "Platform Dhise Bootfolio",
+      "version": "Nooca",
+      "description": "DevFolio waa madal dhise faylaleed casri ah oo loogu talagalay horumariyeyasha, naqshadeeyayaasha, iyo abuurayaasha xirfadlayaasha ah. ",
+      "license": "Shatiga & Xuquuqda daabacaada",
+      "copyright": "© 2026 DevFolio Inc. Dhammaan xuquuqaha way xifdisan yihiin.",
+      "developer": "Horumariye",
+      "developedBy": "Waxaa sameeyay Kooxda DevFolio"
+    },
+    "deleteAccount": {
+      "title": "Si Joogta Ah U Tirtir Koontada",
+      "menuItem": "Tirtir Akoonka",
+      "successTitle": "Guul",
+      "successMessage": "iimaylka xaqiijinta tirtirka akoontiga ayaa la diray",
+      "errorTitle": "Fashilmay",
+      "errorMessage": "Waa lagu guul daraystay in la diro iimaylka xaqiijinta",
+      "confirmationMessage": "Ma hubtaa inaad doonayso inaad si joogto ah u tirtirto akoonkaaga?",
+      "warningMessage1": "Waxaad heli doontaa iimayl si aad u xaqiijiso tirtirka akoontiga",
+      "warningMessage2": "Haddii la xaqiijiyo, dhammaan xogta (portfolio, mashaariicda, tirakoobyada) si joogto ah ayaa loo tirtiri doonaa lamana soo celin karo.",
+      "cancel": "Jooji",
+      "confirm": "Xaqiijinta"
+    },
+    "toasts": {
+      "toastError": "Error",
+      "toastSuccess": "Success",
+      "toastSetup2FAFailed": "Failed to setup 2FA. Fadlan isku day mar kale",
+      "toast2FAEnabled": "Two-factor authentication has been enabled.",
+      "toast2FADisabled": "Xaqiijinta laba-factor waa la joojiyay",
+      "toastSessionEnabled": "Active session monitoring has been enabled.",
+      "toastSessionDisabled": "Active session monitoring has been disabled.",
+      "toastSetupKeyCopied": "Setup key copied to clipboard."
+    },
+    "privacy": {
+      "title": "Siyaasadda Qarsoonnimada",
+      "updateDate": "Markii ugu dambeysay ee la cusbooneysiiyay: Julaay 15, 2026",
+      "intro": "Qaanuunka Arrimaha Khaaska ah wuxuu sharxayaa sida DevFolio u ururiyo, u isticmaasho, oo u ilaaliso macluumaadkaaga shakhsiyeed marka la isticmaalayo adeegyadayada.",
+      "section1Title": "1. Xog Aruurinta",
+      "section1Content": "Waxaan aruurineynaa macluumaadka aad si toos ah u bixiso markaad sameysaneyso akoon, dhiseyso faylalka, iyo la xiriirida taageeradayada. ",
+      "section2Title": "2. Isticmaalka Macluumaadka",
+      "section2Content": "Macluumaadkaaga waxa loo isticmaalaa in lagu shaqeeyo, lagu hayo, oo lagu bixiyo sifada adeegyadayada, iyo sidoo kale in lagula xidhiidho waxa ku saabsan akoonkaaga ama adeegyadaada.",
+      "section3Title": "3. Badbaadada Xogta",
+      "section3Content": "Waxaan hirgelineynaa tillaabooyin amni oo macquul ah si aan xogtaada uga ilaalino gelitaan, siideyn, ama burburin aan la ogolayn."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Xaqiijinta lama helin",
+    "defaultError": "Ku guuldareystay in la tirtiro akoontiga Calaamadda waxaa laga yaabaa inay dhacday",
+    "loadingTitle": "Tirtirka Akoonka...",
+    "loadingMessage": "Fadlan sug, codsigaaga waanu diyaarinaynaa",
+    "successTitle": "Akoonka si guul leh ayaa loo tirtiray",
+    "successMessage": "Dhammaan xogtaada si joogto ah waa loo tirtiray Waa lagu jiheynayaa...",
+    "errorTitle": "Ku guuldareystay in la tirtiro Akoonka",
+    "backToHome": "Ku soo noqo Guriga"
+  },
+  "forgotPassword": {
+    "minutes": "daqiiqado",
+    "seconds": "ilbiriqsi",
+    "success": "Guul",
+    "otpSentToEmail": "Koodhka OTP ayaa loo soo diray iimaylkaaga.",
+    "failed": "Fashilmay",
+    "emailNotFound": "Iimayl lama helin",
+    "emailThirdParty": "Iimaylkan waxa ka diiwaan gashan cid saddexaad",
+    "genericError": "Khalad baa jira Fadlan isku day mar kale",
+    "otpVerified": "Koodhka OTP si guul leh ayaa loo xaqiijiyay.",
+    "otpExpired": "Koodhka OTP wuu dhacay Fadlan codso kood cusub",
+    "otpInvalid": "Koodhka OTP ee aan sax ahayn",
+    "otpResent": "Koodh cusub oo OTP ah ayaa loo soo diray iimaylkaagii.",
+    "otpResendFailed": "Ku guuldareystay inuu dib u soo diro summada OTP Fadlan isku day mar kale",
+    "passwordResetSuccess": "Furaha si guul leh dib u dajiyay Fadlan ku gal eraygaaga sirta ah ee cusub",
+    "passwordResetFailed": "Ku guuldareystay in dib loo dajiyo erayga sirta ah",
+    "backToLogin": "Ku soo noqo Login",
+    "back": "Dib u noqo",
+    "title": "Furaha la ilaaway",
+    "description": "Geli ciwaanka iimaylka ka diiwaan gashan akoonkaaga Waxaan soo diri doonaa koodka OTP si aan dib ugu habeyno erayga sirta ah.",
+    "emailLabel": "Ciwaanka Emailka",
+    "sending": "Diraya...",
+    "sendOtp": "Soo dir Koodhka OTP",
+    "verifyOtpTitle": "Xaqiiji Koodhka OTP",
+    "verifyOtpDesc": "Geli furaha 6 nambar ee loo soo diray emailkaaga si loo xaqiijiyo aqoonsigaaga.",
+    "verifying": "Xaqiijinaya...",
+    "verifyOtp": "Xaqiiji OTP",
+    "resending": "Soo celinaya...",
+    "resendOtp": "Dib u soo dir Koodhka OTP",
+    "resendCodeIn": "Ku soo celi koodka gudaha",
+    "newPasswordTitle": "Samee Password Cusub",
+    "newPasswordDesc": "Samee furaha sirta ah ee cusub si aad u ilaaliso akoonkaaga",
+    "newPasswordLabel": "Furaha Cusub",
+    "min8Chars": "Ugu yaraan 8 xaraf",
+    "oneUpperCase": "1 far waaweyn (A-Z)",
+    "oneNumber": "1 lambar (0-9)",
+    "oneSymbol": "1 calaamad (!@#$%^&*)",
+    "confirmPasswordLabel": "Xaqiiji erayga sirta ah",
+    "passwordsDoNotMatch": "Erayada sirta ah isma dhigmaan",
+    "resettingPassword": "Dib u dajinta erayga sirta ah...",
+    "resetPassword": "Dib u deji erayga sirta ah"
+  },
+  "verifyEmail": {
+    "resendError": "Ku guuldareystay in dib loo soo diro iimaylka xaqiijinta Fadlan isku day mar kale",
+    "checkingStatus": "Hubinta heerka xaqiijinta...",
+    "title": "Hubi emailkaaga",
+    "description": "Waxaan u dirnay iimaylka xaqiijinta ciwaankaaga iimaylka Fadlan fur iimaylka oo dhagsii badhanka <1>“Confirm Account”</1> si aad u hawlgeliso akoonkaaga.",
+    "stepsTitle": "Talaabooyinka",
+    "step1": "Fur emailkaaga (Gmail, Yahoo, iwm)",
+    "step2": "Ka raadi iimaylka DevFolio oo wata mawduuca \"Account Activation\"",
+    "step3": "Guji badhanka \"Confirm Account\" ee emailka",
+    "step4": "Waxaa lagu hagi doonaa bogga galitaanka si aad u gasho",
+    "resendSuccess": "Iimaylkii xaqiijinta waa la soo diray!",
+    "resending": "Soo celinaya...",
+    "resendButton": "Dib u soo dir emaylka xaqiijinta",
+    "backToLogin": "Ku soo noqo Bogga Login",
+    "footerNote": "Miyaadan helin iimaylka? Hubi galka <1>Spam</1> ama <2>Junk</2> ee ku jira iimaylkaaga. Xidhiidhka xaqiijinta waxa uu shaqaynayaa <3>24 saacadood</3>."
+  }
+}

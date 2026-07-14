@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "特征",
+    "templates": "模板",
+    "pricing": "定价",
+    "login": "登录",
+    "getStarted": "开始使用",
+    "title": "开发作品集"
+  },
+  "landing": {
+    "badge": "开发商的终极投资组合构建器",
+    "title1": "打造你的专业",
+    "title2": "投资组合在",
+    "titleHighlight": "秒。",
+    "subtitle": "展示您的技能、项目和经验所需的一切。",
+    "startBuilding": "立即开始构建",
+    "viewTemplates": "查看模板",
+    "fastDeployment": "快速部署",
+    "liveStatus": "用户名.dev 已上线！",
+    "featuresTitle": "强大的功能",
+    "featuresSubtitle": "我们为您提供从人群中脱颖而出并找到梦想工作所需的所有工具。",
+    "feature1Title": "拖放生成器",
+    "feature1Desc": "使用我们直观的可视化编辑器轻松组织您的部分、项目和技能。",
+    "feature2Title": "自定义主题",
+    "feature2Desc": "从专业设计的模板中进行选择或创建您自己的独特外观。",
+    "feature3Title": "实时分析",
+    "feature3Desc": "跟踪您的访客，查看哪些项目最受关注等等。"
+  },
+  "auth": {
+    "welcomeBack": "欢迎回来",
+    "loginToContinue": "登录您的帐户以继续",
+    "createAccount": "创建账户",
+    "joinCommunity": "加入数千名其他开发者的行列",
+    "fullName": "姓名",
+    "fullNamePlaceholder": "例如",
+    "email": "电子邮件",
+    "emailPlaceholder": "你@example.com",
+    "password": "密码",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "记住账号",
+    "forgotPassword": "忘记密码？",
+    "signIn": "登入",
+    "signingIn": "正在登录...",
+    "signUp": "报名",
+    "signingUp": "正在注册...",
+    "noAccount": "没有帐户？",
+    "hasAccount": "已经有帐户？",
+    "passwordRules": {
+      "title": "密码必须包含：",
+      "length": "至少 8 个字符",
+      "uppercase": "一个大写字母 (A-Z)",
+      "number": "一个数字 (0-9)",
+      "symbol": "一个符号 (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "投资组合构建器",
+      "templates": "模板和主题",
+      "settings": "设置",
+      "collapse": "折叠侧边栏",
+      "overview": "概述",
+      "profileSettings": "配置文件设置",
+      "customDomain": "自定义域",
+      "feedback": "反馈"
+    },
+    "header": {
+      "viewLive": "观看直播",
+      "welcome": "欢迎，",
+      "logout": "退出",
+      "builder": "建设者",
+      "livePortfolio": "实时投资组合",
+      "live": "居住"
+    },
+    "logoutModal": {
+      "title": "退出",
+      "message": "您确定要退出您的帐户吗？",
+      "cancel": "取消",
+      "confirm": "是的，退出"
+    },
+    "slugModal": {
+      "title": "选择您的作品集 URL",
+      "message": "此 URL 将是您的投资组合的唯一链接。",
+      "slugPlaceholder": "你的名字",
+      "availability": "可用性：",
+      "available": "可用的",
+      "unavailable": "不可用",
+      "checking": "检查...",
+      "mustFormat": "只能包含字母、数字和破折号 (-)",
+      "cancel": "取消",
+      "save": "保存网址",
+      "usernameUrl": "用户名网址",
+      "helpText": "小写字母、数字和破折号。",
+      "validation": {
+        "empty": "Slug 不能为空。",
+        "min3": "至少 3 个字符。",
+        "max30": "最多 30 个字符。",
+        "format": "仅限小写字母、数字和破折号 (-)。"
+      }
+    },
+    "loadingPortfolio": "正在加载投资组合数据...",
+    "overview": {
+      "greetings": {
+        "morning": "早上好",
+        "afternoon": "下午好",
+        "evening": "下午好",
+        "night": "晚安"
+      },
+      "welcome": {
+        "hi": "嗨，",
+        "creator": "创作者",
+        "desc1": "欢迎来到 DevFolio 仪表板。您的作品集已被查看者",
+        "desc2": "人。继续工作！",
+        "editPortfolio": "编辑作品集"
+      },
+      "stats": {
+        "totalVisitors": "访客总数",
+        "projectViews": "已查看（项目）",
+        "activeSessions": "活动会话",
+        "totalLabel": "总计"
+      },
+      "setup": {
+        "title": "设置进度",
+        "completed": "您的作品集已完成！ 🎉",
+        "inProgress": "迈向完美投资组合的步骤。",
+        "profile": {
+          "title": "完整的个人资料",
+          "desc": "添加姓名、个人简介和个人资料照片。"
+        },
+        "section": {
+          "title": "添加部分",
+          "desc": "激活投资组合中的至少 1 个部分。"
+        },
+        "project": {
+          "title": "添加项目",
+          "desc": "至少输入 1 个您最好的项目。"
+        },
+        "publish": {
+          "title": "发布作品集",
+          "desc": "设置自定义 URL，以便公众可以访问。"
+        }
+      },
+      "topProjects": {
+        "title": "最受欢迎的项目",
+        "desc": "您的作品在访客眼中的表现。",
+        "viewAll": "查看全部",
+        "empty": "您的项目还没有查看数据。"
+      }
+    },
+    "themes": {
+      "title": "模板和主题",
+      "subtitle": "自定义您的公共投资组合的外观和风格。",
+      "reset": "重置默认值",
+      "save": "保存更改",
+      "saving": "保存...",
+      "chooseTemplate": "选择一个模板",
+      "primaryColor": "原色",
+      "typography": "版式",
+      "appearance": "外貌",
+      "corners": "角和边框",
+      "successTitle": "成功",
+      "successMessage": "主题首选项更新成功",
+      "errorTitle": "错误",
+      "errorMessage": "无法保存主题首选项",
+      "templates": {
+        "minimalist": {
+          "name": "极简主义者",
+          "desc": "干净简单的设计，注重内容。"
+        },
+        "developerDark": {
+          "name": "开发人员 黑暗",
+          "desc": "深色主题非常适合展示代码和技术堆栈。"
+        },
+        "creative": {
+          "name": "有创造力的",
+          "desc": "为设计师和创意人员提供充满活力且丰富多彩的布局。"
+        },
+        "executive": {
+          "name": "管理人员",
+          "desc": "适合商务人士的专业而正式的布局。"
+        },
+        "bentoGrid": {
+          "name": "便当网格",
+          "desc": "现代苹果风格的网格布局，有效突出不同的技能。"
+        },
+        "neoBrutalism": {
+          "name": "新粗野主义",
+          "desc": "大胆的边框和高对比度的颜色，打造时尚、无忧无虑的外观。"
+        },
+        "glassmorphism": {
+          "name": "玻璃态现象",
+          "desc": "彩色渐变上的磨砂玻璃效果打造时尚现代的用户界面。"
+        },
+        "linkInBio": {
+          "name": "生物链接",
+          "desc": "紧凑的垂直布局针对移动屏幕和社交媒体进行了优化。"
+        }
+      },
+      "appearances": {
+        "light": "光",
+        "dark": "黑暗的",
+        "system": "系统"
+      },
+      "cornersOptions": {
+        "sharp": "锋利的",
+        "rounded": "圆形",
+        "pill": "丸"
+      }
+    },
+    "feedback": {
+      "title": "发送反馈",
+      "subtitle": "通过提供建议、批评或报告此应用程序的错误来帮助我们做得更好。",
+      "categoryLabel": "反馈类别",
+      "messageLabel": "订单详情",
+      "messagePlaceholder": "详细告诉我您想传达的反馈...",
+      "imageLabel": "图片附件（可选）",
+      "imagePlaceholder": "单击上传图像或屏幕截图",
+      "submitting": "发送...",
+      "submitBtn": "发送反馈",
+      "categories": {
+        "suggestion": "建议与想法",
+        "bug": "错误/错误报告",
+        "criticism": "批评",
+        "other": "其他"
+      },
+      "imageErrorTitle": "错误",
+      "imageErrorMessage": "某些文件因不支持图像格式（JPG、PNG、GIF、WEBP）而被拒绝",
+      "successTitle": "成功",
+      "successMessage": "感谢您的反馈！报告已发送。",
+      "submitErrorTitle": "失败",
+      "submitErrorMessage": "发送反馈时发生错误。请再试一次。"
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "关于我",
+      "skills": "技能",
+      "projects": "项目",
+      "workExperience": "工作经验",
+      "orgExperience": "组织经验",
+      "education": "教育",
+      "certifications": "培训和认证",
+      "contact": "联系我"
+    },
+    "editor": {
+      "profileInfo": "简介信息",
+      "saving": "保存...",
+      "profilePhoto": "个人资料照片",
+      "clickToUpload": "点击上传（JPG、PNG）",
+      "fullName": "姓名",
+      "fullNamePlaceholder": "例如",
+      "bio": "简介",
+      "bioPlaceholder": "热衷于构建现代 Web 应用程序的全栈开发人员...",
+      "location": "地点",
+      "locationPlaceholder": "例如",
+      "gender": "性别",
+      "selectGender": "选择性别",
+      "male": "男性",
+      "female": "女性",
+      "custom": "风俗",
+      "customPlaceholder": "输入您的自定义性别...",
+      "uploadCv": "上传简历",
+      "cvFormat": "（DOC 或 PDF）",
+      "preview": "预览",
+      "remove": "消除",
+      "clickToUploadCv": "点击上传PDF或DOC",
+      "sections": "部分",
+      "removeSelected": "删除所选内容",
+      "confirmRemove": "确认删除",
+      "addSection": "添加部分",
+      "addAllSections": "添加所有部分",
+      "noSections": "还没有章节",
+      "clickToAdd": "单击“+ 添加部分”即可开始",
+      "selectAll": "选择全部",
+      "selected": "已选择",
+      "dragToReorder": "拖动以重新排序部分",
+      "livePreview": "实时预览",
+      "addSectionsToBuild": "添加部分来构建您的作品集",
+      "now": "现在",
+      "current": "当前的",
+      "noExpiry": "无有效期",
+      "see": "看",
+      "position": "位置",
+      "degree": "程度",
+      "certification": "认证",
+      "sectionsForm": {
+        "about": {
+          "label": "对自己的描述",
+          "placeholder": "告诉我们您自己、您的背景、兴趣和技能......"
+        },
+        "skills": {
+          "addPlaceholder": "输入技能然后按 Enter..."
+        },
+        "projects": {
+          "title": "项目名称",
+          "titlePlaceholder": "项目名称...",
+          "url": "项目网址",
+          "description": "描述",
+          "descriptionPlaceholder": "该项目的简要描述...",
+          "uploadThumbnail": "项目形象",
+          "addProject": "添加项目",
+          "projectNum": "项目 ＃",
+          "currentProject": "这是我正在做的一个项目"
+        },
+        "work": {
+          "company": "公司/机构",
+          "companyPlaceholder": "公司名称...",
+          "position": "职位/头衔",
+          "positionPlaceholder": "你的立场...",
+          "employmentType": "工作类型",
+          "location": "地点",
+          "locationPlaceholder": "城市、国家...",
+          "startDate": "开始",
+          "endDate": "完成的",
+          "currentWork": "我现在还在工作",
+          "description": "描述",
+          "descriptionPlaceholder": "职位描述和职责...",
+          "skills": "技能",
+          "addExperience": "添加工作经验",
+          "experienceNum": "经验 ＃",
+          "dateError": "结束日期不能早于开始日期"
+        },
+        "org": {
+          "organization": "组织名称",
+          "orgPlaceholder": "BEM大学...",
+          "role": "角色/职位",
+          "rolePlaceholder": "科长...",
+          "addOrg": "增加组织经验",
+          "orgNum": "组织 ＃"
+        },
+        "edu": {
+          "institution": "教育机构",
+          "institutionPlaceholder": "校园或学校名称...",
+          "degree": "标题",
+          "degreePlaceholder": "中一、高中等等...",
+          "major": "院系/研究领域",
+          "majorPlaceholder": "信息工程...",
+          "gpa": "平均绩点（可选）",
+          "currentStudy": "我还在这儿学习",
+          "descriptionPlaceholder": "学习期间的活动和成果...",
+          "addEdu": "添加教育背景",
+          "eduNum": "教育 ＃"
+        },
+        "cert": {
+          "name": "认证/培训名称",
+          "namePlaceholder": "认证名称...",
+          "issuer": "出版商",
+          "issuerPlaceholder": "出版机构...",
+          "issueDate": "开始（发布日期）",
+          "issueDatePlaceholder": "选择发布日期...",
+          "expiryDate": "已完成（有效期）",
+          "expiryDatePlaceholder": "选择到期日期...",
+          "noExpiry": "该证书没有有效期",
+          "url": "凭证网址",
+          "uploadThumbnail": "证书/培训图片",
+          "uploadThumbnailLimit": "上传证书图片（JPG/PNG/WEBP，最大2MB）",
+          "addCert": "添加认证",
+          "certNum": "认证 ＃"
+        },
+        "contact": {
+          "contactNum": "接触 ＃",
+          "platform": "平台",
+          "displayText": "显示文字",
+          "displayTextPlaceholder": "例如，you@email.com 或 @username",
+          "url": "链接（网址）",
+          "urlPlaceholderWhatsapp": "例如，62812...（不带前导 0）",
+          "urlPlaceholderEmail": "例如，you@email.com",
+          "urlPlaceholderWebsite": "例如，https://...",
+          "urlPlaceholderDefault": "例如，用户名",
+          "addContact": "添加联系人"
+        },
+        "common": {
+          "months": {
+            "1": "一月",
+            "2": "二月",
+            "3": "行进",
+            "4": "四月",
+            "5": "可能",
+            "6": "六月",
+            "7": "七月",
+            "8": "八月",
+            "9": "九月",
+            "10": "十月",
+            "11": "十一月",
+            "12": "十二月"
+          },
+          "month": "月",
+          "year": "年",
+          "invalidDate": "无效的结束月份",
+          "words": "字"
+        }
+      },
+      "sure": "当然",
+      "deletePhotoTitle": "删除个人资料照片？",
+      "deletePhotoMessage": "您确定要删除这张个人资料照片吗？",
+      "cancel": "取消",
+      "delete": "删除"
+    },
+    "cropper": {
+      "chooseBackground": "选择背景",
+      "cropPhoto": "裁剪你的照片",
+      "useOriginal": "使用原装",
+      "backgroundPresets": "背景预设",
+      "none": "没有任何",
+      "uploadBackground": "上传背景",
+      "cancel": "取消",
+      "savePhoto": "保存照片",
+      "zoom": "飞涨",
+      "rotationTilt": "旋转和倾斜",
+      "resetRotation": "重置为 0°",
+      "center": "中心",
+      "rotateLeft": "旋转-90°",
+      "rotateRight": "旋转+90°",
+      "removeBackground": "删除背景",
+      "processing": "正在处理您的图像，请稍候..."
+    },
+    "cvPreview": {
+      "title": "简历预览",
+      "downloadCv": "下载简历",
+      "download": "下载",
+      "wordCannotPreview": "Word 文档 (.doc/.docx) 无法在浏览器中本地预览。",
+      "downloadFile": "下载简历文件",
+      "back": "后退",
+      "mobileMessage": "请下载 CV 文件进行预览。",
+      "preview": "预览简历",
+      "wordPreviewTitle": "Word文档预览",
+      "wordPreviewMessage": "Word 文档 (.doc/.docx) 无法在浏览器中本地预览。请下载该文件进行查看。"
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "写一篇关于你自己、兴趣和职业目标的简短描述......"
+    },
+    "skills": {
+      "placeholder": "输入技能名称...",
+      "add": "添加",
+      "enterToAdd": "按 Enter 添加",
+      "noSkills": "尚未添加任何技能。"
+    },
+    "projects": {
+      "projectName": "项目名称",
+      "projectNamePlaceholder": "例如",
+      "projectUrl": "项目网址",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "期间",
+      "startMonth": "开始月份",
+      "startYear": "开始年份",
+      "endMonth": "月底",
+      "endYear": "年底",
+      "currentlyWorking": "目前正在做这方面的工作",
+      "description": "描述",
+      "descriptionPlaceholder": "描述该项目、您的角色和成就...",
+      "technologies": "使用的技术",
+      "addProject": "添加项目",
+      "image": "项目形象",
+      "removeImage": "删除图像",
+      "uploadImage": "点击上传图片"
+    },
+    "work": {
+      "company": "公司/机构",
+      "companyPlaceholder": "公司名称...",
+      "role": "角色/职位",
+      "rolePlaceholder": "你的立场...",
+      "jobType": "职位类型",
+      "selectJobType": "选择类型",
+      "fullTime": "全日制",
+      "partTime": "兼职",
+      "contract": "合同",
+      "internship": "实习",
+      "freelance": "自由职业者",
+      "location": "地点",
+      "locationPlaceholder": "例如",
+      "duration": "期间",
+      "currentlyWorking": "目前在这里工作",
+      "description": "职位描述",
+      "descriptionPlaceholder": "描述您的主要职责和成就...",
+      "skills": "具体技能",
+      "addExperience": "添加经验"
+    },
+    "org": {
+      "organization": "组织名称",
+      "organizationPlaceholder": "组织名称...",
+      "role": "角色/职位",
+      "rolePlaceholder": "例如",
+      "duration": "期间",
+      "periodFormat": "或自由格式（例如 2020 - 2022）",
+      "periodPlaceholder": "例如",
+      "currentlyActive": "目前活跃",
+      "description": "活动说明",
+      "descriptionPlaceholder": "描述您的活动或贡献...",
+      "addExperience": "添加经验"
+    },
+    "education": {
+      "institution": "机构名称",
+      "institutionPlaceholder": "学校或大学名称...",
+      "degree": "学位/级别",
+      "degreePlaceholder": "例如",
+      "major": "专业/研究领域",
+      "majorPlaceholder": "例如",
+      "gpa": "平均绩点/成绩",
+      "gpaPlaceholder": "例如",
+      "duration": "教育年限",
+      "periodFormat": "或自由格式（例如 2018 - 2022）",
+      "periodPlaceholder": "例如",
+      "currentlyStudying": "目前在这里学习",
+      "description": "活动/荣誉",
+      "descriptionPlaceholder": "描述学术活动、组织或获得的荣誉...",
+      "addEducation": "添加教育背景"
+    },
+    "cert": {
+      "name": "认证名称",
+      "namePlaceholder": "例如",
+      "issuer": "发行机构",
+      "issuerPlaceholder": "例如",
+      "issueDate": "签发日期",
+      "expiryDate": "有效期至",
+      "noExpiry": "此凭证不会过期",
+      "yearPlaceholder": "或年份（例如 2023 年）",
+      "credentialUrl": "凭证网址",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "相关技能",
+      "addCertification": "添加认证",
+      "image": "图像/标志",
+      "removeImage": "删除图像",
+      "uploadImage": "点击上传图片"
+    },
+    "common": {
+      "months": {
+        "1": "一月",
+        "2": "二月",
+        "3": "行进",
+        "4": "四月",
+        "5": "可能",
+        "6": "六月",
+        "7": "七月",
+        "8": "八月",
+        "9": "九月",
+        "10": "十月",
+        "11": "十一月",
+        "12": "十二月"
+      },
+      "month": "月",
+      "year": "年",
+      "invalidDate": "无效的结束月份",
+      "words": "字"
+    }
+  },
+  "settings": {
+    "title": "设置",
+    "subtitle": "管理您的投资组合资料和偏好",
+    "tabs": {
+      "profile": "我的个人资料",
+      "security": "安全",
+      "personalization": "个性化"
+    },
+    "profile": {
+      "infoTitle": "基本信息",
+      "photo": "个人资料照片",
+      "uploadPhoto": "更改照片",
+      "fullName": "姓名",
+      "fullNamePlaceholder": "约翰·多伊",
+      "email": "电子邮件",
+      "emailPlaceholder": "约翰@example.com",
+      "emailHelp": "电子邮件用于登录，不会公开显示。",
+      "portfolioUrl": "作品集网址",
+      "saveProfile": "保存个人资料",
+      "save": "保存个人资料",
+      "accountCreated": "帐户已创建",
+      "lastLogin": "上次登录",
+      "oauthNotice": "此个人资料已连接到您的 {{provider}} 帐户。个人资料更改必须通过服务提供商进行。"
+    },
+    "security": {
+      "changePassword": "更改密码",
+      "currentPassword": "当前密码",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "新密码",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "确认新密码",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "至少 8 个字符",
+        "uppercase": "一个大写字母 (A-Z)",
+        "number": "一个数字 (0-9)",
+        "symbol": "一个符号 (!@#$%^&*)"
+      },
+      "passwordTitle": "密码",
+      "updatePassword": "更新密码",
+      "additionalSecurity": "额外的安全保障",
+      "twoFactor": "双因素身份验证 (2FA)",
+      "twoFactorDesc": "使用额外的 OTP 代码保护您的帐户。",
+      "activeSessions": "活跃会话",
+      "activeSessionsDesc": "始终允许监控已登录的设备。",
+      "publicVisibility": "公众能见度",
+      "hideFromSearch": "对搜索引擎隐藏投资组合",
+      "hideFromSearchDesc": "阻止 Google 将您的公共投资组合页面编入索引。",
+      "disable2fa": {
+        "title": "禁用 2FA",
+        "description": "您确定要关闭双因素身份验证吗？",
+        "confirmPasswordLabel": "输入您的密码进行确认",
+        "currentPasswordPlaceholder": "当前密码",
+        "cancelButton": "取消",
+        "confirmButton": "禁用 2FA",
+        "incorrectPassword": "密码不正确。"
+      },
+      "setup2fa": {
+        "step1Title": "1. 扫描二维码",
+        "step1Desc": "打开您的身份验证器应用程序并扫描以下二维码：",
+        "unableToScan": "无法扫描？使用设置键",
+        "step2Title": "2. 验证码",
+        "step2Desc": "输入您的应用生成的 6 位代码：",
+        "cancelButton": "取消",
+        "enableButton": "启用 2FA",
+        "invalidLength": "请输入 6 位数代码。",
+        "invalidCode": "验证码无效。请再试一次。"
+      }
+    },
+    "personalization": {
+      "languageTitle": "语言控制",
+      "appLanguage": "应用程序语言",
+      "layoutTitle": "布局和版式",
+      "layoutStyle": "布局风格",
+      "layoutModern": "现代风格（默认）",
+      "layoutClassic": "经典风格",
+      "layoutMinimalist": "极简风格",
+      "fontSize": "应用程序字体大小",
+      "fontSmall": "小的",
+      "fontNormal": "正常（中）",
+      "fontLarge": "大的",
+      "searchLanguage": "搜索语言...",
+      "languageNotFound": "未找到语言",
+      "layoutElegant": "优雅风格"
+    },
+    "saveChanges": "保存更改",
+    "cancel": "取消",
+    "appSettings": "应用程序设置",
+    "logoutConfirmTitle": "确认退出",
+    "logoutConfirmDesc": "您确定要退出系统吗？",
+    "logoutConfirmYes": "是的，退出",
+    "generalError": "发生错误。",
+    "success": "成功",
+    "preferencesSaved": "应用程序首选项已成功保存。",
+    "header": "应用程序设置",
+    "logout": {
+      "title": "退出确认",
+      "message": "您确定要退出系统吗？",
+      "confirm": "是的，退出"
+    },
+    "about": {
+      "title": "关于申请",
+      "subtitle": "投资组合构建平台",
+      "version": "版本",
+      "description": "DevFolio 是一个专为开发人员、设计师和专业创作者设计的现代作品集构建平台。",
+      "license": "许可和版权",
+      "copyright": "© 2026 DevFolio Inc. 保留所有权利。",
+      "developer": "开发商",
+      "developedBy": "由 DevFolio 团队开发"
+    },
+    "deleteAccount": {
+      "title": "永久删除帐户",
+      "menuItem": "删除帐户",
+      "successTitle": "成功",
+      "successMessage": "帐户删除确认电子邮件已发送。",
+      "errorTitle": "失败",
+      "errorMessage": "无法发送确认电子邮件。",
+      "confirmationMessage": "您确定要永久删除您的帐户吗？",
+      "warningMessage1": "您将收到一封电子邮件以确认帐户删除。",
+      "warningMessage2": "如果确认，所有数据（投资组合、项目、统计数据）将被永久删除且无法恢复。",
+      "cancel": "取消",
+      "confirm": "确认"
+    },
+    "toasts": {
+      "toastError": "错误",
+      "toastSuccess": "成功",
+      "toastSetup2FAFailed": "无法设置 2FA。请再试一次。",
+      "toast2FAEnabled": "已启用双因素身份验证。",
+      "toast2FADisabled": "双因素身份验证已被禁用。",
+      "toastSessionEnabled": "活动会话监控已启用。",
+      "toastSessionDisabled": "活动会话监控已被禁用。",
+      "toastSetupKeyCopied": "设置密钥已复制到剪贴板。"
+    },
+    "privacy": {
+      "title": "隐私政策",
+      "updateDate": "最后更新时间：2026 年 7 月 15 日",
+      "intro": "本隐私政策解释了DevFolio在您使用我们的服务时如何收集、使用和保护您的个人信息。",
+      "section1Title": "1. 我们收集的信息",
+      "section1Content": "我们会收集您在创建帐户、建立投资组合以及联系我们的支持人员时直接提供的信息。",
+      "section2Title": "2. 信息的使用",
+      "section2Content": "您的信息用于操作、维护和提供我们服务的功能，以及就您的帐户或服务与您进行沟通。",
+      "section3Title": "3. 数据安全",
+      "section3Content": "我们实施合理的安全措施来保护您的信息免遭未经授权的访问、披露或破坏。"
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "未找到确认令牌。",
+    "defaultError": "删除帐户失败。令牌可能已过期。",
+    "loadingTitle": "正在删除帐户...",
+    "loadingMessage": "请稍候，我们正在处理您的请求。",
+    "successTitle": "账户删除成功",
+    "successMessage": "您的所有数据已被永久删除。您将被重定向...",
+    "errorTitle": "删除账户失败",
+    "backToHome": "返回首页"
+  },
+  "forgotPassword": {
+    "minutes": "分钟",
+    "seconds": "第二",
+    "success": "成功",
+    "otpSentToEmail": "OTP 代码已发送到您的电子邮件。",
+    "failed": "失败",
+    "emailNotFound": "未找到电子邮件。",
+    "emailThirdParty": "该电子邮件是通过第三方注册的。",
+    "genericError": "有错误。请再试一次。",
+    "otpVerified": "OTP 代码已成功验证。",
+    "otpExpired": "OTP 代码已过期。请请求新代码。",
+    "otpInvalid": "OTP 代码无效。",
+    "otpResent": "新的 OTP 代码已发送到您的电子邮件。",
+    "otpResendFailed": "重新发送 OTP 代码失败。请再试一次。",
+    "passwordResetSuccess": "密码重置成功。请使用您的新密码登录。",
+    "passwordResetFailed": "重置密码失败。",
+    "backToLogin": "返回登录",
+    "back": "返回",
+    "title": "忘记密码",
+    "description": "输入您帐户中注册的电子邮件地址。我们将发送 OTP 代码来重置密码。",
+    "emailLabel": "电子邮件",
+    "sending": "发送...",
+    "sendOtp": "发送一次性密码",
+    "verifyOtpTitle": "验证 OTP 代码",
+    "verifyOtpDesc": "输入已发送到您的电子邮件的 6 位数代码以确认您的身份。",
+    "verifying": "正在验证...",
+    "verifyOtp": "一次性密码验证",
+    "resending": "重新发送...",
+    "resendOtp": "重新发送 OTP 代码",
+    "resendCodeIn": "重新发送内码",
+    "newPasswordTitle": "创建新密码",
+    "newPasswordDesc": "创建一个新的强密码来保护您的帐户。",
+    "newPasswordLabel": "新密码",
+    "min8Chars": "最少 8 个字符",
+    "oneUpperCase": "1 个大写字母 (A-Z)",
+    "oneNumber": "1 个数字 (0-9)",
+    "oneSymbol": "1 个符号 (!@#$%^&*)",
+    "confirmPasswordLabel": "确认密码",
+    "passwordsDoNotMatch": "密码不匹配。",
+    "resettingPassword": "重置密码...",
+    "resetPassword": "重置密码"
+  },
+  "verifyEmail": {
+    "resendError": "重新发送验证邮件失败。请再试一次。",
+    "checkingStatus": "正在检查验证状态...",
+    "title": "检查您的电子邮件",
+    "description": "我们已向您的电子邮件地址发送了一封验证电子邮件。请打开电子邮件并点击<1>“确认帐户”</1>按钮来激活您的帐户。",
+    "stepsTitle": "步骤",
+    "step1": "打开您的电子邮件应用程序（Gmail、Yahoo 等）",
+    "step2": "查找来自 DevFolio 的主题为“帐户激活”的电子邮件",
+    "step3": "点击电子邮件中的“确认帐户”按钮",
+    "step4": "您将被重定向到登录页面进行登录",
+    "resendSuccess": "验证邮件已重新发送！",
+    "resending": "重新发送...",
+    "resendButton": "重新发送验证邮件",
+    "backToLogin": "返回登录页面",
+    "footerNote": "没有收到电子邮件？检查电子邮件中的<1>垃圾邮件</1>或<2>垃圾邮件</2>文件夹。验证链接的有效期为<3>24小时</3>。"
+  }
+}

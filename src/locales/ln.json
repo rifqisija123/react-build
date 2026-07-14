@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Biteni",
+    "templates": "Modèles ya kosala",
+    "pricing": "Kopesa ntalo ya biloko",
+    "login": "Kokota na site",
+    "getStarted": "Kobanda",
+    "title": "DevFolio ya mosala"
+  },
+  "landing": {
+    "badge": "Motongi ya portefeuille ya suka pona ba développeurs",
+    "title1": "Tongela professionnel na yo",
+    "title2": "portefeuille na",
+    "titleHighlight": "basegɔnde.",
+    "subtitle": "Nyonso oyo osengeli na yango mpo na kolakisa mayele na yo, misala na yo, mpe mayele na yo. ",
+    "startBuilding": "Bandá Kotonga Sikoyo",
+    "viewTemplates": "Tala ba Modèles",
+    "fastDeployment": "Déploiement ya Noki",
+    "liveStatus": "username.dev ezali na bomoi!",
+    "featuresTitle": "Makambo ya nguya",
+    "featuresSubtitle": "Tozali kopesa bisaleli nyonso oyo osengeli na yango mpo na kokesana na bato mpe kokita na mosala ya ndoto na yo.",
+    "feature1Title": "Motongi ya kobenda & kobwaka",
+    "feature1Desc": "Bongisa biteni na yo, ba projets, mpe mayele na yo na pete na éditeur visuel na biso ya intuitif.",
+    "feature2Title": "Ba Thèmes personnalisés",
+    "feature2Desc": "Pona na kati ya ba modèles oyo esalemi na ndenge ya professionnel to sala look na yo moko unique.",
+    "feature3Title": "Analytique na tango ya solo",
+    "feature3Desc": "Landela ba visiteurs na yo, tala ba projets nini ezuaka attention mingi, pe ebele."
+  },
+  "auth": {
+    "welcomeBack": "Boyei Boyei Bozongi",
+    "loginToContinue": "Kota na compte na yo mpo na kokoba",
+    "createAccount": "Salá Compte",
+    "joinCommunity": "Sangisa bankóto ya ba développeurs mosusu",
+    "fullName": "Kombo mobimba",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Addresse ya email",
+    "emailPlaceholder": "yo@ndakisa.com",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Bomikundola ngai",
+    "forgotPassword": "Obosani mot de passe?",
+    "signIn": "Kokota na site",
+    "signingIn": "Kokɔta na site...",
+    "signUp": "Kokoma na nkombo",
+    "signingUp": "Kokoma na maboko...",
+    "noAccount": "Ozali na compte te?",
+    "hasAccount": "Ozali déjà na compte?",
+    "passwordRules": {
+      "title": "Mot ya nzela esengeli kozala na:",
+      "length": "Ata bilembo 8",
+      "uppercase": "Lettre moko ya minene (A-Z) .",
+      "number": "Motángo moko (0-9) .",
+      "symbol": "Elembo moko (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Motongi ya Portefeuille",
+      "templates": "Modèles & Thèmes",
+      "settings": "Ba paramètres",
+      "collapse": "Kokwea Barre ya mopanzi",
+      "overview": "Botali ya mozindo",
+      "profileSettings": "Paramètres ya Profil",
+      "customDomain": "Domaine personnalisé",
+      "feedback": "Komantere"
+    },
+    "header": {
+      "viewLive": "Tala En direct",
+      "welcome": "Boyei malamu,",
+      "logout": "Kobima na mosala",
+      "builder": "Motongi ya ndako",
+      "livePortfolio": "Portefeuille en direct",
+      "live": "Kofanda"
+    },
+    "logoutModal": {
+      "title": "Kobima na mosala",
+      "message": "Ozali na ntembe te ete olingi kobima na kɔnti na yo? ",
+      "cancel": "Kolongola",
+      "confirm": "Ee, Kobima na ndako"
+    },
+    "slugModal": {
+      "title": "Pona URL ya Portefeuille na Yo",
+      "message": "URL oyo ekozala lien unique na portefeuille na yo. ",
+      "slugPlaceholder": "nkombo-na yo",
+      "availability": "Bozali na yango:",
+      "available": "Ezali",
+      "unavailable": "Ezali te",
+      "checking": "Ko vérifier...",
+      "mustFormat": "Ekoki kozala kaka na balɛtrɛ, mituya, mpe bilembo (-) .",
+      "cancel": "Kolongola",
+      "save": "Bomba URL",
+      "usernameUrl": "URL ya nkombo ya mosaleli",
+      "helpText": "Balɛtrɛ ya mikemike, mituya mpe bilembo ya mikemike. ",
+      "validation": {
+        "empty": "Slug ekoki kozala vide te.",
+        "min3": "Minimum 3 bilembo.",
+        "max30": "Maximum 30 bilembo.",
+        "format": "Kaka balɛtrɛ mike, mituya, mpe bilembo (-). "
+      }
+    },
+    "loadingPortfolio": "Ko charger ba données ya portefeuille...",
+    "overview": {
+      "greetings": {
+        "morning": "Ntongo malamu",
+        "afternoon": "Bolamu na nsima ya midi",
+        "evening": "Bolamu na nsima ya midi",
+        "night": "Butu Malamu"
+      },
+      "welcome": {
+        "hi": "Mbote, .",
+        "creator": "Mozalisi",
+        "desc1": "Boyei malamu na tableau de bord ya DevFolio. Portefeuille na yo etalisami na",
+        "desc2": "moto. Kobá kosala!",
+        "editPortfolio": "Bobongisi Portefeuille"
+      },
+      "stats": {
+        "totalVisitors": "Total ya ba visiteurs",
+        "projectViews": "Etali (Projet) .",
+        "activeSessions": "Session ya mosala",
+        "totalLabel": "Motango mobimba"
+      },
+      "setup": {
+        "title": "Bokóli ya Bobongisi",
+        "completed": "Portefeuille na yo esili! 🎉",
+        "inProgress": "Matambe mpo na kokende na portefeuille ya kokoka.",
+        "profile": {
+          "title": "Profil mobimba",
+          "desc": "Bakisa kombo, bio na photo ya profil."
+        },
+        "section": {
+          "title": "Bakisa Biteni",
+          "desc": "Activer au moins 1 section na portefeuille."
+        },
+        "project": {
+          "title": "Bakisa Projet",
+          "desc": "Tyá ata 1 ya ba projets na yo ya malamu koleka."
+        },
+        "publish": {
+          "title": "Kobimisa Portefeuille",
+          "desc": "Botia URL oyo esalemi na ndenge ya moto ye moko mpo ete bato nyonso bákɔta na yango."
+        }
+      },
+      "topProjects": {
+        "title": "Ba Projets oyo Ba Populaire Mingi",
+        "desc": "Bosali ya mosala na yo na miso ya bapaya.",
+        "viewAll": "Talá Nyonso",
+        "empty": "Nanu ba données ya vue pona projet na yo eza te."
+      }
+    },
+    "themes": {
+      "title": "Modèles & Thèmes",
+      "subtitle": "Personnaliser look na sentiment ya portefeuille public na yo.",
+      "reset": "Réinitialiser Par Défaut",
+      "save": "Bomba Mbongwana",
+      "saving": "Kobomba...",
+      "chooseTemplate": "Pona Modèle moko",
+      "primaryColor": "Langi ya liboso",
+      "typography": "Typographie",
+      "appearance": "Emonani",
+      "corners": "Ba Coins & Ba Frontières",
+      "successTitle": "Elonga",
+      "successMessage": "Ba préférences ya thème e mise à jour na succès",
+      "errorTitle": "Libunga",
+      "errorMessage": "Elongi te kobomba ba préférences ya thème",
+      "templates": {
+        "minimalist": {
+          "name": "Minimaliste",
+          "desc": "Design propre et simple oyo etali mingi makambo oyo ezali na kati."
+        },
+        "developerDark": {
+          "name": "Mobongisi Molili",
+          "desc": "Thème ya molili parfait pona kolakisa code na ba piles tech."
+        },
+        "creative": {
+          "name": "Bokeli",
+          "desc": "Layout vibrant mpe ya langilangi mpo na ba designers mpe ba créatifs."
+        },
+        "executive": {
+          "name": "Exécutif",
+          "desc": "Disposition professionnelle et formelle pona ba professionnels ya commerce."
+        },
+        "bentoGrid": {
+          "name": "Grille ya Bento",
+          "desc": "Modern Apple-style grid layout oyo ezo souligner ba compétences différentes na efficace."
+        },
+        "neoBrutalism": {
+          "name": "Néo-Brutalisme",
+          "desc": "Ba frontières gras na ba couleurs ya contraste ya likolo pona look ya mode, sans pardon."
+        },
+        "glassmorphism": {
+          "name": "Morfisme ya verre",
+          "desc": "Ba effets ya verre glacé likolo ya ba gradients ya couleur pona UI moderne ya lisse."
+        },
+        "linkInBio": {
+          "name": "Lien na Bio",
+          "desc": "Disposition verticale compacte optimisée pona ba écrans mobiles na ba médias sociaux."
+        }
+      },
+      "appearances": {
+        "light": "Pole",
+        "dark": "Molili",
+        "system": "Système"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Ezali na zingazinga",
+        "pill": "Pilili ya monganga"
+      }
+    },
+    "feedback": {
+      "title": "Tinda Ba Retours",
+      "subtitle": "Salisá biso tosala yango malamu koleka na kopesaka makanisi, kotyola, to koyebisa ba bugs na application oyo.",
+      "categoryLabel": "Catégorie ya ba réactions",
+      "messageLabel": "Makambo ya Message",
+      "messagePlaceholder": "Yebisa ngai na bozindo na ntina ya makanisi oyo olingi kopesa...",
+      "imageLabel": "Bokangami ya elilingi (Ezali na bolingi)",
+      "imagePlaceholder": "Cliquez pona ko uploader image to capture d'écran",
+      "submitting": "Kotinda...",
+      "submitBtn": "Tinda Ba Retours",
+      "categories": {
+        "suggestion": "Makanisi & Makanisi",
+        "bug": "Lapolo ya bozangi / libunga",
+        "criticism": "Ba critiques",
+        "other": "Basusu"
+      },
+      "imageErrorTitle": "Libunga",
+      "imageErrorMessage": "Ba fichiers mosusu eboyami mpo ezali ba formats ya bilili oyo esungami te (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Elonga",
+      "successMessage": "Matondo mingi mpo na makanisi na bino! Lapolo etindami.",
+      "submitErrorTitle": "Elongi te",
+      "submitErrorMessage": "Libunga esalemaki ntango bazalaki kotinda makanisi. Svp meka lisusu."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Na ntina na Ngai",
+      "skills": "Mayele",
+      "projects": "Misala ya kosala",
+      "workExperience": "Expérience ya mosala",
+      "orgExperience": "Expérience ya organisation",
+      "education": "Mateya",
+      "certifications": "Formation & Certifications ya ba certifications",
+      "contact": "Contactez Ngai"
+    },
+    "editor": {
+      "profileInfo": "Basango ya Profil",
+      "saving": "Kobomba...",
+      "profilePhoto": "Fɔtɔ́ ya Profil",
+      "clickToUpload": "Finá mpo na kotya (JPG, PNG)",
+      "fullName": "Kombo mobimba",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer na passion ya kotonga ba apps web ya mikolo oyo...",
+      "location": "Esika",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Mobali to mwasi",
+      "selectGender": "Pona Mobali to mwasi",
+      "male": "Mobali",
+      "female": "Ya mwasi",
+      "custom": "Momeseno",
+      "customPlaceholder": "Type genre personnalisé na yo...",
+      "uploadCv": "Botia CV na likolo",
+      "cvFormat": "(DOC to PDF)",
+      "preview": "Botali liboso",
+      "remove": "Kolongola",
+      "clickToUploadCv": "Finá mpo na kotya PDF to DOC",
+      "sections": "Biteni",
+      "removeSelected": "Longola Eponami",
+      "confirmRemove": "Confirmer Longola",
+      "addSection": "Bakisa Eteni",
+      "addAllSections": "Bakisa Biteni Nyonso",
+      "noSections": "Biteni moko te naino",
+      "clickToAdd": "Finá \"+ Bakisa Eteni\" mpo na kobanda",
+      "selectAll": "Poná Nyonso",
+      "selected": "Eponami",
+      "dragToReorder": "Benda mpo na kozongisa biteni na molɔngɔ",
+      "livePreview": "Aperçu en direct",
+      "addSectionsToBuild": "Bakisa biteni mpo na kotonga portefeuille na yo",
+      "now": "Sikoyo",
+      "current": "Ya sika",
+      "noExpiry": "Expiration te",
+      "see": "Kotala",
+      "position": "Esika",
+      "degree": "Diplome",
+      "certification": "Kopesa mokanda ya kondimama",
+      "sectionsForm": {
+        "about": {
+          "label": "Bolimbisi ya yo moko",
+          "placeholder": "Yebisa biso makambo na yo moko, ba antécédents na yo, ba intérêts na yo pe ba compétences na yo..."
+        },
+        "skills": {
+          "addPlaceholder": "Tyá mayele na nsima finá Enter..."
+        },
+        "projects": {
+          "title": "Kombo ya Projet",
+          "titlePlaceholder": "Kombo ya projet...",
+          "url": "URL ya projet",
+          "description": "Ndimbola",
+          "descriptionPlaceholder": "Bolimbisi mokuse ya mosala yango...",
+          "uploadThumbnail": "Image ya projet",
+          "addProject": "Bakisa Projet",
+          "projectNum": "Mosala #",
+          "currentProject": "Oyo ezali projet oyo nazali kosala"
+        },
+        "work": {
+          "company": "Société/Agence",
+          "companyPlaceholder": "Kombo ya société...",
+          "position": "Esika/Titre",
+          "positionPlaceholder": "Position na yo...",
+          "employmentType": "Lolenge ya mosala",
+          "location": "Esika",
+          "locationPlaceholder": "Engumba, Mboka...",
+          "startDate": "Kobanda",
+          "endDate": "Kosukisa",
+          "currentWork": "Nazali kaka kosala na tango oyo",
+          "description": "Ndimbola",
+          "descriptionPlaceholder": "Boyebisi ya mosala mpe mikumba...",
+          "skills": "Mayele",
+          "addExperience": "Bakisa Expérience ya Mosala",
+          "experienceNum": "Ekperianse #",
+          "dateError": "Mokolo ya nsuka ekoki kozala liboso te koleka mokolo ya kobanda"
+        },
+        "org": {
+          "organization": "Nkombo ya Ebongiseli",
+          "orgPlaceholder": "Université ya BEM...",
+          "role": "Mosala/Esika ya mosala",
+          "rolePlaceholder": "Mokambi ya Division...",
+          "addOrg": "Bakisa Expérience ya Organisation",
+          "orgNum": "Lisanga #"
+        },
+        "edu": {
+          "institution": "Bibongiseli ya mateya",
+          "institutionPlaceholder": "Kombo ya campus to ya eteyelo...",
+          "degree": "Titre",
+          "degreePlaceholder": "S1, eteyelo ya likolo, etc...",
+          "major": "Departema/Esika ya boyekoli",
+          "majorPlaceholder": "Ingénierie Informatique...",
+          "gpa": "GPA (ekoki kozala ya kopona) .",
+          "currentStudy": "Nazali kaka koyekola awa",
+          "descriptionPlaceholder": "Misala mpe makoki na ntango ya boyekoli...",
+          "addEdu": "Bakisa Boyekoli",
+          "eduNum": "Mateya #"
+        },
+        "cert": {
+          "name": "Kombo ya Certification / Formation",
+          "namePlaceholder": "Kombo ya certification...",
+          "issuer": "Mosakoli",
+          "issuerPlaceholder": "Institution ya édition...",
+          "issueDate": "Kobanda (Mokolo ya kobimisa)",
+          "issueDatePlaceholder": "Pona mokolo ya kobimisa...",
+          "expiryDate": "Esili (Eleko oyo ezali na ntina) .",
+          "expiryDatePlaceholder": "Pona mokolo ya expiration...",
+          "noExpiry": "Certificat oyo ezali na date d'expiration te",
+          "url": "URL ya mokanda ya bondimi",
+          "uploadThumbnail": "Certificat / Image ya formation",
+          "uploadThumbnailLimit": "Botia elilingi ya certificat (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Bakisa Certification",
+          "certNum": "Certification # ."
+        },
+        "contact": {
+          "contactNum": "Kokutana #",
+          "platform": "Esika",
+          "displayText": "Lakisa Makomi",
+          "displayTextPlaceholder": "e.g., yo@email.com to @kombo ya mosaleli",
+          "url": "Lien (URL)",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (kozanga liboso 0)",
+          "urlPlaceholderEmail": "na ndakisa, yo@email.com",
+          "urlPlaceholderWebsite": "na ndakisa, https://...",
+          "urlPlaceholderDefault": "e.g., nkombo ya mosaleli",
+          "addContact": "Bakisa Contact"
+        },
+        "common": {
+          "months": {
+            "1": "Sanza ya Yambo",
+            "2": "Sanza ya mibale",
+            "3": "Kotambola",
+            "4": "Sanza ya minei",
+            "5": "Mbala mosusu",
+            "6": "Sanza ya motoba",
+            "7": "Sanza ya nsambo",
+            "8": "Sanza ya mwambe",
+            "9": "Sanza ya libwa",
+            "10": "Sanza ya zomi",
+            "11": "Sanza ya zomi na moko",
+            "12": "Sanza ya zomi na mibale"
+          },
+          "month": "Sanza",
+          "year": "Mbula",
+          "invalidDate": "Sanza ya Suka oyo ezali na ntina te",
+          "words": "maloba"
+        }
+      },
+      "sure": "Solo",
+      "deletePhotoTitle": "Effacer Photo ya Profil?",
+      "deletePhotoMessage": "Ozali sûr que olingi o supprimer photo ya profil oyo?",
+      "cancel": "Kolongola",
+      "delete": "Boma"
+    },
+    "cropper": {
+      "chooseBackground": "Pona Background",
+      "cropPhoto": "Kata Fɔtɔ́ na Yo",
+      "useOriginal": "Salelá original",
+      "backgroundPresets": "Ba pré-réglages ya fond",
+      "none": "Moko te",
+      "uploadBackground": "Upload Background ya makambo",
+      "cancel": "Kolongola",
+      "savePhoto": "Bomba Fɔtɔ́",
+      "zoom": "Zoom na yango",
+      "rotationTilt": "Rotation & Kobalusa",
+      "resetRotation": "Réinitialiser na 0°",
+      "center": "Katikati",
+      "rotateLeft": "Bobalusa -90°",
+      "rotateRight": "Bobalusa na +90°",
+      "removeBackground": "Longola Background",
+      "processing": "Traitement ya image na yo, svp zela..."
+    },
+    "cvPreview": {
+      "title": "CV Aperçu ya liboso",
+      "downloadCv": "Télécharger CV",
+      "download": "Kozwa",
+      "wordCannotPreview": "Mikanda ya Word (.doc/.docx) ekoki te kotalama liboso na ndenge ya native na navigateur. ",
+      "downloadFile": "Télécharger Fichier CV",
+      "back": "Mukongo",
+      "mobileMessage": "Svp télécharger fichier CV pona kotala yango liboso.",
+      "preview": "Botala liboso CV",
+      "wordPreviewTitle": "Botali ya mokanda ya Word",
+      "wordPreviewMessage": "Mikanda ya Word (.doc/.docx) ekoki te kotalama liboso na ndenge ya native na navigateur. Svp télécharger fichier po o tala yango."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Koma mwa ndimbola mokuse na ntina na yo moko, makambo oyo osepelaka na yango, mpe mikano ya mosala..."
+    },
+    "skills": {
+      "placeholder": "Type kombo ya makoki...",
+      "add": "Kobakisa",
+      "enterToAdd": "Finá Enter mpo na kobakisa",
+      "noSkills": "Makoki moko te ebakisami naino."
+    },
+    "projects": {
+      "projectName": "Kombo ya Projet",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL ya projet",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Boumeli",
+      "startMonth": "Sanza ya Kobanda",
+      "startYear": "Mobu ya Kobanda",
+      "endMonth": "Sanza ya nsuka",
+      "endYear": "Mbula ya nsuka",
+      "currentlyWorking": "Sikoyo kosala na likambo oyo",
+      "description": "Ndimbola",
+      "descriptionPlaceholder": "Limbola projet, rôle na yo, pe ba réussites...",
+      "technologies": "Ba technologies oyo esalelami",
+      "addProject": "Bakisa Projet",
+      "image": "Image ya projet",
+      "removeImage": "Longola Elilingi",
+      "uploadImage": "Finá mpo na kotya elilingi"
+    },
+    "work": {
+      "company": "Société/Ebongiseli",
+      "companyPlaceholder": "Kombo ya société...",
+      "role": "Mosala/Esika ya mosala",
+      "rolePlaceholder": "Position na yo...",
+      "jobType": "Lolenge ya Mosala",
+      "selectJobType": "Pona lolenge",
+      "fullTime": "Mosala ya ntango nyonso",
+      "partTime": "Mosala ya ndambo ya mokolo",
+      "contract": "Kontra",
+      "internship": "Stage",
+      "freelance": "Freelance",
+      "location": "Esika",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Boumeli",
+      "currentlyWorking": "Sikoyo azali kosala awa",
+      "description": "Bolimbisi ya Mosala",
+      "descriptionPlaceholder": "Limbola mikumba na yo ya ntina mpe makambo oyo osali...",
+      "skills": "Makoki ya sikisiki",
+      "addExperience": "Bakisa Expérience"
+    },
+    "org": {
+      "organization": "Nkombo ya Ebongiseli",
+      "organizationPlaceholder": "Nkombo ya ebongiseli...",
+      "role": "Mosala/Esika ya mosala",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Boumeli",
+      "periodFormat": "to Format ya ofele (e.g. 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Na tango oyo ezali kosala",
+      "description": "Bolimbisi ya mosala",
+      "descriptionPlaceholder": "Limbola misala to makabo na yo...",
+      "addExperience": "Bakisa Expérience"
+    },
+    "education": {
+      "institution": "Nkombo ya Ebongiseli",
+      "institutionPlaceholder": "Nkombo ya eteyelo to ya iniversite...",
+      "degree": "Diplôme/Niveau",
+      "degreePlaceholder": "e.g. ",
+      "major": "Major/Esika ya boyekoli",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Grade ya kelasi",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Bolai ya mateya",
+      "periodFormat": "to Format ya ofele (e.g. 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Sikoyo azali koyekola awa",
+      "description": "Misala / Ba Honors",
+      "descriptionPlaceholder": "Limbola misala ya kelasi, bibongiseli, to lokumu oyo ezwami...",
+      "addEducation": "Bakisa Boyekoli"
+    },
+    "cert": {
+      "name": "Kombo ya Certification",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Organisation oyo ebimisaka",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Mokolo ya kobimisa",
+      "expiryDate": "Valid Kino",
+      "noExpiry": "Mokanda oyo ya kondimama esilaka te",
+      "yearPlaceholder": "to Mobu (e.g. 2023) .",
+      "credentialUrl": "URL ya mokanda ya bondimi",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Makoki oyo etali yango",
+      "addCertification": "Bakisa Certification",
+      "image": "Elilingi/Logo",
+      "removeImage": "Longola Elilingi",
+      "uploadImage": "Finá mpo na kotya elilingi"
+    },
+    "common": {
+      "months": {
+        "1": "Sanza ya Yambo",
+        "2": "Sanza ya mibale",
+        "3": "Kotambola",
+        "4": "Sanza ya minei",
+        "5": "Mbala mosusu",
+        "6": "Sanza ya motoba",
+        "7": "Sanza ya nsambo",
+        "8": "Sanza ya mwambe",
+        "9": "Sanza ya libwa",
+        "10": "Sanza ya zomi",
+        "11": "Sanza ya zomi na moko",
+        "12": "Sanza ya zomi na mibale"
+      },
+      "month": "Sanza",
+      "year": "Mbula",
+      "invalidDate": "Sanza ya Suka oyo ezali na ntina te",
+      "words": "maloba"
+    }
+  },
+  "settings": {
+    "title": "Ba paramètres",
+    "subtitle": "Gérer profil ya portefeuille na yo na ba préférences",
+    "tabs": {
+      "profile": "Profil na ngai",
+      "security": "Libateli",
+      "personalization": "Bosalisi ya moto ye moko"
+    },
+    "profile": {
+      "infoTitle": "Basango ya moboko",
+      "photo": "Fɔtɔ́ ya Profil",
+      "uploadPhoto": "Bobongola Fɔtɔ́",
+      "fullName": "Kombo mobimba",
+      "fullNamePlaceholder": "John Doe, oyo azali",
+      "email": "Addresse ya email",
+      "emailPlaceholder": "john@ndakisa.com",
+      "emailHelp": "Email esalelamaka mpo na kokota mpe elakisami na miso ya bato te.",
+      "portfolioUrl": "URL ya portefeuille",
+      "saveProfile": "Bomba Profil",
+      "save": "Bomba Profil",
+      "accountCreated": "Compte Esalemi",
+      "lastLogin": "Bokɔti ya nsuka",
+      "oauthNotice": "Profil oyo ekangami na compte {{provider}} na yo. Esengeli kosala mbongwana ya profil na nzela ya mopesi ya service."
+    },
+    "security": {
+      "changePassword": "Bobongola Mot ya nzela",
+      "currentPassword": "Mot de passe ya lelo",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Mot de passe ya sika",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Confirmer Mot de passe ya sika",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Ata bilembo 8",
+        "uppercase": "Lettre moko ya minene (A-Z) .",
+        "number": "Motángo moko (0-9) .",
+        "symbol": "Elembo moko (!@#$%^&*)"
+      },
+      "passwordTitle": "Mot de passe",
+      "updatePassword": "Mikolo oyo Mot de passe",
+      "additionalSecurity": "Bobateli ya kobakisa",
+      "twoFactor": "Bondimi ya makambo mibale (2FA) .",
+      "twoFactorDesc": "Bobatela compte na yo na nzela ya code OTP ya kobakisa.",
+      "activeSessions": "Ba Sessions ya Active",
+      "activeSessionsDesc": "Tika toujours suivi ya ba appareils oyo ekoti.",
+      "publicVisibility": "Bomonisami ya bato banso",
+      "hideFromSearch": "Bomba Portefeuille na ba Moteurs de recherche",
+      "hideFromSearchDesc": "Pekisa Google esala index ya page ya portefeuille public na yo.",
+      "disable2fa": {
+        "title": "Désactiver 2FA",
+        "description": "Ozali na ntembe te ete olingi kokanga bondimi ya makambo mibale?",
+        "confirmPasswordLabel": "Tyá mot de passe na yo mpo na kondimisa",
+        "currentPasswordPlaceholder": "Mot de passe ya lelo",
+        "cancelButton": "Annuler",
+        "confirmButton": "Désactiver 2FA",
+        "incorrectPassword": "Mot de passe ya mabe."
+      },
+      "setup2fa": {
+        "step1Title": "1. Kosala scanner ya Code QR",
+        "step1Desc": "Fungola appli na yo ya authenticateur mpe scanner code QR oyo elandi:",
+        "unableToScan": "Ezali na makoki te ya kosala scanner? Salelá fungola ya kobongisa",
+        "step2Title": "2. Verifier Code",
+        "step2Desc": "Tyá code ya 6 chiffres oyo app na yo esali:",
+        "cancelButton": "Kolongola",
+        "enableButton": "Bofungola 2FA",
+        "invalidLength": "Svp kotia code ya 6 chiffres.",
+        "invalidCode": "Code ya vérification ya mabe. Svp meka lisusu."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Ba Contrôles ya Langue",
+      "appLanguage": "Monoko ya App",
+      "layoutTitle": "Layout & Typographie na ndenge ya kosala",
+      "layoutStyle": "Style ya layout",
+      "layoutModern": "Style ya mikolo oyo (Default) .",
+      "layoutClassic": "Style ya Classique",
+      "layoutMinimalist": "Style ya minimaliste",
+      "fontSize": "Taille ya Font ya App",
+      "fontSmall": "Moke",
+      "fontNormal": "Normal (Moyen) .",
+      "fontLarge": "Monene",
+      "searchLanguage": "Boluka monoko...",
+      "languageNotFound": "Monoko ezwami te",
+      "layoutElegant": "Style ya Elegant"
+    },
+    "saveChanges": "Bomba Mbongwana",
+    "cancel": "Kolongola",
+    "appSettings": "Paramètres ya App",
+    "logoutConfirmTitle": "Confirmer Logout",
+    "logoutConfirmDesc": "Ozali sûr que olingi kobima na système?",
+    "logoutConfirmYes": "Ee, Kobima na ndako",
+    "generalError": "Libunga moko esalemaki. ",
+    "success": "Kolonga",
+    "preferencesSaved": "Ba préférences ya app ebombami malamu.",
+    "header": "Paramètres ya application",
+    "logout": {
+      "title": "Confirmation ya kobima na libanda",
+      "message": "Ozali sûr que olingi kobima na système?",
+      "confirm": "Ee, Kobima na ndako"
+    },
+    "about": {
+      "title": "Na ntina na Application",
+      "subtitle": "Plateforme ya Batongi ya Portefeuille",
+      "version": "Ya",
+      "description": "DevFolio ezali plateforme ya sika ya batongi portefeuille oyo ebongisami mpo na ba développeurs, ba designers, mpe ba créateurs professionnels. ",
+      "license": "Licence & Droits d'auteur",
+      "copyright": "© 2026 DevFolio Inc. Makoki nyonso mazali ya yo.",
+      "developer": "Mobongisi-nzela",
+      "developedBy": "Esalemi na Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Bolongola Compte mpo na libela",
+      "menuItem": "Bolongola Compte",
+      "successTitle": "Elonga",
+      "successMessage": "Email ya bondimi ya bolongoli ya compte etindami.",
+      "errorTitle": "Elongi te",
+      "errorMessage": "Elongi te kotinda email ya bondimi.",
+      "confirmationMessage": "Ozali sûr que olingi o supprimer compte na yo libela?",
+      "warningMessage1": "Okozwa email mpo na kondimisa bolongoli ya compte.",
+      "warningMessage2": "Soki endimami, ba données nionso (portefeuille, ba projets, statistiques) ekolongolama libela pe ekoki kozongisama te.",
+      "cancel": "Annuler",
+      "confirm": "Kondimisa"
+    },
+    "toasts": {
+      "toastError": "Libunga",
+      "toastSuccess": "Kolonga",
+      "toastSetup2FAFailed": "Elongi te ko setup 2FA. Svp meka lisusu.",
+      "toast2FAEnabled": "Bondimi ya makambo mibale esili kofungolama.",
+      "toast2FADisabled": "Bondimi ya makambo mibale ekangami.",
+      "toastSessionEnabled": "Suivi active ya session e activé.",
+      "toastSessionDisabled": "Surveillance active ya session esili ko désactivé.",
+      "toastSetupKeyCopied": "Fungola ya configuration e copier na clipboard."
+    },
+    "privacy": {
+      "title": "Politiki ya kobatela makambo ya moto ye moko",
+      "updateDate": "Mikolo ya nsuka: 15 Yuli 2026",
+      "intro": "Politiki oyo ya kobatela makambo ya moto ye moko elimboli ndenge oyo DevFolio esangisi, esalela, mpe ebatelaka makambo na yo ntango ozali kosalela misala na biso.",
+      "section1Title": "1. Basango oyo Tosangisi",
+      "section1Content": "Tosangisaka makambo oyo opesi mbala moko ntango ozali kosala kɔnti, kotonga portefeuille, mpe kokutana na lisungi na biso. ",
+      "section2Title": "2. Kosalela Basango",
+      "section2Content": "Ba informations na yo esalelamaka pona ko fonctionner, kobatela, pe kopesa ba fonctionnalités ya ba services na biso, pe pona kosolola na yo na oyo etali compte to ba services na yo.",
+      "section3Title": "3. Bobateli ya ba données",
+      "section3Content": "Tosalelaka bibongiseli ya kobatela makambo oyo ebongi mpo na kobatela makambo na yo mpo moto azwa yango te, ebimisa yango te, to ebebisa yango te."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Jeton ya confirmation ezwami te.",
+    "defaultError": "Elongi te ko effacer compte. Ekoki kozala ete elembo yango esilaki.",
+    "loadingTitle": "Kolongola Compte...",
+    "loadingMessage": "Svp bozela, tozo traité demande na bino.",
+    "successTitle": "Compte Elongolami na malonga",
+    "successMessage": "Ba données na yo nionso e supprimer libela. Okozala redirectionné...",
+    "errorTitle": "Elongi te Kolongola Compte",
+    "backToHome": "Zongela Ndako"
+  },
+  "forgotPassword": {
+    "minutes": "miniti ya",
+    "seconds": "segɔnde",
+    "success": "Elonga",
+    "otpSentToEmail": "Code OTP etindami na email na yo.",
+    "failed": "Elongi te",
+    "emailNotFound": "Email ezwami te.",
+    "emailThirdParty": "Email oyo ekomisami na nzela ya moto ya misato.",
+    "genericError": "Libunga moko ezali. Svp meka lisusu.",
+    "otpVerified": "Code ya OTP elongi ko vérifier.",
+    "otpExpired": "Code ya OTP esili. Svp bosenga code ya sika.",
+    "otpInvalid": "Code OTP oyo ezali malamu te.",
+    "otpResent": "Code ya sika ya OTP etindami na email na yo.",
+    "otpResendFailed": "Elongi te kotinda lisusu code OTP. Svp meka lisusu.",
+    "passwordResetSuccess": "Mot de passe na elonga ya kozongisa. Svp kota na mot de passe na yo ya sika.",
+    "passwordResetFailed": "Elongi te ko réinitialiser mot de passe.",
+    "backToLogin": "Bozonga na Bokoti",
+    "back": "Kozonga sima",
+    "title": "Obosani Mot de passe",
+    "description": "Tyá adresse email oyo ekomisami na compte na yo. Toko tinda code OTP pona ko réinitialiser mot de passe.",
+    "emailLabel": "Addresse ya email",
+    "sending": "Kotinda...",
+    "sendOtp": "Tinda Code OTP",
+    "verifyOtpTitle": "Verifier Code ya OTP",
+    "verifyOtpDesc": "Tyá code ya 6 chiffres oyo batindi na email na yo mpo na kondimisa bomoto na yo.",
+    "verifying": "Ko vérifier...",
+    "verifyOtp": "Verifier OTP",
+    "resending": "Kotinda lisusu...",
+    "resendOtp": "Tinda lisusu Code OTP",
+    "resendCodeIn": "Tinda lisusu code na",
+    "newPasswordTitle": "Bosala Mot de passe ya sika",
+    "newPasswordDesc": "Salá mot de passe ya sika mpe ya makasi mpo na kobatela compte na yo.",
+    "newPasswordLabel": "Mot ya nzela ya sika",
+    "min8Chars": "Minimum 8 bilembo",
+    "oneUpperCase": "1 makomi minene (A-Z)",
+    "oneNumber": "1 motango (0-9)",
+    "oneSymbol": "1 elembo (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirmer Mot de passe",
+    "passwordsDoNotMatch": "Ba mots de passe ekokani te.",
+    "resettingPassword": "Kozongisa mot de passe...",
+    "resetPassword": "Réinitialiser Mot de passe"
+  },
+  "verifyEmail": {
+    "resendError": "Elongi te kotinda lisusu email ya vérification. Svp meka lisusu.",
+    "checkingStatus": "Ko vérifier état ya vérification...",
+    "title": "Tala Email Na Yo",
+    "description": "Totindi email ya vérification na adresse email na yo. Svp fungola email mpe finá na butɔ <1>\"Kondima compte\"</1> mpo na ko activer compte na yo.",
+    "stepsTitle": "Matambe",
+    "step1": "Fungola application na yo ya email (Gmail, Yahoo, etc)",
+    "step2": "Boluka email ya DevFolio na sujet \"Actable ya compte\"",
+    "step3": "Finá na butɔ \"Confirmer compte\" na email",
+    "step4": "Oko diriger yo na page ya login pona kokota",
+    "resendSuccess": "Email ya vérification esili kotindama lisusu!",
+    "resending": "Kotinda lisusu...",
+    "resendButton": "Tinda lisusu Email ya Vérification",
+    "backToLogin": "Bozonga na Lokasa ya Bokɔti",
+    "footerNote": "Ozwaki email yango te? Tala dossier <1>Spam</1> to <2>Junk</2> na email na yo. Lien ya vérification ezali valide pona <3>24 heures</3>."
+  }
+}

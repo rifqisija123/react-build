@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Features",
+    "templates": "Templates",
+    "pricing": "Pricing",
+    "login": "Login",
+    "getStarted": "Tanga",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Iyo yekupedzisira portfolio inovaka yevagadziri",
+    "title1": "Vaka nyanzvi yako",
+    "title2": "portfolio in",
+    "titleHighlight": "seconds.",
+    "subtitle": "Zvese zvaunoda kuratidza hunyanzvi hwako, mapurojekiti, uye ruzivo. ",
+    "startBuilding": "Tanga Kuvaka Ikozvino",
+    "viewTemplates": "View Templates",
+    "fastDeployment": "Fast Deployment",
+    "liveStatus": "username.dev iri live!",
+    "featuresTitle": "Zvine Simba Zvinoita",
+    "featuresSubtitle": "Isu tinopa ese maturusi aunoda kuti umire kunze kwechaunga uye uise basa rako rekurota.",
+    "feature1Title": "Dhonza & Drop Builder",
+    "feature1Desc": "Ronga zviri nyore zvikamu zvako, mapurojekiti, uye hunyanzvi neyedu intuitive yekuona mupepeti.",
+    "feature2Title": "Custom Themes",
+    "feature2Desc": "Sarudza kubva kune akagadzirwa nehunyanzvi matemplate kana kugadzira yako yakasarudzika kutaridzika.",
+    "feature3Title": "Real-time Analytics",
+    "feature3Desc": "Tevera vashanyi vako, ona kuti ndeapi mapurojekiti anonyanya kutariswa, uye nezvimwe."
+  },
+  "auth": {
+    "welcomeBack": "Madzokoyi",
+    "loginToContinue": "Pinda muakaundi yako kuti uenderere mberi",
+    "createAccount": "Gadzira Account",
+    "joinCommunity": "Joinha zviuru zvevamwe vanogadzira",
+    "fullName": "Zita rizere",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Chikero chetsamba yemumhepo",
+    "emailPlaceholder": "iwe@example.com",
+    "password": "Pasiwedhi",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Ndirangarire",
+    "forgotPassword": "Wakanganwa password?",
+    "signIn": "Nyorera mu",
+    "signingIn": "Kusaina...",
+    "signUp": "Nyorera",
+    "signingUp": "Kunyoresa...",
+    "noAccount": "Hauna account here?",
+    "hasAccount": "Watova neakaundi?",
+    "passwordRules": {
+      "title": "Password inofanira kuva ne:",
+      "length": "Anenge 8 mavara",
+      "uppercase": "Vara rimwe guru (A-Z)",
+      "number": "Nhamba imwe (0-9)",
+      "symbol": "Chiratidzo chimwe (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Portfolio Builder",
+      "templates": "Matemplate & Madingindira",
+      "settings": "Settings",
+      "collapse": "Collapse Sidebar",
+      "overview": "Overview",
+      "profileSettings": "Profile Settings",
+      "customDomain": "Custom Domain",
+      "feedback": "Feedback"
+    },
+    "header": {
+      "viewLive": "View Live",
+      "welcome": "Mauya,",
+      "logout": "Logout",
+      "builder": "Muvaki",
+      "livePortfolio": "Rarama Portfolio",
+      "live": "Rarama"
+    },
+    "logoutModal": {
+      "title": "Logout",
+      "message": "Une chokwadi chekuti unoda kubuda muakaundi yako? ",
+      "cancel": "Cancel",
+      "confirm": "Hongu, buda"
+    },
+    "slugModal": {
+      "title": "Sarudza Yako Portfolio URL",
+      "message": "Iyi URL ichave yakasarudzika link kune yako portfolio. ",
+      "slugPlaceholder": "zita rako",
+      "availability": "Kuwanikwa",
+      "available": "Available",
+      "unavailable": "Hauwanikwi",
+      "checking": "Kutarisa...",
+      "mustFormat": "Inogona chete kuva nemabhii, nhamba, nemadheshi (-)",
+      "cancel": "Cancel",
+      "save": "Sevha URL",
+      "usernameUrl": "Username URL",
+      "helpText": "Mavara madiki, manhamba, uye madheshi. ",
+      "validation": {
+        "empty": "Slug haigone kuva isina chinhu.",
+        "min3": "Zvishoma zvishoma mavara matatu.",
+        "max30": "Mabhii akawandisa makumi matatu.",
+        "format": "Mabhii madiki chete, manhamba, uye madheshi (-). "
+      }
+    },
+    "loadingPortfolio": "Tirikurodha data yeportfolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Mangwanani akanaka",
+        "afternoon": "Masikati akanaka",
+        "evening": "Masikati akanaka",
+        "night": "Usiku hwakanaka"
+      },
+      "welcome": {
+        "hi": "Mhoro,",
+        "creator": "Musiki",
+        "desc1": "Kugamuchirwa kuDevFolio dashboard. Yako portfolio yakaonekwa na",
+        "desc2": "munhu. Ramba uchishanda!",
+        "editPortfolio": "Edit Portfolio"
+      },
+      "stats": {
+        "totalVisitors": "Total Visitors",
+        "projectViews": "Zvakaonekwa (Project)",
+        "activeSessions": "Active Session",
+        "totalLabel": "Total"
+      },
+      "setup": {
+        "title": "Setup Progress",
+        "completed": "Yako portfolio yakakwana! 🎉",
+        "inProgress": "Matanho kune akakwana portfolio.",
+        "profile": {
+          "title": "Complete Profile",
+          "desc": "Wedzera zita, bio uye chimiro chemufananidzo."
+        },
+        "section": {
+          "title": "Wedzera Zvikamu",
+          "desc": "Shandisa kanenge chikamu chimwe chete mupotfolio."
+        },
+        "project": {
+          "title": "Wedzera Project",
+          "desc": "Pinda kana 1 yemapurojekiti ako akanaka."
+        },
+        "publish": {
+          "title": "Publish Portfolio",
+          "desc": "Gadzirisa URL yakasarudzika kuitira kuti iwanikwe neveruzhinji."
+        }
+      },
+      "topProjects": {
+        "title": "Mapurojekiti Anonyanya Kuzivikanwa",
+        "desc": "Kuita kwebasa rako mumaziso evashanyi.",
+        "viewAll": "Ona Zvose",
+        "empty": "Hapasati pave nedata rekuona reprojekiti yako."
+      }
+    },
+    "themes": {
+      "title": "Matemplate & Madingindira",
+      "subtitle": "Gadzirisa chitarisiko uye kunzwa kwenzvimbo yako yeruzhinji.",
+      "reset": "Reset Default",
+      "save": "Sevha Shanduko",
+      "saving": "Kuchengetedza...",
+      "chooseTemplate": "Sarudza Template",
+      "primaryColor": "Primary Color",
+      "typography": "Typography",
+      "appearance": "Chitarisiko",
+      "corners": "Makona & Miganhu",
+      "successTitle": "Success",
+      "successMessage": "Theme zvido zvakagadziridzwa zvakabudirira",
+      "errorTitle": "Error",
+      "errorMessage": "Tatadza kuchengetedza theme preferences",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Yakachena uye yakapusa dhizaini yakatarisana nezviri mukati."
+        },
+        "developerDark": {
+          "name": "Developer Rima",
+          "desc": "Dima dingindira rakanakira kuratidza kodhi uye tech stacks."
+        },
+        "creative": {
+          "name": "Creative",
+          "desc": "Inoyevedza uye ine mavara marongero evagadziri uye vanogadzira."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Nyanzvi uye yakarongeka marongero ebhizinesi nyanzvi."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Yemazuva ano Apple-maitiro grid dhizaini inosimbisa hunyanzvi hwakasiyana zvinobudirira."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Bold miganhu uye yakakwirira misiyano yemavara kune ane fashoni, unopologetic kutaridzika."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Girazi regirazi rinokanganisa pamusoro pemavara ane mavara kune yakapfava yemazuva ano UI."
+        },
+        "linkInBio": {
+          "name": "Link in Bio",
+          "desc": "Compact vertical dhizaini yakagadziridzwa nharembozha uye social media."
+        }
+      },
+      "appearances": {
+        "light": "Chiedza",
+        "dark": "Rima",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Yakatenderedzwa",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Send Feedback",
+      "subtitle": "Tibatsire kuti zviite nani nekupa mazano, kushoropodza, kana kuzivisa tsikidzi pachishandiswa ichi.",
+      "categoryLabel": "Feedback Category",
+      "messageLabel": "Tsanangudzo yeMharidzo",
+      "messagePlaceholder": "Ndiudze zvizere nezvemhinduro yaunoda kutaura...",
+      "imageLabel": "Mifananidzo Yakanamirwa (Sarudzo)",
+      "imagePlaceholder": "Dzvanya kuti uise mufananidzo kana skrini",
+      "submitting": "Kutumira...",
+      "submitBtn": "Send Feedback",
+      "categories": {
+        "suggestion": "Mazano & Mazano",
+        "bug": "Mhirizhonga / Mhosho",
+        "criticism": "Kutsoropodza",
+        "other": "Vamwe"
+      },
+      "imageErrorTitle": "Error",
+      "imageErrorMessage": "Mamwe mafaera anorambwa nekuti haatsigirwe mafomati emifananidzo (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Success",
+      "successMessage": "Ndatenda nemhinduro yako! Chirevo chatumirwa.",
+      "submitErrorTitle": "Zvakundikana",
+      "submitErrorMessage": "Pane chikanganiso chaitika pakutumira mhinduro. Ndapota edza zvakare."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Nezvangu",
+      "skills": "Unyanzvi",
+      "projects": "Projects",
+      "workExperience": "Zvakaitika Pabasa",
+      "orgExperience": "Zvakaitika Zvesangano",
+      "education": "Dzidzo",
+      "certifications": "Kudzidziswa & Zvitupa",
+      "contact": "Ndibate"
+    },
+    "editor": {
+      "profileInfo": "Profile Information",
+      "saving": "Kuchengeta...",
+      "profilePhoto": "Profile Photo",
+      "clickToUpload": "Dzvanya kuti uise (JPG, PNG)",
+      "fullName": "Zita rizere",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer ine chido chekuvaka zvemazuva ano web apps...",
+      "location": "Nzvimbo",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Gender",
+      "selectGender": "Sarudza Gender",
+      "male": "Murume",
+      "female": "Mukadzi",
+      "custom": "Custom",
+      "customPlaceholder": "Nyora tsika yako yechikadzi...",
+      "uploadCv": "Isa CV",
+      "cvFormat": "(DOC kana PDF)",
+      "preview": "Preview",
+      "remove": "Bvisa",
+      "clickToUploadCv": "Dzvanya kuti uise PDF kana DOC",
+      "sections": "Zvikamu",
+      "removeSelected": "Bvisa Zvakasarudzwa",
+      "confirmRemove": "Confirm Bvisa",
+      "addSection": "Wedzera Chikamu",
+      "addAllSections": "Wedzera Zvose Zvikamu",
+      "noSections": "Hapana zvikamu parizvino",
+      "clickToAdd": "Dzvanya \"+ Wedzera Chikamu\" kuti utange",
+      "selectAll": "Sarudza zvose",
+      "selected": "Selected",
+      "dragToReorder": "Dhonza kuronga patsva zvikamu",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Wedzera zvikamu zvekugadzira yako portfolio",
+      "now": "Zvino",
+      "current": "Current",
+      "noExpiry": "Hapana Kupera",
+      "see": "Maona",
+      "position": "Position",
+      "degree": "Dhigirii",
+      "certification": "Certification",
+      "sectionsForm": {
+        "about": {
+          "label": "Tsanangudzo yako",
+          "placeholder": "Tiudze nezvako, nhoroondo yako, zvaunofarira uye hunyanzvi..."
+        },
+        "skills": {
+          "addPlaceholder": "Type skill wobva wadzvanya Enter..."
+        },
+        "projects": {
+          "title": "Project Name",
+          "titlePlaceholder": "Zita rechirongwa...",
+          "url": "Project URL",
+          "description": "Tsanangudzo",
+          "descriptionPlaceholder": "Tsanangudzo pfupi yechirongwa...",
+          "uploadThumbnail": "Mufananidzo weProjekiti",
+          "addProject": "Wedzera Project",
+          "projectNum": "Project #",
+          "currentProject": "Ichi chirongwa chandiri kushanda pachiri"
+        },
+        "work": {
+          "company": "Kambani/Agency",
+          "companyPlaceholder": "Zita rekambani...",
+          "position": "Position/Title",
+          "positionPlaceholder": "Nzvimbo yako...",
+          "employmentType": "Rudzi rwebasa",
+          "location": "Nzvimbo",
+          "locationPlaceholder": "Guta, Nyika...",
+          "startDate": "Tanga",
+          "endDate": "Yapera",
+          "currentWork": "Ndichiri kushanda parizvino",
+          "description": "Tsanangudzo",
+          "descriptionPlaceholder": "Tsanangudzo yebasa uye mabasa...",
+          "skills": "Skill",
+          "addExperience": "Wedzera Chiitiko Chebasa",
+          "experienceNum": "Zvakaitika #",
+          "dateError": "Zuva rekupedzisira haringave rakapfuura zuva rekutanga"
+        },
+        "org": {
+          "organization": "Zita resangano",
+          "orgPlaceholder": "BEM University...",
+          "role": "Basa/Chinzvimbo",
+          "rolePlaceholder": "Division Head...",
+          "addOrg": "Wedzera Chiitiko cheSangano",
+          "orgNum": "Sangano #"
+        },
+        "edu": {
+          "institution": "Dzidzo Masangano",
+          "institutionPlaceholder": "Zita rekambasi kana chikoro...",
+          "degree": "Title",
+          "degreePlaceholder": "S1, chikoro chesekondari, nezvimwe ...",
+          "major": "Dhipatimendi/Munda weChidzidzo",
+          "majorPlaceholder": "Informatics Engineering...",
+          "gpa": "GPA (kusarudza)",
+          "currentStudy": "Ndichiri kudzidza pano",
+          "descriptionPlaceholder": "Zviitwa uye kubudirira panguva yekudzidza ...",
+          "addEdu": "Wedzera Dzidzo",
+          "eduNum": "Dzidzo #"
+        },
+        "cert": {
+          "name": "Zita reSitifiketi / Kudzidziswa",
+          "namePlaceholder": "Zita retifiketi...",
+          "issuer": "Muparidzi",
+          "issuerPlaceholder": "Publishing institution...",
+          "issueDate": "Kutanga (Zuva Rokuburitsa)",
+          "issueDatePlaceholder": "Sarudza zuva rekuburitswa...",
+          "expiryDate": "Yakapedzwa (Nguva Yakakodzera)",
+          "expiryDatePlaceholder": "Sarudza zuva rekupera...",
+          "noExpiry": "Chitupa ichi hachina zuva rekupera",
+          "url": "Credential URL",
+          "uploadThumbnail": "Chitupa / Kudzidzisa Mufananidzo",
+          "uploadThumbnailLimit": "Isa mufananidzo wechitupa (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Wedzera Certification",
+          "certNum": "Chitupa #"
+        },
+        "contact": {
+          "contactNum": "Contact #",
+          "platform": "Platform",
+          "displayText": "Ratidza Mashoko",
+          "displayTextPlaceholder": "semuenzaniso, iwe@email.com kana @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "semuenzaniso, 62812... (pasina kutungamira 0)",
+          "urlPlaceholderEmail": "semuenzaniso, iwe@email.com",
+          "urlPlaceholderWebsite": "semuenzaniso, https://...",
+          "urlPlaceholderDefault": "semuenzaniso, zita rekushandisa",
+          "addContact": "Wedzera Contact"
+        },
+        "common": {
+          "months": {
+            "1": "Ndira",
+            "2": "Kukadzi",
+            "3": "Kurume",
+            "4": "Kubvumbi",
+            "5": "Chivabvu",
+            "6": "Chikumi",
+            "7": "Chikunguru",
+            "8": "Nyamavhuvhu",
+            "9": "Gunyana",
+            "10": "Gumiguru",
+            "11": "Mbudzi",
+            "12": "Zvita"
+          },
+          "month": "Mwedzi",
+          "year": "Gore",
+          "invalidDate": "Mwedzi Wekupera Usiriwo",
+          "words": "mashoko"
+        }
+      },
+      "sure": "Chokwadi",
+      "deletePhotoTitle": "Delete Profile Photo?",
+      "deletePhotoMessage": "Une chokwadi chekuti unoda kudzima mufananidzo uyu?",
+      "cancel": "Cancel",
+      "delete": "Delete"
+    },
+    "cropper": {
+      "chooseBackground": "Sarudza Background",
+      "cropPhoto": "Dhonza Mufananidzo Wako",
+      "useOriginal": "Shandisa yepakutanga",
+      "backgroundPresets": "Background Presets",
+      "none": "Hapana",
+      "uploadBackground": "Upload Background",
+      "cancel": "Cancel",
+      "savePhoto": "Sevha Mufananidzo",
+      "zoom": "Zoom",
+      "rotationTilt": "Kutenderera & Kurereka",
+      "resetRotation": "Dzorera ku 0 °",
+      "center": "Center",
+      "rotateLeft": "Tenderedza -90°",
+      "rotateRight": "Tenderedza +90°",
+      "removeBackground": "Bvisa Background",
+      "processing": "Tichigadzira mufananidzo wako, mira..."
+    },
+    "cvPreview": {
+      "title": "CV Preview",
+      "downloadCv": "Dhaunirodha CV",
+      "download": "Download",
+      "wordCannotPreview": "Magwaro eShoko (.doc/.docx) haakwanise kutariswa mubrowser. ",
+      "downloadFile": "Dhawunirodha CV Faira",
+      "back": "Back",
+      "mobileMessage": "Ndapota dhawunirodha CV faira kuti utarise.",
+      "preview": "Ongorora CV",
+      "wordPreviewTitle": "Word Document Preview",
+      "wordPreviewMessage": "Magwaro eShoko (.doc/.docx) haakwanise kutariswa mubrowser. Ndapota dhawunirodha faira racho kuti urione."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Nyora tsananguro pfupi pamusoro pako, zvaunofarira, uye zvinangwa zvebasa..."
+    },
+    "skills": {
+      "placeholder": "Nyora hunyanzvi zita...",
+      "add": "Wedzera",
+      "enterToAdd": "Dzvanya Enter kuti uwedzere",
+      "noSkills": "Hapana hunyanzvi hwakawedzerwa parizvino."
+    },
+    "projects": {
+      "projectName": "Project Name",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "Project URL",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Duration",
+      "startMonth": "Kutanga Mwedzi",
+      "startYear": "Kutanga Gore",
+      "endMonth": "Kupera Mwedzi",
+      "endYear": "Kupera Gore",
+      "currentlyWorking": "Parizvino kushanda pane izvi",
+      "description": "Tsanangudzo",
+      "descriptionPlaceholder": "Rondedzera chirongwa, basa rako, uye zvawawana...",
+      "technologies": "Technologies Yakashandiswa",
+      "addProject": "Wedzera Project",
+      "image": "Mufananidzo weProjekiti",
+      "removeImage": "Bvisa Mufananidzo",
+      "uploadImage": "Dzvanya kuti uise mufananidzo"
+    },
+    "work": {
+      "company": "Kambani/Sangano",
+      "companyPlaceholder": "Zita rekambani...",
+      "role": "Basa/Chinzvimbo",
+      "rolePlaceholder": "Nzvimbo yako...",
+      "jobType": "Jobho Type",
+      "selectJobType": "Sarudza mhando",
+      "fullTime": "Nguva izere",
+      "partTime": "Maricho",
+      "contract": "Contract",
+      "internship": "Internship",
+      "freelance": "Freelance",
+      "location": "Nzvimbo",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Duration",
+      "currentlyWorking": "Ndiri kushanda pano",
+      "description": "Tsanangudzo Yebasa",
+      "descriptionPlaceholder": "Rondedzera mabasa ako akakosha uye zvawakagona...",
+      "skills": "Unyanzvi Hwakati",
+      "addExperience": "Wedzera Zvakaitika"
+    },
+    "org": {
+      "organization": "Zita resangano",
+      "organizationPlaceholder": "Zita resangano...",
+      "role": "Basa/Chinzvimbo",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Duration",
+      "periodFormat": "kana Format Yemahara (semuenzaniso 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Parizvino inoshanda",
+      "description": "Tsanangudzo Yezvekuita",
+      "descriptionPlaceholder": "Rondedzera zvaunoita kana mipiro...",
+      "addExperience": "Wedzera Zvakaitika"
+    },
+    "education": {
+      "institution": "Zita reInstitute",
+      "institutionPlaceholder": "Zita rechikoro kana yunivhesiti...",
+      "degree": "Dhigirii/Chikamu",
+      "degreePlaceholder": "e.g. ",
+      "major": "Hukuru/Munda weChidzidzo",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Giredhi",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Nguva Yedzidzo",
+      "periodFormat": "kana Yemahara Fomati (semu 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Parizvino kudzidza pano",
+      "description": "Mabasa / Honours",
+      "descriptionPlaceholder": "Rondedzera zviitiko zvedzidzo, masangano, kana kukudzwa kwakagamuchirwa...",
+      "addEducation": "Wedzera Dzidzo"
+    },
+    "cert": {
+      "name": "Zita reChitupa",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Kuburitsa Sangano",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Issue Date",
+      "expiryDate": "Inoshanda Kusvikira",
+      "noExpiry": "Ichi chiziviso hachipere",
+      "yearPlaceholder": "kana Gore (semuenzaniso 2023)",
+      "credentialUrl": "Credential URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Hunyanzvi Hunoenderana",
+      "addCertification": "Wedzera Certification",
+      "image": "Mufananidzo/Logo",
+      "removeImage": "Bvisa Mufananidzo",
+      "uploadImage": "Dzvanya kuti uise mufananidzo"
+    },
+    "common": {
+      "months": {
+        "1": "Ndira",
+        "2": "Kukadzi",
+        "3": "Kurume",
+        "4": "Kubvumbi",
+        "5": "Chivabvu",
+        "6": "Chikumi",
+        "7": "Chikunguru",
+        "8": "Nyamavhuvhu",
+        "9": "Gunyana",
+        "10": "Gumiguru",
+        "11": "Mbudzi",
+        "12": "Zvita"
+      },
+      "month": "Mwedzi",
+      "year": "Gore",
+      "invalidDate": "Mwedzi Wekupera Usiriwo",
+      "words": "mashoko"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Tonga yako portfolio mbiri uye zvaunofarira",
+    "tabs": {
+      "profile": "My Profile",
+      "security": "Chengetedzo",
+      "personalization": "Personalization"
+    },
+    "profile": {
+      "infoTitle": "Basic Information",
+      "photo": "Profile Photo",
+      "uploadPhoto": "Chinja Mufananidzo",
+      "fullName": "Zita rizere",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Chikero chetsamba yemumhepo",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Email inoshandiswa pakupinda uye hairatidzirwe pachena.",
+      "portfolioUrl": "Portfolio URL",
+      "saveProfile": "Sevha Profile",
+      "save": "Sevha Profile",
+      "accountCreated": "Account Yakagadzirwa",
+      "lastLogin": "Last Login",
+      "oauthNotice": "Iyi nhoroondo yakabatana neakaundi yako ye{{provider}}. Kuchinja kweprofile kunofanirwa kuitwa kuburikidza nemupi webasa."
+    },
+    "security": {
+      "changePassword": "Chinja password",
+      "currentPassword": "pasiwedhi yazvino",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "New Password",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Simbisa Idzva password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Anenge 8 mavara",
+        "uppercase": "Vara rimwe guru (A-Z)",
+        "number": "Nhamba imwe (0-9)",
+        "symbol": "Chiratidzo chimwe (!@#$%^&*)"
+      },
+      "passwordTitle": "Pasiwedhi",
+      "updatePassword": "Gadziridza password",
+      "additionalSecurity": "Kuwedzera Chengetedzo",
+      "twoFactor": "Zviviri-Factor Authentication (2FA)",
+      "twoFactorDesc": "Chengetedza account yako uchishandisa imwe OTP kodhi.",
+      "activeSessions": "Active Sessions",
+      "activeSessionsDesc": "Gara uchibvumira kutarisa kwezvishandiso zvakapinda.",
+      "publicVisibility": "Kuonekwa kwevanhu",
+      "hideFromSearch": "Viga Portfolio kubva kuInjini dzeKutsvaga",
+      "hideFromSearchDesc": "Dzivirira Google kuti isanyore peji yako yeruzhinji.",
+      "disable2fa": {
+        "title": "Dzima 2FA",
+        "description": "Une chokwadi here kuti unoda kudzima maviri-factor authentication?",
+        "confirmPasswordLabel": "Isa password yako kuti usimbise",
+        "currentPasswordPlaceholder": "Password yazvino",
+        "cancelButton": "Cancel",
+        "confirmButton": "Dzima 2FA",
+        "incorrectPassword": "password isiriyo."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code",
+        "step1Desc": "Vhura app yako yechokwadi uye tarisa inotevera QR kodhi:",
+        "unableToScan": "Watadza kuongorora? Shandisa kiyi yekuseta",
+        "step2Title": "2. Verify Code",
+        "step2Desc": "Isa iyo 6-manhamba kodhi yakagadzirwa neapp yako:",
+        "cancelButton": "Cancel",
+        "enableButton": "Gonesa 2FA",
+        "invalidLength": "Isa kodhi ine manhamba matanhatu.",
+        "invalidCode": "Kodhi yekusimbisa isiriyo. Ndapota edza zvakare."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kudzora Mutauro",
+      "appLanguage": "Mutauro weApp",
+      "layoutTitle": "Kurongeka & Typography",
+      "layoutStyle": "Layout Style",
+      "layoutModern": "Chimiro chemazuva ano (Default)",
+      "layoutClassic": "Vadivelu Comedy Classic Style",
+      "layoutMinimalist": "Minimalist Style",
+      "fontSize": "App Font size",
+      "fontSmall": "Diki",
+      "fontNormal": "Zvakajairika (pakati)",
+      "fontLarge": "Zvikuru",
+      "searchLanguage": "Tsvaga mutauro...",
+      "languageNotFound": "Mutauro hauna kuwanikwa",
+      "layoutElegant": "Elegant Style"
+    },
+    "saveChanges": "Chengetedza Kuchinja",
+    "cancel": "Cancel",
+    "appSettings": "App Settings",
+    "logoutConfirmTitle": "Confirm Logout",
+    "logoutConfirmDesc": "Une chokwadi chekuti unoda kubuda muhurongwa?",
+    "logoutConfirmYes": "Hongu, buda",
+    "generalError": "Paitika chikanganiso. ",
+    "success": "Success",
+    "preferencesSaved": "Zvido zveApp zvachengetwa zvakabudirira.",
+    "header": "Application Settings",
+    "logout": {
+      "title": "Roga Chisimbiso",
+      "message": "Une chokwadi chekuti unoda kubuda muhurongwa?",
+      "confirm": "Hongu, buda"
+    },
+    "about": {
+      "title": "About Application",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "Version",
+      "description": "DevFolio ipuratifomu yemazuva ano inovaka chikuva chakagadzirirwa vagadziri, vagadziri, uye vagadziri vane hunyanzvi. ",
+      "license": "Rezinesi & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Kodzero dzese dzakachengetwa.",
+      "developer": "Developer",
+      "developedBy": "Yakagadzirwa naRifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Dzima Account zvachose",
+      "menuItem": "Delete Account",
+      "successTitle": "Success",
+      "successMessage": "Imeyili yekudzima account yatumirwa.",
+      "errorTitle": "Zvakundikana",
+      "errorMessage": "Tatadza kutumira email yekusimbisa.",
+      "confirmationMessage": "Une chokwadi chekuti unoda kudzima account yako zvachose?",
+      "warningMessage1": "Iwe uchagamuchira email yekusimbisa kudzima account.",
+      "warningMessage2": "Kana yakasimbiswa, data rese (portfolio, mapurojekiti, nhamba) ichabviswa zvachose uye haigone kudzoserwa.",
+      "cancel": "Cancel",
+      "confirm": "Simbiso"
+    },
+    "toasts": {
+      "toastError": "Error",
+      "toastSuccess": "Success",
+      "toastSetup2FAFailed": "Yakundikana kuseta 2FA. Ndapota edza zvakare.",
+      "toast2FAEnabled": "Two-factor authentication yakagoneswa.",
+      "toast2FADisabled": "Two-factor authentication yadzimwa.",
+      "toastSessionEnabled": "Active session monitoring yabatidzwa.",
+      "toastSessionDisabled": "Active session monitoring yadzimwa.",
+      "toastSetupKeyCopied": "Setup kiyi yakakopwa kune clipboard."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "updateDate": "Pakupedzisira Kuvandudzwa: Chikunguru 15, 2026",
+      "intro": "Iyi Yakavanzika Policy inotsanangura kuti DevFolio inounganidza, inoshandisa, uye inochengetedza ruzivo rwako pachako paunenge uchishandisa masevhisi edu.",
+      "section1Title": "1. Mashoko Atinounganidza",
+      "section1Content": "Isu tinounganidza ruzivo rwaunopa zvakananga paunenge uchigadzira account, kuvaka portfolio, uye kubata rutsigiro rwedu. ",
+      "section2Title": "2. Kushandisa Ruzivo",
+      "section2Content": "Ruzivo rwako runoshandiswa kushanda, kuchengetedza, nekupa maficha emasevhisi edu, pamwe nekutaurirana newe maererano neakaundi yako kana masevhisi.",
+      "section3Title": "3. Data Security",
+      "section3Content": "Isu tinoshandisa matanho ekuchengetedza ane musoro kuchengetedza ruzivo rwako kubva kune zvisina mvumo, kuburitswa, kana kuparadzwa."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Simbiso tokeni haina kuwanikwa.",
+    "defaultError": "Watadza kudzima account. Chiratidzo chinogona kunge chapera.",
+    "loadingTitle": "Kudzima Account...",
+    "loadingMessage": "Ndapota mira, tiri kugadzirisa chikumbiro chako.",
+    "successTitle": "Akaunti Yanyatsodzimwa",
+    "successMessage": "Yese data yako yakadzimwa zvachose. Iwe uchatungamirwa...",
+    "errorTitle": "Watadza Kudzima Account",
+    "backToHome": "Dzokera Kumba"
+  },
+  "forgotPassword": {
+    "minutes": "maminitsi",
+    "seconds": "masekonzi",
+    "success": "Success",
+    "otpSentToEmail": "Kodhi yeOTP yatumirwa kuemail yako.",
+    "failed": "Zvakundikana",
+    "emailNotFound": "Email haina kuwanikwa.",
+    "emailThirdParty": "Iyi email inonyoreswa kuburikidza nemunhu wechitatu.",
+    "genericError": "Pane kukanganisa. Ndapota edza zvakare.",
+    "otpVerified": "Kodhi yeOTP yakasimbiswa.",
+    "otpExpired": "Kodhi yeOTP yapera. Ndokumbirawo mukumbire kodhi nyowani.",
+    "otpInvalid": "Kodhi yeOTP isiriyo.",
+    "otpResent": "Kodhi itsva yeOTP yatumirwa kuemail yako.",
+    "otpResendFailed": "Tatadza kutumirazve kodhi yeOTP. Ndapota edza zvakare.",
+    "passwordResetSuccess": "Password yakabudirira kugadzirisa. Ndokumbira upinde nepassword yako itsva.",
+    "passwordResetFailed": "Tatadza kuseta patsva password.",
+    "backToLogin": "Dzokera kuLogin",
+    "back": "Back",
+    "title": "Forgot Password",
+    "description": "Isa iyo email kero yakanyoreswa kuaccount yako. Tichatumira kodhi yeOTP kuti tigadzirise password.",
+    "emailLabel": "Email Kero",
+    "sending": "Kutumira...",
+    "sendOtp": "Tumira OTP Kodhi",
+    "verifyOtpTitle": "Verify OTP Code",
+    "verifyOtpDesc": "Isa iyo 6 manhamba kodhi yakatumirwa kuemail yako kuratidza chitupa chako.",
+    "verifying": "Verifying...",
+    "verifyOtp": "Verify OTP",
+    "resending": "Resending...",
+    "resendOtp": "Tumirazve OTP Kodhi",
+    "resendCodeIn": "Tumira kodhi yacho mukati",
+    "newPasswordTitle": "Gadzira Nyowani Pasiwedhi",
+    "newPasswordDesc": "Gadzira password nyowani, yakasimba kuchengetedza account yako.",
+    "newPasswordLabel": "New Password",
+    "min8Chars": "Zvishoma nezvishoma mavara masere",
+    "oneUpperCase": "1 hobho (A-Z)",
+    "oneNumber": "1 nhamba (0-9)",
+    "oneSymbol": "1 chiratidzo (!@#$%^&*)",
+    "confirmPasswordLabel": "Confirm Password",
+    "passwordsDoNotMatch": "Mapassword haaenderani.",
+    "resettingPassword": "Resetting Password...",
+    "resetPassword": "Reset Password"
+  },
+  "verifyEmail": {
+    "resendError": "Tatadza kutumira email yechokwadi. Ndapota edza zvakare.",
+    "checkingStatus": "Kutarisa mamiriro ekuongorora...",
+    "title": "Tarisa Email Yako",
+    "description": "Tatumira email yekuongorora kune yako email kero. Ndokumbira uvhure email wobaya bhatani re<1>\"Confirm Account\"</1> kuti uvhure account yako.",
+    "stepsTitle": "Matanho",
+    "step1": "Vhura email yako application (Gmail, Yahoo, nezvimwewo)",
+    "step2": "Tsvaga email kubva kuDevFolio ine musoro unoti \"Account Activation\"",
+    "step3": "Dzvanya bhatani re \"Confirm Account\" mune iyo email",
+    "step4": "Iwe unozotungamirwa kune peji rekupinda kuti upinde",
+    "resendSuccess": "Iyo email yekusimbisa yatumirwa!",
+    "resending": "Resending...",
+    "resendButton": "Tumirazve Verification Email",
+    "backToLogin": "Dzokera kuLogin Page",
+    "footerNote": "Hauna kugamuchira email here? Tarisa <1>Spam</1> kana <2>Junk</2> folder muemail yako. Yekutarisa link inoshanda kwe <3>24 maawa</3>."
+  }
+}

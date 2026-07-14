@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Nodweddion",
+    "templates": "Templedi",
+    "pricing": "Prisio",
+    "login": "Mewngofnodi",
+    "getStarted": "Cychwyn Arni",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Yr adeiladwr portffolio eithaf i ddatblygwyr",
+    "title1": "Adeiladwch eich gweithiwr proffesiynol",
+    "title2": "portffolio mewn",
+    "titleHighlight": "eiliadau.",
+    "subtitle": "Popeth sydd ei angen arnoch i arddangos eich sgiliau, prosiectau a phrofiad. ",
+    "startBuilding": "Dechrau Adeiladu Nawr",
+    "viewTemplates": "Gweld Templedi",
+    "fastDeployment": "Defnydd Cyflym",
+    "liveStatus": "mae username.dev yn fyw!",
+    "featuresTitle": "Nodweddion Pwerus",
+    "featuresSubtitle": "Rydyn ni'n darparu'r holl offer sydd eu hangen arnoch chi i sefyll allan o'r dorf a chael swydd eich breuddwydion.",
+    "feature1Title": "Adeiladwr Llusgo a Gollwng",
+    "feature1Desc": "Trefnwch eich adrannau, prosiectau a sgiliau yn hawdd gyda'n golygydd gweledol greddfol.",
+    "feature2Title": "Themâu Personol",
+    "feature2Desc": "Dewiswch o dempledi a ddyluniwyd yn broffesiynol neu crëwch eich edrychiad unigryw eich hun.",
+    "feature3Title": "Dadansoddeg amser real",
+    "feature3Desc": "Traciwch eich ymwelwyr, gweld pa brosiectau sy'n cael y sylw mwyaf, a mwy."
+  },
+  "auth": {
+    "welcomeBack": "Croeso Nôl",
+    "loginToContinue": "Mewngofnodwch i'ch cyfrif i barhau",
+    "createAccount": "Creu Cyfrif",
+    "joinCommunity": "Ymunwch â miloedd o ddatblygwyr eraill",
+    "fullName": "Enw Llawn",
+    "fullNamePlaceholder": "e.e. ",
+    "email": "Cyfeiriad Ebost",
+    "emailPlaceholder": "ti@enghraifft.com",
+    "password": "Cyfrinair",
+    "passwordPlaceholder": "•••••••",
+    "rememberMe": "Cofiwch fi",
+    "forgotPassword": "Wedi anghofio cyfrinair?",
+    "signIn": "Mewngofnodwch",
+    "signingIn": "Wrthi'n mewngofnodi...",
+    "signUp": "Cofrestrwch",
+    "signingUp": "Wrthi'n cofrestru...",
+    "noAccount": "Dim cyfrif?",
+    "hasAccount": "Oes gennych chi gyfrif yn barod?",
+    "passwordRules": {
+      "title": "Rhaid i'r cyfrinair gynnwys:",
+      "length": "O leiaf 8 nod",
+      "uppercase": "Un prif lythyren (A-Z)",
+      "number": "Un rhif (0-9)",
+      "symbol": "Un symbol (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Adeiladwr Portffolio",
+      "templates": "Templedi a Themâu",
+      "settings": "Gosodiadau",
+      "collapse": "Crebachu Bar Ochr",
+      "overview": "Trosolwg",
+      "profileSettings": "Gosodiadau Proffil",
+      "customDomain": "Parth Custom",
+      "feedback": "Adborth"
+    },
+    "header": {
+      "viewLive": "Gweld yn Fyw",
+      "welcome": "Croeso,",
+      "logout": "Allgofnodi",
+      "builder": "Adeiladwr",
+      "livePortfolio": "Portffolio Byw",
+      "live": "Byw"
+    },
+    "logoutModal": {
+      "title": "Allgofnodi",
+      "message": "Ydych chi'n siŵr eich bod am allgofnodi o'ch cyfrif? ",
+      "cancel": "Canslo",
+      "confirm": "Ydw, Allgofnodi"
+    },
+    "slugModal": {
+      "title": "Dewiswch URL Eich Portffolio",
+      "message": "Yr URL hwn fydd y ddolen unigryw i'ch portffolio. ",
+      "slugPlaceholder": "dy-enw",
+      "availability": "Argaeledd:",
+      "available": "Ar gael",
+      "unavailable": "Ddim ar gael",
+      "checking": "Wrthi'n gwirio...",
+      "mustFormat": "Gall gynnwys llythrennau, rhifau, a llinellau toriad yn unig (-)",
+      "cancel": "Canslo",
+      "save": "Cadw URL",
+      "usernameUrl": "URL enw defnyddiwr",
+      "helpText": "Llythrennau bach, rhifau, a llinellau toriad. ",
+      "validation": {
+        "empty": "Ni all gwlithen fod yn wag.",
+        "min3": "O leiaf 3 nod.",
+        "max30": "Uchafswm o 30 nod.",
+        "format": "Dim ond llythrennau bach, rhifau, a llinellau toriad (-). "
+      }
+    },
+    "loadingPortfolio": "Wrthi'n llwytho data portffolio...",
+    "overview": {
+      "greetings": {
+        "morning": "Bore Da",
+        "afternoon": "Prynhawn Da",
+        "evening": "Prynhawn Da",
+        "night": "Nos Da"
+      },
+      "welcome": {
+        "hi": "Helo,",
+        "creator": "Creawdwr",
+        "desc1": "Croeso i ddangosfwrdd DevFolio. Mae eich portffolio wedi cael ei weld gan",
+        "desc2": "person. Daliwch ati i weithio!",
+        "editPortfolio": "Golygu Portffolio"
+      },
+      "stats": {
+        "totalVisitors": "Cyfanswm Ymwelwyr",
+        "projectViews": "Wedi'i weld (Prosiect)",
+        "activeSessions": "Sesiwn Actif",
+        "totalLabel": "Cyfanswm"
+      },
+      "setup": {
+        "title": "Cynnydd Gosod",
+        "completed": "Mae eich portffolio yn gyflawn! 🎉",
+        "inProgress": "Camau i'r portffolio perffaith.",
+        "profile": {
+          "title": "Proffil Cyflawn",
+          "desc": "Ychwanegu enw, bio a llun proffil."
+        },
+        "section": {
+          "title": "Ychwanegu Adrannau",
+          "desc": "Ysgogi o leiaf 1 adran yn y portffolio."
+        },
+        "project": {
+          "title": "Ychwanegu Prosiect",
+          "desc": "Rhowch o leiaf 1 o'ch prosiectau gorau."
+        },
+        "publish": {
+          "title": "Cyhoeddi Portffolio",
+          "desc": "Gosod URL personol fel y gall y cyhoedd gael mynediad iddo."
+        }
+      },
+      "topProjects": {
+        "title": "Prosiectau Mwyaf Poblogaidd",
+        "desc": "Perfformiad eich gwaith yng ngolwg ymwelwyr.",
+        "viewAll": "Gwel Pawb",
+        "empty": "Nid oes data gweld ar gyfer eich prosiect eto."
+      }
+    },
+    "themes": {
+      "title": "Templedi a Themâu",
+      "subtitle": "Addaswch olwg a theimlad eich portffolio cyhoeddus.",
+      "reset": "Ailosod y Rhagosodiad",
+      "save": "Cadw Newidiadau",
+      "saving": "Arbed...",
+      "chooseTemplate": "Dewiswch Templed",
+      "primaryColor": "Lliw Cynradd",
+      "typography": "Teipograffeg",
+      "appearance": "Ymddangosiad",
+      "corners": "Corneli a Ffiniau",
+      "successTitle": "Llwyddiant",
+      "successMessage": "Diweddarwyd dewisiadau thema yn llwyddiannus",
+      "errorTitle": "Gwall",
+      "errorMessage": "Wedi methu cadw dewisiadau thema",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalaidd",
+          "desc": "Dyluniad glân a syml yn canolbwyntio ar gynnwys."
+        },
+        "developerDark": {
+          "name": "Datblygwr Tywyll",
+          "desc": "Thema dywyll yn berffaith ar gyfer arddangos cod a staciau technoleg."
+        },
+        "creative": {
+          "name": "Creadigol",
+          "desc": "Cynllun bywiog a lliwgar ar gyfer dylunwyr a phobl greadigol."
+        },
+        "executive": {
+          "name": "Gweithredol",
+          "desc": "Cynllun proffesiynol a ffurfiol ar gyfer gweithwyr busnes proffesiynol."
+        },
+        "bentoGrid": {
+          "name": "Grid Bento",
+          "desc": "Cynllun grid modern ar ffurf Apple sy'n amlygu sgiliau gwahanol yn effeithlon."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Frutaliaeth",
+          "desc": "Ffiniau beiddgar a lliwiau cyferbyniad uchel ar gyfer golwg ffasiynol, anymddiheuredig."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Effeithiau gwydr barugog dros raddiannau lliwgar ar gyfer rhyngwyneb defnyddiwr modern lluniaidd."
+        },
+        "linkInBio": {
+          "name": "Dolen yn y Bio",
+          "desc": "Cynllun fertigol cryno wedi'i optimeiddio ar gyfer sgriniau symudol a chyfryngau cymdeithasol."
+        }
+      },
+      "appearances": {
+        "light": "Golau",
+        "dark": "Tywyll",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Talgrynnu",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Anfon Adborth",
+      "subtitle": "Helpwch ni i'w wella trwy ddarparu awgrymiadau, beirniadaeth, neu riportio chwilod ar y cais hwn.",
+      "categoryLabel": "Categori Adborth",
+      "messageLabel": "Manylion Neges",
+      "messagePlaceholder": "Dywedwch wrthyf yn fanwl am yr adborth yr ydych am ei gyfleu...",
+      "imageLabel": "Ymlyniad Delwedd (Dewisol)",
+      "imagePlaceholder": "Cliciwch i uwchlwytho delwedd neu sgrinlun",
+      "submitting": "Yn anfon...",
+      "submitBtn": "Anfon Adborth",
+      "categories": {
+        "suggestion": "Awgrymiadau a Syniadau",
+        "bug": "Adroddiad Bug / Gwall",
+        "criticism": "Beirniadaeth",
+        "other": "Eraill"
+      },
+      "imageErrorTitle": "Gwall",
+      "imageErrorMessage": "Mae rhai ffeiliau'n cael eu gwrthod oherwydd nad ydyn nhw'n fformatau delwedd a gefnogir (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Llwyddiant",
+      "successMessage": "Diolch am eich adborth! Adroddiad wedi ei anfon.",
+      "submitErrorTitle": "Wedi methu",
+      "submitErrorMessage": "Digwyddodd gwall wrth anfon adborth. Ceisiwch eto."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Amdanaf fi",
+      "skills": "Sgiliau",
+      "projects": "Prosiectau",
+      "workExperience": "Profiad Gwaith",
+      "orgExperience": "Profiad Sefydliadol",
+      "education": "Addysg",
+      "certifications": "Hyfforddiant ac Ardystiadau",
+      "contact": "Cysylltwch â Fi"
+    },
+    "editor": {
+      "profileInfo": "Gwybodaeth Proffil",
+      "saving": "Wrthi'n cadw...",
+      "profilePhoto": "Llun Proffil",
+      "clickToUpload": "Clic i uwchlwytho (JPG, PNG)",
+      "fullName": "Enw Llawn",
+      "fullNamePlaceholder": "e.e. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Datblygwr Fullstack gydag angerdd am adeiladu apiau gwe modern...",
+      "location": "Lleoliad",
+      "locationPlaceholder": "e.e. ",
+      "gender": "Rhyw",
+      "selectGender": "Dewiswch Rhyw",
+      "male": "Gwryw",
+      "female": "Benyw",
+      "custom": "Custom",
+      "customPlaceholder": "Teipiwch eich rhyw personol...",
+      "uploadCv": "Uwchlwythwch CV",
+      "cvFormat": "(DOC neu PDF)",
+      "preview": "Rhagolwg",
+      "remove": "Dileu",
+      "clickToUploadCv": "Cliciwch i uwchlwytho PDF neu DOC",
+      "sections": "Adrannau",
+      "removeSelected": "Dileu Dewiswyd",
+      "confirmRemove": "Cadarnhau Dileu",
+      "addSection": "Ychwanegu Adran",
+      "addAllSections": "Ychwanegu Pob Adran",
+      "noSections": "Dim adrannau eto",
+      "clickToAdd": "Cliciwch \"+ Ychwanegu Adran\" i ddechrau",
+      "selectAll": "Dewiswch Pawb",
+      "selected": "Wedi'i ddewis",
+      "dragToReorder": "Llusgwch i aildrefnu adrannau",
+      "livePreview": "Rhagolwg Byw",
+      "addSectionsToBuild": "Ychwanegwch adrannau i adeiladu eich portffolio",
+      "now": "Yn awr",
+      "current": "Cyfredol",
+      "noExpiry": "Dim Dod i Ben",
+      "see": "Gwel",
+      "position": "Swydd",
+      "degree": "Gradd",
+      "certification": "Ardystiad",
+      "sectionsForm": {
+        "about": {
+          "label": "Disgrifiad ohonoch chi'ch hun",
+          "placeholder": "Dywedwch wrthym amdanoch chi'ch hun, eich cefndir, diddordebau a sgiliau..."
+        },
+        "skills": {
+          "addPlaceholder": "Teipiwch sgil yna pwyswch Enter..."
+        },
+        "projects": {
+          "title": "Enw'r Prosiect",
+          "titlePlaceholder": "Enw'r prosiect...",
+          "url": "URL y prosiect",
+          "description": "Disgrifiad",
+          "descriptionPlaceholder": "Disgrifiad byr o'r prosiect...",
+          "uploadThumbnail": "Delwedd Prosiect",
+          "addProject": "Ychwanegu Prosiect",
+          "projectNum": "Prosiect #",
+          "currentProject": "Mae hwn yn brosiect rydw i'n gweithio arno"
+        },
+        "work": {
+          "company": "Cwmni/Asiantaeth",
+          "companyPlaceholder": "Enw'r cwmni...",
+          "position": "Swydd/Teitl",
+          "positionPlaceholder": "Eich safbwynt...",
+          "employmentType": "Math o waith",
+          "location": "Lleoliad",
+          "locationPlaceholder": "Dinas, Gwlad...",
+          "startDate": "Cychwyn",
+          "endDate": "Wedi gorffen",
+          "currentWork": "Rwy'n dal i weithio ar hyn o bryd",
+          "description": "Disgrifiad",
+          "descriptionPlaceholder": "Disgrifiad swydd a chyfrifoldebau...",
+          "skills": "Sgil",
+          "addExperience": "Ychwanegu Profiad Gwaith",
+          "experienceNum": "Profiad #",
+          "dateError": "Ni all y dyddiad gorffen fod yn gynharach na'r dyddiad dechrau"
+        },
+        "org": {
+          "organization": "Enw Sefydliad",
+          "orgPlaceholder": "Prifysgol BEM...",
+          "role": "Rôl/Swydd",
+          "rolePlaceholder": "Pennaeth Adran...",
+          "addOrg": "Ychwanegu Profiad Sefydliadol",
+          "orgNum": "Sefydliad #"
+        },
+        "edu": {
+          "institution": "Sefydliadau Addysgol",
+          "institutionPlaceholder": "Enw'r campws neu'r ysgol...",
+          "degree": "Teitl",
+          "degreePlaceholder": "S1, ysgol uwchradd, ac ati...",
+          "major": "Adran/Maes Astudio",
+          "majorPlaceholder": "Peirianneg Gwybodeg...",
+          "gpa": "GPA (dewisol)",
+          "currentStudy": "Rwy'n dal i ddysgu yma",
+          "descriptionPlaceholder": "Gweithgareddau a chyflawniadau yn ystod astudio...",
+          "addEdu": "Ychwanegu Addysg",
+          "eduNum": "Addysg #"
+        },
+        "cert": {
+          "name": "Enw'r Ardystiad / Hyfforddiant",
+          "namePlaceholder": "Enw'r ardystiad...",
+          "issuer": "Cyhoeddwr",
+          "issuerPlaceholder": "Sefydliad cyhoeddi...",
+          "issueDate": "Dechrau (Dyddiad Cyhoeddi)",
+          "issueDatePlaceholder": "Dewiswch ddyddiad cyhoeddi...",
+          "expiryDate": "Wedi'i gwblhau (Cyfnod Dilys)",
+          "expiryDatePlaceholder": "Dewiswch ddyddiad dod i ben...",
+          "noExpiry": "Nid oes dyddiad dod i ben gan y dystysgrif hon",
+          "url": "URL credadwy",
+          "uploadThumbnail": "Tystysgrif / Delwedd Hyfforddiant",
+          "uploadThumbnailLimit": "Llwythwch i fyny delwedd tystysgrif (JPG/PNG/WEBP, uchafswm o 2MB)",
+          "addCert": "Ychwanegu Ardystiad",
+          "certNum": "Ardystiad #"
+        },
+        "contact": {
+          "contactNum": "Cyswllt #",
+          "platform": "Llwyfan",
+          "displayText": "Arddangos Testun",
+          "displayTextPlaceholder": "e.e., you@email.com neu @username",
+          "url": "Dolen (URL)",
+          "urlPlaceholderWhatsapp": "e.e., 62812... (heb arwain 0)",
+          "urlPlaceholderEmail": "e.e., chi@email.com",
+          "urlPlaceholderWebsite": "e.e., https://...",
+          "urlPlaceholderDefault": "e.e., enw defnyddiwr",
+          "addContact": "Ychwanegu Cyswllt"
+        },
+        "common": {
+          "months": {
+            "1": "Ionawr",
+            "2": "Chwefror",
+            "3": "Mawrth",
+            "4": "Ebrill",
+            "5": "Mai",
+            "6": "Mehefin",
+            "7": "Gorffennaf",
+            "8": "Awst",
+            "9": "Medi",
+            "10": "Hydref",
+            "11": "Tachwedd",
+            "12": "Rhagfyr"
+          },
+          "month": "Mis",
+          "year": "Blwyddyn",
+          "invalidDate": "Mis Diwedd Annilys",
+          "words": "geiriau"
+        }
+      },
+      "sure": "Cadarn",
+      "deletePhotoTitle": "Dileu Llun Proffil?",
+      "deletePhotoMessage": "Ydych chi'n siŵr eich bod am ddileu'r llun proffil hwn?",
+      "cancel": "Canslo",
+      "delete": "Dileu"
+    },
+    "cropper": {
+      "chooseBackground": "Dewiswch Gefndir",
+      "cropPhoto": "Torrwch Eich Llun",
+      "useOriginal": "Defnyddiwch y gwreiddiol",
+      "backgroundPresets": "Rhagosodiadau Cefndir",
+      "none": "Dim",
+      "uploadBackground": "Llwytho Cefndir",
+      "cancel": "Canslo",
+      "savePhoto": "Cadw Llun",
+      "zoom": "Chwyddo",
+      "rotationTilt": "Cylchdro a Tilt",
+      "resetRotation": "Ailosod i 0°",
+      "center": "Canolfan",
+      "rotateLeft": "Cylchdroi -90 °",
+      "rotateRight": "Cylchdroi +90 °",
+      "removeBackground": "Dileu Cefndir",
+      "processing": "Wrthi'n prosesu eich delwedd, arhoswch..."
+    },
+    "cvPreview": {
+      "title": "Rhagolwg CV",
+      "downloadCv": "Lawrlwythwch CV",
+      "download": "Lawrlwythwch",
+      "wordCannotPreview": "Nid oes modd rhagolwg dogfennau Word (.doc/.docx) yn frodorol yn y porwr. ",
+      "downloadFile": "Lawrlwythwch Ffeil CV",
+      "back": "Yn ol",
+      "mobileMessage": "Lawrlwythwch y ffeil CV i gael rhagolwg ohono.",
+      "preview": "Rhagolwg CV",
+      "wordPreviewTitle": "Rhagolwg Dogfen Word",
+      "wordPreviewMessage": "Nid oes modd rhagolwg dogfennau Word (.doc/.docx) yn frodorol yn y porwr. Lawrlwythwch y ffeil i'w gweld."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Ysgrifennwch ddisgrifiad byr amdanoch chi'ch hun, diddordebau, a nodau gyrfa..."
+    },
+    "skills": {
+      "placeholder": "Teipiwch enw sgil...",
+      "add": "Ychwanegu",
+      "enterToAdd": "Pwyswch Enter i ychwanegu",
+      "noSkills": "Dim sgiliau wedi'u hychwanegu eto."
+    },
+    "projects": {
+      "projectName": "Enw'r Prosiect",
+      "projectNamePlaceholder": "e.e. ",
+      "projectUrl": "URL y prosiect",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Hyd",
+      "startMonth": "Mis Dechrau",
+      "startYear": "Blwyddyn Dechrau",
+      "endMonth": "Mis Diwedd",
+      "endYear": "Diwedd Blwyddyn",
+      "currentlyWorking": "Yn gweithio ar hyn ar hyn o bryd",
+      "description": "Disgrifiad",
+      "descriptionPlaceholder": "Disgrifiwch y prosiect, eich rôl, a'ch cyflawniadau...",
+      "technologies": "Technolegau a Ddefnyddir",
+      "addProject": "Ychwanegu Prosiect",
+      "image": "Delwedd Prosiect",
+      "removeImage": "Dileu Delwedd",
+      "uploadImage": "Cliciwch i uwchlwytho delwedd"
+    },
+    "work": {
+      "company": "Cwmni/Sefydliad",
+      "companyPlaceholder": "Enw'r cwmni...",
+      "role": "Rôl/Swydd",
+      "rolePlaceholder": "Eich safbwynt...",
+      "jobType": "Math o Swydd",
+      "selectJobType": "Dewiswch fath",
+      "fullTime": "Llawn amser",
+      "partTime": "Rhan-amser",
+      "contract": "Cytundeb",
+      "internship": "Interniaeth",
+      "freelance": "Llawrydd",
+      "location": "Lleoliad",
+      "locationPlaceholder": "e.e. ",
+      "duration": "Hyd",
+      "currentlyWorking": "Yn gweithio yma ar hyn o bryd",
+      "description": "Disgrifiad Swydd",
+      "descriptionPlaceholder": "Disgrifiwch eich prif gyfrifoldebau a chyflawniadau...",
+      "skills": "Sgiliau Penodol",
+      "addExperience": "Ychwanegu Profiad"
+    },
+    "org": {
+      "organization": "Enw Sefydliad",
+      "organizationPlaceholder": "Enw'r sefydliad...",
+      "role": "Rôl/Swydd",
+      "rolePlaceholder": "e.e. ",
+      "duration": "Hyd",
+      "periodFormat": "neu Fformat Rhad ac Am Ddim (e.e. 2020 - 2022)",
+      "periodPlaceholder": "e.e. ",
+      "currentlyActive": "Yn weithredol ar hyn o bryd",
+      "description": "Disgrifiad o'r Gweithgaredd",
+      "descriptionPlaceholder": "Disgrifiwch eich gweithgareddau neu gyfraniadau...",
+      "addExperience": "Ychwanegu Profiad"
+    },
+    "education": {
+      "institution": "Enw Sefydliad",
+      "institutionPlaceholder": "Enw ysgol neu brifysgol...",
+      "degree": "Gradd/Lefel",
+      "degreePlaceholder": "e.e. ",
+      "major": "Prif/Maes Astudio",
+      "majorPlaceholder": "e.e. ",
+      "gpa": "GPA / Gradd",
+      "gpaPlaceholder": "e.e. ",
+      "duration": "Hyd Addysg",
+      "periodFormat": "neu Fformat Rhad ac Am Ddim (e.e. 2018 - 2022)",
+      "periodPlaceholder": "e.e. ",
+      "currentlyStudying": "Yn astudio yma ar hyn o bryd",
+      "description": "Gweithgareddau / Anrhydedd",
+      "descriptionPlaceholder": "Disgrifiwch weithgareddau academaidd, sefydliadau, neu anrhydeddau a dderbyniwyd...",
+      "addEducation": "Ychwanegu Addysg"
+    },
+    "cert": {
+      "name": "Enw Ardystio",
+      "namePlaceholder": "e.e. ",
+      "issuer": "Sefydliad Cyhoeddi",
+      "issuerPlaceholder": "e.e. ",
+      "issueDate": "Dyddiad Cyhoeddi",
+      "expiryDate": "Yn ddilys Tan",
+      "noExpiry": "Nid yw'r cymhwyster hwn yn dod i ben",
+      "yearPlaceholder": "neu Flwyddyn (e.e. 2023)",
+      "credentialUrl": "URL credadwy",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Sgiliau Cysylltiedig",
+      "addCertification": "Ychwanegu Ardystiad",
+      "image": "Delwedd/Logo",
+      "removeImage": "Dileu Delwedd",
+      "uploadImage": "Cliciwch i uwchlwytho delwedd"
+    },
+    "common": {
+      "months": {
+        "1": "Ionawr",
+        "2": "Chwefror",
+        "3": "Mawrth",
+        "4": "Ebrill",
+        "5": "Mai",
+        "6": "Mehefin",
+        "7": "Gorffennaf",
+        "8": "Awst",
+        "9": "Medi",
+        "10": "Hydref",
+        "11": "Tachwedd",
+        "12": "Rhagfyr"
+      },
+      "month": "Mis",
+      "year": "Blwyddyn",
+      "invalidDate": "Mis Diwedd Annilys",
+      "words": "geiriau"
+    }
+  },
+  "settings": {
+    "title": "Gosodiadau",
+    "subtitle": "Rheoli eich proffil portffolio a'ch dewisiadau",
+    "tabs": {
+      "profile": "Fy Mhroffil",
+      "security": "Diogelwch",
+      "personalization": "Personoli"
+    },
+    "profile": {
+      "infoTitle": "Gwybodaeth Sylfaenol",
+      "photo": "Llun Proffil",
+      "uploadPhoto": "Newid Llun",
+      "fullName": "Enw Llawn",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Cyfeiriad Ebost",
+      "emailPlaceholder": "john@enghraifft.com",
+      "emailHelp": "Defnyddir e-bost ar gyfer mewngofnodi ac nid yw'n cael ei arddangos yn gyhoeddus.",
+      "portfolioUrl": "URL portffolio",
+      "saveProfile": "Cadw Proffil",
+      "save": "Cadw Proffil",
+      "accountCreated": "Crëwyd y Cyfrif",
+      "lastLogin": "Mewngofnodi Diwethaf",
+      "oauthNotice": "Mae'r proffil hwn wedi'i gysylltu â'ch cyfrif {{provider}}. Rhaid gwneud newidiadau proffil drwy'r darparwr gwasanaeth."
+    },
+    "security": {
+      "changePassword": "Newid Cyfrinair",
+      "currentPassword": "Cyfrinair Cyfredol",
+      "currentPasswordPlaceholder": "•••••••",
+      "newPassword": "Cyfrinair Newydd",
+      "newPasswordPlaceholder": "•••••••",
+      "confirmPassword": "Cadarnhau Cyfrinair Newydd",
+      "confirmPasswordPlaceholder": "•••••••",
+      "passwordRules": {
+        "length": "O leiaf 8 nod",
+        "uppercase": "Un prif lythyren (A-Z)",
+        "number": "Un rhif (0-9)",
+        "symbol": "Un symbol (!@#$%^&*)"
+      },
+      "passwordTitle": "Cyfrinair",
+      "updatePassword": "Diweddaru Cyfrinair",
+      "additionalSecurity": "Diogelwch Ychwanegol",
+      "twoFactor": "Dilysu Dau Ffactor (2FA)",
+      "twoFactorDesc": "Diogelwch eich cyfrif gan ddefnyddio cod OTP ychwanegol.",
+      "activeSessions": "Sesiynau Gweithredol",
+      "activeSessionsDesc": "Caniatáu monitro dyfeisiau sydd wedi mewngofnodi bob amser.",
+      "publicVisibility": "Gwelededd Cyhoeddus",
+      "hideFromSearch": "Cuddio Portffolio o Beiriannau Chwilio",
+      "hideFromSearchDesc": "Atal Google rhag mynegeio eich tudalen portffolio cyhoeddus.",
+      "disable2fa": {
+        "title": "Analluogi 2FA",
+        "description": "Ydych chi'n siŵr eich bod am ddiffodd dilysiad dau ffactor?",
+        "confirmPasswordLabel": "Rhowch eich cyfrinair i gadarnhau",
+        "currentPasswordPlaceholder": "Cyfrinair cyfredol",
+        "cancelButton": "Canslo",
+        "confirmButton": "Analluogi 2FA",
+        "incorrectPassword": "Cyfrinair anghywir."
+      },
+      "setup2fa": {
+        "step1Title": "1. Sganio Cod QR",
+        "step1Desc": "Agorwch eich ap dilysu a sganiwch y cod QR canlynol:",
+        "unableToScan": "Methu sganio? Defnyddiwch allwedd gosod",
+        "step2Title": "2. Gwirio Cod",
+        "step2Desc": "Rhowch y cod 6 digid a gynhyrchir gan eich ap:",
+        "cancelButton": "Canslo",
+        "enableButton": "Galluogi 2FA",
+        "invalidLength": "Rhowch god 6 digid.",
+        "invalidCode": "Cod dilysu annilys. Ceisiwch eto."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Rheolaethau Iaith",
+      "appLanguage": "Iaith Ap",
+      "layoutTitle": "Cynllun a Theipograffeg",
+      "layoutStyle": "Arddull Gosodiad",
+      "layoutModern": "Arddull Fodern (Diofyn)",
+      "layoutClassic": "Arddull Clasurol",
+      "layoutMinimalist": "Arddull Minimalaidd",
+      "fontSize": "Maint Font Ap",
+      "fontSmall": "Bach",
+      "fontNormal": "Arferol (Canolig)",
+      "fontLarge": "Mawr",
+      "searchLanguage": "Chwilio iaith...",
+      "languageNotFound": "Iaith heb ei chanfod",
+      "layoutElegant": "Arddull Cain"
+    },
+    "saveChanges": "Cadw Newidiadau",
+    "cancel": "Canslo",
+    "appSettings": "Gosodiadau Ap",
+    "logoutConfirmTitle": "Cadarnhau Allgofnodi",
+    "logoutConfirmDesc": "Ydych chi'n siŵr eich bod am allgofnodi o'r system?",
+    "logoutConfirmYes": "Ydw, Allgofnodi",
+    "generalError": "Digwyddodd gwall. ",
+    "success": "Llwyddiant",
+    "preferencesSaved": "Cadwyd dewisiadau ap yn llwyddiannus.",
+    "header": "Gosodiadau Cais",
+    "logout": {
+      "title": "Cadarnhad Allgofnodi",
+      "message": "Ydych chi'n siŵr eich bod am allgofnodi o'r system?",
+      "confirm": "Ydw, Allgofnodi"
+    },
+    "about": {
+      "title": "Am Gais",
+      "subtitle": "Llwyfan Adeiladwr Portffolio",
+      "version": "Fersiwn",
+      "description": "Mae DevFolio yn blatfform adeiladu portffolio modern sydd wedi'i gynllunio ar gyfer datblygwyr, dylunwyr a chrewyr proffesiynol. ",
+      "license": "Trwydded a Hawlfraint",
+      "copyright": "© 2026 DevFolio Inc Cedwir pob hawl.",
+      "developer": "Datblygwr",
+      "developedBy": "Wedi'i ddatblygu gan Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Dileu Cyfrif yn Barhaol",
+      "menuItem": "Dileu Cyfrif",
+      "successTitle": "Llwyddiant",
+      "successMessage": "Mae e-bost cadarnhau dileu cyfrif wedi'i anfon.",
+      "errorTitle": "Wedi methu",
+      "errorMessage": "Wedi methu ag anfon e-bost cadarnhau.",
+      "confirmationMessage": "A ydych yn siŵr eich bod am ddileu eich cyfrif yn barhaol?",
+      "warningMessage1": "Byddwch yn derbyn e-bost i gadarnhau dileu cyfrif.",
+      "warningMessage2": "Os caiff ei gadarnhau, bydd yr holl ddata (portffolio, prosiectau, ystadegau) yn cael eu dileu'n barhaol ac ni ellir eu hadfer.",
+      "cancel": "Diddymu",
+      "confirm": "Cadarnhad"
+    },
+    "toasts": {
+      "toastError": "Gwall",
+      "toastSuccess": "Llwyddiant",
+      "toastSetup2FAFailed": "Wedi methu â gosod 2FA. Ceisiwch eto.",
+      "toast2FAEnabled": "Mae dilysu dau ffactor wedi'i alluogi.",
+      "toast2FADisabled": "Mae dilysu dau ffactor wedi'i analluogi.",
+      "toastSessionEnabled": "Mae monitro sesiynau gweithredol wedi'i alluogi.",
+      "toastSessionDisabled": "Mae monitro sesiwn gweithredol wedi'i analluogi.",
+      "toastSetupKeyCopied": "Allwedd gosod wedi'i chopïo i'r clipfwrdd."
+    },
+    "privacy": {
+      "title": "Polisi Preifatrwydd",
+      "updateDate": "Wedi ei ddiweddaru ddiwetha': 15 Gorffennaf, 2026",
+      "intro": "Mae'r Polisi Preifatrwydd hwn yn esbonio sut mae DevFolio yn casglu, defnyddio, ac yn amddiffyn eich gwybodaeth bersonol wrth ddefnyddio ein gwasanaethau.",
+      "section1Title": "1. Gwybodaeth a Gasglwn",
+      "section1Content": "Rydyn ni'n casglu gwybodaeth rydych chi'n ei darparu'n uniongyrchol wrth greu cyfrif, adeiladu portffolio, a chysylltu â'n cymorth. ",
+      "section2Title": "2. Defnyddio Gwybodaeth",
+      "section2Content": "Defnyddir eich gwybodaeth i weithredu, cynnal, a darparu nodweddion ein gwasanaethau, yn ogystal â chyfathrebu â chi ynghylch eich cyfrif neu wasanaethau.",
+      "section3Title": "3. Diogelwch Data",
+      "section3Content": "Rydym yn gweithredu mesurau diogelwch rhesymol i ddiogelu eich gwybodaeth rhag mynediad, datgeliad neu ddinistrio heb awdurdod."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ni chanfuwyd tocyn cadarnhad.",
+    "defaultError": "Wedi methu dileu cyfrif. Efallai bod y tocyn wedi dod i ben.",
+    "loadingTitle": "Wrthi'n Dileu Cyfrif...",
+    "loadingMessage": "Arhoswch, rydym yn prosesu'ch cais.",
+    "successTitle": "Cyfrif wedi'i Dileu'n Llwyddiannus",
+    "successMessage": "Mae'ch holl ddata wedi'i ddileu'n barhaol. Byddwch yn cael eich ailgyfeirio...",
+    "errorTitle": "Wedi Methu Dileu Cyfrif",
+    "backToHome": "Dychwelyd i Gartref"
+  },
+  "forgotPassword": {
+    "minutes": "munud",
+    "seconds": "eiliadau",
+    "success": "Llwyddiant",
+    "otpSentToEmail": "Mae cod OTP wedi'i anfon i'ch e-bost.",
+    "failed": "Wedi methu",
+    "emailNotFound": "E-bost heb ei ganfod.",
+    "emailThirdParty": "Mae'r e-bost hwn wedi'i gofrestru trwy drydydd parti.",
+    "genericError": "Mae gwall. Ceisiwch eto.",
+    "otpVerified": "Mae'r cod OTP wedi'i ddilysu'n llwyddiannus.",
+    "otpExpired": "Mae'r cod OTP wedi dod i ben. Gofynnwch am god newydd.",
+    "otpInvalid": "Cod OTP annilys.",
+    "otpResent": "Mae cod OTP newydd wedi'i anfon i'ch e-bost.",
+    "otpResendFailed": "Wedi methu ag ail-anfon y cod OTP. Ceisiwch eto.",
+    "passwordResetSuccess": "Ailosod cyfrinair yn llwyddiannus. Mewngofnodwch gyda'ch cyfrinair newydd.",
+    "passwordResetFailed": "Wedi methu ailosod cyfrinair.",
+    "backToLogin": "Dychwelyd i Mewngofnodi",
+    "back": "Yn ôl",
+    "title": "Wedi anghofio Cyfrinair",
+    "description": "Rhowch y cyfeiriad e-bost sydd wedi'i gofrestru ar eich cyfrif. Byddwn yn anfon cod OTP i ailosod y cyfrinair.",
+    "emailLabel": "Cyfeiriad E-bost",
+    "sending": "Yn anfon...",
+    "sendOtp": "Anfon Cod OTP",
+    "verifyOtpTitle": "Dilysu Cod OTP",
+    "verifyOtpDesc": "Rhowch y cod 6 digid sydd wedi'i anfon i'ch e-bost i gadarnhau pwy ydych.",
+    "verifying": "Wrthi'n dilysu...",
+    "verifyOtp": "Dilysu OTP",
+    "resending": "Wrthi'n ailddechrau...",
+    "resendOtp": "Ail-anfon y Cod OTP",
+    "resendCodeIn": "Ail-anfonwch y cod yn",
+    "newPasswordTitle": "Creu Cyfrinair Newydd",
+    "newPasswordDesc": "Creu cyfrinair newydd, cryf i ddiogelu'ch cyfrif.",
+    "newPasswordLabel": "Cyfrinair Newydd",
+    "min8Chars": "O leiaf 8 nod",
+    "oneUpperCase": "1 priflythrennau (A-Z)",
+    "oneNumber": "1 rhif (0-9)",
+    "oneSymbol": "1 symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Cadarnhau Cyfrinair",
+    "passwordsDoNotMatch": "Nid yw cyfrineiriau yn cyfateb.",
+    "resettingPassword": "Ailosod Cyfrinair...",
+    "resetPassword": "Ailosod Cyfrinair"
+  },
+  "verifyEmail": {
+    "resendError": "Wedi methu ag ail-anfon e-bost dilysu. Ceisiwch eto.",
+    "checkingStatus": "Wrthi'n gwirio statws dilysu...",
+    "title": "Gwiriwch Eich E-bost",
+    "description": "Rydym wedi anfon e-bost dilysu i'ch cyfeiriad e-bost. Agorwch yr e-bost a chliciwch ar y botwm <1>\"Cadarnhau Cyfrif\"</1> i actifadu eich cyfrif.",
+    "stepsTitle": "Camau",
+    "step1": "Agorwch eich cais e-bost (Gmail, Yahoo, ac ati)",
+    "step2": "Chwiliwch am e-bost gan DevFolio gyda'r pwnc \"Activation Account\"",
+    "step3": "Cliciwch y botwm \"Cadarnhau Cyfrif\" yn yr e-bost",
+    "step4": "Byddwch yn cael eich cyfeirio at y dudalen mewngofnodi i fynd i mewn",
+    "resendSuccess": "Mae'r e-bost dilysu wedi'i anfon eto!",
+    "resending": "Wrthi'n ailddechrau...",
+    "resendButton": "Ailanfon E-bost Dilysu",
+    "backToLogin": "Dychwelyd i'r Dudalen Mewngofnodi",
+    "footerNote": "Heb dderbyn yr e-bost? Gwiriwch y ffolder <1>Sbam</1> neu <2>Junk</2> yn eich e-bost. Mae'r ddolen ddilysu yn ddilys am <3>24 awr</3>."
+  }
+}

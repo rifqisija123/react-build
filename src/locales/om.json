@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Amaloota",
+    "templates": "Unkaalee",
+    "pricing": "Gatii baasuu",
+    "login": "Galmaa'i",
+    "getStarted": "Jalqabaa",
+    "title": "DevFolio jedhamuun beekama"
+  },
+  "landing": {
+    "badge": "Ijaarsa portfolio isa dhumaa misoomsitootaaf",
+    "title1": "Ogeessa kee ijaari",
+    "title2": "portfolio keessatti",
+    "titleHighlight": "sekondii.",
+    "subtitle": "Dandeettii, pirojektii fi muuxannoo kee agarsiisuuf waan si barbaachisu hunda. ",
+    "startBuilding": "Amma Ijaarsa Jalqabi",
+    "viewTemplates": "Unkaalee Ilaaluu",
+    "fastDeployment": "Bobbaa Saffisaa",
+    "liveStatus": "username.dev live jira!",
+    "featuresTitle": "Amaloota Humna Qaban",
+    "featuresSubtitle": "Meeshaalee namoota hedduu keessaa adda baatee hojii abjuu keessanii lafa buusuuf isin barbaachisan hunda isiniif dhiyeessina.",
+    "feature1Title": "Ijaarsa Harkisaa fi Gadi Dhiisuu",
+    "feature1Desc": "Kutaalee, pirojektoota, fi dandeettiiwwan kee gulaalaa mul'ataa keenya isa hubatamaa ta'een salphaatti qindeessi.",
+    "feature2Title": "Mata dureewwan Aadaa",
+    "feature2Desc": "Unkaalee ogummaadhaan qophaa'an keessaa filadhu ykn ilaalcha addaa mataa keetii uumi.",
+    "feature3Title": "Xiinxala Yeroo Dhugaa",
+    "feature3Desc": "Daawwattoota kee hordofi, pirojektoonni kamtu xiyyeeffannoo guddaa argata, fi kkf ilaali."
+  },
+  "auth": {
+    "welcomeBack": "Baga Nagaan Dhuftan",
+    "loginToContinue": "Itti fufuuf akkaawuntii keessan seena",
+    "createAccount": "Herrega Uumuu",
+    "joinCommunity": "Developers kumaatamaan lakkaa'aman birootti makamaa",
+    "fullName": "Maqaa Guutuu",
+    "fullNamePlaceholder": "fkn. ",
+    "email": "Teessoo Imeelii",
+    "emailPlaceholder": "ati@fakkeenya.com",
+    "password": "Jecha iccitii",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Na yaadadhaa",
+    "forgotPassword": "Jecha icciitii dagattee?",
+    "signIn": "Sign In",
+    "signingIn": "Mallatteessuun...",
+    "signUp": "Galmaa'i",
+    "signingUp": "Mallatteessuu...",
+    "noAccount": "Akkaawuntii hin qabduu?",
+    "hasAccount": "Duraanis akkaawuntii qabduu?",
+    "passwordRules": {
+      "title": "Jechi icciitii:",
+      "length": "Yoo xiqqaate arfiilee 8",
+      "uppercase": "Qubee guddaa tokko (A-Z) .",
+      "number": "Lakkoofsa tokko (0-9) .",
+      "symbol": "Mallattoo tokko (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Ijaarsa Poortiifooliyoo",
+      "templates": "Unkaalee fi Mata dureewwan",
+      "settings": "Sajoo",
+      "collapse": "Kufaatii Sidebar",
+      "overview": "Haala Waliigalaa",
+      "profileSettings": "Sajoo Profaayilii",
+      "customDomain": "Domeenii Adda ta'e",
+      "feedback": "Duubdeebii"
+    },
+    "header": {
+      "viewLive": "Kallattiin Ilaali",
+      "welcome": "Baga nagaan dhufte,",
+      "logout": "Ba'i",
+      "builder": "Ijaarsa",
+      "livePortfolio": "Poortiifooliyoo Kallattiin",
+      "live": "Jiraachuu"
+    },
+    "logoutModal": {
+      "title": "Ba'i",
+      "message": "Akkaawuntii keessan keessaa bahuu akka barbaaddan mirkaneeffattaniittuu? ",
+      "cancel": "Haquu",
+      "confirm": "Eeyyee, Logout"
+    },
+    "slugModal": {
+      "title": "URL Poortiifooliyoo Keessan Filadhaa",
+      "message": "URL kun hidhaa addaa portfolio keessanii ta'a. ",
+      "slugPlaceholder": "maqaa-kee",
+      "availability": "Argamuu:",
+      "available": "Jira",
+      "unavailable": "Hin argamne",
+      "checking": "Checking...",
+      "mustFormat": "Qubee, lakkoofsota, fi daash qofa qabaachuu danda'a (-) .",
+      "cancel": "Haquu",
+      "save": "URL saagi",
+      "usernameUrl": "URL Maqaa fayyadamaa",
+      "helpText": "Qubee xixiqqaa, lakkoofsota, fi dashes. ",
+      "validation": {
+        "empty": "Slug duwwaa ta'uu hin danda'u.",
+        "min3": "Yoo xiqqaate arfiilee 3.",
+        "max30": "Yoo baay'ate arfiilee 30.",
+        "format": "Qubee xixiqqaa, lakkoofsota, fi daash (-) qofa. "
+      }
+    },
+    "loadingPortfolio": "Daataa portfolio fe'aa jira...",
+    "overview": {
+      "greetings": {
+        "morning": "Ganama gaarii",
+        "afternoon": "Nagaa Waaree booda",
+        "evening": "Nagaa Waaree booda",
+        "night": "Halkan Gaarii"
+      },
+      "welcome": {
+        "hi": "Hi, .",
+        "creator": "Uumaa",
+        "desc1": "Baga gara daashboordii DevFolio dhuftan. Portfolio keessan kan ilaalame",
+        "desc2": "nama. Hojii itti fufaa!",
+        "editPortfolio": "Poortiifooliyoo Gulaali"
+      },
+      "stats": {
+        "totalVisitors": "Daawwattoota Waliigalaa",
+        "projectViews": "Ilaalame (Pirojektii) .",
+        "activeSessions": "Kutaa Sochii Qabu",
+        "totalLabel": "Waliigala"
+      },
+      "setup": {
+        "title": "Adeemsa Saagi",
+        "completed": "Portfolio keessan guutuudha! 🎉",
+        "inProgress": "Tarkaanfiiwwan gara portfolio mudaa hin qabneetti fudhataman.",
+        "profile": {
+          "title": "Profaayilii Guutuu",
+          "desc": "Maqaa, bio fi suuraa piroofaayilii itti dabalaa."
+        },
+        "section": {
+          "title": "Kutaalee Dabaluu",
+          "desc": "Yoo xiqqaate kutaa 1 portfolio keessatti hojiitti hiiku."
+        },
+        "project": {
+          "title": "Pirojektii Dabaluu",
+          "desc": "Yoo xiqqaate pirojektoota kee keessaa 1 galchi."
+        },
+        "publish": {
+          "title": "Poortiifooliyoo Maxxansuu",
+          "desc": "URL amala akka ummanni argachuu danda'uuf saagi."
+        }
+      },
+      "topProjects": {
+        "title": "Pirojektoota Irra Jaallatamoo",
+        "desc": "Raawwii hojii keessanii ija daawwattootaa duratti.",
+        "viewAll": "Hundaa Ilaali",
+        "empty": "Hanga ammaatti pirojektii keessaniif daataa ilaalchaa hin jiru."
+      }
+    },
+    "themes": {
+      "title": "Unkaalee fi Mata dureewwan",
+      "subtitle": "Ilaalchaa fi miira portfolio ummataa keessanii haala barbaadamuun qopheessaa.",
+      "reset": "Durtii Irra Deebi'i",
+      "save": "Jijjiirama Qusadhu",
+      "saving": "Qusachuu...",
+      "chooseTemplate": "Unkaa filadhu",
+      "primaryColor": "Halluu Duraa",
+      "typography": "Taayipoogiraafii",
+      "appearance": "Mul'achuu",
+      "corners": "Golee fi Daangaa",
+      "successTitle": "Milkaa'ina",
+      "successMessage": "Filannoon mata duree milkaa'inaan haaromfameera",
+      "errorTitle": "Dogoggora",
+      "errorMessage": "Filannoo mata duree qusachuu hin dandeenye",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Dizaayinii qulqulluu fi salphaa qabiyyee irratti xiyyeeffate."
+        },
+        "developerDark": {
+          "name": "Developer Dukkana",
+          "desc": "Mata duree dukkanaa'aa koodii fi tuullaa teeknooloojii agarsiisuuf mijataa dha."
+        },
+        "creative": {
+          "name": "Uumuu",
+          "desc": "Dizaayinarotaa fi kalaqtootaaf haala socho'aa fi halluu adda addaa qabu."
+        },
+        "executive": {
+          "name": "Hojii raawwachiiftuu",
+          "desc": "Ogeessota daldalaaf haala ogummaa fi sirnaa."
+        },
+        "bentoGrid": {
+          "name": "Giriidii Bentoo",
+          "desc": "Haala giiridii ammayyaa akkaataa Apple kan ogummaawwan adda addaa gahumsaan calaqqisiisu."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Daangaawwan jajjaboo fi halluuwwan walfaallaa olaanaa ilaalcha trendy, dhiifama hin gaafanneef."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Bu'aa geejjibaa frosted gradients halluu irratti UI ammayyaa sleek ta'eef."
+        },
+        "linkInBio": {
+          "name": "Link Bio keessatti",
+          "desc": "Haala dhaabbataa kompaaktii iskiriinii moobaayilaa fi miidiyaa hawaasaaf mijate."
+        }
+      },
+      "appearances": {
+        "light": "Ifa",
+        "dark": "Dukkana",
+        "system": "Sirna"
+      },
+      "cornersOptions": {
+        "sharp": "Qaraa",
+        "rounded": "Geengoo",
+        "pill": "Kiniinii"
+      }
+    },
+    "feedback": {
+      "title": "Yaada Ergi",
+      "subtitle": "Yaada, qeeqa, ykn dogoggora application kana irratti gabaasuun akka fooyya'u nu gargaaraa.",
+      "categoryLabel": "Ramaddii Duub-deebii",
+      "messageLabel": "Bal'ina Ergaa",
+      "messagePlaceholder": "Yaada dabarsuu barbaaddan bal'inaan natti himaa...",
+      "imageLabel": "Fakkii Dabalata (Filannoo)",
+      "imagePlaceholder": "Suuraa ykn suuraa iskiriinii olkaa'uuf cuqaasaa",
+      "submitting": "Ergaa...",
+      "submitBtn": "Yaada Ergi",
+      "categories": {
+        "suggestion": "Yaada & Yaada",
+        "bug": "Gabaasa Dogoggoraa / Dogoggoraa",
+        "criticism": "Qeeqa",
+        "other": "Kanneen biroo"
+      },
+      "imageErrorTitle": "Dogoggora",
+      "imageErrorMessage": "Faayiloonni tokko tokko bifa fakkii hin deeggaramneef (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Milkaa'ina",
+      "successMessage": "Yaada nuuf kennitaniif galatoomaa! Gabaasni ergamee jira.",
+      "submitErrorTitle": "Kufe",
+      "submitErrorMessage": "Yeroo yaada erguu dogongorri uumame. Mee irra deebi'ii yaalaa."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Waa'ee Koo",
+      "skills": "Dandeettiiwwan",
+      "projects": "Pirojektoota",
+      "workExperience": "Muuxannoo Hojii",
+      "orgExperience": "Muuxannoo Jaarmiyaa",
+      "education": "Barumsa",
+      "certifications": "Leenjii fi Mirkaneessa",
+      "contact": "Na Qunnamaa"
+    },
+    "editor": {
+      "profileInfo": "Odeeffannoo Profaayilii",
+      "saving": "Qusachuu...",
+      "profilePhoto": "Suuraa Profaayilii",
+      "clickToUpload": "Olkaa'uuf cuqaasaa (JPG, PNG)",
+      "fullName": "Maqaa Guutuu",
+      "fullNamePlaceholder": "fkn. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer kan fedhii appii weeb ammayyaa ijaaruuf qabu...",
+      "location": "Bakka",
+      "locationPlaceholder": "fkn. ",
+      "gender": "Koorniyaa",
+      "selectGender": "Saala filadhu",
+      "male": "Dhiira",
+      "female": "Dhalaa",
+      "custom": "Aadaa",
+      "customPlaceholder": "Saala aadaa keetii barreessi...",
+      "uploadCv": "CV olkaa'aa",
+      "cvFormat": "(DOC ykn PDF)",
+      "preview": "Dursee ilaaluu",
+      "remove": "Irraa kaasuu",
+      "clickToUploadCv": "PDF ykn DOC olkaa'uuf cuqaasaa",
+      "sections": "Kutaalee",
+      "removeSelected": "Filatame haqi",
+      "confirmRemove": "Mirkaneessi Haquu",
+      "addSection": "Kutaa Dabalaa",
+      "addAllSections": "Kutaalee Hundaa Dabaluu",
+      "noSections": "Kutaaleen hanga ammaatti hin jiran",
+      "clickToAdd": "Jalqabuuf \"+ Kutaa Dabaluu\" cuqaasi",
+      "selectAll": "Hundaa filadhu",
+      "selected": "Filatame",
+      "dragToReorder": "Kutaalee irra deebi'ii tartiibeessuuf harkisi",
+      "livePreview": "Dursa Kallattiin",
+      "addSectionsToBuild": "Kutaalee itti dabali portfolio kee ijaaruuf",
+      "now": "Amma",
+      "current": "Yeroo ammaa",
+      "noExpiry": "Yeroon Dhuma Hin Qabu",
+      "see": "Ilaaluu",
+      "position": "Gita hojii",
+      "degree": "Digirii",
+      "certification": "Mirkaneessa",
+      "sectionsForm": {
+        "about": {
+          "label": "Ibsa ofii keetii",
+          "placeholder": "Waa'ee ofii keetii, seenaa kee, fedhii fi dandeettii kee nuuf himi..."
+        },
+        "skills": {
+          "addPlaceholder": "Ogummaa barreessi sana booda Enter dhiibaa..."
+        },
+        "projects": {
+          "title": "Maqaa Pirojektii",
+          "titlePlaceholder": "Maqaa pirojektii...",
+          "url": "URL pirojektii",
+          "description": "Ibsa",
+          "descriptionPlaceholder": "Ibsa gabaabaa pirojektichaa...",
+          "uploadThumbnail": "Fakkii Pirojektii",
+          "addProject": "Pirojektii Dabaluu",
+          "projectNum": "Pirojektii #",
+          "currentProject": "Kun pirojektii ani hojjechaa jiruudha"
+        },
+        "work": {
+          "company": "Perusahaan/Instansi",
+          "companyPlaceholder": "Maqaa dhaabbataa...",
+          "position": "Iddoo/Mata duree",
+          "positionPlaceholder": "Ejjennoo keessan...",
+          "employmentType": "Gosa hojii",
+          "location": "Bakka",
+          "locationPlaceholder": "Magaalaa, Biyya...",
+          "startDate": "Eegaluu",
+          "endDate": "Xumurame",
+          "currentWork": "Yeroo ammaa kana ammallee hojjechaa jira",
+          "description": "Ibsa",
+          "descriptionPlaceholder": "Ibsa hojii fi itti gaafatamummaa...",
+          "skills": "Dandeettii",
+          "addExperience": "Muuxannoo Hojii Dabalaa",
+          "experienceNum": "Muuxannoo #",
+          "dateError": "Guyyaan xumuraa guyyaa jalqabaa dursee ta'uu hin danda'u"
+        },
+        "org": {
+          "organization": "Maqaa Jaarmiyaa",
+          "orgPlaceholder": "Yuunivarsiitii BEM...",
+          "role": "Gahee/Ejjennoo",
+          "rolePlaceholder": "Itti gaafatamaa Kutaa...",
+          "addOrg": "Muuxannoo Jaarmiyaa Dabalaa",
+          "orgNum": "Dhaabbata #"
+        },
+        "edu": {
+          "institution": "Dhaabbilee Barnootaa",
+          "institutionPlaceholder": "Maqaa mooraa ykn mana barumsaa...",
+          "degree": "Mata-duree",
+          "degreePlaceholder": "S1, mana barumsaa sadarkaa lammaffaa, fi kkf...",
+          "major": "Kutaa/Dirree Qo’annoo",
+          "majorPlaceholder": "Informaatiksii Injinariingii...",
+          "gpa": "GPA (dirqama) .",
+          "currentStudy": "Ammallee asitti barachaa jira",
+          "descriptionPlaceholder": "Sochiiwwanii fi bu'aa ba'ii yeroo qo'annoo...",
+          "addEdu": "Barnoota Dabalaa",
+          "eduNum": "Barumsa #"
+        },
+        "cert": {
+          "name": "Maqaa Mirkaneessaa / Leenjii",
+          "namePlaceholder": "Maqaa mirkaneessaa...",
+          "issuer": "Maxxansaa",
+          "issuerPlaceholder": "Dhaabbata maxxansaa...",
+          "issueDate": "Jalqaba (Guyyaa Maxxansaa) .",
+          "issueDatePlaceholder": "Guyyaa maxxansaa filadhu...",
+          "expiryDate": "Xumurame (Yeroo Sirrii) .",
+          "expiryDatePlaceholder": "Guyyaa xumuraa filadhu...",
+          "noExpiry": "Ragaan kun guyyaa xumuraa hin qabu",
+          "url": "URL mirkaneessaa",
+          "uploadThumbnail": "Ragaa / Fakkii Leenjii",
+          "uploadThumbnailLimit": "Fakkii waraqaa ragaa olkaa'uu (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Mirkaneessa Dabaluu",
+          "certNum": "Mirkaneessaa # ."
+        },
+        "contact": {
+          "contactNum": "Quunnamuu #",
+          "platform": "Waltajjii",
+          "displayText": "Barruu Agarsiisi",
+          "displayTextPlaceholder": "fkn, you@email.com ykn @maqaa fayyadamaa",
+          "url": "Hidhaa (URL) .",
+          "urlPlaceholderWhatsapp": "fkn, 62812... (0 malee) .",
+          "urlPlaceholderEmail": "fkn, you@email.com irratti",
+          "urlPlaceholderWebsite": "fkn, https://...",
+          "urlPlaceholderDefault": "fkn, maqaa fayyadamaa",
+          "addContact": "Quunnamtii Dabaluu"
+        },
+        "common": {
+          "months": {
+            "1": "fulbaana",
+            "2": "Gurraandhala",
+            "3": "Sadaasa",
+            "4": "Ebla",
+            "5": "Ta'uu mala",
+            "6": "Waxabajjii",
+            "7": "Bitootessa",
+            "8": "Eebila",
+            "9": "Caamsaa",
+            "10": "Onkololeessa",
+            "11": "Sadaasa",
+            "12": "Muddee"
+          },
+          "month": "Ji'a",
+          "year": "Waggaa",
+          "invalidDate": "Ji'a Xumuraa Sirrii Hin Taane",
+          "words": "jechoota"
+        }
+      },
+      "sure": "Sirrii",
+      "deletePhotoTitle": "Suuraa Profaayilii Haquu?",
+      "deletePhotoMessage": "Suuraa piroofaayilii kana haquu akka barbaaddu mirkaneeffatteettaa?",
+      "cancel": "Haquu",
+      "delete": "Haquu"
+    },
+    "cropper": {
+      "chooseBackground": "Duubbee filadhu",
+      "cropPhoto": "Suuraa Keessan Muraa",
+      "useOriginal": "Orijinaala fayyadami",
+      "backgroundPresets": "Dursa Duubbee",
+      "none": "Homaa",
+      "uploadBackground": "Duubbee Olkaa'uu",
+      "cancel": "Haquu",
+      "savePhoto": "Suuraa Save",
+      "zoom": "Zoom gochuu",
+      "rotationTilt": "Naanneffamuu & Tilt",
+      "resetRotation": "Gara 0°tti deebisaa",
+      "center": "Wiirtuu",
+      "rotateLeft": "-90° naannessi",
+      "rotateRight": "+90° naannessi",
+      "removeBackground": "Duubbee Haquu",
+      "processing": "Suuraa keessan processing, mee eegaa..."
+    },
+    "cvPreview": {
+      "title": "CV Dursee Ilaaluu",
+      "downloadCv": "Download CV",
+      "download": "Buusuu",
+      "wordCannotPreview": "Galmeewwan jechaa (.doc/.docx) durtii dhalootaan biraawzari keessatti ilaalamuu hin danda'an. ",
+      "downloadFile": "Faayila CV Buufadhu",
+      "back": "Dugda",
+      "mobileMessage": "Mee faayila CV sana buufadhaa dursitanii ilaaluu dandeessu.",
+      "preview": "Dursee ilaaluu CV",
+      "wordPreviewTitle": "Durargii Galmee Jechootaa",
+      "wordPreviewMessage": "Galmeewwan jechaa (.doc/.docx) dursanii dhalootaan biraawzari keessatti ilaalamuu hin danda'an. Mee faayila kana buufadhaa ilaalaa."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Waa'ee ofii keetii, fedhii keetii fi galma hojii keetii ibsa gabaabaa barreessi..."
+    },
+    "skills": {
+      "placeholder": "Maqaa ogummaa barreessi...",
+      "add": "Ida'uu",
+      "enterToAdd": "Dabaluuf Enter dhiibi",
+      "noSkills": "Ammatti ogummaan hin dabalamne."
+    },
+    "projects": {
+      "projectName": "Maqaa Pirojektii",
+      "projectNamePlaceholder": "fkn. ",
+      "projectUrl": "URL pirojektii",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Turtii murtaa'e",
+      "startMonth": "Ji'a Jalqabaa",
+      "startYear": "Bara Jalqabaa",
+      "endMonth": "Ji'a Xumuraa",
+      "endYear": "Bara Xumuraa",
+      "currentlyWorking": "Yeroo ammaa kana irratti hojjechaa jira",
+      "description": "Ibsa",
+      "descriptionPlaceholder": "Pirojekticha, gahee kee, fi bu'aa ba'ii kee ibsi...",
+      "technologies": "Teeknooloojiiwwan Fayyadamaa",
+      "addProject": "Pirojektii Dabaluu",
+      "image": "Fakkii Pirojektii",
+      "removeImage": "Fakkii balleessuu",
+      "uploadImage": "Suuraa olkaa'uuf cuqaasaa"
+    },
+    "work": {
+      "company": "Dhaabbata/Dhaabbata",
+      "companyPlaceholder": "Maqaa dhaabbataa...",
+      "role": "Gahee/Ejjennoo",
+      "rolePlaceholder": "Ejjennoo keessan...",
+      "jobType": "Gosa Hojii",
+      "selectJobType": "Akaakuu filadhu",
+      "fullTime": "Yeroo guutuu",
+      "partTime": "Yeroo muraasaaf",
+      "contract": "Waliigaltee",
+      "internship": "Turtii shakalaa",
+      "freelance": "Hojii bilisaa",
+      "location": "Bakka",
+      "locationPlaceholder": "fkn. ",
+      "duration": "Turtii murtaa'e",
+      "currentlyWorking": "Yeroo ammaa kana asitti hojjechaa jira",
+      "description": "Ibsa Hojii",
+      "descriptionPlaceholder": "Itti gaafatamummaa fi bu'aa ba'ii ijoo kee ibsi...",
+      "skills": "Dandeettii Addaa",
+      "addExperience": "Muuxannoo Dabalaa"
+    },
+    "org": {
+      "organization": "Maqaa Jaarmiyaa",
+      "organizationPlaceholder": "Maqaa dhaabbataa...",
+      "role": "Gahee/Ejjennoo",
+      "rolePlaceholder": "fkn. ",
+      "duration": "Turtii murtaa'e",
+      "periodFormat": "ykn Free Format (fkn 2020 - 2022) .",
+      "periodPlaceholder": "fkn. ",
+      "currentlyActive": "Yeroo ammaa kana sochiirra jira",
+      "description": "Ibsa Gocha",
+      "descriptionPlaceholder": "Sochii ykn gumaacha kee ibsi...",
+      "addExperience": "Muuxannoo Dabalaa"
+    },
+    "education": {
+      "institution": "Maqaa Dhaabbataa",
+      "institutionPlaceholder": "Maqaa mana barumsaa ykn yunivarsiitii...",
+      "degree": "Digirii/Sadarkaa",
+      "degreePlaceholder": "fkn. ",
+      "major": "Muummee/Dirree Qo’annoo",
+      "majorPlaceholder": "fkn. ",
+      "gpa": "GPA / Kutaa",
+      "gpaPlaceholder": "fkn. ",
+      "duration": "Turtii Barnootaa",
+      "periodFormat": "ykn Free Format (fkn 2018 - 2022) .",
+      "periodPlaceholder": "fkn. ",
+      "currentlyStudying": "Yeroo ammaa kana asitti barachaa jira",
+      "description": "Hojiiwwan / Kabaja",
+      "descriptionPlaceholder": "Sochiiwwan barnootaa, dhaabbilee, ykn kabaja argatan ibsi...",
+      "addEducation": "Barnoota Dabalaa"
+    },
+    "cert": {
+      "name": "Maqaa Mirkaneessaa",
+      "namePlaceholder": "fkn. ",
+      "issuer": "Dhaabbata Baasu",
+      "issuerPlaceholder": "fkn. ",
+      "issueDate": "Guyyaa Dhimma",
+      "expiryDate": "Hanga Hojiirra Oola",
+      "noExpiry": "Mirkaneessi kun yeroon isaa hin dhumu",
+      "yearPlaceholder": "ykn Bara (fkn. 2023) .",
+      "credentialUrl": "URL mirkaneessaa",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Dandeettiiwwan Walqabatan",
+      "addCertification": "Mirkaneessa Dabaluu",
+      "image": "Fakkii/Asxaa",
+      "removeImage": "Fakkii balleessuu",
+      "uploadImage": "Suuraa olkaa'uuf cuqaasaa"
+    },
+    "common": {
+      "months": {
+        "1": "fulbaana",
+        "2": "Gurraandhala",
+        "3": "Sadaasa",
+        "4": "Ebla",
+        "5": "Ta'uu mala",
+        "6": "Waxabajjii",
+        "7": "Bitootessa",
+        "8": "Eebila",
+        "9": "Caamsaa",
+        "10": "Onkololeessa",
+        "11": "Sadaasa",
+        "12": "Muddee"
+      },
+      "month": "Ji'a",
+      "year": "Waggaa",
+      "invalidDate": "Ji'a Xumuraa Sirrii Hin Taane",
+      "words": "jechoota"
+    }
+  },
+  "settings": {
+    "title": "Sajoo",
+    "subtitle": "Profaayilii fi filannoowwan portfolio kee bulchi",
+    "tabs": {
+      "profile": "Profaayila koo",
+      "security": "Nageenya",
+      "personalization": "Dhuunfaatti jijjiiruu"
+    },
+    "profile": {
+      "infoTitle": "Odeeffannoo Bu'uuraa",
+      "photo": "Suuraa Profaayilii",
+      "uploadPhoto": "Suuraa Jijjiirraa",
+      "fullName": "Maqaa Guutuu",
+      "fullNamePlaceholder": "Joon Doo",
+      "email": "Teessoo Imeelii",
+      "emailPlaceholder": "john@fakkeenya.com irratti",
+      "emailHelp": "Iimeeliin seensaaf kan oolu yoo ta'u, ifatti hin mul'atu.",
+      "portfolioUrl": "URL poortifooliyoo",
+      "saveProfile": "Profaayilii Saagi",
+      "save": "Profaayilii Saagi",
+      "accountCreated": "Herrega Uumame",
+      "lastLogin": "Galmee Dhumaa",
+      "oauthNotice": "Profaayilli kun herrega {{provider}} kee waliin walqabatee jira. Jijjiiramni piroofaayilii karaa tajaajila kennuutiin taasifamuu qaba."
+    },
+    "security": {
+      "changePassword": "Jecha Darbii Jijjiiri",
+      "currentPassword": "Jecha Darbii Ammaa",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Jecha Darbii Haaraa",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Jecha Darbii Haaraa Mirkaneessi",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Yoo xiqqaate arfiilee 8",
+        "uppercase": "Qubee guddaa tokko (A-Z) .",
+        "number": "Lakkoofsa tokko (0-9) .",
+        "symbol": "Mallattoo tokko (!@#$%^&*)"
+      },
+      "passwordTitle": "Jecha iccitii",
+      "updatePassword": "Jecha Darbii Fooyyessi",
+      "additionalSecurity": "Nageenya Dabalataa",
+      "twoFactor": "Mirkaneessuu Qabxiilee Lamaa (2FA) .",
+      "twoFactorDesc": "Koodii OTP dabalataa fayyadamuun akkaawuntii keessan eegaa.",
+      "activeSessions": "Kutaawwan Sochii Qaban",
+      "activeSessionsDesc": "Yeroo hunda hordoffii meeshaalee seenan hayyami.",
+      "publicVisibility": "Mul'achuu Ummataa",
+      "hideFromSearch": "Poortiifooliyoo Motora Barbaacha irraa dhoksuu",
+      "hideFromSearchDesc": "Google fuula portfolio ummataa keessan akka index hin goone dhorkaa.",
+      "disable2fa": {
+        "title": "2FA hojii irraa oolchuu",
+        "description": "Mirkaneessa sababoota lamaa dhaamsuu akka barbaaddu mirkaneeffatteettaa?",
+        "confirmPasswordLabel": "Mirkaneessuuf jecha icciitii keessan galchaa",
+        "currentPasswordPlaceholder": "Jecha icciitii ammaa",
+        "cancelButton": "Haquu",
+        "confirmButton": "2FA hojii irraa oolchuu",
+        "incorrectPassword": "Jecha icciitii sirrii hin taane."
+      },
+      "setup2fa": {
+        "step1Title": "1. Koodii QR sakatta'uu",
+        "step1Desc": "Appii authenticator keessan banaatii QR code armaan gadii scan godhaa:",
+        "unableToScan": "Scan gochuu hin dandeenye? Furtuu saaguu fayyadami",
+        "step2Title": "2. Koodii Mirkaneessuu",
+        "step2Desc": "Koodii dijiitii 6 qabu kan appiin uumame galchi:",
+        "cancelButton": "Haquu",
+        "enableButton": "2FA dandeessisi",
+        "invalidLength": "Mee koodii dijiitii 6 galchaa.",
+        "invalidCode": "Koodii mirkaneessaa sirrii hin taane. Mee irra deebi'ii yaalaa."
+      }
+    },
+    "personalization": {
+      "languageTitle": "To'annoo Afaanii",
+      "appLanguage": "App Afaan",
+      "layoutTitle": "Haala Haallii fi Taayipoogiraafii",
+      "layoutStyle": "Akkaataa Haalata",
+      "layoutModern": "Akkaataa Ammayyaa (Durtii) .",
+      "layoutClassic": "Akkaataa Kilaasikii",
+      "layoutMinimalist": "Akkaataa Minimalist",
+      "fontSize": "Guddina Qubee App",
+      "fontSmall": "Xiqqoo",
+      "fontNormal": "Idilee (Giddugaleessa) .",
+      "fontLarge": "Bal'aa",
+      "searchLanguage": "Afaan barbaadi...",
+      "languageNotFound": "Afaan hin argamne",
+      "layoutElegant": "Akkaataa Bareedaa"
+    },
+    "saveChanges": "Jijjiirama Qusadhu",
+    "cancel": "Haquu",
+    "appSettings": "Sajoo Appii",
+    "logoutConfirmTitle": "Ba'uu Mirkaneessi",
+    "logoutConfirmDesc": "Sirna keessaa bahuu akka barbaaddu mirkaneeffatteettaa?",
+    "logoutConfirmYes": "Eeyyee, Logout",
+    "generalError": "Dogoggorri uumame. ",
+    "success": "Milkaa'ina",
+    "preferencesSaved": "Filannoon appii milkaa'inaan qusatameera.",
+    "header": "Sajoo Appilikeeshinii",
+    "logout": {
+      "title": "Mirkaneessa Ba'uu",
+      "message": "Sirna keessaa bahuu akka barbaaddu mirkaneeffatteettaa?",
+      "confirm": "Eeyyee, Logout"
+    },
+    "about": {
+      "title": "Waa'ee Iyyannoo",
+      "subtitle": "Waltajjii Ijaarsa Poortiifooliyoo",
+      "version": "Gosa",
+      "description": "DevFolio waltajjii ijaarsa portfolio ammayyaa kan misoomsitoota, dizaayinarota, fi ogeessota uumamtootaaf qophaa'eedha. ",
+      "license": "Hayyama & Mirga garagalchuu",
+      "copyright": "© 2026 DevFolio Inc. Mirgi Qopheessaa Seeraan Kan Eegame.",
+      "developer": "Misoomsaa",
+      "developedBy": "Kan qopheesse Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Dhaabbataan Herrega Haquu",
+      "menuItem": "Herrega Haquu",
+      "successTitle": "Milkaa'ina",
+      "successMessage": "Iimeeliin mirkaneessa akkaawuntii haquu ergameera.",
+      "errorTitle": "Kufe",
+      "errorMessage": "Imeelii mirkaneessaa erguu hin dandeenye.",
+      "confirmationMessage": "Akkaawuntii kee dhaabbataadhaan haquu akka barbaaddu mirkaneeffatteettaa?",
+      "warningMessage1": "Akkaawuntii haqamuu isaa mirkaneessuuf email siif dhufa.",
+      "warningMessage2": "Yoo mirkanaa’e, daataa (portfolio, pirojektoonni, istaatistiksii) hundi dhaabbataadhaan ni haqama, deebi’ee argamuu hin danda’u.",
+      "cancel": "Haquu",
+      "confirm": "Mirkaneessaa"
+    },
+    "toasts": {
+      "toastError": "Dogoggora",
+      "toastSuccess": "Milkaa'ina",
+      "toastSetup2FAFailed": "2FA setup gochuu hin dandeenye. Mee irra deebi'ii yaalaa.",
+      "toast2FAEnabled": "Mirkaneessi sababa lamaa dandeessifameera.",
+      "toast2FADisabled": "Mirkaneessi sababa lamaa hojiirraa ooleera.",
+      "toastSessionEnabled": "Hordoffiin turtii sochii qabu dandeessifameera.",
+      "toastSessionDisabled": "Hordoffiin turtii sochii qabu hojiirraa ooleera.",
+      "toastSetupKeyCopied": "Furtuu saagi gara gabatee kiliippiitti waraabame."
+    },
+    "privacy": {
+      "title": "Imaammata Dhuunfaa",
+      "updateDate": "Yeroo Dhumaaf Kan Fooyya'e: July 15, 2026",
+      "intro": "Imaammanni Dhuunfaa kun akkaataa DevFolio yeroo tajaajila keenya fayyadamnu odeeffannoo dhuunfaa keessan itti walitti qabu, itti fayyadamu fi eegu ibsa.",
+      "section1Title": "1. Odeeffannoo Walitti Qabnu",
+      "section1Content": "Odeeffannoo ati kallattiin yeroo herrega uumtu, portfolio ijaartu, fi deeggarsa keenya qunnamnu walitti qabna. ",
+      "section2Title": "2. Itti Fayyadama Odeeffannoo",
+      "section2Content": "Odeeffannoon kee amaloota tajaajiloota keenyaa hojjechuu, kunuunsuu fi kennuudhaaf, akkasumas akkaawuntii ykn tajaajila kee ilaalchisee si waliin wal qunnamuuf kan gargaarudha.",
+      "section3Title": "3. Nageenya Daataa",
+      "section3Content": "Odeeffannoo keessan hayyama malee akka hin arganne, akka hin ibsamne ykn akka hin balleessineef tarkaanfiiwwan nageenyaa madaalawaa ta’an hojiirra oolchina."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Mallattoon mirkaneessaa hin argamne.",
+    "defaultError": "Akkaawuntii haquu hin dandeenye. Token sun yeroon isaa darbe ta'uu danda'a.",
+    "loadingTitle": "Herrega Haquu...",
+    "loadingMessage": "Mee eegaa, gaaffii keessan hojjechaa jirra.",
+    "successTitle": "Account Milkaa'inaan Haqame",
+    "successMessage": "Daataan keessan hundi dhaabbataadhaan haqameera. Qajeelfama siif deebi'a...",
+    "errorTitle": "Herrega Haquu Hin dandeenye",
+    "backToHome": "Gara Manaatti Deebi'aa"
+  },
+  "forgotPassword": {
+    "minutes": "daqiiqaa",
+    "seconds": "sekondii",
+    "success": "Milkaa'ina",
+    "otpSentToEmail": "Koodiin OTP gara email keessaniitti ergameera.",
+    "failed": "Kufe",
+    "emailNotFound": "Email hin argamne.",
+    "emailThirdParty": "Imeelii kun karaa qaama sadaffaatiin galmaa'a.",
+    "genericError": "Dogoggorri jira. Mee irra deebi'ii yaalaa.",
+    "otpVerified": "Koodiin OTP milkaa'inaan mirkanaa'eera.",
+    "otpExpired": "Koodiin OTP yeroon isaa darbe. Mee koodii haaraa gaafadhaa.",
+    "otpInvalid": "Koodii OTP sirrii hin taane.",
+    "otpResent": "Koodiin OTP haaraan gara email keessaniitti ergameera.",
+    "otpResendFailed": "Koodii OTP irra deebi'ee erguu hin dandeenye. Mee irra deebi'ii yaalaa.",
+    "passwordResetSuccess": "Password milkaa'inaan reset. Mee jecha icciitii haaraa keessaniin seena.",
+    "passwordResetFailed": "Jecha icciitii deebisanii saaguu hin dandeenye.",
+    "backToLogin": "Gara Galchuutti Deebi'i",
+    "back": "Duuba",
+    "title": "Jecha Darbii Dagatte",
+    "description": "Teessoo email akkaawuntii keessan irratti galmaa'e galchaa. Jecha icciitii sana deebisuudhaaf koodii OTP ergina.",
+    "emailLabel": "Teessoo Imeelii",
+    "sending": "Ergaa...",
+    "sendOtp": "Koodii OTP Ergaa",
+    "verifyOtpTitle": "Koodii OTP Mirkaneessi",
+    "verifyOtpDesc": "Eenyummaa kee mirkaneessuuf koodii dijiitii 6 gara email keessanitti ergame galchaa.",
+    "verifying": "Mirkaneessaa jira...",
+    "verifyOtp": "OTP mirkaneessuu",
+    "resending": "Irra deebiin ergaa jira...",
+    "resendOtp": "Koodii OTP irra deebi'ii erguu",
+    "resendCodeIn": "Koodii",
+    "newPasswordTitle": "keessatti irra deebi'ii ergi Jecha Darbii Haaraa Uumuu",
+    "newPasswordDesc": "Akkaawuntii keessan eeguuf jecha icciitii haaraa fi cimaa ta'e uumi.",
+    "newPasswordLabel": "Jecha Darbii Haaraa",
+    "min8Chars": "Yoo xiqqaate arfiilee 8",
+    "oneUpperCase": "1 qubee guddaa (A-Z)",
+    "oneNumber": "1 lakkoofsa (0-9)",
+    "oneSymbol": "1 mallattoo (!@#$%^&*)",
+    "confirmPasswordLabel": "Jecha Darbii Mirkaneessi",
+    "passwordsDoNotMatch": "Jechoonni icciitii wal hin simne.",
+    "resettingPassword": "Jecha Darbii Irra Deebi'anii Saaguu...",
+    "resetPassword": "Jecha Darbii Irra Deebi'i"
+  },
+  "verifyEmail": {
+    "resendError": "Imeelii mirkaneessaa irra deebi'ee erguu hin dandeenye. Mee irra deebi'ii yaalaa.",
+    "checkingStatus": "Haala mirkaneessuu sakatta'aa jira...",
+    "title": "Email Keessan Ilaaluu",
+    "description": "Imeelii mirkaneessuu gara teessoo email keessaniitti erginee jirra. Maaloo email sana banadhuutii <1>\"Herrega Mirkaneessi\"</1> cuqaasuun herrega kee hojii irra oolchi.",
+    "stepsTitle": "Tarkaanfiiwwan",
+    "step1": "Appilikeeshinii email keessan (Gmail, Yahoo, fi kkf) banadhaa",
+    "step2": "Imeelii DevFolio irraa mata duree \"Account Activation\"",
+    "step3": "jedhu qabu barbaadi Imeelii",
+    "step4": "keessaa \"Confirm Account\" kan jedhu cuqaasaa Gara fuula seensaa tti qajeelfamuun",
+    "resendSuccess": "Iimeeliin mirkaneessaa deebi'ee ergameera!",
+    "resending": "Irra deebiin ergaa jira...",
+    "resendButton": "Imeelii Mirkaneessaa Irra Deebiin Ergi",
+    "backToLogin": "Gara Fuula Galmee Deebi'aa",
+    "footerNote": "Imeelii sana hin argannee? Galfata <1>Spam</1> ykn <2>Junk</2> email kee keessaa ilaali. Hidhiin mirkaneessuu <3>sa'aatii 24</3>f sirrii dha."
+  }
+}

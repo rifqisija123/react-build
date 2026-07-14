@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Mōttan ko",
+    "templates": "Template ko",
+    "pricing": "Wōnan",
+    "login": "Login",
+    "getStarted": "Jinoe",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Rikōmman portfolio eo emman tata ñan rikōmman kein jerbal ko",
+    "title1": "Kalek jerbal eo am",
+    "title2": "portfolio ilo",
+    "titleHighlight": "sekoņ ko.",
+    "subtitle": "Aolep men ko kwoj aikuji ñan kwalok am maroñ, jerbal ko, im eñjake ko am. ",
+    "startBuilding": "Jino Kalōk Kiiō",
+    "viewTemplates": "Lale Template ko",
+    "fastDeployment": "Mōkaj in kōjerbale",
+    "liveStatus": "username.dev ej mour!",
+    "featuresTitle": "Men ko Rekajur",
+    "featuresSubtitle": "Kimij lewoj aolep kein jerbal ko kwoj aikuji ñan am maroñ in oktak jen ro jet im bōk jerbal eo kwoj kōnaan.",
+    "feature1Title": "Drag & Drop Builder",
+    "feature1Desc": "Ebin am kōllaajrake mōttan ko am, jerbal ko, im kapeel ko am ilo ad kōmman pija ko.",
+    "feature2Title": "Custom Themes",
+    "feature2Desc": "Kālet jen template ko kar kōmmani ilo jimwe ak kōmmane juon am make wāween eo ejenolok.",
+    "feature3Title": "Real-time Analytics",
+    "feature3Desc": "Lale ri lotok ro am, lale ta jerbal ko rej bōk elaptata lale, im elaplok."
+  },
+  "auth": {
+    "welcomeBack": "Yokwe im bar jeblak",
+    "loginToContinue": "Deloñ ilo akaun eo am bwe kwon wōnmanlok",
+    "createAccount": "Kōmmane Account",
+    "joinCommunity": "Kobalok ibben taujin rikōmman ro jet",
+    "fullName": "Etan eo eobrak",
+    "fullNamePlaceholder": "e.g. ",
+    "email": "Email Address",
+    "emailPlaceholder": "kwe@example.com",
+    "password": "Paajwōt",
+    "passwordPlaceholder": "••••••••",
+    "rememberMe": "Kememej io",
+    "forgotPassword": "Kwar meloklok password eo ke?",
+    "signIn": "Sign In",
+    "signingIn": "Signing In...",
+    "signUp": "Sign Up",
+    "signingUp": "Sign Up...",
+    "noAccount": "Ejelok am account?",
+    "hasAccount": "Ewōr ke am account?",
+    "passwordRules": {
+      "title": "Password eo ej aikuj in wor:",
+      "length": "Enañin 8 letter ko",
+      "uppercase": "Juon leta elap (A-Z)",
+      "number": "Juon oran (0-9)",
+      "symbol": "Juon kakōlkōl (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Rikōmman Portfolio",
+      "templates": "Template ko & Theme ko",
+      "settings": "Jekjek ko",
+      "collapse": "Collapse Sidebar",
+      "overview": "Lale",
+      "profileSettings": "Profile Settings",
+      "customDomain": "Custom Domain",
+      "feedback": "Melele ko emōj loi"
+    },
+    "header": {
+      "viewLive": "Lale Live",
+      "welcome": "Karuwainene,",
+      "logout": "Logout",
+      "builder": "Ri kalōk",
+      "livePortfolio": "Live Portfolio",
+      "live": "Emour"
+    },
+    "logoutModal": {
+      "title": "Logout",
+      "message": "Kwoj ke lukkun kōnan diojlok jen am account? ",
+      "cancel": "Jolok",
+      "confirm": "Aet, Logout"
+    },
+    "slugModal": {
+      "title": "Kālet URL in Portfolio eo am",
+      "message": "URL in enaj link eo ejenolok ñan portfolio eo am. ",
+      "slugPlaceholder": "etam",
+      "availability": "Ewōr:",
+      "available": "Ewōr",
+      "unavailable": "Ejelok",
+      "checking": "Ej lale...",
+      "mustFormat": "Emaroñ wōr wōt leta ko, nōm̧ba ko, im dash ko (-)",
+      "cancel": "Jolok",
+      "save": "Kōjparok URL",
+      "usernameUrl": "URL in etan armij",
+      "helpText": "Leta ko redik, nōm̧ba ko, im dash ko. ",
+      "validation": {
+        "empty": "Slug ejjab maroñ in ejjelok men ie.",
+        "min3": "Enañin 3 letter ko.",
+        "max30": "Enañin 30 letter ko.",
+        "format": "Leta ko redik wōt, nōm̧ba ko, im dash ko (-). "
+      }
+    },
+    "loadingPortfolio": "Ej bōktok melele ko jen portfolio eo...",
+    "overview": {
+      "greetings": {
+        "morning": "Jibboñ emman",
+        "afternoon": "Jibboñ emman",
+        "evening": "Jibboñ emman",
+        "night": "Boñ emman"
+      },
+      "welcome": {
+        "hi": "Yokwe,",
+        "creator": "Rikōmman",
+        "desc1": "Jouj im itok ñan DevFolio dashboard eo. Portfolio eo am emoj an kar lale",
+        "desc2": "armij. Wōnm̧aanļo̧k wōt im jerbal!",
+        "editPortfolio": "Ukōt Portfolio eo"
+      },
+      "stats": {
+        "totalVisitors": "Oran rilotok ro",
+        "projectViews": "Kar lale (Project)",
+        "activeSessions": "Iien eo ej jerbal",
+        "totalLabel": "Oran"
+      },
+      "setup": {
+        "title": "Wōnm̧aanļo̧k in Kōpooj",
+        "completed": "Portfolio eo am emoj an dedelok! 🎉",
+        "inProgress": "Bun̄tōn ko ñan portfolio eo emman tata.",
+        "profile": {
+          "title": "Dedelok profile eo",
+          "desc": "Kobaik etan, mour im pija in armij."
+        },
+        "section": {
+          "title": "Kobaik Section ko",
+          "desc": "Kōmman bwe en jerbal 1 section ilo portfolio eo."
+        },
+        "project": {
+          "title": "Kobaik Project",
+          "desc": "Kōmman 1 ian jerbal ko am remman tata."
+        },
+        "publish": {
+          "title": "Kwalok Portfolio eo",
+          "desc": "Kōmman juon URL eo ej make wōt bwe en maroñ in deloñ jen armij ro."
+        }
+      },
+      "topProjects": {
+        "title": "Project ko rebuñbuñ tata",
+        "desc": "Jerbal in jerbal eo am ilo mejen ri lotok ro.",
+        "viewAll": "Lale aolep",
+        "empty": "Ejelok melele in lale ñan jerbal eo am kiõ."
+      }
+    },
+    "themes": {
+      "title": "Template & Themes",
+      "subtitle": "Kōmman bwe en emman an walok im eñjake an portfolio eo am.",
+      "reset": "Reset Default",
+      "save": "Kōjparok oktak ko",
+      "saving": "Kōjparok...",
+      "chooseTemplate": "Kālet juon Template",
+      "primaryColor": "Primary Color",
+      "typography": "Typography",
+      "appearance": "Walok",
+      "corners": "Kona ko im tōrerein ko",
+      "successTitle": "Tōbrak",
+      "successMessage": "Theme preferences kar kōkāāl ilo emman",
+      "errorTitle": "Bōd",
+      "errorMessage": "Ear jab maroñ in kōjparok theme preference ko",
+      "templates": {
+        "minimalist": {
+          "name": "Minimalist",
+          "desc": "Design eo erreo im epidodo ej pedped wōt ioon men ko ie."
+        },
+        "developerDark": {
+          "name": "Developer Dark",
+          "desc": "Dark theme eo emman ñan kwalok code im tech stack ko."
+        },
+        "creative": {
+          "name": "Creative",
+          "desc": "Layout eo emourur im elap an ļap ñan rikōmman pija im rikōmman pija."
+        },
+        "executive": {
+          "name": "Executive",
+          "desc": "Layout eo emman im formal ñan ri jerbal ro ilo business."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Apple-style grid layout eo ekãl ej kwalok kin maroñ ko reoktak jen dron."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Border ko rebin im colour ko reutiej ñan juon wāween eo emman, im ejelok jorren."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Glass eo emōrā ej kōmman ioon gradient ko rekilmeej ñan juon UI eo ekãl."
+        },
+        "linkInBio": {
+          "name": "Link in Bio",
+          "desc": "Laajrak eo edik im ej jutak emman ñan mobile screen ko im social media."
+        }
+      },
+      "appearances": {
+        "light": "Meram",
+        "dark": "Marok",
+        "system": "System"
+      },
+      "cornersOptions": {
+        "sharp": "Sharp",
+        "rounded": "Rounded",
+        "pill": "Pill"
+      }
+    },
+    "feedback": {
+      "title": "Jilkintok melele ko am",
+      "subtitle": "Jipan kim kōmmane bwe en emmanlok ilo am letok nan in rejañ ko, nan in kinaak ko, ak kwalok kin bōd ko ilo application in.",
+      "categoryLabel": "Feedback Category",
+      "messageLabel": "Melele ko kin ennaan eo",
+      "messagePlaceholder": "Kwalok ñan ña ilo melele kin nan in uak eo kwoj kōnaan kwalok...",
+      "imageLabel": "Image Attachment (Optional)",
+      "imagePlaceholder": "Klik ñan upload pija ak screenshot",
+      "submitting": "Jilkintok...",
+      "submitBtn": "Jilkintok melele ko am",
+      "categories": {
+        "suggestion": "Kōmeļeļe ko im ļōmņak ko",
+        "bug": "Bug / Error Report",
+        "criticism": "Kōmeļeļe",
+        "other": "Ro jet"
+      },
+      "imageErrorTitle": "Bōd",
+      "imageErrorMessage": "Jet file ko rejjab bōk jikin kinke rejjab bōk pija ko (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Tōbrak",
+      "successMessage": "Kommol kin am uwaak! Emoj jilkintok ripoot.",
+      "submitErrorTitle": "Ear likjab",
+      "submitErrorMessage": "Ear walok juon bōd ilo ien eo kar jilkintok melele ko. Jouj im bar kajeoñ."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Kin N̄a",
+      "skills": "Kapeel ko",
+      "projects": "Jerbal ko",
+      "workExperience": "Iminene in jerbal",
+      "orgExperience": "Eñjake ilo juon jikin jerbal",
+      "education": "Jikuul",
+      "certifications": "Katakin im Kamool ko",
+      "contact": "Kōjjeļāik eō"
+    },
+    "editor": {
+      "profileInfo": "Melele ko kin profile",
+      "saving": "Kōjparok...",
+      "profilePhoto": "Pija in Profile",
+      "clickToUpload": "Klik ñan upload (JPG, PNG)",
+      "fullName": "Etan eo eobrak",
+      "fullNamePlaceholder": "e.g. ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer eo ewōr an kijejeto ñan kōmman web app ko rekāāl...",
+      "location": "Jikin",
+      "locationPlaceholder": "e.g. ",
+      "gender": "Leddik ke laddik",
+      "selectGender": "Kālet Gender",
+      "male": "Laddik",
+      "female": "Leddik",
+      "custom": "Kōjejjet",
+      "customPlaceholder": "Taip gender eo am make...",
+      "uploadCv": "Bōktok CV eo",
+      "cvFormat": "(DOC ak PDF)",
+      "preview": "Lale mokta",
+      "remove": "Jolok",
+      "clickToUploadCv": "Klik ñan upload PDF ak DOC",
+      "sections": "Section ko",
+      "removeSelected": "Jolok men ko kar kãlete",
+      "confirmRemove": "Kamool Jolok",
+      "addSection": "Kobaik Section",
+      "addAllSections": "Kobaik aolep mõttan ko",
+      "noSections": "Ejelok mõttan ko kiõ",
+      "clickToAdd": "Klik \"+ Add Section\" ñan jinoe",
+      "selectAll": "Kālet aolep",
+      "selected": "Kar kālete",
+      "dragToReorder": "Jibwe ñan bar kōllaajrake mõttan ko",
+      "livePreview": "Live Preview",
+      "addSectionsToBuild": "Kobaik mõttan ko ñan kalek portfolio eo am",
+      "now": "Kiō",
+      "current": "Ilo ien in",
+      "noExpiry": "Ejelok jemlok",
+      "see": "Lale",
+      "position": "Jikin",
+      "degree": "Tikori",
+      "certification": "Kamool",
+      "sectionsForm": {
+        "about": {
+          "label": "Kōmeļeļeik eok make",
+          "placeholder": "Kwalok ñan kim kin kwe make, bwebwenato eo am, men ko kwoj itoklimo kaki im maroñ ko am..."
+        },
+        "skills": {
+          "addPlaceholder": "Je skill innem jibwe Enter..."
+        },
+        "projects": {
+          "title": "Etan jerbal eo",
+          "titlePlaceholder": "Etan jerbal eo...",
+          "url": "URL in jerbal eo",
+          "description": "Tibdikin melele",
+          "descriptionPlaceholder": "Kōmeļeļe jidikdik kin jerbal in...",
+          "uploadThumbnail": "pija in jerbal",
+          "addProject": "Kobaik Project",
+          "projectNum": "Burojeek #",
+          "currentProject": "Menin ej juon jerbal eo ij jerbale"
+        },
+        "work": {
+          "company": "Company/Agency",
+          "companyPlaceholder": "Etan kombani eo...",
+          "position": "Jerbal/Taitōl",
+          "positionPlaceholder": "Jikin eo am...",
+          "employmentType": "Kain jerbal in",
+          "location": "Jikin",
+          "locationPlaceholder": "Jikin kwelok, ailiñ...",
+          "startDate": "Jinoe",
+          "endDate": "Ededelok",
+          "currentWork": "Ij jerbal wōt ilo tōre in .",
+          "description": "Tibdikin melele",
+          "descriptionPlaceholder": "Meļeļe in jerbal im eddo ko...",
+          "skills": "Kapeel",
+          "addExperience": "Kobaik Iminene in Jerbal",
+          "experienceNum": "Iminene #",
+          "dateError": "Ran in jemlokin ejjab maroñ in mokta jen raan in jinoe"
+        },
+        "org": {
+          "organization": "Etan Doulul eo",
+          "orgPlaceholder": "BEM University...",
+          "role": "Jerbal/Jikin",
+          "rolePlaceholder": "Division Head...",
+          "addOrg": "Kobaik jelālokjen ilo juon jikin jerbal",
+          "orgNum": "Doulul #"
+        },
+        "edu": {
+          "institution": "Jikin jikuul ko",
+          "institutionPlaceholder": "Etan jikin jikuul ak jikuul eo...",
+          "degree": "Taitol",
+          "degreePlaceholder": "S1, high school, im ko jet...",
+          "major": "Department/Field of Study",
+          "majorPlaceholder": "Informatics Engineering...",
+          "gpa": "GPA (jab aikuj)",
+          "currentStudy": "Ij katak wōt ijin",
+          "descriptionPlaceholder": "Jerbal ko im tōprak ko ilo ien katak...",
+          "addEdu": "Kobaik Jikuul",
+          "eduNum": "Jikuul #"
+        },
+        "cert": {
+          "name": "Etan Certification / Training eo",
+          "namePlaceholder": "Etan peba in kamool eo...",
+          "issuer": "Ri-kōmman bok",
+          "issuerPlaceholder": "Jikin kōmman bok ko...",
+          "issueDate": "Jinoin (Raan in Kwalok)",
+          "issueDatePlaceholder": "Kālet raan in kwalok...",
+          "expiryDate": "Emōj an dedelok (Iien eo ej jerbal)",
+          "expiryDatePlaceholder": "Kālet raan in jemlok...",
+          "noExpiry": "Peba in kamool in ejjelok raan in jemlokin",
+          "url": "URL in kamool",
+          "uploadThumbnail": "Peba in kamool / pija in kaminene",
+          "uploadThumbnailLimit": "Upload pija in certificate eo (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Kobaik Peba in Kamool",
+          "certNum": "Kamool #"
+        },
+        "contact": {
+          "contactNum": "Armij eo ñan kebaak #",
+          "platform": "Jikin kenono ak ikkure imaan",
+          "displayText": "Kwalok Text",
+          "displayTextPlaceholder": "e.g., you@email.com ak @username",
+          "url": "Link (URL)",
+          "urlPlaceholderWhatsapp": "e.g., 62812... (ilo ejelok 0)",
+          "urlPlaceholderEmail": "e.g., you@email.com",
+          "urlPlaceholderWebsite": "e.g., https://...",
+          "urlPlaceholderDefault": "e.g., etan armij",
+          "addContact": "Kobaik Contact"
+        },
+        "common": {
+          "months": {
+            "1": "Janwōde",
+            "2": "Babode",
+            "3": "Maaj",
+            "4": "Ebrol",
+            "5": "Mae",
+            "6": "Juun",
+            "7": "Julae",
+            "8": "Okwoj",
+            "9": "Jeptomba",
+            "10": "Oktoba",
+            "11": "Nobomba",
+            "12": "Tijemba"
+          },
+          "month": "Allōñ",
+          "year": "Iiō",
+          "invalidDate": "Jemlokin allōñ eo ejjab jimwe",
+          "words": "naan ko"
+        }
+      },
+      "sure": "Aet",
+      "deletePhotoTitle": "Jolok pija in profile eo am?",
+      "deletePhotoMessage": "Kwoj ke lukkun kōnan jolok pija in?",
+      "cancel": "Jolok",
+      "delete": "Jeere"
+    },
+    "cropper": {
+      "chooseBackground": "Kālet Background",
+      "cropPhoto": "Kōtlok pija eo am",
+      "useOriginal": "Kōjerbal jinoin",
+      "backgroundPresets": "Background Presets",
+      "none": "Ejellok",
+      "uploadBackground": "Upload Background",
+      "cancel": "Jolok",
+      "savePhoto": "Kōjparok pija eo",
+      "zoom": "Zoom",
+      "rotationTilt": "Rotation & Tilt",
+      "resetRotation": "Bar jeblak ñan 0°",
+      "center": "Jikin",
+      "rotateLeft": "Ukōt -90°",
+      "rotateRight": "Ukōt +90°",
+      "removeBackground": "Jolok Background",
+      "processing": "Ilo aō kōmmane pija eo am, jouj im kōttar..."
+    },
+    "cvPreview": {
+      "title": "CV Preview",
+      "downloadCv": "Bōk CV eo",
+      "download": "Taunōḷot",
+      "wordCannotPreview": "Word document ko (.doc/.docx) rejjab maroñ in lale ilo browser eo. ",
+      "downloadFile": "Bōk CV File eo",
+      "back": "Liklok",
+      "mobileMessage": "Jouj im download CV file eo ñan lale mokta.",
+      "preview": "Lale CV eo mokta",
+      "wordPreviewTitle": "Word Document Preview",
+      "wordPreviewMessage": "Word document ko (.doc/.docx) rejjab maroñ in lale ilo browser eo. Jouj im download file eo bwe kwon maroñ in lale."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Je juon melele edik kin kwe make, men ko kwoj itoklimo kaki, im mejenkajjik ko am ilo jerbal..."
+    },
+    "skills": {
+      "placeholder": "Je etan kapeel eo...",
+      "add": "Koba",
+      "enterToAdd": "Jibwe Enter ñan kobaiktok",
+      "noSkills": "Ejelok kapeel ko kar kobaiki kiõ."
+    },
+    "projects": {
+      "projectName": "Etan jerbal eo",
+      "projectNamePlaceholder": "e.g. ",
+      "projectUrl": "URL in jerbal eo",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Joñan ien",
+      "startMonth": "Jinoin Allōñ",
+      "startYear": "Jino yio",
+      "endMonth": "Jemlokin Allōñ",
+      "endYear": "Jemlokin yio",
+      "currentlyWorking": "Kiiō ej jerbal ioon menin",
+      "description": "Tibdikin melele",
+      "descriptionPlaceholder": "Kōmeļeļeik jerbal eo, jerbal eo am, im tōprak ko...",
+      "technologies": "Kein jerbal ko kar kōjerbali",
+      "addProject": "Kobaik Project",
+      "image": "pija in jerbal",
+      "removeImage": "Jolok pija eo",
+      "uploadImage": "Klik ñan bōk pija eo"
+    },
+    "work": {
+      "company": "Company/Institution",
+      "companyPlaceholder": "Etan kombani eo...",
+      "role": "Jerbal/Jikin",
+      "rolePlaceholder": "Jikin eo am...",
+      "jobType": "Kain Jerbal",
+      "selectJobType": "Kālet kain",
+      "fullTime": "Aolep raan",
+      "partTime": "Part-time",
+      "contract": "Kwōn",
+      "internship": "Jerbal ñan katak kaminene",
+      "freelance": "Rijerbal make",
+      "location": "Jikin",
+      "locationPlaceholder": "e.g. ",
+      "duration": "Joñan ien",
+      "currentlyWorking": "Ej jerbal ijin kiiō",
+      "description": "Kōmeļeļe in jerbal",
+      "descriptionPlaceholder": "Kwalok eddo ko am im tōprak ko am...",
+      "skills": "Kapeel ko rejejjet",
+      "addExperience": "Kobaik Eñjake"
+    },
+    "org": {
+      "organization": "Etan Doulul eo",
+      "organizationPlaceholder": "Etan doulul eo...",
+      "role": "Jerbal/Jikin",
+      "rolePlaceholder": "e.g. ",
+      "duration": "Joñan ien",
+      "periodFormat": "ak Free Format (e.g. 2020 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyActive": "Ej jerbal kiõ",
+      "description": "Kōmeļeļe kin jerbal",
+      "descriptionPlaceholder": "Kwalok kin jerbal ko am ak jiban ko am...",
+      "addExperience": "Kobaik Eñjake"
+    },
+    "education": {
+      "institution": "Etan jikin jikuul eo",
+      "institutionPlaceholder": "Etan jikuul ak university...",
+      "degree": "Degree/Level",
+      "degreePlaceholder": "e.g. ",
+      "major": "Major/Field of Study",
+      "majorPlaceholder": "e.g. ",
+      "gpa": "GPA / Grade",
+      "gpaPlaceholder": "e.g. ",
+      "duration": "Iien katak",
+      "periodFormat": "ak Free Format (e.g. 2018 - 2022)",
+      "periodPlaceholder": "e.g. ",
+      "currentlyStudying": "Kiiō ej katak ijin",
+      "description": "Jerbal ko / Kautiej ko",
+      "descriptionPlaceholder": "Kwalok kin jerbal in jikuul ko, doulul ko, ak nōbar ko kar bōki...",
+      "addEducation": "Kobaik Jikuul"
+    },
+    "cert": {
+      "name": "Etan Peba in Kamool",
+      "namePlaceholder": "e.g. ",
+      "issuer": "Doulul eo ej lelok",
+      "issuerPlaceholder": "e.g. ",
+      "issueDate": "Ran in lelok",
+      "expiryDate": "Ej jerbal mae",
+      "noExpiry": "Peba in kamool in ejjab jemlok an jerbal",
+      "yearPlaceholder": "ak yio (e.g. 2023)",
+      "credentialUrl": "URL in kamool",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Jelālokjen ko rej ekkejellok",
+      "addCertification": "Kobaik Peba in Kamool",
+      "image": "pija/logo",
+      "removeImage": "Jolok pija eo",
+      "uploadImage": "Klik ñan bōk pija eo"
+    },
+    "common": {
+      "months": {
+        "1": "Janwōde",
+        "2": "Babode",
+        "3": "Maaj",
+        "4": "Ebrol",
+        "5": "Mae",
+        "6": "Juun",
+        "7": "Julae",
+        "8": "Okwoj",
+        "9": "Jeptomba",
+        "10": "Oktoba",
+        "11": "Nobomba",
+        "12": "Tijemba"
+      },
+      "month": "Allōñ",
+      "year": "Iiō",
+      "invalidDate": "Jemlokin allōñ eo ejjab jimwe",
+      "words": "naan ko"
+    }
+  },
+  "settings": {
+    "title": "Jekjek ko",
+    "subtitle": "Lale joñan am portfolio im men ko kwoj kōnaan",
+    "tabs": {
+      "profile": "Bwebwenato eo aõ",
+      "security": "Kejbarok",
+      "personalization": "Kōmman ñan juon make"
+    },
+    "profile": {
+      "infoTitle": "Melele ko Redik",
+      "photo": "Pija in Profile",
+      "uploadPhoto": "Ukōt pija",
+      "fullName": "Etan eo eobrak",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Email ej kōjerbale ñan login im ejjab walok ñan armij.",
+      "portfolioUrl": "URL in Portfolio eo",
+      "saveProfile": "Kōjparok profile eo",
+      "save": "Kōjparok profile eo",
+      "accountCreated": "Account eo kar kōmmane",
+      "lastLogin": "Deloñ eo eliktata",
+      "oauthNotice": "Profile in ej kobalok ñan {{provider}} account eo am. Oktak ko ilo profile eo rej aikuj in kōmmane ikijen ri lelok jerbal eo."
+    },
+    "security": {
+      "changePassword": "Ukōt Password",
+      "currentPassword": "Password eo kiō",
+      "currentPasswordPlaceholder": "••••••••",
+      "newPassword": "Password ekãl",
+      "newPasswordPlaceholder": "••••••••",
+      "confirmPassword": "Kamool password eo ekãl",
+      "confirmPasswordPlaceholder": "••••••••",
+      "passwordRules": {
+        "length": "Enañin 8 letter ko",
+        "uppercase": "Juon leta elap (A-Z)",
+        "number": "Juon oran (0-9)",
+        "symbol": "Juon kakōlkōl (!@#$%^&*)"
+      },
+      "passwordTitle": "Paajwōt",
+      "updatePassword": "Kōkāāl Password eo",
+      "additionalSecurity": "Kōjparok ko jet",
+      "twoFactor": "Two-Factor Authentication (2FA)",
+      "twoFactorDesc": "Kōjparok account eo am ilo am kajerbal bar juon OTP code.",
+      "activeSessions": "Iien ko rej jerbal",
+      "activeSessionsDesc": "Aolep ien kōtlok lale kein jerbal ko rej deloñ.",
+      "publicVisibility": "An armij maroñ loe",
+      "hideFromSearch": "Tile Portfolio eo jen Search Engine ko",
+      "hideFromSearchDesc": "Bōbrae Google jen an index portfolio page eo am.",
+      "disable2fa": {
+        "title": "Kōjepel 2FA",
+        "description": "Are you sure you want to turn off two-factor authentication?",
+        "confirmPasswordLabel": "Likūt password eo am̧ n̄an kam̧ool",
+        "currentPasswordPlaceholder": "Password eo kiõ",
+        "cancelButton": "Kanne",
+        "confirmButton": "Kōjepel 2FA",
+        "incorrectPassword": "Password eo ebōd."
+      },
+      "setup2fa": {
+        "step1Title": "1. Scan QR Code",
+        "step1Desc": "Kōpellok authenticator app eo am im scan QR code in:",
+        "unableToScan": "Jab maroñ in scan? Kōjerbal setup key",
+        "step2Title": "2. Kamool Code eo",
+        "step2Desc": "Kōllaajrake 6-digit code eo kar kōmmane jen app eo am:",
+        "cancelButton": "Jolok",
+        "enableButton": "Kōjerbal 2FA",
+        "invalidLength": "Jouj im likit juon code 6-digit.",
+        "invalidCode": "Code in kamool eo ejjab jimwe. Jouj im bar kajeoñ."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Kajin ko",
+      "appLanguage": "Kajin App",
+      "layoutTitle": "Layout & Typography",
+      "layoutStyle": "Wāween Laajrak",
+      "layoutModern": "Modern Style (Default)",
+      "layoutClassic": "Wāween eo etto",
+      "layoutMinimalist": "Wāween eo edik",
+      "fontSize": "Joñan Font in App eo",
+      "fontSmall": "Edik",
+      "fontNormal": "Ekkar (Medium)",
+      "fontLarge": "Kileb",
+      "searchLanguage": "Pukot kajin...",
+      "languageNotFound": "Kajin eo ejjab walok",
+      "layoutElegant": "Elegant Style"
+    },
+    "saveChanges": "Kōjparok oktak ko",
+    "cancel": "Jolok",
+    "appSettings": "App Settings",
+    "logoutConfirmTitle": "Kōmeļeļeik Logout",
+    "logoutConfirmDesc": "Kwoj ke lukkun kōnan diojlok jen system in?",
+    "logoutConfirmYes": "Aet, Logout",
+    "generalError": "Ear walok juon bōd. ",
+    "success": "Tōbrak",
+    "preferencesSaved": "Kōņaan ko an app kar kōjparok ilo tōprak.",
+    "header": "Application Settings",
+    "logout": {
+      "title": "Kōmeļeļe in diwōjtok",
+      "message": "Kwoj ke lukkun kōnan diojlok jen system in?",
+      "confirm": "Aet, Logout"
+    },
+    "about": {
+      "title": "Kin Application",
+      "subtitle": "Portfolio Builder Platform",
+      "version": "Mōttan",
+      "description": "DevFolio ej juon jikin kōmman portfolio ko rekāāl kar kōmmane ñan rikōmman pija ro, rikōmman pija ro, im rikōmman pija ro remāletlet. ",
+      "license": "License & Copyright",
+      "copyright": "© 2026 DevFolio Inc. Aolep maroñ ko rej bed wot.",
+      "developer": "Rikōmman",
+      "developedBy": "Kar kōmmane jen Rifqi Naradata"
+    },
+    "deleteAccount": {
+      "title": "Jolok Account eo ñan Indeeo",
+      "menuItem": "Jolok Account",
+      "successTitle": "Tōbrak",
+      "successMessage": "Juon email in kamool kin jolok account eo emoj jilkintok.",
+      "errorTitle": "Ear likjab",
+      "errorMessage": "Ejjab maroñ jilkinlok email in kamool.",
+      "confirmationMessage": "Kwoj ke lukkun kōnan jolok am account ñan indio?",
+      "warningMessage1": "Kwonaj bōk juon email ñan kamool am jolok account eo am.",
+      "warningMessage2": "Elañe emoj kamool, aolep melele ko (portfolio, project ko, statistics) renaj jako im reban maroñ in bar jeblak.",
+      "cancel": "Kanne",
+      "confirm": "Kamool"
+    },
+    "toasts": {
+      "toastError": "Bōd",
+      "toastSuccess": "Tōbrak",
+      "toastSetup2FAFailed": "Ear jab maroñ in kōmmane 2FA. Jouj im bar kajeoñ.",
+      "toast2FAEnabled": "Two-factor authentication emoj an maroñ.",
+      "toast2FADisabled": "Two-factor authentication emoj an bōjrak.",
+      "toastSessionEnabled": "Active session monitoring emoj an maroñ.",
+      "toastSessionDisabled": "Active session monitoring emoj an bōjrak.",
+      "toastSetupKeyCopied": "Setup key eo kar copy ñan clipboard."
+    },
+    "privacy": {
+      "title": "Kien in Kōjparok Mejenkajjik",
+      "updateDate": "Kar kōkāāl āliktata: Juļae 15, 2026",
+      "intro": "Privacy Policy in ej kwalok kin ewi wawein an DevFolio bōk, kajerbal, im kejbãrok melele ko am make ñe kwoj kajerbal jerbal ko am.",
+      "section1Title": "1. Melele ko jej bōk",
+      "section1Content": "Kimij bōk melele ko kwoj letok ñe kwoj kōmmane juon am account, kōmmane juon am portfolio, im kepaak jipan eo am. ",
+      "section2Title": "2. Kōjerbal melele ko",
+      "section2Content": "Melele ko am rej kōjerbali ñan jerbal, kejbãrok, im lelok men ko ilo jerbal ko am, im bareinwõt ñan konono ibbam ikijen account eo am ak jerbal ko am.",
+      "section3Title": "3. Kōjparok Data",
+      "section3Content": "Jej kōjerbal kein kejbarok ko rejimwe ñan kejbãrok melele ko am jen an armij ro jab maroñ deloñ, kwalok, ak kokkure."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ejjab walok token in kamool.",
+    "defaultError": "Ear jab maroñ in jolok account eo. Token eo emaron kar jemlok an jerbal.",
+    "loadingTitle": "Jolok Account eo...",
+    "loadingMessage": "Jouj im kōttar, kimij kōmmane am kajitok.",
+    "successTitle": "Account eo emōj an jako",
+    "successMessage": "Aolep melele ko am emoj air jako. Kwonaaj bar jeblak...",
+    "errorTitle": "Ear jab maroñ in jolok account eo",
+    "backToHome": "Jeblak ñan mweo"
+  },
+  "forgotPassword": {
+    "minutes": "minit ko",
+    "seconds": "seconds",
+    "success": "Tōbrak",
+    "otpSentToEmail": "Juon OTP code emoj jilkintok ñan email eo am.",
+    "failed": "Ear likjab",
+    "emailNotFound": "Email eo ejjab walok.",
+    "emailThirdParty": "Email in ej register jen bar juon armij.",
+    "genericError": "Ewōr juon bōd. Jouj im bar kajeoñ.",
+    "otpVerified": "OTP code eo emoj an emman an kar kalikar.",
+    "otpExpired": "OTP code eo emoj an jemlok. Jouj im kajitok juon code ekãl.",
+    "otpInvalid": "OTP code eo ejjab jimwe.",
+    "otpResent": "Juon OTP code ekãl emoj jilkintok ñan email eo am.",
+    "otpResendFailed": "Ear jab maroñ in bar jilkintok OTP code eo. Jouj im bar kajeoñ.",
+    "passwordResetSuccess": "Password eo emoj an bar jeblak. Jouj im deloñ ilo am password ekãl.",
+    "passwordResetFailed": "Ear jab maroñ in bar kōjepļaaktok password eo.",
+    "backToLogin": "Bar jeblak ñan Login",
+    "back": "Balik",
+    "title": "Ikar meloklok password eo",
+    "description": "Kōlla email address eo ilo account eo am. Jenaaj jilkintok juon OTP code ñan bar kōjepļaaktok password eo.",
+    "emailLabel": "Email Address",
+    "sending": "Jilkintok...",
+    "sendOtp": "Jilkinlok OTP Code",
+    "verifyOtpTitle": "Kamool OTP Code eo",
+    "verifyOtpDesc": "Kōllaajrake 6 digit code eo kar jilkintok ñan email eo am ñan kamool wōn kwe.",
+    "verifying": "Kamool...",
+    "verifyOtp": "Verify OTP",
+    "resending": "Bar jilkintok...",
+    "resendOtp": "Bar Jilkintok OTP Code eo",
+    "resendCodeIn": "Bar jilkintok code eo ilo",
+    "newPasswordTitle": "Kōmman juon am password ekãl",
+    "newPasswordDesc": "Kōmman juon password ekãl im ekajur ñan kejbãrok account eo am.",
+    "newPasswordLabel": "Password ekãl",
+    "min8Chars": "En diklok jen 8 letter ko",
+    "oneUpperCase": "1 uppercase (A-Z)",
+    "oneNumber": "1 number (0-9)",
+    "oneSymbol": "1 symbol (!@#$%^&*)",
+    "confirmPasswordLabel": "Kōmeļeļeik Password eo",
+    "passwordsDoNotMatch": "Password ko rejjab errā.",
+    "resettingPassword": "Kōkāāl Password eo...",
+    "resetPassword": "Bar kōkāl password eo"
+  },
+  "verifyEmail": {
+    "resendError": "Ejjab maroñ in bar jilkintok email in kamool. Jouj im bar kajeoñ.",
+    "checkingStatus": "Lale jekjek in kamool...",
+    "title": "Lale email eo am",
+    "description": "Kōm kar jilkintok juon email in kamool ñan email address eo am. Jouj im kōpellok email eo im jibwe <1>\"Confirm Account\"</1> button eo ñan kōmman bwe en jerbal account eo am.",
+    "stepsTitle": "Bun̄tōn ko",
+    "step1": "Kōpellok email application eo am (Gmail, Yahoo, im ko jet)",
+    "step2": "Lale juon email jen DevFolio ippāñ unin kōnono eo \"Account Activation\"",
+    "step3": "Klik \"Confirm Account\" ilo email eo",
+    "step4": "Kwonaaj etal ñan peij in deloñ eo ñan am deloñ ilo",
+    "resendSuccess": "Email in kamool eo emoj an bar jilkintok!",
+    "resending": "Bar jilkintok...",
+    "resendButton": "Bar Jilkintok Email in Kamool eo",
+    "backToLogin": "Jeblak ñan Login Page",
+    "footerNote": "Kwaar jab bōk email eo ke? Lale <1>Spam</1> ak <2>Junk</2> ilo email eo am. Link in kamool eo ej jerbal ñan <3>24 awa</3>."
+  }
+}

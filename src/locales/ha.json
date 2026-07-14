@@ -1,0 +1,761 @@
+{
+  "navbar": {
+    "features": "Siffofin",
+    "templates": "Samfura",
+    "pricing": "Farashi",
+    "login": "Shiga",
+    "getStarted": "Fara",
+    "title": "DevFolio"
+  },
+  "landing": {
+    "badge": "Ƙarshen maginin fayil don masu haɓakawa",
+    "title1": "Gina ƙwararrun ku",
+    "title2": "fayil in",
+    "titleHighlight": "seconds.",
+    "subtitle": "Duk abin da kuke buƙata don nuna ƙwarewar ku, ayyukanku, da ƙwarewar ku. ",
+    "startBuilding": "Fara Gina Yanzu",
+    "viewTemplates": "Duba Samfura",
+    "fastDeployment": "Saurin turawa",
+    "liveStatus": "sunan mai amfani.dev yana raye!",
+    "featuresTitle": "Siffofin Ƙarfi",
+    "featuresSubtitle": "Muna ba da duk kayan aikin da kuke buƙata don ficewa daga taron da ƙasa aikin mafarkinku.",
+    "feature1Title": "Jawo & Zuba Mai Gina",
+    "feature1Desc": "A sauƙaƙe tsara sassan ku, ayyukanku, da ƙwarewarku tare da editan gani na mu mai hankali.",
+    "feature2Title": "Jigogi na al'ada",
+    "feature2Desc": "Zaɓi daga samfuri ƙwararru ko ƙirƙiri naku na musamman kama.",
+    "feature3Title": "Nazari na ainihi",
+    "feature3Desc": "Bibiyar baƙi, duba ayyukan da suka fi samun kulawa, da ƙari."
+  },
+  "auth": {
+    "welcomeBack": "Barka da Dawo",
+    "loginToContinue": "Shiga cikin asusun ku don ci gaba",
+    "createAccount": "Kirkira ajiya",
+    "joinCommunity": "Haɗa dubban sauran masu haɓakawa",
+    "fullName": "Cikakken suna",
+    "fullNamePlaceholder": "misali ",
+    "email": "Adireshin i-mel",
+    "emailPlaceholder": "ka@example.com",
+    "password": "Kalmar wucewa",
+    "passwordPlaceholder": "•••••••••",
+    "rememberMe": "Ka tuna da ni",
+    "forgotPassword": "Manta kalmar sirri?",
+    "signIn": "Shiga",
+    "signingIn": "Shiga...",
+    "signUp": "Shiga",
+    "signingUp": "Yin Shiga...",
+    "noAccount": "Ba ku da asusu?",
+    "hasAccount": "Kuna da asusu?",
+    "passwordRules": {
+      "title": "Dole ne kalmar wucewa ta ƙunshi:",
+      "length": "Akalla haruffa 8",
+      "uppercase": "Babban harafi ɗaya (A-Z)",
+      "number": "lamba daya (0-9)",
+      "symbol": "Alama ɗaya (!@#$%^&*)"
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "portfolioBuilder": "Mai Gina Fayil",
+      "templates": "Samfura & Jigogi",
+      "settings": "Saituna",
+      "collapse": "Rushe mashigin labarun gefe",
+      "overview": "Dubawa",
+      "profileSettings": "Saitunan Bayani",
+      "customDomain": "Yankin na Musamman",
+      "feedback": "Jawabin"
+    },
+    "header": {
+      "viewLive": "Duba Live",
+      "welcome": "Barka da zuwa,",
+      "logout": "Fita",
+      "builder": "Mai gini",
+      "livePortfolio": "Fayil ɗin kai tsaye",
+      "live": "Rayuwa"
+    },
+    "logoutModal": {
+      "title": "Fita",
+      "message": "Shin kun tabbata kuna son fita daga asusunku? ",
+      "cancel": "Soke",
+      "confirm": "Ee, Logout"
+    },
+    "slugModal": {
+      "title": "Zaɓi URL ɗin Fayil ɗin ku",
+      "message": "Wannan URL ɗin zai zama keɓaɓɓen hanyar haɗi zuwa fayil ɗin ku. ",
+      "slugPlaceholder": "sunan ku",
+      "availability": "samuwa:",
+      "available": "Akwai",
+      "unavailable": "Babu",
+      "checking": "Ana dubawa...",
+      "mustFormat": "Yana iya ƙunsar haruffa kawai, lambobi, da dashes (-)",
+      "cancel": "Soke",
+      "save": "Ajiye URL",
+      "usernameUrl": "Sunan mai amfani URL",
+      "helpText": "Ƙananan haruffa, lambobi, da dashes. ",
+      "validation": {
+        "empty": "Slug ba zai iya zama fanko ba.",
+        "min3": "Ƙananan haruffa 3.",
+        "max30": "Matsakaicin haruffa 30.",
+        "format": "Ƙananan haruffa kawai, lambobi, da dashes (-). "
+      }
+    },
+    "loadingPortfolio": "Ana loda bayanan fayil...",
+    "overview": {
+      "greetings": {
+        "morning": "Barka da Safiya",
+        "afternoon": "Barka da yamma",
+        "evening": "Barka da yamma",
+        "night": "Barka da Dare"
+      },
+      "welcome": {
+        "hi": "Sannu,",
+        "creator": "Mahalicci",
+        "desc1": "Barka da zuwa dashboard na DevFolio. An duba fayil ɗin ku",
+        "desc2": "mutum. Ci gaba da aiki!",
+        "editPortfolio": "Gyara Fayil"
+      },
+      "stats": {
+        "totalVisitors": "Jimlar Baƙi",
+        "projectViews": "Duba (Project)",
+        "activeSessions": "Zama Mai Aiki",
+        "totalLabel": "Jimlar"
+      },
+      "setup": {
+        "title": "Ci gaban Saita",
+        "completed": "Fayil ɗin ku ya cika! 🎉",
+        "inProgress": "Matakai zuwa cikakkiyar fayil.",
+        "profile": {
+          "title": "Cikakken Bayani",
+          "desc": "Ƙara suna, bio da hoton bayanin martaba."
+        },
+        "section": {
+          "title": "Ƙara Sashe",
+          "desc": "Kunna aƙalla sashe 1 a cikin fayil ɗin."
+        },
+        "project": {
+          "title": "Ƙara Project",
+          "desc": "Shigar da aƙalla 1 mafi kyawun ayyukanku."
+        },
+        "publish": {
+          "title": "Buga Fayil",
+          "desc": "Saita URL na al'ada domin jama'a su sami damar shiga shi."
+        }
+      },
+      "topProjects": {
+        "title": "Manyan Ayyuka",
+        "desc": "Ayyukan aikinku a idanun baƙi.",
+        "viewAll": "Duba Duk",
+        "empty": "Babu bayanan duba don aikin ku tukuna."
+      }
+    },
+    "themes": {
+      "title": "Samfura & Jigogi",
+      "subtitle": "Keɓance kamanni da ji na fayil ɗin jama'a.",
+      "reset": "Sake saita Tsohuwar",
+      "save": "Ajiye Canje-canje",
+      "saving": "Ana ajiyewa...",
+      "chooseTemplate": "Zaɓi Samfura",
+      "primaryColor": "Launi na Farko",
+      "typography": "Rubutun rubutu",
+      "appearance": "Bayyanar",
+      "corners": "Kusurwoyi & Iyakoki",
+      "successTitle": "Nasara",
+      "successMessage": "An sabunta zaɓin jigo cikin nasara",
+      "errorTitle": "Kuskure",
+      "errorMessage": "An kasa ajiye abubuwan da ake so",
+      "templates": {
+        "minimalist": {
+          "name": "Mafi qaranci",
+          "desc": "Tsaftataccen tsari mai sauƙi da mai da hankali kan abun ciki."
+        },
+        "developerDark": {
+          "name": "Developer Dark",
+          "desc": "Jigo mai duhu cikakke don nuna lamba da tarin fasaha."
+        },
+        "creative": {
+          "name": "Ƙirƙira",
+          "desc": "Tsari mai ban sha'awa da launi don masu zanen kaya da masu ƙirƙira."
+        },
+        "executive": {
+          "name": "Gudanarwa",
+          "desc": "Ƙwararru da shimfidar tsari don ƙwararrun kasuwanci."
+        },
+        "bentoGrid": {
+          "name": "Bento Grid",
+          "desc": "Tsarin grid irin na zamani na Apple wanda ke nuna fasaha daban-daban da kyau."
+        },
+        "neoBrutalism": {
+          "name": "Neo-Brutalism",
+          "desc": "Ƙaƙƙarfan iyakoki da manyan launuka masu ban sha'awa don yanayi mai kyau, kallon mara ban tausayi."
+        },
+        "glassmorphism": {
+          "name": "Glassmorphism",
+          "desc": "Gilashin da aka daskare akan gradients masu launi don UI na zamani mai sumul."
+        },
+        "linkInBio": {
+          "name": "Link in Bio",
+          "desc": "Karamin shimfidar shimfidar wuri wanda aka inganta don allon wayar hannu da kafofin watsa labarun."
+        }
+      },
+      "appearances": {
+        "light": "Haske",
+        "dark": "Duhu",
+        "system": "Tsari"
+      },
+      "cornersOptions": {
+        "sharp": "Kaifi",
+        "rounded": "Zagaye",
+        "pill": "Kwaya"
+      }
+    },
+    "feedback": {
+      "title": "Aika Ra'ayin",
+      "subtitle": "Taimaka mana don inganta shi ta hanyar samar da shawarwari, zargi, ko ba da rahoton kurakurai akan wannan aikace-aikacen.",
+      "categoryLabel": "Rukunin martani",
+      "messageLabel": "Cikakken Bayani",
+      "messagePlaceholder": "Faɗa mini dalla-dalla game da ra'ayoyin da kuke son isarwa...",
+      "imageLabel": "Haɗin Hoto (Na zaɓi)",
+      "imagePlaceholder": "Danna don loda hoto ko hoton bidiyo",
+      "submitting": "Aiko...",
+      "submitBtn": "Aika Ra'ayin",
+      "categories": {
+        "suggestion": "Shawarwari & Ra'ayoyi",
+        "bug": "Rahoton Bug / Kuskure",
+        "criticism": "Suka",
+        "other": "Wasu"
+      },
+      "imageErrorTitle": "Kuskure",
+      "imageErrorMessage": "Wasu fayiloli ana ƙi su saboda ba a tallafawa tsarin hoto (JPG, PNG, GIF, WEBP)",
+      "successTitle": "Nasara",
+      "successMessage": "Na gode da ra'ayin ku! An aika da rahoto.",
+      "submitErrorTitle": "Kasa",
+      "submitErrorMessage": "An sami kuskure yayin aika martani. Da fatan za a sake gwadawa."
+    }
+  },
+  "builder": {
+    "sections": {
+      "aboutMe": "Akai na",
+      "skills": "Ƙwarewa",
+      "projects": "Ayyuka",
+      "workExperience": "Gwanintan aiki",
+      "orgExperience": "Kwarewar Ƙungiya",
+      "education": "Ilimi",
+      "certifications": "Horowa & Takaddun shaida",
+      "contact": "Tuntube Ni"
+    },
+    "editor": {
+      "profileInfo": "Bayanan Bayani",
+      "saving": "Ana ajiyewa...",
+      "profilePhoto": "Hoton Bayanan Bayani",
+      "clickToUpload": "Danna don loda (JPG, PNG)",
+      "fullName": "Cikakken suna",
+      "fullNamePlaceholder": "misali ",
+      "bio": "Bio",
+      "bioPlaceholder": "Fullstack Developer tare da sha'awar gina kayan aikin gidan yanar gizo na zamani...",
+      "location": "Wuri",
+      "locationPlaceholder": "misali ",
+      "gender": "Jinsi",
+      "selectGender": "Zaɓi Jinsi",
+      "male": "Namiji",
+      "female": "Mace",
+      "custom": "Custom",
+      "customPlaceholder": "Rubuta jinsi na al'ada...",
+      "uploadCv": "Sanya CV",
+      "cvFormat": "(DOC ko PDF)",
+      "preview": "Dubawa",
+      "remove": "Cire",
+      "clickToUploadCv": "Danna don loda PDF ko DOC",
+      "sections": "Sassan",
+      "removeSelected": "Cire Zaɓin",
+      "confirmRemove": "Tabbatar Cire",
+      "addSection": "Ƙara Sashe",
+      "addAllSections": "Ƙara Duk Sashe",
+      "noSections": "Babu sassan tukuna",
+      "clickToAdd": "Danna \"+ Ƙara Sashe\" don farawa",
+      "selectAll": "Zaɓi Duk",
+      "selected": "zaba",
+      "dragToReorder": "Ja don sake tsara sassan",
+      "livePreview": "Preview Live",
+      "addSectionsToBuild": "Ƙara sassan don gina fayil ɗin ku",
+      "now": "Yanzu",
+      "current": "A halin yanzu",
+      "noExpiry": "Babu Karewa",
+      "see": "Duba",
+      "position": "Matsayi",
+      "degree": "Digiri",
+      "certification": "Takaddun shaida",
+      "sectionsForm": {
+        "about": {
+          "label": "Bayanin kanku",
+          "placeholder": "Faɗa mana game da kanku, tarihinku, abubuwan sha'awa da ƙwarewarku..."
+        },
+        "skills": {
+          "addPlaceholder": "Buga gwaninta sannan danna Shigar..."
+        },
+        "projects": {
+          "title": "Sunan aikin",
+          "titlePlaceholder": "Sunan aikin...",
+          "url": "URL na aikin",
+          "description": "Bayani",
+          "descriptionPlaceholder": "Takaitaccen bayanin aikin...",
+          "uploadThumbnail": "Hoton aikin",
+          "addProject": "Ƙara Project",
+          "projectNum": "Aikin #",
+          "currentProject": "Wannan aiki ne da nake aiki a kai"
+        },
+        "work": {
+          "company": "Kamfani/Aiki",
+          "companyPlaceholder": "Sunan kamfani...",
+          "position": "Matsayi / Take",
+          "positionPlaceholder": "Matsayinku...",
+          "employmentType": "Nau'in aiki",
+          "location": "Wuri",
+          "locationPlaceholder": "Garin, Kasa...",
+          "startDate": "Fara",
+          "endDate": "An gama",
+          "currentWork": "Har yanzu ina aiki a halin yanzu",
+          "description": "Bayani",
+          "descriptionPlaceholder": "Bayanin aiki da nauyi...",
+          "skills": "Ƙwarewa",
+          "addExperience": "Ƙara Ƙwarewar Aiki",
+          "experienceNum": "Kwarewa #",
+          "dateError": "Ƙarshen kwanan wata ba zai iya zama a baya fiye da ranar farawa ba"
+        },
+        "org": {
+          "organization": "Sunan Kungiyar",
+          "orgPlaceholder": "Jami'ar BEM...",
+          "role": "Matsayi / Matsayi",
+          "rolePlaceholder": "Shugaban sashen...",
+          "addOrg": "Ƙara Ƙwarewar Ƙungiya",
+          "orgNum": "Ƙungiya #"
+        },
+        "edu": {
+          "institution": "Cibiyoyin Ilimi",
+          "institutionPlaceholder": "Sunan jami'a ko makaranta...",
+          "degree": "Take",
+          "degreePlaceholder": "S1, sakandare, da dai sauransu...",
+          "major": "Sashen/Filin Nazari",
+          "majorPlaceholder": "Injiniya Informatics...",
+          "gpa": "GPA (na zaɓi)",
+          "currentStudy": "Har yanzu ina koyo a nan",
+          "descriptionPlaceholder": "Ayyuka da nasarori yayin karatu...",
+          "addEdu": "Ƙara Ilimi",
+          "eduNum": "Ilimi #"
+        },
+        "cert": {
+          "name": "Sunan Takaddun shaida / Horarwa",
+          "namePlaceholder": "Sunan takaddun shaida...",
+          "issuer": "Mawallafi",
+          "issuerPlaceholder": "Cibiyar bugawa...",
+          "issueDate": "Fara (Kwanan Bugawa)",
+          "issueDatePlaceholder": "Zaɓi kwanan watan bugawa...",
+          "expiryDate": "An Kammala (Lokaci Ingantacce)",
+          "expiryDatePlaceholder": "Zaɓi ranar karewa...",
+          "noExpiry": "Wannan takardar shaidar ba ta da ranar karewa",
+          "url": "Takardun URL",
+          "uploadThumbnail": "Takaddun shaida / Hoton Horarwa",
+          "uploadThumbnailLimit": "Sanya hoton takardar shaidar (JPG/PNG/WEBP, max 2MB)",
+          "addCert": "Ƙara Takaddun shaida",
+          "certNum": "Takaddama #"
+        },
+        "contact": {
+          "contactNum": "Tuntuɓar #",
+          "platform": "Dandalin",
+          "displayText": "Nuni Rubutun",
+          "displayTextPlaceholder": "misali, you@email.com ko @username",
+          "url": "mahada (URL)",
+          "urlPlaceholderWhatsapp": "misali, 62812... (ba tare da jagora 0)",
+          "urlPlaceholderEmail": "misali, you@email.com",
+          "urlPlaceholderWebsite": "misali, https://...",
+          "urlPlaceholderDefault": "misali, sunan mai amfani",
+          "addContact": "Ƙara lamba"
+        },
+        "common": {
+          "months": {
+            "1": "Janairu",
+            "2": "Fabrairu",
+            "3": "Maris",
+            "4": "Afrilu",
+            "5": "Mayu",
+            "6": "Yuni",
+            "7": "Yuli",
+            "8": "Agusta",
+            "9": "Satumba",
+            "10": "Oktoba",
+            "11": "Nuwamba",
+            "12": "Disamba"
+          },
+          "month": "Watan",
+          "year": "Shekara",
+          "invalidDate": "Watan Ƙarshe mara inganci",
+          "words": "kalmomi"
+        }
+      },
+      "sure": "Tabbas",
+      "deletePhotoTitle": "Goge Hoton Bayanan Bayani?",
+      "deletePhotoMessage": "Shin kun tabbata kuna son share wannan hoton bayanin martaba?",
+      "cancel": "Soke",
+      "delete": "Share"
+    },
+    "cropper": {
+      "chooseBackground": "Zaɓi Baya",
+      "cropPhoto": "Shuka Hoton ku",
+      "useOriginal": "Yi amfani da asali",
+      "backgroundPresets": "Bayanan Fage",
+      "none": "Babu",
+      "uploadBackground": "Loda Bayanin",
+      "cancel": "Soke",
+      "savePhoto": "Ajiye Hoto",
+      "zoom": "Zuƙowa",
+      "rotationTilt": "Juyawa & karkata",
+      "resetRotation": "Sake saita zuwa 0°",
+      "center": "Cibiyar",
+      "rotateLeft": "Juya -90°",
+      "rotateRight": "Juya +90°",
+      "removeBackground": "Cire Fage",
+      "processing": "Ana sarrafa hoton ku, da fatan za a jira..."
+    },
+    "cvPreview": {
+      "title": "Binciken CV",
+      "downloadCv": "Zazzage CV",
+      "download": "Zazzagewa",
+      "wordCannotPreview": "Takardun kalmomi (.doc/.docx) ba za a iya yin samfoti na asali ba a cikin mai lilo. ",
+      "downloadFile": "Zazzage fayil ɗin CV",
+      "back": "Baya",
+      "mobileMessage": "Da fatan za a sauke fayil ɗin CV don samfoti.",
+      "preview": "Duba CV",
+      "wordPreviewTitle": "Duban Takardun Kalma",
+      "wordPreviewMessage": "Takardun kalmomi (.doc/.docx) ba za a iya yin samfoti na asali ba a cikin mazugi. Da fatan za a sauke fayil ɗin don duba shi."
+    }
+  },
+  "sectionEditors": {
+    "about": {
+      "placeholder": "Rubuta taƙaitaccen bayani game da kanku, abubuwan sha'awa, da burin aiki..."
+    },
+    "skills": {
+      "placeholder": "Buga sunan fasaha...",
+      "add": "Ƙara",
+      "enterToAdd": "Latsa Shigar don ƙarawa",
+      "noSkills": "Ba a ƙara ƙwarewa ba tukuna."
+    },
+    "projects": {
+      "projectName": "Sunan aikin",
+      "projectNamePlaceholder": "misali ",
+      "projectUrl": "URL na aikin",
+      "projectUrlPlaceholder": "https://...",
+      "duration": "Tsawon lokaci",
+      "startMonth": "Watan farawa",
+      "startYear": "Shekarar farawa",
+      "endMonth": "Watan Ƙarshe",
+      "endYear": "Ƙarshen Shekara",
+      "currentlyWorking": "A halin yanzu aiki a kan wannan",
+      "description": "Bayani",
+      "descriptionPlaceholder": "Bayyana aikin, rawar ku, da nasarorin da kuka samu...",
+      "technologies": "Amfani da Fasaha",
+      "addProject": "Ƙara Project",
+      "image": "Hoton aikin",
+      "removeImage": "Cire Hoto",
+      "uploadImage": "Danna don loda hoto"
+    },
+    "work": {
+      "company": "Kamfani/Cibiyar",
+      "companyPlaceholder": "Sunan kamfani...",
+      "role": "Matsayi / Matsayi",
+      "rolePlaceholder": "Matsayinku...",
+      "jobType": "Nau'in Aiki",
+      "selectJobType": "Zaɓi nau'in",
+      "fullTime": "Cikakken lokaci",
+      "partTime": "Dan lokaci",
+      "contract": "Kwangila",
+      "internship": "Ƙwararren horo",
+      "freelance": "Mai zaman kansa",
+      "location": "Wuri",
+      "locationPlaceholder": "misali ",
+      "duration": "Tsawon lokaci",
+      "currentlyWorking": "A halin yanzu yana aiki a nan",
+      "description": "Bayanin Aiki",
+      "descriptionPlaceholder": "Bayyana muhimman ayyukanku da nasarorinku...",
+      "skills": "Takamaiman Ƙwarewa",
+      "addExperience": "Ƙara Kwarewa"
+    },
+    "org": {
+      "organization": "Sunan Kungiyar",
+      "organizationPlaceholder": "Sunan kungiya...",
+      "role": "Matsayi / Matsayi",
+      "rolePlaceholder": "misali ",
+      "duration": "Tsawon lokaci",
+      "periodFormat": "ko Tsarin Kyauta (misali 2020 - 2022)",
+      "periodPlaceholder": "misali ",
+      "currentlyActive": "A halin yanzu yana aiki",
+      "description": "Bayanin Ayyuka",
+      "descriptionPlaceholder": "Bayyana ayyukanku ko gudummawar ku...",
+      "addExperience": "Ƙara Kwarewa"
+    },
+    "education": {
+      "institution": "Sunan Cibiyar",
+      "institutionPlaceholder": "Sunan makaranta ko jami'a...",
+      "degree": "Digiri/Mataki",
+      "degreePlaceholder": "misali ",
+      "major": "Manyan/Filin Nazari",
+      "majorPlaceholder": "misali ",
+      "gpa": "GPA / daraja",
+      "gpaPlaceholder": "misali ",
+      "duration": "Tsawon Ilimi",
+      "periodFormat": "ko Tsarin Kyauta (misali 2018 - 2022)",
+      "periodPlaceholder": "misali ",
+      "currentlyStudying": "A halin yanzu karatu a nan",
+      "description": "Ayyuka / Daraja",
+      "descriptionPlaceholder": "Bayyana ayyukan ilimi, kungiyoyi, ko karramawar da aka samu...",
+      "addEducation": "Ƙara Ilimi"
+    },
+    "cert": {
+      "name": "Sunan Takaddun shaida",
+      "namePlaceholder": "misali ",
+      "issuer": "Ƙungiya mai bayarwa",
+      "issuerPlaceholder": "misali ",
+      "issueDate": "Ranar fitowa",
+      "expiryDate": "Inganci Har",
+      "noExpiry": "Wannan shaidar ba ta ƙarewa",
+      "yearPlaceholder": "ko Shekara (misali 2023)",
+      "credentialUrl": "Takardun URL",
+      "credentialUrlPlaceholder": "https://...",
+      "skills": "Dabarun Dabarun",
+      "addCertification": "Ƙara Takaddun shaida",
+      "image": "Hoto/Logo",
+      "removeImage": "Cire Hoto",
+      "uploadImage": "Danna don loda hoto"
+    },
+    "common": {
+      "months": {
+        "1": "Janairu",
+        "2": "Fabrairu",
+        "3": "Maris",
+        "4": "Afrilu",
+        "5": "Mayu",
+        "6": "Yuni",
+        "7": "Yuli",
+        "8": "Agusta",
+        "9": "Satumba",
+        "10": "Oktoba",
+        "11": "Nuwamba",
+        "12": "Disamba"
+      },
+      "month": "Watan",
+      "year": "Shekara",
+      "invalidDate": "Watan Ƙarshe mara inganci",
+      "words": "kalmomi"
+    }
+  },
+  "settings": {
+    "title": "Saituna",
+    "subtitle": "Sarrafa bayanin martabar fayil ɗinku da abubuwan da ake so",
+    "tabs": {
+      "profile": "Bayanan Bayani na",
+      "security": "Tsaro",
+      "personalization": "Keɓantawa"
+    },
+    "profile": {
+      "infoTitle": "Bayanan asali",
+      "photo": "Hoton Bayanan Bayani",
+      "uploadPhoto": "Canja Hoto",
+      "fullName": "Cikakken suna",
+      "fullNamePlaceholder": "John Doe",
+      "email": "Adireshin i-mel",
+      "emailPlaceholder": "john@example.com",
+      "emailHelp": "Ana amfani da imel don shiga kuma ba a nunawa a fili.",
+      "portfolioUrl": "URL fayil",
+      "saveProfile": "Ajiye bayanan martaba",
+      "save": "Ajiye bayanan martaba",
+      "accountCreated": "An Ƙirƙiri Asusu",
+      "lastLogin": "Ƙarshe Login",
+      "oauthNotice": "An haɗa wannan bayanin martaba zuwa asusunku na {{mai ba da izini}}. Dole ne a yi canje-canjen bayanan martaba ta hanyar mai ba da sabis."
+    },
+    "security": {
+      "changePassword": "Canza kalmar shiga",
+      "currentPassword": "kalmar shiga na halin yanzu",
+      "currentPasswordPlaceholder": "•••••••••",
+      "newPassword": "Sabuwar kalmar sirri",
+      "newPasswordPlaceholder": "•••••••••",
+      "confirmPassword": "Tabbatar da Sabon Kalmar wucewa",
+      "confirmPasswordPlaceholder": "•••••••••",
+      "passwordRules": {
+        "length": "Akalla haruffa 8",
+        "uppercase": "Babban harafi ɗaya (A-Z)",
+        "number": "lamba daya (0-9)",
+        "symbol": "Alama ɗaya (!@#$%^&*)"
+      },
+      "passwordTitle": "Kalmar wucewa",
+      "updatePassword": "Sabunta kalmar wucewa",
+      "additionalSecurity": "Ƙarin Tsaro",
+      "twoFactor": "Tabbatar da Factor Biyu (2FA)",
+      "twoFactorDesc": "Kiyaye asusunku ta amfani da ƙarin lambar OTP.",
+      "activeSessions": "Zama Mai Aiki",
+      "activeSessionsDesc": "Koyaushe ba da izinin saka idanu na na'urorin shiga.",
+      "publicVisibility": "Ganuwa Jama'a",
+      "hideFromSearch": "Ɓoye fayil ɗin daga Injin Bincike",
+      "hideFromSearchDesc": "Hana Google daga fiddawa shafin ku na fayil ɗin jama'a.",
+      "disable2fa": {
+        "title": "Kashe 2FA",
+        "description": "Shin kun tabbata kuna son kashe tantancewar abubuwa biyu?",
+        "confirmPasswordLabel": "Shigar da kalmar wucewa don tabbatarwa",
+        "currentPasswordPlaceholder": "Kalmar sirri na yanzu",
+        "cancelButton": "Soke",
+        "confirmButton": "Kashe 2FA",
+        "incorrectPassword": "Kalmar sirri mara daidai."
+      },
+      "setup2fa": {
+        "step1Title": "1. Duba lambar QR",
+        "step1Desc": "Bude app ɗin mai tabbatarwa kuma bincika lambar QR mai zuwa:",
+        "unableToScan": "An kasa duba? Yi amfani da maɓallin saitin",
+        "step2Title": "2. Tabbatar da Code",
+        "step2Desc": "Shigar da lambar lambobi 6 da app ɗin ku ya samar:",
+        "cancelButton": "Soke",
+        "enableButton": "Kunna 2FA",
+        "invalidLength": "Da fatan za a shigar da lambar lambobi 6.",
+        "invalidCode": "Lambar tabbatarwa mara inganci. Da fatan za a sake gwadawa."
+      }
+    },
+    "personalization": {
+      "languageTitle": "Sarrafa Harshe",
+      "appLanguage": "Harshen App",
+      "layoutTitle": "Layout & Rubutun rubutu",
+      "layoutStyle": "Salon Salon",
+      "layoutModern": "Salon Zamani (Tsoffin)",
+      "layoutClassic": "Salon Classic",
+      "layoutMinimalist": "Karamin Salon",
+      "fontSize": "Girman Font App",
+      "fontSmall": "Karami",
+      "fontNormal": "Na al'ada (Matsakaici)",
+      "fontLarge": "Babba",
+      "searchLanguage": "Bincika harshen...",
+      "languageNotFound": "Ba a samo harshe ba",
+      "layoutElegant": "M Salo"
+    },
+    "saveChanges": "Ajiye Canje-canje",
+    "cancel": "Soke",
+    "appSettings": "Saitunan App",
+    "logoutConfirmTitle": "Tabbatar da Logout",
+    "logoutConfirmDesc": "Shin kun tabbata kuna son fita daga tsarin?",
+    "logoutConfirmYes": "Ee, Logout",
+    "generalError": "An sami kuskure ",
+    "success": "Nasara",
+    "preferencesSaved": "An adana abubuwan da aka zaɓa cikin nasara.",
+    "header": "Saitunan Aikace-aikace",
+    "logout": {
+      "title": "Tabbatar da Fita",
+      "message": "Shin kun tabbata kuna son fita daga tsarin?",
+      "confirm": "Ee, Logout"
+    },
+    "about": {
+      "title": "Game da Aikace-aikacen",
+      "subtitle": "Platform Builder Portfolio",
+      "version": "Sigar",
+      "description": "DevFolio dandamali ne na ginin fayil na zamani wanda aka tsara don masu haɓakawa, masu ƙira, da ƙwararrun masu ƙirƙira. ",
+      "license": "Lasisi & Haƙƙin mallaka",
+      "copyright": "© 2026 DevFolio Inc. Duk haƙƙin mallaka.",
+      "developer": "Mai haɓakawa",
+      "developedBy": "Rifqi Naradata ne ya haɓaka"
+    },
+    "deleteAccount": {
+      "title": "Share Account na dindindin",
+      "menuItem": "Share Account",
+      "successTitle": "Nasara",
+      "successMessage": "An aika da imel ɗin tabbatar da gogewa.",
+      "errorTitle": "Kasa",
+      "errorMessage": "An kasa aika imel na tabbatarwa.",
+      "confirmationMessage": "Ka tabbata kana son share asusunka na dindindin?",
+      "warningMessage1": "Za ku karɓi imel don tabbatar da gogewar asusu.",
+      "warningMessage2": "Idan an tabbatar, duk bayanai (fayil, ayyuka, ƙididdiga) za a share su har abada kuma ba za a iya dawo dasu ba.",
+      "cancel": "Soke",
+      "confirm": "Tabbatarwa"
+    },
+    "toasts": {
+      "toastError": "Kuskure",
+      "toastSuccess": "Nasara",
+      "toastSetup2FAFailed": "An kasa saita 2FA. Da fatan za a sake gwadawa.",
+      "toast2FAEnabled": "An kunna tabbatar da abubuwa biyu.",
+      "toast2FADisabled": "An kashe ingantaccen abu biyu.",
+      "toastSessionEnabled": "An kunna saka idanu mai aiki.",
+      "toastSessionDisabled": "An kashe aiki mai aiki sa ido.",
+      "toastSetupKeyCopied": "Maɓallin saitin an kwafi zuwa allo."
+    },
+    "privacy": {
+      "title": "takardar kebantawa",
+      "updateDate": "An sabunta ta ƙarshe: Yuli 15, 2026",
+      "intro": "Wannan Dokar Sirri tana bayanin yadda DevFolio ke tattarawa, amfani da kuma kare keɓaɓɓen bayanin ku lokacin amfani da ayyukanmu.",
+      "section1Title": "1. Bayanan da Muke Tattara",
+      "section1Content": "Muna tattara bayanan da kuke bayarwa kai tsaye lokacin ƙirƙirar asusu, gina fayil, da tuntuɓar tallafin mu. ",
+      "section2Title": "2. Amfani da Bayani",
+      "section2Content": "Ana amfani da bayanin ku don aiki, kulawa, da samar da fasalulluka na ayyukanmu, da kuma sadarwa tare da ku game da asusunku ko ayyukanku.",
+      "section3Title": "3. Tsaron Bayanai",
+      "section3Content": "Muna aiwatar da matakan tsaro masu ma'ana don kare bayananku daga samun izini mara izini, bayyanawa, ko lalata."
+    }
+  },
+  "confirmDeleteAccount": {
+    "missingToken": "Ba a sami alamar tabbatarwa ba.",
+    "defaultError": "An kasa share asusun. Wataƙila alamar ta ƙare.",
+    "loadingTitle": "Share Account...",
+    "loadingMessage": "Da fatan za a jira, muna sarrafa buƙatarku.",
+    "successTitle": "An Yi Nasarar Share Asusu",
+    "successMessage": "An share duk bayanan ku na dindindin. Za a tura ku...",
+    "errorTitle": "An kasa Share Account",
+    "backToHome": "Koma Gida"
+  },
+  "forgotPassword": {
+    "minutes": "minti",
+    "seconds": "na biyu",
+    "success": "Nasara",
+    "otpSentToEmail": "An aika lambar OTP zuwa imel ɗin ku.",
+    "failed": "Kasa",
+    "emailNotFound": "Ba a sami imel ba.",
+    "emailThirdParty": "An yi rajistar wannan imel ta ɓangare na uku.",
+    "genericError": "Akwai kuskure. Da fatan za a sake gwadawa.",
+    "otpVerified": "An yi nasarar tabbatar da lambar OTP.",
+    "otpExpired": "Lambar OTP ta ƙare. Da fatan za a nemi sabon lamba.",
+    "otpInvalid": "Lambar OTP mara aiki.",
+    "otpResent": "An aika sabon lambar OTP zuwa imel ɗin ku.",
+    "otpResendFailed": "An kasa sake aika lambar OTP. Da fatan za a sake gwadawa.",
+    "passwordResetSuccess": "An yi nasarar sake saita kalmar wucewa. Da fatan za a shiga da sabon kalmar sirrinku.",
+    "passwordResetFailed": "An kasa sake saita kalmar wucewa.",
+    "backToLogin": "Komawa Shiga",
+    "back": "Komawa",
+    "title": "Manta kalmar sirri",
+    "description": "Shigar da adireshin imel da aka yi rajista akan asusunku. Za mu aika lambar OTP don sake saita kalmar wucewa.",
+    "emailLabel": "Adireshin i-mel",
+    "sending": "Aika...",
+    "sendOtp": "Aika lambar OTP",
+    "verifyOtpTitle": "Tabbatar da lambar OTP",
+    "verifyOtpDesc": "Shigar da lambar lambobi 6 da aka aika zuwa imel ɗin ku don tabbatar da ainihin ku.",
+    "verifying": "Tabbatarwa...",
+    "verifyOtp": "Tabbatar da OTP",
+    "resending": "Sake aika...",
+    "resendOtp": "Sake aika lambar OTP",
+    "resendCodeIn": "Sake aika lambar ciki",
+    "newPasswordTitle": "Ƙirƙiri Sabuwar Kalmar wucewa",
+    "newPasswordDesc": "Ƙirƙiri sabon kalmar sirri mai ƙarfi don kiyaye asusunku.",
+    "newPasswordLabel": "Sabuwar kalmar sirri",
+    "min8Chars": "Ƙananan haruffa 8",
+    "oneUpperCase": "1 babban harafi (A-Z)",
+    "oneNumber": "lamba 1 (0-9)",
+    "oneSymbol": "1 alama (!@#$%^&*)",
+    "confirmPasswordLabel": "tabbata kalmar shiga",
+    "passwordsDoNotMatch": "Kalmomin sirri ba su dace ba.",
+    "resettingPassword": "Sake saita kalmar wucewa...",
+    "resetPassword": "Sake saita kalmar wucewa"
+  },
+  "verifyEmail": {
+    "resendError": "An kasa sake aika imel ɗin tabbatarwa. Da fatan za a sake gwadawa.",
+    "checkingStatus": "Ana duba halin tabbatarwa...",
+    "title": "Duba Imel ɗinku",
+    "description": "Mun aika da imel ɗin tabbatarwa zuwa adireshin imel ɗin ku. Da fatan za a buɗe imel ɗin ku danna maɓallin <1>\"Tabbatar da Asusu\"</1> don kunna asusun ku.",
+    "stepsTitle": "Matakai",
+    "step1": "Bude aikace-aikacen imel ɗin ku (Gmail, Yahoo, da sauransu)",
+    "step2": "Nemo imel daga DevFolio mai taken \"Kunna Asusu\"",
+    "step3": "Danna maballin \"Confirm Account\" a cikin imel",
+    "step4": "Za a tura ku zuwa shafin shiga don shiga",
+    "resendSuccess": "An sake aika imel ɗin tabbatarwa!",
+    "resending": "Sakewa...",
+    "resendButton": "Sake aika Tabbacin Imel",
+    "backToLogin": "Komawa Shafin Shiga",
+    "footerNote": "Ba a karɓi imel ɗin ba? Duba babban fayil ɗin <1>Spam</1> ko <2>Junk</2> a cikin imel ɗin ku. Hanyar tabbatarwa tana aiki na <3>awanni 24</3>."
+  }
+}
