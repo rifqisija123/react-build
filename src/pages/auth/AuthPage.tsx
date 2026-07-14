@@ -41,7 +41,7 @@ export const AuthPage = () => {
 
   // Google OAuth Redirect Flow
   const GOOGLE_CLIENT_ID = '457828642125-qdb6jv3rs11nud2f9qap38hr0ihq16u8.apps.googleusercontent.com';
-  const GOOGLE_REDIRECT_URI = 'http://localhost:5173/login';
+  const GOOGLE_REDIRECT_URI = 'https://devfoliioo.netlify.app/login';
 
   const handleGoogleLogin = () => {
     const params = new URLSearchParams({
